@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Waktu anjeun leumpang, léngkah anjeun moal nyieut; mun anjeun lumpat, anjeun moal sileungkang.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "waktu anjeun leumpang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nyieut"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "léngkah anjeun"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "anjeun lumpat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "sileungkang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:54:49.578764477Z",
+  "model": "glm-5.3"
+}

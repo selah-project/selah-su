@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Dengengen ⟨את⟩ kecap-kecap perjangjiean ieu, sarta omongkeun ka lalaki-lalaki Yehuda jeung ka pangeusi Yerushalaim",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dengegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap perjangjiean"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjangjiean"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "sarta omongkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki-lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "pangeusi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T13:26:13.686625538Z",
+  "model": "glm-5.3"
+}

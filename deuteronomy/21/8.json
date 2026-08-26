@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Ngahampura, hai Yahwe, ka umat Anjeun Yisrael, nu Anjeun geus ngabébaskeun; jeung ulah mapaskeun getih nu tanpa salah di tengah-tengah umat Anjeun Yisrael; mangka getih éta kaampuran ka arannya.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "ngahampura"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ka umat Anjeun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "Anjeun geus ngabébaskeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mapaskeun"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nu tanpa salah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat Anjeun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "mangka kaampuran"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka arannya"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:46.289513579Z",
+  "model": "glm-5.3"
+}

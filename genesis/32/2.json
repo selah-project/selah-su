@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung Yaakov leumpang dina lampahna, jeung utusan-utusan Elohim patepung jeunganana.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Jeung Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "dina lampahna"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jeunganana"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:09.672293364Z",
+  "model": "glm-5.3"
+}

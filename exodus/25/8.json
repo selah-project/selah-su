@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung aranjeunna barieun nyieun Kauringan hiji tempat suci, sangkan Kauringan nyicingan di tengah-tengah maranehna,",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "barieun nyieun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Kauringan"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tempat suci"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "nyicingan Kauringan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di tengah-tengah maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:17.405549047Z",
+  "model": "glm-5.3"
+}

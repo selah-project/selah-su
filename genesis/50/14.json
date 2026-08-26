@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Sarta Yosef balik deui ka Mitsrayim, manéhna jeung saudara-saudarana, jeung sadaya nu munjul ka ⟨את⟩ manéhna pikeun nguburkeun ⟨את⟩ bapana, sanggeus nguburkeunana ⟨את⟩ bapana.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sarta balik deui"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "jeung saudara-saudarana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "nu munjul"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "pikeun nguburkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "nguburkeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:08.283004188Z",
+  "model": "glm-5.3"
+}

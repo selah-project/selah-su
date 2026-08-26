@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Ngajawab maranehna sarta ngomong ka Nevukhadnetsar, hai raja: Dunungan raja, hirup ⟨salawasna⟩!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Ngajawab"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "ka Nevukhadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "hai raja"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "dunungan raja"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "⟨salawasna⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T15:42:54.390358182Z",
+  "model": "glm-5.3"
+}

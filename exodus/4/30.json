@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng Aharan ngomongkeun ⟨את⟩ sadaya kecap-kecap nu diparéntahkeun Yahwe ka Moshe, sarta mawa ⟨tanda-tanda⟩ éta di payuneun panon ⟨bangsa⟩ éta.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tanda-tanda"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di payuneun panon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:15.394186858Z",
+  "model": "glm-5.3"
+}

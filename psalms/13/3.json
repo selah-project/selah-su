@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Nepi ka iraha deui abdi narangtay dina jiwa abdi, kasedih dina hate abdi poé-poé? Nepi ka iraha deui musuh abdi diluhurkeun tina abdi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "iraha deui"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "narangtay"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "timbang-timbang"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "dina jiwa abdi"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kasedih"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "dina hate abdi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "iraha deui"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "diluhurkeun"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh abdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tina abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:27.099576916Z",
+  "model": "glm-5.3"
+}

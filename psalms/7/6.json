@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "mugi musuh ngudag nefesh kuring sarta ngahontal, mungi nginjak ka taneuh hirup kuring, sarta mugi kabungsangan kuring nyicingan dina keusik. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "mugi ngudag"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "sarta ngahontal"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "sarta nginjak"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka taneuh"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hirup kuring"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "sarta kabungsangan kuring"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "dina keusik"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "mugi nyicingan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:02.518888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Pangbébaskan abdi tina <darah-darah>, Elohim, Elohim kajolotan abdi, makeun lidah abdi baris sorakeun kabenaran-Mu.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "pangbébaskan abdi"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "tina getih-getih"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "kajolotan abdi"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "baris sorakeun"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidah abdi"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kabenaran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:25.329273016Z",
+  "model": "glm-5.3"
+}

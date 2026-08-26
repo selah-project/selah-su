@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Jadi kajadian, sanggeus aranjeunngeus béas nu dibawa ti Mitsrayim, bapana nyarita ka aranjeunn: 'Balik deui, meuli keur urang saeutik kadaharan.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Jadi kajadian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "arinjeunngeus"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kadaharan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "béas"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "béas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dibawa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeunn"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Balik deui"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "meuli (gandung)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keur urang"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kadaharan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:14.378639636Z",
+  "model": "glm-5.3"
+}

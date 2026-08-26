@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Aya nu ngarieux tapi teu boga nanaon, aya nu ngamiskinkeun diri tapi hartana loba.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "aya nu"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "ngarieux"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi teu boga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nanaon (sagala)"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "ngamiskinkeun diri"
+    },
+    {
+      "surface": "והון",
+      "gloss": "tapi harta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "loba"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:46.846025328Z",
+  "model": "glm-5.3"
+}

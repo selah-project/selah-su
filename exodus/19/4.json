@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Anjeun geus nempo naon anu kuring pigawé ka Mitsrayim, sarta kuranceu ⟨את⟩ anjeun dina jangjang nu jangkaleuncaran, sarta kuring mawa ⟨את⟩ anjeun datang ka daku.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "geus nempo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "naon anu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kuring pigawé"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "sarta kuranceu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "jangjang"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "nu jangkaleuncaran"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "sarta kuring mawa datang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka daku"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:34.216259659Z",
+  "model": "glm-5.3"
+}

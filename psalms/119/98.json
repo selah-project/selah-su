@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Ti munsuh-munsuh kuring, paréntah-Mu mijaksanakeun kuring, sabab salawasna ⟨ieu⟩ keur kuring.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "ti munsuh-munsuh kuring"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "mijaksanakeun kuring"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "paréntah-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ieu⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:28.090946674Z",
+  "model": "glm-5.3"
+}

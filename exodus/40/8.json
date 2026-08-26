@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeun bakal nempatkeun ⟨את⟩ pakarangan sabudeureunana, jeung anjeun bakal nempatkeun ⟨את⟩ tatuduh panto pakarangan.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "jeung anjeun bakal nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakarangan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pakarangan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureunana"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "jeung anjeun bakal nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatuduh panto pakarangan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tatuduh"
+    },
+    {
+      "surface": "שער",
+      "gloss": "panto"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pakarangan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:52.195204132Z",
+  "model": "glm-5.3"
+}

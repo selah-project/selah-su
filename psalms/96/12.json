@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 96,
+  "translation": "Sawah-sawah luncat bungah jeung sagala nu aya di jerona; mangka hare rot sagala kai leuweung.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "luncat bungah"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sawah-sawah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "אז",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hare rot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יער",
+      "gloss": "leuweung"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:42.145880720Z",
+  "model": "glm-5.3"
+}

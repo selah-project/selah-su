@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Walungan-walungan cai ngocor tina panon abdi, sabab maranéhna teu ngajaga Taurat-Mu.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "walungan-walungan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ngocor turun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tina panon abdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabab ngeunaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ngajaga"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Taurat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:16.928098456Z",
+  "model": "glm-5.3"
+}

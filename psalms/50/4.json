@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Anjeunna ngagero ka langit-langit ti luhur jeung ka bumi, mimiti ngahakiman umat-Na.",
+  "tokens": [
+    {
+      "surface": "יקררא",
+      "gloss": "ngagero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨the⟩ langit-langit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "pikeun ngahakiman"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:46.370513724Z",
+  "model": "glm-5.3"
+}

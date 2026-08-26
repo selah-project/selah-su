@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Ka Anjeun, Yahwe, kuring nyaur, jeung ka Adonay kuring mohon welas.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kuring nyaur"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "kuring mohon welas"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:25.185108197Z",
+  "model": "glm-5.3"
+}

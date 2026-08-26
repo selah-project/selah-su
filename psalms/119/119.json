@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Layah — Anjeun nganggeuskeun sakabeh nu jahat ti bumi; lantaran kitu kuring mikacinta kasaksian-kasaksian Anjeun.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Layah"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Anjeun nganggeuskeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabeh"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "lantaran kitu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kuring mikacinta"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksian-kasaksian Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:57.393399962Z",
+  "model": "glm-5.3"
+}

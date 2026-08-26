@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Lajeng anjeunna nyingkiran ⟨את⟩ munding-minding kabéh sarta ngagorogol sanggeus Elyahu, sarta nyarita: Mcing paka kuring nyium bapa kuring jeung indung kuring, tuluy kuring indit sanggeus anjeunna. Sarta anjeunna nyarita ka anjeunna: Ninun atawa deui, sabab naon anu kuring pigawé ka anjeun?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "anjeunna nyingkiran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munding-minding kabéh"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "munding-minding kabéh"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ngagorogol"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "paka kuring nyium"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Mcing"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "jeung indung kuring"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "kuring indit"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sanggeus anjeunna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ninun"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "atawa deui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kuring pigawé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:46:41.664086134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sarta Adah ngalahirkeun ⟨את⟩ Yaval; inyana ⟨aya⟩ jadi ramana nu cicing dina tandang jeung ingon-ingon.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inyana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tandang"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ingon-ingon"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:07.252781236Z",
+  "model": "glm-5.3"
+}

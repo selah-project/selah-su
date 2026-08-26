@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 7:37",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ieu ⟨⟨yo⟩⟩ téh taurat pikeun kurban beuleum, pikeun kurban sakepelek, pikeun kurban dosa, pikeun kurban salah, pikeun kurban pentéasan, jeung pikeun kurban salamet.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "taurat"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "pikeun kurban beuleum"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "pikeun kurban sakepelek"
+    },
+    {
+      "surface": "ולחטאת",
+      "gloss": "jeung pikeun kurban dosa"
+    },
+    {
+      "surface": "ולאשם",
+      "gloss": "pikeun kurban salah"
+    },
+    {
+      "surface": "ולמלואים",
+      "gloss": "pikeun kurban pentéasan"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "jeung pikeun kurban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "salamet"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:40.533232923Z",
+  "model": "glm-5.3"
+}

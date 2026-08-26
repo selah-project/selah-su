@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Sa hareupeunana panghuni padang pasir bakal menungkun, jeung musuh-musuhna bakal ngajilat lebu.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "sa hareupeunana"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bakal menungkun"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "panghuni padang pasir"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "jeung musuh-musuhna"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lebu"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "bakal ngajilat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:35.090476331Z",
+  "model": "glm-5.3"
+}

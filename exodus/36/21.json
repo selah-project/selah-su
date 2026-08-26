@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Cacah huluan panjang ⟨the⟩ karés nyaéta sapuluh ama, sarta saban ama satengah lebar karés éta hiji.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "karés"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "sarta sa-ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "karés"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:59.466481755Z",
+  "model": "glm-5.3"
+}

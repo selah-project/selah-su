@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ayeuna, indit, bari kuring ngirim anjeun ka Paroh, sangkan anjeun mawa kaluar ⟨את⟩ umat-Ku, budak-budak Yisrael, ti Midzrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "indit"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "kuring ngirim anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "sangkan anjeun mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Midzrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:30.116350130Z",
+  "model": "glm-5.3"
+}

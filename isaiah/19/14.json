@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Yahwe ngocokkeun di tengah-tengahna roh kamaksiatan, jeung maranéhna nyasarkeun ⟨את⟩ Mesir dina sakakarya na, saperti nyasarkeunana nu mabok dina muntahna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ngocokkeun"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "kamaksiatan"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "jeung nyasarkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mesir"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sakakarya"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "karyana"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "saperti nyasarkeunana"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "nu mabok"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "dina muntahna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:35.389622694Z",
+  "model": "glm-5.3"
+}

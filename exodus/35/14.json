@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "jeung ⟨את⟩ kandél cahya jeung ⟨את⟩ parabotna, jeung ⟨את⟩ lémpu-lémpuna, jeung ⟨את⟩ minyak pikeun cahya",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kandél"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "kandél"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "parabotna"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lémpu-lémpuna"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lémpu-lémpuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "cahya"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:12.036916726Z",
+  "model": "glm-5.3"
+}

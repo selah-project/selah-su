@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Pikeun nangtoskeun jeung si yatim jeung nu kasor, sangkan teu waka deui manusa ti ⟨the⟩ bumi ngarieut.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "pikeun nangtoskeun jeung"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "si yatim"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "nu kasor"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu waka"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "deui"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lami"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ngarieut"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:58.506319440Z",
+  "model": "glm-5.3"
+}

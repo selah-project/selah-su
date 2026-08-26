@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Bérihan kanyaah ka abdi, Adonay, sabab ka Anjeun abdi nyeri sadinten lilana.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "bérihan kanyaah ka abdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "abdi nyeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadinten"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dinten"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:54.021715640Z",
+  "model": "glm-5.3"
+}

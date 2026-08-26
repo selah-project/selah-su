@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Sabab ka Anjeun, Yahwe, abdi nganti, Anjeun nu bales, Adonay, Elohim abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "abdi nganti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "nu bales"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:13.435042896Z",
+  "model": "glm-5.3"
+}

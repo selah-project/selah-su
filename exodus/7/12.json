@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Kusabab maranehna ngalungkeun, masing-masing tongkatna, jadi ula-ula; tapi tongkat Aharon nyelan ⟨את⟩ tongkat-tongkat maranehna.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Kusabab maranehna ngalungkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkatna"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "ula-ula"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "tapi nyelan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat-tongkat maranehna"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "tongkat-tongkat maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:06.179437494Z",
+  "model": "glm-5.3"
+}

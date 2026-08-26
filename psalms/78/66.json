@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung ⟨ia⟩ ngapok musuh-musuhna tukang, méré aib langgeng ka aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ngapok"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "musuh-musuhna"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tukang"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "aib"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "langgeng"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ka aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:33.359275243Z",
+  "model": "glm-5.3"
+}

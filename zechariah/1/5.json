@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Bapa-bapa aranjeun — di mana ⟨maranehna⟩? Jeung nabi-nabi, naha salawasna hirup?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa aranjeun"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "jeung nabi-nabi"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "naha salawasna"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:18:18.809906500Z",
+  "model": "glm-5.3"
+}

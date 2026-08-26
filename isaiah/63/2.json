@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Naha beureum ku kitu pakéan anjeun, jeung papakéan anjeun kawas nu ngajenjakkeun dina panggilingan anggur?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Naha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "beureum"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "pakéan anjeun"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "jeung papakéan anjeun"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "kawas nu ngajenjakkeun"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "dina panggilingan anggur"
+    }
+  ],
+  "timestamp": "2026-08-26T13:19:55.967354651Z",
+  "model": "glm-5.3"
+}

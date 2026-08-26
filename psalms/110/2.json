@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 110,
+  "translation": "Tongkat kakuatan anjeun dikirim Yahwe ti Tsiyon: \"Ngawasa di tengah musuh-musuh anjeun.\"",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuatan anjeun"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "dikirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "ngawasa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:01.666782272Z",
+  "model": "glm-5.3"
+}

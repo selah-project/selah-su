@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Malahan ka nu sapertos kieu Anjeun muka panon Anjeun, jeung ⟨את⟩ abdi dibawa ka pangadilan babarengan jeung Anjeun.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "malahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nu sapertos kieu"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "Anjeun muka"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "panon Anjeun"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "abdi (nu dibawa ka pangadilan)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "dibawa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka pangadilan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "babarengan jeung Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:39:32.752347813Z",
+  "model": "glm-5.3"
+}

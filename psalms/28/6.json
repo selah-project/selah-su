@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Pinujeun Yahwe, sabab geus ngadangu sora paremeseun-paremeseun abdi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "pinujeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "geus ngadangu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "paremeseun-paremeseun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:23.169606992Z",
+  "model": "glm-5.3"
+}

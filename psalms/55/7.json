@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Jeung abdi nyarita: Saha méré ka abdi jangjang sarupaning japati, sangkan abdi ngapung lajuningkatka sarta cicing?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jeung abdi nyarita"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "jangjang"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "sarupaning japati"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "sangkan abdi ngapung lajuningkatka"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "sarta cicing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:14.125187622Z",
+  "model": "glm-5.3"
+}

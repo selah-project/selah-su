@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jadi aya sabda Yahwe ka Yonah putra Amitay, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amitay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T17:09:06.433047481Z",
+  "model": "glm-5.3"
+}

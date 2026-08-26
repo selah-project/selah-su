@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Manéhna deui ngandung, sarta midangkeun saurang putra; sarta manéhna nyebut ⟨את⟩ ngaranna Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ngandung"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "midangkeun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "saurang putra"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:04.962386036Z",
+  "model": "glm-5.3"
+}

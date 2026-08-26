@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sedengkeun nu teu ngeunteung hatina ka kecap Yahwe, masing ⟨את⟩ abdi-abdina jeung ⟨את⟩ kénéh-kénéhana di sawah.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "sedengkeun nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngeunteung"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "masing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdina"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kénéh-kénéhana"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "kénéh-kénéhana"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di sawah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:46.392339092Z",
+  "model": "glm-5.3"
+}

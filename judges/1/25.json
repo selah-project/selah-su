@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung manéhna mintonkeun ka maranehna ⟨את⟩ lawang asup kana kota ⟨éta⟩, jeung maraneha ngabaradab ⟨את⟩ kota ⟨éta⟩ ku beuteung pedang; tapi ⟨את⟩ éta lalaki jeung ⟨את⟩ sagala kulawargana maranehna ngaleupaskeun.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "jeung manéhna mintonkeun ka maranehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lawang asup kana kota"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "lawang asup"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "jeung maranehna ngabaradab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku beuteung"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala kulawargana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "kulawargana"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "maranehna ngaleupaskeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:16.115927736Z",
+  "model": "glm-5.3"
+}

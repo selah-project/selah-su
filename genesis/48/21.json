@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Jeung Yisrael nyarita ka Yosef: Tongtoyo, abdi keur paéh, jeung Elohim bakal aya jeung anjeun, sarta mulangkeun ⟨את⟩ anjeun ka tanah bapak-bapak anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tongtoyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jeung bakal jadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "sarta mulangkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bapak-bapak anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:20.581771611Z",
+  "model": "glm-5.3"
+}

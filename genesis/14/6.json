@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung ⟨את⟩ urang Hori di gunung-gunung mararénta, nyaéta Seir, nepi ka El-Paran nu di sisi euweungan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "urang Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "urang Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "di gunung-gunung mararénta"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "euweungan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:38.738878809Z",
+  "model": "glm-5.3"
+}

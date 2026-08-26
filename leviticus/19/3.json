@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Unggal jalma indungna jeung bapana tarajongkeun; jeung ⟨את⟩ sabat-sabat-abdi pihara; abdi ⟨⟨ieu⟩⟩ Yahwe, Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "jeung bapana"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tarajongkeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabat-sabat-abdi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabat-sabat-abdi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "pihara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:53.448775687Z",
+  "model": "glm-5.3"
+}

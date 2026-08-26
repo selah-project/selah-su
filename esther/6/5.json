@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Budak-budak raja nyarita ka ⟨anjeunna⟩: Pohara, Haman keur nangtung di halaman. Laju raja nyarita: Astowa asup.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka ⟨anjeunna⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pohara"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "keur nangtung"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di halaman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "astowa asup"
+    }
+  ],
+  "timestamp": "2026-08-26T15:38:59.947967861Z",
+  "model": "glm-5.3"
+}

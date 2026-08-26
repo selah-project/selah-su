@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jadi kajadian, waktu Dawid jeung jalma-jalmana datang ka Tsiklag dina poé katilu, urang Amalek geus ngaririm ka nagara kidul jeung ka Tsiklag; maranéhna ngapuk ⟨את⟩ Tsiklag jeung ngaduruk ⟨את⟩ éta ku seuneu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "waktu datang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "jeung jalma-jalmana"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ka Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katilu"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "jeung urang Amalek"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "ngaririm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "nagara kidul"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ngapuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "jeung ngaduruk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "éta (Tsiklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:02.387789981Z",
+  "model": "glm-5.3"
+}

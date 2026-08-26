@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Mardekai nyaritakeun ka anjeunna ⟨את⟩ sadayana nu kajaba ka manéhna, jeung ⟨את⟩ jujuluk duit pérak nu ceuk Haman bakal ditimbang ka kakandangan raja dina hal urang Yahudi, pikeun musnahkeun aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana nu kajaba ka manéhna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "kajaba ka manéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "jujuluk duit pérak"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "jujuluk"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "duit pérak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "bakal ditimbang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "kakandangan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "dina hal urang Yahudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "pikeun musnahkeun aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:55.123671562Z",
+  "model": "glm-5.3"
+}

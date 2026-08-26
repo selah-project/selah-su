@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Sabab sungguh, musuh-musuh anjeun, Yahwe, sabab sungguh, musuh-musuh anjeun baris ruksak, baris papeungan sadaya nu migawé kalonggoran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "baris ruksak"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "baris papeungan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nu migawé"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalonggoran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:57.020873667Z",
+  "model": "glm-5.3"
+}

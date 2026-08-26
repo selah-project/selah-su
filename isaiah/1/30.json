@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sabab aranjeun bakal jadi kawas elah nu daunna laas, jeung kawas kebon nu euweuh cai pikeunana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "aranjeun bakal jadi"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "kawas elah"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "nu laas"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "daunna"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "jeung kawas kebon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pikeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:14.693641906Z",
+  "model": "glm-5.3"
+}

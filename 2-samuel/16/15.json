@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Ari Avshalom jeung sagala ⟨rakyat⟩ Israél, tiap jalma, sumping ka Yerushalaim, sarta Axitofel ⟨את⟩-na daria.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ari Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tiap jalma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ssumping"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalaim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "sarta Axitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na daria"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:40.755984220Z",
+  "model": "glm-5.3"
+}

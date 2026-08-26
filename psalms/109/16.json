@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Sabalikna ti eta teu émut midamel xesed, tapi ngudag lalaki nu cilaka jeung nu keur nyeri, sarta nu tatu ati nepi ka maot.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sabalikna ti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "émut"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "midamel"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "tapi ngudag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu cilaka"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jeung nu keur nyeri"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "sarta nu tatu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "nepi ka maot"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:26.619441580Z",
+  "model": "glm-5.3"
+}

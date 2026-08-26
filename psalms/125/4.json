@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 125,
+  "translation": "Sing saé, wahai Yahwe, ka nu saé, jeung ka nu lempeng dina haté maranéhna.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Sing saé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "ka nu saé"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "jeung ka nu lempeng"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "dina haté maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:11.123769451Z",
+  "model": "glm-5.3"
+}

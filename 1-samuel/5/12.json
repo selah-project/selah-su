@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung jalma-jalma nu teu paéh kakeuna ku tumor, sarta jerit kota éta naék nepi ka langit.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "jeung jalma-jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "kakeuna ku pukulan"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ku tumor"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "sarta naék"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "jerit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nepi ka langit"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:08.542390190Z",
+  "model": "glm-5.3"
+}

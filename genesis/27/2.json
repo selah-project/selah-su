@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Sarta anjeunna ngomong, \"Těp, kuring geus kolot, kuring teu nyaho poé maot sim kuring.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta ngomong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Těp"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bae"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "kuring geus kolot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuring nyaho"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "maot sim kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:39.795277371Z",
+  "model": "glm-5.3"
+}

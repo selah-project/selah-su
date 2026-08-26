@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tulaha naha anjeun teu mariksa ⟨את⟩ sumpah Yahwe jeung ⟨את⟩ parentah nu kuring parentahkeun ka anjeun?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "tulaha naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "anjeun mariksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumpah Yahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parentah"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kuring parentahkeun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:25.642983420Z",
+  "model": "glm-5.3"
+}

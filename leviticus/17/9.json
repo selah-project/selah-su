@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "jeung teu mawa ⟨את⟩-na ka panto kemah patepung, pikeun milaksanakeun ⟨את⟩-na ka Yahwe — jalma éta bakal diteungteulkeun ti bangsana.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "mawa ⟨את⟩-na"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun milaksanakeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "ka Yahwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "jeung diteungteulkeun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "ti bangsana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:47.954050006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Ngan ku panon anjeun waé engké nempo, jeung balas rajapati nu jahat bakal anjeun tetempo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ku panon anjeun"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "jeung balas rajapati"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bakal tetempo"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:57.365988229Z",
+  "model": "glm-5.3"
+}

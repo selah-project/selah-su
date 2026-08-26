@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 31:18",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Ngadéngé saéstuna kuring ngadéngé Efrayim nu hariwang: Anjeun ngadisiplinkeun kuring jeung kuring kabina-bina, kawas anak sapi nu teu dibiasaan; balikkeun kuring, jeung kuring bakal balik deui, sabab Anjeun Yahwe, Elohim kuring.",
+  "tokens": [
+    {
+      "surface": "שמוע",
+      "gloss": "ngadéngé saéstuna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuring ngadéngé"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מתנודד",
+      "gloss": "nu hariwang"
+    },
+    {
+      "surface": "יסרתני",
+      "gloss": "Anjeun ngadisiplinkeun kuring"
+    },
+    {
+      "surface": "ואוסר",
+      "gloss": "jeung kuring kabina-bina"
+    },
+    {
+      "surface": "כעגל",
+      "gloss": "kawas anak sapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "למד",
+      "gloss": "dibiasaan"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "balikkeun kuring"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "jeung kuring bakal balik deui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:02:53.052819934Z",
+  "model": "glm-5.3"
+}

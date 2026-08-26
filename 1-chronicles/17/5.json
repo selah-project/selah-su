@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Sebab kuring teu kungsi dumuk di imah ti poé nalika kuring naékkeun ⟨את⟩ Yisrael nepi ka poé ieu; kuring jadi ti khemah ka khemah jeung ti mishkan ka mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kungsi dumuk"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "kuring naékkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "kuring jadi"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ti khemah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "jeung ti mishkan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:13:10.147273704Z",
+  "model": "glm-5.3"
+}

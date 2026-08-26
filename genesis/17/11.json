@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung aranjeun bakal disunat ⟨את⟩ daging kulup aranjeun; sarta ⟨itu⟩ jadi tanda perjangjian antawis kuring jeung antawis aranjeun.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Jeung aranjeun bakal disunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging kulup aranjeun"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "kulup aranjeun"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antawis kuring"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "jeung antawis aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:50.703517930Z",
+  "model": "glm-5.3"
+}

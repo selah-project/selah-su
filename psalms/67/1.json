@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 67,
+  "translation": "Kapara bodhe, kalawan petikan senar. Mizmor, shir.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kapara bodhe"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "kalawan petikan senar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "shir"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:12.293167750Z",
+  "model": "glm-5.3"
+}

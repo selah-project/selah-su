@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Pasaksi dipasang di Yosef, basa kaluarna ⟨iala⟩ luhur lemah Mitsrayim; ceceg anu teu kanyahoan ku abdi, abdi ngadenge.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "pasaksi"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "di Yehosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dipasang-Na"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "basa kaluarna-Na"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ceceg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kanyahoan ku abdi"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "abdi ngadenge"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:59.979330320Z",
+  "model": "glm-5.3"
+}

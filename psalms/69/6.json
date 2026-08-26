@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Elohim, anjeun geus nyaho ka kahotoan abdi, jeung dosa-dosa abdi teu disumputkeun ti anjeun.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "geus nyaho"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ka kahotoan abdi"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "jeung dosa-dosa abdi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "disumputkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:43.992185470Z",
+  "model": "glm-5.3"
+}

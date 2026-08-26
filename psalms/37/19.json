@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Teu bakal hariwang dinawaktu kajahatan, tur dina poé-poé kalaparan maranehna kacukupan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Teu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bakal hariwang"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dinawaktu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "tur dina poé-poé"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kacukupan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:37.792674522Z",
+  "model": "glm-5.3"
+}

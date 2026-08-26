@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Ngagurgem Yehweh di langit, tur Elyon méré sora-Na — és-hujan jeung angkur seuneu.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "Jeung Ngagurgem"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yehweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "tur Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sora-Na"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "és-hujan"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "jeung angkur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:34.353253050Z",
+  "model": "glm-5.3"
+}

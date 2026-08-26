@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Merajot nimanggulkeun ⟨את⟩ Amariah, sarta Amariah nimanggulkeun ⟨את⟩ Axituv.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimanggulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amariah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amariah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "sarta Amariah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimanggulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axituv"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:16.999174653Z",
+  "model": "glm-5.3"
+}

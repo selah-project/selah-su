@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Teras Moshe nyandak ⟨את⟩ gerobak-gerobak jeung ⟨את⟩ sapi-sapi, jeung maserah ⟨את⟩ aranjeunna ka urang Léwi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Teras nyandak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerobak-gerobak"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "gerobak-gerobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sapi-sapi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi-sapi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jeung maserah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "ka urang Léwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Léwi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:25:43.669296948Z",
+  "model": "glm-5.3"
+}

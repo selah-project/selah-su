@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Bagja ⟨⟨the⟩⟩ anu ngawelasan ka nu miskin; dina poé kaangsungan Yahwe nyalametkeunana.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bagja"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "anu ngawelasan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kaangsungan"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "nyalametkeunana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:02.671837050Z",
+  "model": "glm-5.3"
+}

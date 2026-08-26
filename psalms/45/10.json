@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Boru-boru raja-raja aya di antara nu dipikacinta anjeun; ratu nangtung di leungeun katuhu anjeun, maké emas murni Opir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "boru-boru"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "nu dipikacinta anjeun"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "di leungeun katuhu anjeun"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "maké emas murni"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Opir"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:05.117485336Z",
+  "model": "glm-5.3"
+}

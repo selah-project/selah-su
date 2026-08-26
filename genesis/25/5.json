@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Lajeng Avraham méré ⟨את⟩ sadaya nu aya dina mana keurana ka Yitsxak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu aya dina mana keurana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dina mana keurana"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ka Yitsxak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:32.176487185Z",
+  "model": "glm-5.3"
+}

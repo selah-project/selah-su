@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Tukang jeung payuneun Anjeun ngurung kuring, sarta Anjeun ngeundeuk dampal leungeun Anjeun ka luhur kuring.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "tukang"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "jeung payuneun"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "Anjeun ngurung kuring"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "sarta Anjeun ngeundeuk"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka luhur kuring"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "dampal leungeun Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:10.600351872Z",
+  "model": "glm-5.3"
+}

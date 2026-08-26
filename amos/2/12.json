@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tapi aranjeun méré inuman anggur ka ⟨את⟩ nazir-nazir, jeung ka nabi-nabi aranjeun maréntah nyarita: Ulah nyarita kenabi.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "aranjeun méré inuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazir-nazir"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nazir-nazir"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "aranjeun maréntah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "nyarita kenabi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:08:11.112810512Z",
+  "model": "glm-5.3"
+}

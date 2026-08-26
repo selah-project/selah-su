@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Teras Moshe ngomong kitu ka barudak Yisrael, tapi maranéhna euweuh nu ngadangu ka Moshe, sabab pondok haté jeung kawajiban beurat.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "pondokna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "haté"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "jeung kawajiban"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "beurat"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:19.581105377Z",
+  "model": "glm-5.3"
+}

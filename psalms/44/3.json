@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Anjeun — leungeun Anjeun ngusir bangsa-bangsa, terus ⟨Anjeun⟩ melak ⟨bapa-bapa urang⟩; Anjeun ngancurkeun kaum-kaum, terus ⟨Anjeun⟩ miceun maranehna.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun Anjeun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "terus melak maranehna"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "terus miceun maranehana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:52.900180288Z",
+  "model": "glm-5.3"
+}

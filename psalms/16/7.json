@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Kuring mberkahatan ⟨את⟩ Yahwe nu méré parentah ka kuring; malah peupeuting ginjal kuring ngawuruk kuring.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "kuring mberkahatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "méré parentah ka kuring"
+    },
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "peupeuting"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ngawuruk kuring"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjal kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:38.774630283Z",
+  "model": "glm-5.3"
+}

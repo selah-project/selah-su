@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lamun kuring dosa, Anjeun ngawaskeun kuring, jeung moal Anjeun ngabebaskeun kuring ti kalakuan salah kuring.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "kuring dosa"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "Anjeun ngawaskeun kuring"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "jeung ti kalakuan salah kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "Anjeun ngabebaskeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T15:08:25.358514070Z",
+  "model": "glm-5.3"
+}

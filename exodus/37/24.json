@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sakilog emas murni: ku éta manéhna nyieun ⟨את⟩ dangdaunan lampu éta jeung ⟨את⟩ sagala parabotna",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "sakilog emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manéhna nyieun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dangdaunan lampu éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala parabotna"
+    },
+    {
+      "surface": "Кал",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "parabotna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:16.045843393Z",
+  "model": "glm-5.3"
+}

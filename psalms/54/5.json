@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Sabab jalma asing geus ngadeg ngalawan kuring, jeung jalma lalim milarian nyawa kuring; aranjeunna henteu nempatkeun Elohim di payuneun aranjeunna. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "jalma asing"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "geus ngadeg"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan kuring"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "jeung jalma lalim"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "milarian"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "di payuneun aranjeunna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:36.927826028Z",
+  "model": "glm-5.3"
+}

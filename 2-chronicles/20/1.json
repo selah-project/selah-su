@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Teras sanggeus éta, putra-putra Moab jeung putra-putra Amon, sarta jeung maranehna ti ⟨ka⟩ Meunim, datang ngalawan Yehosafat pikeun perang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras kajadian"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eta"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sarta putra-putra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "jeung maranehna"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "ti Meunim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pikeun perang"
+    }
+  ],
+  "timestamp": "2026-08-26T16:25:36.423384779Z",
+  "model": "glm-5.3"
+}

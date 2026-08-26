@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Bangkit, Yahwe, ngahadang rarayna, bugisikeun manéhna; palaydasharkeun nefesh kuring ti ⟨nu⟩ jahat, ku pedang-Mu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ngahadang"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rarayna"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "bugisikeun manéhna"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "palaydasharkeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "ti nu jahat"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedang-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:16.196800063Z",
+  "model": "glm-5.3"
+}

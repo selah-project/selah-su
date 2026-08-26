@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Naha aya untungna dina getih kuring, dina turunna kuring ka liang binasa? Naha keusik muji Anjeun? Naha ⟨ieu⟩ nyaritakeun katulus-Taneuh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Naha"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "untungna"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "dina getih kuring"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "dina turunna kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "liang binasa"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "muji Anjeun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "keusik"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "katulus-Taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:25.185381653Z",
+  "model": "glm-5.3"
+}

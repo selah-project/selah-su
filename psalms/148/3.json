@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Pamuji-pamuji ka Anjeunna, panonpoé jeung bulan; pamuji-pamuji ka Anjeunna, sakabéh béntang-béntang caang.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pamuji-pamuji ka Anjeunna"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "jeung bulan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pamuji-pamuji ka Anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "béntang-béntang"
+    },
+    {
+      "surface": "אור",
+      "gloss": "caang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:41.019742013Z",
+  "model": "glm-5.3"
+}

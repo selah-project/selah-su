@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Sabab geus laas hirup abdi dina kasedihan, jeung taun-taun abdi dina ngaharéhvéh; kakuatan abdi goyah ku kalakuan-salahan abdi, jeung tulang abdi kurisan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "geus-laas"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "dina-kasedihan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hirup-abdi"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "jeung-taun-taun-abdi"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "dina-ngaharéhvéh"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "goyah"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "ku-kalakuan-salahan-abdi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuatan-abdi"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "jeung-tulang-abdi"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "kurisan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:39.206952015Z",
+  "model": "glm-5.3"
+}

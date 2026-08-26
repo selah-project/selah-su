@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Sabab kuring ⟨⟩ miskin jeung papa, sarta jantung kuring tatu di jero diri kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jeung papa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "sarta jantung kuring"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di jero diri kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:50.974355665Z",
+  "model": "glm-5.3"
+}

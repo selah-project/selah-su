@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Teras Yahwe ngomong ka Moshe, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "teras ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:40.378899155Z",
+  "model": "glm-5.3"
+}

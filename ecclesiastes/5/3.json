@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Nalika anjeun nazarkeun nazar ka Elohim, ulah talambari mayarkeunana; sabab euweuh karep dina nu bodas; ⟨את⟩ nu anjeun nazarkan — bayar.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "anjeun nazarkeun"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "talambari"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "mayarkeunana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "karep"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "dina nu bodas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu anjeun nazarkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "anjeun nazarkan"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bayar"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:07.569800736Z",
+  "model": "glm-5.3"
+}

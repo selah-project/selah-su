@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Terus Ever hirup opat jeung tilu puluh tahun, sarta ngalahirkeun ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jeung tilu puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:48.599622500Z",
+  "model": "glm-5.3"
+}

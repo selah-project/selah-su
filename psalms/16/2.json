@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Kuring nyaritakeun ka Yahwe: Anjeun ⟨are⟩ Adonay; alus kuring euweuh tanpa Anjeun.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "kuring nyaritakeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "alus kuring"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tanpa Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:48.473128396Z",
+  "model": "glm-5.3"
+}

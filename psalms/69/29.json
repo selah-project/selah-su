@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Dihapus tina buku ⟨the⟩ nu hirup, jeung jeung nu bener ulah ditulis.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "dihapus"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tina buku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung jeung"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ditulis"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:56.667343779Z",
+  "model": "glm-5.3"
+}

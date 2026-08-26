@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Parentahkeun ⟨את⟩ putra-putra Yisrael, jeung aranjeunna kudu ngusir ti ⟨the kemah⟩ sakabéh nu kaserang kusta, jeung sakabéh nu karandapanangler, jeung sakabéh nu teu murni ku mayit,",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Parentahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "jeung aranjeunna kudu ngusir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨the kemah⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "nu kaserang kusta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "זב",
+      "gloss": "nu karandapanangler"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nu teu murni"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ku mayit"
+    }
+  ],
+  "timestamp": "2026-08-26T11:25:54.723513816Z",
+  "model": "glm-5.3"
+}

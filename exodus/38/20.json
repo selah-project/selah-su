@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung sakabéh pasak-pasak ⟨éta⟩ Kemah jeung ⟨éta⟩ balong, sacara ngurilingan, tambaga.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "pasak-pasak"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "⟨éta⟩ Kemah"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "jeung ⟨éta⟩ balong"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sacara ngurilingan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:19.974603445Z",
+  "model": "glm-5.3"
+}

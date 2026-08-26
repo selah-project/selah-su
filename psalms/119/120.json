@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Daging kuring nyiriit tina kagethe-Anjeun, jeung tina putusan-putusan Anjeun kuring sieun.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "nyiriit (bulu balloong)"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "tina kagethe-Anjeun"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "daging kuring"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "jeung tina putusan-putusan Anjeun"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "kuring sieun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:57.393537250Z",
+  "model": "glm-5.3"
+}

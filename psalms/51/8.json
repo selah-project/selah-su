@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Pun, kanyataan Anjeun kahoyong dina jeroeun diri, jeung dina nu disumputkeun hikmah Anjeun maktakeun ka abdi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Pun"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kanyataan"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Anjeun kahoyong"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "dina jeroeun diri"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "jeung dina nu disumputkeun"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "Anjeun maktakeun ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:44.409771190Z",
+  "model": "glm-5.3"
+}

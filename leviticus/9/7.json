@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Moshe nyarita ka Aharon: Nyampeurkeun diri ka mézbéa sarta lakonan ⟨את⟩ kurban dosa anjeun jeung ⟨את⟩ kurban bakar anjeun, sarta nebus pikeun anjeun jeung pikeun balaréa; lakonan ogé ⟨את⟩ kurban balaréa sarta nebus pikeun maranjeunna, upama anu diparéntahkeun Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nyampeurkeun diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbéa"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "lakonan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban dosa anjeun"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "kurban dosa anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kurban bakar anjeun"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "kurban bakar anjeun"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "sarta nebus"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "jeung pikeun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lakonan ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban balaréa"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "sarta nebus"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "pikeun maranjeunna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "upama anu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:59.766263238Z",
+  "model": "glm-5.3"
+}

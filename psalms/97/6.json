@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Langit-langit nyaritakeun kabeneran-Na, jeung sakabeh bangsa-bangsa nempo kamulyaan-Na.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "kabeneran-Na"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabeh"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamulyaan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:44.285515416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Sabab lain pugenalan-abdi pugenalan anjeun, jeung lain jalan anjeun jalan-abdi, ceuk Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "pugenalan-abdi"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "pugenalan anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung lain"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jalan anjeun"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-abdi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:37.470532195Z",
+  "model": "glm-5.3"
+}

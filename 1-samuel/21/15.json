@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Teras Akish ngomong ka abdi-abdina: Tempo, ku anjeun katempo jalma nu ngarandean; naha anjeun mawa ⟨את⟩ manéhna ka Kami?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Teras ngomong"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ku anjeun katempo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "nu ngarandean"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "anjeun mawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna (ka Kami)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:01.486647991Z",
+  "model": "glm-5.3"
+}

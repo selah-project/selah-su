@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Pawnah Yahwe ngabagi maranéhna, moal nambahan deui nempo ⟨ka⟩ maranéhna; pawakah imam-imam teu diangkat, ka nu kolot teu dipaparin karunia.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "pawnah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ngabagi maranéhna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nambahan deui"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "nempo ⟨ka⟩ maranéhna"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pawakah"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "diangkat"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ka nu kolot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "dipaparin karunia"
+    }
+  ],
+  "timestamp": "2026-08-26T15:29:57.991447758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 120,
+  "translation": "Panah seukeutna jurit nu ngawasa, jeung areng kai raramat.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Panah"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jurit nu ngawasa"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "seukeutna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "areng"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "kai raramat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:56.469207040Z",
+  "model": "glm-5.3"
+}

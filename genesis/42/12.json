@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Anjeunna nyarita ka aranjeunna: \"Lain, tapi pikeun nempo kateuleumunganana nagara anjeun datang.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kateuleumunganana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "anjeun datang"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:48.116256474Z",
+  "model": "glm-5.3"
+}

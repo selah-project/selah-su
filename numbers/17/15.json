@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Aharon balik deui ka Moshe, ka payune lawang khemah patepungan, sarta ⟨the⟩ wabah éta kacegat.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "payune lawang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepungan"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "sarta ⟨the⟩ wabah éta"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "kacegat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:30:09.330913374Z",
+  "model": "glm-5.3"
+}

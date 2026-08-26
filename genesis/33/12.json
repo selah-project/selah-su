@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung manehna nyarita: \"Sing indit bae jeung sing lumpat bae, bari abdi lumpat payuneun anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "sing indit bae"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "jeung sing lumpat bae"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "abdi lumpat"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "payuneun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:25.256335014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "arireun ngalakonan perang ngalawan ⟨את⟩ Bera raja Sedom jeung ⟨את⟩ Birsya raja Amorah, Shinab raja Admah, jeung Shemever raja Tsevoim, jeung raja Bela — nyaéta Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "arireun ngalakonan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera raja Sedom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Birsya raja Amorah"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "jeung Shemever"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nyaéta"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:12.746243432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "muriad panas amarah Kami, jeung kuring baris maéhan ⟨את⟩ aranjeun ku pedang, jeung pamaésan aranjeun baris jadi randa jeung putra-putra aranjeun yatim.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "muriad panas"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "amarah Kami"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "jeung kuring baris maéhan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jeung baris jadi"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "pamaésan aranjeun"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "randa"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "jeung putra-putra aranjeun"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "yatim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:33.756770315Z",
+  "model": "glm-5.3"
+}

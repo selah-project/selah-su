@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "jeung ⟨את⟩ nu Amori, jeung ⟨את⟩ nu Kenaani, jeung ⟨את⟩ nu Girgasyi, jeung ⟨את⟩ nu Yevusi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "nu Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "nu Amori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "nu Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "nu Kenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "nu Girgasyi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "nu Girgasyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "nu Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "nu Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:52.730641415Z",
+  "model": "glm-5.3"
+}

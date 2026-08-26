@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Paréntahkeun ⟨את⟩ imam-imam nu mawa peti kasaksian, sangkan mararéhna naék ti Yarden.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "paréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imam-imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nu mawa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sangkan mararéhna naék"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:26.541579360Z",
+  "model": "glm-5.3"
+}

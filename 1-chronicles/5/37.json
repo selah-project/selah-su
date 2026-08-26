@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Azarjah nurunkan ⟨את⟩ Amarjah, sarta Amarjah nurunkan ⟨את⟩ Axituv;",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nurunkan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "sarta Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axituv"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:13.229542422Z",
+  "model": "glm-5.3"
+}

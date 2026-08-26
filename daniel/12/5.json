@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung kuring — kuring Daniyel — nempo, jeung tingali, aya dua deui nu ngadeg, hiji di dieu di sisi walungan, jeung hiji deui di dinya di sisi walungan.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "jeung kuring nempo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tingali"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "deui nu séjén"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "di dieu"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "jeung hiji deui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "walungan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:50:28.713789813Z",
+  "model": "glm-5.3"
+}

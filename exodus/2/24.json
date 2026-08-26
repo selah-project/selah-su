@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Teras Elohim ngadangu ⟨את⟩ sajerana, sarta Elohim émut ⟨את⟩ perjangjian-Na, ⟨את⟩ Avraham, ⟨את⟩ Yitsxak, jeung ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sajerana"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "sajerana"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "émut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian-Na"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjangjian-Na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:13.043832829Z",
+  "model": "glm-5.3"
+}

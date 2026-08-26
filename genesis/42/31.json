@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Lajeng urang ngomong ka anjeunna: ‘Urang ⟨are⟩ jalma-jalma jujur, ulah nepi ka jadi ⟨את⟩ — lain mata-mata urang.’",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "lajeng urang ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "jalma-jalma jujur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "urang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kungsi jadi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    }
+  ],
+  "timestamp": "2026-08-26T17:29:26.277349248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Abdi percaya, sabab abdi nyarita — abdi, katarajang pisan.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "abdi percaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "abdi nyarita"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "katarajang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:32.317768123Z",
+  "model": "glm-5.3"
+}

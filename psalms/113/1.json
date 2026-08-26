@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 113,
+  "translation": "Pujilah Yah! Pujilah, hai abdi-abdi Yahwe; pujilah ⟨את⟩ ngaran Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:54.152421134Z",
+  "model": "glm-5.3"
+}

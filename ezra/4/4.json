@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jadi jalma-jalma ti éta bayah nyenjakeun leungeun jalma-jalma Yehuda, jeung ngahariwang aranjeunna ⟨את⟩ sangkan euweuh nu ngawangun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti éta bayah"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "ncenjakeun"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "jeung ngahariwang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna (jalma Yehuda)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sangkan euweuh nu ngawangun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:53:29.176214770Z",
+  "model": "glm-5.3"
+}

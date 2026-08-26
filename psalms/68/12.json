@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Adonay méré kecap; nu ngabéjakeun barita pasukan loba.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "nu ngabéjakeun barita"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "loba"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:22.538248128Z",
+  "model": "glm-5.3"
+}

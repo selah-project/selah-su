@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "sabab bapa kuring perang pikeun aranjeun, sarta miceun nyawana miharga, sarta ngamalikeun aranjeun leungeun Midian.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pikeun aranjeun"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "sarta miceun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawana"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "miharga"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "sarta ngamalikeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "leungeun Midian"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    }
+  ],
+  "timestamp": "2026-08-26T12:05:51.551044697Z",
+  "model": "glm-5.3"
+}

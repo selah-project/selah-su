@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Telan ⟨⟨⟩⟩ Adonay, beulah lidah maranehna, sabab kuring nempo kalainan sareng pasalisihan di kota.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "telan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "beulah"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah maranehna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kalainan"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "sareng pasalisihan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:24.531695147Z",
+  "model": "glm-5.3"
+}

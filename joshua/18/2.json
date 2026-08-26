@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung nyésa di antara bani Yisrael anu can bagikeun ⟨את⟩ warisanana, tujuh suku.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "jeung nyésa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di antara bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "can"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "bagikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisanana"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "warisanana"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "suku"
+    }
+  ],
+  "timestamp": "2026-08-26T11:58:45.416879286Z",
+  "model": "glm-5.3"
+}

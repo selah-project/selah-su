@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teu kitu jalma-jalma rwak, tapi saperti sekam nu dihapuskeun ku angin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "jalma-jalma rwak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "saperti sekam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "dihapuskeun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ku angin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:41.997736267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Sarta ngahakan sakabéh jukut di tanah maranéhna, sarta ngahakan ⟨את⟩ buah taneuh maranéhna.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di tanah maranéhna"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "taneuh maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.543029464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Dawid nyandak ⟨את⟩ taméng-taméng emas nu aya di luhur hamba-hamba Hadadezer, sarta mawa aranjeunna ka Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sarta nyandak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taméng-taméng emas"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "taméng-taméng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "sarta mawa aranjeunna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:13:13.191090432Z",
+  "model": "glm-5.3"
+}

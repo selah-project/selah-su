@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 138,
+  "translation": "Karya Dawid. Kami maturan anjeun ku sadaya ati abdi, di payuneun ⟨elahim⟩ abdi nyingkirkeun Anjeun.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Karya Dawid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": " Kami maturan Anjeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sadaya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati abdi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elahim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "abdi nyingkirkeun Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:25.000479240Z",
+  "model": "glm-5.3"
+}

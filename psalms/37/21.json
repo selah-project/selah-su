@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Nu jahat nginjeum tapi henteu mayar, sedengkeun nu balad nyayampeurkeun kanyaah satia jeung maparin.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "nginjeum"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mayar"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "sedengkeun nu balad"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nyayampeurkeun kanyaah satia"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "jeung maparin"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:09.907708271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Xazael raja Aram ngepungan ⟨את⟩ Israel sadaya poa-poana Yehoaxaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Jeung Xazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "neungan\/ngepungan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poa-poana"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxaz"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:27.435621686Z",
+  "model": "glm-5.3"
+}

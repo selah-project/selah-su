@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 95,
+  "translation": "Ulah ngabeungeuteundeun hate anjeun, saperti di Merivah, saperti poé Massah di gurun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ngabeungeuteundeun"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hate anjeun"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "saperti di Merivah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "saperti poé"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:17.622749477Z",
+  "model": "glm-5.3"
+}

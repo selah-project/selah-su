@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Tapi sakabéh Yisrael jeung Yehuda mikanyaah ⟨את⟩ Dawud, sabab manéh nu kaluar jeung asup di payuneun maranehna.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jeung Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mikanyaah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéh"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di payuneun maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:46.514682525Z",
+  "model": "glm-5.3"
+}

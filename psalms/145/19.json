@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Kahayang nu ngaretsik ka anjeunna dipigawé, jeung ⟨את⟩ jeritna ngadangu sarta mulihkeun salamet maranehna.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Kahayang"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "nu ngaretsik ka anjeunna"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeritna"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "jeritna"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "sarta mulihkeun salamet maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:25.875907581Z",
+  "model": "glm-5.3"
+}

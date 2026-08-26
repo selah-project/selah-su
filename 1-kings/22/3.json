@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Terus raja Israel nyarita ka palayan-palayanna: Naha anjeun tacan terang yén Ramot-Gilad mah milu urang, ari urang mah diam baé, teu nyandak ⟨את⟩ eta ti leungeun raja Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "terus nyarita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palayan-palayanna"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "naha anjeun tacan terang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "milu urang"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ari urang mah"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "diam baé"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "teu nyandak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "eta (Ramot-Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:44.035165848Z",
+  "model": "glm-5.3"
+}

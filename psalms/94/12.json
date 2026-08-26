@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Bagja jalma nu Ku-unjalkeun anjeun, wahai Yah, jeung tina torat-Mu ngajarkeun ⟨anjeunna⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bagja"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "Ku-unjalkeun anjeun"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "jeung tina torat-Mu"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ngajarkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:28.089305570Z",
+  "model": "glm-5.3"
+}

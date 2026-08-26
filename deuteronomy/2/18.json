@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Anjeun ngaliwatan poé ieu ⟨את⟩ wates Moab, ⟨את⟩ Ar:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wates Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:49.228397747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "\"Pecohan ⟨את⟩ Aharon jeung ⟨את⟩ putra-putrana babarengan jeung anjeunna, jeung ⟨את⟩ pakéan-pakéanana, jeung ⟨את⟩ minyak dimisihan, jeung ⟨את⟩ banténg kurban dosa, jeung ⟨את⟩ dua domba jantan, jeung ⟨את⟩ koropak roti nu teu di-raos;",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Pecohan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ babarengan jeung anjeunna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "pakéan-pakéanana"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "pakéan-pakéanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "minyak dimisihan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dimisihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "banténg kurban dosa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "banténg"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "dua domba jantan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "koropak roti nu teu di-raos"
+    },
+    {
+      "surface": "סל",
+      "gloss": "koropak"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti nu teu di-raos"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:58.393157371Z",
+  "model": "glm-5.3"
+}

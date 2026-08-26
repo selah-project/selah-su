@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Maranéhanana ngurilingan Yehuda, sarta ngumpulkeun ⟨את⟩ urang Levi ti sadaya kota-kota Yehuda jeung para pupuhu kolot-kolot Israél, lajeng asup ka Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "sarta ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "jeung para pupuhu"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "kolot-kolot"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lajeng asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:24:54.088238813Z",
+  "model": "glm-5.3"
+}

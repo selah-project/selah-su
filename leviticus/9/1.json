@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jadi kajadian dina poé ka dalapan, Moshe nyauran Aharon jeung putra-putrana, sarta para sesepuh Israél.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Jadi kajadian"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ka dalapan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nyauran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ka Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "jeung ka putra-putrana"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "sarta ka para sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:28.729629248Z",
+  "model": "glm-5.3"
+}

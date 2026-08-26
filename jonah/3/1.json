@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras aya sabda Yahwe ka Yonah kadua kalina, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kadua kalina"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:06.049227127Z",
+  "model": "glm-5.3"
+}

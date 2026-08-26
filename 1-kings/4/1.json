@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jadi raja Shelomoh jadi raja dina sadayana Israél.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T16:53:27.182336009Z",
+  "model": "glm-5.3"
+}

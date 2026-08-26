@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "sabab ka nu migawé gawé kasebut méré éta, sarta ku éta nguatkeun ⟨את⟩ rumah Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ka nu migawé"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "gawé kasebut"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "méré éta"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "sarta nguatkeun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:13.740245975Z",
+  "model": "glm-5.3"
+}

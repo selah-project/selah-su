@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung anjeun nempatkeun ⟨את⟩ tutup panganteur dosa dina ⟨את⟩-peti kasaksian, di jero kadas kadasy-kadasy.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "jeung anjeun nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutup panganteur dosa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup panganteur dosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di jero kadas"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadasy-kadasy"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:16.519848658Z",
+  "model": "glm-5.3"
+}

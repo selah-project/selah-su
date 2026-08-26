@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tapi anjeun jeung ⟨את⟩ abdi-abdi anjeun, abdi apaleun yén can sieun kuring kabéh ka payuneun Yahwe, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "jeung abdi-abdi anjeun"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "abdi apaleun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "can"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "sieun kuring kabéh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:10.271531386Z",
+  "model": "glm-5.3"
+}

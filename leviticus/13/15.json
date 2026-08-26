@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung nempo imam ⟨את⟩ daging hirup, jeung nyatakeun anjeunna teu beresih; daging hirup téh teu beresih — éta tsara'at.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging hirup"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "החי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "jeung nyatakeun anjeunna teu beresih"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "החי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "teu beresih"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "téh"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:32.413965501Z",
+  "model": "glm-5.3"
+}

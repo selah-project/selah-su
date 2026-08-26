@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Munga ⟨ieu⟩ ngirim pitulung anjeun tina ⟨the⟩ tempat suci, jeung tina Tsiyon munga nungtun anjeun;",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "munga ngirim"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "pitulung anjeun"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tina tempat suci"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "jeung tina Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "munga nungtun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:17.461964414Z",
+  "model": "glm-5.3"
+}

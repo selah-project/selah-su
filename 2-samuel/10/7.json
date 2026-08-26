@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung David ngadéngé, jeung manéhna ngutus ⟨את⟩ Yoab jeung ⟨את⟩ sakabéh pasukan para juragoan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "jeung ngadéngé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "jeung manéhna ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh pasukan para juragoan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "para juragoan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:33.230814715Z",
+  "model": "glm-5.3"
+}

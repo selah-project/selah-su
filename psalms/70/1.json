@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 70,
+  "translation": "Kana kolot paduan suara, tinu Daud, sangkan ngahaja émut.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kana kolot paduan suara"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tinu Daud"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "sangkan émut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:05.888983019Z",
+  "model": "glm-5.3"
+}

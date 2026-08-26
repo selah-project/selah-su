@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Ngan Anjeunna batu kuring jeung kasalametan kuring, kakuatan kuring; moal kuring teh goyang kacida.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Anjeunna"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu kuring"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "jeung kasalametan kuring"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kakuatan kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kuring goyang"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kacida"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:15.260625398Z",
+  "model": "glm-5.3"
+}

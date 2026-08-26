@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tuluy Yahwe Elohim nyandak ⟨את⟩ manusa, lajeng nungeunkeunana di kebon Éden pikeun ngokolakeunana jeung nangtayunganana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "nungeunkeunana"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di kebon"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Éden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "pikeun ngokolakeunana"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "jeung nangtayunganana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:12.648829437Z",
+  "model": "glm-5.3"
+}

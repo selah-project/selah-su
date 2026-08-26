@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "⟨את⟩ saha nu dibéjakeun ku anjeun kecap-kecap? Sarta göstri saha kaluar ti anjeun?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "dibéjakeun"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "sarta göstri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:12:38.892503372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Malem jeung siang moal pareum, saumur-umur arengna bakal ngolér; ti katurunan ka katurunan bakal garing; salawasna-salawasna euweuh nu ngaliwat di dinya.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "malem"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "jeung siang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "pareum"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "saumur-umur"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bakal ngolér"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "arengna"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "ti katurunan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ka katurunan"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "bakal garing"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "salawasna-salawasna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nu ngaliwat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T13:11:16.738019737Z",
+  "model": "glm-5.3"
+}

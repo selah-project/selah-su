@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "tempo, leungeun Yahwe bakal tumiba kana ternak anjeun nu di lapang — kana kuda, kuna, onta, sapi jeung domba — wabah nu beurat pisan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "bakal tumiba"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "kana ternak anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di lapang"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kana kuda"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "onta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "jeung domba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:10.654066219Z",
+  "model": "glm-5.3"
+}

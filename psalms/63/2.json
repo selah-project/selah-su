@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Elohim, El kuring, ⟨anjeun⟩ aya; ti mimiti fajar kuring ngudag Anjeun; geus haus nefesh kuring ⟨ka⟩ Anjeun, geus tarungkul daging kuring ⟨ka⟩ Anjeun, di taneuh garing jeung leyeh, tanpa cai.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El kuring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨anjeun⟩ aya"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ti mimiti fajar kuring ngudag Anjeun"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "geus haus"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ka⟩ Anjeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "geus tarungkul"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ka⟩ Anjeun"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "daging kuring"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "garing"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "jeung leyeh"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:54.496206796Z",
+  "model": "glm-5.3"
+}

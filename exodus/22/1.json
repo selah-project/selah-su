@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun maling ketang keur ngabolobol bumi, sarta dipukul nepi ka maot, teu aya tuntutan getih pikeun ⟨anjeunna⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "keur-ngabolobol-bumi"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ketang"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "maling"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "sarta-dipukul"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "nepi-ka-maot"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu-aya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun-anjeunna"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tuntutan-getih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:34.019156063Z",
+  "model": "glm-5.3"
+}

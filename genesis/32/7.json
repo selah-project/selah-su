@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 32:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung balik para utusan ka Yaakov, nyarita: Kuring-arah geus datang ka duduluan anjeun, ka Esau, jeung ogé anjeunna ngajugjug nyanghareupan anjeun, sarta opat ratus jalma jeung manéhna.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "jeung balik"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "para utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "kuring-arah datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "duduluan anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ngajugjug"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "nyanghareupan anjeun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jeung opat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:42.899460883Z",
+  "model": "glm-5.3"
+}

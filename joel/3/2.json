@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sareng ogé ka ⟨para⟩ abdi lalaki sareng ka ⟨para⟩ abdi awéwé, dina poé-poji éta abdi tiasa ngucurkeun ⟨את⟩ roh abdi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sareng ogé"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "⟨para⟩ abdi lalaki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sareng ka"
+    },
+    {
+      "surface": "השפחות",
+      "loss": "",
+      "gloss": "⟨para⟩ abdi awéwé"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dina poé-poji"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "éta"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "abdi tiasa ngucurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roh abdi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roh abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:08:54.664445275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tapi nu nyicingan Givon ngadangu ⟨את⟩ nu geus dipigawé ku Yehosua ka Yeriho jeung ka Ay",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "tapi nu nyicingan"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu geus dipigawé ku Yehosua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geus dipigawé"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "ka Yeriho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "jeung ka Ay"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:35.439493163Z",
+  "model": "glm-5.3"
+}

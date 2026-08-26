@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Alihkeun ⟨את⟩ bani Lewi ti tengah-tengah putra-putra Yisrael, sarta anjeun ngabadaganana.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Alihkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "bani Lewi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ti tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "sarta anjeun ngabadaganana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna (bani Lewi)"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:46.232826129Z",
+  "model": "glm-5.3"
+}

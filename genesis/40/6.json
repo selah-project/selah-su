@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Mangka Yosef datang ka aranjeunna isuk-isuk, teras nempo ⟨את⟩ aranjeunna, jeung tempo, aranjeunna marengkol hate.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mangka datang"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "teras nempo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "jeung tempo"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "marengkol hate"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:34.339159143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Pikeun pangatik. Karya David. Kacarios ku nu beleti dina haténa: euweuh Elohim. Aranjeunna geus ruksak, geus ngaharem patali, euweuh nu migawe hadé.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun pangatik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "karya David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kacarios"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nu beleti"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dina haténa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "geus ruksak"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "geus ngaharem"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "patali"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu migawe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:06.510638425Z",
+  "model": "glm-5.3"
+}

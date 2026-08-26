@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Anjeunna nyarita: sabab tujuh domba bikang ⟨the⟩ ieu anjeun bakal nyandak ti leungeun abdi, sangkan jadi sipatan pikeun abdi yén abdi ngali ⟨את⟩ sumur ieu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh domba bikang"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "domba bikang"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "anjeun nyandak"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ti leungeun abdi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "sipatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "abdi ngali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumur ieu"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:46.544964010Z",
+  "model": "glm-5.3"
+}

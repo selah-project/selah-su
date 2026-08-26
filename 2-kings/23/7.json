@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung manéhna ngancurkeun ⟨את⟩ imah-imah para kadesim anu aya di imah Yahwe, tempat para awéwé nenenun bungkus-bungkus keur Ashéra di dinya.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "jeung manéhna ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah-imah para kadesim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "para kadesim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "para awéwé"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "netennun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bungkus-bungkus"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "keur Ashéra"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:21.426459580Z",
+  "model": "glm-5.3"
+}

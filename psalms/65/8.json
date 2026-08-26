@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Nu mungkereun riuhna laut, riuhna galur-galurna, sarta riuh raména bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Nu mungkereun"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "riuhna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "riuhna"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "galur-galurna"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "riuh ramé"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:34.502069675Z",
+  "model": "glm-5.3"
+}

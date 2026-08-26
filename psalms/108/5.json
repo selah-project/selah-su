@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Sabab Ageung pisan luhureun langit-langit kanyaah satia perjangjian-Mu, jeung nepi ka awan-awan kajujuran-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Ageung"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia perjangjian-Mu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung nepi ka"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kajujuran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:24.349245135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sora Yahwe ngajungjulunkeun gurun; Yahwe ngajungjulunkeun gurun Kadésy.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ngajungjulunkeun"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ngajungjulunkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadésy"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:03.751326472Z",
+  "model": "glm-5.3"
+}

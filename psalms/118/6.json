@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Yahwe ⟨pikeun⟩ kuring; moal kuring sieun: naon nu dipigawé ku manusa ka kuring?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kuring sieun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:21.459863974Z",
+  "model": "glm-5.3"
+}

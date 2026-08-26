@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung ieu persembahan nu aranjeunna hampong ti maranéhna ⟨את⟩: emas, jeung pérak, jeung tambaga.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "anjeunna hampong"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ti maranéhna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "jeung pérak"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "jeung tambaga"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:11.783983826Z",
+  "model": "glm-5.3"
+}

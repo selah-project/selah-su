@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 23:7",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ku sabab eta, tempo, poé-poé datang, cri Yahwe, moal deui nyebut: 'Demi Yahwe hirup, nu mawa kaluar ⟨את⟩ putra-putra Yisrael ti taneuh Mitsrayim.'",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ku sabab eta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "באים",
+      "gloss": "datang"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "cri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nyebut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T13:31:08.789062597Z",
+  "model": "glm-5.3"
+}

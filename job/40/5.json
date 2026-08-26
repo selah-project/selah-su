@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Sakali kuring geus nyarita, tapi moal ngajawab; dua kali, tapi moal nambahan deui.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "sakali"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kuring geus nyarita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dua kali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nambahan deui"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:19.384728169Z",
+  "model": "glm-5.3"
+}

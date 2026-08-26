@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung sapi jeung beruang ngahakan babarengan; anak-anakna rebah ngahiji; jeung singa dahar jukut saperti munding.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "jeung sapi"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "jeung beruang"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "ngahakan babarengan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ngahiji"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "rebah"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "jeung singa"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "saperti munding"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "jukut"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:55.906783256Z",
+  "model": "glm-5.3"
+}

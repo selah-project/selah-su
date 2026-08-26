@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Yahwe ngandika ka Moshe: moal ngadenge kaanjeun Paro, sangkan ngaronjat tanda-tanda ajaib abdi di tanah Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngadenge"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kaanjeun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ngaronjat"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "tanda-tanda-ajaib-abdi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di-tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:55.064972014Z",
+  "model": "glm-5.3"
+}

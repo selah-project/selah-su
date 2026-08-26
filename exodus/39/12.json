@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung baris katilu: lesyem, shevo, jeung ahlamah.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "jeung baris"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katilu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "lesyem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "shevo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "jeung ahlamah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:05.057735278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Ka anjeun ⟨aranjeunna⟩ ngahara, tur ngaleupaskeun; ka anjeun bogoh nyalindung, sareng teu kaerokeun.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ngahara"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bogoh nyalindung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "kaerokeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:30.033209334Z",
+  "model": "glm-5.3"
+}

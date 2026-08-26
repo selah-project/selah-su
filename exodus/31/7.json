@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "⟨את⟩ kamah paheutan, jeung ⟨את⟩ tabut piagem, jeung ⟨את⟩ tutup panebusan nu di luhurna, jeung ⟨את⟩ sadayana parabot kamah.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamah"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kamah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "paheutan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "piagem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tutup panebusan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup panebusan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di luhurna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadayana parabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kamah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:25.081234500Z",
+  "model": "glm-5.3"
+}

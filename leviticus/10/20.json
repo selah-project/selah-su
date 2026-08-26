@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sangkan Moshe ngadangu, sareng éta hadé dina panonna.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dina panonna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:54.466386385Z",
+  "model": "glm-5.3"
+}

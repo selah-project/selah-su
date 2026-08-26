@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Elohim, lagu anyar kuring badé nyanyikeun ka Anjeun, ku nébel sapuluh senar kuring badé ngageterkeun senar ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuring badé nyanyikeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ku nébel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sapuluh senar"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "kuring badé ngageterkeun senar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:34.253379391Z",
+  "model": "glm-5.3"
+}

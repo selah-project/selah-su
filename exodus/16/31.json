@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sarta bét Israil ngaranan ⟨את⟩ ngaranna Man; jeung eta kawas siki ketumbar, bodas, sarta rasana kawas roti ipis jeung madu.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ngaranan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jeung-eta"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "kawas-siki"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ketumbar"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bodas"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "sarta-rasana"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "kawas-roti-ipis"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "jeung-madu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:21.643394033Z",
+  "model": "glm-5.3"
+}

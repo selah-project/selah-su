@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Tapi abdi mah kawas tangkal zatun nu héjo di imah Elohim; abdi percaya ka xesed Elohim salawasna sarta salamina.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tapi abdi mah"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "kawas tangkal zatun"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "nu héjo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "abdi percaya"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ka xesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sarta salamina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:13.750444114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung aranjeunna baradag, nyingsalkeun ⟨את⟩ altar-altar nu aya di Yerushalaim, jeung ⟨את⟩ sadaya tempat ngahaseupan does the removing — aranjeunna miceun, sarta munggelkeunana ka walungan Kidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "baradag"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "nyingsalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar-altar"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altar-altar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya tempat ngahaseupan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "tempat ngahaseupan"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "miceun"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "munggelkeunana"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ka walungan"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-08-26T16:31:37.464661263Z",
+  "model": "glm-5.3"
+}

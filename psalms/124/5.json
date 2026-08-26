@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 124,
+  "translation": "Mangka ngalih ngaliwat ka luhureun nyawa urang cai-cai nu nyombong Pangéwar",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Mangka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngalih ngaliwat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nyawa urang"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai-cai"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "nu nyombong Pangéwar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:05.847235059Z",
+  "model": "glm-5.3"
+}

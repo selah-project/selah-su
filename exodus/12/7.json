@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung aranjeun bakal ngala ti getihna, jeung ngeusian kana dua tiang panto jeung kana palang luhurna, kana imah-imah tempat aranjeun bakal ngahakan ⟨את⟩ manéhna di jerona.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "jeung aranjeun ngala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "jeung ngeusian kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "tiang panto"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung kana"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "palang luhurna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "aranjeun bakal ngahakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:21.907979203Z",
+  "model": "glm-5.3"
+}

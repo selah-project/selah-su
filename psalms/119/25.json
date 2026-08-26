@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Nefesh kuring nempel kana lebu; hirupkeun kuring luyu jeung kecap-Mu.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "nempel"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "kana lebu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "hirupkeun kuring"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "luyu jeung kecap-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:28.292100919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Lajeng Paroh nyarita ka anjeunna: Naha naon anjeun kurang di sisi abdi, sungkan anjeun ngahayang indit ka nagari anjeun? Lajeng anjeunna ngomong: Henteu, tapi ngaleupas satemenna anjeun ngaleupaskeun abdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lajeng nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "naha"
+    },
+    {
+      "surface": "mah",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "di sisi abdi"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "sungkan anjeun"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ngahayang"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "indit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "nagari anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lajeng ngomong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Henteu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngaleupas"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "anjeun ngaleupaskeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:01.034649250Z",
+  "model": "glm-5.3"
+}

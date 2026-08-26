@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Nyarampeunganana téh taneuh maranéhna: bangkong, di jero kamar-kamar raja maranéhna.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "nyarampeunganana"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "taneuh maranéhna"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "bangkong"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "di jero kamar-kamar"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "raja maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:25.409778939Z",
+  "model": "glm-5.3"
+}

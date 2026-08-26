@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Ngahayang tapi euweuh — nawala nu lala; jeung nawala nu gancang-gancang digendutkeun.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "ngahayang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi euweuh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nawalana"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "nu lala"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "jeung nawala"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "nu gancang-gancang"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "digendutkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:59:06.111738665Z",
+  "model": "glm-5.3"
+}

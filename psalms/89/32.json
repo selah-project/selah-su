@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Lamun katangtuan-katangtuan abdi maranéhana tohok, sarta parentah-parentah abdi moal maranéhana ngajaga.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katangtuan-katangtuan abdi"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "maranéhana tohok"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "sarta parentah-parentah abdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "maranéhana ngajaga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:34.569064245Z",
+  "model": "glm-5.3"
+}

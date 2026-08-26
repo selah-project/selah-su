@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Kawas maranéhana jadi nu nyieunana, sadayana nu percaya ka maranéhana.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kawas maranéhana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "nu nyieunana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka maranéhana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:24.717400937Z",
+  "model": "glm-5.3"
+}

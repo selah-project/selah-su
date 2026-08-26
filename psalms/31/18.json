@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Yahwe, ulah mawa abdi ka malu, sabab abdi geus nyeri ka Anjeun; sing jadi malu nu batur jahat, sing jadi bisu ka Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "abdi malu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "abdi nyeri ka Anjeun"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sing jadi malu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu batur jahat"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "sing jadi bisu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Sheol"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:42.511069983Z",
+  "model": "glm-5.3"
+}

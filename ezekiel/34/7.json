@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Mangka, hai para angon, sao pangdengena ⟨את⟩ kecap Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hai para angon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sao pangdengena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:55:34.408636797Z",
+  "model": "glm-5.3"
+}

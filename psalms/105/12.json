@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Nalika maranehna can loba jalmana, ngan saeutik pisan, sarta jadi bumi darat di dinya.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "nalika maranehna jadi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "can loba"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ngan saeutik pisan"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "sarta jadi bumi darat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:28.707481098Z",
+  "model": "glm-5.3"
+}

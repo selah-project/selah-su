@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung ⟨את⟩ aranjeunna kudu ngajaga ⟨את⟩ sagala katangtuan-Ku jeung ⟨את⟩ sagala hukum-Ku, sarta ngalaksanakeunana; ari Kami ⟨⟨ Yahwe ⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jeung aranjeunna kudu ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala katangtuan-Ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katangtuan-Ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala hukum-Ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-Ku"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "sarta ngalaksanakeunana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ari Kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:02.800488945Z",
+  "model": "glm-5.3"
+}

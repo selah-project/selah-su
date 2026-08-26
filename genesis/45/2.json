@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Sarta anjeunna ngaleupaskeun ⟨את⟩ soraana dina ceurik, sarta Mesir ngadéngé, sarta imah Parho ngadéngé.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "sarta anjeunna ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soraana"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "soraana"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "dina ceurik"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "sarta ngadéngé"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "sarta ngadéngé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:01.807381556Z",
+  "model": "glm-5.3"
+}

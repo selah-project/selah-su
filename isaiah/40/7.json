@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jukut garing, kembang layu, sabab angin Yahwe niup ka ⟨iEU⟩. Pilahaeun, bangsa mah jukut.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "layu"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kembang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "niup"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka ieu"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "pilahaeun"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:54.175227908Z",
+  "model": "glm-5.3"
+}

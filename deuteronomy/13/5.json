@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Sanggeus Yahwe, Elohim anjeun, anjeun leumpang; ka ⟨את⟩-Na anjeun sieuneun; ⟨את⟩ parentah-parentah-Na anjeun taliti; kana sora-Na anjeun ngadangu; ka ⟨את⟩-Na anjeun ngawula; sarta ka Anjeunna anjeun napel.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "anjeun leumpang"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ka ⟨את⟩-Na",
+      "marks": "Yahwe, Elohim anjeun"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "anjeun sieuneun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-parentah-Na"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "parentah-parentah-Na"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "anjeun taliti"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "kana sora-Na"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "anjeun ngadangu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ka ⟨את⟩-Na",
+      "marks": "Yahwe, Elohim anjeun"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "anjeun ngawula"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "anjeun napel"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:17.972161628Z",
+  "model": "glm-5.3"
+}

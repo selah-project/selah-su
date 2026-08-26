@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sarta anjeun dihandapkeun, ti taneuh anjeun nyarita, sarta ti keusik nyirikeun omongan anjeun; sarta ⟨jadi⟩ saperti jiwa ti taneuh sora anjeun, sarta ti keusik omongan anjeun nciwit ngareunggeuk.",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "sarta anjeun dihandapkeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "anjeun nyarita"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "sarta ti keusik"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "nyirikeun (ngalelewir)"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "omongan anjeun"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "saperti jiwa (nu maot)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sora anjeun"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "sarta ti keusik"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "omongan anjeun"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "nciwit ngareunggeuk"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:44.722025299Z",
+  "model": "glm-5.3"
+}

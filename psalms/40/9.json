@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Miduat kanyaah-Mu, Elohim kuring, kuring resep, jeung Taurat-Mu aya di jero jerohan kuring.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "miduat"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "kanyaah-Mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kuring resep"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "jeung Taurat-Mu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di jero"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "jerohan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:15.068403672Z",
+  "model": "glm-5.3"
+}

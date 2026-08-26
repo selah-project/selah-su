@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sabab anjeun, Yahwe, ngabungakeun nu bener; kawas tứrga ⟨kabunga⟩ kanyaah ngurung manéhna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ngabungakeun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "kawas palpil"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kanyaah"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "ngurung manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:06.371012664Z",
+  "model": "glm-5.3"
+}

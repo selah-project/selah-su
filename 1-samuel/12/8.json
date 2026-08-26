@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Nalika Yaakov asup ka Mitsrayim, bapak-bapak aranjeun nyeriong ka Yahwe, lajeng Yahwe ngirim ⟨את⟩ Moshe jeung ⟨את⟩ Aharon, maranehna mawa kaluar ⟨את⟩ bapak-bapak aranjeun ti Mitsrayim, jeung nempatkeun maranehna di tempat ieu.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Nalika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "nyeriong"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapak-bapak aranjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lajeng ngirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "maranehna mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapak-bapak aranjeun"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bapak-bapak aranjeun"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "jeung nempatkeun maranehna"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:56.217874679Z",
+  "model": "glm-5.3"
+}

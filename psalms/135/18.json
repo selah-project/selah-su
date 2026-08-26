@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Kayas aranjeuna, jadina nu nyieunana; nya kitu ogé sadayana nu percaya ka maranehna.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kayas aranjeuna"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadina"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "nu nyieunana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:01.466740956Z",
+  "model": "glm-5.3"
+}

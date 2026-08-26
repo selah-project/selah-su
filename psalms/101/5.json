@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 101,
+  "translation": "Nu ngamadu bisiway babaturanana, ⟨את⟩ kula binasakeun; nu luhur panon sarta lega haté, ⟨את⟩ lain kula tiasa antengan",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "nu ngamadu"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "bisiway"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (anu dipadu)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "kula binasakeun"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "panon"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "sarta lega"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nu luhur panon sarta lega haté"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kula tiasa antengan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:11.219095699Z",
+  "model": "glm-5.3"
+}

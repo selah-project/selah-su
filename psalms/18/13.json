@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Ti caang-caang anu di payuneun-Nana, awan-awan-Nana ngaliwat — és-hujan jeung angkur seuneu.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Ti caang-caang"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "anu di payuneun-Nana"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "awan-awan-Nana"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "és-hujan"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "jeung angkur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:34.353036837Z",
+  "model": "glm-5.3"
+}

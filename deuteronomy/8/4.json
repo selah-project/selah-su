@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Papakéan anjeun moal taya dina awak anjeun, jeung suku anjeun moal bareuh, ieu opat puluh tahun.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "papakéan anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "taya\/soé"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "dina awak anjeun"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "jeung suku anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "bareuh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:13.681991917Z",
+  "model": "glm-5.3"
+}

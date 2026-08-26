@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung budak Samuel ngawula ka ⟨את⟩ Yahwe di payuneun Eli, sarta kecap Yahwe jadi jarang dina poé-poé harita — teu aya pangimatan nu ngabeledas.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "jeung budak"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ngawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "sarta kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "jarang"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dina poé-poé"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "harita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "pangimatan"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "ngabeledas"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:14.048137365Z",
+  "model": "glm-5.3"
+}

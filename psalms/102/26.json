@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Ti baheula Anjeun ngadegkeun ⟨את⟩ dumi, jeung lantung-langit ⟨is⟩ gawé leungeun-leungeun Anjeun.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Ti baheula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dumi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Anjeun ngadegkeun"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "jeung gawé"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "leungeun-leungeun Anjeun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "lantung-langit"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:42.550278367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Yahwe nyarita ka haSatan: Ti mana anjeun datang? Laju haSatan ngajawab ⟨את⟩ Yahwe jeung nyarita: Ti ngaliwatan di bumi jeung ti ngajalan-jalanan di jerona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "haSatan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ti mana"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "anjeun datang"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "haSatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "ti ngaliwatan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "jeung ti ngajalan-jalanan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:21.563009597Z",
+  "model": "glm-5.3"
+}

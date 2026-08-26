@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sarta ieu ⟨⟩ moal jadi teu beresihanna dina kaluarna: najan dagingna ngocorkeun ⟨את⟩ kaluarna, atawa dagingna katutup tina kaluarna — teu beresihanna éta ⟨⟨téh⟩⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "sarta ieu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "moal jadi"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "teu beresihanna"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "dina kaluarna"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ngocorkeun"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluarna"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "kaluarna"
+    },
+    {
+      "surface": "או",
+      "gloss": "ataawa"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "katutup"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "tina kaluarna"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "teu beresihanna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:09.438965670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Bakal balik kasusahana ka sirahna, jeung ka puncak huluna kajahatanna bakal turun.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bakal balik"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "kasusahana"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ka sirahna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "puncak huluna"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "kajahatanna"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bakal turun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:15.207398383Z",
+  "model": "glm-5.3"
+}

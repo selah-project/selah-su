@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Elohim nyarita: ‘Ajengan cai ngahasilkeun buuk-buuk mahluk hirup, sarta manuk ngahiber luhureun ⟨cai⟩ darat, luhureun irung-irungan raray langit-langit.’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "ngahasilkeun buuk-buuk"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "buuk-buuk"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mahluk"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "ngahiber"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "darat"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "irung-irungan raray"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:19.793143331Z",
+  "model": "glm-5.3"
+}

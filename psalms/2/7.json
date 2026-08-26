@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Abdi badé ngadawuhkeun patéká: Yahwe ngandika ka abdi: «Anak abdi anjeun; ayeuna abdi ngalahirkeun anjeun.»",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "abdi badé ngadawuhkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "חק",
+      "gloss": "patéká"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak abdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ngalahirkeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:48.238368882Z",
+  "model": "glm-5.3"
+}

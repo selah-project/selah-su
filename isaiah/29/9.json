@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Ralong-ralong sarta heran; maledor jauh sarta maledor; mabok, tapi lain ku anggur; gangsir, tapi lain ku inuman keras.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "ralong-ralong"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "sarta heran"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "maledor jauh"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "sarta maledor"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "mabok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi lain"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ku anggur"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "gangsir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi lain"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "inuman keras"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:03.965802301Z",
+  "model": "glm-5.3"
+}

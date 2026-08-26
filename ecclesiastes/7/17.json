@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ulah ngalakukeun jalma jahat ka luhur, jeung ulah jadi ruughtu; naha anjeun bakal maot teu dina waktos anjeun?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ngalakukeun jalma jahat"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ruughtu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "anjeun bakal maot"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "teu dina"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "waktos anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:42.763985188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung maranéhna henteu nyaho yén Yoséf ngadangu, sabab aya panarjamah di antara maranéhna.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Jeung maranéhna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "panarjamah"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "di antara maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:57.065605830Z",
+  "model": "glm-5.3"
+}

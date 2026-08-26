@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung ka istri babaturan anjeun ulah méré saré-jinis anjeun pikeun turunkeun siki, pikeun najis ku ⟨anjingannya⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "babaturan anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "saré-jinis anjeun"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "pikeun turunkeun siki"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "pikeun najis"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku anjingannya"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:44.041125721Z",
+  "model": "glm-5.3"
+}

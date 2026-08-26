@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Cai tina kirbat béak, lajeng manéhna ngiceung ⟨את⟩ bocah éta di handapeun salah sahiji rungkun.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "béak"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "kirbat"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ngiceung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah éta"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah éta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "salah sahiji"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "rungkun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:05.406220649Z",
+  "model": "glm-5.3"
+}

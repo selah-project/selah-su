@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Bilesang daging kaula jeung kulit kaula, ngaruksak tulang-tulang kaula.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Bilesang"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "daging kaula"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "jeung kulit kaula"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ngaruksak"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulang-tulang kaula"
+    }
+  ],
+  "timestamp": "2026-08-26T15:27:32.294650097Z",
+  "model": "glm-5.3"
+}

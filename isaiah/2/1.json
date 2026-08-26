@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Kecap nu ditingali Yeshayahu putra Amots ngeunaan Yehudah jeung Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ditingali"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jeung Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:45.104130648Z",
+  "model": "glm-5.3"
+}

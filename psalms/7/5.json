@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Upami kuring geus mambalas nu damai jeung kuring ku jahat, sarta geus ngabebaskeun musuh kuring kalawan henteu aya sababna —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "kuring geus mambalas"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "nu damai jeung kuring"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "sarta geus ngabebaskeun"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "musuh kuring"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tanpa sabab"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:02.518604635Z",
+  "model": "glm-5.3"
+}

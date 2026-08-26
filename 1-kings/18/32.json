@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung anjeunna ngawangun ⟨את⟩ ⟨the⟩ batu-batu jadi mézbah dina ngaran Yahwe, jeung anjeunna nyieun parit saluas rohang dua saah bibit, ngurilingan mézbah.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dina ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "parit"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "saluas rohang"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "dua saah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bibit"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mézbah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:55:54.777148302Z",
+  "model": "glm-5.3"
+}

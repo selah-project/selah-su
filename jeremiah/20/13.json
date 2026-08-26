@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Ujudkeun ka Yahwe, memuji ⟨את⟩ Yahwe, sabab geus nyalametkeun ⟨את⟩ nyawa nu cacag ti leungeun nu-ngaruksak.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Ujudkeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nu cacag"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nu-ngaruksak"
+    }
+  ],
+  "timestamp": "2026-08-26T13:29:19.606760897Z",
+  "model": "glm-5.3"
+}

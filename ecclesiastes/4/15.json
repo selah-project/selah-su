@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Kuring nempo ⟨את⟩ sagala nu hirup nu ngumbara sahandapeun panonpoé, ngiringan budak kadua nu baris ngadeg satukangeunana.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nu hirup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "nu ngumbara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ngiringan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "baris ngadeg"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "satukangeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:50.844093376Z",
+  "model": "glm-5.3"
+}

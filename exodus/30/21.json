@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung aranjeunna ngumbah leungeunana jeung sukuhna, ulah nepika maot, sarta ⟨ieu⟩ jadi pikeun aranjeunna katangtuan salawasna, pikeun manéhna jeung pikeun turunanna, ka katurunanana.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "jeung aranjeunna ngumbah"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "jeung sukuhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "maot"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pikeun aranjeunna"
+    },
+    {
+      "surface": "חק",
+      "gloss": "katangtuan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manéhna"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "jeung pikeun turunanna"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ka katurunanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:51.204647280Z",
+  "model": "glm-5.3"
+}

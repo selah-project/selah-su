@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung ⟨את⟩ Kivtsayim jeung ⟨את⟩ padang kalolonganna, jeung ⟨את⟩ Beit Horon jeung ⟨את⟩ padang kalolonganna — kota-kota opat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kivtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang kalolonganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang kalolonganna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Beit Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang kalolonganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang kalolonganna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:59:58.476646670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sabab ayeuna maranéhna bakal nyarita: euweuh raja pikeun urang, sabab urang teu sieun ka ⟨את⟩ Yahwe; lain raja, naon anu baris dipigawé pikeun urang?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "maranéhna bakal nyarita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "urang sieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "lain raja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "baris dipigawé"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:51.262017198Z",
+  "model": "glm-5.3"
+}

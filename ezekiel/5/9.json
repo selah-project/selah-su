@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung kula baris ngalakukeun ka anjeun ⟨את⟩ nu teu kungsi kula lakukeun, jeung ⟨את⟩ nu sapertos kitu teu baris kula lakukeun deui, sabab sakabéh kajijikan anjeun.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "jeung kula baris ngalakukeun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu teu kungsi kula lakukeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kula lakukeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu teu baris kula lakukeun deui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "kula baris lakukeun"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sapertos kitu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "kajijikan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:45:39.186040333Z",
+  "model": "glm-5.3"
+}

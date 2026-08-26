@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 20:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung ka Sarai anjeunna nyarita: Tapéa, kuring geus masihan saréwu perak ka sadéré anjeun; tapéa, éta jadi pikeun anjeun panutup panon, ka sagala nu ⟨את⟩ babarengan jeung anjeun, jeung ⟨את⟩ sagala; sarta anjeun dibenerkeun.",
+  "tokens": [
+    {
+      "surface": "ולשרה",
+      "gloss": "jeung ka Sarai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anjeunna nyarita"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tapéa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring geus masihan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "saréwu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ka sadéré anjeun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tapéa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "panutup"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "panon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ babarengan jeung anjeun",
+      "marks": "babarengan jeung anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "ונכחת",
+      "gloss": "sarta anjeun dibenerkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:37:17.145132442Z",
+  "model": "glm-5.3"
+}

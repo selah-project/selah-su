@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Sabab maranehna ngalawan omongan-omongan El, sarta puas Elyon dipcahna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "maranehna ngalawan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "omongan-omongan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "sarta puas"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "dipcahna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:01.517274935Z",
+  "model": "glm-5.3"
+}

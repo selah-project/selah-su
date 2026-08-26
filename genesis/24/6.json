@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung ngomong ka anjeunna Avraham: Jagakeun diri anjeun, supaya ulah anjeun mulangkeun ⟨את⟩ putra kuring ka dinya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "jagakeun diri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ulah"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "anjeun mulangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra kuring"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra kuring"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:45.714347160Z",
+  "model": "glm-5.3"
+}

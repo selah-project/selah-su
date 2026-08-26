@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Kabeneran, kabeneran anjeun ngudag, sangkan anjeun hirup sarta ngawasaan ⟨את⟩ ⟨the⟩ tanah nu Yahwe Elohim anjeun méré ka anjeun.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Kabeneran"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "anjeun ngudag"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "anjeun hirup"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "sarta ngawasaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:51.196136187Z",
+  "model": "glm-5.3"
+}

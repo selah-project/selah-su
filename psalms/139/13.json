@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Sabab anjeun nu nyiptakeun ginjal-ginjal kuring, nu ngahubungkeun kuring dina beuteung indung kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "nyiptakeun"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ginjal-ginjal kuring"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ngahubungkeun kuring"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "dina beuteung"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "indung kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:37.206467112Z",
+  "model": "glm-5.3"
+}

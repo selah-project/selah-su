@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Adil Yahwe dina sakumijing jalanna, jeung kanyaah satia dina sakumijing pagawéanna.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Adil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sakumijing"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalanna"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "jeung kanyaah satia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sakumijing"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "pagawéanna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:25.875542948Z",
+  "model": "glm-5.3"
+}

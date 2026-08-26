@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Nu ngawangun caang sarta nu nyipta gelap, nu nyieun kadamayan sarta nu nyipta katugeran; Abdi Yahwe, nu ngalaksanakeun sadaya ieu.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "nu ngawangun"
+    },
+    {
+      "surface": "אור",
+      "gloss": "caang"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "sarta nu nyipta"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu nyieun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kadamayan"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "sarta nu nyipta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "katugeran"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu ngalaksanakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:58.474485932Z",
+  "model": "glm-5.3"
+}

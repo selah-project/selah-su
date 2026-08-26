@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sarta raja ngomong ka Amasa: saruakeun pikeun abdi ⟨את⟩ lalaki Yehuda tilu poé, sarta anjeun di dieu nangtung.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "saruakeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sarta anjeun"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di dieu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nangtung"
+    }
+  ],
+  "timestamp": "2026-08-26T12:34:51.728395727Z",
+  "model": "glm-5.3"
+}

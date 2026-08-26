@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Moal nempo abdi deui panon nu nempo kuring; panon-Mu ka abdi, tapi abdi moal aya deui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Moal"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "nempo abdi deui"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "nu nempo kuring"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "panon-Mu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "tapi abdi moal aya deui"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:27.228302172Z",
+  "model": "glm-5.3"
+}

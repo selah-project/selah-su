@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Dina kasusah kuring kuring nyeruan Yahwe, jeung ka Elohim kuring kuring ngageter; Anjeunna ngadangu sora kuring ti istana-Na, jeung saraung kuring datang ka payuneun-Na, kana ceuli-Na.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "dina kasusah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kuring nyeruan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "kuring ngageter"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "Anjeunna ngadangu"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "ti istana-Na"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora kuring"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "jeung saraung kuring"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ka payuneun-Na"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "kana ceuli-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:24.393470113Z",
+  "model": "glm-5.3"
+}

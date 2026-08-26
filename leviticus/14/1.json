@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sarta Yahwe nyarita ka Moshe, sangkan ngandika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngandika"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:47.096338074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Jeung pangawasa tukang-tukang sambar nyandak ⟨את⟩ Serayah imam pangluhurna, jeung ⟨את⟩ Tsefanyah imam kadua, jeung ⟨את⟩ tilu nu ngajaga lawang.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tukang-tukang sambar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah imam pangluhurna"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pangluhurna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Tsefanyah imam kadua"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tilu nu ngajaga lawang"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "nu ngajaga"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "lawang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:43:39.399340015Z",
+  "model": "glm-5.3"
+}

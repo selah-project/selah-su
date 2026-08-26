@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Tapi anjeun, araeun ka dieu, anak-anak tukang ramal, katurunan pangzina, jeung anjeun sapatut-patutan",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Tapi anjeun"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "araeun ka dieu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ka dieu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "tukang ramal"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "pangzina"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "anjeun sapatut-patutan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:18:06.281151108Z",
+  "model": "glm-5.3"
+}

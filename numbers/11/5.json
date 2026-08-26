@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Kami émut lauk-lauk nu ku kami dahar di Mitsrayim tanpa bayaran; ⟨את⟩ bonténg, ⟨את⟩ mwah, ⟨את⟩ prako, ⟨את⟩ bawang bodas, jeung ⟨את⟩ bawang beureum.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "émut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauk-lauk"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "lauk-lauk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ku kami dahar"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa bayaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonténg"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "bonténg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "mwah"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "mwah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "prako"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "prako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bawang bodas"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "bawang bodas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bawang beureum"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "bawang beureum"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:33.819355998Z",
+  "model": "glm-5.3"
+}

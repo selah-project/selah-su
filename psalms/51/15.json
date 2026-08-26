@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Abdi baris ngajarkeun jalan-jalan Anjeun ka nu ngalanggar, jeung nu dosa baris balik deui ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "abdi baris ngajarkeun"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ka nu ngalanggar"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-jalan Anjeun"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "jeung nu dosa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "baris balik deui"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:25.329156700Z",
+  "model": "glm-5.3"
+}

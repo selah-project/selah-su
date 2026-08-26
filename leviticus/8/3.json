@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "jeung ⟨את⟩ sadaya jamaah kumpulkeun ka panto khemah patempatan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadaya jamaah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kumpulkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patempatan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:58.393327443Z",
+  "model": "glm-5.3"
+}

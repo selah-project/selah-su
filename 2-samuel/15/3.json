@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung Avshalom nyarita ka anjeunna: Tingali, pakara anjeun hadé jeung bener, tapi euweuh nu ngadangukeun anjeun ti ⟨את⟩ raja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tingali"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "pakara anjeun"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "jeung bener"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ngadangukeun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh nu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ti",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:12.376259909Z",
+  "model": "glm-5.3"
+}

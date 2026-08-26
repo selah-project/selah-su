@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sabab Yahwe ⟨is⟩ ageung sarta kacida muji, sarta ⟨Ia⟩ bageut luhureun sadaya allah-allah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ageung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "sarta kacida muji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kacida"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "sarta bageut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:12:08.913334607Z",
+  "model": "glm-5.3"
+}

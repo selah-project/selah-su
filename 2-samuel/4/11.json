@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 4:11",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lamun kitu, sabab jalma-jalma jahat geus maéhan ⟨את⟩ saurang lalaki bener dina imahna, di luhureun dipurana — ayeuna moal abdi nyiar ⟨את⟩ getihna ti leungeun aranjeun, sarta mupus aranjeun ti taneuh?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "lamun kitu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "geus maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saurang lalaki bener"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bener"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "dina imahna"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "dipurana"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "abdi nyiar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "ti leungeun aranjeun"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "sarta mupus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:37.954387877Z",
+  "model": "glm-5.3"
+}

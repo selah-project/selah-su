@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Nu nyésa tina gaizam didahar ⟨את⟩ arbeh, jeung nu nyésa tina arbeh didahar ⟨את⟩ yélek, jeung nu nyésa tina yélek didahar ⟨את⟩ xasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "nu nyésa"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "tina gaizam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh",
+      "marks": "arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "jeung nu nyésa"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "tina arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yélek",
+      "marks": "yélek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "jeung nu nyésa"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "tina yélek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "xasil",
+      "marks": "xasil"
+    }
+  ],
+  "timestamp": "2026-08-26T17:08:11.490434679Z",
+  "model": "glm-5.3"
+}

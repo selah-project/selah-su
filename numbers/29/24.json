@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 29:24",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "kurban sarékéh maranéhna sarta kurban inuman maranéhna pikeun ⟨the⟩ sapi-sapi jantan, pikeun ⟨the⟩ domba-domba jantan, jeung pikeun ⟨the⟩ anak domba, sajumlahana, dumasar kana katangtuan",
+  "tokens": [
+    {
+      "surface": "מנחתם",
+      "gloss": "kurban sarékéh maranéhna"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "jeung kurban inuman maranéhna"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "pikeun sapi-sapi jantan"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "pikeun domba-domba jantan"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "jeung pikeun anak domba"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "sajumlahana"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dumasar kana katangtuan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:35:22.976623946Z",
+  "model": "glm-5.3"
+}

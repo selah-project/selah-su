@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "jeung ⟨את⟩ bangau, ⟨את⟩ kondor mimiti-rupa-rupana, jeung ⟨את⟩ hudihud, jeung ⟨את⟩ kukupu,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bangau"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "bangau"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "kondor"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "mimiti-rupa-rupana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "hudihud"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "hudihud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kukupu"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "kukupu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:17.897758411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Lajeng bangsa ⟨di⟩ bumina nyandak ⟨את⟩ Yehoaxaz anak Yosyiahu, sarta matak boga raja anjeunna gaganti bapana di Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lajeng nyandak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoaxaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosyiahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "matak boga raja anjeunna"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:34:25.148984977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Kareta-kareta Elohim puluhan rebu, rebu-rebu kali lipat; Adonay aya di antawisna, di Sinai, di tempat suci.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "kareta-kareta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "puluhan rebu"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "rebu-rebu"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "kali lipat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di antawisna"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "di Sinai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tempat suci"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:08.980869365Z",
+  "model": "glm-5.3"
+}

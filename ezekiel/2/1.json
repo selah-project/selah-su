@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung anjeunna nyarita ka abdi: Putra manusa, nangtung dina sukuna, bilih abdi badé nyarita ⟨את⟩ ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung anjeunna nyarita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "sukuna"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "bilih abdi badé nyarita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:43:07.590032995Z",
+  "model": "glm-5.3"
+}

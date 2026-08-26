@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung aranjeun bakal nyaho yén akuinggeuningan Yahwe, sanggeus muka kubur-kubur aranjeun jeung ngaraketkeun aranjeun kaluar tina kubur-kubur aranjeun, umat kuring.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "anjeun bakal nyaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akuinggeuningan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "sanggeus muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubur-kubur aranjeun"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "kubur-kubur aranjeun"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "jeung ngaraketkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "tina kubur-kubur aranjeun"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T13:56:31.361783681Z",
+  "model": "glm-5.3"
+}

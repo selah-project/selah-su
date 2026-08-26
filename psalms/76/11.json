@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Sabab bendu manusa baris muji Anjeun; sésa bendu Anjeun ngapingping.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bendu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "baris muji Anjeun"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "sésa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bendu"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "Anjeun ngapingping"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:14.416786818Z",
+  "model": "glm-5.3"
+}

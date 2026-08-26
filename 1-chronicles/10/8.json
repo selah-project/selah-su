@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teras kajadian isuk-isukna, Peelishti datang pikeun ngaruksak ⟨את⟩ nu geus palastra, sarta maranéhna manggihan ⟨את⟩ Shaul jeung ⟨את⟩ putra-putrana ragrag di gunung Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras kajadian"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "isuk-isukna"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peelishti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "pikeun ngaruksak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu geus palastra"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "nu geus palastra"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "sarta maranéhna manggihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-26T17:25:23.496896165Z",
+  "model": "glm-5.3"
+}

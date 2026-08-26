@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "jeung ⟨את⟩ méja jeung parabotna, jeung ⟨את⟩ palilian nu murni jeung sadayana parabotna, jeung ⟨את⟩ altar seuseungitan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "méja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "parabotna"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "palilian"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "palilian"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nu murni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadayana parabotna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "altar seuseungitan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "seuseungitan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:25.081393570Z",
+  "model": "glm-5.3"
+}

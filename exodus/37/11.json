@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna ngabalutan ⟨את⟩ eta ku emas murni, jeung nyieun pikeun eta wATES emas sabudeureunana.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Jeung anjeunna ngabalutan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "jeung nyieun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun eta"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wATES"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:01.996459026Z",
+  "model": "glm-5.3"
+}

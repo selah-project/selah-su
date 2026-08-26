@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung nu datang kahiyatan bari mawa ⟨את⟩ habitation-habitation kudu diadegkeun nepi ka datangna aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "lakukeun ngadatang"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehat-sok"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "habitation-habitation suci"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "jeung maranehna ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "באם",
+      "gloss": "datangna maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:41.447453125Z",
+  "model": "glm-5.3"
+}

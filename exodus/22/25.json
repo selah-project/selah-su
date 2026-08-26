@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun ngajamin ⟨את⟩ pakéan babaturan anjeun, nepi ka surup ⟨the⟩ panonpoé anjeun mulangkeun ka manéhna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ngajamin"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ngajamin"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "pakéan"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "babaturan anjeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "surup"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "anjeun mulangkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:55.439690863Z",
+  "model": "glm-5.3"
+}

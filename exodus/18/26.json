@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Aranjeunna ngadilan ⟨את⟩ bangsa dina unggal waktu; perkara nu beurat dibawana ka Moshe, tapi sadaya perkara nu leutik marariksa sorangan.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ngadilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina unggal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara nu beurat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nu beurat"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "dibawana ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tapi sadaya"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nu leutik"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "marariksa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mararikna sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:34.126746500Z",
+  "model": "glm-5.3"
+}

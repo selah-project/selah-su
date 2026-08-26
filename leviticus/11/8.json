@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Tina dagingna aranjeun ulah dahar, jeung bangkéna aranjeun ulah antel — najis maranéhna pikeun aranjeun.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "tina dagingna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "jeung bangkéna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "antel"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "najis"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:17.550083338Z",
+  "model": "glm-5.3"
+}

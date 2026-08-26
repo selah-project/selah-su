@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Tapi lamun anjeunna ngabatalkeun ⟨את⟩-na(eta) sanggeus ngadéngé, anjeunna bakal mawa ⟨את⟩ kasalahanana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi lamun"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ngabatalkeun"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ngabatalkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "bakal mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasalahanana"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kasalahanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:36:19.662316420Z",
+  "model": "glm-5.3"
+}

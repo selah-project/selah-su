@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Balanja Satan ngajawab ⟨את⟩ Yahwe sarta ngandika: Naha Iyub sieun ka Elohim teu aya sababna?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngandika"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "teu aya sababna"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:11.230305068Z",
+  "model": "glm-5.3"
+}

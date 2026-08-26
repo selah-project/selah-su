@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "El kuring, El kuring, naha anjeun ngeupeulkeun abdi? Jauh tina kasalametan abdi, kecap-kecap gaung abdi.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El kuring"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El kuring"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "anjeun ngeupeulkeun abdi"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "tina kasalametan abdi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "gaung abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:42.095138406Z",
+  "model": "glm-5.3"
+}

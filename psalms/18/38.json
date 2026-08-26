@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Kuring ngudag sasaruhan kuring jeung nepungan aranjeunna, jeung moal balik deui nepi ka aranjeunna tuntas musnah.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "kuring ngudag"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "sasaruhan kuring"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "jeung tepungan aranjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "aranjeunna tuntas musnah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:17.139955560Z",
+  "model": "glm-5.3"
+}

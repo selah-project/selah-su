@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Sabab tempo, aranjeunna ngumput pikeun nyawa kuring; ngahuyung ngalawan kuring jalma-jalma rangsak; lain palanggaran kuring, jeung lain dosa kuring, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "aranjeunna ngumput"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pikeun nyawa kuring"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ngahuyung"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan kuring"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "jalma-jalma rangsak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "palanggaran kuring"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung lain"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosa kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:15.158780430Z",
+  "model": "glm-5.3"
+}

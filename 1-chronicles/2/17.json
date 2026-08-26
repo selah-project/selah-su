@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Avigayil ngalahirkeun ⟨את⟩ Amasa; bapana Amasa ⟨is⟩ Yeter ⟨arang Ismaél⟩.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Jeung Avigayil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "jeung bapana"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "arang Ismaél"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:49.453049659Z",
+  "model": "glm-5.3"
+}

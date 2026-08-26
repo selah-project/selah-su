@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Jeung aranjeunna bakal ngawangun imah jeung cicing di jerona, jeung nanem kebon anggur jeung ngamamah buahna.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "jeung bakal ngawangun"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "imah"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "jeung cicing"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "jeung nanem"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kebon anggur"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "jeung ngamamah"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "buahna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:20:33.249191599Z",
+  "model": "glm-5.3"
+}

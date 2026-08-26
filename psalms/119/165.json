@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Kanyaah réa karasa pikeun nu bogoh ka Taurat-Mu, jeung moal aya harepan nu nyarampaheukeun aranjeunna.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "kanyaah\/karapiyan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "réa"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "pikeun nu bogoh"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ka Taurat-Mu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung moal aya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pikeun aranjeunna"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "nu nyarampaheukeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:38.089897173Z",
+  "model": "glm-5.3"
+}

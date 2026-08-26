@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung aranjeuna mawa ⟨את⟩ anjeunna luhureun kuda-kuda, jeung anjeunna dikuburkeun di Yerushalaim babarengan jeung bapana-bapana dina kota Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikuburkeun"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "babarengan jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapana-bapana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dina kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:50.066394362Z",
+  "model": "glm-5.3"
+}

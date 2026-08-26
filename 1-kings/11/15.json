@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jadi kajadian nalika David jeung ⟨את⟩ Edom, nalika Yoab panglima balad naek pikeun ngureudkeun ⟨את⟩ nu maraot, sanggeus manéhna ngapuk sakabéh lalaki di Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "nalika naek"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "balad"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "pikeun ngureudkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu maraot"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "nu maraot"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ngapuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:22.499191861Z",
+  "model": "glm-5.3"
+}

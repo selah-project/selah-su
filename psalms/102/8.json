@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Kuring tetep jaga, jeung kuring jadi saperti manuk nyorangan luhureun hateup.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "kuring tetep jaga"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "jeung kuring jadi"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "saperti manuk"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "nyorangan"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "גג",
+      "gloss": "hateup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:55.674005043Z",
+  "model": "glm-5.3"
+}

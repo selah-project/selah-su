@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Sarta Israil ngomong ka Yosef: Nempo beungeut anjeun abdi teu ngaharep, sarta tingali, Elohim nembongkeun ⟨את⟩ ka abdi ogé ⟨את⟩ keturunan anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta ngomong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "beungeut anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "abdi ngaharep"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sarta tingali"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "nembongkeun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ka abdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keturunan anjeun"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "keturunan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:52.766851353Z",
+  "model": "glm-5.3"
+}

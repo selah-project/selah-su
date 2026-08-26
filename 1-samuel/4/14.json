@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng Eli ngadéngé ⟨את⟩ sora rérét seuri éta, sarta anjeunna nyarita, Naon sora riuh éta? Lalaki éta ngagancangan datang sarta ngabejaan ka Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lajeng ngadéngé"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora rérét seuri éta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "rérét seuri éta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "riuh"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "éta"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "Lalaki éta"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngagancangan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ngabejaan"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "ka Eli"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:22.079572305Z",
+  "model": "glm-5.3"
+}

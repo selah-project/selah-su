@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Aku, tempo, perjangjian Kami ⟨i⟩ ⟨את⟩ jeung anjeun, jeung anjeun baris jadi bapa loba bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian Kami"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jeung anjeun"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "jeung anjeun baris jadi"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "loba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:20.367975979Z",
+  "model": "glm-5.3"
+}

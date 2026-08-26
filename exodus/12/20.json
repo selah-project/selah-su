@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sagala nu kaasup teu beunang dihakan; di sagala tempat cicing aranjeun, aranjeun ngahakan roti tanpa-ragi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "nu kaasup"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "beunang dihakan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagala"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tempat cicing aranjeun"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tanpa-ragi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:39:00.962498903Z",
+  "model": "glm-5.3"
+}

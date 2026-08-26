@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Yahwe kaluar baraya pahlawan, baraya lalaki perang mane matalarieung kahéngkéwr; mane sorakeun, enya mane ngagero ujug; ka musuh-musuhna mane jadi kawasa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "baraya pahlawan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "baraya lalaki"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "perang-perang"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "mane matalarieung"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "kahéngkéwr"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "mane sorakeun"
+    },
+    {
+      "surface": "אף",
+      "gloss": "enya"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "mane ngagero ujug"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuh-musuhna"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "mane jadi kawasa"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:37.726671322Z",
+  "model": "glm-5.3"
+}

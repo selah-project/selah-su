@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Naha lain kaluhuranna ngageterkeun ⟨את⟩ anjeun, jeung sieunna ragrag kana anjeun?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "naha lain"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "kaluhuranna"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "ngageterkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "jeung sieunna"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kana anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:09:06.601357975Z",
+  "model": "glm-5.3"
+}

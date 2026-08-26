@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tuluy Elohim ngahadéan ka para paraji, sarta ⟨i⟩rakyat jadi loba jeung jadi kawasa pisan.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Tuluy ... ngahadéan ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "para paraji"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "sarta ... jadi loba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "jeung jadi kawasa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:35.719368536Z",
+  "model": "glm-5.3"
+}

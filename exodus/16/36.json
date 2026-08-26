@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung ⟨eta⟩ omer ⟨nyaéta⟩ sapuluh bagian tina hiji éfa.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "Jeung omer"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "sapuluh bagian"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "éfa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nyaéta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:24.552084592Z",
+  "model": "glm-5.3"
+}

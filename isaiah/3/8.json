@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sabab Yerushalaim ngarereged jeung Yehudah ragrag; sabab lisan maranéhna jeung pamilu maranéhna ngalawan Yahwe, ngahérnichan panon kaluhuran-Na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "ngarereged"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "והודה",
+      "gloss": "jeung Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lisan maranéhna"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "jeung pamilu maranéhna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ngahérnichan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "panon"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kaluhuran-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:55.611983961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Yahwe moal ngeunyarkeun neuteup nu bener, tapi kahayang nu jahat dibungsangkeunana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "ngeunyarkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "neuteup"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "והות",
+      "gloss": "tapi kahayang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "dibungsangkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:49.019365641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Saméméh gunung-gunung dilahirkeun, sateuacan Anjeun ngabentuk bumi jeung dunya, ti salawasna nepi ka salawasna Anjeun ⟨are⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Saméméh"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dilahirkeun"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "sateuacan Anjeun ngabentuk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "jeung dunya"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ti salawasna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:53.000936861Z",
+  "model": "glm-5.3"
+}

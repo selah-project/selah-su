@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Anjeunna nu mere salju kalawan baries, salju beku kalawan areuy anjeunna ngasebarkeun.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Anjeunna nu mere"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salju"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "kalawan baries"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "salju beku"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "kalawan areuy"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "ngasebarkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:52.692741674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras Samuel ngabejakeun ka anjeunna ⟨את⟩ sakabeh kecap-kecap, sarta teu nyumputkeun naon-naon ti anjeunna; lajeng anjeunna ngomong: Yahwe ⟨the⟩-na; nu hadé dina panonna nu dipigawe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Teras ngabejakeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabeh kecap-kecap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabeh"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "nyumputkeun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti anjeunna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng anjeunna ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨the⟩-na"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "dina panonna"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nu dipigawe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:38.445666466Z",
+  "model": "glm-5.3"
+}

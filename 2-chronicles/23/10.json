@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung anjeunna ngadegkeun ⟨את⟩ sadaya jalma rakyat, unggal jalma pakarangna dina leungeunna, ti tihang imah sisi katuhu nepi ka tihang imah sisi kénca, ka mésbah jeung ka imah, ngurilingan raja sabudeureunana.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya jalma rakyat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma rakyat"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung unggal jalma"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "pakarangna"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dina leungeunna"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ti tihang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sisi katuhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "tihang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sisi kénca"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ka mésbah"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "jeung ka imah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureunana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:25:18.631515036Z",
+  "model": "glm-5.3"
+}

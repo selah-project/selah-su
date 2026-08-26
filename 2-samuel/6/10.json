@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sarta David henteu daék ngalihkeun ka anjeunna ⟨את⟩ tabut Yahwe ka kota David; sarta David ngalihkeunana ka imah Oved-Edom sang Giti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sarta henteu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "daék"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ngalihkeun"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "sarta anjeunna ngalihkeunana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "sang Giti"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:54.935157512Z",
+  "model": "glm-5.3"
+}

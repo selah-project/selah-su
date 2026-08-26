@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Mangka ucapan éta alus dina panon Adonay, sabab Shelomoh nyungkeun ⟨את⟩ ucapan ieu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ucapan éta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nyungkeun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucapan ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:18.323827656Z",
+  "model": "glm-5.3"
+}

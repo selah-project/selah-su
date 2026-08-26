@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sarta aranjeun nempo ⟨את⟩ kajijieun-najis maranjehna jeung ⟨את⟩ berhala-berhala maranjehna, kai jeung batu, pérak jeung emas, nu aya jeung maranjehna.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "aranjeun nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kajijieun-najis maranjehna"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "kajijieun-najis maranjehna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "berhala-berhala maranjehna"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "berhala-berhala maranjehna"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jeung batu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jeung emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "jeung maranjehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:13.993434736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Kenang-kenangan dipasieuk ⟨pikeun⟩ karya-karya-Na nu ahéng; Yahwe welas asih sarta nyaah.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kenang-kenangan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipasieuk"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "pikeun karya-karya-Na nu ahéng"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "welas asih"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "sarta nyaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:19.889850307Z",
+  "model": "glm-5.3"
+}

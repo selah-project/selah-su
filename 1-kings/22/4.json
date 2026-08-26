@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Terus anjeunna nyarita ka Yehoshafat: Bade ulin jeung ⟨את⟩ kuring ka perang ka Ramot-Gilad? Jawab Yehoshafat ka raja Israel: Kawas kuring, kawas anjeun; kawas bangsa kuring, kawas bangsa anjeun; kawas kuda kuring, kawas kuda anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "terus nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "bade ulin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jeung kuring",
+      "marks": "jeung kuring"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ka perang"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "terus nyarita"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "kawas kuring"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kawas anjeun"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "kawas bangsa kuring"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "kawas bangsa anjeun"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "kawas kuda kuring"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "kawas kuda anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:44.035314287Z",
+  "model": "glm-5.3"
+}

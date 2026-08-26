@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Palingkeun panghina kuring nu kuring sieuneun, sabab putusan-putusan anjeun ═══.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Palingkeun"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "panghina kuring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "kuring sieuneun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "putusan-putusan anjeun"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "═══"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:07.039062625Z",
+  "model": "glm-5.3"
+}

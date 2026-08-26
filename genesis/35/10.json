@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sarta Elohim nyarita ka anjeunna: ngaran anjeun Yaakov; moal deui disebut ngaran anjeun Yaakov, tapi Israél nu jadi ngaran anjeun. Sarta manéhna ngagero ⟨את⟩ ngaranna Israél.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran anjeun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "disebut"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran anjeun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mungguh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran anjeun"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta ngagero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:00.912173619Z",
+  "model": "glm-5.3"
+}

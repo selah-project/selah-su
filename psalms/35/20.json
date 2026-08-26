@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sabab maranehna teu nyarita karapihan; ngeunaan nu cicing tenang di bumi, kecap-kecap tiptu maranehna ngarancang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karapihan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "maranehna nyarita"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ngeunaan"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "nu cicing tenang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "tiptu"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "maranehna ngarancang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:50.738008062Z",
+  "model": "glm-5.3"
+}

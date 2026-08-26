@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung raja ngajawab jeung ngomong: Bere ka anjeunna ⟨את⟩ budak nu kalahiran nu hirup, jeung ulah paéhkeun anjeunna — anjeunna indungna.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jeung ngajawab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak nu kalahiran"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "budak nu kalahiran"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "jeung paéhkeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "paéhkeun anjeunna"
+    },
+    {
+      "surface": "היא",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:49.869333083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 2:5",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung abdi nyarios: Abdi diusir ti payun panon Anjeun; tapi baris deui kuring nempo ka istana kasucian Anjeun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jeung abdi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "נגרשתי",
+      "gloss": "diusir"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ti payun"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "panon Anjeun"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "baris deui"
+    },
+    {
+      "surface": "להביט",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istana"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kasucian Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:56.484517610Z",
+  "model": "glm-5.3"
+}

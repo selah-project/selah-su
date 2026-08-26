@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeunna ngukur ⟨את⟩ lébar panto gerbang kasebit sapuluh aténg; panjang gerbang kasebut tilu-belas aténg.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "jeung anjeunna ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lébar panto gerbang kasebut"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lébar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gerbang kasebut"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aténg"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gerbang kasebut"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-belas"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aténg"
+    }
+  ],
+  "timestamp": "2026-08-26T13:58:28.699061397Z",
+  "model": "glm-5.3"
+}

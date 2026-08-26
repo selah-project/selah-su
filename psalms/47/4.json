@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "⟨Ia⟩ nundunkun bangsa-bangsa di sahandapeun urang, jeung lalampahan-lalampahan di sahandapeun suku urang.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "nundunkun"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "di sahandapeun urang"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "jeung lalampahan-lalampahan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di sahandapeun"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "suku urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:12.422560595Z",
+  "model": "glm-5.3"
+}

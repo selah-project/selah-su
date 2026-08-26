@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Mitsrajim bungah nalika maranéhna kaluar, sabab ka Russoor katurunanana geus ragrag ka luhureunana.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "nalika kaluareunana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ka Russoor katurunanana"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka luhureunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:29.499940051Z",
+  "model": "glm-5.3"
+}

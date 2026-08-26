@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Luhureun menora ⟨nu⟩ murni éta, anjeunna ngatur ⟨את⟩ lampu-lampu di payuneun Yahwe, terus-nerus.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "murni"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ngatur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampu"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lampu-lampu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-nerus"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:19.840827169Z",
+  "model": "glm-5.3"
+}

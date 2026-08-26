@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Saprak anjeun begjana panonna di panon Kaula, anjeun mulya, jeung Kaula kanyaah ka anjeun; mangka Kaula badé masihan manusa minangka gaganti anjeun, jeung bangsa-bangsa minangka gaganti nyawa anjeun.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "saprak"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "anjeun begjana"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di panon Kaula"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "anjeun mulya"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeung Kaula"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "kanyaah ka anjeun"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "Kaula badé masihan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "minangka gaganti anjeun"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "jeung bangsa-bangsa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "minangka gaganti"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:52.958539666Z",
+  "model": "glm-5.3"
+}

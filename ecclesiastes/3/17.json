@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Kuring cegep kuring nyarita dina ati kuring: ⟨את⟩ nu bener jeung ⟨את⟩ nu jahat bakal dihukum ku Elohim, sabab aya waktuna pikeun unggal kahayang, jeung pikeun unggal pagawéan di dinya.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "kuring nyarita"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "dina ati kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu bener"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu jahat"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "bakal dihukum"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pikeun unggal"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung pikeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:50.955516146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Anak-anak singa kaseureuh jeung lapar, tapi nu milari Yahwe moal kakurangan sagala nu hadé.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Anak-anak singa"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "kaseureuh"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "jeung lapar"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "tapi nu milari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "kakurangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:00.374317736Z",
+  "model": "glm-5.3"
+}

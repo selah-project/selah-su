@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Elohim ngaberkahan ⟨את⟩ maranehna, saréa: Berbuah sarta baranahan, sarta eusian ⟨את⟩ cai dina laut-laut, jeung manuk nu baris ngabadagan di bumi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ngaberkahan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saréa"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "berbuah"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "baranahan"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "eusian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dina laut-laut"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "jeung manuk"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ngabadagan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:33.389427314Z",
+  "model": "glm-5.3"
+}

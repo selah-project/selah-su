@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Lan manéhna ngahina ⟨את⟩ Israyel; tuluy Yehonatan putra Shimi, dulurna David, nu ngabaradab manéhna.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "lan manéhna ngahina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "nu ngabaradab manéhna"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dulurna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-26T12:34:27.559667996Z",
+  "model": "glm-5.3"
+}

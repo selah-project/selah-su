@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung putra-putra Yisrael datang mésér di tengah ⟨nu⟩ datang, sabab kalaparna ⟨ayah⟩ aya di tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "mésér"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "nu datang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kalaparna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:06.700237461Z",
+  "model": "glm-5.3"
+}

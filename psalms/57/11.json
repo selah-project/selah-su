@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Sabab gedé pisan nepi ka langit-langit kanyaah satia perjangjian-Mu, jeung nepi ka mawa-mawa awan kajujuran-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "gedé pisan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia perjangjian-Mu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung nepi ka"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mawa-mawa awan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kajujuran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:55.712192432Z",
+  "model": "glm-5.3"
+}

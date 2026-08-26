@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung abdi nyarios ka anjeun: Lepaskeun ⟨את⟩ putra abdi sangkan manéhna ngawula ka abdi, tapi anjeun nolik mepelaskeunana; tingali, abdi baris maéhan ⟨את⟩ putra anjeun, anak kandung munggaran anjeun.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Jeung abdi nyarios"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lepaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra abdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra abdi"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "sangkan manéhna ngawula ka abdi"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "tapi anjeun nolik"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "mepelaskeunana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "baris maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra anjeun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "anak kandung munggaran anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:53.232799499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Anjeun masihan kagumbira di jero hate abdi, leuwih ti mangsa gobang mere jeung anggur aranjeunna ngarambah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Anjeun masihan"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kagumbira"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "di jero hate abdi"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "tina mangsa"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "gobang mere aranjeunna"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "jeung anggur aranjeunna"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ngarambah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:35.271195273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Tempo ⟨את⟩ pagawéan Elohim, sabab saha anu sanggup ngabenerkeun ⟨את⟩ nu geus dipeleng?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagawéan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ngabenerkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu geus dipeleng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "geus dipeleng"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:08.523082746Z",
+  "model": "glm-5.3"
+}

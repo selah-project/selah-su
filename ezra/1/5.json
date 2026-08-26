@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Mangka pupuhu bapa-bapana Yehuda jeung Binyamin, jeung para imam, jeung urang Léwi ngadeg — sadaya nu semangatna dipabangunk ⟨את⟩ ku Elohim pikeun naék ngawangun ⟨את⟩ bumi Yahwe nu aya di Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "mangka ngadeg"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pupuhu"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "bapa-bapana"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "jeung Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "jeung para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "jeung urang Léwi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dipabangunk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semangatna"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "semangatna"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "pikeun naék"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T15:51:42.937623550Z",
+  "model": "glm-5.3"
+}

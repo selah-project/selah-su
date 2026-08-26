@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Tuluy kuring ngirim ⟨את⟩ Moshe jeung ⟨את⟩ Aharon, sarta kuring ngasorkeun ⟨את⟩ Mesir, saperti nu geus kuring pigawé di tengah-tengahna, sarta sanggeus éta kuring mawa ⟨את⟩ aranjeun kaluar.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "tuluy kuring ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "sarta kuring ngasorkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mesir"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "geus kuring pigawé"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahna"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sarta sanggeus éta"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "kuring mawa kaluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:13.248411576Z",
+  "model": "glm-5.3"
+}

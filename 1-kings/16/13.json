@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Pikeun sadaya dosa Baasya jeung dosa Elah putrana, nu dipigawé maranehna, jeung nu matak dosakeun ⟨את⟩ Yisrail, pikeun ngageringkeun amarah Yahwe, Elohim-na Yisrail, ku kasia-siaan maranehna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasya"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "jeung dosa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "dipigawé (dosa)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung nu"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "matak dosakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "pikeun ngageringkeun amarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrail"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ku kasia-siaan maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:14.191363987Z",
+  "model": "glm-5.3"
+}

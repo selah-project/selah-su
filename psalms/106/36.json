@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Sarta maranéhna ngawula ka ⟨את⟩ berhala maranéhna, nu jadi jebakan keur maranéhna",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ngawula ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhala maranéhna"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "berhala maranéhna"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nu jadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "keur maranéhna"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "jebakan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:44.726201676Z",
+  "model": "glm-5.3"
+}

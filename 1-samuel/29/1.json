@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Teras Pelishti ngumpulkeun ⟨את⟩ sadaya kemp-kemp maranéhna ka Afekah, ari Yisrael ngadeg kemp di cinyaan anu aya di Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kemp-kemp maranéhna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kemp-kemp maranéhna"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afekah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ari Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "ngadeg kemp"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "di cinyaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "di Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:33.160322862Z",
+  "model": "glm-5.3"
+}

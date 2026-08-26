@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung ka balaréa ieu anjeun bakal ngomong: Kitu ceuk Yahwe: Tempo, abdi nempatkeun payuneun anjeun ⟨את⟩ jalan hirup jeung ⟨את⟩ jalan paéh.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "anjeun bakal ngomong"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tempo abdi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "payuneun anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan hirup"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jalan paéh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:30:06.498240559Z",
+  "model": "glm-5.3"
+}

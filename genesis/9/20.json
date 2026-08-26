@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "And Noach, the man of the ground, began ⟨to plant⟩ and planted a vineyard.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "mimiti"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ngawurukakeun"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebon anggur"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:06.840288336Z",
+  "model": "glm-5.3"
+}

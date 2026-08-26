@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung imam ngadeukeutkeunana ka payuneun Yahwe, sarta ngalaksanakeun ⟨את⟩ kurban dosana jeung ⟨את⟩ kurban bakarna.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ngadeukeutkeunana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban dosana"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "kurban dosana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakarna"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kurban bakarna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:26:09.214385595Z",
+  "model": "glm-5.3"
+}

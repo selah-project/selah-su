@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Tapi kuring Yahwe, Elohim anjeun, ti taneuh Mitzrayim; sarta anjeun moal mikawanoh elohim lian ti Kuring, sarta moal aya Nu Nyalametkeun salian ti Kuring.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "tapi kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "sarta elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "lian ti Kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "mikawanoh"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "sarta Nu Nyalametkeun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "moal aya"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "salian ti"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:28.510119657Z",
+  "model": "glm-5.3"
+}

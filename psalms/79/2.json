@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 79,
+  "translation": "Arujuan méré ⟨את》 bangké para abdi-Mu jadi papakan manuk-manuk langit, daging nu satia-Mu ka sato-sato buas ⟨ti⟩ darat.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "arujuan méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangké para abdi-Mu"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "bangké"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "para abdi-Mu"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "jadi papakan"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ka manuk-manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "nu satia-Mu"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "ka sato-sato buas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "darat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:58.587745408Z",
+  "model": "glm-5.3"
+}

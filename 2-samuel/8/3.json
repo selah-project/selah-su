@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Dawid ogé ngagempur ⟨את⟩ Hadadezer anak Rehob, raja Zoba, nalika anjeunna indit mawa balik leungeunana ka walungan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ngagempur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zoba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "nalika anjeunna indit"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "mawa balik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ka walungan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:28:51.569856387Z",
+  "model": "glm-5.3"
+}

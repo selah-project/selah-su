@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Teu kuring-méserrat ⟨את⟩ para-nabi, tapi maranéhna ngajero; teu kuring nyarita ka maranéhna, tapi maranéhna nganubeur.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "kuring-méserrat (ngirim)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para-nabi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "para-nabi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi-maranehna"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ngajero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka-maranehna"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi-maranehna"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "nganubeur"
+    }
+  ],
+  "timestamp": "2026-08-26T17:02:08.142985742Z",
+  "model": "glm-5.3"
+}

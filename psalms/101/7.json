@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 101,
+  "translation": "Moal dumuk di jero imah kula nu migawe tipu-daya; nu nyarita dusta moal ngadeg di payuneun panon kula",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dumuk"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di jero"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "imah kula"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu migawe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tipu-daya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nu nyarita"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kula"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:11.219470211Z",
+  "model": "glm-5.3"
+}

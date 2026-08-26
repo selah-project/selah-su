@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 22:1",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lajeng datang kecap Yahwe ka abdi, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lajeng jadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T13:50:34.585013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Sabab maranéhna geus Musyawarah haté babarengan, ngalawan Anjeun perjangjian aranjeunna motong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "Musyawarah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngalawan Anjeun"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "motong"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:48.909035164Z",
+  "model": "glm-5.3"
+}

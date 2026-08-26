@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung Yahwe ngomong ka anjeunna: Sabab kuring ⟨baris⟩ aya jeung anjeun, jeung anjeun baris ngajegal ⟨את⟩ Midian sakasurupan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "kuring aya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "jeung anjeun baris ngajegal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sakasurupan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T12:03:56.833957582Z",
+  "model": "glm-5.3"
+}

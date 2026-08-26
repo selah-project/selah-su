@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Yoktan nimbulkeun ⟨את⟩ Almodad, jeung ⟨את⟩ Shalef, jeung ⟨את⟩ Khatsarmavet, jeung ⟨את⟩ Yerakh.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Jeung Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nimbulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Shalef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shalef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Khatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Khatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yerakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerakh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:48.182421423Z",
+  "model": "glm-5.3"
+}

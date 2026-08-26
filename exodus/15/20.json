@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Tur Miryam, awéwé nu jadi nabhi, dulur awéwé Aharon, nyandak ⟨את⟩ tamborin di leungeunna; tuluy sadaya awéwé kaluar nuturkeun anjeunna maké tamborin jeung tandang.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Tur nyandak"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "awéwé nu jadi nabhi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "dulur awéwé"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamborin"
+    },
+    {
+      "surface": "התף",
+      "gloss": "tamborin"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "di leungeunna"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "tur kaluar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "nuturkeun anjeunna"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "maké tamborin"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "jeung tandang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:07.355847173Z",
+  "model": "glm-5.3"
+}

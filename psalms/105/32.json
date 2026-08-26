@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Anjeunna méré hujan maranéhna jadi és-batu, seuneu nyala-nyala di taneuh maranéhna.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Anjeunna méré"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "hujan maranéhna"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "és-batu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "nyala-nyala"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di taneuh maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:25.410108182Z",
+  "model": "glm-5.3"
+}

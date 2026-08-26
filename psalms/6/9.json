@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Undur ti sim kuring, sadaya nu migawé kalalawan, sabab Yahwe geus ngadangu sora ceuricewi sim kuring.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "undur"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti sim kuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nu migawé"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalalawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "geus ngadangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ceuricewi sim kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:17.394861258Z",
+  "model": "glm-5.3"
+}

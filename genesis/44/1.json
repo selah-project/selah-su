@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung anjeunna maréntahkeun ⟨את⟩ nu ⟨di luhureun⟩ imahna, nyebutkeun: Eusian ⟨את⟩ karung jalma-jalma éta dahareun, sakumaha maranehna bisa mawa, jeung letakkeun salaka masing-masing dina baham karungna.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu di luhureun imahna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "eusian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karung jalma-jalma éta"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "karung"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "jalma-jalma éta"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahareun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakumaha"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "maranehna bisa"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "jeung letakkeun"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dina baham"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "karungna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:08.415515222Z",
+  "model": "glm-5.3"
+}

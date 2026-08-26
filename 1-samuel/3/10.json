@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Yahwe asuh jeung nangtung, sarta nyauran sakumaha sakali-sakali: \"Shemuel, Shemuel!\" Jeung Shemuel nyarios: \"Ngomong, sabab abdi anjeun ngadangu.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Jeung asuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "jeung nangtung"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta nyauran"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "sakumaha sakali"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "dina sakali"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarios"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ngomong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:08.439898434Z",
+  "model": "glm-5.3"
+}

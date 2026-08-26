@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tuluy Yehuda naék, jeung Yahwe méré ⟨את⟩ urang Kanaan jeung urang Perizi kana leungeun aranjeunna; tuluy aranjeunna ngéléhkeunana di Bezek — sapuluh rébu jalma.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Tuluy naék"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jeung méré"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kanaan jeung urang Perizi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "jeung urang Perizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "kana leungeun aranjeunna"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "tuluy ngéléhkeunana"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:33.475894540Z",
+  "model": "glm-5.3"
+}

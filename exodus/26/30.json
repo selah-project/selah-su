@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung anjeun ngadegkeun ⟨את⟩ Padang Suci numutkeun aturanna, nu ditingalikeun ka anjeun di ⟨the⟩ gunung.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "jeung anjeun ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Padang Suci"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Padang Suci"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "numutkeun aturanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ditingalikeun ka anjeun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:59.331926565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "⟨Maranéhna⟩ ngancurkeun bangsamu, wahai Yahwe, jeung nganieungan warisannmu.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "bangsamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "jeung warisannmu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "nganieungan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:43.895687283Z",
+  "model": "glm-5.3"
+}

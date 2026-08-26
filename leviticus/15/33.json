@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "jeung ngeunaan awéwé nu keur haid dina karunya, jeung lalaki nu ngaluarkeun mancaranana, pikeun lalaki jeung pikeun awéwé, jeung pikeun jalma nu saré jeung ⟨את⟩ nu teu beresih.",
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "jeung awéwé nu keur haid"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "dina karunya"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "jeung lalaki nu ngaluarkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mancaranana"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "mancaranana"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "pikeun lalaki"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "jeung pikeun awéwé"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "jeung pikeun jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nu teu beresih"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:16.297190993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Budak abdi, ulah leumpang di jalan marengan ⟨את⟩ maranehna, tanduran suku anjeun tina jalan leumpang maranehna",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "budak abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ maranehna",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "tanduran"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "suku anjeun"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "tina jalan leumpang maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:16.887566478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 113,
+  "translation": "Saha kawas Yahwe, Elohim urang, anu ngaronjat luhur pikeun cicing di luhur?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kawas Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "anu ngaronjat luhur"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pikeun cicing di luhur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:12.586375462Z",
+  "model": "glm-5.3"
+}

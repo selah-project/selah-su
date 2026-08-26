@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 110,
+  "translation": "Ti walungan leutik dina jalan anjeunna nginum, ku lantaran kitu anjeunna ngangkat sirah.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ti walungan leutik"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "anjeunna nginum"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku lantaran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "anjeunna ngangkat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:49.840780505Z",
+  "model": "glm-5.3"
+}

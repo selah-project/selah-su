@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lajeng urang nabrak ⟨את⟩ sakabéh kotana dina mangsa éta; euweuh kota nu teu dicandak urang ti ⟨את⟩ maranéhna; genep puluh kota, sakabéh wewengkon Argob, karajaan Og di Bashan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "nabrak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh kotana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "kotana"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina mangsa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "←euweuh"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "dicandak urang"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ti ⟨את⟩ maranéhna"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "genep puluh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "wewengkon"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "di Bashan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:22.850147256Z",
+  "model": "glm-5.3"
+}

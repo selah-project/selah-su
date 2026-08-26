@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun bakal nyucikeun ⟨את⟩ dada sesaji-ayun jeung ⟨את⟩ suku sesaji-angkat, nu diayunkeun jeung nu diangkat, tina domba milu-perjangjian, tina nu pikeun Aharon jeung tina nu pikeun putra-putrana.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "jeung-anjeun-bakal-nyucikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dada sesaji-ayun"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dada"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "sesaji-ayun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suku sesaji-angkat"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "suku"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "sesaji-angkat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "diayunkeun"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung-nu"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "diangkat"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "tina-domba"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "milu-perjangjian"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "tina-nu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pikeun-Aharon"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "jeung-tina-nu"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "pikeun-putra-putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:45.893229013Z",
+  "model": "glm-5.3"
+}

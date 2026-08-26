@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Ku sabab éta kuring muji Anjeun di tengah bangsa-bangsa, Yahwe, jeung kana Jenengan-Mu kuring ngazemir.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabab éta"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "kuring muji Anjeun"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di tengah bangsa-bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "jeung kana Jenengan-Mu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "kuring ngazemir"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:15.625735507Z",
+  "model": "glm-5.3"
+}

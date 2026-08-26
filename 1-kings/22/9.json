@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 22:9",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Raja Yisrael nyaur saurang sida-sida, sarta ngomong: Gancang miharu Mikayahu putra Yimla.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nyaur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "sida-sida"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "Yimla"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:34.854101187Z",
+  "model": "glm-5.3"
+}

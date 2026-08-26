@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Poé nu anjeun nangtung di payuneun Yahwe Elohim anjeun di Horeb, nalika Yahwe ngomong ka kaula: Kumpulkeun ka abdi ⟨את⟩ bangsa ieu, sarta abdi badé mikeun aranjeunna ngadangu ⟨את⟩ kecap-kecap abdi, sangkan aranjeunna diajak tara ka abdi sadaya poé-poé aranjeunna hirup di luhureun taneuh, jeung ⟨את⟩ putra-putra aranjeunna aranjeunna ngajarkeun.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "anjeun nangtung"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "di Horeb"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "nalika ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kaula"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kumpulkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa ieu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa ieu"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "sarta mikeun aranjeunna ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap abdi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap abdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "diajak tara"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "abdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aranjeunna"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra aranjeunna"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "putra-putra aranjeunna"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "aranjeunna ngajarkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:27.837664593Z",
+  "model": "glm-5.3"
+}

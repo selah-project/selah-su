@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung maranehna berangkat isuk-isuk, jeung panonpoé mecenghul luhureun cai, terus Moab nempo tina pabalayaran ⟨את⟩ cai nu kabeureumanna saperti getih.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "berangkat isuk-isuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangsa isuk"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "jeung panonpoé"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "mecenghul"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "tina pabalayaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "nu kabeureumanna"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "saperti getih"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:49.361638743Z",
+  "model": "glm-5.3"
+}

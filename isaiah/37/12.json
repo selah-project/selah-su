@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Naha elohim-elohim bangsa-bangsa nu megatkeunana, nu geus dirancagrakeun ku bapa-bapa abdi — ⟨את⟩ Gozan jeung ⟨את⟩ Kharan, jeung Retsef, jeung putra-putra Éden nu aya di Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Naha ... geus meulasan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "elohim-elohim bangsa-bangsa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim-elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "geus dirancagrakeun"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ku bapa-bapa abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kharan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "jeung Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Éden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "aya di Telassar"
+    }
+  ],
+  "timestamp": "2026-08-26T13:11:49.287867875Z",
+  "model": "glm-5.3"
+}

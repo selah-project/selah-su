@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Tuluy aranjeunna malik jeung ngahianat siga bapak-bapakna; aranjeunna kabalik siga panah nu ngancur.",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "malik"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "ngahianat"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "siga bapak-bapakna"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "kabalik"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "siga panah"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nu ngancur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:39.007679651Z",
+  "model": "glm-5.3"
+}

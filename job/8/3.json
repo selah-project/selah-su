@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Naha El nyeukitan putusan, atawa Shadday nyeukitan kabeneran?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "nyeukitan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "putusan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "nyeukitan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:29.651935388Z",
+  "model": "glm-5.3"
+}

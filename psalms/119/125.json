@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Abdi-Mu ⟨lam_teu_leuwih>> kuring; mere pangaweruh ka kuring, supaya kuring apal kana kasaksian-kasaksian-Mu.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "bere pangaweruh ka kuring"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "supaya kuring apal"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksian-kasaksian-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:48.336545791Z",
+  "model": "glm-5.3"
+}

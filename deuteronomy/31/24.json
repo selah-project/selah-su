@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Teras kajadian, sabot Moshe anggeus nyerat ⟨את⟩ kecap-kecap Taurat ieu kana buku, nepi ka anggeus sadayana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras kajadian"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "sabot anggeus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "nyerat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap Taurat ieu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "anggeus sadayana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:38.629930458Z",
+  "model": "glm-5.3"
+}

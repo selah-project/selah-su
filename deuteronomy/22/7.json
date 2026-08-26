@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Barang dipiceun-anjeun-miceun ⟨את⟩ indungna, jeung ⟨את⟩ anak-anakna anjeun-nyandak pikeun anjeun, sangkan nyugemakeun-anjeun jeung anjeun mangnunjal panjang poé.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "barang dipiceun"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "anjeun miceun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indungna"
+    },
+    {
+      "surface": "האם",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "anak-anakna"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "anjeun nyandak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "nyugemakeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "jeung anjeun mangnunjal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:55.672766683Z",
+  "model": "glm-5.3"
+}

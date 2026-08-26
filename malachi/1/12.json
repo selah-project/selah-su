@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ari aranjeun nganajiskeun ⟨את⟩ éta, ku ceuk aranjeun: méja Adonay éta geus najis, jeung hasilna mah dipieunjeun dahareunana.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ari aranjeun"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "nganajiskeun"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "éta (ngaran-Na)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "ku ceuk aranjeun"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "geus najis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "jeung hasilna"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "dipieunjeun"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "dahareunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:03.990314945Z",
+  "model": "glm-5.3"
+}

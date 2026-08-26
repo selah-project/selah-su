@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sabab panindasan matak nyieunaan jalma pinter jadi ngamuk, sarta suap ngancurkeun ⟨את⟩ ati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "panindasan"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "matak nyieunaan jadi ngamuk"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "jalma pinter"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "sarta ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:05.288713818Z",
+  "model": "glm-5.3"
+}

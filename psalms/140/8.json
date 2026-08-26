@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Yahwe, Adonay, kakuatan kasalametan kuring, anjeun ngalingkeri mastaka kuring dina poé perang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kasalametan kuring"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "anjeung ngalingkeri"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mastaka kuring"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:35.934223950Z",
+  "model": "glm-5.3"
+}

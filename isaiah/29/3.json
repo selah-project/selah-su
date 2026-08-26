@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sarta kuring ngakempang nguriling ngalawan anjeun, sarta kuring ngungeumpung anjeun ku pos, sarta kuring ngadegkeun ngalawan anjeun bénténg panungan.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "sarta kuring ngakempang"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "nguriling (saperti buleudan)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngalawan anjeun"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "sarta kuring ngungeumpung"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "pos (tantara)"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "sarta kuring ngadegkeun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngalawan anjeun"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "bénténg panungan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:44.721890786Z",
+  "model": "glm-5.3"
+}

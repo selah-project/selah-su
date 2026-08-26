@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jangji leungeun anjeun pikeun nulungan abdi, sabab peparéntah anjeun geus dipilih ku abdi.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "jangji"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "pikeun nulungan abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "peparéntah anjeun"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "geus dipilih ku abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:42.398478134Z",
+  "model": "glm-5.3"
+}

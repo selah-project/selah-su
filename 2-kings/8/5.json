@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 8:5",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jaba manéhna keur nyaritakeun ka raja ⟨את⟩ nu dipangahirpikeun hirup deui, nya ⟨את⟩ nu maot, jeung tempoe, awéwé nu dipangahirpikeun ⟨את⟩ putrana hirup deui ngajeungkal ka raja ngeunaan imahna jeung ngeunaan sawahna. Lajeng Gechazi nyarita: Tuan kuring, raja, ieu éta awéwéna, jeung ieu putrana, nu dipangahirpikeun Elisyua hirup deui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jaba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "keur nyaritakeun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipangahirpikeun hirup deui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "dipangahirpikeun hirup deui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu maot"
+    },
+    {
+      "surface": "המת",
+      "gloss": "nu maot"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tempoe"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "dipangahirpikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrana"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ngajeungkal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ngeunaan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sawahna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Tuan kuring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "dipangahirpikeun hirup deui"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisyua"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:15.502914601Z",
+  "model": "glm-5.3"
+}

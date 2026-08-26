@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung anjeunna nyandak ⟨את⟩ sadaya emas jeung pérak, jeung ⟨את⟩ sadana parabot nu kapanggih di imah Yahwe jeung di gudang-gudang imah raja, jeung ⟨את⟩ putra-putra sandera, sarta anjeunna balik deui ka Somron.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya emas jeung pérak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "jeung pérak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadana parabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadana"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nu kapanggih"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "jeung di gudang-gudang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra sandera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "sandera"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "balik deui ka"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Somron"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:55.075432193Z",
+  "model": "glm-5.3"
+}

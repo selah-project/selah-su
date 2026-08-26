@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung Aravna nénjo kaluar, aranjeunna nempo ⟨את⟩ raja jeung ⟨את⟩ abdi-abdina nu ngaliwat ka hareupeunana, lajeng Aravna kaluar sarta sujud ka raja, irungna tepi ka taneuh.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "jeung nénjo kaluar"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anjeunna nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdina"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "nu ngaliwat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka hareupeunana"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lajeng kaluar"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "jeung sujud"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka raja"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "irungna (harepanna)"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tepi ka taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:39.761362630Z",
+  "model": "glm-5.3"
+}

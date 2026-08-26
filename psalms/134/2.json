@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 134,
+  "translation": "Angkat leungeun anjeun ka tempat suci, sarta muja ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkat"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ka tempat suci"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "sarta muja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:36.605201371Z",
+  "model": "glm-5.3"
+}

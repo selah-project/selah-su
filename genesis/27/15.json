@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung Rivkah nyandak ⟨את⟩ pakéan Esav budakna nu pangkolotna, nu dipikahayang, nu aya ⟨את⟩ di imah, sarta manéhna mawa maké ka ⟨את⟩ Yaakov budakna nu pangorana.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakéan Esav"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakéan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "budakna"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nu pangkolotna"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "nu dipikahayang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ayana di"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "mawa maké ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "budakna"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nu pangorana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:14.731196254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung sakumna bani Yehuda nyandik ⟨את⟩ Azarya, anu umurna genep belas taun, sarta aranjeunna ngajadikeun anjeunna raja gaganti bapana Amacya.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nyandik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bani"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שש",
+      "gloss": "genep"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ngajadikeun raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "raja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "gaganti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacya"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:13.503029858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Tsur nu midak anjeun, anjeun poho; jeung anjeung poho ka El nu ngawangun anjeun.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Tsur (Batu)"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "nu midak anjeun"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "anjeun poho"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "jeung anjeung poho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "nu ngawangun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:40.354382284Z",
+  "model": "glm-5.3"
+}

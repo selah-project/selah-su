@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Ogé anjeun — ⟨את⟩ ku getih perjangjian-anjeun kuring geus ngirim kaluar tawan-anjeun tina sumur nu euweuh cai di jerona.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku getih perjangjian-anjeun"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ku getih"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "perjangjian-anjeun"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "kuring-geus-ngirim-kaluar"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "tawan-anjeun"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "tina-sumur"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di-jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:16.644284164Z",
+  "model": "glm-5.3"
+}

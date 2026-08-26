@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Lajeng Elisa nyarita ka anjeunna: Angkat, sebutkeun: Sumuhun hirup deui anjeun bakal; tapi Yahwe geus mintonkeun ka abdi yén manéhna pasti maot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sebutkeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sumuhun (hirup)"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "bakal hirup deui"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "tapi geus mintonkeun ka abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti maot"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "manéhna maot"
+    }
+  ],
+  "timestamp": "2026-08-26T12:52:53.978339100Z",
+  "model": "glm-5.3"
+}

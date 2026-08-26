@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Ku cececewang ngayakeun manusa di luhur katimpah, anjeunna ngaleungitkeun saperti hileud nu dipikahoyong; saéstu hanyut-hanyut kanyataanana unggal manusa. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "ku cececewang ngayakeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "עון",
+      "gloss": "katimpah"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "anjeunna ngayakeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ngaleungitkeun"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "saperti hileud"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "nu dipikahoyong"
+    },
+    {
+      "surface": "אך",
+      "gloss": "saéstu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hanyut-hanyut kanyataanana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:30.761682732Z",
+  "model": "glm-5.3"
+}

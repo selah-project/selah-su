@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Pikeun putra-putra Yosef: pikeun Efrayim, Elishama putra Amihud; pikeun Menasye, Gamliel putra Pedatsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "pikeun putra-putra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "pikeun Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "pikeun Menasye"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsur"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:13.601555184Z",
+  "model": "glm-5.3"
+}

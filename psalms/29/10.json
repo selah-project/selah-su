@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Yahwe linggih salaku raja dina mangsa banjir badag, sarta Yahwe linggih salaku raja nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "dina-mangsa-banjir-badag"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "linggih"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sarta-linggih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nepi-ka-salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:38.269885215Z",
+  "model": "glm-5.3"
+}

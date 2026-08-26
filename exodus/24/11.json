@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung ka para pepamingpin putra-putra Yisrael manehna henteu ngunjalkeun leungeunna; sarta maranehna nempo ⟨את⟩ Elohim, terus maranehna dahar jeung nginum.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "para pepamingpin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngunjalkeun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunna"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "sarta maranehna nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "terus maranehna dahar"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "jeung nginum"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:10.824557125Z",
+  "model": "glm-5.3"
+}

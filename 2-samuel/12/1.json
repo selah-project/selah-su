@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Maka Yahwe ngutus ⟨את⟩ Natan ka David, sarta anjeunna datang ka manéhna sarta nyarita ka anjeunna: Aya dua jalma di hiji kota, hiji beunghar jeung hiji miskin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "beunghar"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "jeung hiji"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "miskin"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:19.149383822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung panon ⟨anjeul⟩ moal kanyaahkeun: nyawa pikeun nyawa, panon pikeun panon, huntu pikeun huntu, leungeun pikeun leungeun, suku pikeun suku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "kanyaahkeun"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "panon anjeul"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "pikeun nyawa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pikeun panon"
+    },
+    {
+      "surface": "שן",
+      "gloss": "huntu"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "pikeun huntu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pikeun leungeun"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "pikeun suku"
+    }
+  ],
+  "timestamp": "2026-08-26T11:46:18.097528672Z",
+  "model": "glm-5.3"
+}

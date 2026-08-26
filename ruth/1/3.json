@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lajeng maot Elimélek, salaki Naomi, sarta tinggali manéhna jeung dua putrana.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimélek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "salaki"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "tinggali"
+    },
+    {
+      "surface": "היא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:25:15.052638959Z",
+  "model": "glm-5.3"
+}

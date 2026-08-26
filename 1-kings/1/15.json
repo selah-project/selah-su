@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tuluy Bat-Syeba asup ka raja ka kamarna, ari raja téh geus kolot pisan, sarta Abisyag ti Syunem ngaparanti ⟨את⟩ raja.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "tuluy asup"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "ka kamarna"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ari raja"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "geus kolot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "sarta Abisyag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "ti Syunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ngaparanti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:56.057473364Z",
+  "model": "glm-5.3"
+}

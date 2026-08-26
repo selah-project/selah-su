@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Sabab abdi ngahakan abu saperti roti, jeung inuman abdi ku ceurik abdi nyampurkeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "saperti roti"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "abdi ngahakan"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "jeung inuman abdi"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ku ceurik"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "abdi nyampurkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:17.035109400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Haté anjeun bakal ngarenungkeun kaugaran: di mana ⟨את⟩ nu ngirid? di mana nu nimbang? di mana nu ngirid ⟨את⟩ munara-munara?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "haté anjeun"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "bakal ngarenungkeun"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "kaugaran"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nu ngirid"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "nu nimbang"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nu ngirid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munara-munara"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "munara-munara"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:58.184401033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung anjeun bakal dungar kana sora Yahwe, Elohim anjeun, jeung ngalaksanakeun ⟨את⟩ parentah-Na sarta ⟨את⟩ katangtuan-Na, nu kuring paréntakeun ka anjeun poé ieu.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Jeung anjeun bakal dungar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kana sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jeung ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-Na"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "parentah-Na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "katangtuan-Na"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "katangtuan-Na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "paréntakeun ka anjeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:47:11.906592799Z",
+  "model": "glm-5.3"
+}

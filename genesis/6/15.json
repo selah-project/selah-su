@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ieu nu anjeun buat ⟨את⟩-na: tilu ratus hasta panjangna bahe, lima puluh hasta lébarna, jeung tilu puluh hasta jangkungna.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "jeung-ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun-buat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tilu ratus hasta panjangna"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima-puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lébarna"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jeung-tilu-puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "jangkungna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:10.963317158Z",
+  "model": "glm-5.3"
+}

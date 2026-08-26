@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Tapi abdi salawasna jeung Anjeun; Anjeun nyekel leungeun katuhu abdi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi abdi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung Anjeun"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "nyekel"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "katuhu abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:24.594387075Z",
+  "model": "glm-5.3"
+}

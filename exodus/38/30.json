@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung manéhna nyieun ku éta ⟨את⟩ dadadasar panto Kemah Patepung, jeung ⟨את⟩ altar tambaga, jeung ⟨את⟩ raksukan tambaga nu pibogana, jeung ⟨את⟩ sadaya parabot altar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung manéhna nyieun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadadasar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "dadadasar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patepung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "altar tambaga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "raksukan tambaga"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "raksukan"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pibogana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadaya parabot altar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:41.531233954Z",
+  "model": "glm-5.3"
+}

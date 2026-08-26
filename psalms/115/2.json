@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Naha ⟨mah⟩ bangsa-bangsa nyarita, di mana, ieu, allah maranéhna?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:29.253579106Z",
+  "model": "glm-5.3"
+}

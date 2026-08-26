@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Elohim kuring, tungtungan kuring ti leungeun nu jahat, ti dampal nu nyieun kalentur jeung nu ngarah sihis.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "tungtungan kuring"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ti dampal"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "nu nyieun kalentur"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "jeung nu ngarah sihis"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:49.772034827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sabab mun ayeuna Kuring geus nganteur ⟨את⟩ leungeun Kuring, nistinga marios anjeun jeung ⟨את⟩ umat anjeun ku wabah, anjeun geus musnah ti saalam bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Kuring geus nganteur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun Kuring"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun Kuring"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "nistinga marios"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umat anjeun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat anjeun"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ku wabah"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "anjeun geus musnah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:37.912469115Z",
+  "model": "glm-5.3"
+}

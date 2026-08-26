@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Teras raja Ashur naék ka sakuliah ⟨the⟩ tanah, sarta naék ka Shomeron, sarta ngepung ka dinya tilu tahun.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "teras-naék"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka-sakuliah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sarta-naék"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "sarta-ngepung"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka-dinya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:55.509392097Z",
+  "model": "glm-5.3"
+}

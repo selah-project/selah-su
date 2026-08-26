@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung panyangga ambang-ambangna oyah alatan sora nu ngagero eta, sarta imah éta pinuh ku kuuk.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "oyah"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "panyangga"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ambang-ambangna"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "alatan sora"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "nu ngagero"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "sarta imah"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ku kuuk"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:02.877748293Z",
+  "model": "glm-5.3"
+}

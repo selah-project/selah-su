@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ka Nu ngabagi laut Suf jadi sababaraha bagian, sabab salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Ka Nu ngabagi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "jadi sababaraha bagian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.724940993Z",
+  "model": "glm-5.3"
+}

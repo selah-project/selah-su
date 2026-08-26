@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 146,
+  "translation": "Nu nyieun langit-langit jeung bumi, ⟨את⟩ laut jeung ⟨את⟩ sakabéh anu aya di jerona; Nu ngajaga kabeneran salawasna:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Nu nyieun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jeung bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh anu aya di jerona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "aya di jerona"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Nu ngajaga"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:37.682367875Z",
+  "model": "glm-5.3"
+}

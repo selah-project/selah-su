@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Goleurkeun ka Yahwe paturay anjeun, jeung percayakeun ka Anjeunna, sarta ⟨Anjeunna⟩ nu bakal ngalaksanakeunana.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Goleurkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "paturay anjeun"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "jeung percayakeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sarta ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ngalaksanakeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:31:38.702623728Z",
+  "model": "glm-5.3"
+}

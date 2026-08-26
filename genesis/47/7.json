@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Lajeng Yosef mawa ⟨את⟩ Yaakov bapana, sarta nangtungkeun anjeunna di payuneun Paroh; lajeng Yaakov ngamuja ⟨את⟩ Paroh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lajeng mawa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "nangtungkeun anjeunna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lajeng ngamuja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:19.818383617Z",
+  "model": "glm-5.3"
+}

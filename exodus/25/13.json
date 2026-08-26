@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung anjeun bakal nyieun galang-galang kai akasia, jeung anjeun bakal ngalapisan ⟨את⟩ maranehna ku emas.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun bakal nyieun"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "galang-galang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "jeung anjeun bakal ngalapisan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:47.695837157Z",
+  "model": "glm-5.3"
+}

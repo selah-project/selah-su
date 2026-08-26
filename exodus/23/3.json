@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Sarta ka nu miskin ulah mere pangistimewaan dina panyengketana.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "sarta ka nu miskin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "mere pangistimewaan"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dina panyengketana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:16.727204541Z",
+  "model": "glm-5.3"
+}

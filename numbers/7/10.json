@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung para pangulu mawa ⟨את⟩ péndidian ⟨the⟩ altan dina poé diolés minyakana ⟨את⟩; jeung para pangulu mawa ⟨את⟩ kurban maranéhna payuneun ⟨the⟩ altan.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "jeung mawa"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "péndidian"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "péndidian"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "diolés minyakana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "altan"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "jeung mawa"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban maranéhna"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "kurban maranéhna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:25:38.952704512Z",
+  "model": "glm-5.3"
+}

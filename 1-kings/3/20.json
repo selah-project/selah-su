@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung manéhna bangun di tengah peuting, jeung nyandak ⟨את⟩ anak kuring ti gigireun kuring, bari ampé kuring saré, jeung manéhna rebahankeun anjeunna di ampangna, jeung ⟨את⟩ anakna nu maot manéhna rebahankeun di ampang kuring.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "jeung manéhna bangun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak kuring"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak kuring"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "ti gigireun kuring"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ampé Anjeun"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "saré"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "jeung manéhna rebahankeun anjeunna"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "di ampangna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anakna nu maot"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "המת",
+      "gloss": "nu maot"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "manéhna rebahankeun"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "di ampang kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:15.813476900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Teras Xanun nyandak ⟨את⟩ para abdi Dawud, nyukuran anjeunna-anyana, nyieuh ⟨את⟩ inem-anemna di satengah, dugi ka bujur bujuran, teras ngusir aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "teras nyandak"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Xanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para abdi Dawud"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "nyukuran anjeunna-anyana"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "nyieuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inem-anemna"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "inem-anemna"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di satengah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dugi ka"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "bujur bujuran"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ngusir aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:14:26.091888105Z",
+  "model": "glm-5.3"
+}

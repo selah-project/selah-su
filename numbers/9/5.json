@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung aranjeunna ngalaksanakeun ⟨את⟩ Pésach di bulan kahiji, dina poé kaopat belas bulan éta, antara wiréng-wiréng, di gurun Sínai; singueurna nu diparéntahkeun Yahwe ka Moshe, kitu ogé dipigawé ku putra-putra Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "jeung aranjeunna ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "di bulan kahiji"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kaopat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wiréng-wiréng"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "singeueurna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:07.210046223Z",
+  "model": "glm-5.3"
+}

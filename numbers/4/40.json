@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "sarta jumlah nu dikira-kira maranéhna, nurutkeun kulawarga-kulawargana, nurutkeun imah bapa-bapana, ⟨ nyaéta ⟩ dua rebu genep ratus tilu puluh.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "jumlah nu dikira-kira maranéhna"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nurutkeun kulawarga-kulawargana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nurutkeun imah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa-bapana"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua rebu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "genep"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jeung tilu puluh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:50.029504078Z",
+  "model": "glm-5.3"
+}

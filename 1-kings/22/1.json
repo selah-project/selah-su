@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lajeng maranéhna cicing tilu taun, euweuh perang antara Aram jeung antara Israel.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "lajeng maranéhna cicing"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:44.034820696Z",
+  "model": "glm-5.3"
+}

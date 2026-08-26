@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung ⟨the⟩ tanah jadi najis, mangka Kami ngaluarkeun hukum kana kalalayanana ka luhurna, sarta tanah miceun ⟨את⟩ pangeusina.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "jadi najis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ngaluarkeun hukum"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kalalayana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka luhurna"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "miceun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangeusina"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "pangeusina"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:34.905127597Z",
+  "model": "glm-5.3"
+}

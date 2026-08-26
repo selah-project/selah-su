@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 47:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Jadi ararinyog ngomong ka Paroh, \"Pikeun cicing sajam di ⟨ ieu ⟩ taneuh kami sumping, sabab euweuh lamping ingon-ingon pikeun domba nu dipiboga abdi-abdi anjeun, sabab beurat pisan kalaparan di taneuh Kenaan; ayeuna mah punten, punten diantep abdi-abdi anjeun cicing di taneuh Goshen.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ararinyog ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "pikeun cicing sajam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "kami sumping"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "lamping ingon-ingon"
+    },
+    {
+      "surface": "לצאן",
+      "gloss": "pikeun domba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "dipiboga abdi-abdi anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "beurat pisan"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna mah"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "diantep cicing"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdi anjeun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    }
+  ],
+  "timestamp": "2026-08-26T16:39:37.084262478Z",
+  "model": "glm-5.3"
+}

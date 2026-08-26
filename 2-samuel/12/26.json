@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Yoab perang ngalawan Rabbat ti barudak Ammon, sarta manéhna naklukkeun ⟨את⟩ kota karajaan.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "jeung perang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "ngalawan Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "sarta manéhna naklukkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karajaan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:46.174355823Z",
+  "model": "glm-5.3"
+}

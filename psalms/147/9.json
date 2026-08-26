@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Anu méré ka sasatoan dahareunana, ka anak-anak manuk gagak nu ngagorowok nyaba.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Anu méré"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ka sasatoan"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "dahareunana"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka anak-anak"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "manuk gagak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ngagorowok nyaba"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:46.301218879Z",
+  "model": "glm-5.3"
+}

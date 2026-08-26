@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jadi sanggeus éta Djawid ngabeat ⟨את⟩ Palisdim tur nyubarakeun aranjeunna, sarta nyandak ⟨את⟩ Gat jeung anak-désana tina leungeun Palisdim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ngabeat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Djawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Palisdim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palisdim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "nyubarakeun"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "jeung anak-désana"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palisdim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:12:44.158916016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung maranéhna nempatkeun ⟨את⟩ peti Yahwe kana garobak, sarta ⟨את⟩ kotak emas, jeung ⟨את⟩ beurit-beurit emas, jeung ⟨את⟩ lalakon borok-borok maranéhna.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "garobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kotak emas"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "kotak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beurit-beurit emas"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "beurit-beurit"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lalakon borok-borok"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "lalakon"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "borok-borok maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:20.850906797Z",
+  "model": "glm-5.3"
+}

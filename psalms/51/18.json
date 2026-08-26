@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Sabab Anjeun teu bogoh ka kurban sanajan abdi ngahaturkeunana; daging beuleum teu pikaresep ku Anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "bogoh ka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "sanajan abdi ngahaturkeunana"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "daging beuleum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "pikaresep ku Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:34.495996391Z",
+  "model": "glm-5.3"
+}

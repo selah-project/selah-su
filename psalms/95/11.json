@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 95,
+  "translation": "Nu matak abdi sumpah dina murka abdi: moal pisan aranjeun asup ka reureuan abdi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu matak"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "abdi sumpah"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "dina murka abdi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moal pisan"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "aranjeun asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "reureuan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:18.889540383Z",
+  "model": "glm-5.3"
+}

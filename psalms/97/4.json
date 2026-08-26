@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Kilat-Na neungkurulikeun caaya ka ⟨sakuliah⟩ dunya; bumi nempo jeung gering dina jero dirina.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "neungkurulikeun caaya"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "kilat-Na"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨sakuliah⟩ dunya"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "jeung gering"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:48.211441638Z",
+  "model": "glm-5.3"
+}

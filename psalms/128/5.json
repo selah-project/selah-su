@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 128,
+  "translation": "Muga Yahwe ngaberkahan anjeun ti Tsiyon, punah ku carik nempo kabecikan Yerushalaim sadaya poé hirup anjeun.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "muga ngaberkahan anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "punah ku carik nempo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "hirup anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:46.834270490Z",
+  "model": "glm-5.3"
+}

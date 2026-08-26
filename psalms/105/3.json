@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Mégél diri ku ngaran sucina; bungah ati nu milari Yahwe.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Mégél diri"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ku ngaran"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucina"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "nu milari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:25.668425200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sang raja ku kadariaan ngadegkeun nagri; tapi jalma nu narima persembahan niantrukannana.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ku kadariaan"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nagri"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tapi jalma"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "nu narima persembahan"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "niantrukannana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:47.516054586Z",
+  "model": "glm-5.3"
+}

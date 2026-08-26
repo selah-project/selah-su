@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Sabab luhurna langit-langit ti bumi, kitu ogé luhurna jalan-jalanKu ti jalan-jalan anjeun, jeung pikiran-pikiranKu ti pikiran-pikiran anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "luhurna"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti bumi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "luhurna"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalanKu"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "ti jalan-jalan anjeun"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "jeung pikiran-pikiranKu"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "ti pikiran-pikiran anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:44.327661593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Anjeun ngasadiekeun ⟨the⟩ jalan pikeun anjeun, sareng ngabagi tilu ⟨את⟩ wates taneuh anjeun, nu Yahwe Elohim anjeun méré waris ka anjeun, jadi pikeun ngarungsi ka dinya saha waé nu maéhan jalma.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "ngasadiekeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ngabagi tilu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wates taneuh anjeun"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "taneuh anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "méré waris ka anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "pikeun ngarungsi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka dinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saha waé"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "nu maéhan jalma"
+    }
+  ],
+  "timestamp": "2026-08-26T16:47:01.562945775Z",
+  "model": "glm-5.3"
+}

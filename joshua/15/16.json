@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sareng Kaléb ngomong: Saha nu ngéléhkeun ⟨את⟩ Kiryat-Séfer sarta néwakanna, ka jalma éta abdi méré ⟨את⟩ Akhsah putri abdi jadi pamajikanana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sareng-ngomong"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaléb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "saha-nu"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ngéléhkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Séfer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "sarta-néwakanna"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "abdi-méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka-jalma-éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "putri-abdi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi-pamajikanana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:48:50.157113905Z",
+  "model": "glm-5.3"
+}

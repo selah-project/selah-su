@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Sabab manéhna milangsa ti luhur suci-Nana, Yahwe ti langit ngaliwatan ka bumi nyawang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "milangsa"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suci-Nana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngaliwatan ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nyawang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:16.393315318Z",
+  "model": "glm-5.3"
+}

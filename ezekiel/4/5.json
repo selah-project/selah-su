@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung abdi nangtungkeun ka anjeun ⟨את⟩ mangtaun-kaduga kalalawanna, saluyu jeung itungan poé, tilu ratus sareng salapan puluh poé; sarta anjeun bakal mawa kalalawan imah Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jeung abdi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "abdi nangtungkeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mangtaun-kaduga kalalawanna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mangtaun-kaduga"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kalalawanna"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "saluyu jeung itungan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "jeung salapan puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "sarta anjeun bakal mawa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalalawan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T13:44:02.061765841Z",
+  "model": "glm-5.3"
+}

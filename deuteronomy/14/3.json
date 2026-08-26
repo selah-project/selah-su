@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Ulah dahar sagala nu kadu",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "nu kadu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:46:27.423522880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Palinggih ka abdi, sarta murah kana abdi, sabab sia jeung miskin abdi.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "palinggih"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "sarta murah kana abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "jeung miskin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:47.720560543Z",
+  "model": "glm-5.3"
+}

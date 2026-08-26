@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Teras kohén ngabales ⟨את⟩ Dawid sarta nyarios: euweuh roti biasa nu aya di sahandapeun leungeun kuring, ngan ukur roti suci anu aya, upama para rumaja ngajaga diri ngan ukur tina awéwé.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Teras ngabales"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohén"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarios"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "חל",
+      "gloss": "biasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngan ukur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "ngajaga diri"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "para rumaja"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngan ukur"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "tina awéwé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:18.615530621Z",
+  "model": "glm-5.3"
+}

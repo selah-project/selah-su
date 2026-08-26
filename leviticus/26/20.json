@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung kakuatan anjeun baris kaédéy sacara sia-sia, jeung taneuh anjeun moal méré ⟨את⟩ hasilna, sarta tangkal-kai nagara moal méré buahna.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "jeung baris kaédéy"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sacara sia-sia"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "kakuatan anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "taneuh anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilna"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasilna"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "sarta tangkal-kai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:13.863812549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "jeung dataran Arabah, jeung Yardén, jeung watesna, ti Kineret nepi ka laut dataran Arabah, laut uyah, di handapeun ngarai Pisgah, ka wétan.",
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "jeung dataran Arabah"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "jeung Yardén"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "jeung watesna"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "ti Kineret"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "dataran Arabah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "uyah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "ngarai"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pisgah"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ka wétan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:54.072666477Z",
+  "model": "glm-5.3"
+}

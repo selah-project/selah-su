@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Sarta pinuh ⟨pikeun⟩ anjeunna opat puluh poé, sabab kitu kaayaan poé-poé nu dibalsam; sarta Mesir nangis ⟨את⟩ anjeunna tujuh puluh poé.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "sarta pinuh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun anjeunna"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "kaayaan pinuhna"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "nu dibalsam"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "sarta nangis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:05.634396330Z",
+  "model": "glm-5.3"
+}

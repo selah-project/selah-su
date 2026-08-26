@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Pikeun nu mingpin, ti Daud, mizmor, simpatan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun nu mingpin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Daud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "simpatan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:34.067112419Z",
+  "model": "glm-5.3"
+}

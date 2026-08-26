@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung Laban ngomong ka Yaakov: Naon anu anjeun pigawe? Anjeun nyolong ⟨את⟩ haté abdi, sarta mawa ⟨את⟩ putri-putri abdi jiga tawanan pedang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ka Yaakov"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "anujeun pigawe"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "nyolong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haté abdi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "haté abdi"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putri abdi"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "putri-putri abdi"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "jiga tawanan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:21.579533990Z",
+  "model": "glm-5.3"
+}

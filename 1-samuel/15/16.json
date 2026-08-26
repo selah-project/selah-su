@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Tuluy Shemuël nyarita ka Shaül: Tahan heula, bisi abdi caritakeun ka anjeun ⟨את⟩ nu Yahwe nyaritakeun ka abdi peuting ieu. Manéhna nyarita ka manéhna: Caritakeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "tahan heula"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "bisi abdi caritakeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu (nu Yahwe nyaritakeun)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "peuting ieu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "caritakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:17:42.344132364Z",
+  "model": "glm-5.3"
+}

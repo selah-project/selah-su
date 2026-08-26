@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Dina harita éta manéhna nyarita ka maranéhna dina kaamukna, sarta dina kamurkaanana manéhna ngagodam maranéhna.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dina harita éta"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "manéhna nyarita"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dina kaamukna"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "sarta dina kamurkaanana"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "manéhna ngagodam maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:48.237980611Z",
+  "model": "glm-5.3"
+}

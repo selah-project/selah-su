@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ti dinya anjeunna indit ka nu nyicingan Devir — ngaran Devir baheula Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "nu nyicingan"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "baheula"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:27.777135566Z",
+  "model": "glm-5.3"
+}

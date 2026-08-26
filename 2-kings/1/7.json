@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung anjeunna nyarita ka aranjeunna: Naon rupa saurang lalaki nu naék nyumponan aranjeunna jeung nyarita ka aranjeunna ⟨את⟩ kecap-kecap ieu?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "nyumponan aranjeunna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap ieu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:31.721043837Z",
+  "model": "glm-5.3"
+}

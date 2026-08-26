@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jadi Moshe ngirim ⟨את⟩ maranehna ti gurun Paran numutkeun parentah Yahwe; sadayana jalma, sirah-sirahna putra-putra Yisrael, aranjeunna éta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ti gurun"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "numutkeun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirah-sirahna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "anjeunna éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:20.592698235Z",
+  "model": "glm-5.3"
+}

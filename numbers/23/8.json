@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Kumaha abdi nimukeun liang — El teu nimukeun liang; sarta kumaha abdi moyog — Yahwe teu moyog?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kumaha"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "abdi nimukeun liang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "nimukeun liang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "sarta kumaha"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "abdi moyog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "moyog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:33:35.873039701Z",
+  "model": "glm-5.3"
+}

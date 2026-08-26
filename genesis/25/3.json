@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Turun Yokshan ngalahirkeun ⟨את⟩ Sheva jeung ⟨את⟩ Dedan; jeung putra-putra Dedan jadi Asyurim, Letusim, jeung Leumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Turun Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Asyurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "jeung Letusim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "jeung Leumim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:23.691545076Z",
+  "model": "glm-5.3"
+}

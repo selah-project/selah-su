@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Néah saring tina mabokna anggur, lajeng nyaho ⟨את⟩ naon nu geus dipigawé ku putrana nu pangleutikna ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "jeung saring"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Néah"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "tina mabokna anggur"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "lajeng nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naon nu dipigawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nu pangleutikna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:41.519661242Z",
+  "model": "glm-5.3"
+}

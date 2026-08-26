@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 13:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Lot ngangkatkeun ⟨את⟩ panonna, sarta nempo ⟨את⟩ sadaya lebak Yarden, sabab sagemblengna kairan — saméméh Yahwe ngancurkeun ⟨את⟩ Sedom jeung ⟨את⟩ Amora — kawas kebun Yahwe, kawas nagari Mitsrayim, nalika asup ka Tsoar.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Jeung ngangkatkeun"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panonna"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "panonna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sarta nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya lebak Yarden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "lebak"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sagemblengna"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "kairan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "kawas kebun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "kawas nagari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "nalika asup"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:09.195465911Z",
+  "model": "glm-5.3"
+}

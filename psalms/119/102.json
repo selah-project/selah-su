@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Tina putusan-putusan-Mu teu kuring palingpang, sabab Anjeun nu ngawurar kuring.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "tina putusan-putusan-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "kuring palingpang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "nu ngawurar kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:51.434415807Z",
+  "model": "glm-5.3"
+}

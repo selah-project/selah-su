@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 127,
+  "translation": "Sajahana pikeun anjeun, nu bangun ti isuk-isuk, nunda diuk nepi ka soré, nu dahar roti karasa susah: kitu baé Anjeunna ngasihan bobo ka nu dipikacinta-Na.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "sajahana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "nu bangun ti isuk-isuk"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "nunda"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "nu dahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "karasa susah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ngasihan"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "ka nu dipikacinta-Na"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "bobo"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:24.534023269Z",
+  "model": "glm-5.3"
+}

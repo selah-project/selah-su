@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Yahwe ngarojong ⟨הי⟩ nu andep, narunjakeun nu jahat nepi ka bumi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "ngarojong"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nu andep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "narunjakeun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:26.617000198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Lajeng raja Israél ngirim jalma ka tempat nu dibejaan ku manusa Elohum ka anjeunna, sarta dipiéping; sarta anjeunna jaga diri di dinya, teu sakali, ogé teu dua kali.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lajeng ngirim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dibejaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohum"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "sarta dipiéping"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "sarta jaga diri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sakali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ogé teu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua kali"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:32.057827597Z",
+  "model": "glm-5.3"
+}

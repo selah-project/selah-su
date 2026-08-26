@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Anjeun ngahanyud ⟨aranjeunna⟩; jadi sapasiré; isuk-isuk sarupa jukut ngaréndét.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "ngahanyud"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sapasiré"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sarupa jukut"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ngaréndét"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:20.525915025Z",
+  "model": "glm-5.3"
+}

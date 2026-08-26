@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Sabanding jauhna wétan ti kulon, sasab jauh dipisahkeun ti urang ⟨את⟩ palimpatan-palimpatan urang.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "sabanding jauhna"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "ti kulon"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "sasab jauh dipisahkeun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palimpatan-palimpatan urang"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "palimpatan-palimpatan urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:49.714769631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun nu dicandak maling tangtu kapanggih hirup di leungeunana — munding, kaliri, nepi ka domba — kudu mayar dua kali lipat.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "tangtu-kapanggih"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kapanggih"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di-leungeunana"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "nu-dicandak"
+    },
+    {
+      "surface": "משור",
+      "gloss": "munding"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kaliri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua-kali"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kudu-mayar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:34.019472499Z",
+  "model": "glm-5.3"
+}

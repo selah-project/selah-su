@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Adam nyaho deui ⟨את⟩ pamajikanana, lajeng manéhna ngalahirkeun saurang putra, sarta nyebut ⟨את〕 ngaranna Shet, sabab — katana — Elohum nempatkeun keur kuring bibit séjén piganti Hevel, sabab Qayan maéhanana.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "jeung nyaho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikanana"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lajeng manéhna ngalahirkeun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "saurang putra"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "sarta nyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שת",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur kuring"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bibit"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "séjén"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "piganti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "maéhanana"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:41.530279988Z",
+  "model": "glm-5.3"
+}

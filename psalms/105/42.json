@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Sabab Anjeunana inget ⟨את⟩ kecap sucina, ⟨את⟩ Avraham hambana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "inget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap sucina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hambana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:32.665971573Z",
+  "model": "glm-5.3"
+}

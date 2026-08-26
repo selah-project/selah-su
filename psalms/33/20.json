@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Nyawa urang ngadagoan Yahwe; Dialingkeun pitulung urang jeung taméng urang.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "nyawa urang"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ngadagoan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "pitulung urang"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "jeung taméng urang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialingkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:56.290982637Z",
+  "model": "glm-5.3"
+}

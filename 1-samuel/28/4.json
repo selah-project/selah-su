@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Mangka Péleshet ngumpul, sarta datang, saga ngadegkeun tenda di Shunem; laju Shaol ngumpulkeun ⟨את⟩ sadaya Yisrael, sarta aranjeunna ngadegkeun tenda di Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ngumpul"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Péleshet"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ngadegkeun tenda"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "di Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ngadegkeun tenda"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "di Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:25.705984019Z",
+  "model": "glm-5.3"
+}

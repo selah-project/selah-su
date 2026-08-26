@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Inget, Adonay, panghina ka abdi-abdi-Mu; kuring mawa sadaya ⟨ éta ⟩ dina dada kuring — ⟨hina⟩ ti loba bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "inget"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "panghina"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ka abdi-abdi-Mu"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "kuring mawa"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "dina dada kuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:03.710402977Z",
+  "model": "glm-5.3"
+}

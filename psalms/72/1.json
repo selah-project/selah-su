@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Pikeun Shelomo. He Elohim, migawékeun kaputusan anjeun ka raja, sarta kabeneran anjeun ka putra raja.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "pikeun Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "kaputusan anjeun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka raja"
+    },
+    {
+      "surface": "תן",
+      "gloss": "migawékeun"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "sarta kabeneran anjeun"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ka putra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:27.838174540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Doa mitutur ka Daud. Paringeun kahadéan, wahai Yahwe; sireungeun ka sora jerit abdi; eunteung ka doa abdi, lain tina biwir nu nipu.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mitutur ka David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Paringeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kahadéan"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "sireungeun"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ka sora jerit abdi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "eunteung"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ka doa abdi"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "tina biwir"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "nu nipu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:54.929640131Z",
+  "model": "glm-5.3"
+}

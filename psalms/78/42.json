@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Teu émut ⟨את⟩ leungeun-Na, poé nalika Manéhna ngabébaskeun aranjeunna ti tina musuh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "émut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun-Na"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeun-Na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ngabébaskeun"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ti tina"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:39.462993357Z",
+  "model": "glm-5.3"
+}

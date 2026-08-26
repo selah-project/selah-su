@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jadi manéhna ngaleungitkeun ⟨את⟩ altar-altar bangsa deungeun jeung ⟨את⟩ tempat-tempat luhur, ngancurkeun ⟨את⟩ tugu-tugu batu, jeung ngagaring ⟨את⟩ tuang-tuang Asyera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ngaleungitkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar-altar bangsa deungeun"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altar-altar"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "bangsa deungeun"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "jeung tempat-tempat luhur"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu batu"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tugu-tugu batu"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "jeung ngagaring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuang-tuang Asyera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "tuang-tuang Asyera"
+    }
+  ],
+  "timestamp": "2026-08-26T16:23:04.702552393Z",
+  "model": "glm-5.3"
+}

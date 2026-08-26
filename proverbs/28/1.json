@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Kabur ⟨euweuh⟩ nu ngudag jalma nu jahat, tapi nu bener saperti anak singa percaya diri.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi ⟨euweuh⟩"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "nu ngudag"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma nu jahat"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "saperti anak singa"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "percaya diri"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:07.530159770Z",
+  "model": "glm-5.3"
+}

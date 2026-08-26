@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung aranjeunna ngomong ka Moshe: ⟨⟨pamiceunan⟩⟩ «Beuki loba ⟨teuing⟩ balaréa mawa leuwih ti cukup pikeun bantuan kana pagawéan nu Yahwe paréntahkeun dijieun ⟨את mangrupa-mangrupa⟩.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "anjeunna-jeunna ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saur"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "beuki loba teuing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "leuwih ti"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "bantuan"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "pikeun pagawéan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paréntah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "pikeun dijieun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "אתה — pagawéan éta (v5)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:21.839850203Z",
+  "model": "glm-5.3"
+}

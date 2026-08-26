@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Pujiyah! Abdi badé muji Yahwe ku sakabéh ati, dina pagerewan ⟨para⟩ lurus jeung dina kumpulan ageung.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Puji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "abdi badé muji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sakabéh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "dina pagerewan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "jeung kumpulan ageung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:19.889223932Z",
+  "model": "glm-5.3"
+}

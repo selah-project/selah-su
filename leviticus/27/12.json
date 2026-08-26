@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung imam nganilai ⟨את⟩ éta, antawis nu saé jeung antawis nu goreng; nurutkeun panilaéan anjeun, imam, kanya kitu bakal jadi.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "jeung nganilai"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "éta sato"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antawis"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu saé"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antawis"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nu goreng"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "nurutkeun panilaéan anjeun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanya kitu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:44.899106328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sabab komo rusa-bétina dina kebon geus ngalahirkeun jeung miiskeun ⟨anjingna⟩, sabab teu aya jukut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komo"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "rusa-bétina"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dina kebon"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "geus ngalahirkeun"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "jeung miiskeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "jukut"
+    }
+  ],
+  "timestamp": "2026-08-26T13:26:46.607247351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Kuwana di bumi ⟨bakal⟩ jadi turunannana; liang turunan nu lempeng bakal meunang berkah.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Kuwana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "turunannana"
+    },
+    {
+      "surface": "דור",
+      "gloss": "liang turunan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bakal meunang berkah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:08.443639469Z",
+  "model": "glm-5.3"
+}

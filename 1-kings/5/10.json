@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta kawijaksanaan Shelomoh leuwih loba ti kawijaksanaan sakabéh putra ⟨ti⟩ wétan, jeung ti sakabéh kawijaksanaan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "leuwih loba"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kawijaksanaan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ti kawijaksanaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "jeung ti sakabéh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kawijaksanaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:02.710340531Z",
+  "model": "glm-5.3"
+}

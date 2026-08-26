@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "jeung sing nyarita: Kitu kata raja: Peres ⟨את⟩ ieu di imah panjara, sing daharan anjeunna roti pameungit jeung cai pameungit nepi ka kuring datang dina damai.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "jeung anjeun nyarita"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "peres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "panjara"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "sing daharan anjeunna"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "pameungit"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jeung cai"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "pameungit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "באי",
+      "gloss": "kuring datang"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dina damai"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:06.090623786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 129,
+  "translation": "Sarta nu ngaliwat teu ngomong: 'Berkah Yahwe dina anjeun; Kami mugikeun berkah ka ⟨את⟩ anjeun dina Jenengan Yahwe.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "nu ngaliwat"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "dina anjeun"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "Kami mugikeun berkah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dina Jenengan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:50.305491981Z",
+  "model": "glm-5.3"
+}

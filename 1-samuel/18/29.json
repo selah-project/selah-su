@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Shaol nambah sieun ka Dawid deui, jeung Shaol jadi musuh ⟨את⟩ Dawid sadaya poé.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "איב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:10.862933674Z",
+  "model": "glm-5.3"
+}

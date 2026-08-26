@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung anak girang éta geulis pisan pisan, jeung jadi parawat pikeun raja, jeung ngawula ka anjeunna, tapi raja teu nyaho anjeunna.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "jeung-anak-girang-éta"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "geulis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jeung-jadi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pikeun-raja"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "parawat"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "jeung-ngawula-ka-anjeunna"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "tapi-raja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "nyaho-anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:54.377036737Z",
+  "model": "glm-5.3"
+}

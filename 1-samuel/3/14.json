@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ku lantaran kitu kuring geus sumpah ka imah Eli: moal diampunana kalalangkung imah Eli ku korban jeung ku persembahan, nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "jeung ku lantaran kitu"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "kuring geus sumpah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka imah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "diampunana"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalalangkung"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ku korban"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "jeung ku persembahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:51.239735984Z",
+  "model": "glm-5.3"
+}

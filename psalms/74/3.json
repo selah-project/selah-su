@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Angkat engang suku Anjeun ka karusakan-karusakan nu langgeng; sadaya nu goreng dipigawé mousuh di tempat suci.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Angkat"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "engang suku Anjeun"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ka karusakan-karusakan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "nu langgeng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu goreng dipigawé"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mousuh"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tempat suci"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:32.536177696Z",
+  "model": "glm-5.3"
+}

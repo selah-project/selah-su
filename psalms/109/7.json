@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Mun manéhna dihukum, kaluarlah ⟨⟨manéhna⟩⟩ salaku jalma durhaka, sarta rogatna jadi dosa.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "mun manéhna dihukum"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluarlah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "salaku jalma durhaka"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "sarta rogatna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:02.213448Z",
+  "model": "glm-5.3"
+}

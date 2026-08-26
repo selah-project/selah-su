@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Teras Dauid ngadangu di gurun yen Nabal keur ngarummus ⟨את⟩ kambing-dombana.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ngarummus"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing-dombana"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kambing-dombana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:00.458211111Z",
+  "model": "glm-5.3"
+}

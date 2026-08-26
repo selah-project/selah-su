@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung manehna ngalungkeun batu ka ⟨את⟩ David jeung ka ⟨את⟩ sagala abdi ⟨raja⟩ David, ari sagala balad jeung sagala pangawasa di katuhuana jeung di kencaanna.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "Jeung manehna ngalungkeun batu"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ku batu-batu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ka ⟨את⟩",
+      "marks": "sagala abdi raja David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "di katuhuana"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "jeung di kencaanna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:41.080375556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sabab raja percaya ka Yahwe, jeung ku kanyaah satia perjangjian Elyon, teu bakal goyah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "jeung ku kanyaah satia perjangjian"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu bakal"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "goyah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:14.570657784Z",
+  "model": "glm-5.3"
+}

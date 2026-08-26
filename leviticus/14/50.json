@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung anjeunna nyembelih ⟨את⟩ manuk ⟨nu⟩ hiji ka wadah taneuh liat luhureun cai hirup.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "jeung anjeunna nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk nu hiji"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "wadah"
+    },
+    {
+      "surface": "חרesh",
+      "gloss": "taneuh liat"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:56.677137663Z",
+  "model": "glm-5.3"
+}

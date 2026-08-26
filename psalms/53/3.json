@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 53,
+  "translation": "Elohim ti langit ngajuljeng ngeunteung ka lalaki, pikeun nempo naha aya nu ngarti, nu nyungsi ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ngajuljeng ngeunteung"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lalaki (putra)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "היש",
+      "gloss": "naha aya"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nu ngarti"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nu nyungsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:39.367153469Z",
+  "model": "glm-5.3"
+}

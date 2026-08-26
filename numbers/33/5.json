@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Lajeng barudak Yisrael indit ti Raamsés, sarta aranjeungna ngadeg kemah di Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "ti Raamsés"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ngadeg kemah"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "di Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-26T16:45:33.298649926Z",
+  "model": "glm-5.3"
+}

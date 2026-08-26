@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Aku bakal émut kalakuan-kalakuan Yah; sabab aku bakal émut hal-hal hébat-Mu ti mimiti.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "aku bakal émut"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "kalakuan-kalakuan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "aku bakal émut"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ti mimiti"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "hal-hal hébat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:22.969890391Z",
+  "model": "glm-5.3"
+}

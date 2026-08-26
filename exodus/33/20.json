@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung anjeunna ngomong: moal bisa anjeun nempo ⟨את⟩ beungeut kuring, sabab moal nempo kuring manusa jeung tetep hirup.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "anjeun tiasa"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beungeet kuring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeet kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "nempo kuring"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "jeung tetep hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:30.844260860Z",
+  "model": "glm-5.3"
+}

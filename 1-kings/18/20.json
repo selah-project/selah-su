@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jadi Achab ngirim ka sakabéh putra-putra Yisrael, sarta ngumpulkeun ⟨את⟩ para nabi ka gunung Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sakabéh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:47.868721570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Teras aya kecap Yahwe ka abdi, sangkan ngendika:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngendika"
+    }
+  ],
+  "timestamp": "2026-08-26T13:27:51.036528142Z",
+  "model": "glm-5.3"
+}

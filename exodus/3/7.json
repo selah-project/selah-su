@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Yahwe ngandika: Nempo bener kuring geus nempo ⟨את⟩ karunya umat kuring nu di Mitsrayim, jeung ⟨את⟩ sautna kuring geus ngadéngé alatan nu ngawajibkeun gawé maranéhna, sabab kuring nyaho ⟨את⟩ buah haté maranéhna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring geus nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karunya umat kuring"
+    },
+    {
+      "surface": "עני",
+      "gloss": "karunya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat kuring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sautna"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "sautna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuring geus ngadéngé"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "nu ngawajibkeun gawé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuring nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buah haté maranéhna"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "buah haté maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:30.778178698Z",
+  "model": "glm-5.3"
+}

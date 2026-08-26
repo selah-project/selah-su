@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung éta bakal jadi tanda dina leungeun anjeun jeung iket pananda di antara panon anjeun, sabab ku kakuatan leungeun Yahwe mawa urang kaluar tina Mitsráyim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jeung bakal jadi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "ויטוטפת",
+      "gloss": "jeung iket pananda"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "panon anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ku kakuatan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "mawa urang kaluar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "tina Mitsráyim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:23.341924741Z",
+  "model": "glm-5.3"
+}

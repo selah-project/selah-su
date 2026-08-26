@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Teras Yirmeyahu maréntahkeun ka ⟨את⟩ Barukh nyarahkeun: kuring dijugut, henteu mampu asup ka bumi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarahkeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "dijugut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:35:53.353822402Z",
+  "model": "glm-5.3"
+}

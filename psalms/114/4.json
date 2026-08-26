@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 114,
+  "translation": "Pagunungan ngalompatan saperti embé jalu, pasir-pasir saperti anak kambing-domba.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "pagunungan"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "ngalompatan"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "saperti embé jalu"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "pasir-pasir"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "saperti anak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing-domba"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:17.688024169Z",
+  "model": "glm-5.3"
+}

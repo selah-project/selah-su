@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Waktuna maramalkan batu, jeung waktuna ngumpulkeun batu; waktuna rarayapan, jeung waktuna jauh ti rarayapan.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktuna"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "maramalkan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktuna"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktuna"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "rarayapan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktuna"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "ti rarayapan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:36.672254274Z",
+  "model": "glm-5.3"
+}

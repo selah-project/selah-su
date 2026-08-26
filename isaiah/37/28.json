@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Duduk anjeun, kaluar anjeun, jeung asup anjeun, abdi nyaho; jeung ⟨את⟩ kahéwatan anjeun ka abdi.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "duduk anjeun"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "kaluar anjeun"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "asup anjeun"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "abdi nyaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kahéwatan anjeun"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "kahéwatan anjeun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:12.685016735Z",
+  "model": "glm-5.3"
+}

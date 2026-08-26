@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 123,
+  "translation": "Muriah ka urang, wahai Yahwe, muriah ka urang, sabab kacida pisan kanyanggungan ku panghina.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Muriah ka urang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "muriah ka urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kacida pisan"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "kanyanggungan"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ku panghina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:08.618902100Z",
+  "model": "glm-5.3"
+}

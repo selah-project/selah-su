@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 129,
+  "translation": "Teleb digesus aranjeuna abdi ti rumaja-kuring, tapi moal sanggup aranjeuna ngéléhkeun abdi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Teleb"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "digesus aranjeuna abdi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ti rumaja-kuring"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sanggup aranjeuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngéléhkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:31.032315821Z",
+  "model": "glm-5.3"
+}

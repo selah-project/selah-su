@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 14:11",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung awéwé ngomong: ulah pisan, émutan raja ⟨את⟩ Yahwe Elohim anjeun, sangkan nu malik getih teu nambah ngancurkeun, moal aranjeunna ngancurkeun ⟨את⟩ budak abdi. Jeung raja ngomong: Yahwe hirup — lamun aya ramo budak anjeun ragrag ka taneuh.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "émutan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "מהרבית",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "nu malik"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישמידו",
+      "gloss": "aranjeunna ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak abdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak abdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "משערת",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "budak anjeun"
+    },
+    {
+      "surface": "아르צה",
+      "gloss": "ka taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:43.280249755Z",
+  "model": "glm-5.3"
+}

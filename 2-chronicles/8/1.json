@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Teras kajadian dina tungtun dua puluh taun, nalika Shelomoh geus ngawangun ⟨את⟩ bumi Yahwe jeung ⟨את⟩ bumi-na sorangan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kajadian"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "dina tungtun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bumi-na sorangan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bumi-na sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:26:31.194220798Z",
+  "model": "glm-5.3"
+}

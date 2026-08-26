@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Gero sarta ulah dosa; ceurik di jero hate anjeun dina diparan anjeun, sarta cicing. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "gero"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sarta ulah"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ceurik"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "di jero hate anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "diparan anjeun"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "sarta cicing"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:35.270498107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Dina kaangkuhan jalma jahat, nu nirunngul dipanasan ngahuru; aranjeunna kapanggih dina racikan-racikan nu dirancangna.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "dina kaangkuhan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma jahat"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "dipanasan ngahuru"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu nirunngul"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "kapanggih"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "dina racikan-racikan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "dirancangna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:30.291548397Z",
+  "model": "glm-5.3"
+}

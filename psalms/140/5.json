@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Jaga kuring, Yahwe, tina leungeun nu jahat, tina lalaki pangbarontak anjeun jaga kuring, nu ngarancang pikeun ngagugirin leumpang kuring.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "jaga kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "tina lalaki"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "pangbarontak"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "anjeun jaga kuring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ngarancang"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "pikeun ngagugirin"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "leumpang kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:01.905848085Z",
+  "model": "glm-5.3"
+}

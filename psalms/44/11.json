@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Anjeun malikkeun kami mundur tina nu ngajarah, sarta nu mikabenci kami maréangan keur maranéhna sorangan.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Anjeun malikkeun kami"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tina"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nu ngajarah"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "sarta nu mikabenci kami"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "maréangan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "keur maranéhna sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:03.152520519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jauh ti nu jahat kasalametan, sabab putusan-putusan Anjeun teu maranéhna sungsian.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ti nu jahat"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "kasalametan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "putusan-putusan Anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "sungsian maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:23.406336412Z",
+  "model": "glm-5.3"
+}

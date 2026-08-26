@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung maranéha mawa ⟨את⟩ peti Elohim na kareta anyar ti imah Avinadav; Uza jeung Axyo nu mamarabah kareta.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "mawa (na kareta)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "jeung adina"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "nu mamarabah"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kareta"
+    }
+  ],
+  "timestamp": "2026-08-26T16:10:58.028490902Z",
+  "model": "glm-5.3"
+}

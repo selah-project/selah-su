@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sarta dipigaweana nu goreng dina panon Yahwe, saperti nu dipigawe Menashsheh bapana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dipigaweana"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu goreng"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:54.459198587Z",
+  "model": "glm-5.3"
+}

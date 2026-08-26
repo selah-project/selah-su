@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Elisha maot, jeung aranjeunna ngurebkeun. Jeung rampogan Moab datang ka ⟨the⟩ tanah, numawké datangna taun.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "jeung-maot"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "jeung-aranjeunna ngurebkeun"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "jeung-rampogan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "anjeunna-datan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ka-taneuh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:52.667528511Z",
+  "model": "glm-5.3"
+}

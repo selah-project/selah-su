@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "jeung minyak pikeun suluh, jeung bumbu-bumbu wangi pikeun minyak pangistian, jeung pikeun dabu-dabu wanginan",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "jeung minyak"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pikeun suluh"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "jeung bumbu-bumbu wangi"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "pikeun minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pangistian"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "jeung pikeun dabu-dabu"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wanginan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:37.847968865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Ngajaga sakabéh tulang-tulangna; sa-hiji ti pudingana moal remuk.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ngajaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "tulang-tulangna"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sa-hiji"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ti pudingana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "remuk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:20.852281675Z",
+  "model": "glm-5.3"
+}

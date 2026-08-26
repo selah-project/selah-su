@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Pikeun pamingpin musik; ulah musnakeun; pikeun Dawid, mikhtam, nalika Saul ngirim bala-bala, jeung aranjeunna ngawaskeun ⟨את⟩ ⟨the⟩ imah pikeun maéhan manéhna.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun pamingpin musik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "musnakeun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "nalika ngirim bala-bala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "jeung aranjeunna ngawaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩ imah"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "pikeun maéhan manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:15.158171885Z",
+  "model": "glm-5.3"
+}

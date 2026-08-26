@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Pingit abdi saperti puteri panon, dina kalangkang jangjang-jangjang Anjeun sumputkeun abdi.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "pingit abdi"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "saperti puteri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "puteri"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "dina kalangkang"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "jangjang-jangjang Anjeun"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "sumputkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:01.205843191Z",
+  "model": "glm-5.3"
+}

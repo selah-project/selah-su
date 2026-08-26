@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Yahwe, Anjeun bakal netepkeun karapihan keur urang, sabab ogé sadaya gawé urang geus Anjeun pigawé keur urang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "netepkeun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karapihan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keur urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "gawé urang"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Anjeun pigawé"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keur urang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:40.941417005Z",
+  "model": "glm-5.3"
+}

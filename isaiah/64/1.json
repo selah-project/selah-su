@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Ngabeuleung kawas seuneu ngabeledahkeun suluh-suluh, seuneu ngajadi cai ngagolak — sangkan ngaran Anjeun dipikanyaho ku musuh-musuh Anjeun, tina hareapan Anjeun bangsa-bangsa ngageterih.",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "ngabeuleung kawas"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "suluh-suluh"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "ngagolakkeun"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "sangkan ... dipikanyaho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran Anjeun"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "ku musuh-musuh Anjeun"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "tina hareapan Anjeun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ngageterih"
+    }
+  ],
+  "timestamp": "2026-08-26T13:20:10.903432158Z",
+  "model": "glm-5.3"
+}

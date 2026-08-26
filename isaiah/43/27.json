@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Bapa anjeun nu munggaran geus dosa, sarta juru-panganteur anjeun geus ngalawan ka Abdi.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Bapa anjeun"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nu munggaran"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "geus dosa"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "sarta juru-panganteur anjeun"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "geus ngalawan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka Abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:33.365869089Z",
+  "model": "glm-5.3"
+}

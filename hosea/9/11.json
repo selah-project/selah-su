@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Efrayim — saperti manuk bakal ngahiber kamulyana: moal aya babaran, moal aya kaandutan, moal aya kaandutaan.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "saperti manuk"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "bakal ngahiber"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kamulyana"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "ti babaran"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "jeung ti burih"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "jeung ti kaandutaan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:01.182773008Z",
+  "model": "glm-5.3"
+}

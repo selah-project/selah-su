@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Teu meunang maré ngorbankeun ⟨את⟩ péskah dina salah sahiji panto anjeun, nu Yahwe Elohim-anjeun mikeun ka anjeun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu meunang"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ngorbankeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "péskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "péskah"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "dina salah sahiji"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "panto anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-anjeun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mikeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:29.850971194Z",
+  "model": "glm-5.3"
+}

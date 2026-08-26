@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Lain rusa ngaharay walungan cai, kitu ogé nefesh kuring ngaharay ka Anjeun, wahyu Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Lain rusa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ngaharay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka\/dina"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ngaharay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:59.126218852Z",
+  "model": "glm-5.3"
+}

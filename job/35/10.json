@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Tapi teu aya nu ngomongkeun: Naon Eloah, nu nyieun kuring, nu méré lagu-lagu dina wengi?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "איה",
+      "gloss": "naon(-dina)"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nu nyieun kuring"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nu méré"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "lagu-lagu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "dina wengi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:17:11.090017257Z",
+  "model": "glm-5.3"
+}

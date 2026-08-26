@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung Paraoh bakal nyarita ngeunaan barudak Yisrael: maranéhna kabingung di lemah ieu, gurun geus nungkelan maranéhna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "bakal nyarita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ngeunaan barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "kabingung"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di lemah"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nungkelan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:20.059066114Z",
+  "model": "glm-5.3"
+}

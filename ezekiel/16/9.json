@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Kuring ngamandian anjeun ku cai, sarta ngahapus ⟨את⟩ getih anjeun ti luhureun anjeun, jeung ngolésan anjeun ku minyak.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "ngamandian anjeun"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ku cai"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "ngahapus"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "getih anjeun"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ti luhureun anjeun"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "ngolésan anjeun"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ku minyak"
+    }
+  ],
+  "timestamp": "2026-08-26T13:47:27.923043648Z",
+  "model": "glm-5.3"
+}

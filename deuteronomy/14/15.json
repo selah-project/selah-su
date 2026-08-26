@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "jeung ⟨את⟩ anak manuk onta, jeung ⟨את⟩ takhmas, jeung ⟨את⟩ sakhaps, jeung ⟨את⟩ hayam-hayaman sangha nurutkeun spésiésna",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak manuk onta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "manuk onta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "takhmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "takhmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakhaps"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "sakhaps"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hayam-hayaman sangha"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "hayam-hayaman sangha"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nurutkeun spésiésna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:50.124904875Z",
+  "model": "glm-5.3"
+}

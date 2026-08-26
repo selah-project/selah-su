@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "anu dipapait ku Yahwe Tzevaot, sangkan nyarita: Berkah ogé Mesir, umat kuring; Asyur, karya leungeun kuring; jeung Israél, warisan kuring.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "dipapait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Berkah ogé"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat kuring"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "jeung karya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun kuring"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "jeung warisan kuring"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:32.461543808Z",
+  "model": "glm-5.3"
+}

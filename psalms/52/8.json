@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Jeung nu bener bakal nempo, jeung sieu', jeung seureuh ka anjean.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Jeung … nempo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "jeung sieu'"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ka anjean"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "seureuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:23.229417832Z",
+  "model": "glm-5.3"
+}

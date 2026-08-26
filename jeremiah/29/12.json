@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun bakal ngagero ⟨את⟩ Kami, jeung anjeun bakal indit jeung sujud nyaba ka Kami, jeung Kami bakal ngadangu ka anjeun.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "jeung anjeun bakal ngagero"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Kami",
+      "marks": "Kami"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "jeung anjeun bakal indit"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "jeung sujud nyaba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka Kami"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "jeung Kami bakal ngadangu"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:32:38.118570800Z",
+  "model": "glm-5.3"
+}

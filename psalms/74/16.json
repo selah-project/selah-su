@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Kagungan-Mu poé, ogé kagungan-Mu wengi; Maneh nyiapkeun cahya jeung panonpoé.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kagungan-Mu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kagungan-Mu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Maneh"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "nyiapkeun"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "jeung panonpoé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:29.233774260Z",
+  "model": "glm-5.3"
+}

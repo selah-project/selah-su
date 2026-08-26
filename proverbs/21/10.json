@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Nefesh jalma jahat hayang kahot, teu meunang kahadean dina panonana tatanggana.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma jahat"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "hayang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kahot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "meunang kahadean"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dina panonana"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "tatanggana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:23.449141520Z",
+  "model": "glm-5.3"
+}

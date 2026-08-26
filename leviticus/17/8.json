@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Sarta anjeun nyarita ka aranjeunna: saurang-saurang jalma ti imah Yisrael, atawa ti batur nyicingan nu nyicingan di antawis aranjeunna, nu naekkeun kurban bakaran atawa kurban sembelihan,",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "anjeun nyarita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang-saurang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "atawa ti"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "batur nyicingan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "nyicingan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di antawis aranjeunna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naekkeun"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban sembelihan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:12.493468649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Nu ngajadikeun dunya jadi padang samun, sarta kotana diruntuhkeun, tawananana teu dibuka balik ka imah?",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ngajadikeun"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunya"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "jadi padang samun"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "sarta kotana"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "diruntuhkeun"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "tawananana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dibuka"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "balik ka imah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:25.710737167Z",
+  "model": "glm-5.3"
+}

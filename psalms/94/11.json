@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Yahwe nyaho rancangan-rancagan manusa, yén ⟨maranéhna⟩ sia-sia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "rancangan-rancagan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨maranéhna⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:28.089171468Z",
+  "model": "glm-5.3"
+}

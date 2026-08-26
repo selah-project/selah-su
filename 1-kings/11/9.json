@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jadi Yahwe murka ka Shelomo, sabab haténa ngambang ti Yahwe, Elohim-na Yisrael, nu katingali ka manéhna dua kali.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "ka Shelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ngambang"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "haténa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "nu katingali"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dua kali"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:29.665434510Z",
+  "model": "glm-5.3"
+}

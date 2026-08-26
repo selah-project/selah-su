@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Kurban hasil-munggaran aranjeun deukeutkeun ⟨את⟩ kadua éta ka Yahwe; tapi ka altar éta moal naék jadi ambo nu ngeunah.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "hasil-munggaran"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "aranjeun deukeutkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadua éta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tapi ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "naék"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "jadi ambo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nu ngeunah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:50.898156320Z",
+  "model": "glm-5.3"
+}

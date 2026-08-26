@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Tuluy Moshe ngintipkeun ⟨את⟩ Yaezer, sarta aranjeunna ngoles kotawatesna, sarta mareuntas ⟨את⟩ ⟨the⟩ Emori nu aya di dinya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Tuluy ngintipkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "pikeun ngintip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "sarta aranjeunna ngoles"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kotawatesna"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "sarta mareuntas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "⟨the⟩ Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T16:45:29.917096533Z",
+  "model": "glm-5.3"
+}

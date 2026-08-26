@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Gevál jeung Amon jeung Amalek, Peleset jeung pangeusi Tso",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gevál"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "jeung Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "jeung Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "pangeusi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tso"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:57.437763762Z",
+  "model": "glm-5.3"
+}

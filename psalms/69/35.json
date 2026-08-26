@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Muji ⟨anjeunna⟩ langit jeung bumi, laut-laut jeung sagala nu ngagero di jerona.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "muji anjeunna"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jeung bumi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut-laut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nu ngagero"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:08.376805275Z",
+  "model": "glm-5.3"
+}

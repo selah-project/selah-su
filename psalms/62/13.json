@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Jeung ka Anjeun, Adonay, ⟨aya⟩ kanyaah satia perjangjian, sabab Anjeun nu mayar ka unggal jalma sanggeus kayana.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "jeung ka Anjeun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kanyaah satia perjangjian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "nu mayar"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka unggal jalma"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "sanggeus kayana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:18.396924265Z",
+  "model": "glm-5.3"
+}

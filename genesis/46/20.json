@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Jeung ka Yosef, di taneuh Mitzrayim, babar ⟨את⟩ Menasyeh jeung ⟨את⟩ Efrayim, nu Ashenat binti Poti-fera, imam On, midangkeun ka manéhna.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "jeung babar"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ka Yosef"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "midangkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Ashenat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אן",
+      "gloss": "On"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasyeh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasyeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:57.954374005Z",
+  "model": "glm-5.3"
+}

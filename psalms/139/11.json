@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Lamun kuring ngomong, ‘Ngan poék nu bakal nimpa kuring’, malah peuting jadi caang sabudeureun kuring.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Lamun kuring ngomong"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "poék"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "nu bakal nimpa kuring"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "malah peuting"
+    },
+    {
+      "surface": "אור",
+      "gloss": "jadi caang"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "sabudeureun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:00.359702223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung manéhna bakal mawa ⟨את⟩ asham-na ka Yahwe, ka payune lawang kemah patepung, kuching domba pikeun asham.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "jeung mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asham-na"
+    },
+    {
+      "surface": "אשמo",
+      "gloss": "asham-na"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "payune"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kuching domba"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "pikeun asham"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:31.962910244Z",
+  "model": "glm-5.3"
+}

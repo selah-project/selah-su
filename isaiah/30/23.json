@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 30:23",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung манehna bakal méré hujan pikeun bibit anjeun, nu anjeun pewakankeun ⟨את⟩ taneuh eta; jeung hanasih tina hasil taneuh, sarta éta bakal gendut jeung gêmuk; ingon-ingon anjeun bakang ngarumuh dina poé éta, lapangan nu lébar.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "jeung manehna bakal méré"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pikeun bibit-anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "anjeun pewakankeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh eta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh eta"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "jeung hanasih"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh eta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sarta éta bakal"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "gendut"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "jeung gêmuk-berminyak"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "bakang ngarumuh"
+    },
+    {
+      "surface": "מקניך",
+      "gloss": "ingon-ingon-anjeun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "כר",
+      "gloss": "lapangan"
+    },
+    {
+      "surface": "נרחב",
+      "gloss": "nu lébar"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:49.059621866Z",
+  "model": "glm-5.3"
+}

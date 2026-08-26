@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Ulah ngahijikeun nyawa abdi jeung nu dosa, jeung jeung jalma-jalma getih hirup abdi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ngahijikeun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "nu dosa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa abdi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hirup abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:15.892632661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 67,
+  "translation": "Elohim muji urang, jeung ngaberkahan urang, nyinarkeun muhna ⟨את⟩ urang. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "muji urang"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "jeung ngaberkahan urang"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "nyinarkeun"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "muhna"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "urang"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:12.293472083Z",
+  "model": "glm-5.3"
+}

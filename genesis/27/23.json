@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Sarta anjeunna teu mengaku ⟨זה⟩, sabab leungeun-leungeunna jadi saperti leungeun Esav dulurana, bulu-bulu; teras anjeunna ngiberan anjeunna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sarta-teu"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "mengaku-anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "leungeun-leungeunna"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "saperti-leungeun"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulurana"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "bulu-bulu"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "teras-ngiberan-anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:51.134933318Z",
+  "model": "glm-5.3"
+}

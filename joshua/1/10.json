@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Yehosua maréntahkeun ⟨את⟩ para pangawasa ⟨the⟩ bangsa, nyarita.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "teras maréntahkeun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pangawasa bangsa"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "para pangawasa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ bangsa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:52:56.496886229Z",
+  "model": "glm-5.3"
+}

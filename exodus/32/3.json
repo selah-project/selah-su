@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Tuluy sakabéh bangsa éta ngaleupaskeun ⟨את⟩ anting-anting emas anu aya dina ceuli aranjeunna, sarta mawa ka Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anting-anting emas"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "anting-anting"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "dina ceuli aranjeunna"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:40.390068660Z",
+  "model": "glm-5.3"
+}

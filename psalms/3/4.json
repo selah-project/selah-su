@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Tapi Anjeun, Yahwe, ⟨anjeuning⟩ panyalindung abdi, kamulyaan abdi, jeung Nu Ngangkat sirah abdi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "panyalindung"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ngalilingi abdi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyaan abdi"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "jeung Nu Ngangkat"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirah abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:18.991800328Z",
+  "model": "glm-5.3"
+}

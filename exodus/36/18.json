@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung anjeunna nyieun lima puluh pangait tambaga pikeun nyambungkeun ⟨את⟩ kéncang sangkan jadi hiji.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anjeunna nyieun"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "pangait"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "pikeun nyambungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kéncang"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kéncang"
+    },
+    {
+      "surface": "להית",
+      "gloss": "sangkan jadi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:48.736709615Z",
+  "model": "glm-5.3"
+}

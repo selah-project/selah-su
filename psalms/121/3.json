@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 121,
+  "translation": "Mun méré raray manéh ulah anteng rheug ngarék palangkah anjeun, ulah tunduh Nu Ngajaga anjeun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mun méré raray manéh"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "raray rheug"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "palangkah anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "tunduh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "Nu Ngajaga anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:36.889574813Z",
+  "model": "glm-5.3"
+}

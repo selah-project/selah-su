@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung lamun tilu hal ieu henteu dipigawé ka anjeunna, mangka anjeunna kaluar tanpa bayaran, euweuh duit.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hal ieu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "mangka anjeunna kaluar"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa bayaran"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "duit"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:56.555122031Z",
+  "model": "glm-5.3"
+}

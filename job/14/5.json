@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Lamun ditangtukeun hancahna poé-poé manéhna, cacah bulan-bulanana aya ⟨את⟩ jeung Anjeun, watesna Anjeun geus nangtukeun, sareng moal ngaliwat.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ditangtukeun hancahna"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "poé-poé manéhna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "cacah"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "bulan-bulanana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jeung Anjeun",
+      "marks": "jeung Anjeun"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "watesna"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Anjeun geus nangtukeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sareng moal"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ngaliwat"
+    }
+  ],
+  "timestamp": "2026-08-26T15:08:50.559761322Z",
+  "model": "glm-5.3"
+}

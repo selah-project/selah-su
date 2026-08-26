@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Kusabab sora musuh, ku hareup pangrigés nu jahat, sabab maranéhna ngagugurkeun kaén ka abdi jeung kalawan murka maranéhna ngamusuhan abdi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "kusabab sora"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku hareup"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "pangrigés"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "maranéhna ngagugurkeun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "און",
+      "gloss": "kaén"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "jeung kalawan murka"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "maranéhna ngamusuhan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:24.638965043Z",
+  "model": "glm-5.3"
+}

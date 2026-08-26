@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 124,
+  "translation": "mangka cai geus ngeuyeub urang, walungan geus ngaliwatan luhureun nyawa urang,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "geus ngeuyeub urang"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geus ngaliwatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nyawa urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:06.669947257Z",
+  "model": "glm-5.3"
+}

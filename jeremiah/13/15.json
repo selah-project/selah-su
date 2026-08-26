@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Denge sarta pajanjenkeun ceuli; ulah ngarongkah, sabab Yahwe geus ngomong.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "denge"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "sarta pajanjenkeun ceuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ngarongkah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geus ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T13:27:29.132566241Z",
+  "model": "glm-5.3"
+}

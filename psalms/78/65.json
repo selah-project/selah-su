@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Teras Adonay ngarahing sigareh nu saré, sigareh jago nu sora tarik sabada nginum anggur.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "ngarahing"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "sigareh nu saré"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "sigareh jago"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "sora tarik"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "tina anggur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:33.359046246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Yahwe teu daik ngancurkeun ⟨את⟩ Yehuda demi Dawid abdina, saperti nu dipomong ka anjeunna, méré ka anjeunna lampu pikeun baranana sadaya poé.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "daik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdina"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nu dipomong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "pikeun baranana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:52:00.673799383Z",
+  "model": "glm-5.3"
+}

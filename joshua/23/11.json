@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ku kitu jaga pisan diri aranjeun, pikeun mikanyaah ⟨את⟩ Yahwe, Elohim maraneh.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "jaga diri aranjeun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "pikeun diri\/hirup aranjeun"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "pikeun mikanyaah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Elohim maraneh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim maraneh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:19.826645527Z",
+  "model": "glm-5.3"
+}

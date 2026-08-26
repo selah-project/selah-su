@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Ayeuna naon nu aya sahandapeun leungeun anjeang? lima roti punten diedukeun ka leungeun abdi, atawa naon nu kapanggih.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeang"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "punten"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ka leungeun abdi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ataawa"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nu kapanggih"
+    }
+  ],
+  "timestamp": "2026-08-26T12:22:55.646490393Z",
+  "model": "glm-5.3"
+}

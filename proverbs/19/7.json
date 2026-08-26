@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sadaya sadulur ⟨ti⟩ nu miskin kaamananana; pisan deuih babaturanana jauh ti anjeunna. Ngaroongok kecap-kecap, ⟨tapi⟩ maranehna euweuh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sadulur"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ti nu miskin"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "kaamananana"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pisan deuih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti anjeunna"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "ngaroongok"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna euweuh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:00:45.593073445Z",
+  "model": "glm-5.3"
+}

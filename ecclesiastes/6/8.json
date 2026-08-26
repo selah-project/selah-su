@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sabab naon leuwihna nu pinter ti nu bodo? Naon leuwihna nu miskir nu nyaho ulah saméméh nu hirup?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "leuwihna"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "pikeun nu pinter"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "nu bodo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "pikeun nu miskir"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ngalangkah"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nu hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:24.501255557Z",
+  "model": "glm-5.3"
+}

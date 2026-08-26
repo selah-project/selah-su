@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Jeung nangtukeun aranjeuna salawasna nepi ka salamana, hak dipasihkeun sarta moal kaliwat.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "jeung nangtukeun aranjeuna"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nepi ka salamana"
+    },
+    {
+      "surface": "חק",
+      "gloss": "hak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipasihkeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "kaliwat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:06.022484830Z",
+  "model": "glm-5.3"
+}

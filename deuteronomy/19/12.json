@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Mangka sesepuh kota-kotana ngirim, sarta ngala manéhna ti dinya, sarta nérékeun manéhna leungeun nu Ngabales Getih, lajeng maot.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "mangka ngirim"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "sesepuh"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kota-kotana"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "sarta ngala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "sarta nérékeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "nu Ngabales"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "Getih"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "maot"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:09.367130678Z",
+  "model": "glm-5.3"
+}

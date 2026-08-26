@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 114,
+  "translation": "Yehudah jadi ka sucian-Na, Yisrael jadi kakawasaan-Na.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ka sucian-Na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "kakawasaan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:17.687790261Z",
+  "model": "glm-5.3"
+}

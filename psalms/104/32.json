@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Anu nempo ka bumi, lajeng guncang; anu nyabda gunung-gunung, lajeng ngaseukan.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Anu nempo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "lajeng guncang"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "anujeun nyabda"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "lajeng maranehna ngaseukan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.801846090Z",
+  "model": "glm-5.3"
+}

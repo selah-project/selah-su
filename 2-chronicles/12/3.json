@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ku sarébu jeung dua ratus karéta perang, jeung ku genep puluh rébu panunggang kuda; jeung euweuh wilangan pikeun ⟨the⟩ bangsa nu datang jeung manéhna ti Mitsrayim: urang Lubim, urang Sukki, jeung urang Kush.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "ku sarébu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "jeung dua ratus"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karéta perang"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "jeung ku genep puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "panunggang kuda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "wilangan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pikeun bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung manéhna"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "urang Lubim"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "urang Sukki"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "jeung urang Kush"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:29.703380445Z",
+  "model": "glm-5.3"
+}

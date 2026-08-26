@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jadi panjaga dahareun ngala ⟨את⟩ kadaharanana jeung anggur inumanna, sarta méré ka aranjeunna sayur-sayuran.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "panjaga-dahareun"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ngala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadaharanana"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "kadaharanana"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "jeung-anggur"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "inumanna"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "sarta-méré"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka-aranjeunna"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "sayur-sayuran"
+    }
+  ],
+  "timestamp": "2026-08-26T15:40:49.062961022Z",
+  "model": "glm-5.3"
+}

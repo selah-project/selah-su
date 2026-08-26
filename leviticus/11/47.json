@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Pikeun ngabédakeun antawis nu teu beresih jeung nu beresih, jeung antawis sasatoan nu bisa didahar jeung sasatoan nu moal bisa didahar.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "Pikeun ngabédakeun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antawis"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nu teu beresih"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antawis"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "nu beresih"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antawis"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sasatoan"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "nu bisa didahar"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antawis"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sasatoan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bisa didahar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:35.904600308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sanggeus hal-hal ieu, nalika paneuteupeung raja Akhashverosh ngaredam, anjeunna inget ka ⟨את⟩ Vasti, jeung ⟨את⟩ nu geus dipigawéna, jeung ⟨את⟩ nu geus diputuskeun ka manéhna.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hal-hal"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "nalika ngaredam"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "paneuteupeung"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anjeunna inget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vasti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vasti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu geus dipigawéna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "geus dipigawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu geus diputuskeun ka manéhna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "geus diputuskeun"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:00.650165263Z",
+  "model": "glm-5.3"
+}

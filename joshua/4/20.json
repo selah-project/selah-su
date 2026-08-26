@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung ⟨את⟩ dua belas batu éta, nu aranjeunna nyandak ti Yarden, diadegkeun ku Yéhoshua di Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Jeung ⟨את⟩",
+      "marks": "dua belas batu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "éta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "diadegkeun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ku Yéhoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:48.701828092Z",
+  "model": "glm-5.3"
+}

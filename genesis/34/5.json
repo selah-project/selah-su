@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Jeung Yaakov ngadéngé yén ⟨manehna⟩ geus ngaruak ⟨את⟩ Dinah putrina, sedengkeun putra-putrana keur aya jeung ⟨את⟩ ingon-ingonna di sawah; jeung Yaakov diam nepi ka aranjeunna balik.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Jeung Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ngruak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "putrina"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jeung putra-putrana"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingon-ingonna"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ingon-ingonna"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di sawah"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "jeung diam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "באם",
+      "gloss": "anjeunna datang"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:19.703945484Z",
+  "model": "glm-5.3"
+}

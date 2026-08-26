@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Ngan Elohim ngapanah arannya ku panah; dadakan jadi tatunganana.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Ngan ngapanah arannya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "panah"
+    },
+    {
+      "surface": "Pתאום",
+      "gloss": "dadakan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "tatunganana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:43.397322194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung abdi baris ngaleungitkeun ⟨את⟩ ngaran-ngaran Baal-baal ti sunguna, jeung moal diinget deui ku ngaranna.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "jeung abdi baris ngaleungitkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran-ngaran"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal-baal"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "ti sunguna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "diinget"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "ku ngaranna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:15.478628437Z",
+  "model": "glm-5.3"
+}

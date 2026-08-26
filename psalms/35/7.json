@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sabab tanpa alesan maranehna nyumputkeun ka abdi jebakan-lobang; jaring maranehna — tanpa alesan maranehna ngali pikeun jiwa abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa alesan"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "maranehna nyumputkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jebakan-lobang"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "jaring maranehna"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa alesan"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "maranehna ngali"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pikeun jiwa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:51.942555855Z",
+  "model": "glm-5.3"
+}

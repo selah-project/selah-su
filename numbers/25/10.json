@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung Yahwe ngandika ka Moshe, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:34:00.307041488Z",
+  "model": "glm-5.3"
+}

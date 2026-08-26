@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung anjeun geus dahar jeung kenyang, mangka anjeun nganikeun Yahwe, Elohim anjeun, alatan tanah nu hadé nu geus dibikeun-Na ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Jeung anjeun geus dahar"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "jeung kenyang"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "mangka anjeun nganikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geus dibikeun-Na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:46:45.060466785Z",
+  "model": "glm-5.3"
+}

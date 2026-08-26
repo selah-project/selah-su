@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 6:15",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung anjeunna ngomong ka Anjeunna: Punten, Adonay, ku naon kaula nyalametkeun ⟨את⟩ Israil?-tempo, somahan kaula nu pangmiskinna di Manasye, sedengkeun kaula nu pangorana kana imah bapa kaula.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "punten"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ku naon"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "kaula nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "somahan kaula"
+    },
+    {
+      "surface": "הדל",
+      "gloss": "nu pangmiskinna"
+    },
+    {
+      "surface": "במנשה",
+      "gloss": "di Manasye"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "sedengkeun kaula"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "nu pangorana"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kana imah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kaula"
+    }
+  ],
+  "timestamp": "2026-08-26T12:03:56.833835633Z",
+  "model": "glm-5.3"
+}

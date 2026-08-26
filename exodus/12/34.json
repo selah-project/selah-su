@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung rahayat mawa ⟨את⟩ adona-na saméméh ngaragian, bangban-ragi aranjeunna dibungkeus dina papakéan aranjeunna, dina taktak aranjeunna.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "jeung mawa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahayat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adona-na"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "adona-na"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ngaragian"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "bangban-ragi aranjeunna"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "dibungkeus"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "dina papakéan aranjeunna"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "taktak aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:18.346994219Z",
+  "model": "glm-5.3"
+}

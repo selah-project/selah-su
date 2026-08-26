@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "jeung aranjeunna ngajaga ⟨את⟩ tugas ténda papanggihan jeung ⟨את⟩ tugas tempat suci, jeung tugas putra-putra Aharon, sadulur-sadulur maranéhna, pikeun bakti di bumi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "jeung aranjeunna ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugas"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas jagaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ténda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "papanggihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tugas"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas jagaan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat suci"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "jeung tugas jagaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "sadulur-sadulur maranéhna"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "pikeun bakti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:15:48.374956722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Kotz miboga ⟨את⟩ Anuv, jeung ⟨את⟩ Hatsovava, jeung kulawarga-kulawarga Axfarxel putra Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "jeung Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "miboga\/ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anuv"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anuv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Hatsovava"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hatsovava"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "jeung kulawarga-kulawarga"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Axfarxel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-08-26T16:05:21.055486655Z",
+  "model": "glm-5.3"
+}

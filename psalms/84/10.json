@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 84,
+  "translation": "Pangbabarih kami, tingali, hai Elohim, jeung sileukuleus kana beungeut Nu Dilisihan-Mu.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Pangbabarih kami"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "hai Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "jeung sileukuleus"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ka beungeut"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Nu Dilisihan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:58.708575273Z",
+  "model": "glm-5.3"
+}

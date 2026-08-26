@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 99,
+  "translation": "Dina pilar awan ⟨Anjeunna⟩ nyarita ka maranéhna; maranéhna ngajaga kasaksian-kasaksian-Na, jeung pasamon anu dibikeun ka maranéhna.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "dina pilar"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "maranéhna ngajaga"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "kasaksian-kasaksian-Na"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "jeung pasamon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mere"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ka maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:33.586931436Z",
+  "model": "glm-5.3"
+}

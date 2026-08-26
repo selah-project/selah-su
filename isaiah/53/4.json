@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 53,
+  "translation": "Padahal panyakit urang ⟨eta⟩ manéhna nu mawa, jeung nyeri urang manéha nanjeur, ari urang nganggap manéhna kakeunaan panyakit, dipocong ku Elohim, jeung dipapaés.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "padahal"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "panyakit urang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nu mawa"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "jeung nyeri urang"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "manéha nanjeur"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ari urang"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "nganggap manéhna"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "kakeunaan panyakit"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "dipocong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ku Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "jeung dipapaés"
+    }
+  ],
+  "timestamp": "2026-08-26T13:16:49.730498035Z",
+  "model": "glm-5.3"
+}

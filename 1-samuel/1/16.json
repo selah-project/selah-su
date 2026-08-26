@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ulah nganggap ⟨את⟩ abdi awéwé anjeun di payuneun bunga nu bangsat, sabab tina lobana kasangsaraan jeung prawelan haté abdi, abdi ngomong nepi ka ayeuna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nganggap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi awéwé anjeun"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "abdi awéwé anjeun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bangsat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "tina lobana"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kasangsaraan"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "jeung prawelan haté"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ayeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:19.138330383Z",
+  "model": "glm-5.3"
+}

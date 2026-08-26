@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Saha nu ngawangun allah, jeung patung dituang, sangkan teu miguna?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "allah"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "jeung patung"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "dituang"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sangkan teu"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "miguna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:38.973144784Z",
+  "model": "glm-5.3"
+}

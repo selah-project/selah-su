@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Moal Kuring nyandak ti imah anjeun jago, ti kandang-kandang anjeun embé-embé jalu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Kuring nyandak"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ti imah anjeun"
+    },
+    {
+      "surface": "פר",
+      "gloss": "jago"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ti kandang-kandang anjeun"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "embé-embé jalu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:54.391112110Z",
+  "model": "glm-5.3"
+}

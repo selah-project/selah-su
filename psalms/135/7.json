@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Nu ngahalungkeun méga-méga ti tungtung bumi, nyieun kilat pikeun hujan, mairkeun angin ti korop-korop-Na.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "ngahalungkeun munggah"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "méga-méga"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ti tungtung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "pikeun hujan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "mairkeun kaluar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ti korop-korop-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:52.748652042Z",
+  "model": "glm-5.3"
+}

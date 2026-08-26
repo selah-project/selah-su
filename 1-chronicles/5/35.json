@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta Aximaats nimanggulkeun ⟨את⟩ Azariah, sarta Azariah nimanggulkeun ⟨את⟩ Yoxanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "sarta Aximaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimanggulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azariah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azariah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "sarta Azariah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimanggulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoxanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yoxanan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:16.999566339Z",
+  "model": "glm-5.3"
+}

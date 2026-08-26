@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "anu diteungeuy ⟨את⟩ Avraham, sarta sumpah-Na ka Yitsxak;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "diteungeuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "sarta sumpah-Na"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ka Yitsxak"
+    }
+  ],
+  "timestamp": "2026-08-26T17:25:18.487800259Z",
+  "model": "glm-5.3"
+}

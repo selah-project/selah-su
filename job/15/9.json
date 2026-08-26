@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Naon anjeun terang, jeung teu kami terang? Naon anjeun ngarti, jeung teu jeung kami éta?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anjeun terang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kami terang"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "anjeun ngarti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "jeung kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    }
+  ],
+  "timestamp": "2026-08-26T17:18:17.035991765Z",
+  "model": "glm-5.3"
+}

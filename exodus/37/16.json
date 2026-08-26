@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ parabot-parabot nu aya luhur ⟨the⟩ méja: ⟨את⟩ piring-piringana jeung ⟨את⟩ séndok-séndokana jeung ⟨את⟩ mangkok-mangkokana jeung ⟨את⟩ wadah-wadah nu dipaké nyéok ku aranjeunana, tina emas murni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung anjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parabot-parabot"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "parabot-parabot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piring-piringana"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "piring-piringana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "séndok-séndokana"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "séndok-séndokana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "mangkok-mangkokana"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "mangkok-mangkokana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "wadah-wadah"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "wadah-wadah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "dipaké nyéok"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ku aranjeunana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:10.775635601Z",
+  "model": "glm-5.3"
+}

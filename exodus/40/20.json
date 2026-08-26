@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Tuluy manehna nyandak sarta nempatkeun ⟨את⟩ kasaksian kana peti perjangjian, masangkeun ⟨את⟩ rérét sticky dina péh pétina, sarta nempatkeun ⟨את⟩ panutup pangampunan di luhur pétina, ti luhur.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti perjangjian"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "masangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "réréégan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "réréégan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti perjangjian"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panutup pangampunan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "panutup pangampunan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti perjangjian"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ti luhur"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:09.379060880Z",
+  "model": "glm-5.3"
+}

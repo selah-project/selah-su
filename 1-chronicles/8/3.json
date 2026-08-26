@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung aya anak-anak pikeun Bela: Adar, jeung Gera, jeung Avihud.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Jeung aya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "pikeun Bela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "jeung Gera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "jeung Avihud"
+    }
+  ],
+  "timestamp": "2026-08-26T16:07:49.699985880Z",
+  "model": "glm-5.3"
+}

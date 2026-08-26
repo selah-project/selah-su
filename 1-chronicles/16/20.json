@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "sarta aranjeun pindah ti bangsa ka bangsa, jeung ti hiji karajaan ka bangsa anu lian.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "sarta aranjeun pindah"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ti bangsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "jeung ti hiji karajaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anu lian"
+    }
+  ],
+  "timestamp": "2026-08-26T17:25:02.761382134Z",
+  "model": "glm-5.3"
+}

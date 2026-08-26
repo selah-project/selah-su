@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Teras datang kecap Yahwe ka anjeunna, nyarita:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Teras"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:57.025152301Z",
+  "model": "glm-5.3"
+}

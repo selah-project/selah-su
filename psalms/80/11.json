@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Gunung-gunung katutupan ku kalangkangna, jeung dahan-dahana ⟨sarupa⟩ taru-taru ararat El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "katutupan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ku kalangkangna"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "jeung dahan-dahana"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "taru-taru ararat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:33.195867066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Teras diwartoskeun ka Daud ⟨את⟩ nu dipigawé ku Ritspah binti Aya, selir Sha-ul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "teras diwartoskeun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipigawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "ku Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "selir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    }
+  ],
+  "timestamp": "2026-08-26T12:35:56.404551088Z",
+  "model": "glm-5.3"
+}

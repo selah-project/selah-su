@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Kanyaahanana abdi, wahai Elohim, kanyaahanana abdi, sabab ka Anjeun nefesh abdi nyalindung, sarta kalinduan jangjang Anjeun abdi baris nyalindung, nepi ka bencana-bencana éta ngaliwat.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kanyaahanana abdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kanyaahanana abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "nyalindung"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "sarta kalinduan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "jangjang Anjeun"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "abdi baris nyalindung"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bencana-bencana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:13.077469948Z",
+  "model": "glm-5.3"
+}

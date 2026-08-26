@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung aranjeunna nyieun ⟨את⟩ altar kadukuan tina kai akasia: sajengkal panjangna, sajengkal lébarna, pasagi, jeung dua jengkal luhurna; tina aranjeunna ⟨the horns> éta dijieun",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Jeung aranjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar kadukuan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadukuan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sajengkal"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jeung sajengkal"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lébarna"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pasagi"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "jeung dua jengkal"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "luhurna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tina aranjeunna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "saruangna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:07.149310428Z",
+  "model": "glm-5.3"
+}

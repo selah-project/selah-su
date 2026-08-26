@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 53,
+  "translation": "Naha teu nyaho, nu mikaréró kalalayan — nu ngahakan umat kuring ngahakan roti — Elohim mariksa moal disaba?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Naha teu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nu mikaréró"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalalayan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "nu ngahakan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat kuring"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "disaba"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:16.865738375Z",
+  "model": "glm-5.3"
+}

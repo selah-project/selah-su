@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Palingkah ti kadurjana, pigawéhadé; sualudungan karapihan sarta incuannana.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "palingkah"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ti kadurjana"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "pigawé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "sualudungan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karapihan"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "incuannana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:51.785122454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung aranjeun bakal ngahakan ⟨את⟩ daging dina peuting ieu, dibeuleum ku seuneu, jeung roti tanpa ragi; bareng jeung tutuwuhan pait aranjeun ngahakan manéhna.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "jeung aranjeun ngahakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "dina peuting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "dibeuleum"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "jeung roti tanpa ragi"
+    },
+    {
+      "surface": "על",
+      "gloss": "bareng jeung"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "tutuwuhan pait"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "aranjeun ngahakan manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:21.908237359Z",
+  "model": "glm-5.3"
+}

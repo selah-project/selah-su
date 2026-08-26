@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Teras dibawa kaluar ⟨את⟩ putra raja, dipasangkeun ka anjeunna ⟨את⟩ makuta jeung ⟨את⟩ edut, diangkat jadi raja, dilisanan anjeunna, sarta ditepak leungeun sarta aranjeunna ngomong: Hurip raja kieu!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dibawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra raja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dipasangkeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makuta"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "makuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "edut"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "edut"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "diangkat jadi raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anjeunna"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "dilisanan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ditepak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "hurip"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja kieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:14.516029488Z",
+  "model": "glm-5.3"
+}

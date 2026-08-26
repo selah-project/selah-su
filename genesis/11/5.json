@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Tuluy Yahwe turun pikeun nempo ⟨את⟩ kota jeung ⟨את⟩ menara nu diwangun ku putra-putra manusa.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Tuluy turun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "menara"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "menara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "diwangun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:47.175879007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung anjeunna ngomong: Genep ukuran jagung-harén ieu dibikeunna ka abdi, sabab anjeunna ngomong: Ulah anjeun balik kanu kosong ka indung- Mantena anjeun.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeung anjeunna ngomong"
+    },
+    {
+      "surface": "שש",
+      "gloss": "genep"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ukuran jagung-harén"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibikeunna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anjeunna ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "anjeun balik"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kanu kosong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "indung-Mantena anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:25:43.379224523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Nalika aranjeunna asup ka ohél moéd, jeung nalika araeun ka ⟨the⟩ miqbéah, aranjeunna ngamandian; kayaning paréntah Yahwe ⟨ka⟩ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "nalika aranjeunna asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohél"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moéd"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "jeung nalika araeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miqbéah"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "aranjeunna ngamandian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kayaning"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paréntah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:58.355595819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Dina kasusah anjeun ngagero, sarta abdi ngabébaskeun anjeun; abdi ngajawab anjeun dina singkem guntur; abdi nguji anjeun di cai Meribah. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "dina kasusah"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "anjeun ngagero"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "sarta abdi ngabébaskeun anjeun"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "abdi ngajawab anjeun"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dina singkem"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "guntur"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "abdi nguji anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cai"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:59.979673048Z",
+  "model": "glm-5.3"
+}

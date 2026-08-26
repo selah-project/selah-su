@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Kudu ka nu mingpin musik, ka Yedutun; mazmur ku David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka nu mingpin musik"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ka Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku David"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:21.879726491Z",
+  "model": "glm-5.3"
+}

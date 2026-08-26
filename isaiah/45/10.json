@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Ela nu nyarita ka ramana: Naon anu ku anjeun dipapancikan? Jeung ka ⟨the⟩ awéwé: Naon anu ku anjeun dilahirkeun?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nu nyarita"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ka ramana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "anu ku anjeun dipapancikan"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "jeung ka awéwé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "anu ku anjeun dilahirkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:39.313224066Z",
+  "model": "glm-5.3"
+}

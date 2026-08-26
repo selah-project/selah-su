@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Ujukkeun lagu ka Yahwe, lagu anyar, muji ka Anjeunna ti tungtung ⟨tii⟩ bumi, nu-nu turun ka laut jeung nu eusina, pulo-pulo jeung pangeusina.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ujukkeun lagu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "muji ka Anjeunna"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ti tungtung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "nu turun ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "jeung nu eusina"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulo-pulo"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "jeung pangeusina"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:06.539813928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Jeung sieu sagali manusa, jeung ngabejaan pagawéan Elohim, jeung lalakon-Na maranéhna ngarenung bener.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "jeung sieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagali"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "jeung ngabejaan"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "jeung lalakon-Na"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ngarenung bener"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:52.835478355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung Manehna masrahkeun aranjeunna kana leungeun bangsa-bangsa, jeung nu mikabenci aranjeunna maréntah ka aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "masrahkeun aranjeunna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kana leungeun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "nu mikabenci aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:54.687189054Z",
+  "model": "glm-5.3"
+}

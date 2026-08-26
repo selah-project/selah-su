@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Sabab ku sabab murkana Yahwe kajadian éta di Yerushalaim jeung di Yehuda, nepi ka anjeunna ngalemparkeun ⟨את⟩ maranjeunna tina payuneunana; sarta Tzidkiyahu barontak ka raja Babel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "אף",
+      "gloss": "murkana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kajadian éta"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "jeung di Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "anjeunna ngalemparkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ maranjeunna",
+      "marks": "Yerushalaim jeung Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tina"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "payuneunana"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "sarta barontak"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tzidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ka raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:18.583145016Z",
+  "model": "glm-5.3"
+}

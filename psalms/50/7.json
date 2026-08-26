@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Denge, ó umat-Ku, bilih abdi nyarita; Israél, bilih abdi jadi saksi ka anjeun: Elohim, Elohim anjeun, abdi.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Denge"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "bilih abdi nyarita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "bilih abdi jadi saksi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:53.531530583Z",
+  "model": "glm-5.3"
+}

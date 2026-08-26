@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Lajeng Avimelex indit ka Tevets, sarta ngakemah ngalawan Tevets, lajeng nalukkeunana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lajeng indit"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevets"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "sarta ngakemah"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "ngalawan Tevets"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "lajeng nalukkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:05:58.444753182Z",
+  "model": "glm-5.3"
+}

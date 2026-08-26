@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Dawid nyarita ka anjeunna: «Getih anjeun dina sirah anjeun sorangan, sabab biang anjeun nyaksian ngeunaan anjeun, nyarita: Abdi maéhan ⟨את⟩ Mashiax Yahwe.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "getih anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "sirah anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "biang anjeun"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "nyaksian"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngeunaan anjeun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiax Yahwe"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiax"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:42.399457192Z",
+  "model": "glm-5.3"
+}

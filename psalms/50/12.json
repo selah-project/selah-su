@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Mun Kuring lapar, moal Kuring nyaritakeun ka anjeun; sabab milik Kuring ⟨ayeuna⟩ dunya jeung kaeusianana.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "Kuring lapar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Kuring nyaritakeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "milik Kuring"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunya"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "jeung kaeusianana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:54.391534943Z",
+  "model": "glm-5.3"
+}

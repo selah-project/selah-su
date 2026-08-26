@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Nu bener nyaho kana hirup sato piaraanna, tapi budi-pihatu nu jahat kejem.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "nyaho kana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "sato piaraanna"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "tapi budi-pihatu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "kejem"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:27.978963261Z",
+  "model": "glm-5.3"
+}

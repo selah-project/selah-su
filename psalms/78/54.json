@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung anjeunna mawa maranehna ka wates tanina suci, ka ieu gunung anu dipimilik leungeun katuhu-Na.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "mawa maranehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tanina suci-Na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "dipimilik"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "leungeun katuhu-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:44.873971813Z",
+  "model": "glm-5.3"
+}

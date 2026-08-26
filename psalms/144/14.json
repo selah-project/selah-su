@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Jawi-jawi urang mawa beurat; teu aya karusakan, teu aya nu kaluar, jeung teu aya sorak nyerieun di alun-alun urang.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "jawi-jawi urang"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "mawa beurat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "karusakan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung teu aya"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "nu kaluar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung teu aya"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "sorak nyerieun"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "di alun-alun urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:24.790349639Z",
+  "model": "glm-5.3"
+}

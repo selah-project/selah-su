@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung nu tisa putri Tsiyon sarupa saung dina kebon anggur, sarupa saung jaga dina kebon timun, sarupa kota nu dikepung.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "jeung nu tisa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "sarupa saung"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "dina kebon anggur"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "sarupa saung jaga"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "dina kebon timun"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "sarupa kota"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "nu dikepung"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:00.525819369Z",
+  "model": "glm-5.3"
+}

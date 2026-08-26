@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Anjeun kanyaah ka ⟨את⟩ tanah Anjeun, Yahwe; Anjeun mulihkeun ⟨את⟩ kasusahan-paing Yaakov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Anjeun kanyaah ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanah Anjeun"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Anjeun mulihkeun"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kasusahan-paing"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:14.730740001Z",
+  "model": "glm-5.3"
+}

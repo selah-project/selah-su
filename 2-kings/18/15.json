@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Hizkiya méré ⟨את⟩ sadaya pérak anu kapanggih di bait Yahwe jeung di kolam-kolam béwara bait raja.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya pérak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "anu kapanggih"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "jeung di kolam-kolam béwara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:57:59.031150850Z",
+  "model": "glm-5.3"
+}

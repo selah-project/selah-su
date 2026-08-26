@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Biar barah muru kana ⟨aranjeunana⟩; kana seuneu manehna ngalungbarungkeun ⟨aranjeunana⟩; kana liang jero, moal ngadeg deui.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "ngaragragkeun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kana aranjeunana"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "barah"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kana seuneu"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "ngalungbarungkeun"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "kana liang jero"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ngadeg deui"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:05.763333772Z",
+  "model": "glm-5.3"
+}

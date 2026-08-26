@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sarta ulah aranjeun sumpah ku ngaran Kaula pikeun dusta, jadi anjeun ngaramokeun ⟨את⟩ ngaran Elohim anjeun; Kaula Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sarta ulah"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "anjeun sumpah"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ku ngaran Kaula"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "pikeun dusta"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "jadi anjeun ngaramokeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Kaula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:58.617627895Z",
+  "model": "glm-5.3"
+}

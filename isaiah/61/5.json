@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 61,
+  "translation": "Teras jalma deungeun bakal nangtung jeung ngangon domba-domba aranjeun, jeung putra-putra bangsa deungeun jadi patani-patani aranjeun jeung pangurus kebun anggur aranjeun.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "bakal nangtung"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "jalma deungeun"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "jeung ngangon"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "domba-domba aranjeun"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bangsa deungeun"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "patani-patani aranjeun"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "jeung pangurus kebun anggur aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:19:54.040681369Z",
+  "model": "glm-5.3"
+}

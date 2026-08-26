@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Saha waé nu maéhan jiwa, dumasar kana sungut saksi-saksi pangmaéhna kudu diturveuskeun ⟨את⟩ pangmaéhna; tapi saksi hiji wungkul ulah nyaksian ngalawan ⟨את⟩ jiwa sangkan paeh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saha waé"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "nu maéhan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dumasar kana sungut"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "kudu diturveuskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangmaéhna"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pangmaéhna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tapi saksi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji wungkul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "nyaksian"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ngalawan jiwa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sangkan paeh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:46:04.121591269Z",
+  "model": "glm-5.3"
+}

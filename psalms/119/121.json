@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Kuring geus ngalaksanakeun mijil jeung kabeneran; ulah nepiskeun kuring ka nu ngarempug kuring.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "kuring geus ngalaksanakeun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mijil"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "jeung kabeneran"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "nepiskeun kuring"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "ka nu ngarempug kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:42.467660489Z",
+  "model": "glm-5.3"
+}

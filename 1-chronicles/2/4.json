@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Tamar, minantuna, midangkeun ka anjeunna ⟨את⟩ Perets jeung ⟨את⟩ Zerach; sadaya putra Yehudah ⟨nyaéta⟩ lima.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "jeung Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "minantuna"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "midangkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:41.853459416Z",
+  "model": "glm-5.3"
+}

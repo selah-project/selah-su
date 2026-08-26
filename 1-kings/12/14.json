@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung nyarita ka aranjeunna sarua jeung sarakem budak-budak, kalawan ceuk: Bapa kuring ngeubeut ⟨את⟩ kukumbu anjeun, jeung kuring baris nambah kana kukumbu anjeun; bapa kuring ngahukum ⟨את⟩ anjeun ku cambuk, jeung kuring baris ngahukum ⟨את⟩ anjeun ku kala.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "sarua jeung sarakem"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kalawan ceuk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ngeubeut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukumbu anjeun"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kukumbu anjeun"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "baris nambahkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kukumbu anjeun"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ngahukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun (ku cambuk)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ku cambuk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "baris ngahukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun (ku kala)"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ku kala"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:13.795390682Z",
+  "model": "glm-5.3"
+}

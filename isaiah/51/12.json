@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Abdi, abdi, ⟨Diala⟩ nu mairan aranjeunna; saha anjeun, nepi ka anjeun sieun ka manusa nu baris paéh, jeung ka putra Adam nu dijadikeun jukut?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Diala⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "nu mairan aranjeunna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "את",
+      "gloss": "anjeun",
+      "marks": "anjeun — pronomina H859"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "nepi ka anjeun sieun"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "ka manusa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "baris paéh"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "jeung ka putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "dijadikeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:13.635863930Z",
+  "model": "glm-5.3"
+}

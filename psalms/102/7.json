@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Kuring sarua jeung pelikan di padang belantara, kuring jadi saperti burung hantu ti raruntuan.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "kuring sarua jeung"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "pelikan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "di padang belantara"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kuring jadi"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "saperti burung hantu"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ti raruntuan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:55.673902814Z",
+  "model": "glm-5.3"
+}

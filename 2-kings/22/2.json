@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung manéhna ngalakonan ⟨את⟩ nu bener di panon Yahwe, jeung jalan dina sakabéh jalan Dawud bapana, jeung teu nyimpang ka katuhu jeung ka kenca.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung manéhna ngalakonan"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jeung jalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sakabéh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nyimpang"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ka katuhu"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "jeung ka kenca"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:05.908178403Z",
+  "model": "glm-5.3"
+}

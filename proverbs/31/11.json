@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Haté salakina percaya ka anjeunna, sarta ⟨he⟩ moal kakurangan hasil.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "salakina"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "kakurangan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:52.905631349Z",
+  "model": "glm-5.3"
+}

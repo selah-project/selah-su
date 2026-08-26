@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Pikeun ngabébaskeun nyawa maranéhna tina maot, jeung ngahirupkeun maranéhna dina kalaparan.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "pikeun ngabébaskeun"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "tina maot"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa maranéhna"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "jeung ngahirupkeun maranéhna"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "dina kalaparan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:56.290846400Z",
+  "model": "glm-5.3"
+}

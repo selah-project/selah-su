@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 96,
+  "translation": "Eusi kana Yahwe, muja nami-Na, waro-wari ti poe ka poé kana kaafiatan-Na.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "eusi kana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "muja"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nami-Na"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "waro-wari"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ti poe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ka poé"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "kana kaafiatan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:32.245010428Z",
+  "model": "glm-5.3"
+}

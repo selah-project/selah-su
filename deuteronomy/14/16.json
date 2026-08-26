@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "⟨את⟩ bubukakak leutik, jeung ⟨את⟩ yansuf, jeung tinsyamet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bubukakak leutik"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "bubukakak leutik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yansuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yansuf"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "jeung tinsyamet"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:50.125009431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung seruan lumangsung ngaliwatan kamp nalika panonpoé rék tilep, nyebutkeun: Jalma sauceup ka kotana, jeung jalma sauceup ka taneuhna.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "lumangsung ngaliwatan"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "seruan"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "nalika rék tilep"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kotana"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung jalma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "taneuhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:43.975792299Z",
+  "model": "glm-5.3"
+}

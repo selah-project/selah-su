@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Sabab anjeun ⟨heulang⟩ harepan abdi, Adonay Yahwe, pangpayungna abdi ti bubudak kénéh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "harepan abdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "pangpayungna abdi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ti bubudak kénéh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:04.165302120Z",
+  "model": "glm-5.3"
+}

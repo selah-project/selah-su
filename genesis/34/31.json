@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Jeung aranjeunna nyarios: Naha jeung palacuran kudu ngalakukeun ⟨את⟩ ka adik awéwé urang?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung aranjeunna nyarios"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "jeung palacuran"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kalakukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adik awéwé urang"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "adik awéwé urang"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:18.405999508Z",
+  "model": "glm-5.3"
+}

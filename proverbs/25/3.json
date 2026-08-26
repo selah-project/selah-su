@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Langit-langit pikeun luhurna, sareng bumi pikeun jerona, sareng haté para raja euweuh panalungtikanna.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "pikeun luhurna"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "sareng bumi"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "pikeun jerona"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "sareng haté"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "panalungtikan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:06.149100411Z",
+  "model": "glm-5.3"
+}

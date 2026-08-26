@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 23:9",
+  "book": "job",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Di kénca nalika ⟨manehna⟩ gawé, tapi kuring teu bisa nempo ⟨manehna⟩; manehna ngabungbung di leungeun katuhu, tapi kuring moal nempo.",
+  "tokens": [
+    {
+      "surface": "שמאול",
+      "gloss": "di kénca"
+    },
+    {
+      "surface": "בעשתו",
+      "gloss": "nalika ⟨manehna⟩ gawé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ngabungbung"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "leungeun katuhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "moal nempo"
+    }
+  ],
+  "timestamp": "2026-08-26T15:11:18.310935967Z",
+  "model": "glm-5.3"
+}

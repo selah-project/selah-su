@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Teras Yahwe ngarandapan ⟨את⟩ Paroh ku wabah-wabah gedé, jeung ⟨את⟩ bumi-rumahna, alatan perkara Saray, pamajikanana Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "ngarandapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "wabah-wabah"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gedé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi-rumahna"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bumi-rumahna"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:19.932828469Z",
+  "model": "glm-5.3"
+}

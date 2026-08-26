@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung putra-putra Yisrael nu kapanggih ngarayakeun ⟨את⟩ Pésach dina waktu éta, jeung ⟨את⟩ pésta roti tanpa ragi salila tujuh poé.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngarayakeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nu kapanggih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "pésta roti tanpa ragi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pésta"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T16:34:03.425943558Z",
+  "model": "glm-5.3"
+}

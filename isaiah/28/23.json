@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Cekapian jeung ngadangu sora abdi; diriksa, jeung ngadangu omong abdi.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "cekapian"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "jeung ngadangu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora abdi"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "diriksa"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "jeung ngadangu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "omong abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:22.312817469Z",
+  "model": "glm-5.3"
+}

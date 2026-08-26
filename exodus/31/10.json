@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "jeung ⟨את⟩ baju-baju karédénan, jeung ⟨את⟩ baju-baju kasucian pikeun Aharon sang imam, jeung ⟨את⟩ baju-baju putrana-putrana, pikeun ngalaksanakeun imaman;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "baju-baju karédénan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "baju-baju"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "karédénan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "baju-baju kasucian"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "baju-baju"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pikeun Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "baju-baju putrana-putrana"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "baju-baju"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putrana-putrana"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pikeun ngalaksanakeun imaman"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:06.139464744Z",
+  "model": "glm-5.3"
+}

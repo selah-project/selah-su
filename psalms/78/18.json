@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung maranéhna nyoba El dina haté maranéhna, pikeun nawarkeun dahareun pikeun nefesh maranéhna.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "nyoba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "dina haté maranéhna"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "pikeun nawarkeun"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahareun"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "pikeun nefesh maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:58.743907567Z",
+  "model": "glm-5.3"
+}

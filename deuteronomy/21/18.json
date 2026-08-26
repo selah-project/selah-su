@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Lamun aya mibanda saurang anak ngedey jeung ngalawan, anjeunna teu ngadangu sora ajrina jeung sora indungna, jeung maranehna geus ngajeujeutkeun ⟨את⟩ anjeunna tapi anjeunna teu ngadangu ka maranehna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mibanda saurang"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ngedey"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "jeung ngalawan"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "anjeunna teu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ajrina"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "jeung sora"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "jeung maranehna geus ngajeujeutkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:24.315123598Z",
+  "model": "glm-5.3"
+}

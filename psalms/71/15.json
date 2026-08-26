@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Bikeun bibir abdi baris ngaduga-duga kabeneran Anjeun, sadinten lilana pangbantuan Anjeun, sabab abdi nyaho mulihna euweuh wilanganana.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Bikeun bibir abdi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "baris ngaduga-duga"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kabeneran Anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadinten lilana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sadinten lilana"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "pangbantuan Anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "abdi nyaho mulihna"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "wilanganana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:54.801721804Z",
+  "model": "glm-5.3"
+}

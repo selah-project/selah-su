@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Anjeu ngandung jig-jag, ngalahirkeun jukut; angin anjeu, seuneu, ngahakan anjeu.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "ngandung"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "jig-jag"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "קש",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "angin anjeu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "ngahakan anjeu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:32.188750483Z",
+  "model": "glm-5.3"
+}

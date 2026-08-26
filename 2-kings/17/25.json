@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jadi dina mimiti cicingna ditu, maranehna teu sieun ka Yahwe, lajeng Yahwe ngirim ka aranjeunna ⟨את⟩ singa-singa eta, sarta singa-singa eta jadi maéhan di antara maranehna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "dina mimiti"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "cicingna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ditu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lajeng ngirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "singa-singa eta"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "singa-singa eta"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "maéhan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antara maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:57:10.842497155Z",
+  "model": "glm-5.3"
+}

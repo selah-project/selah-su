@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Laun nyarita ka Eliyahu: Naon pikeun abdi jeung anjeun, jalma Elohim? Naha anjeun datang ka abdi pikeun ngahontal ⟨את⟩ dosa abdi jeung maéhan ⟨את⟩ putra abdi?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Laun nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Naon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "anjeun datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "pikeun ngahontal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dosa abdi"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "dosa abdi"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "jeung maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra abdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:36.455917060Z",
+  "model": "glm-5.3"
+}

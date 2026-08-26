@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung pikeun ngumpulkeun ⟨את⟩ jamaah, maraneh tiup, jeung ulah nyorak.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "jeung ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamaah"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "maraneh tiup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "nyorak"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:45.858383928Z",
+  "model": "glm-5.3"
+}

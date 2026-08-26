@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Tuluy aranjeunana ngabejakeun ka Mordekhai ⟨את⟩ omongan Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "tuluy aranjeunana ngabejakeun"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ka Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omongan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "omongan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:48.778716929Z",
+  "model": "glm-5.3"
+}

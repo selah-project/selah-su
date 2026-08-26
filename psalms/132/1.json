@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Kidung tarajé. Ingéting, ulah Yahwe, pikeun David ⟨את⟩ sagala kasusahanna.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ingéting"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala kasusahanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "kasusahanna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:28.697269572Z",
+  "model": "glm-5.3"
+}

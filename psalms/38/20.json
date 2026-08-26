@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Tapi musuh-musuh kuring ⟨nya⟩ hirup sarta ngarahzat; jeung nu mikabencik kuring tan alesan beuki loba.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "tapi musuh-musuh kuring"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ngarahzat"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "beuki loba"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nu mikabencik kuring"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tan alesan (palsu)"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:23.854620906Z",
+  "model": "glm-5.3"
+}

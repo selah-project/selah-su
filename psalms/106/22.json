@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "hal-hal ngahéjo di taneuh Kham, hal-hal ngabikin sieun di luhureun laut Suph.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "hal-hal ngahéjo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "hal-hal ngabikin sieun"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:52.503810232Z",
+  "model": "glm-5.3"
+}

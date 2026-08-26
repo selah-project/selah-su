@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung raratu ti Sheba ngadéngé ⟨את⟩ warta anu narita ngeunaan Shelomoh alatan ngaran Yahwe, sarta anjeunna sumping pikeun nyobaanana ku teka-teki.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "jeung raratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ti Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "warta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "alatan ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "sarta anjeunna sumping"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "pikeun nyobaanana"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "ku teka-teki"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:54.146618210Z",
+  "model": "glm-5.3"
+}

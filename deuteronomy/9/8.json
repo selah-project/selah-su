@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung di Horev anjeun ngajadikeun murka ⟨את⟩ Yahwe, sarta Yahwe jengkel ka anjeun pikeun ngamusnahkeun ⟨את⟩ anjeun.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "jeung di Horev"
+    },
+    {
+      "surface": "hiktzafatem הקצפתם",
+      "gloss": "anjeun ngajadikeun murka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "sarta jengkel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "pikeun ngamusnahkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun (bangsa Israil)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:23.137913988Z",
+  "model": "glm-5.3"
+}

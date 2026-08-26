@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung manéhna nyarita: Bagja, pentéhkeun pikeun anjeun wadah-wadah ti luar, ti ⟨את⟩ sadaya tatangga anjeun — wadah-wadah kosong; ulah saeutik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung manéhna nyarita"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "bagja"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "pentéhkeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "wadah-wadah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya tatangga anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "tatangga anjeun"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "wadah-wadah"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "saeutik"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:56.387428191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung aranjeunna manggihan ⟨את⟩ Adoni-Bezek di Bezek, jeung aranjeunna perang ngalawan anjeunna, jeung aranjeunna ngabeledugkeun ⟨את⟩ urang Kanaan jeung ⟨את⟩ urang Perizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "manggihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngalawan anjeunna"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ngabeledugkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "urang Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "urang Perizi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:22.219178405Z",
+  "model": "glm-5.3"
+}

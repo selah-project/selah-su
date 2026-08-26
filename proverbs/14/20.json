@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Malah ku babaturanana sorangan nu miskin dipapaéh, tapi nu mikacinta ka nu beunghar loba.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ku babaturanana"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dipapaéh"
+    },
+    {
+      "surface": "רש",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "tapi nu mikacinta"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ka nu beunghar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    }
+  ],
+  "timestamp": "2026-08-26T14:59:04.461030630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 24:14",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Mangka David ngomong ka Gad: Pajes pisan ka abdi; mugia urang ragrag ka leungeun Yahwe, sabab welas-Na loba, tapi ulah abdi ragrag ka leungeun manusa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mangka ngomong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "צר",
+      "gloss": "pajes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "mugia urang ragrag"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugia"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka leungeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "רחמו",
+      "gloss": "welas-Na"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "tapi ka leungeun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "abdi ragrag"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:24.351296611Z",
+  "model": "glm-5.3"
+}

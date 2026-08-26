@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "nalika inya mintonkeun ⟨את⟩ kakayaan kamulyaan karajaanana jeung ⟨את⟩ kamahalana kageuliskeun kagunganna, lilana poé-poé — dalapan puluh jeung saratus poé.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "nalika inya mintonkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakayaan kamulyaan karajaanana"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kakayaan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajaanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kamahalana kageuliskeun kagunganna"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "kamahalana"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kageuliskeun"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "kagunganna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "dalapan puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "jeung saratus"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:52.007872643Z",
+  "model": "glm-5.3"
+}

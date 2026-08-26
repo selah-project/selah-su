@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Ka Anjeun abdi ⟨is⟩ milik; salametkeun abdi, sabab katangtuan-Mu abdi geus paluruh.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ka Anjeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salametkeun abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "katangtuan-Mu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "abdi geus paluruh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:22.540717476Z",
+  "model": "glm-5.3"
+}

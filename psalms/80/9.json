@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Gépén ti Mitsrayim Anjeun ngalihkeun, Anjeun ngojay bangsa-bangsa, jeung Anjeun ngatukkeunana.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "gépén"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "Anjeun ngalihkeun"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "Anjeun ngojay"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "jeung Anjeun ngatukkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:33.195479630Z",
+  "model": "glm-5.3"
+}

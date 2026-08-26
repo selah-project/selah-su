@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Moshe ngomong ka aranjeunna: ulah aya lalaki nu miwat kénéh tina eta nepi ka isuk-isuk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "miwat kénéh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tina eta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "isuk-isuk"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:27.595454120Z",
+  "model": "glm-5.3"
+}

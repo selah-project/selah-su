@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Ngan Elohim anu ngaleupaskeun nefesh kuring tina leungeun Sheol, sabab Anjeunna bakal narima kuring. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "bakal narima kuring"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:58.270335547Z",
+  "model": "glm-5.3"
+}

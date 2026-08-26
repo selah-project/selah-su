@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Avshalom nyarita ka Akhitofel: Bere ka aranjeunan saran — naon anu urang lakonan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Akhitofel"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka-aranjeunan"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "saran"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "urang-lakonan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:08.708423039Z",
+  "model": "glm-5.3"
+}

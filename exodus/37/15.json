@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ pangamping-pangamping tina kai akasia, jeung ngalapisan ⟨את⟩ aranjeunana ku emas, pikeun mawa ⟨את⟩ méja.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung anjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangamping-pangamping"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "pangamping-pangamping"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "jeung ngalapisan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ku emas"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pikeun mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "méja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:10.775473094Z",
+  "model": "glm-5.3"
+}

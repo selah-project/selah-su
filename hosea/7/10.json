@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung kagagahan Israyel geus ngajawab nyanghareup manehna, tapi maranehna henteu balik deui ka Yahwe, Elohim maranehna, jeung henteu milaran Anjeunna dina sadaya ieu.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kagagahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "nyanghareup manehna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim maranehna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "milaran Anjeunna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sadaya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:29.503603148Z",
+  "model": "glm-5.3"
+}

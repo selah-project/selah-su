@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung raja Bavel ngageunggeul ⟨את⟩ aranjeunna, sarta ngamatianna di Rivlah, di taneuh Hamat; sarta Yehuda dibuang ti luhureun taneuhna.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "jeung ngageunggeul"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "raja Bavel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "sarta ngamatianna"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "di Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "sarta dibuang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhureun"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "taneuhna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:58:14.789991833Z",
+  "model": "glm-5.3"
+}

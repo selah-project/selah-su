@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Malah poék ogé henteu poék di payuneun-Mu, jeung peuting caang saperti beurang; poék saperti caang.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "poék"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "poék"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "di payuneun-Mu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jeung peuting"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "saperti beurang"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "caang"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "poék"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "saperti caang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:00.359849611Z",
+  "model": "glm-5.3"
+}

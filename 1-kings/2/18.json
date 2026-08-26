@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung katanya Bat-Sheva: Énya, abdi badá nyarita ngeunaan anjeun ka ⟨⟨את⟩⟩ raja.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeung katanya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "éy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "badá nyarita"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngeunaan anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:29.479643948Z",
+  "model": "glm-5.3"
+}

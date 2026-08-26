@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Lamun kamp ngadeg ngalawan abdi, hate abdi moal sieun; lamun perang ngadeg ngalawan abdi, dina hal ieu abdi percaya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "ngadeg-kamp"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan abdi"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hate abdi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan abdi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "dina hal ieu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "percaya"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:08.790381277Z",
+  "model": "glm-5.3"
+}

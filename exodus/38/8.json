@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ beuleumeran tambaga jeung ⟨את⟩ sagongsolongana tambaga, tina晶晶 panyawang para awéwé nu ngajaga, nu ngajaga di lawang Kemah Panglawungan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beuleumeran"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "beuleumeran"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "sagongsolongana"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sagongsolongana"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "tina panyawang"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "para nu ngajaga (awéwé)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ngajaga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di lawang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Panglawungan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:47.921752173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Jalmi-jalmi bodo ku jalan palanggaranana, jeung ku kadzalimanana maranehna ngarandapan sangsara.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "jalmi-jalmi bodo"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ku jalan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "palanggaranana"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "jeung ku kadzalimanana"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "maranehna ngarandapan sangsara"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:14.232175085Z",
+  "model": "glm-5.3"
+}

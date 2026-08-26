@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sarta Shelach hirup tilu puluh tahun, sarta ngalahirkeun ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Sarta Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:48.599366388Z",
+  "model": "glm-5.3"
+}

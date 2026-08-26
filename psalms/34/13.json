@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Saha ⟨l⟩jalam nu kahayang hirup, nu bogoh ka sababaraha poé, sangkan niténan kahadéan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨l⟩jalam"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "nu kahayang"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nu bogoh ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sababaraha poé"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sangkan niténan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kahadéan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:01.783027682Z",
+  "model": "glm-5.3"
+}

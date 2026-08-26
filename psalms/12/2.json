@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Tulungkeun, Yahwe, sabab ⟨geus⟩ tammat nu kanyaah, sabab ⟨geus⟩ leungit nu satia ti antara putra-putra manusa.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Tulungkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "tammat"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "nu kanyaah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "leungit"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "nu satia"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ti antara putra-putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:14.771406758Z",
+  "model": "glm-5.3"
+}

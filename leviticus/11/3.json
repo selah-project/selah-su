@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sagala nu ngabeulahkeun tapak suku jeung beulah keneh beulahanna, nu mairkeun deui hakaneunana, ti ⟨dina⟩ ingon-ingon — ⟨את⟩ éta anjeun ngadahar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "nu ngabeulahkeun"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "tapak suku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "jeung beulah keneh"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "beulahanna"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "tapak suku"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nu mairkeun deui"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "hakaneunana"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ti ingon-ingon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "éta ingon-ingon"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "anjeun ngadahar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:25.719739041Z",
+  "model": "glm-5.3"
+}

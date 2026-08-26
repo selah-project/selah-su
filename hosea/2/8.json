@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Mangka, ieu kieu, abdi nyingkungan ⟨את⟩ jalanan anjeun ku sulampé duri, tur abdi ngadegkeun ⟨את⟩ pagerana, tur jal-jalanana moal kapanggih.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ieu kieu"
+    },
+    {
+      "surface": "שך",
+      "gloss": "abdi nyingkungan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalanan anjeun"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalanan anjeun"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "ku sulampé duri"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "tur abdi ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagerana"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "pagerana"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "tur jal-jalanana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kapanggih"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:17.297739992Z",
+  "model": "glm-5.3"
+}

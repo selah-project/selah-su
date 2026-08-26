@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Avshalom teu ngomong ka Amnon, ti nu goréng nepi ka nu hade; sabab Avshalom munggarkeun ⟨את⟩ Amnon alatan perkara anu dipigawe ka ⟨את⟩ Tamar adina.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "ti nu goréng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu hade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "munggarkeun"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "dipigawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "adina"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:10.895983054Z",
+  "model": "glm-5.3"
+}

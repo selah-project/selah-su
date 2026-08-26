@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras Moshe ngomong ka ⟨the⟩ Elohim: Saha abdi, nepi ka abdi indit ka Paroh, sarta mawa kaluar ⟨את⟩ budak-budak Yisrael ti Midzrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "teras ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "abdi indit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "sarta nepi ka"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak-budak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Midzrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:30.116480315Z",
+  "model": "glm-5.3"
+}

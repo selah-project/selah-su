@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "jeung manehna mawa ⟨את⟩ maranéhna ka imam, sarta imam ngamimitian nu pikeun kurban dosa, jeung ngentepkeun ⟨את⟩ sirahna tina payune tukuh beuheungna, tapi henteu misahkeunana.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "jeung mawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "jeung ngamimitian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu pikeun kurban dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pikeun kurban dosa"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "munggaran"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "jeung ngentepkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahna"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahna"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ti payune"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "tukuh beuheungna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "misahkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:20.483762427Z",
+  "model": "glm-5.3"
+}

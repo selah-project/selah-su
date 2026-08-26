@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Lamun abdi ngomong: \"Abdi nyaritakeun saperti kieu\" — ningali, ka turunan putra-putra Anjeun abdi geus khianat.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "abdi ngomong"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "abdi nyaritakeun"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "saperti kieu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ningali"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ka turunan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "putra-putra Anjeun"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "abdi geus khianat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:13.773113879Z",
+  "model": "glm-5.3"
+}

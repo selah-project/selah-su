@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Pikeun Dawid, mizmor. Nana Yahwe ⟨⟨lah⟩⟩ bumi jeung kaeusianana, dunya jeung nu nyicingananana.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nana Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "jeung kaeusianana"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunya"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "jeung nu nyicingananana"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:52.935916464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Lajeng Lot kaluar ka aranjeunna nepi ka panto, sarta ⟨the⟩ panto ditutup tukangeunana.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ka panto"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "panto"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ditutup"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "tukangeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:29.999317944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "⟨Anjeun⟩ nempatkeun bengpit, jadi peuting; di jerona sakitu sasatoan leuweung ngarambat kaluar.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "bengpit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ngarambat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "sasatoan"
+    },
+    {
+      "surface": "יער",
+      "gloss": "leuweung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:06.031528410Z",
+  "model": "glm-5.3"
+}

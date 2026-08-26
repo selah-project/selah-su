@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung anjeunna nungkun maranehna ka kaayaan aman sangkan maranehna teu sieun, jeung laut nutupan ⟨את⟩ musuh-musuh maranehna.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nungkun"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka kaayaan aman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sangkan teu"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "musuh-musuh maranehna"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuh-musuh maranehna"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nutupan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:44.873674243Z",
+  "model": "glm-5.3"
+}

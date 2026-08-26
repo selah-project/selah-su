@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Yahwe sumpah ku kamulyaan Yaakov: Moal abdi poho salawasna sagala pagawéan maranéhanana.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "ku kamulyaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "abdi poho"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "pagawéan maranéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:08:32.907713409Z",
+  "model": "glm-5.3"
+}

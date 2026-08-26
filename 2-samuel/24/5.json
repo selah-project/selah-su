@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Lajeng aranjeunna ngaliwatan ⟨את⟩ Yarden, sarta ngadeg kemah di Aroer, beulah katuhu ⟨the⟩ kota nu aya di tengah-wates lebak Gad, jeung ka Yaezer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ngadeg kemah"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "di Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "beulah katuhu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-wates"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "lebak"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:35.792077854Z",
+  "model": "glm-5.3"
+}

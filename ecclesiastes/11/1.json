@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Antepkeun roti anjeun ka luhureun beungeut ⟨the⟩ cai, sabab dina loba-lobana poé anjeun bakal manggihanana.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Antepkeun"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "roti anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ cai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dina loba-lobana"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "anjeun bakal manggihanana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:14.586890613Z",
+  "model": "glm-5.3"
+}

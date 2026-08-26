@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Anjeu ⟨pé⟩ Raja abdi, Elohim; paréntahkeun ka Salmon-salametan pikeun Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨pé⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Raja abdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paréntahkeun"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "salametan-salametan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:20.564039593Z",
+  "model": "glm-5.3"
+}

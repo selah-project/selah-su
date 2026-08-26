@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Dina waktu harita pelayan-pelayan Nebukadnetsar raja Babel naik ka Yerushalaim, sarta kota éta asup kana kadikepungan.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "pelayan-pelayan"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "sangkan asup"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota éta"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "kana kadikepungan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:46.697998640Z",
+  "model": "glm-5.3"
+}

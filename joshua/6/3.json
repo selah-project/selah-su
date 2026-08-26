@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung anjeun bakal ngurilingan ⟨את⟩ kota éta, sadaya jalma perang, ngurilingan ⟨את⟩ kota éta sakali; kieu anjeun ngalakukeunana genep poé.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "Jeung anjeun bakal ngurilingan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota éta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota éta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota éta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota éta"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kali"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sacali"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kieu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun ngalakukeunana"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "genep"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:46.492912854Z",
+  "model": "glm-5.3"
+}

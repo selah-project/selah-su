@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Hiram raja Tsor ngutus ⟨את⟩ abdi-abdina ka Shlomoh, sabab anjeunna ngadangu yén maranéhna geus ngalisahan ⟨את⟩ anjeunna jadi raja sanggeus bapana, sabab Hiram jadi nu kanyaah ka Dawid sapanjang poé.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "jeung (anjeunna) ngutus"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdina"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anjeunna ngadangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "ngalisahan anjeunna"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "maranéhna ngalisahan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sanggeus\/kitu ganti"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nu kanyaah"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:07.403315990Z",
+  "model": "glm-5.3"
+}

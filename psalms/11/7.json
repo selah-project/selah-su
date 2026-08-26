@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sabab Yahwe bener, ka-beneran-Na dipikanyaah; nu lempeng bakal nempo beungeut-Na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bener"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ka-beneran-Na"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dipikanyaah"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bakal nempo"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "beungeut-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:01.984481528Z",
+  "model": "glm-5.3"
+}

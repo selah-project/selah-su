@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 99,
+  "translation": "Yahwe héwang di Tsiyon, sarta luhur manehna luhureun sadaya bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsiyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "héwang"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "sarta luhur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:17.906997869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Ngawangun imah-imah, sarta cicingeun; sarta taneman kebon-kebon, sarta dahar ⟨את⟩ buahna.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "sarta cicingeun"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "sarta taneman"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "kebon-kebon"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "sarta dahar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buahna"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "buahna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:32:39.826946568Z",
+  "model": "glm-5.3"
+}

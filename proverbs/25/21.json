@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Lamun nu benci ka anjeun kalaparan, béré anjeunna dahar roti, jeung lamun kahauseun, béré anjeunna nginum cai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "nu benci ka anjeun"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "béré anjeunna dahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "kahauseun"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "béré anjeunna nginum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:31.731237808Z",
+  "model": "glm-5.3"
+}

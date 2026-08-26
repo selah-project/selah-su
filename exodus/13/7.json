@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Roti tanpa ragi bakal didahar ⟨את⟩ tujuh poé éta, jeung moal katempo di dieuneuneun anjeun nu ngaragi, jeung moal katempo di dieuneuneun anjeun ragi di sakabéh wates anjeun.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bakal didahar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh poé éta"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé éta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "katempo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di dieuneuneun anjeun"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "nu ngaragi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "katempo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di dieuneuneun anjeun"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sakabéh"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "wates anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:21.647159519Z",
+  "model": "glm-5.3"
+}

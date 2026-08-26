@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Tuluy Yahwe nyalametkeun ⟨את⟩ Yisrael dina poé éta ti leungeun Misrayim, jeung Yisrael nempo ⟨את⟩ Misrayim geus paéh di sisi laut.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Tuluy ... nyalametkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "jeung ... nempo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "geus paéh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:39.192682951Z",
+  "model": "glm-5.3"
+}

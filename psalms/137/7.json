@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Émut, Yahwe, ka anak-anak Edom poé Yerushalaim, nu ngomong: Bongkar, bongkar nepi ka carangna!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Émut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka anak-anak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poé"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "nu ngomong"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Bongkar"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bongkar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "carangna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:30.245397394Z",
+  "model": "glm-5.3"
+}

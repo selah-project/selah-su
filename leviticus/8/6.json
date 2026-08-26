@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Moshe mawa asup Aharon jeung putra-putrana, tuluy nyuci ⟨anjeunna--> ⟨את⟩ aranjeunna ku cai.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mawa asup"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "nyuci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunna"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ku cai"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:46.964470296Z",
+  "model": "glm-5.3"
+}

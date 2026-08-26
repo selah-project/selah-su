@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung manéhna ngahaseupan ⟨את⟩ kurban bakarna jeung ⟨את⟩ kurban sarereana, ngisedkeun ⟨את⟩ sesajén caina, sarta ngucrétkeun ⟨את⟩ getih kurban-kurban salam nu bogana ka luhureun mézbah.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ngahaseupan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakarna"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kurban bakarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurban sarereana"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "kurban sarereana"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ngisedkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesajén caina"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "sesajén caina"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ngucrétkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "kurban-kurban salam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bogana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:57:38.152227592Z",
+  "model": "glm-5.3"
+}

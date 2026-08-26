@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Moab téh hindi rambu aing; ka Edom aing sambalikeun sapatu aing; ka Pelesyet aing sorak-sorak muriang.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "rambu aing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "aing sambalikeun"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sapatu aing"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "aing sorak-sorak muriang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:22.370406288Z",
+  "model": "glm-5.3"
+}

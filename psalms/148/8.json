@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Seuneu jeung és muruken, salju jeung haseup, angin puyuh nu ngalaksanakeun kalimah-Na.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "jeung és muruken"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salju"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "jeung haseup"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "puyuh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu ngalaksanakeun"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kalimah-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:06.022771350Z",
+  "model": "glm-5.3"
+}

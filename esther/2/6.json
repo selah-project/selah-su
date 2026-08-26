@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "nu dibuang ti Yerushalaim bareng jeung nu-dibuang ⟨nu⟩ dibuang bareng jeung Yekhonyah raja Yehuda, nu dibuang ku Nevukhadnetstsar raja Babel.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "dibuang"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "ti Yerushalaim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng jeung"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "nu-dibuang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "dibuang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng jeung"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekhonyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "dibuang"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:15.822347840Z",
+  "model": "glm-5.3"
+}

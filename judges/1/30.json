@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Zebulun teu ngusir ⟨את⟩ nu nyicingan Kitron jeung ⟨את⟩ nu nyicingan Nahalal, antukna urang Kanaan nyicingan di tengah-tengahna sarta jadi ⟨nu mayakeun upeti⟩.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu nyicingan Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "nu nyicingan"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu nyicingan Nahalal"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "nu nyicingan"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "antukna nyicingan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kanaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahna"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "nu mayakeun upeti"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:21.567646851Z",
+  "model": "glm-5.3"
+}

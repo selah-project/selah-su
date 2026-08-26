@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Dipelak di bumi Yahwe, di pakarangan Elohim urang maranéhna mekar.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Dipelak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di pakarangan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "maranéhna mekar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:50.579831550Z",
+  "model": "glm-5.3"
+}

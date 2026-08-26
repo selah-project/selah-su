@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Tapi abdi cilaka jeung nyeri; kasalametan-Mu, ya Elohim, bakal ngajangkungkeun abdi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi abdi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "jeung nyeri"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "kasalametan-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ngajangkungkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:56.667527678Z",
+  "model": "glm-5.3"
+}

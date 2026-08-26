@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 142,
+  "translation": "Maschil (puisi pangaweruh) pikeun David, mangsa anjeunna aya di guha — sandé-sandé ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maschil (puisi pangaweruh)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "mangsa anjeunna aya"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di guha"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "sandé-sandé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:34.691498623Z",
+  "model": "glm-5.3"
+}

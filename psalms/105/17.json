@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "⟨Manehna⟩ ngirim saurang lalaki saméméh maranehna — jadi abdi dijual Yoséf.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "saméméh maranehna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "jadi abdi"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "dijual"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.798131301Z",
+  "model": "glm-5.3"
+}

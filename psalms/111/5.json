@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Pangan dipaparin ka nu takut ka ⟨anjeunna⟩; salawasna ⟨anjeunna⟩ nginget perjangjian-Na.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "pangan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipaparin"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ka nu takut ka anjeunna"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "nginget"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjangjian-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:16.445322354Z",
+  "model": "glm-5.3"
+}

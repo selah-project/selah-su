@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sora Yahwe ⟨aya⟩ luhureun cai; El ⟨anu⟩ mulya ngagorombol; Yahwe ⟨aya⟩ luhureun cai anu loba.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "⟨anu⟩ mulya"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ngagorombol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anu loba"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:09.389970491Z",
+  "model": "glm-5.3"
+}

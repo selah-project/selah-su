@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lamun mangkunegaran nu nyepeng parentah ngajugjug anjeun, ulah nyingkah ti tempat anjeun, sabab katenangan mairan dosa-dosa nu gedé.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mangkunegaran"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "nu nyepeng parentah"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ngajugjug"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "tempat anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "nyingkah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "katenangan"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "mairan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "nu gedé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:50.725162733Z",
+  "model": "glm-5.3"
+}

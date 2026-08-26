@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Caang sumping dina kagangen pikeun nu lempeng — mulia ka sasama, jeung welas asih, jeung bener.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "sumping (caang)"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dina kagangen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "caang"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "pikeun nu lempeng"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mulia ka sasama"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "jeung welas asih"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "jeung bener"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:08.444002018Z",
+  "model": "glm-5.3"
+}

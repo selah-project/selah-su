@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sarta anjeuna nanya ka Yahwe pikeun anjeuna, méré parabot dahar ka anjeuna, sarta ⟨את⟩ pedangna Golyat nu Palisti méré ka anjeuna.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "sarta anjeuna nanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun anjeuna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "sarta parabot dahar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pedangna Golyat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedangna"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "nu Palisti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:20.138954015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 142,
+  "translation": "Saeutikkeun ceuli ka sora lirih abdi, sabab abdi geus pisan tumpul; tulung ngabébaskeun abdi tina nu ngudag abdi, sabab maranehna leuwih kuat batan abdi.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "saeutikkeun ceuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "sora lirih abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "abdi geus tumpul"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "tulung ngabébaskeun abdi"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "tina nu ngudag abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "maranehna leuwih kuat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "batan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:41.164732356Z",
+  "model": "glm-5.3"
+}

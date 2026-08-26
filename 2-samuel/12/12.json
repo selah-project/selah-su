@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sabab anjeun geus ngalakukeunana dina singkem, ari abdi bakal ngalakukeun ⟨את⟩ hal ieu di payuneun sakabéh Yisrael jeung di payuneun poé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "geus ngalakukeun"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dina singkem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ari abdi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bakal ngalakukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hal ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "jeung di payuneun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:46.594546908Z",
+  "model": "glm-5.3"
+}

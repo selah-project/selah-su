@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Sabab aku bakal ngabeberakeun kaluputan kuring; aku ngararungkun alatan dosa kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "kaluputan kuring"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "kubebeberkeun"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ngararungkun"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "alatan dosa kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:23.854373573Z",
+  "model": "glm-5.3"
+}

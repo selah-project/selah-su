@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jaba ayeuna manggihankeun isuk-isuk, jeung abdi-abdi pangéran anjeun nu datang jeung ⟨את⟩ anjeun; manggihkeun deui isuk-isuk, sanggeus caang pikeun anjeun, mangkat.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jaba ayeuna"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "manggihankeun isuk-isuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di waktu isuk"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "jeung abdi-abdi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "pangéran anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jeung ⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "manggihkeun deui"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di waktu isuk"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "sanggeus caang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mangkat"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:43.213030365Z",
+  "model": "glm-5.3"
+}

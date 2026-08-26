@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe Elohim-mu anu beueuh, jeung ⟨את⟩-Na anu baladah, jeung ku ngaran-Na anu sumpah.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim-mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "beueuh ka"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "jeung ⟨את⟩-Na",
+      "marks": "baladah ka Anjeunna"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "baladah"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "jeung ku ngaran-Na"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "sumpah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:39.820233918Z",
+  "model": "glm-5.3"
+}

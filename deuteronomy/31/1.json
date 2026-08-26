@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Laju Moshe indit, sarta nyaritakeun ⟨את⟩ kecap-kecap ieu ka sadaya Israél.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "laju indit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "sarta nyaritakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:37.234324912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Jadi anak-anakna yatim, jeung pamajikanana randa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "jeung pamajikanana"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "randa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:40.140879284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung sangkan anjeun nyaritakeun dina ceuli putra anjeun jeung putra ti putra anjeun ⟨את⟩ naon nu kula lakeuh di Mistir jeung ⟨את⟩ tanda-tanda kula nu kula nempatkeun di antawis maranehna, tara kawuwuh yén kula téh Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "jeung sangkan"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "anjeun nyaritakeun"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dina ceuli"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jeung putra"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naon nu kula lakeuh di Mistir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "kula lakeuh"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mistir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tanda-tanda kula"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tanda-tanda kula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "kula nempatkeun"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di antawis maranehna"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "tara kawuwuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:49.288321878Z",
+  "model": "glm-5.3"
+}

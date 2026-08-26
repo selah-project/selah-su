@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Nalika ngadenge ⟨את⟩ kecap-kecap bapana, Esav ngagorowok gorowokan gedé sarta pait nepi ka pohara, sarta nyarios ka bapana: Berkahan abdi, abdi ogé, bapa.",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "nalika-ngadenge"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "sarta-ngagorowok"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "gorowokan"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "gedé"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "sarta-pait"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pohara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta-nyarios"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ka-bapana"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "berkahan-abdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:18.446154037Z",
+  "model": "glm-5.3"
+}

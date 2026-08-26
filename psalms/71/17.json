@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Elohim, Anjeun geus ngajar abdi ti mimiti rumaja, jeung nepi ka ayeuna kénéh abdi nyaritakeun kagumunan-kagumunan Anjeun.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "Anjeun geus ngajar abdi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ti mimiti rumaja"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung nepi ka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ayeuna kénéh"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "abdi nyaritakeun"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kagumunan-kagumunan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:05.840472085Z",
+  "model": "glm-5.3"
+}

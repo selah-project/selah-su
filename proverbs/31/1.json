@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Kecap-kecap Lemuél, raja, beban nu diajarkeun indungna ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Kecap-kecap"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuél"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "משא",
+      "gloss": "beban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "diajarkeun ka anjeunna"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:04:35.905310650Z",
+  "model": "glm-5.3"
+}

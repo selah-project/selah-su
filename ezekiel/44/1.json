@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Tuluy manéhna mulangkeun abdi ⟨את⟩ kana jalan gerbang miqdas bagian luar nu nyanghareup ka wétan, sarta ⟨ieu⟩ katutup.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mulangkeun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gerbang"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "miqdas"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "bagian luar"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "nyanghareup"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ka wétan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sarta ⟨ieu⟩"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "katutup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:01:02.309839696Z",
+  "model": "glm-5.3"
+}

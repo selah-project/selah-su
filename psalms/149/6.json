@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 149,
+  "translation": "Puji-puji nu ngaronjatkeun ka El aya dina tikorong maranéhna, sarta pedang nu seukeut dua sisi aya dina leungeun maranéhna.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "puji-puji nu ngaronjatkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "dina tikorong maranéhna"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "sarta pedang"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "nu seukeut dua sisi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "dina leungeun maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:48.970837725Z",
+  "model": "glm-5.3"
+}

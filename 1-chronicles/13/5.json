@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Tuluy Dawid ngumpulkeun ⟨את⟩ sakabéh Yisrael, ti Shixor Misrayim nepi ka asupna Xamat, pikeun mawa ⟨את⟩ peti Elohim ti Kiryat-Yearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shixor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "asupna"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "pikeun mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "ti Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:10:58.027897593Z",
+  "model": "glm-5.3"
+}

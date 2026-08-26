@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "jeung Oved ngalahirkeun ⟨את⟩ Yehu, jeung Yehu ngalahirkeun ⟨את⟩ Azaryah.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "jeung Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "jeung Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:49.330957564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung kakira-kira maranéhna numutkeun kulawarga maranéhna ⟨nyaéta⟩ tilu rebu jeung dua ratus.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jeung jadi"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "kakira-kira maranéhna"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "numutkeun kulawarga maranéhna"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "rebu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "jeung dua ratus"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:56.495099274Z",
+  "model": "glm-5.3"
+}

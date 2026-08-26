@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Pikeun ngaiket pangéran-pangéranana ku nefesh-Na, jeung kolot-kolotna diwijaksanakeun.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "pikeun ngaiket"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "pangéran-pangéranana"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ku nefesh-Na"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "jeung kolot-kolotna"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "diwijaksanakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:24.851912242Z",
+  "model": "glm-5.3"
+}

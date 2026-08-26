@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sabab Yahwe nempo ⟨את⟩ karungrungan Israél — pait pisan — jeung teu aya nu dikurung, teu aya nu dicampur, sarta euweuh nu nulungan Israél.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karungrungan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "karungrungan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "pait"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "jeung teu aya nu"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "dikurung"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "jeung teu aya nu"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "dicampur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sarta euweuh nu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "nulungan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:30.082245440Z",
+  "model": "glm-5.3"
+}

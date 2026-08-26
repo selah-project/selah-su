@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jadi manusa dihinakeun, jeung lalaki direundeuhkeun, jeung panon nu nyongcolang dihina.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "dihinakeun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "direundeuhkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "jeung panon"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "nu nyongcolang"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "dihina"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:15.304244861Z",
+  "model": "glm-5.3"
+}

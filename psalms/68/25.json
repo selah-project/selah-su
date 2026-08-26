@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Kuring geus nempo(?) — Teu: kulihatana geus katempo jejak léngkah-Mu, Elohim; léngkah-léngkah El kuring, Raja kuring, di ⟨tempat⟩ suci.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "geus katempo"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "jejak léngkah-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "léngkah-léngkah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El kuring"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Raja kuring"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di ⟨tempat⟩ suci"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:59.535976912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Seukeunanana létahna saperti oray; bisa kaduat aya di handapeun biwirna. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Seukeunanana"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "létahna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "oray"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bisa kaduat"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "naga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "biwirna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:04.058193715Z",
+  "model": "glm-5.3"
+}

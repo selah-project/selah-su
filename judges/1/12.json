@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Kalep ngomong: saha nu narajang ⟨את⟩ Kiryat-Sefer sarta ngawasaanana, mangka abdi badré méré ka anjeunna ⟨את⟩ Aksah putri abdi jadi pamajikan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalep"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "saha nu"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "narajang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "sarta ngawasaanana"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "putri abdi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi pamajikan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:27.777263827Z",
+  "model": "glm-5.3"
+}

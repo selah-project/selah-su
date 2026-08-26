@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung Xever maingkeun ⟨את⟩ Yaflet jeung ⟨את⟩ Shomer jeung ⟨את⟩ Xotam jeung ⟨את⟩ Shu'a saderek awéwé maranéhna.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Jeung Xever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "maingkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Xotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Xotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shu'a"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shu'a"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "saderek awéwé maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:25.886160160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Pikeun kadangu ku ceuli maranehna ngadangu ka abdi; putra bangsa deungeun ngaranteur ka abdi.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "pikeun kadangu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ceuli"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "maranehna ngadangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bangsa deungeun"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ngaranteur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:44.606274301Z",
+  "model": "glm-5.3"
+}

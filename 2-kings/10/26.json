@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lajeng aranjeunna mairkeun ⟨את⟩ tihang-tihang imah Baal sarta ngaduruk maranehna.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "mairkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tihang-tihang"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "tihang-tihang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ngaduruk"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:17.485513880Z",
+  "model": "glm-5.3"
+}

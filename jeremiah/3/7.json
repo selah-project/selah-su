@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung abdi ngomong: Sanggeus manéhna ngalakukeun ⟨את⟩ sadaya ieu, 'Balik deui ka abdi!' — tapi manéhna teu balik; jeung Yehudah, dulur awéwéna nu babalén, nempo kana éta.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Jeung abdi ngomong"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "manéhna ngalakukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "manéhna balik"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "nu babalén"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "dulur awéwéna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:22:32.891269373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Ku sumpah anjeun ditumpah, jeung ⟨את⟩ Kuring anjeun ngarampog — bangsa ieu sakabehna.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "ku sumpah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "ditumpah"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ Kuring",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ngarampog"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sakabehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:24.641207867Z",
+  "model": "glm-5.3"
+}

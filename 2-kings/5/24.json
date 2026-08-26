@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta anjeunna asup ka ⟨the⟩ bukit, sarta nyandak ti leungeun maranehna, sarta nunda di imah, sarta ngaleupaskeun ⟨את⟩ jalma-jalma éta, sarta maranehna angkat.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "bukit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ti leungeun maranehna"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "nunda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma-jalma éta"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "angkat"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:32.380576587Z",
+  "model": "glm-5.3"
+}

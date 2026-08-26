@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung anjeun kudu miara ⟨את⟩ parentah jeung ⟨את⟩ katangturan-katangturan jeung ⟨את⟩ hukum-hukum nu Abdi parentahkeun ka anjeun ayeuna pikeun ngalaksanakeunana.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "anjeun kudu miara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "katangturan-katangturan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "katangturan-katangturan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parentahkeun ka anjeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "pikeun ngalaksanakeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:56.066765510Z",
+  "model": "glm-5.3"
+}

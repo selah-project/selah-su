@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung aranjeun nyieun hiji peti tina kai sitim: dua amot satengah panjangna, jeung hiji amot satengah lébarna, jeung hiji amot satengah jangkungna.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Jeung aranjeun nyieun"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dua amot"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jeung satengah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jeung hiji amot"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jeung satengah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lébarna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jeung hiji amot"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jeung satengah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jangkungna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:54.732633335Z",
+  "model": "glm-5.3"
+}

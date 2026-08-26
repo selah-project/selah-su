@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Dina dampal leungeun aranjeunna aranjeunna mawa manéh, ulah sanguhna dampal suku manéh keuna kana batu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "dampal leungeun"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "aranjeunna mawa manéh"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ulah sanguhna"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "keuna"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ka batu"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "dampal suku manéh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:44.713821784Z",
+  "model": "glm-5.3"
+}

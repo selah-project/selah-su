@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Yéhu ngangkat mumuna ka jandéla, sarta ucapanana: Saha ⟨את⟩ aya jeung abdi? Saha? Jeung dua atawa tilu sarisis nénjo ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mumuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jandéla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ucapanana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Saha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aya jeung abdi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Saha"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "nénjo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "sarisis"
+    }
+  ],
+  "timestamp": "2026-08-26T17:34:45.858540237Z",
+  "model": "glm-5.3"
+}

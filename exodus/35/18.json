@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "⟨את⟩ paku-paku Kemah Suci jeung ⟨את⟩ paku-paku pekarangan, jeung ⟨את⟩ tali-taliana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paku-paku Kemah Suci"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "paku-paku"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Kemah Suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "paku-paku pekarangan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "paku-paku"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pekarangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tali-taliana"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "tali-taliana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:11.737295630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Ulah dipasihan, Yahwe, kahayang-kahayang jalma jahat; ulah diheureuyan rencanana, bisi aranjeunana saringgewuh. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dipasihan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "kahayang-kahayang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma jahat"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "rencanana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "diheureuyan"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "saringgewuh"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:05.763019066Z",
+  "model": "glm-5.3"
+}

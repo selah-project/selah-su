@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Perkara anjeun rébutkeun jeung ⟨את⟩ tatangga anjeun, jeung rusiah batur ulah dibuka.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "perkara anjeun"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "rébutkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatangga anjeun"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tatangga anjeun"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "jeung rusiah"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "batur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "dibuka"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:33.981002745Z",
+  "model": "glm-5.3"
+}

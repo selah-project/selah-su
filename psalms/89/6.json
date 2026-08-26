@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Jeung langit-langit maha muji ⟨ieu⟩ kagumunan Anjeun, Yahwe, ogé kasatiaan Anjeun di jemaat nu kuduuci.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "jeung maha muji"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "kagumunan Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasatiaan Anjeun"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "di jemaat"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nu kuduuci"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:58.278045952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Lamun ku parabot beusi manehna ngapigasaun jeung eta maot, mojah manehna; pasti dibunuh nu mojah eta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ku parabot"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "beusi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "manehna ngapigasaun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jeung eta maot"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mojah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti dibunuh"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "nu mojah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:37:47.512377210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sanggeus Yahwe maréka baréjalan; saperti singa manéhna ngagogorowok, sabab manéhna bakal ngagogorowok, sarta barudak bakal ginding ti kulon.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "baréjalan"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "saperti singa"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ngagogorowok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ngagogorowok"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "sarta ginding"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti kulon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:46.650397810Z",
+  "model": "glm-5.3"
+}

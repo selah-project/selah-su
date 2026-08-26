@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Sarta jadi saungna di Shalem, jeung pamondokanana di Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "di Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "saungna"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "jeung pamondokanana"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:02.499994749Z",
+  "model": "glm-5.3"
+}

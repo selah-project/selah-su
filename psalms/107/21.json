@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Munji maranehna nyinggungkeun sukur ka Yahwe pikeun kanyaah satia-Na, jeung kagumang-Na ka barudak manusa!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "munji nyinggungkeun sukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "jeung kagumang-Na"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka barudak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:10.742400618Z",
+  "model": "glm-5.3"
+}

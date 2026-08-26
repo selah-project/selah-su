@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Loba kabagjaan maranehna nu ngajaga katangtuan-hukum, maranehna nu ngalakonan kabeneran dina unggal waktu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Loba kabagjaan"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "maranehna nu ngajaga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katangtuan-hukum"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngalakonan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina unggal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:39.418124324Z",
+  "model": "glm-5.3"
+}

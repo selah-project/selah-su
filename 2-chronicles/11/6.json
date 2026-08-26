@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung anjeunna ngawangun ⟨את⟩ Beit-Lechem jeung ⟨את⟩ Etam jeung ⟨את⟩ Tekoa,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "jeung ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Lechem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Etam"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Tekoa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:03.719936643Z",
+  "model": "glm-5.3"
+}

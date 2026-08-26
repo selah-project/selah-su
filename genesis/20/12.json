@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sarta ogé, sabenerna sédulur awéwé kuring, putri bapa kuring anja; ngan henteu putri indung kuring; sarta anjeunna jadi pamajikan kuring.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sarta-ogé"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "sabenerna"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sédulur-awéwé-kuring"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa-kuring"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anja"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "indung-kuring"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "sarta-jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka-kuring"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi-pamajikan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:26.007041991Z",
+  "model": "glm-5.3"
+}

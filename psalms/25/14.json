@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Saréhaté Yahwe pikeun anu sieun ka-Na, sarta perjangjian-Na pikeun nyaritakeunana",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "saréhaté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "pikeun anu sieun ka-Na"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "sarta perjangjian-Na"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "pikeun nyaritakeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:47.720304091Z",
+  "model": "glm-5.3"
+}

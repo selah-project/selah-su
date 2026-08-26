@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Lajeng anjeunna mawa ⟨את⟩ kurban kaqbangan rahayat, nyandak ⟨את⟩ embé jalu kurban dosa nu pikeun rahayat, nyembelihna, lajeng ngajadikeunana kurban dosa, kawas nu munggaran.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mawa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban kaqbangan"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahayat"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "embé jalu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "embé jalu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pikeun rahayat"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "nyembelihna"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "ngajadikeunana kurban dosa"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "kawas nu munggaran"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:33.671089641Z",
+  "model": "glm-5.3"
+}

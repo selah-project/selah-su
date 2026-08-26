@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Kakuatan gawé-Na dipapandang ka umat-Na, pikeun masrahkeun ka maranehna warisan bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "gawé-Na"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "dipapandang"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ka umat-Na"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pikeun masrahkeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:16.445545120Z",
+  "model": "glm-5.3"
+}

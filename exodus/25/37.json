@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung anjeun bakal nyieun ⟨את⟩ lampu-lampuna, tujuh, jeung ⟨את⟩ lampu-lampuna dibéréskék naék, jeung caangna muru hareupeunana.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "anjeun bakal nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampuna"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampuna"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "dibéréskék naék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampuna"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampuna"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "jeung caangna"
+    },
+    {
+      "surface": "על",
+      "gloss": "muru"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "sisi\/hareup"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "hareupeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:18.552405372Z",
+  "model": "glm-5.3"
+}

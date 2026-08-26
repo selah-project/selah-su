@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Ka Elohim kami geus ngamulyakeun sadapan poé, jeung Jenengan-Mu salawasna kami muji. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "kami geus ngamulyakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadapan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "jeung Jenengan-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "kami muji"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:03.152038501Z",
+  "model": "glm-5.3"
+}

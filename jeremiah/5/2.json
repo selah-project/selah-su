@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sanaos maranehna ngomong, 'Luhur Yahwe hirup', tonggos maranehna sumpah ku dusta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sanaos"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "tonggos"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ku dusta"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sumpah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:22:58.071028981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Jalma lisan jahat moal tetep di bumi; jalma kakasa, musibat ngajarah manehna nepi ka tumbang.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "לשowן",
+      "gloss": "lisan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "tetep"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kakasa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "musibat jahat"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ngajarah manehna"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "nepi ka tumbang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:05.763465469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Dua belas kami, sadulur, putra tina bapa kami; nu hiji euweuh deui, jeung nu bungsu ayeuna jeung ⟨את⟩ bapa kami di tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "sadulur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapa kami"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "euweuh deui"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "jeung nu bungsu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa kami"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapa kami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:29:27.253362932Z",
+  "model": "glm-5.3"
+}

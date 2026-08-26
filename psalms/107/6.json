@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Tuluy aranjeunan ngajerit ka Yahwe dina kasusahna maranehna, tina sesa-sesa kanaheulangna dibébasan",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "tuluy aranjeunan ngajerit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dina kasusahna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aranjeunan"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "tina kanaheulangna"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "dibébasan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:02.338296103Z",
+  "model": "glm-5.3"
+}

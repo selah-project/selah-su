@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung imam ngahontalkeun ⟨את⟩ kurban bakar jeung ⟨את⟩ kurban sajian ka altar, sarta imam ngadamel panebusan pikeun anjeunna, jeung anjeunna jadi beresih.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "jeung ngahontalkeun ka luhur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kurban sajian"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kurban sajian"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ka altar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "sarta ngadamel panebusan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pikeun anjeunna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "jeung anjeunna jadi beresih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:24.508263553Z",
+  "model": "glm-5.3"
+}

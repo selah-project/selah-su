@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 125,
+  "translation": "Yerushalaim — pagunungan ngurilingan anjeunna, jeung Yahwe ngurilingan umat-Na, ti ayeuna nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pagunungan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "jeung Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ti ayeuna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:11.123411571Z",
+  "model": "glm-5.3"
+}

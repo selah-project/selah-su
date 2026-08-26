@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ti Betax jeung ti Berotay, kota-kota Hadadezer, raja Dawid nyandak tambaga loba pisan.",
+  "tokens": [
+    {
+      "surface": "ומבטח",
+      "gloss": "jeung ti Betax"
+    },
+    {
+      "surface": "ומברתי",
+      "gloss": "jeung ti Berotay"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "loba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:00.517553900Z",
+  "model": "glm-5.3"
+}

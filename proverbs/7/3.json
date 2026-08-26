@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ikeunana kana ramo-ramo anjeung, tuliskeunana kana loh jantung anjeung.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ikeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ramo-ramo anjeung"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "tuliskeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "loh"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "jantung anjeung"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:26.458548952Z",
+  "model": "glm-5.3"
+}

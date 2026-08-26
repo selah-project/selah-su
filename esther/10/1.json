@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung raja Achashverosh masangkeun pajeg kana ⟨the⟩ bumi jeung pulo-pulo laut.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "masangkeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "pajeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "jeung pulo-pulo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-26T15:40:24.901220731Z",
+  "model": "glm-5.3"
+}

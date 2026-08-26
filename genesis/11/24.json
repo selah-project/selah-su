@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Naxor hirup salapan jeung dua puluh taun, sarta nimangan ⟨את⟩ Terax.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "salapan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jeung dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sarta nimangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terax"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:46.050102870Z",
+  "model": "glm-5.3"
+}

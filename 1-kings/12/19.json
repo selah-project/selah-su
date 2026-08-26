@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Mangka Yisrael barontak ka imah Dawid nepi ka poé ieu.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "barontak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka imah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:43.500041920Z",
+  "model": "glm-5.3"
+}

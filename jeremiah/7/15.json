@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "jeung abdi baris ngalempar ⟨את⟩ aranjeun ti payuneun abdi, siga abdi geus ngalempar ⟨את⟩ sadaya dulur aranjeun, ⟨את⟩ sadaya katurunan Efrayim.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "jeung abdi baris ngalempar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siga anu"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "abdi geus ngalempar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya dulur aranjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "dulur aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya katurunan Efrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T13:24:31.827468546Z",
+  "model": "glm-5.3"
+}

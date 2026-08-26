@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jadi kajadian dina mangsa Achashverosh — inya Achashverosh, raja nu ngawasa ti Hodu nepi ka Kush, tujuh puluh dua jeung saratus praprovinsi —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dina mangsa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inya"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "ti Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jeung dua puluh"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "jeung saratus"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "praprovinsi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:52.007336443Z",
+  "model": "glm-5.3"
+}

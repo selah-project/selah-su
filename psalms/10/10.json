@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung manehun nanjeurkeun, manunduk, jeung nu sasera ragrag ku kakawasana.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "jeung-nanjeurkeun"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "manunduk"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "jeung-ragrag"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ku-kakawasana"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "nu-sasera"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:18.892382498Z",
+  "model": "glm-5.3"
+}

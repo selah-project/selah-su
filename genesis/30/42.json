@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Tapi lamun domba-domba éta lemah, manéhna henteu nempatkeunana; jadi nu lemah jadi milik Lavan, jeung nu kuat jadi milik Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "tapi lamun lemah"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba-domba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "manéhna nempatkeun"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "nu lemah"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "milik Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "jeung nu kuat"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "milik Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:15.243313845Z",
+  "model": "glm-5.3"
+}

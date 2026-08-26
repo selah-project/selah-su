@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "sarta para imam teu sanggup nangtung ngalayanan alatan ⟨the⟩ kokotor, sabab kabeungbeuratan Yahwe geus ngeusian ⟨את⟩ bumi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ngalayanan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "kokotor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "geus ngeusian"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabeungbeuratan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:36.827030286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung dibeulah-beulahna ⟨את⟩ manehna jadi bagéan-bagéanana, jeung ⟨את⟩ huluna jeung ⟨את }} gajihna; laju imam ngaturan ⟨את⟩ sadayana di luhureun kai nu aya di luhureun seuneu, nu aya di luhureun altar.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "jeung dibeulah-beulahna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manehna"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "jadi bagéan-bagéanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "huluna"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "huluna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gajihna"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "gajihna"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "laju ngaturan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu aya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu aya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:48.299010620Z",
+  "model": "glm-5.3"
+}

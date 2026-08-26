@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Serug hirup sanggeus nimangan ⟨את⟩ Naxor dua ratus taun, sarta nimangan putra-putra jeung putri-putri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nimangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sarta nimangan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jeung putri-putri"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:46.049991341Z",
+  "model": "glm-5.3"
+}

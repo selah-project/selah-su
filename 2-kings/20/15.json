@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung anjeunna nyarita: Naon nu katempo ku aranjeunna di imah anjeun? Jeung Khizkiyahu nyarita: ⟨את⟩ sagala nu aya di imah kuring geus katempo ku aranjeunna; euweuh perkara nu teu kuring pintonkeun ka maranehna di lumbung-lumbung kuring.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung anjeunna nyarita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nu katempo ku aranjeunna"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di imah anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nu aya di imah kuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "di imah kuring"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "geus katempo ku aranjeunna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "kuring pintonkeun ka maranehna"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "di lumbung-lumbung kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:57.998436038Z",
+  "model": "glm-5.3"
+}

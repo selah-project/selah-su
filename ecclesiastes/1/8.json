@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sakabéh ucapan nyapon; henteu sanggup jalma nyarita; henteu wareg panon nempo, sarta henteu pinuh ceuli ti ngadéngé.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ucapan-ucapan"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "nyapon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "wareg"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta henteu"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ceuli"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ti ngadéngé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:44.092968915Z",
+  "model": "glm-5.3"
+}

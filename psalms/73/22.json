@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Tapi abdi kolot teu nyaho; abdi jadi sato ingon-ingon ⟨di gigireun⟩ Anjeun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi abdi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "sato ingon-ingon"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨di gigireun⟩ Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:24.594262793Z",
+  "model": "glm-5.3"
+}

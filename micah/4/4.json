@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung aranjeuna baris diuk, jalma masing-masing dina sahandapeun anggurna jeung dina sahandapeun tinana, jeung euweuh nu ngarieuk; sabab baham Yahwe Tzevaot geus ngendag.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "jeung aranjeuna baris diuk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma masing-masing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dina sahandapeun"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "anggurna"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "jeung dina sahandapeun"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "tinana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "nu ngarieuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geus ngendag"
+    }
+  ],
+  "timestamp": "2026-08-26T14:13:08.051750964Z",
+  "model": "glm-5.3"
+}

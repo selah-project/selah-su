@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "dina poé-poé harita, nalika raja Achashverosh diuk dina korsi karajaanana, nu aya di Shushan ⟨si bénténg⟩.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "dina poé-poé"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "harita"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "nalika diuk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "korsi"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajaanana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "di Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "si bénténg"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:52.007534721Z",
+  "model": "glm-5.3"
+}

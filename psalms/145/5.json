@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Kageulisan kabungahan kawijayanana, jeung karya-karya kagok anjeun, abdi bade ngarentalkaunan.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "kageulisan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabungahan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kawijayanana"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "jeung karya-karya"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kagok anjeun"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "abdi bade ngarentalkaunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:18.035598114Z",
+  "model": "glm-5.3"
+}

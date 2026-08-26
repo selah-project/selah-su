@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "jeung anjeun bakal mikanyaah ka ⟨את⟩ Yahwe, Elohim anjeun, ku sadaya hate anjeun, ku sadaya nyawa anjeun, jeung ku sadaya kakuatan anjeun.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "anjeun bakal mikanyaah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sadaya"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hate anjeun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung ku sadaya"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung ku sadaya"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "kakuatan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:47.141288516Z",
+  "model": "glm-5.3"
+}

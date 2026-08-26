@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung kuring muji ⟨את⟩ nu paéh nu geus ti heula paéh, leuwih ti nu hirup nu maranehna kénéh hirup nepi ka ayeuna.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "jeung kuring muji"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu paéh"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "nu paéh"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "nu geus ti heula"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "leuwih ti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "nepi ka ayeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:19.497710552Z",
+  "model": "glm-5.3"
+}

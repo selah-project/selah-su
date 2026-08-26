@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lajeng ngomong abdi-abdi raja nu aya di panto raja ka Mordekai: Naha anjeun ngalanggar ⟨את⟩ parentah raja?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lajeng ngomong"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ka Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "naha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ngalanggar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah raja"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T15:38:08.069402883Z",
+  "model": "glm-5.3"
+}

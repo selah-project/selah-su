@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sabab aranjeun terang ⟨את⟩ nu urang cicing di tanah Mitsrayim, jeung ⟨את⟩ nu urang ngaliwat di tengah bangsa-bangsa nu aranjeun liwatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aranjeun"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "terang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu urang cicing di tanah Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "urang cicing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu urang ngaliwat di tengah bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "urang ngaliwat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "aranjeun liwatan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:13.993268210Z",
+  "model": "glm-5.3"
+}

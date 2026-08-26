@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Ngébrehkeun kecap-Na ka Yaakov, katangtuan-Na jeung hukum-hukum-Na ka Yisrael.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "ngébrehkeun"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kecap-Na"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ka Yaakov"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "katangtuan-Na"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "hukum-hukum-Na"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ka Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:43.495158328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Selametkeun abdi, wahai Elohim, sabab cai geus datang nepi ka jiwa.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "selametkeun abdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geus datang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:49.526751569Z",
+  "model": "glm-5.3"
+}

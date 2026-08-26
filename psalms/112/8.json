@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Ditopang atina, moal sieun, nepi ka ⇔ mangsa ⇔ anjeunna nempo ⟨kameunangna ka⟩ musuh-musuhna.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "ditopang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⇔ mangsa ⇔"
+    },
+    {
+      "surface": "ייראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "musuh-musuhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:05.917883185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Raja Bavel ngabéhak ⟨את⟩ putra-putra Tsidkiyahu di payuneun panonna, ogé ⟨את⟩ sakabéh pangpungu Yehuda dibéhak di Rivlah.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ngabéhak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "di payuneun panonna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh pangpungu Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangpungu-pangpungu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "dibéhak"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "di Rivlah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:43:15.779632067Z",
+  "model": "glm-5.3"
+}

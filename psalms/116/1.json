@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Kuring mikacinta, sabab Yahwe ngadangu ⟨את⟩ sora kuring, pamenta-pamenta kahadean kuring.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "kuring mikacinta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora kuring"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora kuring"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pamenta-pamenta kahadean kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:38.286472286Z",
+  "model": "glm-5.3"
+}

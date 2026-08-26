@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna nyieun dua kerub emas, karya titempa; anjeunna nyieun ⟨את⟩ aranehna di dua tungtung tutup-pangampura.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung anjeunna nyieun"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "karya titempa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anjeunna nyieun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranehna",
+      "marks": "aranehna"
+    },
+    {
+      "surface": "משני",
+      "gloss": "di dua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup-pangampura"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:11.329360164Z",
+  "model": "glm-5.3"
+}

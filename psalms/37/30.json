@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Bekas nu bener-bener ngucapkeun hikmah, jeung létahna nyaritakeun katangtu anu adil.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "bekas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener-bener"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ngucapkeun"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "jeung létahna"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katangtu anu adil"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:14.181808592Z",
+  "model": "glm-5.3"
+}

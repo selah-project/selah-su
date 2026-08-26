@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung anjeunna ngotéak ⟨את⟩ anak-domba jantan di tempat di mana anjeunna ngotéak ⟨את⟩ kurban dosa jeung ⟨את⟩ kurban bakaran, di tempat ⟨nu⟩ suci; sabab saperti kurban dosa, kurban salah ogé ⟨milik⟩ imam ⟨éta⟩ — suci-mahasuci ⟨éta⟩.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "jeung anjeunna ngotéak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-domba jantan"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak-domba jantan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "anjeunna ngotéak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban dosa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nu suci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "saperti kurban dosa"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "kurban salah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ogé éta"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "milik imam"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mahasuci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:28.058132832Z",
+  "model": "glm-5.3"
+}

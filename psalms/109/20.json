@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Ieu balas-pagawéan musuh-panutuh kuring ti sisi Yahwe ⟨את⟩, jeung pikeun nu ngomongkeun goreng ngeunaan nyawa kuring.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "balas-pagawéan"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "musuh-panutuh kuring"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti sisi ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "jeung nu ngomongkeun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "goreng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:57.633673512Z",
+  "model": "glm-5.3"
+}

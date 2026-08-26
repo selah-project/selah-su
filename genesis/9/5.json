@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung sangkan getih anjeun, getih hirup-anjeun, kuring wajib mayar ti leungeun sagala sato hirup kuring wajib mayar éta, jeung ti leungeun manusa — ti leungeun dulur-séjina kuring wajib mayar ⟨את⟩ nyawa manusa.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "jeung sangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih anjeun"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "getih anjeun"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "hirup-anjeun"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "kuring wajib mayar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sato hirup"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "kuring wajib mayar éta"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "jeung ti leungeun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "séjina"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulur"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "kuring wajib mayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa manusa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:13.747360712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Lajeng ngantosan deui tujuh poé nu lian, sarta nambah deui ngirim ⟨את⟩ japati kaluar tina bahtera.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ngantosan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nu lian"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "nambah deui"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "japati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "japati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:40.427434967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Elohim ngandika: ‘Jadih rékia di tengah-tengah cai, jeung jadih ngabédakeun antawis cai jeung cai.’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jadih"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rékia"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jeung jadih"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ngabédakeun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antawis"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "למים",
+      "gloss": "jeung cai"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:23.408052997Z",
+  "model": "glm-5.3"
+}

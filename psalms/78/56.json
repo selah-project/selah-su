@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Tapi maranehna ngagoda jeung ngalawan ⟨את⟩ Elohim Elyon, jeung pasaksian-Panja teu dijaga.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ngagoda"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "jeung pasaksian-Panja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "dijaga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:44.874357065Z",
+  "model": "glm-5.3"
+}

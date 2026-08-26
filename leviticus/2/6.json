@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Pepecahkeun ⟨את⟩ éta roti jadi potongan-potongan, lajeng kaula ngocorkeun minyak ka luhurna — minchah ⟨eta⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "pepecahkeun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "potongan-potongan"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "jadi potongan-potongan"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "lajeng kaula ngocorkeun"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka luhurna"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:09.081769114Z",
+  "model": "glm-5.3"
+}

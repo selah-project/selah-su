@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Najan teu Anjeun, ó Elohim, nu nyingkirkeun kami, jeung Anjeun teu kaluar, ó Elohim, jeung pasukan kami?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Najan teu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "nu nyingkirkeun kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "jeung pasukan kami"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:12.600477531Z",
+  "model": "glm-5.3"
+}

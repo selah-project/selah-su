@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Sora penjaga-penjaga anjeun! Aranjeunna ngangkat sora, babarengan aranjeunna johog nyanyi; sabab panon ngahapétkeun panon aranjeunna nempo, dina mulangna Yahwe ka Tsiyon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sora"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "penjaga-penjaga anjeun"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "johog nyanyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ngahapétkeun panon"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "dina mulangna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:21.782103874Z",
+  "model": "glm-5.3"
+}

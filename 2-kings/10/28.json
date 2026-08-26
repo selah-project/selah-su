@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jadi Yehu museuhkeun ⟨את⟩ Baal ti Israél.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "museuhkeun"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ti Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:17.485794718Z",
+  "model": "glm-5.3"
+}

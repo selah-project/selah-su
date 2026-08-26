@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung jalma-jalma suci anjeun jadi keur Kami; daging sasatoan nu diragragkeun di lapangan nu jadi tarépa ulah anjeun dahar; ka asu anjeun ngalungkeun ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "jeung jalma-jalma"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "anjeun jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur Kami"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "jeung daging"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di lapangan"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "tarépa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "anjeun dahar"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ka asu"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "anjeun ngalungkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daging tarépa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:36.672255072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung Yéhosyua ngadangu ⟨את⟩ sora ⟨the⟩ balay haroreas, sarta anjeunna nyarita ka Moshe: sora perang aya di kempang!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "haroreas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di kempang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:05.884735339Z",
+  "model": "glm-5.3"
+}

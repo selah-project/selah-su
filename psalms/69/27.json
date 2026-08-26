@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Sabab maranéha ngudag nu Anjeun geus narajang, jeung ngocakeun kasangsaraan tatapak Anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "geus narajang"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "maranéha ngudag"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ngeunaan"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kasangsaraan"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "tatapak Anjeun"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ngocakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:23.177378790Z",
+  "model": "glm-5.3"
+}

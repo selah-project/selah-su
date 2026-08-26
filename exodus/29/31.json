@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung ⟨את⟩ domba jantan panahbisan ku anjeun nyandak, jeung anjeun ngagolakkeun ⟨את》 dagingna di tempat suci.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan panahbisan"
+    },
+    {
+      "surface": "איל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "panahbisan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "anjeun nyandak"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "jeung anjeun ngagolakkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:04.527770167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Manéhna pancén di luhur ⟨את⟩ kerub sarta ngahiber, nerbang luhur jangjang angin.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "jeung manéhna pancén"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "sarta ngahiber"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "nerbang"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "jangjang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:32.345849229Z",
+  "model": "glm-5.3"
+}

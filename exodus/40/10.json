@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeun bakal ngalisahan ⟨את⟩ mémbah sangganjeun jeung ⟨את⟩ sagala parabotna, jeung anjeun bakal nyucikeun ⟨את⟩ mémbah éta, jeung mémbah éta bakal jadi suci nu panglingsuhna.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "jeung anjeun bakal ngalisahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mémbah sangganjeun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mémbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sangganjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala parabotna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jeung anjeun bakal nyucikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mémbah éta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mémbah éta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jeung bakal jadi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mémbah éta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nu panglingsuhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:05.246018732Z",
+  "model": "glm-5.3"
+}

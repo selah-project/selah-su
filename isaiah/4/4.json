@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Mangka lamun Adonay geus ngeuyeuh ⟨את⟩ kotoran awéwé Tsiyon, jeung ⟨את⟩ getih Yerushalaim geus diumbah ti tengah-tengahna, ku roh hukum jeung ku roh ngahurung.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mangka lamun"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ngeuyeuh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotoran awéwé Tsiyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kotoran"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "getih Yerushalaim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getih"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "diumbah kaluar"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "ti tengah-tengahna"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ku roh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "jeung ku roh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ngahurung"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:44.406203488Z",
+  "model": "glm-5.3"
+}

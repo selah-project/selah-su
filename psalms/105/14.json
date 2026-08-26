@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Teu dibéantepan saurang manusa pikeun nindas aranjeunna, jeung dipaluruh raja-raja alatan aranjeunna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "dibéantepan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "saurang manusa"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "pikeun nindas aranjeunna"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "jeung dipaluruh"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "alatan aranjeunna"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:20.066009467Z",
+  "model": "glm-5.3"
+}

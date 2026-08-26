@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Muga-muga jalma-jalma kuring dililasan—hoyong kuring jalan-jalan kuring tetep ngajaga katangtuan-katangtuan anjeun.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "muga-muga"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "tetep"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan kuring"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ngajaga"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katangtuan-katangtuan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:51.881348660Z",
+  "model": "glm-5.3"
+}

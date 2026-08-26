@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung putra-putra Kaïn, mintuhuna Moshe, naek ti kota aren-aren babareangan jeung putra-putra Yéhuda ka gurun Yéhuda nu aya di kidul Arad; maranéhna indit sarta dumuk jeung ⟨את⟩ éta bangsa.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "Kaïn"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mintuhuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "maranéhna naek"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ti kota"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "aren-aren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "putra-putra Yéhuda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ka gurun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di kidul"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Arad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "maranéhna indit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maranéhna dumuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "éta bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": " éta bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:45.994022230Z",
+  "model": "glm-5.3"
+}

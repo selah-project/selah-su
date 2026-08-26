@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Yahwe ngalaksanakeun ⟨את⟩ kecap éta isuk-isuk, sarta maot sagala ingon-ingon ⟨the⟩ Mesir; tapi tina ingon-ingon anak-anak Yisrael teu aya nu maot, sanés hiji.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap éta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sarta maot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "tina ingon-ingon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:15.942298687Z",
+  "model": "glm-5.3"
+}

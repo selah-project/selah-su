@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sarta Avimelex nyarita ka Avraham: Naon anu katingali ku anjeun, nepi ka anjeun pigawé ⟨את⟩ perkara ieu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta-nyarita"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "katingali-ku-anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "pigawé-ku-anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:26.006678509Z",
+  "model": "glm-5.3"
+}

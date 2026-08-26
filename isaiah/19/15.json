@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung moal aya keur Mesir karya nu bisa dilakukeun — sirah atawa buntut, daun korma atawa jukut riya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "keur Mesir"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bisa dilakukeun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "atawa buntut"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "daun korma"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "atawa jukut riya"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:35.389793909Z",
+  "model": "glm-5.3"
+}

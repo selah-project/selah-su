@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 15:20",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Kemarin anjeun datang, ayeuna kuring mawa anjeun ngojay jeung urang pikeun indit? Ari abdi indit ka nu abdi indit ka dituna. Balik deui, jeung mawa balik ⟨את⟩ sadulur-sadulur anjeun jeung anjeun, dina xesed jeung kajujuran.",
+  "tokens": [
+    {
+      "surface": "תמול",
+      "gloss": "kemarin"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "anjeun datang"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "אנועך",
+      "gloss": "kuring mawa anjeun ngojay"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "jeung urang"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pikeun indit"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ari abdi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "jeung mawa balik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulur-sadulur anjeun"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadulur-sadulur anjeun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed (kanyaah satia)"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jeung kajujuran"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:12.295888616Z",
+  "model": "glm-5.3"
+}

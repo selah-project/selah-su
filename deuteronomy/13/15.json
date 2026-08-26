@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 13:15",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Anjeun kudu ngatalungtik, sarta ngarungkik, sarta naros kalawan bener-bener; sarta upami lah, enya bener, pasti hal éta — geus dipigawé pikanyrihna ieu di tengah-tengah anjeun —",
+  "tokens": [
+    {
+      "surface": "ודרשת",
+      "gloss": "sarta anjeun kudu ngatalungtik"
+    },
+    {
+      "surface": "וחקרת",
+      "gloss": "sarta ngarungkik"
+    },
+    {
+      "surface": "ושאלת",
+      "gloss": "sarta naros"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "kalawan bener-bener"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sarta upami lah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "enya bener"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hal éta"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "geus dipigawé"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "pikanyrihna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di tengah-tengah anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:43.815908668Z",
+  "model": "glm-5.3"
+}

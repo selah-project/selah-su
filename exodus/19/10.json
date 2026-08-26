@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sanggeus kitu Yahwe nyarita ka Moshe: \"Jeung ka rakyat, sarta sanggakeun maranehna ayeuna jeung isukan, jeung maranehna kudu ngumbah pakéanana.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "sanggakeun maranehna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "jeung isukan"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "jeung maranehna ngumbah"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "pakéanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:11.995472325Z",
+  "model": "glm-5.3"
+}

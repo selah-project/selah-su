@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Ari abdi, geus ngingkeun raja abdi di luhureun Tsiyon, gunung kasucian abdi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ari abdi"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "geus ngingkeun"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja abdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "׸קדשי",
+      "gloss": "kasucian abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:48.238230060Z",
+  "model": "glm-5.3"
+}

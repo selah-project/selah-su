@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sarta sucikeun diri maraneh, jadi maraneh suci, sabab kuring ⟨⟨yahwe⟩⟩ Elohim maraneh.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "sarta sucikeun diri maraneh"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "jadi maraneh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "suci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim maraneh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:15.562181733Z",
+  "model": "glm-5.3"
+}

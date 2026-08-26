@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ti sasatoan nu bersih, jeung ti sasatoan nu teu bersih, jeung ti manuk-manuk, jeung ti sadayana nu ngarayap di luhureun taneuh.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sasatoan"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "nu bersih"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jeung ti"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sasatoan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "teu"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jeung ti"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manuk-manuk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ngarayap"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:35.305023598Z",
+  "model": "glm-5.3"
+}

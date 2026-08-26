@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Tuluy Ravshakeh balik deui, sarta mendakan ⟨את⟩ raja Ashur keur perang ngalawan Livnah, sabab anjeunna ngadangeun yén anjeunna geus pindah ti Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tuluy balik deui"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "sarta mendakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "keur perang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "geus pindah"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ti Lakhish"
+    }
+  ],
+  "timestamp": "2026-08-26T13:11:44.908803432Z",
+  "model": "glm-5.3"
+}

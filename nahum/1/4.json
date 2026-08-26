@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ngoma ka laut sarta ngabaluarkeun ⟨kitsa⟩; sakuliah walungan dirobih jadi karang; Bashan layu, sarta Karmel, sarta kembang Libanon layu.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "ngoma"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ka laut"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "sarta ngabaluarkeun ⟨kitsa⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakuliah"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "dirobih jadi karang"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "layu"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "sarta Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "sarta kembang"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "layu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:14:14.861394062Z",
+  "model": "glm-5.3"
+}

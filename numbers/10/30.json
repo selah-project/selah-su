@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Ngomong manéhna ka anjeunna: Henteu kuring indit, tapi ka nagari kuring jeung ka tanah kalahiran kuring kuring indit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuring indit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "nagari kuring"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "tanah kalahiran kuring"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuring indit"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:18.109712947Z",
+  "model": "glm-5.3"
+}

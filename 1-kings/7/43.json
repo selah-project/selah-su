@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta ⟨את⟩ sapuluh pancret, sarta ⟨את⟩ sapuluh tempat siram di luhur pancret-pancret.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "sapuluh pancret"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pancret"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "sapuluh tempat siram"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "tempat siram"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pancret-pancret"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:14.299857188Z",
+  "model": "glm-5.3"
+}

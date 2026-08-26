@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung Shaol ngadangu kana sara Yonatan, sarta Shaol ngasumpah: \"Dinanya Yahwe hirup, manéhna moal dipaéhan.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Jeung Shaol ngadangu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kana sara"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "sarta ngasumpah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dinanya"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dipaéhan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:50.353618230Z",
+  "model": "glm-5.3"
+}

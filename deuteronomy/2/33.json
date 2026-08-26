@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Yahwe Elohim urang masrahkeun manéhna ka payuneun urang, tuluy urang pukulaneun ⟨את⟩ manéhna jeung ⟨את⟩ putra-putrana jeung ⟨את⟩ sagala jalmana.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "masrahkeun-manéhna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-urang"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ka-payuneun-urang"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "tuluy-urang-pukulaneun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "sagala jalmana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jalmana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:58.250535817Z",
+  "model": "glm-5.3"
+}

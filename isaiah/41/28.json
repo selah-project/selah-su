@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Sareng kuring nénjo, tapi euweuh jalma; sareng di antara maranehna euweuh nu méré nasihat; sareng kuring nanya ka maranehna, tapi maranehna euweuh nu ngajawab kecap.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "kuring nénjo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi euweuh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "di antara maranehna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "nu méré nasihat"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "kuring nanya ka maranehna"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "maranehna ngajawab"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:32.413176977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Ukur tempat-tempat luhur teu kacepeng; can kénéh balaréalanana nganaikkeun kurban jeung ngaseukna dupa di tempat-tempat luhur.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ukur"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "tempat-tempat luhur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "kacepeng"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "can kénéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréalanana"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nganaikkeun kurban"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ngaseukna dupa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di tempat-tempat luhur"
+    }
+  ],
+  "timestamp": "2026-08-26T16:57:13.395103591Z",
+  "model": "glm-5.3"
+}

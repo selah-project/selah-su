@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung tangkal ngorondok bakal kaluar tina tunggul Yishai, jeung cabang tina akar-akarna baris buah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bakal kaluar"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "tangkal ngorondok"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "tina tunggul"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "jeung cabang"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "tina akar-akarna"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "baris buah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:20.811027041Z",
+  "model": "glm-5.3"
+}

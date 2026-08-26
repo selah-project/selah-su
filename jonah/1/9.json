@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung anjeunna ngomong ka maranehna: Urang-Ibrani kuring; sarta ⟨את⟩ Yahwe, Elohim ⟨the⟩ langit-langit, kuring uuhan — nu nyieun ⟨את⟩ laut jeung ⟨את⟩ darat garing.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Urang-Ibrani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "uuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darat garing"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "darat garing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:10.549963375Z",
+  "model": "glm-5.3"
+}

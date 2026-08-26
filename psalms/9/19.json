@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sebab lain salawasna nu katirisan dipoho, pangaresep nu léméh moal musna salamina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "dipoho"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nu katirisan"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "pangaresep"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nu léméh"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "moal musna"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:21.345602265Z",
+  "model": "glm-5.3"
+}

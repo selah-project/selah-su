@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 22:31",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Raja Aram maréntahkeun ⟨את⟩ pangawasa kareta-kareta nu bogana — tilu puluh dua — sangkan: ulah perang jeung ⟨את⟩ nu leutik jeung ⟨את⟩ nu badag, iwal ti ⟨את⟩ raja Israyel wungkul.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "pon raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangawasa kareta-kareta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kareta-kareta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bogana"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu leutik"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "nu leutik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu badag"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nu badag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iwal ti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja Israyel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wungkul"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:40.064811408Z",
+  "model": "glm-5.3"
+}

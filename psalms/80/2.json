@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Nu ngangon Israél, sanggakeun ceuli! Nu mawa Yoséf sarupa domba, nu calik di luhur ⟨kerubim⟩ — kasampakna buhun!",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Nu ngangon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "sanggakeun ceuli"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "Nu mawa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sarupa domba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nu calik"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "⟨kerubim⟩"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "kasampakna buhun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:22.858696125Z",
+  "model": "glm-5.3"
+}

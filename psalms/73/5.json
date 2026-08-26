@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Dina kasusah manusa fana maranéhna euweuh, jeung jeung ⟨manusa⟩ lian maranéhna teu disampeureunkeun.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "dina kasusah"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa fana"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "maranéhna euweuh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung jeung"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨manusa⟩ lian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "disampeureunkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:27.265644979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sakabéh kota nu aranjeun masiskeun ka urang Levi: opat puluh dalapan kota, ⟨את⟩ aranjeunna jeung ⟨את⟩ palataranana.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "masiskeun"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ka-urang-Levi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat-puluh"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "jeung-dalapan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "palataranana"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "palataranana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:13.767464588Z",
+  "model": "glm-5.3"
+}

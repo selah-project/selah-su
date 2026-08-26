@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Nepi ka iraha, Elohim, mugelar ngejek musuh; ngejek mahlukan nu ngarugrik ngaran-Mu salawasna?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "mugelar ngejek"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ngejek ngarugrik"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mahlukan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran-Mu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:34.410612836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung lamun anjeun nyaritakeun ⟨את⟩ perkara kami ieu, kami barjadi bebas tina sumpah anjeun nu anjeun geus sumpahkeun ka kami.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "anjeun nyaritakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara kami ieu"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "perkara kami"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "kami barjadi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "bebas"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "tina sumpah anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "anjeun sumpahkeun ka kami"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:39.484066084Z",
+  "model": "glm-5.3"
+}

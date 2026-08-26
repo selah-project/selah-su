@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta ⟨את⟩ laut nu hiji, sarta ⟨את〉 dua belas embé di handapeun laut.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "laut nu hiji"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "dua belas embé"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "embé"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:14.299992924Z",
+  "model": "glm-5.3"
+}

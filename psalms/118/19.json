@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Buka pikeun kuring gerbang-gerbang kabeneran, kuring asup ka jerona, kuring muji Yah.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "buka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun kuring"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "gerbang-gerbang"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "kuring asup"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka jerona"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "kuring muji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:35.040049640Z",
+  "model": "glm-5.3"
+}

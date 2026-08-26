@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung raja ngomong ka Tsadok: \"Balikkeun ⟨את⟩ peti Elohim ka ⟨the⟩ kota; lamun kuring nimu karunia di panon Yahwe, anjeunna baris mulangkeun abdi, sarta nembongkeun ka abdi ⟨את⟩-na jeung ⟨את⟩ paimahan-Na.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "ka Tsadok"
+    },
+    {
+      "surface": "השב",
+      "gloss": "balikkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "kuring nimu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "karunia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "anjeunna baris mulangkeun abdi"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "sarta nembongkeun ka abdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "paimahan-Na"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "paimahan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:44.346407214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Ulah dijieun pikeun anjeun patung, sagambar bentuk naon waé anu aya di langit-langit luhureun, jeung anu aya di bumi handapeun, jeung anu aya di cai handapeun bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagambar naon waé"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "bentuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit-langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung anu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "handapeun"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung anu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di cai"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "handapeun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:24.479951291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung anjeunna ngorbankeun ⟨את⟩ sakabéh imam-imam tempat luhur nu aya di dinya, di luhur altar-altar, sarta anjeunna ngaduruk ⟨את⟩ tulang-tulang manusa di luhurna; teras anjeunna balik deui ka Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "jeung anjeunna ngorbankeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "tempat luhur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altar-altar"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "sarta anjeunna ngaduruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di luhurna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "teras anjeunna balik deui"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:42.844720494Z",
+  "model": "glm-5.3"
+}

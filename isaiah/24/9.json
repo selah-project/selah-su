@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Teu jeung kawih maraneh nginum anggur; jadi pait minuman-henteu pikeun nu nginum.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "teu jeung kawih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "maraneh nginum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "jadi pait"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman-henteu"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "pikeun nu nginum"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:34.285512943Z",
+  "model": "glm-5.3"
+}

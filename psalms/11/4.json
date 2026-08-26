@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Yahwe aya di bale sucina, Yahwe di langit tahtana; panon-Na nénjo, bulu panon-Na nguji anak-anak manusa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di bale"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tahtana"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "panon-Na"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "nénjo"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "bulu panon-Na"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "nguji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:36.968170442Z",
+  "model": "glm-5.3"
+}

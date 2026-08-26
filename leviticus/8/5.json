@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Moshe nyarita ka balaréan: ieu ⟨mangrupa⟩ perkara nu diparéntahkeun ku Yahwe pikeun dilakukeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "balaréan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun dilakukeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:46.964195339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 17:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "sarta teu mawa ⟨את⟩-na ka panto kemah patepung, pikeun midangkeun kurban ka Yahwe payune padumukan Yahwe, getih moal diperkirakeun ka jalma éta; getih geus disikeut; sarta jalma éta bakal diteungpeulkeun tina tengah bangsana.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "sarta ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "-na (sapi\/domba\/embé)"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "pikeun midangkeun"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "payune"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "padumukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "diperkirakeun"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka jalma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "disikeut"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "sarta diteungpeulkeun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "tina tengah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bangsana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:00.618362084Z",
+  "model": "glm-5.3"
+}

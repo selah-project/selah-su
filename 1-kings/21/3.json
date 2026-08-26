@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Teras Navot ngomong ka Axab: Sumputkeunana abdi ti Yahwe, ⟨את⟩ méré ⟨את⟩ warisan karuhun abdi ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחא布",
+      "gloss": ""
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "sumputkeunana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ti Yahwe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "⟨את⟩ méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisan karuhun abdi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "karuhun abdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:47:33.041479018Z",
+  "model": "glm-5.3"
+}

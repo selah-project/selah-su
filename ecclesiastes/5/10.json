@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Dina ngaronjatna harta, nu ngahakanana ogé nambah; naon untungna pikeun nu bogana, iwal ti nempo ku panonna?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "dina ngaronjatna"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "harta"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "nu ngahakanana"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "untung"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "pikeun nu bogana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iwal"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ku panonna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:07.195117824Z",
+  "model": "glm-5.3"
+}

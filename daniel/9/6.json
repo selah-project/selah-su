@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 9:6",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung kami teu ngadangu ka abdi-abdi Anjeun, nyaéta para nabi, nu nyarita ku ngaran Anjeun, ka raja-raja kami, ka pangawasa kami, jeung ka bapa-bapa karuhun kami, sarta ka sakabéh jalma ⟨di⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kami ngadangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdi Anjeun"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nyaéta para nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ku ngaran Anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלכינו",
+      "gloss": "raja-raja kami"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "pangawasa kami"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "jeung bapa-bapa karuhun kami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sarta ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:48:10.930362185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Nepi ka iraha, Yahwe, ⟨méh⟩ jalma-jalma jahat — nepi ka iraha jalma-jalma jahat bakal bagéa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "bakal bagéa"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:22.118506873Z",
+  "model": "glm-5.3"
+}

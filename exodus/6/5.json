@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sarta ogé kuring geus ngadangu ⟨את⟩ sambung ratok putra-putra Yisrael nu ku Mitsrayim dipepeunghjeng, sarta kuring émut ⟨את⟩ perjangjian kuring.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sarta ogé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "geus ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sambung ratok"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "sambung ratok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ku Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "dipepeunghjeng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunna"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "sarta kuring émut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian kuring"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:57.710894Z",
+  "model": "glm-5.3"
+}

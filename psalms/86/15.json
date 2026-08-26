@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Tapi Anjeu, Adonay, ⟨⟨are⟩> El nu soca, jeung nu welas asih, singget ka ambek, jeung lobana kanyaah satia perjangjian jeung kasatia.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Anjeu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "nu soca"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "jeung nu welas asih"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "singget"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ka ambek"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jeung lobana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kanyaah satia perjangjian"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jeung kasatia"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:48.947307841Z",
+  "model": "glm-5.3"
+}

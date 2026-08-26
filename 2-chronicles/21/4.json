@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Tuluy Yehoram ngadeg di luhur karajaan bapana, sarta nguatkeun manéh, sarta maéhan ⟨את⟩ sadaya sabarayaana ku pedang, ogé sabagian pangpungu Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "nguatkeun manéh"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya sabarayaana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sabarayaana"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "pangpungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T16:26:31.396075728Z",
+  "model": "glm-5.3"
+}

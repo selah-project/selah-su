@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Jeung mun abdi mikir hayang nyaho ieu, éta mangrupa rarasaan hésé di panon abdi.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "jeung mun abdi mikir"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hayang nyaho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "rarasaan hésé"
+    },
+    {
+      "surface": "היא",
+      "gloss": "éta mangrupa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di panon abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:13.773260736Z",
+  "model": "glm-5.3"
+}

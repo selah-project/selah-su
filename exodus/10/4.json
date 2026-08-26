@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sabab upama anjeun nolit palèes ⟨את⟩ bangsa abdi, tingali, isukan abdi mawa arbé kana wawatesan anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nolit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "palèes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa abdi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangsa abdi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "abdi mawa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "isukan"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "arbé"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "kana wawatesan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:49.288661113Z",
+  "model": "glm-5.3"
+}

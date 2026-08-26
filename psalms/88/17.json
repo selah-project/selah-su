@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Kana abdi kamurkaan-Mu geus ngaliwat; ku biut-biut-Mu abdi dipupus.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "kana abdi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "geus ngaliwat"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "kamurkaan-Mu"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "biut-biut-Mu"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "dipupus abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:17.345725631Z",
+  "model": "glm-5.3"
+}

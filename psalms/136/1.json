@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Pujian ka Yahwe, sabab ⟨manehna⟩ alus, sabab salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pujian"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.148106998Z",
+  "model": "glm-5.3"
+}

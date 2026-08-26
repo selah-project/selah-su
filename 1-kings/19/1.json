@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Achav ngabejaan ka Izevel ⟨את⟩ sadayana anu dipigawé ku Eliyahu, sareng ⟨את⟩ sadayana anu dipaéhanana ⟨את⟩ sadayana nabina ku pedang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ngabejaan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ka Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ku Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sareng ⟨את⟩",
+      "marks": "sadayana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dipaéhanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana nabina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabina"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    }
+  ],
+  "timestamp": "2026-08-26T16:56:32.050796641Z",
+  "model": "glm-5.3"
+}

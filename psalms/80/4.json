@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Elohim, balikeun urang deui, caanganna raray-Mu, tapi urang moal disalametkeun.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "balikeun urang deui"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "caanganna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raray-Mu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "urang moal disalametkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:22.859007422Z",
+  "model": "glm-5.3"
+}

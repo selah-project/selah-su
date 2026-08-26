@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Deukeutan ka nefesh kuring, tupulkan; sabab musuh-musuh kuring, bibasanan kuring.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Deukeutan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "tupulkan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuh kuring"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "bibasanan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:16.006870759Z",
+  "model": "glm-5.3"
+}

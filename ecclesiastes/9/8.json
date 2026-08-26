@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Dina sagala waktu baju anjeun kudu bodas, sarta minyak dina luhureun sirah anjeun ulah euweuh.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dina sagala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "baju anjeun"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "bodas"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "sarta minyak"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina luhureun"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "sirah anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "euweuh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:14.558536474Z",
+  "model": "glm-5.3"
+}

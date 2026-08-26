@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Sabab Avraham ngadangu sora abdi, sarta ngajaga jagongan abdi, parentah abdi, aturan abdi, jeung torat abdi.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sora abdi"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "sarta ngajaga"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "jagongan abdi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah abdi"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "aturan abdi"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "jeung torat abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:05.622265533Z",
+  "model": "glm-5.3"
+}

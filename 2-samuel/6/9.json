@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jadi David sieun ka ⟨את⟩ Yahwe dina poé éta, sarta anjeunna ngomong: Kumaha tabut Yahwe bakal asup ka kuring?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "jadi sieun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta anjeunna ngomong"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bakal asup"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:54.934919886Z",
+  "model": "glm-5.3"
+}

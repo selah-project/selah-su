@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Anu dina leungeun-Na ⟨aya⟩ nefesh ti sadaya nu hirup, jeung ruang ti sadaya daging jalma.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Anu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dina leungeun-Na"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jeung ruang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    }
+  ],
+  "timestamp": "2026-08-26T15:08:26.040355030Z",
+  "model": "glm-5.3"
+}

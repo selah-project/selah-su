@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Sabab sarébu taun dina panon Anjeun kawas poé kamari, sabot geus léwat, jeung kawas gilitan peuting.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sarébu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "dina panon Anjeun"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kawas poé"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "kamari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabot"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "geus léwat"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "jeung kawas gilitan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "peuting"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:53.001192660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung panyawula anjeun boga dua putra, jeung maranéhna dua papaséaan di sawah, euweuh nu ngapisahkeun di antara maranéhna, jeung nu hiji ngarampas megat nu hijiina jeung maotkeun manéhna.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "jeung panyawula anjeun"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "papaséaan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "maranéhna dua"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di sawah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nu ngapisahkeun"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "di antara maranéhna"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "megat"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu hijiina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hijiina"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maotkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:43.494911619Z",
+  "model": "glm-5.3"
+}

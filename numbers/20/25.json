@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Alihkeun ⟨את⟩ Aharon jeung ⟨את⟩ Elazar putrana, sarta naékkeun ⟨את⟩ aranjeunna ka Hor, gunung éta.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Alihkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "sarta naékkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "Aharon jeung Elazar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:32:50.294671774Z",
+  "model": "glm-5.3"
+}

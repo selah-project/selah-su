@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Yahwe nyangga ngajeroanna di nining kasakit; sadaya ranjangna Anjeun geus malik dina karanduanna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "nyangga ngajeroanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "nining"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "kasakit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ranjangna"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "Anjeun geus malik"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "dina karanduanna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:02.672157030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung manéhna ngalakukeun nu jahat, sabab manéhna teu nyiapkeun hatina keur milangkieun ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung manéhna ngalakukeun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nyiapkeun"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatina"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "keur milangkieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:23:56.188124047Z",
+  "model": "glm-5.3"
+}

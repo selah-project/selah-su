@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Balik deui, wahai Yahwe; paleupaskeun nefesh abdi; salametkeun abdi lantaran xesed anjeun.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Balik deui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "paleupaskeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salametkeun abdi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lantaran"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesed anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:41.772024887Z",
+  "model": "glm-5.3"
+}

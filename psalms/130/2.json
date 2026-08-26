@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 130,
+  "translation": "Wahai Adonay, panggihireun sora kuring; hayu ceuli Anjeun jadi reuwas-ieuas kana sora panghampura kuring.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "panggihireun"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "sora kuring"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "hayu ... jadi"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ceuli Anjeun"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "reuwas-ieuas"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kana sora"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "panghampura kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.300219085Z",
+  "model": "glm-5.3"
+}

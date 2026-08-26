@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 25:32",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung genep eupan kaluar tina sisi-sisina: tilu eupan kandil tina sisina anu hiji, jeung tilu eupan kandil tina sisina anu kadua.",
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "jeung genep"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "eupan-eupan"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "tina sisi-sisina"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "קני",
+      "gloss": "eupan"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "tina sisina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "anu hiji"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "קני",
+      "gloss": "eupan"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "tina sisina"
+    },
+    {
+      "surface": "השני",
+      "gloss": "anu kadua"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:07.970016756Z",
+  "model": "glm-5.3"
+}

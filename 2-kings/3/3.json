@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Ngan kana dosa-dosa Yarovam putra Nevat, nu ngabalukarkeun ⟨את⟩ Israél sawalasalah, anjeunna napel, teu mundur tina eta.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ngan"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "kana dosa-dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ngabalukarkeun sawalasalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "napel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "סר",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "tina eta"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:45.982417031Z",
+  "model": "glm-5.3"
+}

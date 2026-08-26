@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Nu nyieun utusan-utusan-Na jadi angin, pelayan-pelayan-Na jadi seuneu murub.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Nu nyieun"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "utusan-utusan-Na"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "jadi angin"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "pelayan-pelayan-Na"
+    },
+    {
+      "surface": "אש",
+      "gloss": "jadi seuneu"
+    },
+    {
+      "surface": "להט",
+      "gloss": "murub"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:41.780635056Z",
+  "model": "glm-5.3"
+}

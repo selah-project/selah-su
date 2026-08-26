@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Dangu, hai langit-langit, sartametik ceuli, hai bumi, sabab Yahwe geus ngomong: Putra-putra kuring diparaheut sarta diangkat, tapi aranjeunna ngalawan ka kuring.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dangu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hai langit-langit"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "sartametik ceuli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geus ngomong"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "kuring diparaheut"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "sarta diangkat"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi aranjeunna"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:54.120232486Z",
+  "model": "glm-5.3"
+}

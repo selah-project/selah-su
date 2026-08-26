@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Dipulungkeun, wahai Elohim, luhureun langit-langit; luhureun sakabéh bumi kamulyaan-Mu.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "dipulungkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamulyaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:55.712396451Z",
+  "model": "glm-5.3"
+}

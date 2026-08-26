@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sarta Anjeunna ngomong: Lemparkeun ka taneuh! Jadi anjeunna ngalemparkeun éta ka taneuh, jadi éta jadi oray, sareng Moshe ngarumpedak ti payuneunana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta Anjeunna ngomong"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "lemparkeun eta"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka taneuh"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ngalemparkeun eta"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka taneuh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "jadi oray"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ngarumpedak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ti payuneunana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:22.262445252Z",
+  "model": "glm-5.3"
+}

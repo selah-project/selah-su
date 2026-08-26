@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Nu sabalabaran pikiran abdi benci, tapi Toret-Mu abdi kanyaah.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "nu sabalabaran pikiran"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "abdi benci"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "tapi Toret-Mu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "abdi kanyaah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:28.973403841Z",
+  "model": "glm-5.3"
+}

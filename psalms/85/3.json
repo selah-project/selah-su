@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Anjeun ngangkat ⟨את⟩ kaluputan umat Anjeun; Anjeun nutupan sadaya dosa maranéhna. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Anjeun ngangkat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat Anjeun"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "Anjeun nutupan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dosa maranéhna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:14.730891046Z",
+  "model": "glm-5.3"
+}

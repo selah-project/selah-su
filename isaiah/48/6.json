@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 48:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Anjeun geus ngadéngé, tempo sadayana; jeung anjeum, naha henteu ngomongkeunana? Kuring méré anjeun ngadéngé hal-hal anyar ti ayeuna, jeung anu disimpen, nu can anjeun apal.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "anjeun geus ngadéngé"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "naha henteu"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "anjeun ngomongkeunana"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "kuring méré anjeun ngadéngé"
+    },
+    {
+      "surface": "חדשות",
+      "gloss": "hal-hal anyar"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ti ayeuna"
+    },
+    {
+      "surface": "ונצרות",
+      "gloss": "jeung anu disimpen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nu henteu"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "anjeun apal"
+    }
+  ],
+  "timestamp": "2026-08-26T13:16:06.132417860Z",
+  "model": "glm-5.3"
+}

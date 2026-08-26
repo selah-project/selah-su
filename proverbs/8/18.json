@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Kakayaan jeung kamuliaan aya ⟨ sareng abdi ⟩; harta nu tahan lilana jeung kabeneran.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kakayaan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "jeung kamuliaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aya sareng abdi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "harta"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "nu tahan lilana"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "jeung kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:54.081099107Z",
+  "model": "glm-5.3"
+}

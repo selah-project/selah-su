@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung anjeun bakal mungkus ⟨את⟩-na emas murni: ⟨את⟩ hateupna jeung ⟨את⟩ pinding-pindingna sabudeureun, jeung ⟨את⟩ tanduk-tandukna; jeung anjeun bakal nyieun pikeunana zér emas sabudeureun.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "jeung anjeun bakal mungkus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "emas murni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hateupna"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "hateupna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "pinding-pindingna"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "pinding-pindingna"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tanduk-tandukna"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tanduk-tandukna"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun bakal nyieun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeunana"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zér (pringgan)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:15.256218263Z",
+  "model": "glm-5.3"
+}

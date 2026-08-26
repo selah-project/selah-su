@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Dengekeun ⟨את⟩ kecap nu diomongkeun Yahwe ka anjeun, hai beuteung Israel.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengekeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beuteung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-26T13:26:08.823214975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Tuluy sanggakeun ka urang, Yahwe, Elohim anjeun, ⟨את⟩ jalan nu bakal dijugjug urang dina éta, jeung ⟨את⟩ hal nu bakal dipigawe urang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Tuluy sanggakeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "bakal dijugjug urang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dina éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "hal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bakal dipigawe urang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:38:24.255932976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Lalaki jeung awéwé dijieun-Na ⟨את⟩ maranehna, sarta diberkahan-Na ⟨את⟩ maranehna, sarta disebut-Na ngaran ⟨את⟩ maranehna Adam, dina poé dijieunna maranehna.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "jeung awéwé"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "dijieun-Na"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "sarta diberkahan-Na"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ maranehna",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta disebut-Na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran maranehna"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ngaran maranehna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "dijieunna maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:24.720302918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Puji-pujian ti Dawid. Aku bakal ngaluhurkeun Anjeun, Eloah kuring, ⟨sang⟩ Raja, sarta aku bakal ngaberkahan Jenengan Anjeun salawasna jeung tuluy-tuluyan.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "aku bakal ngaluhurkeun Anjeun"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah kuring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨sang⟩ Raja"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "sarta aku bakal ngaberkahan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan Anjeun"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung tuluy-tuluyan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:20.923470805Z",
+  "model": "glm-5.3"
+}

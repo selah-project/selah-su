@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Lamun aranjeun nyembelih korban syelamim keur Yahwe, nurutkeun karesep aranjeun kudu nyembelihna.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "aranjeun nyembelih"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "syelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "keur Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "nurutkeun karesep aranjeun"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "kudu nyembelihna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:54.493858578Z",
+  "model": "glm-5.3"
+}

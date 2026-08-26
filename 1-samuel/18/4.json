@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Lajeng Yehonatan nyingsalkeun ⟨את⟩ jubah anu aya dina awakna sarta méré ⟨anjeunna⟩ ka David, sarta pakéanana, nepi ka pedangna, nepi ka panahna, nepi ka beubeuritanana.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "nyingsalkeun"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aya dina awakna"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "sarta méré anjeunna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "sarta pakéanana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "panahna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "beubeuritanana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:30.813897886Z",
+  "model": "glm-5.3"
+}

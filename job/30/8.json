@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Putra-putra nu belet, ogé putra-putra tanpa ngaran, aranjeunna ditorondokeun ti ⟨taneuh.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nu belet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "aranjeunna ditorondokeun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:18.236772469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Ti cicingan-Na nu tetep ⟨mah⟩ mariksa ka sakabéh pangeusi bumi.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Ti cicingan"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "-Na nu tetep"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "mariksa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "pangeusi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:05.960391629Z",
+  "model": "glm-5.3"
+}

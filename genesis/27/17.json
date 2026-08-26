@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung manéhna méré ⟨את⟩ kadaharan-ngamamanis jeung ⟨את⟩ roti nu manéhna nyieun kana leungeun Yaakov, putrana.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "jeung manéhna méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadaharan-ngamamanis"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "kadaharan-ngamamanis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "manéhna nyieun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kana leungeun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:12.200391666Z",
+  "model": "glm-5.3"
+}

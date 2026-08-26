@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung baris kajadian, mun murangkalih aranjeun nyarita ka aranjeun: Naon ibadah ieu pikeun aranjeun?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "baris kajadian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "murangkalih aranjeun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ibadah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:30.143226349Z",
+  "model": "glm-5.3"
+}

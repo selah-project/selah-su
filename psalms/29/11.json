@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Yahwe masihan kakuatan ka umat-Na; Yahwe ngajénan ⟨את⟩ umat-Na ku katengtreman.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ka-umat-Na"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "masihan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ngajénan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ku-katengtreman"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:38.270027814Z",
+  "model": "glm-5.3"
+}

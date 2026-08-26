@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Lajeng anjeunna masrahkeun ka anjeunna ⟨את⟩ Bilha budak palayuana jadi pamajikan, lajeng Yaakov asup ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "lajeng masrahkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "budak palayuana"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi pamajikan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lajeng asup ka"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:41.755469991Z",
+  "model": "glm-5.3"
+}

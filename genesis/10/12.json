@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "jeung ⟨את⟩ Resen, antawis Ninewe jeung Kelakh — éta ⟨is⟩ kota ⟨the⟩ ageung.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antawis"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antawis"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ageung"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:02.298391294Z",
+  "model": "glm-5.3"
+}

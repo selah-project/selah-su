@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung Dawid ogé nyandak ⟨את⟩ Axinoam ti Yizreel; dua-duana jadi pamajikanana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Axinoam"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Axinoam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "ti Yizreel"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "dua-duana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun anjeunna"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "pamajikanana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:31.440000247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Maranéhna ngumumkeun serep, jeung diukkeun ⟨את⟩ Navot dina sirah ⟨the⟩ bangsa.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "maranéhna ngumumkeun"
+    },
+    {
+      "surface": "צום",
+      "gloss": "serep"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "jeung diukkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "dina sirah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T12:47:02.750061425Z",
+  "model": "glm-5.3"
+}

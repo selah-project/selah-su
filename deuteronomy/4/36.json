@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Ti langit-langit manéhna ngadengekeun ka anjeun ⟨את⟩ sorana pikeun ngadisiplin anjeun, jeung di bumi manéhna nembongkeun ka anjeun ⟨את⟩ seuneuna nu gedé, jeung kecap-kecapna anjeun ngadangu ti tengah seuneu.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "ngadengekeun ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sorana"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sorana"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "pikeun ngadisiplin anjeun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung di"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "nembongkeun ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seuneuna"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "seuneuna"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nu gedé"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "jeung kecap-kecapna"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "anjeun ngadangu"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ti tengah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:22.000543725Z",
+  "model": "glm-5.3"
+}

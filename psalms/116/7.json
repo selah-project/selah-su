@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Balik deui, haté mah, ka pagojanana, sabab Yahwe geus ngabalikeun kahadéan ka anjeun.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Balik deui"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "haté mah"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "ka pagojanana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "geus ngabalikeun kahadéan"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.463058048Z",
+  "model": "glm-5.3"
+}

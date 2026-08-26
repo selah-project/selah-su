@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sabab méméh budak éta apal nyebut 'abdi' jeung 'embi', beubeungbeutian Damaskus jeung ⟨את⟩ rarampasan Shomron bakal dibawa ka payuneuneun raja Asyur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "méméh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "apal"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "budak éta"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nyebut"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "'abdi'"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "jeung 'embi'"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bakal dibawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beubeungbeutian Damaskus"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "beubeungbeutian"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rarampasan Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rarampasan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka payuneuneun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:20.695024130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung maranéhna ngaleungitkeun ⟨את⟩ allah-allah nu asing ti tengah-tengah maranéhna, sarta maranéhna ngawula ka ⟨את⟩ Yahwe; sarta nyawa-Na kasesek ku kasusah Israil.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "jeung maranéhna ngaleungitkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allah-allah nu asing"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "nu asing"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "ti tengah-tengah maranéhna"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "sarta maranéhna ngawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "sarta kasesek"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawa-Na"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ku kasusah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-26T12:06:16.775135729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "jeung ⟨את⟩ Ofir, jeung ⟨את⟩ Chavilah, jeung ⟨את⟩ Yovav; sadaya maranehna ⟨is⟩ putrana Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:23:36.807903484Z",
+  "model": "glm-5.3"
+}

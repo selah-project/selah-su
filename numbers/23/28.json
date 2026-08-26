@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Balak mawa ⟨את⟩ Bilam ka punclut Peor, nu nironjong ka beungeut(-hareup) gurun.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "punclut"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "nu nironjong"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut(-hareup)"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:32:58.585120098Z",
+  "model": "glm-5.3"
+}

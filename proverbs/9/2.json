@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Geus nyembelih sasembelihanana, geus nyampur anggurna, malah geus ngatur méjana.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "geus nyembelih"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "sasembelihanana"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "geus nyampur"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "anggurna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "geus ngatur"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "méjana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:38.844219002Z",
+  "model": "glm-5.3"
+}

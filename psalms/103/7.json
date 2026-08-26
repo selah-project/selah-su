@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Ngabikeun jalan-jalan-Na ka Moshe, lalakon-Na ka putra-putra Yisrael.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Ngabikeun"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalan-jalan-Na"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ka Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "lalakon-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:59.060754308Z",
+  "model": "glm-5.3"
+}

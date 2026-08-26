@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jadi Dawid moal mawa ⟨את⟩ peti ⟨the⟩ kana dirina, ka kota Dawid, tapi mawa éta ka imah Oved-Edom nu ti Gat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kana dirina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "mawa éta ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "nu ti Gat"
+    }
+  ],
+  "timestamp": "2026-08-26T16:10:16.487017961Z",
+  "model": "glm-5.3"
+}

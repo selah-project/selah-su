@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Raja Asyur nganjuk-anjukkeun ⟨את⟩ Israél ka Asyur, sarta maranéhna diparatokeun di Khalakh, di Khavor, walungan Gozan, sarta di kota-kota Maday.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "nganjuk-anjukkeun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ka Asyur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "diparatokeun"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "di Khalakh"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "di Khavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "sarta di kota-kota"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maday"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:06.635648752Z",
+  "model": "glm-5.3"
+}

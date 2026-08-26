@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung barudak Yisrael ngadeg kemah di Gilgal, sarta maranéhna ngalaksanakeun ⟨את⟩ Pésach dina poé kaopat-belas [[dina]] bulan éta, waktu burit poé, di dataran Yériho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Jeung ngadeg kemah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "sarta maranéhana ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "dina opat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "waktu burit"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "di dataran"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yériho"
+    }
+  ],
+  "timestamp": "2026-08-26T11:54:31.573423181Z",
+  "model": "glm-5.3"
+}

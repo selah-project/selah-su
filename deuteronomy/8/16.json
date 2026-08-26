@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Nu méré dahar man ka anjeun di gurun, nu karuhun anjeun teu nyaho, pikeun ngahina anjeun jeung pikeun nguji anjeun, pikeun ngahadéan anjeun dina tungtung anjeun",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "Nu méré dahar ka anjeun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "karuhun anjeun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "ngahina anjeun"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "jeung pikeun"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "nguji anjeun"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "pikeun ngahadéan anjeun"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "dina tungtung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:32.573051879Z",
+  "model": "glm-5.3"
+}

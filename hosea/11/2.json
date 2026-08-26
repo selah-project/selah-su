@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Singgetan aranjeunna nyaur aranjeunna, balah aranjeunna leungit ti payun aranjeunna; ka Baal-baal maranéhna nyembelih kurban, jeung ka berhala-berhala maranéhna ngahaseupan dupa.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "nyaur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aranjeunna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "balah"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "arah maranéhna leungit"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ti payun aranjeunna"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ka Baal-baal"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "maranéhna nyembelih kurban"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "jeung ka berhala-berhala"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "maranéhna ngahaseupan dupa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:37.885604226Z",
+  "model": "glm-5.3"
+}

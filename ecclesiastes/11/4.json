@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Nu ngawas-awas angin moal metik sawang, sarta nu nempo ⟨the⟩ méga moal nebang.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Nu ngawas-awas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "metik sawang"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "sarta nu nempo"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "⟨the⟩ méga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "nebang"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:14.587509034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Sabab kanyawaan abdi geus wareg ku kabalaka, jeung hirup abdi geus nepi ka Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "geus wareg"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "ku kabalaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kanyawaan abdi"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "jeung hirup abdi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "geus nepi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:19.230615358Z",
+  "model": "glm-5.3"
+}

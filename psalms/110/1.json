@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 110,
+  "translation": "Mizmor ti Dawid. Uma Yahwe ka Adonay-ku: \"Diuk ka leungeun katuhu Kuring, nepi ka Kuring ngajadikeun musuh-musuh anjeun jadi alas suku pikeun sukum anjeun.\"",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ka Adonay-ku"
+    },
+    {
+      "surface": "שב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ka leungeun katuhu Kuring"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Kuring ngajadikeun"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "alas suku"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "pikeun sukum anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:01.666441396Z",
+  "model": "glm-5.3"
+}

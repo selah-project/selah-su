@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Lajeng naek Moshe ka gunung, sarta awan nutupan ⟨את⟩ gunung.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lajeng naek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "sarta nutupan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:55.502865543Z",
+  "model": "glm-5.3"
+}

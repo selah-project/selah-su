@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Tapi kuring ⟨⟨miskin⟩⟩ jeung papa; Adonay mikirkeun ka kuring: Anjeun pitulung kuring jeung pamunuh kuring; Elohim kuring, ulah ngalantaran.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi kuring"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jeung papa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "mikirkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "pitulung kuring"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "jeung pamunuh kuring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ngalantaran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:13.899154486Z",
+  "model": "glm-5.3"
+}

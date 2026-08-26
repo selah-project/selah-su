@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Kuring gancang, sarta teu rangsék-rangsék, pikeun ngajaga parentah-parentah Anjeun.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "kuring gancang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "rangsék-rangsék"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pikeun ngajaga"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentah-parentah Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:11.177842666Z",
+  "model": "glm-5.3"
+}

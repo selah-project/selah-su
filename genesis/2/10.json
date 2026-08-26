@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung sarongkah walungan kaluar ti Éden pikeun ngieuman ⟨את⟩ kataman, jeung ti dinya ngarodajadi opat sirah",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "jeung sarongkah walungan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "ti Éden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "pikeun ngieuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kataman"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "kataman"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "jeung ti dinya"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ngaroda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "opat"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "sirah"
+    }
+  ],
+  "timestamp": "2026-08-26T17:28:17.866924203Z",
+  "model": "glm-5.3"
+}

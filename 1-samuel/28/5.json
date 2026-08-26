@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Teras Shaul nempo ⟨את⟩ kamputra pasukan Peleshet, sarta anjeunna hariwang, sarta haténa ngageter kacida.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "teras nempo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamputra pasukan Peleshet"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kamputra pasukan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anjeunna hariwang"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ngageter"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "haténa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kacida"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:04.226647048Z",
+  "model": "glm-5.3"
+}

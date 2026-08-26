@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jalan bareng ⟨את⟩ nu wijaksana jadi wijaksana, jeung nu babaturan jeung nu belet bakal ruksak.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "jalan bareng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu wijaksana"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nu wijaksana"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "jadi wijaksana"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "jeung nu babaturan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "jeung nu belet"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "bakal ruksak"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:58.646629611Z",
+  "model": "glm-5.3"
+}

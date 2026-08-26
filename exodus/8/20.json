@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Yahwe ngalakukeun kitu; sarta datang kareundeu beurat ka imah Paroh, ka imah para abdina, jeung ka sadaya taneuh Mitsrayim; ruksak bumi ku sabab ⟨kana⟩ kareundeu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung ngalakukeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sarta datang"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kareundeu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ka imah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ka imah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdina"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung ka sadaya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ruksak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kareundeu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:42.646329483Z",
+  "model": "glm-5.3"
+}

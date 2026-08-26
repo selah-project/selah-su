@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Yahwe ngajagaana jeung ngahirupkeunana; dipaparin bagja di bhumi; jeung ulah Anjeun serahkeunana kana kahayang musuh-musuhna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ngajagaana"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "jeung ngahirupkeunana"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "dipaparin bagja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bhumi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "Anjeun serahkeunana"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kana kahayang"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuh-musuhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:02.672006328Z",
+  "model": "glm-5.3"
+}

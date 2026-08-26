@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng putri Paroh nyarita ka anjeunna: sunggul. Lajeng najaja éta méméh nyaba, lajeng ngagero ⟨את⟩ ema barudak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "sunggul"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "méméh nyaba"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "najaja"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ngagero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ema"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ema"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barudak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:07.635957617Z",
+  "model": "glm-5.3"
+}

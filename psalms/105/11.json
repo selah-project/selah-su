@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Ngaléngké nyarios: \"Ka anjeun Abdi masihan ⟨את⟩ tana Kenaan, talatah warisan anjeun.\"",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ngaléngké nyarios"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Abdi masihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tana Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tana"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "talatah"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "warisan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:28.707274003Z",
+  "model": "glm-5.3"
+}

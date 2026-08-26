@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Anjeunna nanya ka kuring: Saha anjeun? Kuring ngajawab ka anjeunna: Kuring urang Amalek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Anjeunna nyarita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuring ngajawab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "urang Amalek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:39.748294581Z",
+  "model": "glm-5.3"
+}

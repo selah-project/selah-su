@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Tuluy Yoséf ngomong ka anjeunna: Ieu eta patalana: tilu sulur ⟨eta⟩ tilu poé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tuluy ngomong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "patalana"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "sulur-sulur"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨eta⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:38.461936547Z",
+  "model": "glm-5.3"
+}

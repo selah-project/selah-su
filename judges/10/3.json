@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Munjing sanggeus anjeunna Yair urang Gilad, sarta anjeunna ngadilan ⟨את⟩ Israil dua puluh dua taun.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "munjing"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sanggeus anjeunna"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "urang Gilad"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ngadilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:06:18.577767980Z",
+  "model": "glm-5.3"
+}

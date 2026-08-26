@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung pilégésna, ngaranna Reumah, ogé manéhna ngalahirkeun ⟨את⟩ Tevax jeung ⟨את⟩ Gaxam jeung ⟨את⟩ Taxas jeung ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Jeung pilégésna"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevax"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gaxam"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaxam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Taxas"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Taxas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-08-26T16:38:10.848467076Z",
+  "model": "glm-5.3"
+}

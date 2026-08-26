@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Tuluy ogé ⟨את⟩ nyiruan badag bakal dikirim Yahwe, Elohim anjeun, ka antara maranéhna, nepi ka musna nu karésék jeung nu nyumput ti hareupeun anjeun.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "tuluy ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyiruan badag"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nyiruan badag"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bakal dikirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka antara maranéhna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "musna"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "nu karésék"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "jeung nu nyumput"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ti hareupeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:49.450048217Z",
+  "model": "glm-5.3"
+}

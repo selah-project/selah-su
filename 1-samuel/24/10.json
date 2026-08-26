@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Teras Dawid ngomong ka Shaul: naon marga anjeun ngadangu ⟨את⟩ kecap-kecap manusa nu ngomong: tempo, Dawid milarian kaonan anjeun?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naon marga"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "anjeun ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap manusa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nu ngomong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "milarian"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "kaonan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:31.061134605Z",
+  "model": "glm-5.3"
+}

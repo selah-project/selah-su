@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "⟨את⟩ putusan-putusan abdi aranjeun pigawé, jeung ⟨את⟩ katangtuan-katangtuan abdi aranjeun jaga, sangkan leumpang dina aranjeunna: akuing Yahwe, Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putusan-putusan abdi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-putusan abdi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "anjeun pigawé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "katangtuan-katangtuan abdi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katangtuan-katangtuan abdi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "anjeun jaga"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sangkan leumpang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dina aranjeunna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akuing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:09.811101146Z",
+  "model": "glm-5.3"
+}

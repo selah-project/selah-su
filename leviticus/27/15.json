@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung lamun nu nyucikeunana nganggap tebus ⟨את⟩ imahna, jeung manehna nambahkeun saparolima pérak tatagan anjeun kana éta, jeung jadi pibandaana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Jeung lamun"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "nu nyucikeunana"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "nganggap tebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imahna"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "jeung manehna nambahkeun"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "saparolima"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "tatagan anjeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kana éta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jeung jadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pibandaana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:42.282468814Z",
+  "model": "glm-5.3"
+}

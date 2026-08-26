@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung dina poé kadalapan, daging kulit suputanana kudu disunat.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "jeung dina poé"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kadalapan"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "kudu disunat"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kulit suputanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:43.210576189Z",
+  "model": "glm-5.3"
+}

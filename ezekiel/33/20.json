@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Ari maranéhna nyarita: jalan Adonay teu katimbang. Unggal jalma nurutkeun jalanana, Kuring baris ngahukum ⟨את⟩ anjeun, warga Israél.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ari maranéhna nyarita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "katimbang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "nurutkeun jalanana"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "Kuring baris ngahukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun (warga Israél)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "warga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T13:54:25.912174254Z",
+  "model": "glm-5.3"
+}

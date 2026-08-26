@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Nu jahat ngarancang ngalawan nu bener, sarta ngagereteskeun huntu-huntuna ka manéhna.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "ngarancang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ngalawan nu bener"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "sarta ngagereteskeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "huntu-huntuna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:46.460270068Z",
+  "model": "glm-5.3"
+}

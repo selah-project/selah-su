@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jadi bangsa kasebut ngarérét dina poé katujuh.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ngarérét"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa-kasebut"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina-poé"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "katujuh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:21.643222437Z",
+  "model": "glm-5.3"
+}

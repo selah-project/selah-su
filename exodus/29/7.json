@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun bakal nyandak ⟨את⟩ minyak urujaran, jeung ngalelepkeunana kana sirahna, jeung ngurujar manéhna.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jeung anjeun bakal nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urujaran"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urujaran"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "jeung ngalelepkeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahna"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "jeung ngurujar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:50.321946774Z",
+  "model": "glm-5.3"
+}

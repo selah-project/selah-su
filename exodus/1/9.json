@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung anjeunna nyarios ka baladna: Tempo, balad incu Yisrael loba jeung kawasa leuwih ti urang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarios"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "baladna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "balad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "incu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "loba"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "jeung kawasa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti urang"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:07.012522577Z",
+  "model": "glm-5.3"
+}

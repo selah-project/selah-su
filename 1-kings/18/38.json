@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Lajeng api ti Yahwe ragrag, lajeng ngahakan ⟨את⟩ kurban beureum taiasan jeung ⟨את⟩ kai-kaina jeung ⟨את⟩ batu-batuna jeung ⟨את⟩ keusikna, jeung ⟨את⟩ cai nu dina saluran digelegakeun.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "lajeng ragrag"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "lajeng ngahakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban beureum taiasan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban beureum taiasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kai-kaina"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kai-kaina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "batu-batuna"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "keusikna"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "keusikna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "cai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "dina saluran"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "digelegakeun (dijilat)"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:47.809101225Z",
+  "model": "glm-5.3"
+}

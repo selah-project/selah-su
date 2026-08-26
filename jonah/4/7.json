@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sarta Elohim nyayagikeun hileud nalika mecenghulna subuh, isuk-isuk, sarta nyerang ⟨את⟩ kikayon nepi ka garing.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "nyayagikeun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "hileud"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "nalika mecenghulna"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "subuh"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "sarta nyerang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "nepi ka garing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:28.435801312Z",
+  "model": "glm-5.3"
+}

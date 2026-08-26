@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung sadaya bangsa-bangsa nyebut berkah ⟨את⟩ anjeun, sabab anjeun jadi taneuh kareueus, dawis Yahwe Tzevaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "nyebut berkah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kareueus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dawis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:24.641956624Z",
+  "model": "glm-5.3"
+}

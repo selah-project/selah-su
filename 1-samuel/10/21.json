@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ⟨הוא⟩ mideukeutkeun ⟨את⟩ sabuk Binjamin ku kulawargana, tuluy kalah kulawarga ⟨ה⟩Matrlah; jeung kalah Shaúl putra Kisy; jeung dipaluruh manéhna, tapi teu kapanggih.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mideukeutkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabuk Binjamin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sabuk"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "ku kulawargana"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "tuluy kalah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "⟨ה⟩Matrlah"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "jeung kalah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kisy"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "jeung dipaluruh manéhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kapanggih"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:19.719724053Z",
+  "model": "glm-5.3"
+}

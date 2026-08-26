@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 101,
+  "translation": "Haté nu benguk baris ngaliwat ti diri kuring; kaJahatan moal kuring manglahan.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "nu benguk"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "baris ngaliwat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti diri kuring"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "kuring manglahan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:43.124458481Z",
+  "model": "glm-5.3"
+}

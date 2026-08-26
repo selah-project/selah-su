@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Sabab Anjeun ⟨is⟩ kamulyan kakuatanana, jeung dina kabungaheun-Mu tanduk kami diangkat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "kakuatanana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "jeung dina kabungaheun-Mu"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "diangkat"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "tanduk kami"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:01.725615977Z",
+  "model": "glm-5.3"
+}

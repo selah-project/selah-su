@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta anjeun keurkeun ti dinya saeutik luyu jeung itungan, sarta beungkeut ⟨את⟩ maranehna dina sama-sama papakéan anjeun.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "sarta anjeun keurkeun"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "luyu jeung itungan"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "sarta beungkeut"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ maranehna",
+      "marks": "saeutik buuk"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "dina sama-sama papakéan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:44:59.563070108Z",
+  "model": "glm-5.3"
+}

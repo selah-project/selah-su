@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Naha kakuatan kuring kakuatan batu, atanawi daging kuring tembaga?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "naha"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuatan kuring"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atanawi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "daging kuring"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-08-26T17:17:45.329961455Z",
+  "model": "glm-5.3"
+}

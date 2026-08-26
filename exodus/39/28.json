@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung ⟨את⟩ tutup sirah tina in, jeung ⟨את⟩ hiasan-hiasan sirah topi-topi tina in, jeung ⟨את⟩ calana-calana tina in, in nu diliwir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tutup sirah"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "tutup sirah"
+    },
+    {
+      "surface": "שש",
+      "gloss": "in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "hiasan-hiasan sirah topi-topi"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "hiasan-hiasan sirah"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "topi-topi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "calana-calana"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "calana-calana"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "in"
+    },
+    {
+      "surface": "שש",
+      "gloss": "in"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "diliwir"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:28.015111819Z",
+  "model": "glm-5.3"
+}

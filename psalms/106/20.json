@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung maranehna ngaganti ⟨את⟩ kamulyaanana ku rupa munding nu ngahakan jukut.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "jeung ngaganti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyaanana"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kamulyaanana"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "ku rupa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "munding"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nu ngahakan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "jukut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:54.828711638Z",
+  "model": "glm-5.3"
+}

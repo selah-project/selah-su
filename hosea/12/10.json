@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sarta kuring ⟨⟨⟩⟩ Yahwe, Elohim anjeun, ti taneuh Mitsrajim; kénéh kuring diukkeun deui anjeun dina empon-empon, kayaning poé-poé katanggaran.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "sarta kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kénéh"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "kuring diukkeun deui anjeun"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "dina empon-empon"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kayaning poé-poé"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "katanggaran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:27.337914725Z",
+  "model": "glm-5.3"
+}

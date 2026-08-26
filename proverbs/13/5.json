@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Kecap dusta dibenci ku nu bener, sedengkeun nu jahat ngabalukarkeun ambeu hese jeung kaemgokan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dibenci"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "sedengkeun nu jahat"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ngabalukarkeun ambeu hese"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "jeung kaemgokan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:46.845702597Z",
+  "model": "glm-5.3"
+}

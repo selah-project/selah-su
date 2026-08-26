@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Lajeng Yahwe ngajawab ⟨את⟩ Iyob sarta ngomong:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lajeng ngajawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T15:20:34.844190594Z",
+  "model": "glm-5.3"
+}

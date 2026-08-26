@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Dina imah Yisrael kuring nempo hal nu ngagedeur; di dinya znut Efrayim, najis Yisrael.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "dina imah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "hal nu ngagedeur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "znut"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "najis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:26.861649851Z",
+  "model": "glm-5.3"
+}

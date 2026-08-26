@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung manéhna nyarita: kitu ucapan Yahwe: jieun walungan ieu jadi parit-parit, parit-parit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jieun"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "parit-parit"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "parit-parit"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:11.788800151Z",
+  "model": "glm-5.3"
+}

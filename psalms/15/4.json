@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Nu dipiceun dipinojek dina panonna, sedengkeun ⟨את⟩ nu sieun ka Yahwe dipikahormat; nu sumpah pikeun ngalaman awon tur teu ngarobah.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "dinojek"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dina panonna"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "nu dipiceun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu sieun ka Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "nu sieun ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "dipikahormat"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "pikeun ngalaman awon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tur teu"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ngarobah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:48.330753056Z",
+  "model": "glm-5.3"
+}

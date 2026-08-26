@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Bibir abdi bakal sorak-sorai bari ngazikeun ka Anjeun, sarta nefesh abdi nu geus Anjeun tibankeun.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "bakal sorak-sorai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bari"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngazikeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "sarta nefesh abdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "geus Anjeun tibankeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:34.710937983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Pigi, dahar roti anjeun ku suka bungah, sarta inum anggur anjeun ku haté hadé, sabab geus kersa Elohim kana ⟨את⟩ gawé-gawé anjeun.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pigi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ku suka bungah"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "roti anjeun"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "sarta inum"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ku haté"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "anggur anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "geus"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "kersa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawé-gawé anjeun"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "gawé-gawé anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:14.558413413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Moal dumasar kadosa-kadosa urang dibikeun ka urang, jeung moal dumasar ka kalalawur-kalalawur urang diberangkeun dina urang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "dumasar kadosa-kadosa urang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "dumasar ka kalalawur-kalalawur urang"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "diberangkeun"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "dina urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:49.714443825Z",
+  "model": "glm-5.3"
+}

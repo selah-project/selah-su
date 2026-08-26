@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 123,
+  "translation": "Kacida pisan geus kanyanggungan ati urang ku éjék jalma-jalma anu nyangkanakeun, ku panghina ti nu somé soméaan.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Kacida pisan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "geus kanyanggungan"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ati urang"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "ku éjék"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "jalma-jalma anu nyangkanakeun"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "ku panghina"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ti nu somé soméaan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:08.619018527Z",
+  "model": "glm-5.3"
+}

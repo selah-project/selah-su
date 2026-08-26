@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Dina datangna Natan sang nabi ka anjeunna, sabot manehna datang ka Bat-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "dina datangna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sabot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:28.327739850Z",
+  "model": "glm-5.3"
+}

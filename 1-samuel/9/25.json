@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Turun maranéhna ti ⟨the⟩ bamah ka ⟨the⟩ kota, sarta Samuel ngobrol jeung Shaul di luhureun ⟨the⟩ hateup.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "ti bamah"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ngobrol"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "hateup"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:12.188852804Z",
+  "model": "glm-5.3"
+}

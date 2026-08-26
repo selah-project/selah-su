@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Tuluy datang Amalek, sarta perang ngalawan Yisrael di Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tuluy datang"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "sarta perang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "di Refidim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:17.552250672Z",
+  "model": "glm-5.3"
+}

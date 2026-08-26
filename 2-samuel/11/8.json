@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sarta Dawid ngandika ka Uriyah: Turun ka imah anjeun, sarta sikuan leungeun suku. Sarta Uriyah kaluar ti imah raja, sarta kaluar sanggeusna kiraboh dahareun ti raja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "ka Uriyah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ka imah anjeun"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "sarta sikuan leungeun suku"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "leungeun suku"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "sarta kaluar"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sanggeusna"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "kiraboh dahareun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:16.521957525Z",
+  "model": "glm-5.3"
+}

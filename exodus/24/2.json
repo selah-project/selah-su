@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung Moshe, sorangan waé, bakal sadeukeut ka Yahwe; tapi maranehna moal sadeukeut, jeung ⟨the⟩ bangsa moal sanékalah jeung anjeunna.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "jeung bakal sadeukeut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sorangan waé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "jeung maranehna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "sadeukeut"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "jeung bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "sanékalah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:28.109728876Z",
+  "model": "glm-5.3"
+}

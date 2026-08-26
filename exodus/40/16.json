@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung Moshe ngalakukeun — sanggeus sagala nu diparentahkeun Yahwe ka anjeunna, kitu anjeunna ngalakukeun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung ngalakukeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sanggeus sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka anjeunna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngalakukeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:48.719276994Z",
+  "model": "glm-5.3"
+}

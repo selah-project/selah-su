@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Abdi nyampoan maranéhna nu ngajaga kalengahan sia-sia, tapi abdi ka Yahwe nyarita.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "abdi nyampoan"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "maranéhna nu ngajaga"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "kalengahan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tapi abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:14.997565859Z",
+  "model": "glm-5.3"
+}

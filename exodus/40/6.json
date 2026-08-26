@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeun bakal nempatkeun ⟨את⟩ mezbah kurban bakar payuneun panto Kemah, Kemah Panglawungan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "jeung anjeun bakal nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah kurban bakar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Panglawungan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:52.194928203Z",
+  "model": "glm-5.3"
+}

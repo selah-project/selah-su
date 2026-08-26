@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung maranéhna nuinggalkeun di dinya ⟨את⟩ allah-allah maranéhna, jeung David maréntah, jeung maranéhna diadu dina seuneu.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "nuinggalkeun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allah-allah maranéhna"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah-allah maranéhna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "diadu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dina seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:11:40.206068428Z",
+  "model": "glm-5.3"
+}

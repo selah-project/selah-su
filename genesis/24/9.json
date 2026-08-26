@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung abdi eta nempatkeun ⟨את⟩ leungeunana di handapeun pingping Avraham, Adonay-na, sarta sumpah ka anjeunna ngeunaan perkara ieu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "jeung nempatkeun"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "abdi eta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "pingping"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonay-na"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "sarta sumpah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara eta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:37:53.848636207Z",
+  "model": "glm-5.3"
+}

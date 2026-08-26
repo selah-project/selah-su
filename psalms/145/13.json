@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Karajaan anjeun ⟨nya⟩ karajaan sagala jaman, jeung pamaréntahan anjeun di sagala katurunan jeung katurunan.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "karajaan anjeun"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "jaman"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "jeung pamaréntahan anjeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagala"
+    },
+    {
+      "surface": "דור",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "jeung katurunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:40.797428691Z",
+  "model": "glm-5.3"
+}

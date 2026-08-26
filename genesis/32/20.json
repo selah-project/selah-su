@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung anjeunna ogé maréntah ⟨את⟩ anu kadua, ogé ⟨את⟩ anu katilu, ogé ⟨את⟩ sagala nu milampah saengeus kumpulan-kumpulan, sangkan ngomong: Saluyu jeung kecap ieu anjeun baris nyaritakeun ka Esav dina mangsa anjeun manggih ⟨את⟩ manehna.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "jeung maréntah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anu kadua"
+    },
+    {
+      "surface": "השני",
+      "gloss": "anu kadua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anu katilu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "anu katilu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nu milampah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "nu milampah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "saengeus"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "kumpulan-kumpulan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngomong"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "saluyu jeung kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "anjeun baris nyaritakeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "dina mangsa anjeun manggih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:03.489161233Z",
+  "model": "glm-5.3"
+}

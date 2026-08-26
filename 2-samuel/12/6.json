@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "jeung ⟨את⟩ anak domba ⟨eta⟩ kudu dibayar-ganti opat kali lipat, sabab manehna ngalakukeun ⟨את⟩ perkara ieu, jeung sabab manehna euweuh welas-asih.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dibayar-ganti"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "opat kali lipat"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-nya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-nya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "welas"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:46.243741914Z",
+  "model": "glm-5.3"
+}

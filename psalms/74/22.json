@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Bangkit, Élohim: rarajan rarajan-Mu; éling kahinaan-Mu ti nu bodo, sadinten-sadina.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "rarajan"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "rarajan-Mu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "éling"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "kahinaan-Mu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nu bodo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadina"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sadinten"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:09.954908711Z",
+  "model": "glm-5.3"
+}

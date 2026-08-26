@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna nyieun tungtutan-tungtutan kai akasia, jeung malireu ⟨את⟩ ⟨aranjeunna⟩ ku ⟨the⟩ emas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "tungtutan-tungtutan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "malireu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:04.053903011Z",
+  "model": "glm-5.3"
+}

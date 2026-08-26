@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung manéhna ngangkat ⟨את⟩ panonna, tuluy nempo ⟨את⟩ awéwé-awéwé jeung ⟨את⟩ barudak, lajeng ngomong: Saha nu ⟨ieu⟩ babarengan jeung anjeun? Jeung manéha ngomong: Barudak nu dipaparin kanyaah ku Elohim ka abdi anjeun.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panonna"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "panonna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awéwé-awéwé"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "awéwé-awéwé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "barudak"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng ngomong"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨ieu⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "babarengan jeung anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "dipaparin kanyaah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi anjeun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:22.942680685Z",
+  "model": "glm-5.3"
+}

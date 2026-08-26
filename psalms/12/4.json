@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Mangga Yahwe motongkeun sadaya bibir ngalemes, lisan nu ngomongkeun perkara kacida gedé.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Mangga motongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ngalemes"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lisan"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "nu ngomongkeun"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "perkara kacida gedé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:14.771770420Z",
+  "model": "glm-5.3"
+}

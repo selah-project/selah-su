@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 32:14",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sabab puri geus ditinggalkeun, kirab raména kota geus kacecer, pasiangan jeung pos-pasjaga geus jadi gua, jadi kagumbiraan barudak-kudu liar, jadi lapangan marica munding-munding, salawasna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "puri"
+    },
+    {
+      "surface": "נטש",
+      "gloss": "geus ditinggalkeun"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kirab ramé"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "geus kacecer"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "pasiangan"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "jeung pos-pasjaga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "geus jadi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "מערות",
+      "gloss": "gua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kagumbiraan"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "barudak-kudu liar"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "lapangan marica"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "munding-munding"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:44.579318123Z",
+  "model": "glm-5.3"
+}

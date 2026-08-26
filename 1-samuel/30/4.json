@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Tuluy Dawid jeung bangsa nu aya ⟨את⟩ jeung anjeunna ngangkat ⟨את⟩ sora maranéhna, sarta maranéhna eurih nepi ka euweuh deui kakuatan di maranéhna pikeun eurih.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "jeung bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora maranéhna"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sora maranéhna"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "sarta eurih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di maranéhna"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "pikeun eurih"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:02.388374407Z",
+  "model": "glm-5.3"
+}

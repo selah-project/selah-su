@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung marinaheun kaluar ⟨את⟩ manusa, sarta nancepkeun di wetan Kebon Eden ⟨את⟩ kerub-kerub jeung ⟨את⟩ seuneu pedang nu muter-muter pikeun ngajaga ⟨את⟩ jalan tangkal hirup.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "jeung marinaheun kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "jeung nancepkeun"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "di wetan"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "Kebon"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerub-kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "seuneu pedang"
+    },
+    {
+      "surface": "להט",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "nu muter-muter"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pikeun ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tangkal"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:16.321422910Z",
+  "model": "glm-5.3"
+}

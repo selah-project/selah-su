@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sagala tilam anu dipaturan ku anu ngosngosan bakal teu beresih, sarta sagala parabot anu diukungan bakal teu beresih.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "tilam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "dipaturan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "anu ngosngosan"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bakal teu beresih"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta sagala"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diukungan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bakal teu beresih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:09.439115293Z",
+  "model": "glm-5.3"
+}

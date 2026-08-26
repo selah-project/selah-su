@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sarta maotna Ibtsan, sarta dikubur di Beit-Lekhem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "sarta maotna"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "sarta dikubur"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    }
+  ],
+  "timestamp": "2026-08-26T12:08:17.382549829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung anjeunna naék ti ditu ka Penuel, sarta nyarita ka maranehna kitu ogé; jeung jalma-jalma Penuel ngajawab ⟨את⟩ anjeunna, saperti jawab jalma-jalma Sokhot.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "jeung anjeunna naék"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti ditu"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "jeung ngajawab"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "Gidyon"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "jawab"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sokhot"
+    }
+  ],
+  "timestamp": "2026-08-26T12:04:52.630312046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Elohim di puri-purina kawentar salaku bénténg.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "di puri-purina"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "kawentar"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "salaku bénténg"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:37.701653038Z",
+  "model": "glm-5.3"
+}

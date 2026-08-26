@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Tingali, manéhna ngarandam kaon, geus ngandung kasusah, sarta ngalahirkeun kambohong.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ngarandam"
+    },
+    {
+      "surface": "און",
+      "gloss": "kaon"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "sarta geus ngandung"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "sarta ngalahirkeun"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kambohong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:49.796523734Z",
+  "model": "glm-5.3"
+}

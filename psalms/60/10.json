@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Moab hundi sasampoan abdi; kana Edom abdi ngalungkeun sandal abdi; kana abdi, Peleshet, sorak soré.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "hundi"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sasampoan abdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "abdi ngalungkeun"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandal abdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kana abdi"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "sorak soré"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:13.957057605Z",
+  "model": "glm-5.3"
+}

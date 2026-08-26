@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Maranéhna dijieun ragrag; lalawan maranéhna sorangan lila-lila maranéhna, sagali nu nempo maranéhna ngagondong sirah.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "dijieun ragrag"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "lalawan maranéhna"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lila-lila maranéhna"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "ngagondong sirah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagali"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nu nempo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:52.835209441Z",
+  "model": "glm-5.3"
+}

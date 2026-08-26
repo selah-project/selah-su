@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Geus ngirim bujang-bujang awéwéna, ngagero di luhureun tungtung-tungtung tempat luhur kota.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "geus ngirim"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "bujang-bujang awéwéna"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ngagero"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "tungtung-tungtung"
+    },
+    {
+      "surface": "מרומי",
+      "gloss": "tempat luhur"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:38.844373865Z",
+  "model": "glm-5.3"
+}

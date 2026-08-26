@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sanajan anjeunna ragrag, moal dibungragkeun, sabab Yahwe nyangga leungeun-na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sanajan"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "anjeunna ragrag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "dibungragkeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "nyangga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeun-na"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:21.093204117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Dina kabeneran-Mu paleulit kuring jeung tungtungan kuring; sibirkeun ceuli-Mu ka kuring jeung singlametkeun kuring.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Dina kabeneran-Mu"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "paleulit kuring"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "jeung tungtungan kuring"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "sibirkeun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ceuli-Mu"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "jeung singlametkeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:49.771721887Z",
+  "model": "glm-5.3"
+}

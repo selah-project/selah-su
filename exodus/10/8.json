@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Terus dibalikkeun ⟨את⟩ Moshe jeung ⟨את⟩ Aharan ka Paroh, jeung anjeunna nyarita ka maranehna: Jalan, ngalayanan ⟨את⟩ Yahwe, Elohim aranjeun; saha-sahana maranu milang?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "dibalikkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ngalayanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jeung saha"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "nu milang"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:08.497285746Z",
+  "model": "glm-5.3"
+}

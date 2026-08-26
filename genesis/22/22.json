@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "sarta ⟨את⟩ Kesed, jeung ⟨את⟩ Xazo, jeung ⟨את⟩ Pildash, jeung ⟨את⟩ Yidlaf, jeung ⟨את⟩ Betuel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "Kesed"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Xazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Xazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Pildash"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yidlaf"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Betuel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    }
+  ],
+  "timestamp": "2026-08-26T16:37:29.076333533Z",
+  "model": "glm-5.3"
+}

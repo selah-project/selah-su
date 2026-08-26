@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Sahaqtikeun nu mulya ka El langit-langit: sabab kanyaah satia-Na langgeng salawasna.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Sahaqtikeun nu mulya"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ka El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:57.134032982Z",
+  "model": "glm-5.3"
+}

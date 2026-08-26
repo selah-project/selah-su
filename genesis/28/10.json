@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jadi Yaakov kaluar ti Beer-Sheva, sarta indit ka Kharan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "jadi kaluar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ti Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sarta indit"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ka Kharan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:09.035906263Z",
+  "model": "glm-5.3"
+}

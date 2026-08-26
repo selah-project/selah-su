@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Tina caosan Anjeun, ya Elohimna Yaakov, kataji kareta jeung kuda.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "tina caosan Anjeun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "kataji"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "jeung kuda"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:18.123308491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 121,
+  "translation": "Yahwe bakal nungkulan anjeun tina sagala kajahatan; manéhna bakal nungkulan ⟨את⟩ jiwa anjeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "bakal nungkulan anjeun"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tina sagala"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bakal nungkulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwa anjeun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jiwa anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:27.874363755Z",
+  "model": "glm-5.3"
+}

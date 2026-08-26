@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Ngan sumping keuneun, pireungeuneun kecap ieu nu abadoteurkeun kana ceuli anjeun jeung kana ceuli sakabéh jalma.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pireungeuneun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sumping keuneun"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abadoteurkeun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "kana ceuli anjeun"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "jeung kana ceuli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma"
+    }
+  ],
+  "timestamp": "2026-08-26T13:32:50.747905479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Condongkeun haté abdi kana kasaksian-kasaksian-Mu, jeung ulah ⟨ kana ⟩ kamonisan.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Condongkeun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "kasaksian-kasaksian-Mu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kamonisan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:33.708666120Z",
+  "model": "glm-5.3"
+}

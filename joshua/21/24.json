@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon jeung ⟨את⟩ padang kalolonganna, ⟨את⟩ Gat Rimmon jeung ⟨את⟩ padang kalolonganna — kota-kota opat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang kalolonganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang kalolonganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang kalolonganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang kalolonganna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:59:58.476947178Z",
+  "model": "glm-5.3"
+}

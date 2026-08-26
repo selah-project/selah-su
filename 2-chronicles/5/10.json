@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Teu aya na jero ⟨את⟩ aron iwal ti dua loh nu dipasang Moshe di Chorev, nu dipaké Yahwe motakeun perjangjian jeung putra-putra Yisrael dina kaluarna maranehna ti Mesir.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "na jero aron"
+    },
+    {
+      "surface": "רק",
+      "gloss": "iwal ti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "loh-loh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipasang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "di Chorev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "motakeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "dina kaluarna maranehna"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mesir"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:45.998311949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Hadé ⟨⟨euweuh⟩⟩ jalma nu méré kirah moro ladang jeung nu méré dipinjamkeun; ⟨anjeunna⟩ ngatur perkara-perkarana kalawan kaadilan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nu méré kirah moro ladang"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "jeung nu méré dipinjamkeun"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ngatur"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "perkara-perkarana"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kalawan kaadilan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:05.917195952Z",
+  "model": "glm-5.3"
+}

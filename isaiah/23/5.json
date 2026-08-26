@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Mun kadengar ka Mesir, maranéhna araran-eran; kawas laporan ngeunaan Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kadengar"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ka Mesir"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "araran-eran"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kawas laporan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-08-26T13:07:53.256113233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "sarta ⟨את⟩ Adorajim jeung ⟨את⟩ Lakhish jeung ⟨את⟩ Azekah",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "Adorajim"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Lakhish"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakhish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Azekah"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:35.013310596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tur palayan-palayanna nunggangkeun ⟨את⟩ manéhna ka Yerushalaim, lajeng nyabana ⟨את⟩ manéhna dina kuburna sareng bapana-bapana, di kota Dawid.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "nunggangkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palayan-palayanna"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ka Yerushalaim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "nyabana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "dina kuburna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sareng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapana-bapana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:11.797643223Z",
+  "model": "glm-5.3"
+}

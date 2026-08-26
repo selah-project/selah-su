@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sarta Moshe nyarita ka putra-putrana Israél pikeun ngalaksanakeun ⟨את⟩ Paskah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "pikeun ngalaksanakeun"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:02.666443129Z",
+  "model": "glm-5.3"
+}

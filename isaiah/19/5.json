@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung cai bakal tiris ti laut, jeung walungan bakal garing jeung raruid.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "bakal tiris"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "ti laut"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "jeung walungan"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "bakal garing"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "jeung raruid"
+    }
+  ],
+  "timestamp": "2026-08-26T16:58:36.796345875Z",
+  "model": "glm-5.3"
+}

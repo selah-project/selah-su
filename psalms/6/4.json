@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung nyawa kuring gupuh pisan; jeung anjeun, Yahwe — nepi ka iraha?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "jeung nyawa kuring"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "gupuh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung anjeun",
+      "marks": "bentuk kadalapan (katujuh? henteu) — pronomina jalma kadua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:44.996628646Z",
+  "model": "glm-5.3"
+}

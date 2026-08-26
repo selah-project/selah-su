@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Antep, terus ingaran yen aku Elohim; aku luhur di antara bangsa-bangsa, aku luhur di bumi.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "antep"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "terus ingaran yen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-yen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:01.436018751Z",
+  "model": "glm-5.3"
+}

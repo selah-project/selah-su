@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Teras Moshe ngagelut ka Yahwe, nyarita: Él, kumawula, cageurkeun, kumawula, manéhna.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ngagelut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Él"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kumawula"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "cageurkeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kumawula"
+    },
+    {
+      "surface": "לה",
+      "gloss": "manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:50.710977581Z",
+  "model": "glm-5.3"
+}

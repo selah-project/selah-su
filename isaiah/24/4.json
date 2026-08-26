@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Bumi toroworo jeung laas; dunya karunya jeung laas; karunyan nu luhur, bangsa ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "toroworo"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "jeung laas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "karunya"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "jeung laas"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunya"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "karunyan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "nu luhur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:12.665426759Z",
+  "model": "glm-5.3"
+}

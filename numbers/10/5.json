@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung maraneh niup ⟨éta⟩ sorakan, jeung angkat ⟨éta⟩ kamah-kamah nu ngadèg ka wétan.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "jeung maraneh niup"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sorakan"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "jeung angkat"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "kamah-kamah"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "nu ngadèg"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ka wétan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:45.858054023Z",
+  "model": "glm-5.3"
+}

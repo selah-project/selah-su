@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung abdi masangkeun ka anjeunna ⟨את⟩ kebon anggurna ti dinya, jeung ⟨את⟩ Lembah Akor jadi panto harepan; jeung anjeunna baris ngajawab di dinya saperti poé-poé kana rumajana, jeung saperti poé nalika anjeunna naék ti taneuh Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jeung abdi masangkeun"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebon anggurna"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "kebon anggurna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lembah"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "Lembah"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Akor"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "jadi panto"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "harepan"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "jeung anjeunna ngajawab"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "saperti poé-poé"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "rumajana"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "jeung saperti poé"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "nalika naék"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:15.478123015Z",
+  "model": "glm-5.3"
+}

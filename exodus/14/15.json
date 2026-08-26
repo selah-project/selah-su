@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Terus Yahwe ngomong ka Moshe: naha anjeun ceuk-ceuk ka Kuring? Omong ka incu-israil sangkan aranjeunna indit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Terus ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "anjeun ceuk-ceuk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka Kuring"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Omong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "incu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "israil"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "sangkan aranjeunna indit"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:51.758000801Z",
+  "model": "glm-5.3"
+}

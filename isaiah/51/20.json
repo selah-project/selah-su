@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Putra-putra anjeun geus pingsan, maranéhna saré di puhu sadaya jalan, siga antelope dina jaring; maranéhna pinuh ku murka Yahwe, ku hardik Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Putra-putra anjeun"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "geus pingsan"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "maranéhna saré"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di puhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "siga antelope"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "dina jaring"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "murka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "hardik"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:07.985464586Z",
+  "model": "glm-5.3"
+}

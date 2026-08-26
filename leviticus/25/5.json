@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "⟨את⟩ tutuwuhan nyorangan tina panén anjeun ulah anjeun sicut, sarta ⟨את⟩ anggur sta Rebana anjeun ulah anjeun pilih — sataun kaberematan bakal jadi pikeun ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutuwuhan nyorangan tina panén"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "tutuwuhan nyorangan"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "panén anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "anjeun sicut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anggur sta Rebana anjeun"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "sta Rebana anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "anjeun pilih"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sataun"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "kaberematan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pikeun bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:43.974234338Z",
+  "model": "glm-5.3"
+}

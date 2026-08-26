@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Agung ⟨karya-karya⟩ Yahwe, ditalungtik ku sadayana nu rebua ka ⟨karya-karya éta⟩.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "agung"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karya-karya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ditalungtik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku sadayana"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "nu rebua ka éta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:19.889523758Z",
+  "model": "glm-5.3"
+}

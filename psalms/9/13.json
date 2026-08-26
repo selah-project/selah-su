@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sabab anu mariksa getih émut ⟨את⟩ maranéhna; teu poho kana sareng nu miskin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mariksa"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "émut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "poho"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "sareng"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "nu miskin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:27.724263253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung anjeunna ngomong: Damai; pikeun ngar berkah ka Yahwe kuring sumping, sucikeun manéh, sarta aranjeun sumping ⟨את⟩ ⟨jeung kuring⟩ ka kurban; jeung anjeunna nyucikeun ⟨את⟩ Yisay jeung ⟨את⟩ putra-putrana, sarta marenta aranjeunna ka kurban.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pikeun kurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kuring sumping"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "sucikeun manéh"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "aranje sumping"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨jeung kuring⟩"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ka kurban"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "nyucikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "marenta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "araneunna"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ka kurban"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:33.737342798Z",
+  "model": "glm-5.3"
+}

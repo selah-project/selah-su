@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Tuluy aranjeunna nangkep ⟨את⟩ raja éta, jeung mawa ⟨את⟩ anjeunna ka raja Bavel, ka Rivlah; tur ngucapkeun ⟨את⟩ jeung anjeunna putusan.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "nangkep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mawa ka luhur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna (ka raja Bavel)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ngucapkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "putusan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:31.962118133Z",
+  "model": "glm-5.3"
+}

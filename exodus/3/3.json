@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sarta Moshe ngomong: Ajah kaula pami lajengka, bisi kaula nempo ⟨את⟩ kalakuan anu agung ieu, naha kai handeuleum éta henteu kaduruk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Ajah kaula... lajengka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pami"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "bisi kaula nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalakuan anu agung"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "kalakuan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "anu agung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "kaduruk"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "kai handeuleum"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:09.952529296Z",
+  "model": "glm-5.3"
+}

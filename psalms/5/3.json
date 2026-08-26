@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Parengngan kana sora jerit abdi, raja abdi jeung Elohim abdi, sabab ka anjeun abdi martawat.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "parengngan"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kana sora"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "jerit abdi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja abdi"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "jeung Elohim abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "abdi martawat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:37.124319072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "banged jeung papakon-anjeun bakal nyieun ⟨את⟩ eta; saperti ditembongkeun ka anjeun di gunung, kitu aranjeunna bakal nyieun.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "banged"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "jeung papakon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun bakal nyieun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eta (mihrab)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ditembongkeun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "aranjeunna bakal nyieun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:29.650163896Z",
+  "model": "glm-5.3"
+}

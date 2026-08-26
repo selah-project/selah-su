@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung kuring datang mérios anjeun ngartos ⟨את⟩ nu bakal karandapan ku umat anjeun di ahir poé-poé, sabab can ayeuna; pangimih masih pikeun poé-poé.payun",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "Jeung kuring datang"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "mérios anjeun ngartos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu bakal karandapan ku umat anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "bakal karandapan"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ku umat anjeun"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "di ahir"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "can ayeuna; masih"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "pangimih"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "pikeun poé-poé.payun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:22:44.163034132Z",
+  "model": "glm-5.3"
+}

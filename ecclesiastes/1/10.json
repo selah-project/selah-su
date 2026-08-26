@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Aya perkara nu bisa dikatakeun: Tétinggalan, ieu anyar! — geus aya ti baheula, jeung keur jaman baheula saméméh urang.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "nu bisa dikatakeun"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tétinggalan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "geus"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "ti jaman baheula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "keur"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "saméméh urang"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:10.320471437Z",
+  "model": "glm-5.3"
+}

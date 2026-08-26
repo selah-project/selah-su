@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung kuring ngirim seuneu kana pinding Azza, jeung éta ngahakan istana-istanana.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "jeung kuring ngirim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "kana pinding"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azza"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "jeung éta ngahakan"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "istana-istanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:08:09.862299364Z",
+  "model": "glm-5.3"
+}

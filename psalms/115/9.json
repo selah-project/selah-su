@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Israél, panceg percaya ka Yahwe; pitulung maranehana jeung taméng maranehana ⟨manehna⟩.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "panceg percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pitulung maranehana"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "jeung taméng maranehana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨manehna⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.674321522Z",
+  "model": "glm-5.3"
+}

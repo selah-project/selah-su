@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ papajangan-papajangan pikeun Miszkan, kai akasia, ngadeg ngajengkang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papajangan-papajangan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papajangan-papajangan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pikeun Miszkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg ngajengkang"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:43.927162290Z",
+  "model": "glm-5.3"
+}

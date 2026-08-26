@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ⟨את⟩ urang Yebus, jeung ⟨את⟩ urang Emor, jeung ⟨את⟩ urang Girgasy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Yebus"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "urang Yebus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Emor"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Girgasy"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "urang Girgasy"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:51.986779964Z",
+  "model": "glm-5.3"
+}

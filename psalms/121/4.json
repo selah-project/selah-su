@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 121,
+  "translation": "Tempo, moal tunduh jeung moal saré Nu Ngajaga Israél.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tempo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "tunduh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "saré"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Nu Ngajaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:36.889709907Z",
+  "model": "glm-5.3"
+}

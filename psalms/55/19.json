@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Anjeunna ngabébaskeun dina karapihan nefesh abdi ti ⟨nu⟩ padeukeut ka abdi, sabab dina ka lobana aya jeung abdi.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Anjeunna ngabébaskeun"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dina karapihan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ti padeukeut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "dina ka lobana"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aya"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jeung abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:37.655326371Z",
+  "model": "glm-5.3"
+}

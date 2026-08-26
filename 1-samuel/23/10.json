@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Daud nyarios: \"Yahwe, Elohim-na Israél, abdi-Mu dumu bener-bener ngadenge yen Saul niana pikeun asup ka Keila, pikeun ngancurkeun kota ku lantaran abdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarios"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadenge"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bener-bener ngadenge"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "niana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pikeun asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "pikeun ngancurkeun"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "ku lantaran abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:26.874126776Z",
+  "model": "glm-5.3"
+}

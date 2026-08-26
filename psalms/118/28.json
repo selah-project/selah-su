@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "El kuring anjeun ⟨iya⟩, sarta abdi muji Anjeun; Elohim kuring, abdi ngaluhurkeun Anjeun.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El kuring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "sarta abdi muji Anjeun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "abdi ngaluhurkeun Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:15.408082562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Sarta pangulu nu nyembelih marentahkeun ⟨את⟩ Yosef énggal jeung maranéhna, sarta anjeunna ngalayanan ⟨את⟩ maranéhna; sarta maranéhna tepi sababaraha poé dina tahanan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "marentahkeun"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "nu nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jeung"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "ngalayanan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "tepi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sababaraha poé"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "dina tahanan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:19.322054187Z",
+  "model": "glm-5.3"
+}

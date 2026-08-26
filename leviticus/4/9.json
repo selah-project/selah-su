@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung ⟨את⟩ dua ginjal, jeung ⟨את⟩ lemak nu aya di luhureunana, nu aya di luhureun tulang pingping, jeung ⟨את⟩ tambahan ati nu di luhureun ati, di luhureun ginjal-ginjal, anjeunna ngaleupaskeunana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "dua ginjal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "di luhureunana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "tulang pingping"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tambahan ati"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "tambahan ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ginjal-ginjal"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "anjeunna ngaleupaskeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:53.448240076Z",
+  "model": "glm-5.3"
+}

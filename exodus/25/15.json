@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Dina cingcin-cingcin ⟨the⟩ Aron ⟨ia⟩ galang-galang bakal aya, ulah dibawa ti ⟨ieu⟩.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "dina cingcin-cingcin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal aya"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "galang-galang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "dibawa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:47.696197929Z",
+  "model": "glm-5.3"
+}

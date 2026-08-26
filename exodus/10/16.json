@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teras Parah gancang mios nyaba Moshe jeung Harun, sarta ngomong: Kuring geus dosa ka Yahwe, Elohim aranjeun, jeung ka aranjeun.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "gancang mios"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parah"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "nyaba"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ka Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "jeung ka Harun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Kuring geus dosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "jeung ka aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:49.422759202Z",
+  "model": "glm-5.3"
+}

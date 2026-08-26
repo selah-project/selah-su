@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Malékat Yahwe ogé ngomong ka anjeunna: Nambah loba pisan kuring baris nambahkeun ⟨את⟩ siki turunanmu, nepi ka teu bisa diitung lobana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malékat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "loba pisan"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "kuring baris nambahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siki turunanmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siki turunanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bisa diitung"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "lobana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:33.862523811Z",
+  "model": "glm-5.3"
+}

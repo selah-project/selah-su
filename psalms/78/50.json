@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Anjeunna ngaratakeun jalan pikeun ambek-Na; teu ngeuneungkeun nyawa maranehna tina pati, jeung hirupna dipasrahkeun ka wabah.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "ngaratakeun"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "pikeun ambek-Na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ngeuneungkeun"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "tina pati"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa maranehna"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "jeung hirupna"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ka wabah"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "dipasrahkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:51.900946188Z",
+  "model": "glm-5.3"
+}

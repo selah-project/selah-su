@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Anjeunna ngirim ⟨את⟩ manuk gakak; éta kaluar, indit jeung balik deui, nepi ka garingna cai ti luhureun bumi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk gakak"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "manuk gakak"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "éta kaluar"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "indit"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "garingna"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:16.728344629Z",
+  "model": "glm-5.3"
+}

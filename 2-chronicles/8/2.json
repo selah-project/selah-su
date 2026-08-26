@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Ari kota-kota nu dibikeun Huram ka Shelomoh, diwangun deui ku Shelomoh ⟨את⟩-na, sarta ditetepkeun cicing di dinya ⟨את⟩ putra-putra Yisrael.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "ari kota-kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ka Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "diwangun deui"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ku Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-na",
+      "marks": "kota-kota"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "sarta ditetepkeun cicing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T17:26:31.194577637Z",
+  "model": "glm-5.3"
+}

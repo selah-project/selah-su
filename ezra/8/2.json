@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 8:2",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Ti putra-putra Pinhas, Gereshom; ti putra-putra Itamar, Daniel; ti putra-putra David, Xatus.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "ti putra-putra Pinhas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhas"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ti putra-putra Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ti putra-putra David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Xatus"
+    }
+  ],
+  "timestamp": "2026-08-26T15:54:12.183245414Z",
+  "model": "glm-5.3"
+}

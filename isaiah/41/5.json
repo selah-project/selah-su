@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Pulo-pulo geus nempo jeung sieun, tungtung-tungtung bumi ngageter; aranjeunna ngadeukeutan sarta datang.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "geus nempo"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulo-pulo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "jeung sieun"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tungtung-tungtung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "ngageter"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ngadeukeutan"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "sarta datang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:00.985147643Z",
+  "model": "glm-5.3"
+}

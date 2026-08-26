@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Tina panindihan jeung tina kajahatan ku ditebusana nyawana, jeung mahal getihna dina panonna.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "tina"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "jeung tina kajahatan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ditebus"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawana"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "jeung mahal"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dina panonna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:50.245627273Z",
+  "model": "glm-5.3"
+}

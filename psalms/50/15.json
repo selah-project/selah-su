@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Jeung serelah ka abdi dina poé karunya; abdi nyalametkeun anjeun, jeung anjeun ngamulyakeun abdi.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "jeung serelah ka abdi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "karunya"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "abdi nyalametkeun anjeun"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "jeung anjeun ngamulyakeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:47.208302324Z",
+  "model": "glm-5.3"
+}

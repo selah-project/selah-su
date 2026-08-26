@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Sabab palsu maranéhna nganubuang ka anjeun, sangkan anjeun dijauhkeun ti taneuh anjeun, jeung kuring ngusir anjeun, jeung anjeun binasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "palsu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nganubuang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "dijauhkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "taneuh anjeun"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "jeung kuring ngusir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "jeung anjeun binasa"
+    }
+  ],
+  "timestamp": "2026-08-26T13:32:26.169540336Z",
+  "model": "glm-5.3"
+}

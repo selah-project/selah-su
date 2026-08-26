@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "jeung manéhna midangkeun ti eta kurbanana, sesa seuneu pikeun Yahwe: ⟨את⟩ lemak nu nutupan ⟨את⟩ beuteung, jeung ⟨את⟩ sakabéh lemak nu aya dina beuteung.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "jeung-midangkeun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti-eta"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbanana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sesa-seuneu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun-Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eta-lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "eta-lemak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nu-nutupan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eta-beuteung"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "eta-beuteung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "sakabéh lemak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "eta-beuteung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:45.741879951Z",
+  "model": "glm-5.3"
+}

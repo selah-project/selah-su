@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung Esav cicing di gunung Seir; Esav éta téh ⟨he⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Jeung cicing"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta téh"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:41.856237088Z",
+  "model": "glm-5.3"
+}

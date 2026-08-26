@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 53,
+  "translation": "Jeung midikeunana ⟨את⟩ jalma-jalma jahat kuburna, jeung ⟨את⟩ nu kaya dina paéhna; sabab teu aya karusakan nu digawe, jeung teu aya pangecér dina sungutna.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "jeung midikeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma-jalma jahat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kuburna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu kaya"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "nu kaya"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "dina paéhna"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "karusakan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu aya"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pangecér"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "dina sungutna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:12.024858682Z",
+  "model": "glm-5.3"
+}

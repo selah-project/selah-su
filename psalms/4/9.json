@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Dina karapihan babarengan kuring baré rebah sarta saré; sabab anjeun, Yahwe, wungkul, nu mawa kuring cicing kalawan aman.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "dina karapihan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "kuring baré rebah"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "sarta saré"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "wungkul"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kalawan aman"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "nu mawa kuring cicing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:00.731698907Z",
+  "model": "glm-5.3"
+}

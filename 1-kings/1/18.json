@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ayeuna, tingali, Adoniyah geus jadi raja, jeung ayeuna, Tuan kuring ⟨sang⟩ raja, anjeun henteu nyaho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jeung ayeuna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "geus jadi raja"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Tuan kuring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨sang⟩ raja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anjeun nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:08.027441038Z",
+  "model": "glm-5.3"
+}

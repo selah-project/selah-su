@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Anjeun méré ka abdi perisay kasalametan-Mu, sarta leungeun katuhu-Mu nyangga abdi, sarta kerendahan haté-Mu ngabadagan abdi.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Anjeun méré"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "perisay"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "kasalametan-Mu"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "sarta leungeun katuhu-Mu"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "nyangga abdi"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "sarta kerendahan haté-Mu"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "ngabadagan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:46.648671702Z",
+  "model": "glm-5.3"
+}

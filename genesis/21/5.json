@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Avraham umur saratus taun nalika Yitsxak putrana dilahirkeun ka manéhna.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Jeung Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "nalika dilahirkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:57.602642948Z",
+  "model": "glm-5.3"
+}

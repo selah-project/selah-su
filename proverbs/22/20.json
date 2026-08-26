@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Naha teu tilu kali kuring nulis pikeun anjeun, ku nasihat jeung kanyahuan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "naha teu"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "kuring nulis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "tilu kali"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "ku nasihat"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "jeung kanyahuan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:35.844925249Z",
+  "model": "glm-5.3"
+}

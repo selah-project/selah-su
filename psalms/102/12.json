@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Poé-poé abdi sarua jeung kalangkang nu dibeulahkeun; jeung abdi garing saperti jukut.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé abdi"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "sarua kalangkang"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "nu dibeulahkeun"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeung abdi"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "saperti jukut"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "garing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:17.035411099Z",
+  "model": "glm-5.3"
+}

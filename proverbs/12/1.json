@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Nu mikacinta atikan mikacinta kaweruh, tapi nu benci ka kuréksi mah belet.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mikacinta"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "atikan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mikacinta"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaweruh"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "benci"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "kuréksi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "belet"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:05.633528486Z",
+  "model": "glm-5.3"
+}

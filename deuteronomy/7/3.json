@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta ulah sabinihan jeung aranjeunna: putri anjeun ulah dibikeun ka putrana, sarta putrina ulah dicandak pikeun putra anjeun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Sarta ulah"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "sabinihan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jeung aranjeunna"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "putri anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ka putrana"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "sarta putrina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "pikeun putra anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:15.190510602Z",
+  "model": "glm-5.3"
+}

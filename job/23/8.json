@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Tara, ka wétan abdi leumpang — ⟨anjeunna⟩ teu aya; ka tukang — tur abdi henteu ngarti ka ⟨anjeunna⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "tara"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ka wétan"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "abdi leumpang"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "tur ⟨anjeunna⟩ teu aya"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "tur ka tukang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tur henteu"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "abdi ngarti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka ⟨anjeunna⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T17:18:39.823880122Z",
+  "model": "glm-5.3"
+}

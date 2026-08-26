@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Paluruh Yahwe jeung kakuatana; golekan rarayna terus-terusan.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Paluruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "jeung kakuatana"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "golekan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rarayna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-terusan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:25.668529754Z",
+  "model": "glm-5.3"
+}

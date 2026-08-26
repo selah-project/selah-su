@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Sabab lain musuh nu ngahina abdi — maka abdi nanggung éta; lain ogé nu benci ka abdi nu ngagedékeun manéhna ngalawan abdi — maka abdi nyumput ti anjeunna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "nu ngahina abdi"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "maka abdi nanggung éta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain ogé"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "nu benci ka abdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan abdi"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nu ngagedékeun manéhna"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "maka abdi nyumput"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:44.524369624Z",
+  "model": "glm-5.3"
+}

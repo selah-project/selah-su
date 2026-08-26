@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Baham kuring buka lega sarta ngaharengheng, sabab kuring kahayang paréntah-Mu.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "baham kuring"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "buka lega"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "sarta ngaharengheng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "paréntah-Mu"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "kuring kahayang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:50.597900393Z",
+  "model": "glm-5.3"
+}

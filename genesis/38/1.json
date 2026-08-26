@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jadi mangsa harita Yehudah turun ti ⟨את⟩ dulur-dulurna, sarta nyimpang nepi ka hiji jalma ti Adulam, anu ngaranna Khirah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi mangsa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina mangsa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩",
+      "marks": "dulur-dulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulur-dulurna"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "nyimpang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiji jalma"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "ti Adulam"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "anu ngaranna"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Khirah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:04.961827752Z",
+  "model": "glm-5.3"
+}

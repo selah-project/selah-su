@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung kaula beungbarkeun ka aranjeun ⟨את⟩ perak jeung ⟨את⟩ emas jeung ⟨את⟩ parabot-parabot — sesajén pikeun imah Elohim urang — nu diangkat ku raja, jeung panaséhatna, jeung pangulina, jeung sakabéh Israél nu kapanggih.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "jeung kaula beungbarkeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parabot-parabot"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "parabot-parabot"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "sesajén"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "nu diangkat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "jeung panaséhatna"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "jeung pangulina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nu kapanggih"
+    }
+  ],
+  "timestamp": "2026-08-26T15:54:53.190731986Z",
+  "model": "glm-5.3"
+}

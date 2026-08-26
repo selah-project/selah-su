@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Sarta maranéhna ngaitkeun ⟨את⟩ hamprang dada tina ciciritna ka cicirit efod ku laweung bageulatan biru, sangkan aya di luhureun sabuk nu ditenun tina efod, jeung sangkan hamprang dada henteu ngagésér tina efod, salaku anu diparéntahkeun Yahwe ka ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "ngaitkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamprang dada"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hamprang dada"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "tina ciciritna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "cicirit"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "ku laweung"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bageulatan biru"
+    },
+    {
+      "surface": "להית",
+      "gloss": "sangkan aya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "sabuk nu ditenun"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "ngagésér"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hamprang dada"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tina"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "salaku anu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:30.365696428Z",
+  "model": "glm-5.3"
+}

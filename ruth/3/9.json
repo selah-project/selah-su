@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anjeunna nyarita, \"Saha ⟨את⟩ anjeun?\" Nyahona, \"Abdi Rut, awéawé anjeun; sajangan sayap anjeun kepakeun ka luhur awéawé anjeun, sabab anjeun goél.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nyahona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "awéawé anjeun"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "kepakeun sajangan"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "sayap (sajangan) anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "awéawé anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goél"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:57.107496042Z",
+  "model": "glm-5.3"
+}

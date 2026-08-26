@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 121,
+  "translation": "Kidung tarajé. Kuring ngangkat panon kuring ka pagunungan — ti mana datangna pitulung kuring?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kuring ngangkat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "pagunungan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ti mana"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "datangna"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "pitulung kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:36.889175142Z",
+  "model": "glm-5.3"
+}

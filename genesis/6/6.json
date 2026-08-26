@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung Yahwe nyesa yén ⟨הועשה⟩ geus nyieun ⟨את⟩ jalma di ⟨the⟩ bumi, jeung gaduh-susah-atina.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nyesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "gaduh-susah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atina"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:54.573380034Z",
+  "model": "glm-5.3"
+}

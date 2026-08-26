@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Hadé anjeun ngawasa ieu, jeung ogé ti ieu ulah ngaleupaskeun ⟨את⟩ leungeun anjeun; sabab nu takut ka Elohim bakal kaluar ti ⟨את⟩ sadayana.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ngawasa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ti ieu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun anjeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nu takut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bakal kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:42.764298903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras abdi muka ⟨את⟩ baham abdi, sarta Anjeunna madinginan abdi ⟨את⟩ gulungan ieu.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "teras abdi muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baham abdi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baham abdi"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "sarta madinginan abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan ieu"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gulungan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:44:25.108900420Z",
+  "model": "glm-5.3"
+}

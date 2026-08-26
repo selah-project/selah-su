@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Yahwe, singlahan; sang raja ⟨énto⟩ ngajawab urang dina poé urang ngagero.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "singlahan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ngajawab urang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "urang ngagero"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:43.141070668Z",
+  "model": "glm-5.3"
+}

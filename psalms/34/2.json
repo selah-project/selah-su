@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Abaktakeun déwa kuring ka Yahwe dina unggal wanci, papujian-Na tumilar-tilar dina biang sorangan.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "abaktakeun-déwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina unggal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wanci"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tumilar-tilar"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "papujian-Na"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dina biang sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:37:47.898368371Z",
+  "model": "glm-5.3"
+}

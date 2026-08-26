@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Gidéon sumping ka Yarden, ngaliwatan, anjeunna jeung tilu ratus urang nu ⟨את⟩ babarenganana, baseuh liar tapi tetep ngudag.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "jeung sumping"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidéon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ka Yarden"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ babarenganana",
+      "marks": "babarenganana"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "baseuh liar"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "jeung ngudag"
+    }
+  ],
+  "timestamp": "2026-08-26T12:05:03.222198465Z",
+  "model": "glm-5.3"
+}

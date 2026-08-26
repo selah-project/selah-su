@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Ulah aya pikeun manehna nu ngajembarkeun xesed, jeung ulah aya nu méré asih pikeun anak-anakna nu yatim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manehna"
+    },
+    {
+      "surface": "משך",
+      "gloss": "nu ngajembarkeun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "aya"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nu méré asih"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "pikeun anak-anakna nu yatim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:40.141359884Z",
+  "model": "glm-5.3"
+}

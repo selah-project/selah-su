@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Teras aya kecap Yahwe ka anjeunna, nyarita:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Teras aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:16.302680690Z",
+  "model": "glm-5.3"
+}

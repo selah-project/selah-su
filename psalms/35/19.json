@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Ulah nepika musuh-musuh kuring bungah ngalangkungan kuring sacara goréng; ulah nu menci kuring tanpa sabab nyicingkeun ⟨את⟩ panon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuh kuring"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sacara goréng"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nu menci kuring"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sabab"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "nyicingkeun"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon",
+      "marks": "panon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:50.737881784Z",
+  "model": "glm-5.3"
+}

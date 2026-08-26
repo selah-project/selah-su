@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung maranehna ngagundrukkeun ⟨את⟩ éta bangkong, munggel-munggel, lajeng ⟨the⟩ bumi jadiambu.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "jeung-ngagundrukkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "éta bangkong"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "munggel-munggel"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "munggel-munggel"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "lajeng-jadiambu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:43.018060324Z",
+  "model": "glm-5.3"
+}

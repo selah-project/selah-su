@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Lamun euweuh putri pikeun manéhna, jer maraneh masihan ⟨את⟩ warisanna ka sadulur-sadulurna.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manéhna"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "jer maraneh masihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisanna"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisanna"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ka sadulur-sadulurna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:35:01.758618063Z",
+  "model": "glm-5.3"
+}

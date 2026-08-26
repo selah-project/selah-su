@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Dina poé éta bakal aya jalan ageung ti Mitsrajim ka Ashshur, sarta Ashshur asup ka Mitsrajim, jeung Mitsrajim ka Ashshur, sarta Mitsrajim baris ngawula babarengan jeung ⟨את⟩ Ashshur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal aya"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "jalan ageung"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrajim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ka Ashshur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "sarta asup"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ka Mitsrajim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "jeung Mitsrajim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "ka Ashshur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "sarta baris ngawula"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashshur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-26T16:58:40.845821331Z",
+  "model": "glm-5.3"
+}

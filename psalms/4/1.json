@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Ka pangatik, ku parengke senar, mazmur ti David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka pangatik"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ku parengke senar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:25.372666301Z",
+  "model": "glm-5.3"
+}

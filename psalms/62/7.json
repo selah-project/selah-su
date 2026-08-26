@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Ngan Anjeunna waé batu karang kuring jeung kasalametan kuring; bénténg luhur kuring; moal kuring sogong.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Anjeunna"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu karang kuring"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "jeung kasalametan kuring"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "bénténg luhur kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kuring sogong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:25.545215332Z",
+  "model": "glm-5.3"
+}

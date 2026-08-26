@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Kangge pangulina; Ulah musnahkeun; mizmor kangge Asaf; lagu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kangge pangulina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "musnahkeun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kangge Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:44.561517945Z",
+  "model": "glm-5.3"
+}

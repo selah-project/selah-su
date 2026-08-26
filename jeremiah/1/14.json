@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tur Yahwe ngandika ka abdi: Ti beulah kalér bakal dibuka kajahatan kana sakum nu cicing di bumi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tur ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ti beulah kalér"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "bakal dibuka"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakum"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "nu cicing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:21:53.123235324Z",
+  "model": "glm-5.3"
+}

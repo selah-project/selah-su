@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Ka pamingpin musik, nurutkeun Yedutun, pikeun Asaf — mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka pamingpin musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "nurutkeun"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pikeun Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:12.835917290Z",
+  "model": "glm-5.3"
+}

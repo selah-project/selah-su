@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jadi Yahwe ngencarkeun ⟨את⟩ maranéhna ti dinya kana beungeut sakabéh bumi, sarta maranéhna eureun ngawangun kota.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Jadi ngencarkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "sarta eureun"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:47.176436419Z",
+  "model": "glm-5.3"
+}

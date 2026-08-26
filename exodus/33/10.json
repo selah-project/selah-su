@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Sakabéh bangsa nempo ⟨את⟩ tiang awan nangtung di panto khemah, lajeng sakabéh bangsa jaga sarta sujud, unggal jalma di panto khemahna.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang awan"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "lajeng jaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "sarta sujud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:27.600020163Z",
+  "model": "glm-5.3"
+}

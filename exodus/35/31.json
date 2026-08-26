@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung manéhna ngeusian ⟨את⟩ manéhna ku roh Elohim, dina hikmah, dina pamahaman, jeung dina kanyaho, jeung dina sagala kameuli-pagawéan.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "jeung ngeusian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dina hikmah"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "dina pamahaman"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "jeung dina kanyaho"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung dina sagala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pagawéan-kameuli"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:08.695884769Z",
+  "model": "glm-5.3"
+}

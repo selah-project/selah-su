@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Sora geger ti kota, sora ti bait suci, sora Yahwe nu ngabalas ku gemel ka musuh-musuh-Na.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "geger"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ti kota"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "ti bait suci"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "nu ngabalas"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ku gemel"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "ka musuh-musuh-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T13:21:23.249007168Z",
+  "model": "glm-5.3"
+}

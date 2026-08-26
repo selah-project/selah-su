@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Dawid nyarita ka rumaja nu méjakeun ka anjeunna: Kumaha anjeun terang yen Shaul jeung Yonatan putrana geus paeh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "teras nyarita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "rumaja"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "nu méjakeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anjeun terang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "geus paeh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "jeung Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:39.747700857Z",
+  "model": "glm-5.3"
+}

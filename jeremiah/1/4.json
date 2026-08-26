@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta kecap Yahwe datang ka abdi, nengetan:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sarta kajadian"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nengetan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:20:25.189297133Z",
+  "model": "glm-5.3"
+}

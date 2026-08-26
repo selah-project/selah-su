@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung panyakitra-panyakitra Amon ngarawang balaka ka anjeunna, lajeng maranehna maéhan ⟨את⟩ sang raja di imahna sorangan.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "Jeung panyakitra-panyakitra ngarawang balaka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "panyakitra-panyakitra"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "lajeng maranehna maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di imahna sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:10.426338998Z",
+  "model": "glm-5.3"
+}

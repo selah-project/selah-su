@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Malah anjeun kudu muka-muka ⟨את⟩ leungeun anjeun ka manehna, sarta méré adam-anjeunna, cageur kana kakuranganana nu kurang ka manehna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "malah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muka-muka"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "anjén muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun anjeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manehna"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "sarta méré adam"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "anjén méré adam ka manehna"
+    },
+    {
+      "surface": "די",
+      "gloss": "cukup\/cageur"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "kana kakuranganana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:36.363836667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Moal mulang deui ka imahna, sarta tempatna moal mikawanoh ⟨dirina⟩ deui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mulang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ka imahna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "mikawanoh ⟨dirina⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "tempatna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:58.749615581Z",
+  "model": "glm-5.3"
+}

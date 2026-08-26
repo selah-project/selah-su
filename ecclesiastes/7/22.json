@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sabab ogé kalilu-kalilu haté anjeun terang yén ogé anjeun ⟨את⟩ ngahiwar batur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kalilu-kalilu"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "(mindeng pisan)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "terang"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "haté anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yén"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngahiwar (anjeun)"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ngahiwar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "batur"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:15.322917902Z",
+  "model": "glm-5.3"
+}

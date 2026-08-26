@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Pikeun Dawid. Bantahan, Yahwe, ⟨את⟩ nu ngabantah kuring; perang, ⟨את⟩ nu perang ngalawan kuring.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Pikeun Dawid"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "bantahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ngabantah kuring"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "nu ngabantah kuring"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu perang ngalawan kuring"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "nu perang ngalawan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:23.451089285Z",
+  "model": "glm-5.3"
+}

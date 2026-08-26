@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sora Yahwe ngabalahang beuleum seuneu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ngabalahang"
+    },
+    {
+      "surface": "لהבות",
+      "gloss": "beuleum"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:03.751207118Z",
+  "model": "glm-5.3"
+}

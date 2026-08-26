@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung aranjeunna bakal musnah di antara bangsa-bangsa, jeung taneuh musuh-musuh aranjeunna bakal ngahakan ⟨את⟩ aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "bakal musnah"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "bakal ngahakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuh aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:31.534969431Z",
+  "model": "glm-5.3"
+}

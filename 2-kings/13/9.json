@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 13:9",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Teras Yehoaxaz saré jeung bapana, sarta arana dikubur di Shomron, trus Yoxash putrana jadi raja gagantina.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Teras saré"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "sarta arana dikubur"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "teras jadi raja"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoxash"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "gagantina"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:04.492593823Z",
+  "model": "glm-5.3"
+}

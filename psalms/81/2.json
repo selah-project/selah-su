@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Ramel-sorakeun ka Elohim, kakuatan urang; teriak sorana ka Elohim-ina Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "ramel-sorakeun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "kakuatan urang"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "teriak sorana"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ka Elohim-ina"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:52.429247899Z",
+  "model": "glm-5.3"
+}

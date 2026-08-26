@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jadi hate abdi sampurna dina katangtuan anjeun, sangkan abdi teu boga sumawung dihina.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "jadi\/mangga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hate abdi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sampurna\/浑"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dina katangtuan anjeun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "boga sumawung dihina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:29.223335391Z",
+  "model": "glm-5.3"
+}

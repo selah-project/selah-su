@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Budi damelkeun ⟨את⟩ tanda kaheureuyan pikeun abdi, sangkan nu mibenci abdi nempo sarta sieun-éwang, sabab Anjeun, Yahwe, geus nulungan abdi jeung geus mawa panglipur ka abdi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "damelkeun"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "אות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "kaheureuyan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "sangkan ... nempo"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nu mibenci abdi"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "sarta sieun-éwang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "geus nulungan abdi"
+    },
+    {
+      "surface": "וינחמתני",
+      "gloss": "jeung geus maha panglipur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:27.337522805Z",
+  "model": "glm-5.3"
+}

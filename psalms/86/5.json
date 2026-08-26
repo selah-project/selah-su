@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Sabab anjeun, Adonay, ⟨are⟩ hadé jeung saperah ngahampura, jeung lobana kanyaah perjangjian ka sadaya nu nagero ka anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "jeung saperah ngahampura"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jeung lobana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kanyaah perjangjian"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadaya"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "nu nagero ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:44.462139220Z",
+  "model": "glm-5.3"
+}

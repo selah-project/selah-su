@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Anu ngirim tanda-tanda jeung kajadian-kajadian héran ka tengah-tengah anjeun, hé Mitsrajim, ka Paroh jeung ka sadaya abdina.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tanda-tanda"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "jeung kajadian-kajadian héran"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ka tengah-tengah anjeun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ka Paroh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung ka sadaya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:45.912549026Z",
+  "model": "glm-5.3"
+}

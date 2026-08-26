@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Turun abdi ngadéngé ⟨את⟩ sora Adonay nu ngomong: Saha-empon abdi kirim, jeung saha nu bakal anggo ka urang? Terus abdi ngomong: Di dieu abdi, kirim abdi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "turun abdi ngadéngé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "abdi kirim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jeung saha"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "bakal anggo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "terus abdi ngomong"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "di dieu abdi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "kirim abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:12.324322277Z",
+  "model": "glm-5.3"
+}

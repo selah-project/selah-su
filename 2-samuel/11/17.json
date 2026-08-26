@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung kaluar jalma-jalma ⟨si kota⟩, sarta maranehna perang ngalawan ⟨את⟩ Yoab; lajeng ragrag ti antara ⟨rakyat⟩, ti antara abdi-abdi Dawid, jeung maot ogé Uria urang Het.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "jeung kaluar"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨si kota⟩"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "sarta perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "lajeng ragrag"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨rakyat⟩"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ti antara abdi-abdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jeung maot"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "urang Het"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:13.281379860Z",
+  "model": "glm-5.3"
+}

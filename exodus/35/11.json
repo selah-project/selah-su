@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "⟨את⟩ ⟨the⟩ mishkan, ⟨את⟩ khemahna jeung ⟨את〉 tutupana, ⟨את⟩ kekeresna jeung ⟨את⟩ kereshna, ⟨את⟩ barikhna, ⟨את⟩ tihangna jeung ⟨את⟩ adanana —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemahna"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tutupana"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "tutupana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekeresna"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "kekeresna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kereshna"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "kereshna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barikhna"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "barikhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tihangna"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "tihangna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "adanana"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "adanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:54.062163061Z",
+  "model": "glm-5.3"
+}

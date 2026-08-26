@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 122,
+  "translation": "Kidung inaikan, pikeun Dawid. Bungah haté kuring nalika maranéhna ngomong ka kuring: ka imah Yahwe urang indit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "inaikan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "bungah haté kuring"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "nalika maranéhna ngomong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "urang indit"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:10.734812009Z",
+  "model": "glm-5.3"
+}

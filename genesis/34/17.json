@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Tapi mun anjeun moal ngadangu ka kami pikeun disunat, mangka urang bakal mawa ⟨את⟩ putri urang, sarta urang indit.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tapi mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "anjeun ngadangu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "pikeun disunat"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "urang bakal mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putri urang"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "putri urang"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "urang indit"
+    }
+  ],
+  "timestamp": "2026-08-26T16:38:10.629576096Z",
+  "model": "glm-5.3"
+}

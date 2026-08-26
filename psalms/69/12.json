@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Kuring ngajadikeun pakéan kuring sak, jeung kuring jadi pasemon ka maranehna.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kuring ngajadikeun"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "pakéan kuring"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sak"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "jeung kuring jadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "pasemon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:47.397125036Z",
+  "model": "glm-5.3"
+}

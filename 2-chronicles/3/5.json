@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ⟨את⟩ bumi ⟨the⟩ badag disalutan kai seureuh; tuluy disalutanana emas nu alus, sarta dipasang luhureunana ukiran tangkal korma jeung ranté-ranté.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bumi badag"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "badag"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "disalutan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "seureuh"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "disalutanana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dipasang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "luhureunana"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "ukiran tangkal korma"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "jeung ranté-ranté"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:05.920996839Z",
+  "model": "glm-5.3"
+}

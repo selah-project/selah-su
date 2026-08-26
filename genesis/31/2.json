@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung Yaakov nempo ⟨את⟩ beungeut Lavan, jeung tuminggal, lain sasarenganana saperti kamari-kamari baheula.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beungeut Lavan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tuminggal"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "lain"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sasarenganana"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "saperti kamari"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "kamari baheula"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:01.833232342Z",
+  "model": "glm-5.3"
+}

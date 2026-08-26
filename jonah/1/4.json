@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tapi Yahwe ngalungkeun angin ⟨את⟩ badé kana laut, jadi aya bencana badé di laut, sarta kapal éta keur dianggap rék peuntas.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Tapi Yahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "ngalungkeun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "badé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "סער",
+      "gloss": "bencana"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "badé"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "sarta kapal éta"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "keur dianggap"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "rék peuntas"
+    }
+  ],
+  "timestamp": "2026-08-26T17:08:58.179514477Z",
+  "model": "glm-5.3"
+}

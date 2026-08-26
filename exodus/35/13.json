@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "⟨את⟩ méja jeung ⟨את⟩ palang-palangna jeung ⟨את⟩ sadaya parabotna, jeung ⟨את⟩ roti kaayunan",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "méja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "palang-palangna"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "palang-palangna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "kaayunan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:12.036533548Z",
+  "model": "glm-5.3"
+}

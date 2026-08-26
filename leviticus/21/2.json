@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "iwal pikeun karabi-na nu deukeut ka anjeunna: indung-na, bapak-na, putra-na, putri-na, jeung dulur lalaki-na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "iwal"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "pikeun karabi-na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nu deukeut"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "indung-na"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "jeung bapak-na"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "jeung putra-na"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "jeung putri-na"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "jeung dulur lalaki-na"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:25.951154240Z",
+  "model": "glm-5.3"
+}

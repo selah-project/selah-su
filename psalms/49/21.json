@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Manusa aya dina kamulyaan tapi teu ngarti, geus disaruannana jeung sato ingon-ingon — aranjeuna geus binasa.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "dina kamulyaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "disaruannana"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "jeung sato ingon-ingon"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "geus binasa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:14.253805450Z",
+  "model": "glm-5.3"
+}

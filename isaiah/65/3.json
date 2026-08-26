@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Bala nu ngamukiskeun ⟨את⟩ kuring, nyambar hareup kuring terus-terusan; nu ngorbankeun di kebun-kebun, jeung ngaseupan dina batu-bata.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "bala"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "ngamukiskeun"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "kuring"
+    },
+    {
+      "surface": "על",
+      "gloss": "nyambar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hareup"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-terusan"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ngorbankeun"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "di kebun-kebun"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "jeung ngaseupan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "batu-bata"
+    }
+  ],
+  "timestamp": "2026-08-26T13:20:53.968958274Z",
+  "model": "glm-5.3"
+}

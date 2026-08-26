@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "ku wabah nu ngarayap ka dipoé, ku kabinasaan nu ngancurkeun dina tengah poé.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ku wabah"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "ka dipoé"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ngarayap"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ku kabinasaan"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "dina tengah poé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:57.365628457Z",
+  "model": "glm-5.3"
+}

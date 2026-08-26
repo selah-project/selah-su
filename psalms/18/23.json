@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sabab sagala putusan-putusan-Na aya di payuneun abdi, sarta katangtuan-katangtuan-Na teu kasingkirkeun ti émong abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "putusan-putusan-Na"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "aya di payuneun abdi"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "sarta katangtuan-katangtuan-Na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "kasingkirkeun"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ti émong abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:33.057320411Z",
+  "model": "glm-5.3"
+}

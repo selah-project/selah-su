@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung anjeun bakal nyieun ⟨את⟩ papan-papan pikeun ⟨the⟩ padumukan: kai akasia, ngadeg nangtung.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pikeun padumukan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg nangtung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:19.721290322Z",
+  "model": "glm-5.3"
+}

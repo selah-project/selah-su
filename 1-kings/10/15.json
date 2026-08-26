@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Salian ti anu ti jalma-jalma bala-sarwat jeung baladag padagang-padagang, sarta ti sakabeh raja-raja Arab jeung bupati-bupati nagara.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Salian ti"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "ti jalma-jalma"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "bala-sarwat"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "jeung baladag"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "padagang-padagang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta sakabeh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "jeung bupati-bupati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:08.501833208Z",
+  "model": "glm-5.3"
+}

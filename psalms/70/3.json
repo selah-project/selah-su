@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 70,
+  "translation": "Ingkés jeung ruksak éra anu ngudag ⟨את⟩ nyawa abdi; mundur ka tukang jeung sieun éra anu boga karesekan kana sangsara abdi.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ingkés"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "jeung ruksak éra"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "anu ngudag"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa abdi"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka tukang"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "jeung sieun éra"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "anu boga karesekan"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kana sangsara abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:05.889338953Z",
+  "model": "glm-5.3"
+}

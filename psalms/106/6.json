@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Urang geus dosa babarengan jeung bapak-bapak urang, urang geus nyempal, urang geus bajikat.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "urang geus dosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "babarengan jeung"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapak-bapak urang"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "urang geus nyempal"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "urang geus bajikat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:35.748511061Z",
+  "model": "glm-5.3"
+}

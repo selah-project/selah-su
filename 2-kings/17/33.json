@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Maranehna jadi sieueun ka ⟨את⟩ Yahwe, jeung jadi ngawula ka ⟨את⟩ allah-allahna, luyu jeung adat bangsa-bangsa nu ⟨את⟩ ngabuang ⟨את⟩ maranehna ti dinya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "sieueun"
+    },
+    {
+      "surface": "ויראים",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allah-allahna"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah-allahna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ngawula"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "luyu jeung adat"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "⟨את⟩ ngabuang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T12:57:59.821244798Z",
+  "model": "glm-5.3"
+}

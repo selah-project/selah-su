@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Gelar jeung ruhud baé nu milari jiwa kuring; undur ka tukang jeung ruksak rusuh baé nu ngarancang karuksakan kuring.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "geulah"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "jeung ruhud"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "nu milari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "undur"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka tukang"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "jeung ruksak rusuh"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "nu ngarancang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "karuksakan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:23.451572802Z",
+  "model": "glm-5.3"
+}

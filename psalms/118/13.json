@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Ngadorong ngadorong anjeun abdi sangkan murag, tapi Yahwe nulungan abdi.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "ngadorong"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "anjeun ngadorong abdi"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "sangkan murag"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "tapi Yahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "nulungan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:36.116077298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung urang ngala dina waktu harita ⟨את⟩ taneuh éta ti leungeun dua raja urang Emori anu di sabeulahna Yardén, ti walungan Arnon nepi ka gunung Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "jeung urang ngala"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh éta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh éta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di sabeulahna"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "ti walungan"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:43.726385032Z",
+  "model": "glm-5.3"
+}

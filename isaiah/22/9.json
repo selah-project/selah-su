@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung ⟨את⟩ rékah-rékah kota Dawid geus maraneh tingali, sabab loba pisan, jeung maraneh ngumpulkeun ⟨את⟩ cai kolam nu handap.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "rékah-rékah kota Dawid"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "rékah-rékah"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "geus maraneh tingali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "loba pisan"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "jeung maraneh ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cai kolam nu handap"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cai"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "kolam"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "nu handap"
+    }
+  ],
+  "timestamp": "2026-08-26T13:07:03.515953499Z",
+  "model": "glm-5.3"
+}

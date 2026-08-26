@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sanggeus éta Iyob muka ⟨את⟩ sungutna sarta ngutuk ⟨את⟩ poéna.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungutna"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sungutna"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "sarta ngutuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poéna"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "poéna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:02.396034816Z",
+  "model": "glm-5.3"
+}

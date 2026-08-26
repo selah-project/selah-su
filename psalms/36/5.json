@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Kalapayan ngarancang di luhur damparanna; manéhna nangtung dina jalan nu lain hadé; ka nu goreng manéhna teu ngarasa euceuh.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "kalapayan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ngarancang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "damparanna"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nu goreng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ngarasa euceuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:55.164284903Z",
+  "model": "glm-5.3"
+}

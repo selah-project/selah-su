@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Lemek hirup sanggeus ngalahirkeun ⟨את⟩ Noach lima jeung salapan puluh taun jeung lima ratus taun, sarta ngalahirkeun putra-putra jeung putri-putri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "jeung salapan puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "jeung lima"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "putri-putri"
+    }
+  ],
+  "timestamp": "2026-08-26T17:28:32.967526083Z",
+  "model": "glm-5.3"
+}

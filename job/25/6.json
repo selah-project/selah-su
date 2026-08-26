@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Lamun kitu, mozat deui manusa — insét, jeung anak Adam — gegemet!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "mozat deui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun kitu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "insét"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jeung anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "gegemet"
+    }
+  ],
+  "timestamp": "2026-08-26T15:12:29.047027537Z",
+  "model": "glm-5.3"
+}

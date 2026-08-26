@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ti putra-putra Imér: Khanani jeung Zevadya.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "jeung ti putra-putra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Imér"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Khanani"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "Zevadya"
+    }
+  ],
+  "timestamp": "2026-08-26T15:56:13.546215642Z",
+  "model": "glm-5.3"
+}

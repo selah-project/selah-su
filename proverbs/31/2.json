@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Naon, ahli waris kuring? naon, ahli waris paeh ku kandungan? naon, ahli waris sumpah kuring?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Naon"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ahli waris kuring"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ahli waris"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "kandungan kuring"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ahli waris"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "sumpah kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T15:04:35.905530713Z",
+  "model": "glm-5.3"
+}

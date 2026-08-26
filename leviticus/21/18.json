@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sabab saha jalma nu aya cacat dina manéhna, moal arék ngadeukeutan: jalma buta, atawa pincang, atawa parenggu beungeut, atawa boga anggota awak nu leuwih.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina manéhna"
+    },
+    {
+      "surface": "מום",
+      "gloss": "cacat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal arék"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ngadeukeutan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "עור",
+      "gloss": "buta"
+    },
+    {
+      "surface": "או",
+      "gloss": "atatawa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pincang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atatawa"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "parenggu beungeut"
+    },
+    {
+      "surface": "או",
+      "gloss": "atatawa"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "boga anggota awak nu leuwih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:46.990954349Z",
+  "model": "glm-5.3"
+}

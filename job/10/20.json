@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Naha moal saeutik poé-poé kuring? Eureun, eundeun ti kuring, bari kuring caang saeutik.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "naha moal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé kuring"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "eureun"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "eundeun"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti kuring"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "bari kuring caang"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:58.534968645Z",
+  "model": "glm-5.3"
+}

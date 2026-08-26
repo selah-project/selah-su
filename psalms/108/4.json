@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Kuring baris muji Anjeun di antara kaum-kaum, hai Yahwe; sumawios kuring baris main mazmur ka Anjeun di antara bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "kuring baris muji Anjeun"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara kaum-kaum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "sumawios kuring baris main mazmur ka Anjeun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:15.419459086Z",
+  "model": "glm-5.3"
+}

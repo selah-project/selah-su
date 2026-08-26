@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jadi abdi jadi keur maranéhna saperti singa, saperti macan nu nongton di sisi jalan.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "jadi abdi jadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "keur maranéhna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singa"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "saperti macan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "nongton"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:07.077845236Z",
+  "model": "glm-5.3"
+}

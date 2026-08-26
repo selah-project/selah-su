@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Sabab Dawid nyarita: Yahwe, Elohimna Yisrael, geus méré kanaéhan ka umat-Na, sarta ⟨⟨manehna⟩⟩ cicing di Yerushalaim salawasna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "geus méré kanaéhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ka umat-Na"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "sarta manehna cicing"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:15:37.490179191Z",
+  "model": "glm-5.3"
+}

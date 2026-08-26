@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sabab satuanana anjeun sumpahkeun sumpah basa nyingkah ka Gshur, di Aram, nyarita: Mun Yahwe méméh mulihkeun kuring ka Yerushalaim, mangka kuring baris ngawula ka ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "sumpahkeun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "satuanana anjeun"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "basa nyingkah"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "ka Gshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "méméh mulihkeun"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "mulihkeun kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalaim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "mangka kuring baris ngawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:09.485864654Z",
+  "model": "glm-5.3"
+}

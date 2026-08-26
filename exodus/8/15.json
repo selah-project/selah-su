@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 8:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Tuluy para tukang sihir ngomong ka Paroh: Ieu ⟨the⟩ imungeun Elohim! Tapi haté Paroh ngabeungbeuratan, sarta manehna henteu ngadangu ka maranjeunna, saperti anu geus diomongkeun ku Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Tuluy ngomong"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "para tukang sihir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אצבע",
+      "gloss": "imungeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ngabeungbeuratan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta henteu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranjeunna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:49.239905734Z",
+  "model": "glm-5.3"
+}

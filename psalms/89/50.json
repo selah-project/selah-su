@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Di mana kanyaah satia-Mu nu heubeul, Adonay? Nu ⟨Anjeun⟩ geus sumpah ka Dawid kalawan satia-Mu?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "kanyaah satia-Mu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "nu heubeul"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "geus sumpah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka Dawid"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "kalawan satia-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:03.710268995Z",
+  "model": "glm-5.3"
+}

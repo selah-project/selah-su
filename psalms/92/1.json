@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Mizmor — wirahangan — pikeun poé Shabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wirahangan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pikeun poé"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:53.983889061Z",
+  "model": "glm-5.3"
+}

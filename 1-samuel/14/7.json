@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung nu mawa parabotna nyarita ka anjeunna: 'Pigawé sagala nu aya dina manah anjeun; méngkollah; kotu, kuring jeung anjeun, luyu jeung manah anjeun.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ... nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nu mawa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Pigawé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "aya dina manah anjeun"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "méngkollah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "…"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kotu, kuring"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "luyu jeung manah anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:56.178200989Z",
+  "model": "glm-5.3"
+}

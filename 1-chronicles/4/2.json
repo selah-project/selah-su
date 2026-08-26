@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Reayah putra Shoval ngorodkeun ⟨את⟩ Yachat; jeung Yachat ngorodkeun ⟨את⟩ Achumai jeung ⟨את⟩ Lahad. Ieu ⟨mangrupa⟩ kaluarga-kaluarga urang Tseora.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "jeung Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngorodkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "jeung Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ngorodkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "kaluarga-kaluarga"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "urang Tseora"
+    }
+  ],
+  "timestamp": "2026-08-26T17:24:19.311912408Z",
+  "model": "glm-5.3"
+}

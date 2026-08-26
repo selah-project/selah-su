@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Bumi ngageterkeun, ogé langit ngatetesan, ku harepan Elohim — ieu Sinai — ku harepan Elohim, Elohim-na Israél.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ngageterkeun"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "ngatetesan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku harepan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku harepan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:22.537736270Z",
+  "model": "glm-5.3"
+}

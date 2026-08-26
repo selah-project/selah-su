@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "pikeun ngusir ⟨את⟩ sadaya musuh-musuh anjeun tina payuneun anjeun, saperti nu dipedaran Yahwe;",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "pikeun ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya musuh-musuh anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "tina payuneun anjeun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nu dipedaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:53.823031921Z",
+  "model": "glm-5.3"
+}

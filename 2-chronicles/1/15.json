@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta raja mibanda ⟨את⟩ pérak jeung ⟨את} emas di Yerushalaim laksasana batu, jeung ⟨את⟩ kai sédar dipasanganana laksasana tangkal sykomor nu di dataran handap, kalawan loba pisan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "sarta mibanda (dibéré)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pérak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "laksasana batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kai sédar"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "kai sédar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipasanganana"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "laksasana tangkal sykomor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "di dataran handap"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kalawan loba pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:18:19.693071160Z",
+  "model": "glm-5.3"
+}

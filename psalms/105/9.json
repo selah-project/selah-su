@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "nu dipotong ku-Na jeung ⟨את⟩ Avraham, sarta sumpah-Na ka Yitsxak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "sarta sumpah-Na"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "ka Yitsxak"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:44.582216110Z",
+  "model": "glm-5.3"
+}

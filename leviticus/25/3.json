@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Genep taun anjeun ngaseuk sawah anjeun, sarta genep taun anjeun mAnggur kebon anggur anjeun, sarta anjeun nginum ⟨את⟩ hasilna.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "genep"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "anjeun ngaseuk"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "sawah anjeun"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sarta genep"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "anjeun mAnggur"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kebon anggur anjeun"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "sarta anjeun nginum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilna"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:17.666325402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Manéhna nguatkeun ⟨את⟩ bénténg-bénténg eta, jeung nempatkeun di jerona pangaping-pangaping sarta lumbung-lumbung kadaharan, minyak, jeung anggur",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nguatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bénténg-bénténg eta"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "bénténg-bénténg eta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "pangaping-pangaping"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "lumbung-lumbung"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kadaharan"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "anggur"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:35.013792178Z",
+  "model": "glm-5.3"
+}

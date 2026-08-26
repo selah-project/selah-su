@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung poé-poé Adam sanggeus ngalahirkeun ⟨את⟩ Shet dalapan ratus taun, sarta ngalahirkeun putra-putri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jeung jadi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sarta ngalahirkeun"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jeung putri-putri"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:24.720560584Z",
+  "model": "glm-5.3"
+}

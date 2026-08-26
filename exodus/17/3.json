@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Lajeng di dinya balanna kahauseun milarian cai, lajeng balanna ngarungkeuy ka Moshe, lajeng nyarita: Naha ieu anjeun mawa abdi sadaya naék kaluar ti Mesir pikeun maéhan ⟨את⟩ abdi jeung ⟨את⟩ putra-putra abdi jeung ⟨את⟩ ingon-ingon abdi ku hause?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "kahauseun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balanna"
+    },
+    {
+      "surface": "למים",
+      "gloss": "milarian cai"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "ngarungkeuy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "anjeun mawa abdi sadaya naék kaluar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mesir"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pikeun maéhan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "abdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putra-putra abdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra abdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ingon-ingon abdi"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "ingon-ingon abdi"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ku hause"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:50.217414059Z",
+  "model": "glm-5.3"
+}

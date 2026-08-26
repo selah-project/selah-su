@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sing jadi damen hareupeun angin, sarta malekat Yahwe nu ngadorong aranjeunna.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "sing jadi"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "damen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hareupeun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "sarta malekat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "nu ngadorong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:51.942244325Z",
+  "model": "glm-5.3"
+}

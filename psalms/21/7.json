@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sabab Anjeun jadikeun manéhna berkah salawasna; Anjeun bungahkeun manéhna ku kagumbiraan ⟨את⟩ harepan Anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "Anjeun jadikeun manéhna"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "Anjeun bungahkeun manéhna"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ku kagumbiraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harepan Anjeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "harepan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:14.570502790Z",
+  "model": "glm-5.3"
+}

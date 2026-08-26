@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung daging nu keuna na naon-naon anu teu murni moal bisa didahar; ku seuneu kudu dibeuleum; tapi dagingna — saha waé nu murni bisa dahar daging.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "jeung daging"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "keuna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na naon-naon"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "anu teu murni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "kudu dibeuleum"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "tapi daging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saha waé"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nu murni"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bisa dahar"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:04.837765964Z",
+  "model": "glm-5.3"
+}

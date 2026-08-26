@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "jeung kuring ngabébaskeun ⟨את⟩ arinyana ti leungeun Mitsrajim jeung ti leungeun sadaya nu nganieun arinyana, jeung kuring ngudag ⟨את⟩ maranéhna ti payuneun arinyana, jeung kuring masihan arinyana ⟨את⟩ taneuh maranehna.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "jeung kuring ngabébaskeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ arinyana",
+      "marks": "arinyana"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "jeung ti leungeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "nu nganieun arinyana"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "jeung kuring ngudag"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ maranéhna",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ti payuneun arinyana"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "jeung kuring masihan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka arinyana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh maranehna"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "taneuh maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:04:09.154167418Z",
+  "model": "glm-5.3"
+}

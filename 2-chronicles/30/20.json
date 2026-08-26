@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung Yahwe ngadangu ka Yexizkiyahu sarta ngungkulan kasakit ⟨את⟩ jalma rahayat.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yexizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ngungkulan kasakit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma rahayat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma rahayat"
+    }
+  ],
+  "timestamp": "2026-08-26T16:30:55.959464328Z",
+  "model": "glm-5.3"
+}

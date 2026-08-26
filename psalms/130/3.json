@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 130,
+  "translation": "Mun Anjeun, wahai Yah, ngawasanan kalakuan salah, wahai Adonay, saha nu bisa nangtung?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Mun"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "kalakuan salah"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ngawasanan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bisa nangtung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.300366693Z",
+  "model": "glm-5.3"
+}

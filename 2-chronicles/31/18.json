@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 31:18",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung kana daptar silsilah sakabéh barudak leutikna, pamajikanana, putrana, jeung putrina, ka sakabéh jamaah; sabab ku satiana maranéhna ngasihkeun ⟨the⟩ hal-hal anu suci.",
+  "tokens": [
+    {
+      "surface": "ולהתיחש",
+      "gloss": "jeung kana daptar silsilah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "barudak leutikna"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "jeung putrana"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "jeung putrina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sakabéh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "באמונתם",
+      "gloss": "ku satiana"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "ngasihkeun anu suci"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hal-hal anu suci"
+    }
+  ],
+  "timestamp": "2026-08-26T16:32:01.766293853Z",
+  "model": "glm-5.3"
+}

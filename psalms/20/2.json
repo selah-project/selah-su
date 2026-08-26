@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Muga Yahwe ngajawab anjeun dina poé kasusah, ngaran Elohim-na Yaakov munga ngangkat anjeun luhur;",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "munga ngajawab anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "ngangkat anjeun luhur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:17.461807727Z",
+  "model": "glm-5.3"
+}

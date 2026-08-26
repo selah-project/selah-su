@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Saksi-saksi kaanceman bakal ngadeg; nu teu kanyaho ku abdi mariksa ka abdi.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kaanceman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kanyaho ku abdi"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "mariksa ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:50.398677779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Bikeun bak ngocapkeun katarton; jeung tafakur-atik haté kaweruh-kaahlian.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "bakeun"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ngocapkeun"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "katarton"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "jeung tafakur-atik"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "kaweruh-kaahlian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:30.430499399Z",
+  "model": "glm-5.3"
+}

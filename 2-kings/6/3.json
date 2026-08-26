@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung anjeunna — hijina — ngomong: Mangga suka-suka, punken, sarta indit jeung abdi-abdi anjeun. Jeung anjeunna ngomong: Abdi badé indit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hijina"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "suka-suka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punken"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdi anjeun"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdi anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "badé indit"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:02.911405883Z",
+  "model": "glm-5.3"
+}

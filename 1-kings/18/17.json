@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jadi lamun Achab nempo ⟨את⟩ Eliyahu, Achab ngomong ka manehna, Ari anjeun ieu, nu ngaganggu Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "lamun nempo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manehna"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ari anjeun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "nu ngaganggu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:47.868182503Z",
+  "model": "glm-5.3"
+}

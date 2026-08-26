@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Launyna kuring ngomong ka malaékat nu ngobrol jeung kuring: ka mana maranehna mawa ⟨את⟩ eifah?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaékat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nu ngobrol"
+    },
+    {
+      "surface": "בי",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka mana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eifah"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eifah"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:30.278176033Z",
+  "model": "glm-5.3"
+}

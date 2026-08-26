@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung Anjeunna mawa kaluar ka tempat lega ⟨את⟩ kuring; Anjeunna ngaleupaskeun kuring, sabab Anjeunna kanyaah ka kuring.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Jeung Anjeunna mawa kaluar"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ka tempat lega"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kuring",
+      "marks": "kuring"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Anjeunna ngaleupaskeun kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Anjeunna kanyaah"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:04.114768516Z",
+  "model": "glm-5.3"
+}

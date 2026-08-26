@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeunna ngukur ⟨את⟩ téras gerbang kasebut, dalapan aténg; jeung pilar-pilarana dua aténg; jeung téras gerbang kasebut ka arah ⟨the⟩ imah.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "jeung anjeunna ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "téras gerbang kasebut"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "téras"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gerbang kasebut"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aténg"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "jeung pilar-pilarana"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aténg"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "jeung téras"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gerbang kasebut"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ka arah imah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:58:28.698701781Z",
+  "model": "glm-5.3"
+}

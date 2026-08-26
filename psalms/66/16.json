@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Hayu sumping, adangu, sadaya nu sieun ka Elohim, jeung abdi caritakeun naon nu dipigawé-Na pikeun nyawa abdi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "hayu sumping"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "adangu"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "jeung abdi caritakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "nu sieun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé-Na"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pikeun nyawa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:19.163884424Z",
+  "model": "glm-5.3"
+}

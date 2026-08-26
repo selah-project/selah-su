@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Teu bakal、《auréndé》 jeung teu bakal ngangkat, jeung teu bakal méré ka beungeut suarana kadenge di jalan luar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "bakal æréndé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bakal ngangkat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "bakal méré kadenge"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di jalan luar"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "suarana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:26.475606130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Lakukeun kahadéan luyu jeung karesep Anjeun ka ⟨את⟩ Tsiyon; ngadegkeun bénténg panyalindungan Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Lakukeun kahadéan"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "luyu jeung karesep Anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "bénténg panyalindungan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:34.496323507Z",
+  "model": "glm-5.3"
+}

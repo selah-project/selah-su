@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 20:30",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Teras muruung shaol ka Yonatan sarta nyarita ka anjeunna: Putra awéwad nu ngalawan, teu bener kuring geus terang yén anjeun milih putrana Yisai keur cilaka mun diri anjeun, jeung keur cilaka kateuleugengan indung anjeun?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "muruung"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ambek"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהונתן",
+      "gloss": "ka Yonatan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "awéwad"
+    },
+    {
+      "surface": "המרדות",
+      "gloss": "nu ngalawan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "teu bener"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuring geus terang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "anjeun milih"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "keur putrana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisai"
+    },
+    {
+      "surface": "לבשתך",
+      "gloss": "keur cilaka mun diri anjeun"
+    },
+    {
+      "surface": "ולבשת",
+      "gloss": "jeung keur cilaka"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kateuleugengan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "indung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:34.748102529Z",
+  "model": "glm-5.3"
+}

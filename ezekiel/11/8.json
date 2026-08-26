@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Padang anjeun sieun; sarta padang abdi mawa ka anjeun —锯 dawuh Adonay Yahwe.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "padang"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "anjeun-sieun"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "sarta-padang"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "abdi-mawa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka-anjeun"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "锯-dawuh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:45:30.859229337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Sabab abdi badé ngawasaan waktu anu dipundut, abdi nyalira gaduh ngadilan anu lempeng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "abdi badé ngawasaan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waktu anu dipundut"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi nyalira"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "anu lempeng"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "gaduh ngadilan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:44.561886875Z",
+  "model": "glm-5.3"
+}

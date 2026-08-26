@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung masarakat taneuh ngabaradag ⟨את⟩ sakabéh nu ngarawang balaka ka Raja Amon; lajeng masarakat taneuh ngajadikeun ⟨את⟩ Yosia, putrana, jadi raja minggu dina tempatna.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Jeung masarakat ngabaradag"
+    },
+    {
+      "surface": "עם",
+      "gloss": "masarakat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh nu ngarawang balaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "nu ngarawang balaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "lajeng ngajadikeun jadi raja minggu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "masarakat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosia"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "dina tempatna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:10.426480204Z",
+  "model": "glm-5.3"
+}

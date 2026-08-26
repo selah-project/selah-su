@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 130,
+  "translation": "Sabab ti Anjeun ⟨aya⟩ pangampura, sangkan Anjeun dibereuwangan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti Anjeun"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "pangampura"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "dibereuwangan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.300486688Z",
+  "model": "glm-5.3"
+}

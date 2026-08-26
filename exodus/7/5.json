@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung urang Mitsrajim bakal terang yén aku Yahwe, dina ngalegakeun ⟨את⟩ leungeun kuring ka Mitsrajim, sarta mawa kaluar ⟨את⟩ putra-putra Yisrael tina tengah-tengah maranehna.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "jeung bakal terang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "dina ngalegakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun kuring"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun kuring"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "sarta mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "tina tengah-tengah maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:03.732875535Z",
+  "model": "glm-5.3"
+}

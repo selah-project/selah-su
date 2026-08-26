@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Aya hiji karunya nu kuring tingali di sahandapeun panonpoé, saperti kasalahan nu kaluar ti payune ⟨⟨nu mawa kawasa⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "karunya"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring tingali"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dihandapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "saperti kasalahan"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "nu kaluar"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ti payune"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "nu mawa kawasa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:46.087791797Z",
+  "model": "glm-5.3"
+}

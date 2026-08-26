@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lamun pangobongan korban-ana ti ⟨sapi⟩ — jalu, tanpa cacad — anjeunna midangkeunana; ka panto tenda patepung anjeunna midangkeun ⟨את⟩ inu, pikeun ditarima pikeun anjeunna, di payuneun Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "pangobongan"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban-ana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "jalu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanpa cacad"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "anjeunna midangkeunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "anjeunna midangkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "pikeun ditarima pikeun anjeunna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:19.903800395Z",
+  "model": "glm-5.3"
+}

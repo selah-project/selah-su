@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Keturunan nu mangkat, jeung keturunan nu datang; jeung bumi salawasna nangtung.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nu mangkat"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "jeung keturunan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nu datang"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "jeung bumi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nangtung"
+    }
+  ],
+  "timestamp": "2026-08-26T15:30:49.080538014Z",
+  "model": "glm-5.3"
+}

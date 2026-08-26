@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Dawud ngumpulkeun ⟨את⟩ sakuliah ⟨the⟩ balaréa, lajeng indit ka Rabbah, perang ngalawanana, sarta nyandak eta kota.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakuliah balaréa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakuliah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngalawanana"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "nyandak eta kota"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:41.523699872Z",
+  "model": "glm-5.3"
+}

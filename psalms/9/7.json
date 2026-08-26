@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Nu musuh ⟨geus⟩ tamat, ruksak-ruksak salami-laminya; jeung kota-kota anjeun geus cabik, ingetanana ⟨geus⟩ paraeh babareangan jeung maranehna.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "nu musuh"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "tamat"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ruksak-ruksak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salami-laminya"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "jeung kota-kota"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "anjeun geus cabik"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "paraeh"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ingetanana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:09.715382697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Agung Adonay urang jeung rongkah kakuatan; ka kawijaksanaan-Na euweuh itungan.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Agung"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonay urang"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jeung rongkah"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ka kawijaksanaan-Na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "itungan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:26.616811409Z",
+  "model": "glm-5.3"
+}

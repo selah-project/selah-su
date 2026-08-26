@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sumpah mesat pinuh bihanana, jeung tipu-daya, jeung palakan; sahandap lédona, kasusah jeung kalaliman.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "sumpah mesat"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "bihanana"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "jeung tipu-daya"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "jeung palakan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandap"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lédona"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "jeung kalaliman"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:23.451921974Z",
+  "model": "glm-5.3"
+}

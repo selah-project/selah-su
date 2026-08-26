@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Kuring ngaingu parentah-parentah-Mu jeung saksi-saksi-Mu, sabab sagala jalan kuring aya payuneun-Mu.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "kuring ngaingu"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "parentah-parentah-Mu"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "jeung saksi-saksi-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan kuring"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "payuneun-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:38.090419073Z",
+  "model": "glm-5.3"
+}

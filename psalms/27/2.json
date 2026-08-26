@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Nalika nu jahat nyampeurkeun ka kuring pikeun ngahakan ⟨את⟩ daging kuring — nu ngarugrug jeung musuh kuring — maranehna ragrag sarta tileung.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "nalika nyampeurkeun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pikeun ngahakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging kuring"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "daging kuring"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "nu ngarugrug"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "jeung musuh kuring"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "sarta tileung"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:52.648715193Z",
+  "model": "glm-5.3"
+}

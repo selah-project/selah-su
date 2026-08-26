@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sangkanana, naon anu dipigawé ka ratu Washti, sabab manéhna henteu ngalaksanakeun ⟨את⟩ parentah raja Akhashverosh ku leungeun para sida-sida?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "sangkanana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "anu dipigawé"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "ka ratu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabab ngeunaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku leungeun"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "para sida-sida"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:13.252373341Z",
+  "model": "glm-5.3"
+}

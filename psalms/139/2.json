@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Anjeun nyaho diuk kuring jeung bagja kuring; Anjeun ngartos pamikir kuring ti kajauhan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "diuk kuring"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "jeung bagja kuring"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "Anjeun ngartos"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "pamikir kuring"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ti kajauhan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:19.528560285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "jeung layar-layar pager, jeung ⟨את⟩ layar panto pager nu di luhureun khemah jeung di luhureun altar sabudeureunana, jeung ⟨את⟩ tali-talina, pikeun sagala palayananana.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "jeung layar-layar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pager"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "layar panto pager"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "layar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pager"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung di luhureun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureunana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tali-talina"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "tali-talina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pikeun sagala"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "palayananana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:41.452525333Z",
+  "model": "glm-5.3"
+}

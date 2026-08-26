@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Singgangkeun kanyaah satia perjangjian-Mi ka nu mikawanoh ka Anjeun, jeung kabeneran-Mi ka nu lempeng haté.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "singgangkeun"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia perjangjian-Mi"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "ka nu mikawanoh ka Anjeun"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "jeung kabeneran-Mi"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ka nu lempeng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:45.172392151Z",
+  "model": "glm-5.3"
+}

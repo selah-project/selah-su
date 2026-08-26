@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung kajadian kitu ka anjeunna: ramat ngajap ⟨את⟩ manehna di panto, jeung anjeunna maot.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jeung kajadian"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "ngajap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manehna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ramat"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jeung maot"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:47.693559082Z",
+  "model": "glm-5.3"
+}

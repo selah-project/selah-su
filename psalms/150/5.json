@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 150,
+  "translation": "Pujih anjeunna ku simbal nu sora tarik, pujih anjeunna ku simbal nu ngahuru-huru kumbang!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pujih anjeunna"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ku simbal"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nu sora tarik"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujih anjeunna"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ku simbal"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "nu ngahuru-huru kumbang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:53.133471136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Aduh, kota getih! Sadayana pinuh bohong, rampokan; ⟨teu⟩ aya nu ngalih tina tarungan⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "bohong"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "rampokan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ngalih"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tarungan ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T17:09:09.165052448Z",
+  "model": "glm-5.3"
+}

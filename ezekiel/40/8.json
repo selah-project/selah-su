@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Teras anjeunna ngukur ⟨את⟩ lawang panto éta ti bait, hiji alang.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "teras anjeunna ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lawang panto éta"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "השער",
+      "gloss": "panto éta"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ti bait"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "alang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T13:58:32.330848793Z",
+  "model": "glm-5.3"
+}

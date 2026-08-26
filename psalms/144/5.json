@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Yahwe, conggkeun ⟨⟩ langit anjeun turun, pindakeun leungeun ka gunung-gunung mangka aranjeunna ngahaseup.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "conggkeun"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langit anjeun"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "גע",
+      "gloss": "pindakeun leungeun ka"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "mangka aranjeunna ngahaseup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:36.348864741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Nepi ka salawasna kuring ngadegkeun bibit Anjeun, jeung kuring ngawangun tahta Anjeun pikeun angkat-angkatan, Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "kuring ngadegkeun"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "bibit Anjeun"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "jeung kuring ngawangun"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pikeun angkat-angkatan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "jeung angkatan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tahta Anjeun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:58.277773661Z",
+  "model": "glm-5.3"
+}

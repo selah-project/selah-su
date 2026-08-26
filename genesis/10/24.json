@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Arpakhshad ngalahirkeun ⟨את⟩ Shelax, jeung Shelax ngalahirkeun ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Jeung Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelax"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelax"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "jeung Shelax"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:44.955269681Z",
+  "model": "glm-5.3"
+}

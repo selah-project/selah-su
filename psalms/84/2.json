@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 84,
+  "translation": "Sabaraha kacintaanna ⟨the⟩ padumengan-padumengan Anjeun, Yahwe Tzevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sabaraha"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "kacintaanna"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "padumengan-padumengan Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:59.356759394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Ku kituna Yahwe ngadangu sarta murka, sarta seuneu hurung di Yaakov, sarta ogé anger naék di Yisrael,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ku kituna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "sarta murka"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "sarta seuneu"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "hurung"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di Yaakov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sarta ogé"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:51.639343121Z",
+  "model": "glm-5.3"
+}

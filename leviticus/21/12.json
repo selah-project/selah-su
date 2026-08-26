@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung tina sanggar suci ulah kaluar, jeung ulah ngacemaru ⟨את⟩ sanggar suci Elohim-na, sabab tanda pamisahan minyak urapan Elohim-na aya dina manéhna; akuinga Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "jeung tina"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "sanggar suci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "ngacemaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanggar suci Elohim-na"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "sanggar suci"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "tanda pamisahan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aya dina manéhna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akuinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:29.558441603Z",
+  "model": "glm-5.3"
+}

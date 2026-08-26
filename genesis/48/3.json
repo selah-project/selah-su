@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Jeung Yaakov ngomong ka Yosef: El Shadday nembongan ka abdi di Luz, di taneuh Kenaan, sarta ngaberkahan ⟨את⟩ abdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nembongan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "di Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ngaberkahan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ abdi",
+      "marks": "abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:37.060526576Z",
+  "model": "glm-5.3"
+}

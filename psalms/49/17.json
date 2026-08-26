@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Ulah sieun lamun aya jalma ngajadi beunghar, lamun kamulyaan imahna ngaronjat.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ngajadi beunghar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ngaronjat"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:54.869500506Z",
+  "model": "glm-5.3"
+}

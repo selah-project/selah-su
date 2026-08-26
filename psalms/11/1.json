@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Pikeun nu mingpin, mazmur Dawid. Ka Yahwe kuring nungkulan; kumaha aranjeun nyarita ka jiwa kuring: Kalunca, heula manuk, ka gunung!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pikeun nu mingpin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mazmur Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kuring nungkulan"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "anjeun nyarita"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ka jiwa kuring"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "kalunca"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "manuk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:36.967671865Z",
+  "model": "glm-5.3"
+}

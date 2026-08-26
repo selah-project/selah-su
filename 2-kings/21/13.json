@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung kuring ngagantungkeun luhureun Yerushalaim ⟨את⟩ tali ukur Shomron jeung ⟨את⟩ bandul ukur beuteung imah Achab, jeung kuring mupus ⟨את⟩ Yerushalaim saperti nu mupus ⟨את⟩ piring — mupus terus ngabalikkeun dina rarayna.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "kuring ngagantungkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tali ukur Shomron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "tali ukur"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bandul ukur beuteung imah Achab"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "bandul ukur beuteung"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "jeung kuring mupus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "nu mupus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piring"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "piring"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "mupus"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "jeung ngabalikkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "rarayna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:43.091888743Z",
+  "model": "glm-5.3"
+}

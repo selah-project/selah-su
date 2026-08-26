@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "⟨את⟩ Shabat-shabat Abdi aranjeun piara, jeung tempat suci Abdi aranjeun beueusi; aku Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat-shabat Abdi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabat-shabat Abdi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "arahanjeun piara"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "jeung tempat suci Abdi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "arahanjeun beueusi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:45.774089464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Kuring geus bengkol, kuring geus nyarawbah nepi ka taluk, sadami-dami kuring ngajalankeun kalawan kabungbang.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "kuring geus bengkol"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "kuring geus nyarawbah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "taluk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadami-dami"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dinten"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "kalawan kabungbang"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "kuring ngajalankeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:04.444276164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung nu asup ka imah, sadayana poé dicutatna, jadi teu murni nepi ka sore.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "jeung nu asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "dicutat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "imah"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "jadi teu murni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:17.123629193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Sarta abdi kawas nu tuna, moal ngadangu, jeung kawas nu bisu, moal muka sungutna.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "sarta abdi"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kawas nu tuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "jeung kawas nu bisu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sungutna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:13.434775648Z",
+  "model": "glm-5.3"
+}

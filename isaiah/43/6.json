@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Abdi bakal nyarita ka kalér: Anteurkeun; sarta ka kidul: Ulah tahan; mawa putra abdi ti kajauhan, sarta putri abdi ti tungtung bumi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ka kalér"
+    },
+    {
+      "surface": "תני",
+      "gloss": "anteurkeun"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "sarta ka kidul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "tahan"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra abdi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ti kajauhan"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "sarta putri abdi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ti tungtung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:27.141895372Z",
+  "model": "glm-5.3"
+}

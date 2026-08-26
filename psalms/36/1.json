@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Kapada nu mingpay paluit; abdi Yahwe, ku Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kapada nu mingpay paluit"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:23.386253434Z",
+  "model": "glm-5.3"
+}

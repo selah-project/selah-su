@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Yahwe ⟨is⟩ bagian hadiah kuring jeung cawan kuring; anjeun nu nahan nasib kuring.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bagian hadiah"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "tugasan kuring"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "jeung cawan kuring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "nu nahan"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "nasib kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:38.774191272Z",
+  "model": "glm-5.3"
+}

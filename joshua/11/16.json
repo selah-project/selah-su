@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Tuluy Yéhosua nyandak ⟨את⟩ sagala taneuh ieu: pagunungan, jeung ⟨את⟩ sagala beulah kidul, jeung ⟨את⟩ sagala taneuh Goshen, jeung ⟨את⟩ Shefela, jeung ⟨את⟩ Araba, jeung ⟨את⟩ gunung Yisrael jeung Shefelana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tuluy nyandak"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala taneuh ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "pagunungan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala beulah kidul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "beulah kidul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala taneuh Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Shefela"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Shefela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Araba"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "gunung Yisrael"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "jeung Shefelana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:57:55.269000947Z",
+  "model": "glm-5.3"
+}

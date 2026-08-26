@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Saméméh Efrayim jeung Binyamin jeung Menasyéh, Hineutan kakuatan-Mu, sarta sumpinga pikeun kasalametan ka urang!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Saméméh"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "jeung Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "jeung Menasyéh"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "Hineutan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuatan-Mu"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "kakuatan-Mu"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "sarta sumpinga"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "pikeun kasalametan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:22.858875885Z",
+  "model": "glm-5.3"
+}

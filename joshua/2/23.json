@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 2:23",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tuluy dua lalaki éta balik, turun ti gunung, ngaliwatan, sarta datang ka Yehosua bin Nun, sarta nyaritakeun ka anjeunna ⟨את⟩ sadaya nu kajadian ka aranjeunna.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "sarta aranjeunna balik"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "sarta aranjeunna turun"
+    },
+    {
+      "surface": "מההר",
+      "gloss": "ti gunung"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "sarta aranjeunna ngaliwatan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "sarta aranjeunna datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "sarta aranjeunna nyaritakeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu kajadian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "המצאות",
+      "gloss": "nu kajadian"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "anjeunna nyaritakeun ⟨את⟩ sadaya nu kajadian ka aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:22.484888235Z",
+  "model": "glm-5.3"
+}

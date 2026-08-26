@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Ka Anjeun, Yahwe, kuring nyalindung; ulah sangkan kuring matala salawasna; ku kabeneran-Mu bidiakan kuring.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kuring nyalindung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "sangkan kuring matala"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ku kabeneran-Mu"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "bidiakan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:16.312969065Z",
+  "model": "glm-5.3"
+}

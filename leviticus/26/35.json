@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Sapanjang poé-poé karusakannana baris eureun, ⟨את⟩ nu teu kungsi eureun dina sabbat-sabbat aranjeun, bari aranjeun cicing di luhureunana.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "karusakannana"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "baris eureun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu teu kungsi eureun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "kungsi eureun"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "dina sabbat-sabbat aranjeun"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "bari aranjeun cicing"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di luhureunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:36.288335264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung nu nyambungkeun jampé, nu nanya ka juru nyarita roh, ka nu nyaho gaib, jeung nu naros ka nu geus maot.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "nu nyambungkeun jampé"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "jampé"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "nu nanya ka"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "juru nyarita roh"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "nu nyaho gaib"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "nu naros ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "nu geus maot"
+    }
+  ],
+  "timestamp": "2026-08-26T11:46:28.833032128Z",
+  "model": "glm-5.3"
+}

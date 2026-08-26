@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Dina kebon saurang jalma malas kuring ngaliwat, jeung dina kebon anggur saurang jalma nu kurang haté.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kebon\/huma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang jalma"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "malas"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "kuring ngaliwat"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung dina"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebon anggur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "saurang jalma"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:51.625000162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Kangge ⟨nu⟩ mingpin pinuhu. Mizmor ti Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kangge mingpin pinuhu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:46.121940815Z",
+  "model": "glm-5.3"
+}

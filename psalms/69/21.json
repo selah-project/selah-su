@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Hina geus ngarengsekeun ati kuring, sareng kuring tuluy gancang leyona, sareng kuring ngaharepkeun nu mairan, tapi euweuh, sareng nu mairan haté, tapi teu kapanggih kuring.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "hina"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "ngarengsekeun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "sareng kuring tuluy gancang leyona"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "sareng kuring ngaharepkeun"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "nu mairan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi euweuh"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "sareng nu mairan haté"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "kapanggih kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:20.292455249Z",
+  "model": "glm-5.3"
+}

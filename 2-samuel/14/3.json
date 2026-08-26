@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sarta anjeunna asik ka raja sarta nyarita ka anjeunna nurutkeun kecap ieu; sarta Yoab nempatkeun ⟨את⟩ kecap-kecap kana bahamna.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "asik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nurutkeun kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "kana bahamna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:40.884849744Z",
+  "model": "glm-5.3"
+}

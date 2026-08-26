@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung anjeun bakal nempatkeun kana ⟨the⟩ Aron ⟨את⟩ kasaksian nu abi bakal mikeun ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "jeung anjeun bakal nempatkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "abi bakal mikeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:47.696322682Z",
+  "model": "glm-5.3"
+}

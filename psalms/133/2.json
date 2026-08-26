@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 133,
+  "translation": "Kawas minyak ⟨the⟩ hadé dina hulunan, nu turun ka janggut — janggut Aharon — nu turun ka sisi baju panjangna.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "kawas minyak"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hulunan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "janggut"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "janggutna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nu turun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "baju panjangna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.222737079Z",
+  "model": "glm-5.3"
+}

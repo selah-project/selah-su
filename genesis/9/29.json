@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jadi sadaya poé-poé Noach ⟨énto⟩ salapan ratus taun jeung lima puluh taun, teras maot.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jadi ⟨énto⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "salapan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "jeung lima puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "teras maot"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:00.324575170Z",
+  "model": "glm-5.3"
+}

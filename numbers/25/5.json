@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Teras Moshe ngomong ka para hakim Yisrael: Pehed unggal jalma maéhan jalma-jalmana nu napel ka Baal Peor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "teras ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "para hakim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pehed maéhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jalma-jalmana"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "nu napel"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ka Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    }
+  ],
+  "timestamp": "2026-08-26T11:33:55.289698988Z",
+  "model": "glm-5.3"
+}

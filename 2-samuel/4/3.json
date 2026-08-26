@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung nu Bewrot kabur ka Gitaim, jadi cicing di dinya salila nepi ka poé ieu.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "nu Bewrot"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "ka Gitaim"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "cicing salila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:29.227396926Z",
+  "model": "glm-5.3"
+}

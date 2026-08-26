@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Tanpa kalainan aranjeunna ngajonat jeung nyiapkeun manéh; sonto pikeun papanggih jeung abdi, jeung nempo ⟨ transactions ⟩",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalainan"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ngajonat"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "jeung nyiapkeun manéh"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "sonto"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "pikeun papanggih jeung abdi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "jeung nempo"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:23.110259345Z",
+  "model": "glm-5.3"
+}

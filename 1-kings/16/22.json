@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung bangsa nu di tukangeun Omri jadi leuwih kuat batan ⟨את⟩ bangsa nu di tukangeun Tivni anak Ginat, tuluy maot Tivni, jeung jadi raja Omri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "jadi leuwih kuat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di tukangeun"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "hāʿam",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di tukangeun"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "tuluy maot"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:21.186361075Z",
+  "model": "glm-5.3"
+}

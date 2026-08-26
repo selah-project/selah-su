@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Ngalatih leungeun abdi pikeun perang, sarta lengen abdi ngalempengkeun busur tambaga.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Ngalatih"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun abdi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pikeun perang"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "sarta ngalempengkeun"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "lengen abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:46.648502861Z",
+  "model": "glm-5.3"
+}

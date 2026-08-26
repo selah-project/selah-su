@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ayeuna, tempo, jerit budak-budak Yisrael datang ka abdi, ogé kuring geus nempo ⟨את⟩ pangpenjerna, nu ku Midzrayim meunang neunggeul ⟨את⟩ maranehna.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "jerit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring geus nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangpenjerna"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "pangpenjerna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Midzrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "meunang neunggeul"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:30.116102314Z",
+  "model": "glm-5.3"
+}

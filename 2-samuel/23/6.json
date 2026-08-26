@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung nu tanpa ajén sadayana saperti cucuk nu diungsirkeun, sabab ku leungeun moal bisa dicandak.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "jeung nu tanpa ajén"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "saperti cucuk"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "nu diungsirkeun"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal bisa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku leungeun"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "dicandak"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:15.630715171Z",
+  "model": "glm-5.3"
+}

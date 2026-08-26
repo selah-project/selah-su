@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Ngeunah jalma éallet dihukum, nu lali mimiti jadi wijaksana; mun nu wijaksana dibéré panitén, anjeunna nampa pangaweruh.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "mun dihukum"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "jalma éallet"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "jadi wijaksana"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "nu lali mimiti"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "mun dibéré panitén"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "nu wijaksana"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nampa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:23.449319979Z",
+  "model": "glm-5.3"
+}

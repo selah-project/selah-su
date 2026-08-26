@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 130,
+  "translation": "Kuring ngaharepkeun ka Yahwe, ngaharepkeun nefesh kuring, jeung kana kecap-Na kuring ngantosan.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "kuring ngaharepkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "ngaharepkeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "jeung kana kecap-Na"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "kuring ngantosan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:25.246210033Z",
+  "model": "glm-5.3"
+}

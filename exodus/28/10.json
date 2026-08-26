@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Genep tina ngaran-ngaranana dina ⟨the⟩ batu ⟨the⟩ hiji, sarta ⟨את⟩ ngaran-ngaran nu genap deui dina ⟨the⟩ batu ⟨the⟩ kadua, luyu jeung kalahiranana.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "genep"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "tina ngaran-ngaranana"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran-ngaran nu genap deui"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "nu genap"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "nyésa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "luyu jeung kalahiranana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:52.071202706Z",
+  "model": "glm-5.3"
+}

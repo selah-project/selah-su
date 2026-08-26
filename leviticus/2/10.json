@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Nu nyésa tina kurban oleh-oleh éta keur Aharon jeung putra-putrana; suci tina nu malsuci, tina kurban-api Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "nu nyésa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kurban oleh-oleh"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "keur Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "jeung putra-putrana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tina nu malsuci"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tina kurban-api"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:50.897861755Z",
+  "model": "glm-5.3"
+}

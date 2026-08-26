@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "sabab maranéhna ngadenge ⟨את⟩ Jenengan-Mu nu agung, jeung ⟨את⟩ leungeun-Mu nu kiat, jeung lengen-Mu nu dibeulangkeun; jeung anjeunna datang sarta sholat ka arah imah ieu —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "maranéhana ngadenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jenengan-Mu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan-Mu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nu agung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "leungeun-Mu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun-Mu"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nu kiat"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "jeung lengen-Mu"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "nu dibeulangkeun"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "anjeunna datang"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "sarta sholat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka arah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:05.002661887Z",
+  "model": "glm-5.3"
+}

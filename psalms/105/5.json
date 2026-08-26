@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Ingget kana ⟨hal-hal⟩ anéh-Na nu Dipigawé, tanda-tanda ajaib-Na jeung putusan biang-Na.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Ingget kana"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hal-hal anéh-Na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Dipigawé"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "tanda-tanda ajaib-Na"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "jeung putusan"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "biang-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:17.069618451Z",
+  "model": "glm-5.3"
+}

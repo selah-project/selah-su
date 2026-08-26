@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Dina datangna sadaya Yisrael pikeun nempo ⟨את⟩ raray Yahwe, Elohim anjeun, di tempat nu dipilihna, anjeun ngadengekkeun ⟨את⟩ Taurat ieu di payun sadaya Yisrael, ceuk ceuli maranehna.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Dina datangna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raray Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "raray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "dipilihna"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "anjeun ngadengekkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taurat ieu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di payun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ceuk ceuli maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:48:28.647233355Z",
+  "model": "glm-5.3"
+}

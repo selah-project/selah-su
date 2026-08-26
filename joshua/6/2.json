@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung Yahwe ngandik ka Yéhosua: Tingali, kuring geus masihan ka leungeun anjeun ⟨את⟩ Yerikho jeung ⟨את⟩ raja na, para jawara anu gagah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ngandik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhosua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tingali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring geus masihan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ka leungeun anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerikho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "raja na"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "raja na"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "para jawara"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "anu gagah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:46.492758732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Elohim, Anjeun geus nyingkahkeun urang, geus ngabedah urang, geus ambek — moho mulang deui ka urang!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "Anjeun geus nyingkahkeun urang"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "geus ngabedah urang"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "geus ambek"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "moho mulang deui"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:51.337538696Z",
+  "model": "glm-5.3"
+}

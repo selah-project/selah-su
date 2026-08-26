@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung raja ngabalikkeun ⟨את⟩ rarayna, lajeng ngamukeun berkah ka ⟨את⟩ saeusurun balaréa Israel, ari saeusurun balaréa Israel ngadeg.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "lajeng ngabalikkeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rarayna"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rarayna"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lajeng ngamukeun berkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saeusurun balaréa Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saeusurun"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ari saeusurun"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-26T16:20:04.074760067Z",
+  "model": "glm-5.3"
+}

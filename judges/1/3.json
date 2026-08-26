@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 1:3",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Yehuda nyarita ka Shim'on, sadulurna: Naék jeung ⟨את⟩ kuring kana bagian kuring, barih urang perang ngalawan urang Kanaan; jeung kuring ogé bakal indit jeung ⟨את⟩ anjeun kana bagian anjeun. Tuluy Shim'on indit jeung ⟨את⟩ anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לשמעון",
+      "gloss": "ka Shim'on"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulurna"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "jeung ⟨את⟩ kuring",
+      "marks": "kuring (kalawan)"
+    },
+    {
+      "surface": "בגורלי",
+      "gloss": "kana bagian kuring"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "",
+      "note": "PLACEHOLDER"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "barih urang perang"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "ngalawan urang Kanaan"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "jeung kuring bakal indit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨את⟩ kuring"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "jeung ⟨את⟩ anjeun",
+      "marks": "anjeun (kalawan)"
+    },
+    {
+      "surface": "בגורלך",
+      "gloss": "kana bagian anjeun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "⟨את⟩ tuluy indit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jeung ⟨את⟩ anjeunna",
+      "marks": "anjeunna (kalawan)"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:33.475694568Z",
+  "model": "glm-5.3"
+}

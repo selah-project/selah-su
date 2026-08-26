@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Manéhna ngabungalkeun ⟨את⟩ Pelesyet nepi ka Azzah jeung ⟨את⟩ wates-watesna, ti menara nu ngajaga nepi ka kota bénténg.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ngabungalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesyet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "wates-watesna"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "wates-watesna"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "ti menara"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "nu ngajaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "bénténg"
+    }
+  ],
+  "timestamp": "2026-08-26T12:57:56.926091265Z",
+  "model": "glm-5.3"
+}

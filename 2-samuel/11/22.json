@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Lajeng utusan éta indit, sumping, jeung ngomongkeun ka David ⟨את⟩ sadaya nu diparéntahkeun Yoab ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lajeng indit"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "utusan éta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sumping"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu diparéntahkeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "diparéntahkeun ka anjeunna"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:23.910029391Z",
+  "model": "glm-5.3"
+}

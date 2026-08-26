@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Avraham éméméan isuk-isuk ka tempat tempat mana manéhna ngadeg di dinya ⟨מunggel harepan⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "éméméan isuk-isuk"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tempat mana"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨munggel harepan⟩",
+      "marks": "harepan Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harepan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:19.210290176Z",
+  "model": "glm-5.3"
+}

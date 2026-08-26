@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Pikeun Anjeun ⟨aya⟩ leungeun kalawan kakuatan; beungeus leungeun-Mu, luhur leungeun katuhu-Mu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pikeun Anjeun"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kalawan"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "beungeus"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun-Mu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "leungeun katuhu-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:05.544415454Z",
+  "model": "glm-5.3"
+}

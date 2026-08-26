@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Elohim ⟨nya⟩ panyaangan jeung kakuatan keur urang, panyalamet dina kasesah-kesah kapanggih ⟨pisan⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keur urang"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "panyaangan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "jeung kakuatan"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "panyalamet"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "dina kasesah-kesah"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kapanggih"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:19.013483043Z",
+  "model": "glm-5.3"
+}

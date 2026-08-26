@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Leungeun-leungeun maranéhna sarta teu ngusik, suku-suku maranéhna sarta teu leumpang, teu ngahaleuang ku tikorong maranéhana.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "leungeun-leungeun maranéhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "ngusik"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "suku-suku maranéhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ngahaleuang"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ku tikorong maranéhana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:24.717247497Z",
+  "model": "glm-5.3"
+}

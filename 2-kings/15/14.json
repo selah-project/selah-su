@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Mangka Menachem putra Gadi naék ti Tirtzah sarta asup ka Shomron, tuluy narajang ⟨את⟩ Shallum putra Yavésh di Shomron, maéhanana, sarta jadi raja gagantiina.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "mangka (inyana) naék"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "ti Tirtzah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sarta asup"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ka Shomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tuluy narajang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavésh"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "maéhanana"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "sarta jadi raja"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "gagantiina"
+    }
+  ],
+  "timestamp": "2026-08-26T16:57:20.919581819Z",
+  "model": "glm-5.3"
+}

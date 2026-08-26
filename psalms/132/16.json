@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Jeung imam-imamna ku abdi dibariniskeun kana kasalametan, sarta nu satia-na baris sora gumbira.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "Jeung imam-imamna"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ku abdi dibariniskeun"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "kana kasalametan"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "sarta nu satia-na"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "sora gumbira"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "baris sora gumbira (deui)"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:36.457596635Z",
+  "model": "glm-5.3"
+}

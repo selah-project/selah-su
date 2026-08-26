@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeunna nyusun di luhurna susunan roti di payuneun Yahwe, kumaha Yahwe paréntahkeun ka ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "nyusun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di luhurna"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "susunan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paréntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:11.046784699Z",
+  "model": "glm-5.3"
+}

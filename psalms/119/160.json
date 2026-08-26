@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Sarira omong-Mu ⟨⟨annya⟩⟩ bener, jeung salawasna unggal putosan kabenaran-Mu.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "sarira"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "omong-Mu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bener"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "jeung salawasna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "putosan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kabenaran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:36.831713463Z",
+  "model": "glm-5.3"
+}

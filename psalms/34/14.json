@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Jaga linteu ti kahasadan, sarta biwir anjeun tina nyarita tipu-daya.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "jaga"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "linteu"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ti kahasadan"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "sarta biwir anjeun"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tina nyarita"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tipu-daya"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:01.783318039Z",
+  "model": "glm-5.3"
+}

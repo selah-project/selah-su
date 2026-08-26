@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Lajeng Yehuda ngomong ka sadulur-sadulurna: Naon untungna lamun urang maehan ⟨את⟩ sadurur urang sarta nutupan ⟨את⟩ getihna?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "untung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "maehan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadurur urang"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "sadurur urang"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "nutupan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:41.835077699Z",
+  "model": "glm-5.3"
+}

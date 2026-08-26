@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung ti nu miskin ti bumina dipiara panglima pangécut jadi tukang anggur jeung tukang melak.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "Jeung ti nu miskin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti bumina"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "dipiara"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "pangécut"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "jadi tukang anggur"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "jeung tukang melak"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:10.820995394Z",
+  "model": "glm-5.3"
+}

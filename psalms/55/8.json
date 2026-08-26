@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Tempo, abdi bakal ngajauhan pabeubeutangan, abdi bakal numpak peuting di gurun. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "bakal ngajauhan"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "pabeubeutangan"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "bakal numpak peuting"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:14.125343595Z",
+  "model": "glm-5.3"
+}

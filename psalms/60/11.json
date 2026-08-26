@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Saha nu mawa abdi ka kota benteng? Saha nu nungtun abdi nepi ka Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Saha"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "nu mawa abdi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ka kota"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Saha"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "nu nungtun abdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:12.600244606Z",
+  "model": "glm-5.3"
+}

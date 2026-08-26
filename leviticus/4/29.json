@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung manéhna narapelkeun ⟨את⟩ leungeunana kana sirah korban dosa, terus nyembelih ⟨את⟩ korban dosa di tempat kurban bakaran.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "jeung-narapelkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban-dosa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "jeung-nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban dosa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban-dosa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di-tempat"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban-bakaran"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:53.193460294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Munggaran hikmah ⟨⟨yaiku⟩⟩ sieun ka Yahwe; kahartieun hadé keur sakur nu ngalaksanakeunnana; puji-Na nangtung satulanglingan.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "munggaran"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sieun ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "kahartieun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "keur sakur"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "nu ngalaksanakeunnana"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "puji-Na"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "satulanglingan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:50.457300489Z",
+  "model": "glm-5.3"
+}

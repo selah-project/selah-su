@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 129,
+  "translation": "Nu teu ngeusian leungeun nu ngamot, sarta sukuanana teu ngeusian deukeut nu ngabeungkeut.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "nu teu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ngeusian"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "nu ngamot"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "sarta sukuanana"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "nu ngabeungkeut sheaves"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:50.305350795Z",
+  "model": "glm-5.3"
+}

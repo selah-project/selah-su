@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung kajadian, waktu karajaan geus kukuh ka anjeunna, anjeunna maéhan ⟨את⟩ palayan-palayana nu geus maéhan ⟨את⟩ raja ramana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jeung kajadian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "geus kukuh"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "anjeunna maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palayan-palayana"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palayan-palayana"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "nu geus maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:29:03.033819571Z",
+  "model": "glm-5.3"
+}

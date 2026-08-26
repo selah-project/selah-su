@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Pangangonan di gurun ngatetes; sarta pasir-pasir dibingbing ku kagumbiraan.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "ngatetes"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pangangonan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "jeung kagumbiraan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "pasir-pasir"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "dibingbing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:33.555041163Z",
+  "model": "glm-5.3"
+}

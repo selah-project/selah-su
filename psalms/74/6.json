@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Jeung ayeuna ukiran-ukiranna babarengan ku palake jeung kaperah arumpak.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "ukiran-ukiranna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "ku palake"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "jeung kaperah"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "arumpak"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:32.139392849Z",
+  "model": "glm-5.3"
+}

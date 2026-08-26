@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Lajeng Shaul ngajagal ⟨את⟩ Amalek ti Khavila, datangna ka Shur, nu di payuneun Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "lajeng ngajagal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "ti Khavila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "datangna ka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:17:37.703830868Z",
+  "model": "glm-5.3"
+}

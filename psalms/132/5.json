@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Nepi ka kuring manggihan tempat pikeun Yahwe, imah-imah pikeun Nu Perkasa Yakub.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "kuring manggihan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "pikeun Nu Perkasa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakub"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:25.195063113Z",
+  "model": "glm-5.3"
+}

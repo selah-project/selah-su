@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Maka kumpul jalma réa, sarta maranéhna nyumbut ⟨את⟩ sakabéh mata cinyaan jeung ⟨את⟩ walungan nu ngocor di tengah tanah, bari nyarita: Naha urang raja-raja Ashur datang manggihan cai loba?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "kumpul"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "réa"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "nyumbut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh mata cinyaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "mata cinyaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "walungan"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "nu ngocor"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "manggihan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    }
+  ],
+  "timestamp": "2026-08-26T16:32:20.644281937Z",
+  "model": "glm-5.3"
+}

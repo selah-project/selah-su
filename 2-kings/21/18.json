@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Tuluy Menashsheh saré jeung bapak-bapakna sarta dikuburkeun di kebun imahna, di kebun Uzza; jadi Amon putrana jadi raja ngagantikeunana.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sare"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapakna"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikuburkeun"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di kebun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di kebun"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ngagantikeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:54.458901336Z",
+  "model": "glm-5.3"
+}

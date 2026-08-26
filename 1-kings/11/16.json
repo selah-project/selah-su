@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sabab genep bulan Yoab jeung sakabéh Yisrael cicing di dinya, nepi ka musnahna sakabéh lalaki di Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "genep"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "musnahna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:22.499348328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ari aku ngawuruk jeung nguatkeun leungeun maranehna, tapi ka aku maranehna ngarancang gawé goreng.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ari aku"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "ngawuruk"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "nguatkeun"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "leungeun maranehna"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "tapi ka aku"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ngarancang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gawé goreng"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:11.075243677Z",
+  "model": "glm-5.3"
+}

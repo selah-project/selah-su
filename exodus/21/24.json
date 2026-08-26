@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Panon ganti panon, untu ganti untu, leungeun ganti leungeun, suku ganti suku.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "שן",
+      "gloss": "untu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "שן",
+      "gloss": "untu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "suku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "suku"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:02.484339026Z",
+  "model": "glm-5.3"
+}

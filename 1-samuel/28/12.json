@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung awéwé éta nempo ⟨את⟩ Shemuel, terus mariceung ku sora tarik; jeung awéwé éta ngomong ka Shaul, sangkan: Naha anjeun nipu abdi, padahal anjeun Shaul?",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Jeung nempo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "terus mariceung"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ku sora"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tarik"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé éta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Naha"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "nipu abdi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "padahal anjeun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:40.061978766Z",
+  "model": "glm-5.3"
+}

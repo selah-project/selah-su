@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Dina tempat di mana maranéhna nyembelih kurban bakaran, di dinya maranéhna nyembelih ⟨את⟩ kurban sala, jeung ⟨את⟩ getihna dipinkeun kana altar sapurilingeunana.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "dina tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "maranéhna nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "maranéhna nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban sala"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "kurban sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "dipinkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sapurilingeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:55.725617778Z",
+  "model": "glm-5.3"
+}

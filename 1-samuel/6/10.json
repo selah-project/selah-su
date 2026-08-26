@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jalmi-jalmi ngalakukeun kitu, nyokot dua embé lembu nu keur nyusu, nyabeunganana kana garobak, jeung ⟨את⟩ anak-anakna ditahan di imah.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "jalmi-jalmi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "nyokot"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "embé lembu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nu keur nyusu"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "nyabeunganana"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kana garobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakna"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ditahan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:20.850706123Z",
+  "model": "glm-5.3"
+}

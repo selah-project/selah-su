@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "⟨את⟩ Domba kahiji anjeun perkeun isuk-isuk, jeung ⟨את⟩ domba kadua anjeun perkeun antara wanci soré.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba kahiji"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kahiji"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun perkeun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "domba kadua"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun perkeun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wanci soré"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:32.813236276Z",
+  "model": "glm-5.3"
+}

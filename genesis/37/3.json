@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Ari Yisrael mikacinta ka ⟨את⟩ Yosef leuwih ti sagala putra-putrana, sabab manehna putra kolotna; sarta manehna nyieun keur manehna baju panjang begang.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Ari Yisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mikacinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "leuwih ti sagala"
+    },
+    {
+      "surface": "בניv",
+      "gloss": "putra-putrana",
+      "note": ""
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur manehna"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "sarta nyieun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur manehna"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "baju"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "panjang begang"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:03.077330165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sarta anjeun ngajaga ⟨את⟩ kecap-kecap perjangjian ieu sarta ngalaksanakeun ⟨את⟩ maranehna, sangkan anjeun ngahasilan dina sagala nu anjeun pigawé.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "anjeun ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap perjangjian ieu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "anjeun ngalaksanakeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "anjeun ngahasilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nu anjeun pigawé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "anjeun pigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:55.145781118Z",
+  "model": "glm-5.3"
+}

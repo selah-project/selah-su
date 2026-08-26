@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Ari sadulur-sadulurna nempo yén bapa maranéhna mikacinta ⟨את⟩ manehna leuwih ti sagala sadulur-sadururna, jadi maranéhna ngabenci ⟨את⟩ manehna, sarta henteu sanggup ngomongkeun damai ka manehna.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ari nempo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manehna (Yosef)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mikacinta"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapa maranéhna"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "leuwih ti sagala"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "jadi ngabenci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manehna (Yosef)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta henteu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "damai"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:03.077458156Z",
+  "model": "glm-5.3"
+}

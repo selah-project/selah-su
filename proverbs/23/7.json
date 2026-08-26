@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Sabab saperti nu ngarugihkeun dina jiwana, kitu ⟨anjeunna⟩: 'Dahar jeung inum,' ucapna ka anjeun, tapi hateuna teu pisan jeung anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "nu ngarugihkeun"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "dina jiwana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "jeung inum"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ucapna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "tapi hateuna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu pisan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:08.075089106Z",
+  "model": "glm-5.3"
+}

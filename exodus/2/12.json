@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Ninggal ka dieu ka dinya, nempo yén euweuh jalma, ditakolna ⟨את⟩ Misri éta, jeung disumputkeunana keusik.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Ninggal"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ka dieu"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ka dinya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ditakolna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misri éta"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Misri éta"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "jeung disumputkeunana"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "keusik"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:05.089829986Z",
+  "model": "glm-5.3"
+}

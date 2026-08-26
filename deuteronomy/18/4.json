@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Kahiji tina saréhé anjeun, anggur anyar anjeun, jeung minyak anjeun, jeung kahiji tina beuweung domba anjeun, béré ka manéhna.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "kahiji tina"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "saréhé anjeun"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "anggur anyar anjeun"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "jeung minyak anjeun"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "jeung kahiji tina"
+    },
+    {
+      "surface": "גז",
+      "gloss": "beuweung"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "domba anjeun"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "béré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:46:48.273440690Z",
+  "model": "glm-5.3"
+}

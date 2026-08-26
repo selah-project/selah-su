@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Anjeun paréntahkeun pepingpitian-Anjeun sangkan dijaga kalawan taliti.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "paréntahkeun"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "pingpingpitian-Anjeun"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sangkan dijaga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kalawan taliti"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:03.369498059Z",
+  "model": "glm-5.3"
+}

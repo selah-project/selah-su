@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Angkat diri, ⟨hiji⟩ nu ngahakim ⟨isi⟩ bumi; balikeun uwuh ka nu arogan.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "angkat diri"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "nu ngahakim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "balikeun"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "uwuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "nu arogan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:09.465666736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "«Ayeuna abdi badé sulayah,» pokna Yahwe; «ayeuna abdi badé diangkat ka luhur, ayeuna abdi badé ngangkat diri.»",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "sulayah"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "pokna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "diangkat ka luhur"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ngangkat diri"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:32.188596723Z",
+  "model": "glm-5.3"
+}

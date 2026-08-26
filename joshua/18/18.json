@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung ngaliwatan ka sisi nu hareupeun ⟨the⟩ Arabah, ti kalér, tur turun ka Arabah.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "tur turun ka"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "nu hareupeun"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabah"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ti kalér"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "Arabah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:59:01.347200049Z",
+  "model": "glm-5.3"
+}

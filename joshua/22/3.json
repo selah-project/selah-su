@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "anjeun henteu nyingkahkeun ⟨את⟩ baraya anjeun ieu lilana nepi ka ayeuna ieu, tapi anjeun ngajaga ⟨את⟩ tugas tina parentah Yahwe, Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "nyingkahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baraya anjeun"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "baraya anjeun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "lilana poe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ngaruruwit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "tapi anjeun ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugas"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tina parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:29.107742771Z",
+  "model": "glm-5.3"
+}

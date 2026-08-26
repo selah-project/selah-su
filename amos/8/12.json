@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung maranéhna baris ngumbar ti laut ka laut, jeung ti kalér nepi ka wétan, ngalayah-layah milarian ⟨את⟩ kecap Yahwe, tapi moal manggih.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "jeung maranéhna baris ngumbar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti laut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "jeung ti kalér"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "ngalayah-layah"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "milarian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "manggih"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:02.973344236Z",
+  "model": "glm-5.3"
+}

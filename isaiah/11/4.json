@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 11:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung ku kalayan-bener manéhna bakal ngahakem nu darmi, jeung ku kajujuran mutuskeun pikeun nu ama di bumi; jeung manéhna baris ngabetot ⟨את⟩ bumi ku suluh tina taranganna, jeung ku hembusan biwirna baris maéhan nu jahat.",
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "jeung bakal ngahakem"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ku kalayan-bener"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "nu darmi"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "jeung mutuskeun"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "ku kajujuran"
+    },
+    {
+      "surface": "לענוי",
+      "gloss": "pikeun nu ama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "jeung baris ngabetot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ku suluh"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "tina taranganna"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "jeung ku hembusan"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "biwirna"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "baris maéhan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:20.811616113Z",
+  "model": "glm-5.3"
+}

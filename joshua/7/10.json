@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung Yahwe ngandarakeun ka Yehosua: Angkit anjeun; naha ieu anjeun tumbang ka hareupeun manah?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngandarakeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "קם",
+      "gloss": "angkit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tumbang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hareupeun manah anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:55:31.322328105Z",
+  "model": "glm-5.3"
+}

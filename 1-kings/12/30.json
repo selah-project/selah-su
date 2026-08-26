@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jadi kajadian ieu jadi dosa, sarta jalma-jalma éta indit méméh ⟨את⟩ nu hiji nepi ka Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi-kajadian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kajadian ieu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "jadi dosa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "sarta-indit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma-jalma éta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "méméh"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:16.949708369Z",
+  "model": "glm-5.3"
+}

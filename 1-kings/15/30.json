@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Ku sabab dosa-dosa Yaravam nu dipigawéna, jeung nu ngamajoran ⟨את⟩ Israil ku kahasaranna nu nyarakeun ⟨את⟩ Yahwe, Elohimna Israil.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dipigawe (dosa)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung nu"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ngamajoran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "ku kahasaranna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "nyarakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:39.803741825Z",
+  "model": "glm-5.3"
+}

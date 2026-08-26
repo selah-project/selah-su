@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "⟨את⟩ dua gerobak jeung ⟨את⟩ opat sapi dibikeun ka anak-anak Gereshon, luyu jeung pagawéan maranehna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua gerobak"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "gerobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "opat sapi"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "opat"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka anak-anak"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "luyu jeung"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "pagawéan maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:25:43.669435599Z",
+  "model": "glm-5.3"
+}

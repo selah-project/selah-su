@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung ieu mangrupa katurunan Yitsxak, putra Avraham: Avraham nimuan ⟨את⟩ Yitsxak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Jeung ieu"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:07.928911951Z",
+  "model": "glm-5.3"
+}

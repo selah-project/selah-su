@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Muja ka Yahwe, O para utusan-Na, nu wedge kakuatan, nu ngalaksanakeun kecap-Na, sangkan ngadangukeun sora kecap-Na.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "muja ka\/berkah ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "para utusan-Na"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "nu wedge"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nu ngalaksanakeun"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kecap-Na"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sangkan ngadangukeun"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kana sora"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kecap-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:42.546837226Z",
+  "model": "glm-5.3"
+}

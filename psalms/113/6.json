@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 113,
+  "translation": "Anu mareumkeun dirina pikeun nempo ka ⟨di⟩ langit-langit jeung ka ⟨di⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "anu mareumkeun dirina"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ka langit-langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "jeung ka bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:12.586604270Z",
+  "model": "glm-5.3"
+}

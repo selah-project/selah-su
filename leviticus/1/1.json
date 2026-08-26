@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Yahwe nyaur ka Moshe, lajeng nyarita ka anjeunna ti tenda patepung, nyarios:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "teras nyaur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ti tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:19.903359645Z",
+  "model": "glm-5.3"
+}

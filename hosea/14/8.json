@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Nu cicing dina kalangkana baris balik deui; maranéhna ngahidupkeun jagung jeung mekar jiga areuy anggur; ingetanna jiga anggur Libanon.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "baris balik deui"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "nu cicing"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "dina kalangkana"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ngahidupkeun"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "jagung"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "jeung mekar"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "jiga areuy anggur"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ingetanna"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "jiga anggur"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:17.677425438Z",
+  "model": "glm-5.3"
+}

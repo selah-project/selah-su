@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "sabab Dawid ngalakukeun ⟨את⟩ nu bener dina panon Yahwe, sarta teu méngkal ti sadaya nu diparéntahkeun ka manéhna sapanjang poé hirupna, iwal ukur dina urusan Uriyah urang Het.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu bener"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "סר",
+      "gloss": "méngkal"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diparéntahkeun ka manéhna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "hirupna"
+    },
+    {
+      "surface": "רק",
+      "gloss": "iwal ukur"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dina urusan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "urang Het"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:22.317240095Z",
+  "model": "glm-5.3"
+}

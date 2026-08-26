@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Pikeun pangatik; mazmur ku Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pikeun pangatik"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:04.800923314Z",
+  "model": "glm-5.3"
+}

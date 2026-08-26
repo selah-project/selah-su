@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Sabab moal gigireung salawasna; nu adil bakal jadi ⟨pikeun⟩ énggal-abadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "gigireung"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "⟨pikeun⟩ énggal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu adil"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:05.917495938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Saméméh abdi ditindak, abdi ngajeleud; ayeuna kecap Anjeun abdi pihorme.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "abdi ditindak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ngajeleud"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kecap Anjeun"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "abdi pihorme"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:22.870961539Z",
+  "model": "glm-5.3"
+}

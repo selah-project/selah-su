@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Kungsi ngora kuring, ogé geus kolot kuring ayeuna, tapi teu kungsi kuring nempo jalma nu bener ditinggaleun, sarta turunana nyungkan sangu.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ngora"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kungsi ... kuring"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "geus kolot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kungsi kuring nempo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jalma nu bener"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "ditinggaleun"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "sarta turunana"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "nyungkan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sangu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:36.565856041Z",
+  "model": "glm-5.3"
+}

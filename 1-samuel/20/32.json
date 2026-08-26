@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Teras Yonatan ngajawab ⟨את⟩ Shaul indung-bapana sarta nyarita ka anjeunna: Naha manehna kudu dipaéhan? naon nu dipigawé?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "indung-bapana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kudu dipaéhan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu dipigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:34.748471994Z",
+  "model": "glm-5.3"
+}

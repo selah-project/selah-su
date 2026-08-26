@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung ayeuna, bapa kuring mibebanan ka aranjeun beban beurat, tapi kuring nambah luhur beban aranjeun; bapa kuring ngukum ⟨את⟩ aranjeun ku cambuk, tapi kuring baris ngukum ⟨את⟩ aranjeun ku kalajengking.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "mibebanan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "beban"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tapi kuring"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "beban aranjeun"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ngukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun diukum ku cambuk"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ku cambuk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tapi kuring"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ngukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun diukum ku kalajengking"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ku kalajengking"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:21.464528684Z",
+  "model": "glm-5.3"
+}

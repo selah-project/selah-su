@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Ka Anjeun abdi diceungceuleun ti rahim; tina kandungan indung abdi — El abdi ⟨nyaéta⟩ Anjeun.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "ka-Anjeun"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "abdi-diceungceuleun"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ti-rahim"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "tina-kandungan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "indung-abdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-abdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:16.831519376Z",
+  "model": "glm-5.3"
+}

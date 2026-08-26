@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Elohim, dina kasucian ⟨is⟩ jalan-Mu; saha ⟨is⟩ El nu agung kawas Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "dina kasucian"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kawas Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:10.321711069Z",
+  "model": "glm-5.3"
+}

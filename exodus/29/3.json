@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun bakal nempatkeunana kana hiji kranjang, sarta anjeun bakal mawa éta deukeut dina kranjang éta, jeung ⟨את⟩ ⟨the⟩ sapi jalu jeung ⟨את⟩ dua domba jalu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "jeung anjeun bakal nempatkeun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kranjang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "sarta anjeun bakal mawa deukeut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dina kranjang"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "dina kranjang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sapi jalu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi jalu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "dua domba jalu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "domba jalu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:33.215004981Z",
+  "model": "glm-5.3"
+}

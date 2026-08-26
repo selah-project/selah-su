@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sarta ogé ⟨את⟩ putra pambantu awéwé palayur — bangsa barin kula jieunana, sabab katurunan anjeun manéhna.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sarta ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra pambantu awéwé palayur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "pambantu awéwé palayur"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "kula jieunana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "katurunan anjeun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:05.405801036Z",
+  "model": "glm-5.3"
+}

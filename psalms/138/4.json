@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 138,
+  "translation": "Bakal maturan Anjeun, wahai Yahwe, sadaya raja-raja bumi, sabab geus ngadéngé aranjeunna pawarios-pawarios sungu Anjeun.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Bakal maturan Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "geus ngadéngé aranjeunna"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "pawarios-pawarios"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sungu Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:25.000982945Z",
+  "model": "glm-5.3"
+}

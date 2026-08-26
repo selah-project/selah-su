@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Teras Yehosua ngaberkahan anjeunna, sarta méré ⟨את⟩ Hebron ka Kalev putra Yefuneh jadi kabogaan warisan.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "teras ngaberkahan anjeunna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "sarta méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ka Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "jadi kabogaan warisan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:57:25.619074Z",
+  "model": "glm-5.3"
+}

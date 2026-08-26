@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 34:23",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Lajeng anjeunna ngomong ka maranéhna: Kieu ceuk Yahwe, Elohimna Yisrael: Caritakeun ka jalma nu mikirim ⟨את⟩ aranjeun ka abdi:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lajeng ngomong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kieu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mikirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:34:51.944793717Z",
+  "model": "glm-5.3"
+}

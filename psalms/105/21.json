@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Anjeunna masangkeun manéhna jadi tuwan kana bumina, jeung pangawasa dina sadaya kakayaanana.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "masangkeun"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "tuwan"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kana bumina"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "jeung pangawasa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sadaya"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "kakayaanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:24.851719706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung abdi ngirim ka aranjeunna ⟨את⟩ pedang, ⟨את]] kalaparan, jeung ⟨את]] wabah penyakit, nepi ka musnah ti luhureun taneuh anu geus abdi wedgeurkeun ka maranehna jeung ka karuhunna.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Jeung abdi ngirim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedang"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalaparan"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "wabah penyakit"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wabah penyakit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "musnah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhureun"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "geus abdi wedgeurkeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "jeung ka karuhunna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:30:10.023359289Z",
+  "model": "glm-5.3"
+}

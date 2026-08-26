@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Teras Raja David ngirim ⟨saurangan⟩ sarta nyandak anjeunna tina imah Makhir putra Ammiel, ti Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "teras ngirim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "sarta nyandak anjeunna"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tina imah"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "ti Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "-Devar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:18.889281526Z",
+  "model": "glm-5.3"
+}

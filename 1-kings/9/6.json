@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 9:6",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tapi mun maneh balik deui, maneh jeung anak-anak maneh, tina satukangeun kuring, jeung moal ngajaga parentah-parentah kuring, katut uger-uger kuring nu kuring ngumpukeun di payuneun maneh, lajeng mugi mulas jeung matak ngawula ka allallah séjén sarta sujud ka maranehna:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "תשבון",
+      "gloss": "maneh balik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "jeung anak-anak maneh"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "tina satukangeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ngajaga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah-parentah kuring"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "uger-uger kuring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring ngumpukeun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di payuneun maneh"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mugi mulas"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "matak ngawula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allallah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "séjén"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "sujud"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:30.327023336Z",
+  "model": "glm-5.3"
+}

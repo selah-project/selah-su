@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "⟨Ieu⟩ kecap nu datang ka Yirmeyahu ti ⟨את⟩ Yahwe, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ti",
+      "marks": "ti Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T13:33:12.843200952Z",
+  "model": "glm-5.3"
+}

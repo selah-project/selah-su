@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 84,
+  "translation": "Yahwe Tzevaot, untung jalma nu percaya ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "untung"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:22.465532210Z",
+  "model": "glm-5.3"
+}

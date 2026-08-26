@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng Paroh ngadangu ⟨את⟩ kalakuan ieu, sarta mihawan pikeun maéhan ⟨את⟩ Moshe; tuluy Moshe kabur ti payuneun Paroh, sarta cicing di tanah Midyan, sarta diuk gigireun sumur.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalakuan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalakuan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "mihawan"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "pikeun maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "gigireun"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sumur"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:38.001883273Z",
+  "model": "glm-5.3"
+}

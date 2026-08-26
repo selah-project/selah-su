@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Maranéhna naék ka langit, turun ka liang-liang jero; nyawa maranéhna lélé dina kaéwal.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Maranéhna naék"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ka langit"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ka liang-liang jero"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa maranéhna"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dina kaéwal"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "lélé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:26.728386376Z",
+  "model": "glm-5.3"
+}

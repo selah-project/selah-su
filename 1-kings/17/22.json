@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Lajeng Yahwe ngadangu sora Eliyahu, jeung nefesh budak éta balik deui ka jero awakna, lajeng anjeunna hirup deui.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "jero awakna"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "hirup deui"
+    }
+  ],
+  "timestamp": "2026-08-26T17:34:08.765214660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sabab kitu kata Yahwe Tsevaot: Sakali deui, saeutik wungkul eta, sarta kuring ngageterkeun ⟨את⟩ langit-langit jeung ⟨את⟩ bumi jeung ⟨את⟩ laut jeung ⟨את⟩ darat garing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sakali"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "היא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sarta kuring"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ngageterkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit-langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "darat garing"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "darat garing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:17:21.939430963Z",
+  "model": "glm-5.3"
+}

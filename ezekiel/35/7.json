@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung kuring bakal nangtukeun ⟨את⟩ gunung Seir jadi karandukan jeung kapeurih, jeung kuring mupus ti dinya nu liwat jeung nu balik.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Jeung kuring bakal nangtukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "jadi karandukan"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "jeung kapeurih"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "jeung kuring mupus"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nu liwat"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "jeung nu balik"
+    }
+  ],
+  "timestamp": "2026-08-26T13:56:03.132260533Z",
+  "model": "glm-5.3"
+}

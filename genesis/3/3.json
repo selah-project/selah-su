@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "tapi tina buah ⟨kahieuan⟩ nu aya di tengah kebon, Elohim ngandika: ulah aranjeun ngahakan ti éta jeung ulah aranjeun antel ka éta, supaya aranjeun henteu paéh.\"",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "tapi tina buah"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "⟨kahieuan⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "kebon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "arahanjeun ngahakan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti éta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "arahanjeun antel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka éta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya henteu"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "arahanjeun paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:48.003327437Z",
+  "model": "glm-5.3"
+}

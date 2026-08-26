@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Kidung, mazmur, pikeun putra-putra Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikeun putra-putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:37.700610439Z",
+  "model": "glm-5.3"
+}

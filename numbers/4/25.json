@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung aranjeunna baris mawa ⟨את⟩ layar-layar ⟨the⟩ kemah sucian jeung ⟨את⟩ kemah papanggihan, tutupanana, jeung tutupan kulit takhash nu aya di luhurna, jeung ⟨את⟩ tabir di panto kemah papanggihan.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "jeung aranjeunna baris mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "layar-layar"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "layar-layar"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah sucian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kemah papanggihan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "papanggihan"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "tutupanana"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "jeung tutupan"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "kulit takhash"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aya di luhurna"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tabir"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tabir"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "papanggihan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:25:16.797002422Z",
+  "model": "glm-5.3"
+}

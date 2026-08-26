@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung anjeunna nyarita ka anjeunna: Kuring putri Batuél, putra Milkah, nu dilahirkeunana ka Nahor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Batuél"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milkah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahirkeunana"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ka Nahor"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:14.323066051Z",
+  "model": "glm-5.3"
+}

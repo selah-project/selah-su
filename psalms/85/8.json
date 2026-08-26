@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Tembongkeun ka urang, Yahwe, kanyaah satia-Mu, sarta kasalametan-Mu anjeun masangkeun ka urang.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "tembongkeun ka urang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia-Mu"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "sarta kasalametan-Mu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anjeun masangkeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:45.950260677Z",
+  "model": "glm-5.3"
+}

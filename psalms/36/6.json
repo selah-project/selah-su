@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Yahwe, di langit ⟨the⟩ xesed-Mu; kasetiaan-Mu nepi ka awan-awan luhur.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesed-Mu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasetiaan-Mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan luhur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:55.164725647Z",
+  "model": "glm-5.3"
+}

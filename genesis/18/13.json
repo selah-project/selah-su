@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Yahwe nyarita ka Avraham: naha ieu Sarah seuri, bari nyebatkeun, naha enya kuring baranak, padahal kuring geus kolot?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "seuri"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebatkeun"
+    },
+    {
+      "surface": "האף",
+      "gloss": "naha"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "enya"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "baranak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "padahal-kuring"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "geus-kolot"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:01.998792679Z",
+  "model": "glm-5.3"
+}

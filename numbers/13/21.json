@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Lajeng aranjeunna naék jeung malinglami ⟨את⟩ ⟨the⟩ tanah, ti gurun Tsin nepi ka Rexob, di lawang asup ka Xamat.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "lajeng aranjeunna naék"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "jeung malinglami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ti gurun"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rexob"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "asup ka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:29:01.808713031Z",
+  "model": "glm-5.3"
+}

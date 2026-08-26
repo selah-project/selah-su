@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Tapi lamun budak éta nyarita bener-bener: Kuring mikacinta ⟨את⟩ Adonay kuring, ⟨את⟩ pamajikan kuring, jeung ⟨את⟩ anak-anak kuring; moal kuring kaluar bébas.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi lamun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bener-bener"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "budak éta"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kuring mikacinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonay kuring"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikan kuring"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "pamajikan kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "anak-anak kuring"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "kuring kaluar"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "bébas"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:28.281833486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tuluy maranéhna malingan sarta naék ka pagunungan, asup nepi ka walungan Eshkol, lajeng ngatalungtik ⟨את⟩ éta.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "tuluy maranéhna malingan"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sarta naék"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ka pagunungan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "asup"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "lajeng ngatalungtik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "éta (tanah)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:18.802010505Z",
+  "model": "glm-5.3"
+}

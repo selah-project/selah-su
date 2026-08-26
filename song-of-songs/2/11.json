@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sebab tempuh, usum tiis geus kaliwat, hujan geus ngaliwat, geus indit sarta leungit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempuh"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "usum tiis"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geus kaliwat"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "geus ngaliwat"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "geus indit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sarta leungit"
+    }
+  ],
+  "timestamp": "2026-08-26T15:23:28.647895352Z",
+  "model": "glm-5.3"
+}

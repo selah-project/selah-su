@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Ku lantaran kitu Adonay, Yahwe Tzevaot, bakal ngirim kaamongna kalangkang, jeung di handap kamulyaanna kaduruk ngabeledug kayaning kadurukna seuneu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ku lantaran kitu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bakal ngirim"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "kaamongna"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kalangkang"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "jeung di handap"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "kamulyaanna"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "kaduruk"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "ngabeledug"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "kayaning kadurukna"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:32.257884218Z",
+  "model": "glm-5.3"
+}

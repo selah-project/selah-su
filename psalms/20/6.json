@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Urang bakal soré mpik ku kabalamatannana, jeung ku Jenengan Elohim urang ngibarkeun panji; Yahwe ngeusian sadaria paménta anjeun",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "soré mpik"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ku kabalamatannana"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "jeung ku Jenengan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "ngibarkeun panji"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ngeusian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaria"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "paménta anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:54.058028748Z",
+  "model": "glm-5.3"
+}

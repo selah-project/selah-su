@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Kecap anu kajadi ka Yirmeyahu ti ⟨את⟩ Yahwe, eukeur ngandika:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kajadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "eukeur ngandika"
+    }
+  ],
+  "timestamp": "2026-08-26T13:26:13.686237768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 101,
+  "translation": "Panon ⟨the⟩ kula ka nu cpt-patuh di bumi, sangkan cicing jeung kula; nu liliwatan dina jalan nu sampurna, manéhna ngawula ka kula",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "panon kula"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "ka nu cpt-patuh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sangkan cicing"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jeung kula"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nu liliwatan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nu sampurna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ngawula ka kula"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:11.219347140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Ayeuna, tingali, kuring geus mawa ⟨את⟩ bubuahan munggaran tina taneuh nu Anjeun paparin ka abdi, ó Yahwe; jeung anjeulah nempatkeun éta di payuneun Yahwe Elohim anjeun, jeung sujud di payuneun Yahwe Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "kuring geus mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bubuahan munggaran"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "munggaran"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bubuahan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Anjeun paparin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "anjeulah nempatkeun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "anjeulah sujud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:31.725389612Z",
+  "model": "glm-5.3"
+}

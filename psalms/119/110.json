@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jalma-jalma jahat masang jaring pikeun kuring, tapi tina parentah Anjeun kuring teu nyimpang.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "masang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun kuring"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "tina parentah Anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "kuring nyimpang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:51.545080093Z",
+  "model": "glm-5.3"
+}

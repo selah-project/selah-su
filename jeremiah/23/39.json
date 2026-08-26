@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 23:39",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "ku lantaran kitu, tingali, kuring bakal ngaleungitkeun aranjeun sacara pinuh, sareng kuring bakal miceun anjeun jeung ⟨את⟩ kota anu kuring masihan ka aranjeun jeung ka karuhun aranjeun, ti payuneun dheudeuh kuring.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ku lantaran kitu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tingali kuring"
+    },
+    {
+      "surface": "ונשיתי",
+      "gloss": "jeung kuring ngaleungitkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun (objek)"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "sacara pinuh"
+    },
+    {
+      "surface": "ונטשתי",
+      "gloss": "jeung kuring miceun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun (objek)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring masihan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "jeung ka karuhun aranjeun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payuneun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:31:06.398788577Z",
+  "model": "glm-5.3"
+}

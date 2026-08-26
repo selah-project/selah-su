@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung ⟨manehna⟩ mawa urang ka ieu tempat, jeung méré ka urang ⟨את⟩ ieu tanah — tanah nu ngocorkeun susu jeung madu.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "mawa urang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieu tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ngocorkeun"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jeung madu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:31.725137858Z",
+  "model": "glm-5.3"
+}

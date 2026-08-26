@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Sato leungliang jeung sadaya ingon-ingon; nu ngarayap jeung manuk jangjang",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "sato leungliang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nu ngarayap"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "jeung manuk"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "jangjang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:04.448602721Z",
+  "model": "glm-5.3"
+}

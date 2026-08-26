@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung ogé réu réa campuran naék ⟨את⟩ jeung maranehna, jeung domba jeung sapi, ingon-ingon beurat pisan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Jeung ogé"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "réu campuran"
+    },
+    {
+      "surface": "רב",
+      "gloss": "réa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jeung maranehna",
+      "marks": "jeung maranehna"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "jeung domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jeung sapi"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:40.950099179Z",
+  "model": "glm-5.3"
+}

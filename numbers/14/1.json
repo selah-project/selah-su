@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung sakabéh jamaah ngangkat sora, sarta maranéhna ngaluarkeun ⟨את⟩ sora maranéhna, sarta jalma-jalmi haréwuh dina peuting eta.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ngaluarkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora maranéhna"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sora maranéhna"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "haréwuh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma-jalmi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "dina peuting"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:48.758057054Z",
+  "model": "glm-5.3"
+}

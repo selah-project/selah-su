@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Basa Doeg sang Edom datang jeung ngomongkeun ka Saul, sarta nyarita ka anjeunna: David datang ka imah Axsimelekh.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Basa"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "sang Edom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "jeung ngomongkeun"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Saul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Axsimelekh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:08.561806580Z",
+  "model": "glm-5.3"
+}

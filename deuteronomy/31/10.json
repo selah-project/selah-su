@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Teras Moshe maréntahkeun aranjeunna ⟨את⟩, sangkan ngomong: dina tungtung tujuh taun, dina waktu nu ditangtukeun, taun ngaleupaskeun hutang, dina raya Saŋgah (Sukkot).",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "teras maréntahkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "imam-imam jeung sesepuh (v9)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngomong"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "dina tungtung"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "dina waktu nu ditangtukeun"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taun"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "ngaleupaskeun hutang"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "dina raya"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Saŋgah (Sukkot)"
+    }
+  ],
+  "timestamp": "2026-08-26T16:47:25.653040477Z",
+  "model": "glm-5.3"
+}

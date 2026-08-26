@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anjeunna nyarita, Saha nu nyaritakeun ka anjeun yén anjeun bulig awas? Naha tina tangkal nu kuring paréntahkeun ka anjeun ulah dahar, anjeun geus ngadahar?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "bulig awas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "המן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "tangkal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "kuring paréntahkeun ka anjeun"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ngadahar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tina eta"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "anjeun geus ngadahar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:43.002934858Z",
+  "model": "glm-5.3"
+}

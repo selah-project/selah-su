@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Serug hirup tilu puluh taun, sarta nimangan ⟨את⟩ Naxor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sarta nimangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:46.049873320Z",
+  "model": "glm-5.3"
+}

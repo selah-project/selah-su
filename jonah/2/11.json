@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng Yahwe ngomong ka lauk éta, lajeng lauk ngamuntahkeun ⟨את⟩ Yunus ka darat kering",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "ka lauk éta"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "lajeng ngamuntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yunus"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "darat kering"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:17.700303619Z",
+  "model": "glm-5.3"
+}

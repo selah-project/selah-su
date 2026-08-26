@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Saterusna Elohim ngandika, ‘Jadi cahya’; tuluy cahya jadi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Saterusna ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Jadi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tuluy jadi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:13.484128111Z",
+  "model": "glm-5.3"
+}

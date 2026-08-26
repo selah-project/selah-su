@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Manéhna nyingkah ka parebut jalma nu kabeuratum, sarta teu ngaheureuyeunkeun ⟨את⟩ parebut maranéhna.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "nsingkah \/ mariksa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "parebut"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "jalma nu kabeuratum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ngaheureuyeunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parebut maranéhna"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "parebut maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:16.393075560Z",
+  "model": "glm-5.3"
+}

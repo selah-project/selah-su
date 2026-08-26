@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Terus datang sadaya para sepuh Israél, sarta imam-imam munggahkeun ⟨את⟩ ⟨éta⟩ Peti.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Terus datang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "sarta munggahkeun"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peti"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Peti"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:16.449276149Z",
+  "model": "glm-5.3"
+}

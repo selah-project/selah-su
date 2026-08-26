@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ngan pastikeun ulah ngadahar ⟨את⟩ getih, sabab getih ⟨הוא⟩ kahirupan, jeung ulah anjeun ngadahar kahirupan babareangan jeung daging.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "pastikeun"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sangkan ulah"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ngadahar"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨adalah⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "kahirupan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "anjeun ngadahar"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "kahirupan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "babareangan jeung"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:14.002383407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Anjeun ngabarung barudak geuras di kota ieu, sarta anjeun ngeusian jalan-jalanana ku nu geuras.",
+  "tokens": [
+    {
+      "surface": "הרביתם",
+      "gloss": "anjeun-ngabarung"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "nu-geuras-anjeun"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di-kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ומלאתם",
+      "gloss": "sarta-anjeun-ngeusian"
+    },
+    {
+      "surface": "חוצתיה",
+      "gloss": "jalan-jalanana"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nu-geuras"
+    }
+  ],
+  "timestamp": "2026-08-26T13:45:30.858884462Z",
+  "model": "glm-5.3"
+}

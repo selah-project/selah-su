@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "sarta moal ngaruksak ⟨את⟩ barang-barang suci putra-putra Israél, ⟨את⟩ nu aranjeunna ngangkatkeun ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ngaruksak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang-barang suci putra-putra Israél"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "barang-barang suci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu aranjeunna ngangkatkeun ka Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "maranehna ngangkatkeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:12.235516628Z",
+  "model": "glm-5.3"
+}

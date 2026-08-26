@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Sirahbagna nu béréas di jalan lumpatna, nu léngkah-léngkah dina Toret Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sirahbagna"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "nu béréas"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "nu léngkah-léngkah"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "dina Toret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:03.369064923Z",
+  "model": "glm-5.3"
+}

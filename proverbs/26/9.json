@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Dapur kawil naék dina leungeun nu mabuk, sarta mamaméh dina baham jalma belet.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "dapur"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dina leungeun"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "nu mabuk"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "sarta mamaméh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dina baham"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "jalma belet"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:42.570538759Z",
+  "model": "glm-5.3"
+}

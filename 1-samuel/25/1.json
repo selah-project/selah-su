@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Teras maot Shemuel, sarta sakumna Yisrael kumpul sarta miceunan anjeunna, sarta ngurebkeun anjeunna di imahna di Ramah; teras Dauid ngadeg sarta turun ka gurun Paran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "teras maot"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "kumpul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "piceunan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ngurebkeun anjeunna"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di imahna"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "di Ramah"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:00.457621876Z",
+  "model": "glm-5.3"
+}

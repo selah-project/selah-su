@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sarta kebun anggur aranjeun ulah daramoan, sarta anggur nu ragrag tina kebun anggur aranjeun ulah dikumpulkeun; bagi nu miskin jeung ka nu cicing batur aranjeunna dibikeun. Kaula Yahwe, Elohim aranjeun.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "sarta kebun anggur aranjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "daramoan"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "sarta anggur nu ragrag"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kebun anggur aranjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "dikumpulkeun"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bagi nu miskin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "jeung ka nu cicing batur"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "arajeunna dibikeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nu miskin jeung nu cicing batur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Kaula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:58.617303832Z",
+  "model": "glm-5.3"
+}

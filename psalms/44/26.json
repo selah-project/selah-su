@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Sabab nefesh urang tilem ka lebu, beuteung urang napel ka taneuh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "tilem"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ka lebu"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefesh urang"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "napel"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka taneuh"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "beuteung urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:31:54.507191396Z",
+  "model": "glm-5.3"
+}

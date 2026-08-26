@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ayeuna poma nangtung, bisi abdi ngadilan jeung aranjeun di payuneun Yahwe ⟨את⟩ sagala kabeneran Yahwe nu dipigawe ka aranjeun jeung ka bapak-bapak aranjeun.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ayeuna"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "poma nangtung"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "bisi abdi ngadilan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jeung aranjeun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala kabeneran Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka aranjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bapak-bapak aranjeun"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapak-bapak aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:56.217728762Z",
+  "model": "glm-5.3"
+}

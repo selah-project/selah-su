@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Yehosafat nyarita ka raja Israél: 'Téang, kumargi, poé ieu ogé ⟨את⟩ firman Yahwe.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "téang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kumargi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "poé ieu ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:24:35.985720297Z",
+  "model": "glm-5.3"
+}

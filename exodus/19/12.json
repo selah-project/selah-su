@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sarta anjeun bakal ngawatesan ⟨את⟩ rakyat sakurilingeun, nyebutkeun: \"Awas-awas diri ulah naek ka gunung atawa antel tungtungna; saha-saha nu antel ka gunung tangtu bakal dipaehan.\"",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "anjeun bakal ngawatesan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakurilingeun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "awas-awas"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "diri"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "naek"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ka gunung"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "jeung antel"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "tungtungna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saha-saha"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nu antel"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ka gunung"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dipaeh"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tangtu dipaehan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:11.995788504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 87,
+  "translation": "Jeung nu nyanyi saperti nu ngibing ⟨nyarita⟩: sagala sumber cipamuwusanku aya di Anjeun.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "jeung nu nyanyi"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "saperti nu ngibing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "sumber cipamuwusanku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:39.214914770Z",
+  "model": "glm-5.3"
+}

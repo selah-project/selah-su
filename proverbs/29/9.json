@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Lalaki wijaksana ngadilan ⟨את⟩ lalaki kolokodoh — jeung ngamururung jeung seuri — jeung euweuh katenangan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijaksana"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ngadilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki kolokodoh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "kolokodoh"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "jeung ngamururung"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "jeung seuri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "katenangan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:17:23.948540003Z",
+  "model": "glm-5.3"
+}

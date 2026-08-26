@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jadi Yahwe jeung Yehosafat, sabab <anjeunna> jalan dina jalan-jalan Dawud ramana nu munggaran-munggaran, sarta moal milarian ka <béh> Baal-baal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi \/ aya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "dina jalan-jalan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "nu munggaran-munggaran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "milarian"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ka Baal-baal"
+    }
+  ],
+  "timestamp": "2026-08-26T16:23:56.034294889Z",
+  "model": "glm-5.3"
+}

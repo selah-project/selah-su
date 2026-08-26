@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung ⟨את⟩ putra-putrana anjeun bakal mawa aranjeunna asup, jeung ngagemkeun aranjeunna ku tunik-tunik.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "anjeun bakal mawa aranjeunna asup"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "jeung ngagemkeun aranjeunna"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tunik-tunik"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:50.322070445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung ulah aranjeun ngacamukkeun ⟨את⟩ Jenengan suci abdi, sarta abdi bakal disucikeun di tengah-tengah barudak Israél; abdi Yahwe, Nu Nyucikeun aranjeun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "anjeun ngacamukkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jenengan suci abdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Jenengan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "suci abdi"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "sarta abdi bakal disucikeun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Nu Nyucikeun aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:17.751083580Z",
+  "model": "glm-5.3"
+}

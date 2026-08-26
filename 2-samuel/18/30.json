@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung raja ngomong: Sisi, cicing di dieu. Jadi ⟨anjeunna⟩ sisi, jeung cicing.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "סב",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "כה",
+      "gloss": "di dieu"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "cicing"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:45.822469002Z",
+  "model": "glm-5.3"
+}

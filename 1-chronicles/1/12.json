@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ⟨את⟩ orang Patrusi, jeung ⟨את⟩ orang Kasluxi — ti ditu kaluar orang Peleshet — jeung ⟨את⟩ orang Kaftor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "orang Patrusi"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "orang Patrusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "orang Kasluxi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "orang Kasluxi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti ditu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Peleshet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "orang Kaftor"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "orang Kaftor"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:58.284096156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Kainget kadurhana karuhun-karuhunna ka Yahwe, jeung dosa indungna ulah dihapus.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "kainget"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kadurhana"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "karuhun-karuhunna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "jeung dosa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "dihapus"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:26.619186722Z",
+  "model": "glm-5.3"
+}

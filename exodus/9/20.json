@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Nu sieun ⟨את⟩ kecap Yahwe, tina palayan-palayan Paroh, ngajauhan ⟨את⟩ palayanana jeung ⟨את⟩ ingon-ingonna ka imah-imah.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Nu-sieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "tina-palayan-palayan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "ngajauhan-ka-palindrungan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palayanana"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palayanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ingon-ingonna"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ingon-ingonna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "imah-imah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:20.511094498Z",
+  "model": "glm-5.3"
+}

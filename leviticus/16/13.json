@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung manéhna nempatkeun ⟨את⟩ kemenyan ka luhur seuneu di hareupeun Yahwe, antukna awan tina kemenyan nutupan ⟨את⟩ tutup panganti-dosa anu aya di luhur kasaksian, sahingga manéhna teu maot.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemenyan"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kemenyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hareupeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "nutupan"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kemenyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutup panganti-dosa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup panganti-dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sahingga teu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "maot"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:15.602902477Z",
+  "model": "glm-5.3"
+}

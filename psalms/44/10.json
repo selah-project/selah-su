@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Tapi Anjeun nyingkahkeun kami sarta méléhkeun kami, teu mihareup kaluar jeung bala kami.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "Anjeun nyingkahkeun kami"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "sarta méléhkeun kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "jeung bala kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:03.152352322Z",
+  "model": "glm-5.3"
+}

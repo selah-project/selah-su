@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Moal anjeun nyieun keur diri patung ukiran, atawa rupa benten naon-naon anu aya di langit-langit luhureunana, anu aya di bumi sahandapeunana, jeung anu aya di cai sahandapeunana di jero bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun nyieun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "keur diri"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung ukiran"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "atawa rupa benten"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "benten naon-naon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit-langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "luhureunana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sahandapeunana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung anu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di cai"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sahandapeunana"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "di jero bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:18.614060536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Berkah-berkah ⟨aya⟩ dina sirah ⟨ka⟩ nu bener; sungut jalma-jalma jahat nutupan kalakayan nyikers.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "berkah-berkah"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "dina sirah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "sungut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "nutupan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kalakayan nyikers"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:50.752143093Z",
+  "model": "glm-5.3"
+}

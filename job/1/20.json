@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lajeng Iyub angkat, nyiksik ⟨את⟩ pakéan luarna, nyukuran ⟨את⟩ sirahna, lajeng ragrag ka taneuh, lajeng sujud.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lajeng angkat"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "lajeng nyiksik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakéan luarna"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "pakéan luarna"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "lajeng nyukuran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahna"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahna"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "lajeng ragrag"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka taneuh"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "lajeng sujud"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:11.541836559Z",
+  "model": "glm-5.3"
+}

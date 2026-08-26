@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Naha poé-poe anjeun kawas poé-poe manusa fana, atawa taun-taun anjeun kawas poé-poe saurang lalaki?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "kawas poé-poe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa fana"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "poé-poe anjeun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ataka"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "taun-taun anjeun"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kawas poé-poe"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "saurang lalaki"
+    }
+  ],
+  "timestamp": "2026-08-26T15:08:27.482220811Z",
+  "model": "glm-5.3"
+}

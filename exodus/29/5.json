@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun bakal nyandak ⟨את⟩ papakéan-papakéanana, jeung ngagemkeun Aharon ku ⟨את⟩ tunik, jeung ⟨את⟩ jubah efod, jeung ⟨את⟩ efod, jeung ⟨את⟩ chest-plate; jeung anjeun bakal ngabeungbeuritan manéhna ku sabuk nu ditenun ti efod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jeung anjeun bakal nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papakéan-papakéanana"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "papakéan-papakéanana"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "jeung ngagemkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunik"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "tunik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "jubah efod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "chest-plate"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chest-plate"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "jeung anjeun bakal ngabeungbeuritan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ku sabuk nu ditenun"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ti efod"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:50.321406761Z",
+  "model": "glm-5.3"
+}

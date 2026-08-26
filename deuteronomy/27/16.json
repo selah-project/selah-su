@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Terkutuk nu ngahina bapana jeung indungna; jeung sakuliah bangsa bakal nyebut, Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "terkutuk"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "nu ngahina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "jeung indungna"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "bakal nyebut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakuliah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:35.046241167Z",
+  "model": "glm-5.3"
+}

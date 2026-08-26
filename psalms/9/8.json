@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Yahwe diuk salawasna; anjeunna ngadegkeun pikeun putusan takhtana.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "jeung Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "pikeun putusan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:09.715498274Z",
+  "model": "glm-5.3"
+}

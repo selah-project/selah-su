@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Taurat Yahwe sampurna, ngabalikeun deui nyawa; kasaksian Yahwe dipercaya, mawa hikmah ka nu polos.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "sampurna"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ngabalikeun deui"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "dipercaya"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "mawa hikmah"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ka nu polos"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:58.934953639Z",
+  "model": "glm-5.3"
+}

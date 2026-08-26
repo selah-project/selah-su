@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung Yahwe nyalametkeun ⟨את⟩ Israél dina poé eta, jeung perang ngaliwat ⟨את⟩ Beit-Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "jeung nyalametkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "jeung perang"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:11.084526456Z",
+  "model": "glm-5.3"
+}

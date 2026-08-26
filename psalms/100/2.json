@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 100,
+  "translation": "Abdi ka Yahwe ⟨את⟩ kalawan suka bungah; datang ka payunna kalawan kagembiran nyanyian.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "abdi ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kalawan suka bungah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ka payunna"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "kalawan kagembiran nyanyian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:59.194929509Z",
+  "model": "glm-5.3"
+}

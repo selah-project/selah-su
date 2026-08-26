@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ngan getih ulah diaakan; keur ka taneuh anjeun eucaskeunana saperti cai.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "anjeun-diaakan"
+    },
+    {
+      "surface": "על",
+      "gloss": "keur-ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "anjeun-eucaskeunana"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "saperti-cai"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:15.894677780Z",
+  "model": "glm-5.3"
+}

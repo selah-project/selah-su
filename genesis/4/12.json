@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lamun anjeun ngolah ⟨את⟩ taneuh, mangka teu bakal deui méré kakuatanna ka anjeun; pindah-pindah jeung ngumbar anjeun jadi di mana-mana dunya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ngolah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "bakal deui"
+    },
+    {
+      "surface": "תת",
+      "gloss": "méré"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "kakuatanna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "נע",
+      "gloss": "pindah-pindah"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "ngumbar"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "anjeun jadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di mana-mana dunya"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:59.060950175Z",
+  "model": "glm-5.3"
+}

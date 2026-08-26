@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Tapi lamun jadi, mun manéhna nyarita ka anjeun: 'Abdi moal kaluar ti pigunjeung anjeun,' sabab manéhna bogoh ka anjeun jeung ⟨את⟩ bumi anjeun, sabab hadé ka manéhna sarta jeung anjeun.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "tapi lamun jadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "manéhna nyarita"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "abdi kaluar"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "ti pigunjeung anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "manéhna bogoh ka anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bumi anjeun"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "bumi anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sarta\/jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:27.969526441Z",
+  "model": "glm-5.3"
+}

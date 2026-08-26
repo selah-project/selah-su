@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Teras Moshe naék tina lapangan Moab ka gunung Nevo, punjung Pisgah, nu ngadep ka Yerikho, sarta Yahwe mintonkeun ka anjeunna ⟨את⟩ sakuliah tanah, ⟨את⟩ Giléad nepi ka Dan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "teras-naék"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "lapangan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "punjung"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pisgah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadep-ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hareup"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "sarta-mintonkeun-ka-anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakuliah tanah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakuliah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giléad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giléad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:52:59.628156518Z",
+  "model": "glm-5.3"
+}

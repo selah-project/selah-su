@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ minyak urut-misihan, kadianci, sarta ⟨את⟩ kadu bungbu-bungbu anu beresih — gawé nu nyampurkeun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urut-misihan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urut-misihan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadianci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadu bungbu-bungbu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadu"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "bungbu-bungbu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "beresih"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "nu nyampurkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:09.778732666Z",
+  "model": "glm-5.3"
+}

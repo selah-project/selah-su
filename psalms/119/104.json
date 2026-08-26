@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Tina parentah-parentah-Mu kuring meunang pamahaman, ku lantaran éta kuring benci ka sagala jalan nu ngampar.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "tina parentah-parentah-Mu"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "kuring meunang pamahaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku lantaran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "kuring benci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka sagala"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nu ngampar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:51.434669933Z",
+  "model": "glm-5.3"
+}

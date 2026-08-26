@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Anjeunna ngarobah ⟨את⟩ laut jadi darat baseuh; ngaliwatan walungan maranéhna ngaliwat dina suku; di dinya urang bungah ka Anjeunna.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "ngarobah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "jadi darat baseuh"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ngaliwatan walungan"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "maranéhna ngaliwat"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "dina suku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "urang bungah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:53.161395291Z",
+  "model": "glm-5.3"
+}

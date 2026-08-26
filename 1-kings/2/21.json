@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung anjeunna nyarios, ‘Paparinkeun ⟨את⟩ Avishag urang Shunem ka Adonyahu, saderek anjeun, jadi pamajikan.’",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeung anjeunna nyarios"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "paparinkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "urang Shunem"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ka Adonyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saderek anjeun"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi pamajikan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:33.578471631Z",
+  "model": "glm-5.3"
+}

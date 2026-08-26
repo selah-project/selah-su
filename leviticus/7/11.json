@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung ieu torat korban shelamim nu dibawa ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torat"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "dibawa ka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:09.192475912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung baladna, jeung nu diitung diparentahkeun ⟨⟨ka⟩⟩ maranehna: tilu jeung lima puluh rebu jeung opat ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jeung baladna"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "jeung nu diitung maranehna"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "jeung lima puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rebu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jeung opat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:03.231947699Z",
+  "model": "glm-5.3"
+}

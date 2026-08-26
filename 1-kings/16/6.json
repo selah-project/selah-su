@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Laas Baasa jeung bapak-bapakna, sarta dikuburkeun di Tirtza, jadi Ela anakna ngajadi raja gagantina.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "laas"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapakna"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikuburkeun"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "di Tirtza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ngajadi raja"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "gagantina"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:05.039378167Z",
+  "model": "glm-5.3"
+}

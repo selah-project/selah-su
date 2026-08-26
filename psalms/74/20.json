@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Pandang perjangjian-Mu, sabab geus pinuh wewengkon nu poék di bumi, imah-imah kahamilahakan.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Pandang"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "perjangjian-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "geus pinuh"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "wewengkon nu poék"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kahamilahakan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:28.610134761Z",
+  "model": "glm-5.3"
+}

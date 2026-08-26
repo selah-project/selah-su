@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Sarta di dinya Anjeunana nyingkahkeun nu lapar dumuk, sarta maranehna ngadegkeun kota pikeun didumukan",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ndadiakeun dumuk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "nu lapar"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "sarta ngadegkeun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "pikeun didumukan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:28.796561832Z",
+  "model": "glm-5.3"
+}

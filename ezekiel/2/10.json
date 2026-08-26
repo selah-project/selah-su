@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Manehna ngalebarkan ⟨את⟩ éta di payuneun kuring, jeung éta ditulis payun jeung tukang, jeung kaeusian kana éta: kidung duka, sarta raroyahan, sarta woe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "jeung Manehna ngalebarkan"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "éta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "jeung éta"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "ditulis"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "payun"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "jeung tukang"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "jeung kaeusian"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kana éta"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kidung duka"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "sarta raroyahan"
+    },
+    {
+      "surface": "והי",
+      "gloss": "sarta woe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:43:40.220948413Z",
+  "model": "glm-5.3"
+}

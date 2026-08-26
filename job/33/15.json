@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Dina ngimpi, dina pangempo peuting, nalika tilem-tilem jero ragrag ka lalaki, dina saré-saré luhur kamar saré —",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "Dina ngimpi"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "pangempo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "nalika ragrag"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "tilem-tilem jero"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "dina saré-saré"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "kamar saré"
+    }
+  ],
+  "timestamp": "2026-08-26T15:17:10.769639615Z",
+  "model": "glm-5.3"
+}

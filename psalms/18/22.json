@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sabab abdi miara jalan-jalan Yahwe, sarta teu ngalakukeun kalakuan jahat ka Elohim abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "abdi miara"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ngalakukeun kalakuan jahat"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ka Elohim abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:33.057174666Z",
+  "model": "glm-5.3"
+}

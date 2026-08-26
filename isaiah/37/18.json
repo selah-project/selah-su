@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Saéstuna, Yahwe, raja-raja Assur geus ngancurkeun ⟨את⟩ sagala nagari-nagari jeung ⟨את⟩ nagarina sorangan,",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "saéstuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "geus ngancurkeun"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nagari-nagari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nagari-nagari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nagarina sorangan"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nagarina sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:02.229000139Z",
+  "model": "glm-5.3"
+}

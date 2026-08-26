@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 87,
+  "translation": "Jeung ngeunaan Tsiyon kaeja: lalaki jeung lalaki nu gumelar di dinya, jeung ⟨Anjeunna⟩ Elyon nu ngadegkeunana.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "jeung ngeunaan Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kaeja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung lalaki"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "gumelar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jeung ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ngadegkeunana"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:39.214559988Z",
+  "model": "glm-5.3"
+}

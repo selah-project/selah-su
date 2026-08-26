@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung iri haté ka Moshe di baturan, ka Aharon nu suci Yahwe:",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "jeung iri haté"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ka Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di baturan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ka Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nu suci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:38.134632148Z",
+  "model": "glm-5.3"
+}

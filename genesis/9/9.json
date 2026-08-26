@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sarta abdi, tingali, abdi keur ngadegkeun ⟨את⟩ perjangjian abdi ⟨את⟩ jeung anjeun, sarta ⟨את⟩ jeung burih anjeun sanggeus anjeun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "sarta abdi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "keur ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian abdi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian abdi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jeung anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "burih anjeun"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "sanggeus anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:52.358670913Z",
+  "model": "glm-5.3"
+}

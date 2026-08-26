@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Yehudah jeung Yisrael loba pisan, kawas keusik nu di sisi laut lobana, dahar jeung nginum jeung bungah.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jeung Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba pisan"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "kawas keusik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨sang⟩ laut"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "lobana"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "jeung nginum"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "jeung bungah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:58.872452755Z",
+  "model": "glm-5.3"
+}

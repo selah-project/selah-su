@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Pangaweruh eta nimbulkeun kagumegan ka kuring; luhur teuing ⟨pikeun kuring⟩, moal kuring bisa ngahontal ⟨éta⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "nimbulkeun kagumegan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti kuring"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "luhur teuing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kuring bisa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka éta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:10.600564257Z",
+  "model": "glm-5.3"
+}

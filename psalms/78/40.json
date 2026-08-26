@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Kadieukeun maranéhna ngalawan ⟨Anjeunna⟩ di padang tirem, nyarieun dukana di yayustaan.",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "kadieukeun"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "maranéhna ngalawan ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang tirem"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "nyarieun dukana ka-⟨Anjeunna⟩"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di yayustaan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:28.547939067Z",
+  "model": "glm-5.3"
+}

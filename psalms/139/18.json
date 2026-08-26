@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Mun abdi ngétang maranehna — leuwih loba ti keusik maranehna; abdi hudang, jeung kénéh abdi ⟨aya⟩ jeung Anjeun.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "mun abdi ngétang maranehna"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "ti keusik"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "maranehna leuwih loba"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "abdi hudang"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "jeung kénéh abdi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:11.156120668Z",
+  "model": "glm-5.3"
+}

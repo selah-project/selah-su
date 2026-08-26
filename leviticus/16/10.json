@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 16:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sedengkeun kambing nu datang kana ⟨eta⟩ goréal pikeun Azazel, ditangtungkeun hirup di payuneun Yahwe, pikeun ngahampura dosa ka manehna, bilih ngaleupaskeun ⟨את⟩ eta ka Azazel di padang pasir.",
+  "tokens": [
+    {
+      "surface": "והשעיר",
+      "gloss": "sedengkeun kambing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goréal"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "pikeun Azazel"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ditangtungkeun"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "pikeun ngahampura dosa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka manehna"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "bilih ngaleupaskeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka Azazel"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "ka Azazel"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "di padang pasir"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:57.288285183Z",
+  "model": "glm-5.3"
+}

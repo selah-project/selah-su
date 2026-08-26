@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jadi dina maringiri, anjeunna nyandak ⟨את⟩ Lea putrina, mawa ⟨את⟩ inyana ka anjeunna, sarta anjeunna asup ka inyana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "dina maringiri"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea putrina"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "putrina"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inyana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka inyana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:35.400401957Z",
+  "model": "glm-5.3"
+}

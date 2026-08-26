@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung aranjeunna ngurebkeun ⟨את⟩ Avner di Hevron; jeung raja ngangkat ⟨את⟩ soraana sarta eunteu di kuburan Avner, jeung sakabeh balad milu eunteu.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Jeung aranjeunna ngurebkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Hevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "jeung ngangkat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soraana"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "soraana"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "sarta eunteu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kuburan"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "jeung milu eunteu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balad"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:28.888976882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung David kahayang, sarta ceurik: Saha rék méré inget kuring cai tina sumur Beit-Lehem, nu di gerbang?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ceurik"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "rék méré inget"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "tina sumur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gerbang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:20.307421426Z",
+  "model": "glm-5.3"
+}

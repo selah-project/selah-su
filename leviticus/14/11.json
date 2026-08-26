@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung imam nu ngaberesihan ngadegkeun ⟨את⟩ jalma nu keur diberesihan jeung ⟨את⟩ éta sadayana payuneun Yahwe, di panto tenda patempatan.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nu ngaberesihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma nu keur diberesihan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nu keur diberesihan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "éta sadayana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patempatan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:55.206662789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 146,
+  "translation": "Ahay mi-muji Yahwe sapanjang hirup kuring; ahay ngazumar keur Elohim kuring sadia-acan kuring ⟨hirup⟩.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ahay mi-muji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sapanjang hirup kuring"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ahay ngazumar"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "keur Elohim kuring"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "sadia-acan kuring ⟨hirup⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:44.913402352Z",
+  "model": "glm-5.3"
+}

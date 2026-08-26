@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Bukan pikeun raja-raja, Lemuél, lain pikeun raja-raja inum anggur, jeung pikeun pangawasa kahayang inuman beurat.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "pikeun raja-raja"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lain"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "pikeun raja-raja"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "inum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "jeung pikeun pangawasa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "inuman beurat"
+    }
+  ],
+  "timestamp": "2026-08-26T15:04:35.905802578Z",
+  "model": "glm-5.3"
+}

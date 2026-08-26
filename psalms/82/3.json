@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 82,
+  "translation": "Belaan ⟨את⟩ nu lémah jeung ⟨את⟩ nu yawat; sanggakeun kabeneran ka nu kasusah jeung nu miskin.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "belaan\/brojol ngadilan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nu lémah"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "jeung nu yawat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu kasusah"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "jeung nu miskin"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "sanggakeun kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:44.374137392Z",
+  "model": "glm-5.3"
+}

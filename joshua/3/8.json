@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anjeun maréntahkeun ⟨את⟩ para imam, nu ngagemban tabut perjangjian, nyebutkeun: Nalika aranjeun geus nepi ka tungtung cai Yarden, di jero Yarden aranjeun nangtung.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nu ngagemban"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Nalika aranjeun geus nepi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cai"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "di jero Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "aranjeun nangtung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:54:41.611470410Z",
+  "model": "glm-5.3"
+}

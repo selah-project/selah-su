@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung kuring bakal ngutus saméméh anjeun saurang malaékat, jeung kuring bakal ngusir ⟨את⟩ urang Kenaan, urang Emori, jeung urang Heti, jeung urang Perizi, urang Hivi, jeung urang Yebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "jeung kuring ngutus"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "saméméh anjeun"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaékat"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "jeung kuring ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kenaan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "jeung urang Heti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "jeung urang Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "urang Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jeung urang Yebusi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:21.398358646Z",
+  "model": "glm-5.3"
+}

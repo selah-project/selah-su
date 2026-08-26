@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 96,
+  "translation": "Caritakeun ka bangsa-bangsa kaagungan-Na, ka sakumna bangsa-bangsa kagumunan-Na.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ka bangsa-bangsa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kaagungan-Na"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sakumna"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "kagumunan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:32.245141645Z",
+  "model": "glm-5.3"
+}

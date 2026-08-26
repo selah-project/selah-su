@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Maranéhna ngirim seuneu kana tempat suci Anjeun; ka taneuh maranéhna nganistakeun imah dumuk Jenengan Anjeun.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "tempat suci Anjeun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka taneuh"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "nganistakeun"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "imah dumuk"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:38.376703369Z",
+  "model": "glm-5.3"
+}

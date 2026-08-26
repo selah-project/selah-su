@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Abdi nyarios: Yahwe, asih-an abdi, cageurkeun nefesh abdi, sabab abdi geus dosa ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "asih-an abdi"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "cageurkeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "geus dosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:44.848124506Z",
+  "model": "glm-5.3"
+}

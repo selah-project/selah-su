@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Sangkan nu dipikanyaah ku Anjeun kaoncall, jalirkeun ku leungeun katuhu-Mu, jeung wales urang.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "kaoncall"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "nu dipikanyaah ku Anjeun"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "jalirkeun"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ku leungeun katuhu-Mu"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "jeung wales urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:47.944080098Z",
+  "model": "glm-5.3"
+}

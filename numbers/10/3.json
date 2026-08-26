@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lamun maranéhna sounkeun éta, jeung ngariung ka anjeun sagala ⟨the⟩ jamaah ka payuneun panto kemah papanggihan",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "sounkeun"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "jeung ngariung"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "payuneun panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "papanggihan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:31.202737621Z",
+  "model": "glm-5.3"
+}

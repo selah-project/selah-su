@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung Elohim nempo ⟨את⟩ bumi, jeung tingali, éta geus ruksak, sabab sagala daging geus ngaruksakeun ⟨את⟩ jalanana di luhureun bumi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tingali"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "geus ruksak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "ngaruksakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalanana"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalanana"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:55.500725641Z",
+  "model": "glm-5.3"
+}

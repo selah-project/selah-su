@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Tempo, kiari nempatkeun saméméh anjeun poé ieu ⟨את⟩ hirup jeung ⟨את⟩ kahadéan, sarta ⟨את⟩ pati jeung ⟨את⟩ kagoréan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kiari nempatkeun"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "saméméh anjeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hirup"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kahadéan"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kahadéan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "pati"
+    },
+    {
+      "surface": "המות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kagoréan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kagoréan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:25.859363293Z",
+  "model": "glm-5.3"
+}

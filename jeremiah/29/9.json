@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sabab ku pangbodongan maranéhna niniyu ka anjeun ku ngaran Kami; Kami teu ngutus maranéhna, firman Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "ku pangbodongan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "niniyu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ku ngaran Kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "ngutus maranéhna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:32:38.118001605Z",
+  "model": "glm-5.3"
+}

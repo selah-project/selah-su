@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 146,
+  "translation": "Yahwe ngajaga ⟨את⟩ nu-nu-ngumum; yatim jeung randa dipapaheulaan-Na; tapi ⟨את⟩ jalan nu jahat dibelokkeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu-nu-ngumum"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "nu-nu-ngumum"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "jeung randa"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "dipapaheulaan-Na"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tapi jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "dibelokkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:41.152061002Z",
+  "model": "glm-5.3"
+}

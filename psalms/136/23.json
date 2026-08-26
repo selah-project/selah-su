@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Nu muringing urang di kaayaan handap urang, sabab salawasna kanyaah-Na satia perjangjian.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "di kaayaan handap urang"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Nu muringing"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-Na satia perjangjian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:01.611568483Z",
+  "model": "glm-5.3"
+}

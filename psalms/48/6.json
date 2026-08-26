@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Marikéa nempo, pant forwarding kitu kagum; geri kapeuri, buru-buru ngajeungkat.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "marikéa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "kagum"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "geri kapeuri"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "buru-buru ngajeungkat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:26.735832027Z",
+  "model": "glm-5.3"
+}

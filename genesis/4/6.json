@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Yahwe ngomong ka Kajin: Naha anjeun panaonna, sarta naha raray anjeun turun?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "panaonna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "sarta naha"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raray anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:24.456058255Z",
+  "model": "glm-5.3"
+}

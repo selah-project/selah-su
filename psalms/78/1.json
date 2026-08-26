@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Sajak pangaweruh ku Asaf: Pentékeun ceuli, é umat kuring, ka taurat kuring; soddékkeun ceuli marinyana ka kecap-kecap tina baham kuring.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "sajak pangaweruh"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ku Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pentékeun ceuli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "é umat kuring"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ka taurat kuring"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "soddékkeun"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ceuli marinyana"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ka kecap-kecap"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tina baham kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:51.269309310Z",
+  "model": "glm-5.3"
+}

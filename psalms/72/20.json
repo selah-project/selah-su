@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Réngse antawis doa-doa Dawid, putrana Yishai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "réngse"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "doa-doa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:51.705957197Z",
+  "model": "glm-5.3"
+}

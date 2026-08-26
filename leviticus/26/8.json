@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Sarta lima ti anjeun bakal ngudang saratus, sarta saratus ti anjeun bakal ngudang sapuluh rebu, sarta musuh-musuh anjeun bakal ragrag saméméh beungeut-anjeun ku pedang.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "sarta aranjeunna bakal ngudag"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ti anjeun"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "sarta saratus"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ti anjeun"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "sapuluh rebu"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "bakal ngudag"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "sarta bakal ragrag"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "saméméh beungeut-anjeun"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ku pedang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:40.624216218Z",
+  "model": "glm-5.3"
+}

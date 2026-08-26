@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung Dawid jeung sakabéh beth Israil mawa ⟨את⟩ tabut Yahwe kalawan sora tarik sora jeung sora saroala.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Jeung Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beth"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "kalawan sora tarik sora"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "jeung sora"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "saroala"
+    }
+  ],
+  "timestamp": "2026-08-26T12:28:27.237960462Z",
+  "model": "glm-5.3"
+}

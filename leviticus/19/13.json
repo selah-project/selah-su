@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Ulah nganieun tatangga anjeun, jeung ulah ngarampas; ulah mawa euweuh upah jasa nu nyéwa dibari ⟨את⟩ anjeun nepi ka isuk-isuk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "nganieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatangga anjeun"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tatangga anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ngarampas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "mawa euweuh (néng gancang-eun)"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "upah jasa"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "nu nyéwa (pagawé upahan)"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anjeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "isuk-isuk"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:42.140116022Z",
+  "model": "glm-5.3"
+}

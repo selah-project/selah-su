@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung pasukanna jeung nu diitung ti aranjeunnana ⟨nyaéta】 opat puluh tujuh rébu jeung genep ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "pasukanna"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "nu diitung ti aranjeunnana"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "opat"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "puluh tujuh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeung genep"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:28.035379392Z",
+  "model": "glm-5.3"
+}

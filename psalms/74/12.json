@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Sarta Elohim raja kuring ti jaman baheula, ngalaksanakeun kasalametan-kasalametan di tengah-tengah bumi.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "sarta Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja kuring"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ti jaman baheula"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kasalametan-kasalametan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:34.410994530Z",
+  "model": "glm-5.3"
+}

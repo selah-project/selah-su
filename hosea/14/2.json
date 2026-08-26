@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Balik deui, oy Israél, ka Yahwe, Elohim-anjeun, sabab anjeun ngarungkab ku kalalayaran anjeun.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Balik deui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "ngarungkab"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "ku kalalayaran anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:46.686898338Z",
+  "model": "glm-5.3"
+}

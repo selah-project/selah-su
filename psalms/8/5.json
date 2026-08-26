@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Naon ⟨manusa⟩ nepi ka Anjeun ngakingi manéhna, jeung putra manusa nepi ka Anjeun ngadatangan manéhna?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Naon"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨manusa fana⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "Anjeun ngakingi manéhna"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jeung putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "Anjeun ngadatangan manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:24.934889912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Kuring nyebat, Ya El kuring, ulah dipangbereun abdi di satengahing poé-poé abdi; saangkatan-angkatan taun-taun Anjeun.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Kuring nyebat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ya El kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "dipangbereun abdi"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di satengahing"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé abdi"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "saangkatan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "angkatan-angkatan"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "taun-taun Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:42.550037837Z",
+  "model": "glm-5.3"
+}

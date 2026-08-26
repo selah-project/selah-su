@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ka Nu munculkeun umat-Na ngaliwatan ïgnana, sabab salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Ka Nu mawa ngaliwatan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sagana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.725380412Z",
+  "model": "glm-5.3"
+}

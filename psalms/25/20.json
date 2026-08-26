@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jaga jiwa kuring jeung tulungan kaluarkeun kuring; ulah kuring ka-eungeus, sabab kuring nyalindung ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "jaga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "jeung tulungan kaluarkeun kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "kuring ka-eungeus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kuring nyalindung"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:45.867048172Z",
+  "model": "glm-5.3"
+}

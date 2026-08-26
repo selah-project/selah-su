@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung imam nu mawa ⟨את⟩ kurban-bakar saurang jalma, kulit kurban-bakar nu dibawana ka imam, keur anjeunna jadi.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "jeung-imam"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "nu-mawa(-ndeukeutkeun)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban-bakar saurang jalma"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "kurban-bakar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang-jalma"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban-bakar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "dibawana"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ka-imam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur-anjeunna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:41.102466111Z",
+  "model": "glm-5.3"
+}

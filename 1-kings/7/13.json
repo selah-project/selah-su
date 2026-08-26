@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Lajeng raja Shelomoh mesat, lajeng anjeunna mawa ⟨את⟩ Chiram ti Tzor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mesat lajeng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lajeng mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ti Tzor"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:24.866176513Z",
+  "model": "glm-5.3"
+}

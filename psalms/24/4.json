@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Nu beres leungeunana, murni hate; nu teu ngangkat jiwa ka nu sia-sia, jeung teu sumpah ku nipu.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "beres leungeun"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "jeung murni"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka nu sia-sia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ku nipu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:52.936466462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 101,
+  "translation": "Moal kuring nempatkeun saméméh panon kuring perkara Beliyaal; ngalakonan kajahatan kuring benci — moal maÉ nyarang kana diri kuring.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "kuring nempatkeun"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyaal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngalakonan"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "kuring benci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "nyarang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka diri kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:43.124242689Z",
+  "model": "glm-5.3"
+}

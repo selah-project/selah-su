@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Sarta manéhna bakal sumpog sarta mintul ⟨את⟩ taneuh Mitsrayim: nu ditangtukeun maot ka maot, sarta nu ditangtukeun dibawa taluk ka taluk, sarta nu ditangtukeun pedang ka pedang.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "sarta manéhna bakal sumpog"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "sarta mintul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ka maot"
+    },
+    {
+      "surface": "למות",
+      "gloss": "maot"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sarta nu"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ka taluk"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "taluk"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sarta nu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ka pedang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:39:16.992072851Z",
+  "model": "glm-5.3"
+}

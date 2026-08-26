@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Moshe jeung Aharon nyandak ⟨את⟩ jalma-jalma ieu nu ditunjuk ku ngaran-ngarana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jeung-nyandak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jeung-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma-jalma ieu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ditunjuk"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ku-ngaran-ngarana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:50.264572469Z",
+  "model": "glm-5.3"
+}

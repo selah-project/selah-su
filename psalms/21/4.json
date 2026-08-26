@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sabab berkah-berkah anu hadé Anjeun sampeureunkeun ka anjeunna; mahkota tina emas murni Anjeun sangga dina sirahna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "Anjeun sampeureunkeun ka anjeunna"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "berkah-berkah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "anu hadé"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "Anjeun sangga"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "dina sirahna"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "פז",
+      "gloss": "tina emas murni"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:13.582104718Z",
+  "model": "glm-5.3"
+}

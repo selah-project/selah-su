@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Elohim aya di tengah-tengahna, moal goyah; Elohim nulung manéhna nalika subuh datang.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "goyah"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "nulung manéhna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "nalika datangna"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:01.706771464Z",
+  "model": "glm-5.3"
+}

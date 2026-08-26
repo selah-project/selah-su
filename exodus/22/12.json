@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun mémang disambar sato liar, manehna kudu mawa saksina; nu geus disambar éta teu kudu mayar ganti.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "mémang disambar"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "disambar"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksina"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "nu geus disambar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mayar ganti"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:25.596905456Z",
+  "model": "glm-5.3"
+}

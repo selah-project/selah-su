@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sang awéwé ngandung sarta midangkeun saurang budak lalaki; mangga manéhna nempo ⟨את⟩ ina sabab ina éndah, jadi manéna nyumputkeun ana tilu bulan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ngandung"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sang awéwé"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "sarta midangkeun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "saurang budak lalaki"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "mangga manéhna nempo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ina (budak lalaki)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "éndah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "jadi manéhna nyumputkeun ana"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:39:12.764199354Z",
+  "model": "glm-5.3"
+}

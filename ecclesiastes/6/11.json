@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sabab aya kecap-kecap loba nu ngambahkeun hebel; naon untungna pikeun manusa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "loba"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ngambahkeun"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "untungna"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "pikeun manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:04.596551949Z",
+  "model": "glm-5.3"
+}

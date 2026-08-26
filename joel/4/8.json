@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Kuring ngjual ⟨את⟩ putra-putra aranjeun jeung ⟨את⟩ putri-putri aranjeun kana leungeun putra-putra Yehuda, jeung maranéhna ngjual maranéhna ka urang Sheva, ka bangsa nu jauh; sabab Yahwe geus ngomong.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "Jeung Kuring ngjual"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra aranjeun"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "putra-putra aranjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putri-putri aranjeun"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "putri-putri aranjeun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kana leungeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "jeung maranéhna ngjual maranéhna"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "ka urang Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "nu jauh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geus ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:48.853545900Z",
+  "model": "glm-5.3"
+}

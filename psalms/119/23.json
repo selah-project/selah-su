@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Sanajan para pangulu ngaup tur ngomongkeun ngeunaan abdi, abdi Anjeun ngarenungkeun pipiluan-pipiluan Anjeun.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sanajan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ngaub\/ngadegkera"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngeunaan abdi"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi Anjeun"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "ngarenungkeun"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "pipiluan-pipiluan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:56.945867261Z",
+  "model": "glm-5.3"
+}

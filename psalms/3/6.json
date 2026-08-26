@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Abdi, abdi saré sarta kasingkir, abdi ngagiring, sabab Yahwe nungtun ⟨abdi⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "abdi saré"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "sarta kasingkir"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "abdi ngagiring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "nungtun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:41.271292222Z",
+  "model": "glm-5.3"
+}

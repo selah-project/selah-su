@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Naha salawasna Anjeun ngamuk ka urang? Naha Anjeun metetkeun amarah-Mu kana katurunan jeung katurunan?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "naha salawasna"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Anjeun ngamuk"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Anjeun metetkeun"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "amarah-Mu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kana katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jeung katurunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:45.950033273Z",
+  "model": "glm-5.3"
+}

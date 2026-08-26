@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Loba nu nyarita, Saha nu mintonkeun ka urang kahadéan? Angkat cahaya pancapaian anjeun ka urang, wahai Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "nu nyarita"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Saha"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "nu mintonkeun ka urang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kahadéan"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pancapaian anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:35.271036903Z",
+  "model": "glm-5.3"
+}

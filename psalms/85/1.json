@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Pikeun pangatik, putra-putra Korach, mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun pangatik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:14.730485975Z",
+  "model": "glm-5.3"
+}

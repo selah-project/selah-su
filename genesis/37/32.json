@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung maranehna ngirimkeun ⟨את⟩ baju panjang nu bergaris-warna-warna, jeung maranehna mawa ka bapana, jeung maranehna nyarita: Ieu nu kapanggih ku kami; pun tengetan, naha bajuu panjang ieu bajuu putra anjeun, atawa henteu.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ngirimkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baju panjang"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "baju panjang"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "nu bergaris-warna-warna"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "nu kapanggih ku kami"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "tengetan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pun"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "bajuu panjang"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:24.167565492Z",
+  "model": "glm-5.3"
+}

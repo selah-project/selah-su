@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Teras imam-imam jeung urang Lewi nyucikeun manéh, sarta nyucikeun ⟨את⟩ ⟨the⟩ balaréa, ⟨את⟩ ⟨the⟩ panto-panto, jeung ⟨את⟩ ⟨the⟩ kubeng.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "nyucikeun manéh"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "jeung urang Lewi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "nyucikeun (deui)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balaréa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panto-panto"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "panto-panto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kubeng"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "kubeng"
+    }
+  ],
+  "timestamp": "2026-08-26T16:01:31.989925417Z",
+  "model": "glm-5.3"
+}

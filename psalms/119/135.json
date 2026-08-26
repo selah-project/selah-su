@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Caangan raray-Mu poékeun ka abdi, palayan-Mu, jeung ajarkeun ka abdi ⟨את⟩ katangtuan-katangtuan-Mu.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "raray-Mu"
+    },
+    {
+      "surface": "האר",
+      "gloss": "poékeun caangan"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ka abdi, palayan-Mu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "jeung ajarkeun ka abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katangtuan-katangtuan-Mu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katangtuan-katangtuan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:16.927960547Z",
+  "model": "glm-5.3"
+}

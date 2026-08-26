@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Naxor hirup sanggeus ngalahirkeun ⟨את⟩ Terax salapan belas taun jeung saratus taun, sarta ngalahirkeun anak lalaki jeung awéwé.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terax"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "salapan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "jeung saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jeung awéwé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:05.715189429Z",
+  "model": "glm-5.3"
+}

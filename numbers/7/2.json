@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 7:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Pangawasa-pangawasa Israél, pupuhu-pupuhu kulawarga karuhunna, aranjeunna pangawasa-pangawasa suku-suku, aranjeunna nu ngawasanan nu diitung, mawa persembahan.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "mawa persembahan"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "pangawasa-pangawasa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pupuhu-pupuhu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "karuhunna"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aranjeunna"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "pangawasa-pangawasa"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aranjeunna"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nu ngawasanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "nu diitung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:25:29.403485770Z",
+  "model": "glm-5.3"
+}

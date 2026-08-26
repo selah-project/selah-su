@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung nu murni Anjeun méré kamurnian; jeung nu benguk Anjeun méré kabengkukan.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "nu murni"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "Anjeun méré kamurnian"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "nu benguk"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "Anjeun méré kabengkukan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:35:38.790662325Z",
+  "model": "glm-5.3"
+}

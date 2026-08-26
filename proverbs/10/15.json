@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kabeungharan nu beunghar ⟨ nyaeta ⟩ kota kakuatanna; karuksakan nu miskin ⟨ nyaeta ⟩ kamiskinanna.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "kabeungharan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "nu beunghar"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kota"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "kakuatanna"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "karuksakan"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "kamiskinanna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:11.038387352Z",
+  "model": "glm-5.3"
+}

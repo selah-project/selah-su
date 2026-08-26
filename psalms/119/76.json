@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Mangga kanyaah-Mu jadi pikeun panghibur abdi, saluyu jeung omong-Mu ka abdi-Mu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mangga jadi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia-Mu"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "pikeun panghibur abdi"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "saluyu jeung omong-Mu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ka abdi-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:35.363992646Z",
+  "model": "glm-5.3"
+}

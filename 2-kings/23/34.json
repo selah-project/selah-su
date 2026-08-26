@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Paroh Nekoh ngajadikeun Elyakim putra Yosyiahu raja gaganti Yosyiahu bapana, jeung ngarobah ⟨את⟩ ngaranna jadi Yehoyakim; jeung ⟨את⟩ Yehoaxaz dicandak, dibawa ka Mitsrayim, jeung maot di dinya.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "jeung-ngajadikeun-rajaku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosyiahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "gaganti"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosyiahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "jeung-ngarobah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "Yehoaxaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxaz"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jeung-dibawa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka-Mitsrayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jeung-maot"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di-dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:49.465021511Z",
+  "model": "glm-5.3"
+}

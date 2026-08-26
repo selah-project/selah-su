@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Lampekeun leungeun-leungeun anjeun ti luhur; tulungan kuring ngabébaskeun, sarta salametkeun kuring ti cai nu loba, tina leungeun putra-putra deungeun.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "lampekeun"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "leungeun-leungeun anjeun"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "tulungan kuring ngabébaskeun"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "sarta salametkeun kuring"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ti cai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nu loba"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "deungeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:36.349250395Z",
+  "model": "glm-5.3"
+}

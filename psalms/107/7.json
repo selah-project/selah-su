@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Tuluy dipapait maju di jalan nu lempeng, pikeun lakuu ka ⟨kota tempat cicing⟩",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "dipapait maju"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pikeun lakuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tempat cicing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:02.338426898Z",
+  "model": "glm-5.3"
+}

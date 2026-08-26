@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jadi Elohim museurkeun ⟨את⟩ eta bangsa kana jalan gurun ka Laut Sup; sarta anak-anak Yisrel naek ti nagara Mitsrayim dina kasiapan perang.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "museurkeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eta bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "eta bangsa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sup"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dina kasiapan perang"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti nagara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:59.426504306Z",
+  "model": "glm-5.3"
+}

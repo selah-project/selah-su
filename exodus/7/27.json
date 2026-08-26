@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Lamun anjeun nolik muka, tempo, Kami baris ngahujanan ⟨את⟩ sakumiji wates anjeun ku bangkung.",
+  "tokens": [
+    {
+      "surface": "ו אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nolik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ל שלח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Kami"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ngahujanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakumiji wates anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumiji"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "wates anjeun"
+    },
+    {
+      "surface": "ב צפרדעים",
+      "gloss": "ku bangkung"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:11.327521947Z",
+  "model": "glm-5.3"
+}

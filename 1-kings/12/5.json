@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung ceuk manéhna ka aranjeunna: Milang deui tilu poé, terus balik ka abdi. Jeung ⟪rakyat⟫ éta indit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ceuk"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "milang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "jeung balik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jeung indit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat éta"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:27.375259261Z",
+  "model": "glm-5.3"
+}

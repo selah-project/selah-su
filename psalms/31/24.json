@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Cintaan Yahwe, ⟨את⟩ sadaya nu bakti ka-Na — nu lulus haté Yahwe jaga, sarta males kalimpasan ka nu milampah kalawan kasombongan.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "cintaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "nu bakti ka-Na"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "nu lulus haté"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "jaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "sarta males"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kalimpasan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka nu milampah"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kasombongan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:26.533754938Z",
+  "model": "glm-5.3"
+}

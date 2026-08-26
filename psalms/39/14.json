@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Palingkeun pandangan ti abdi, supaya abdi caang deui, saméméh abdi indit sarta euweuh deui.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "palingkeun pandangan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "supaya abdi caang deui"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "abdi indit"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "sarta euweuh deui"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:55.274876674Z",
+  "model": "glm-5.3"
+}

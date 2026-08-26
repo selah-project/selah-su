@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Inget kuring, Yahwe, bareng jeung karida-an ka umat-Mu, singgihan kuring dina kajayaan-Mu,",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Inget kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "bareng jeung karida-an"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ka umat-Mu"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "singgihan kuring"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "dina kajayaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:39.418242866Z",
+  "model": "glm-5.3"
+}

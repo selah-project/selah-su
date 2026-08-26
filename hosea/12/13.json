@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Teras Yaakov kabur ka padang Aram, sarta Yisrael ngawula pikeun sabondor awéwé, jeung pikeun sabondor awéwé manéhna ngangon domba.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Teras kabur"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "sarta ngawula"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "pikeun sabondor awéwé"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "jeung pikeun sabondor awéwé"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ngangon domba"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:52.873453081Z",
+  "model": "glm-5.3"
+}

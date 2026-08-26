@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ tihang-tihang ti kai akasia, lajeng mungkus ⟨את⟩-ana ku tambaga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tihang-tihang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tihang-tihang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mungkus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ana",
+      "marks": "tambaga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:47.921414975Z",
+  "model": "glm-5.3"
+}

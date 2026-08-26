@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 150,
+  "translation": "Pujilah anjeunna ku tamborin jeung batur joged, pujilah anjeunna ku senar-senar jeung pangsiulan.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah anjeunna"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ku tamborin"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "jeung batur joged"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah anjeunna"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "ku senar-senar"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "jeung pangsiulan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:00.979008993Z",
+  "model": "glm-5.3"
+}

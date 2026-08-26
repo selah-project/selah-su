@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung sanggeusna ngahakiman ⟨את⟩ Israél Ivtsan ti Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ngahakiman"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sanggeusna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-26T12:08:38.640561052Z",
+  "model": "glm-5.3"
+}

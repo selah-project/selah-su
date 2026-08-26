@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Anjeunna nu ngirim parentah-Na ka bumi, nepi ka gancang teu ngarasa pisan dadalan-Na laju.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Anjeunna nu ngirim"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "parentah-Na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "gancang teu ngarasa"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ngajedug laju"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dadalan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:52.692569858Z",
+  "model": "glm-5.3"
+}

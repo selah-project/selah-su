@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung anjeunna ngadangu ka aranjeunna kana kecap ieu, jeung nyobaan aranjeunna poé sapuluh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka-aranjeunna"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kana-kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "nyobaan-aranjeunna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:40:49.062693880Z",
+  "model": "glm-5.3"
+}

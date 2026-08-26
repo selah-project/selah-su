@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Sagala nu disebat ku ngaran abdi, sarta muja ka kamulyaan abdi: kaciptakeun abdi, dibentuk abdi, ogé dijieun abdi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "nu disebat"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ku ngaran abdi"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "sarta muja ka kamulyaan abdi"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "kaciptakeun abdi"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "dibentuk abdi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "dijieun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:27.142048843Z",
+  "model": "glm-5.3"
+}

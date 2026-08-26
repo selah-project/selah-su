@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Téa, punten, uji ⟨את⟩ abdi-abdi sadaya salila sapuluh poé, béréduit maraneh méré ka urang tina babungbuahan jeung urang tuang, jeung cai jeung urang inum.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "uji"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdi sadaya"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdi sadaya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "béréduit maraneh méré"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "babungbuahan"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "jeung urang tuang"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jeung cai"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "jeung urang inum"
+    }
+  ],
+  "timestamp": "2026-08-26T15:41:01.152137179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Laju Elohim nempo ⟨את⟩ sadayana nu geus dijieunna, jeung tingali, alus pisan. Lalu jadi sanja, laju jadi énjing — poé ka-genep.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "laju nempo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana nu geus dijieunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geus dijieunna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tingali"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "laju jadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sanja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "laju jadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "énjing"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ka-genep"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:14.468948211Z",
+  "model": "glm-5.3"
+}

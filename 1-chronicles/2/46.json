@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Eifah, selir Kalev, ngalahirkeun ⟨את⟩ Haran, jeung ⟨את⟩ Motsa, jeung ⟨את⟩ Gazez; jeung Haran miaulkeun ⟨את⟩ Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "jeung Eifah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "selir"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "jeung Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "miaulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-08-26T16:05:05.941408964Z",
+  "model": "glm-5.3"
+}

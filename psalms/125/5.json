@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 125,
+  "translation": "Sangkan jeung anu nyempil kana jalan-jalan bengkungna, Yahwe mawa ⟨את⟩ para pangarogah kalakuan awut-awutan; karapihan ka luhur Yisrael!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "sangkan jeung anu nyempil"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "jalan-jalan bengkungna"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "mawa aranjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pangarogah kalakuan awut-awutan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "para pangarogah"
+    },
+    {
+      "surface": "האון",
+      "gloss": "kalakuan awut-awutan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karapihan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:48.438485080Z",
+  "model": "glm-5.3"
+}

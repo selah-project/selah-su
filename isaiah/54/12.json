@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Sarta abdi jadikeun jandéla-jandéla anjeun ti batu kadkod, sarta panto-panto anjeun ti batu karbunkel, sarta sadaya wates anjeun ti batu-batu nu pikaresepeun.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "sarta abdi jadikeun"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "batu kadkod"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "jandéla-jandéla anjeun"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "sarta panto-panto anjeun"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "ti batu-batu"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "karbunkel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta sadaya"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "wates anjeun"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "ti batu-batu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nu pikaresepeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:18:31.584318932Z",
+  "model": "glm-5.3"
+}

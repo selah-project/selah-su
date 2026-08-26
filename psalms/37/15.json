@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Pedang ⟨maranehna⟩ bakal asup kana jantung maranehna sorangan, jeung busur-barusur ⟨maranehna⟩ bakal pareng.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "pedang ⟨maranehna⟩"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bakal asup"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "kana jantung"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "jeung busur-barusur ⟨maranehna⟩"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "bakal pareng"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:37.990367607Z",
+  "model": "glm-5.3"
+}

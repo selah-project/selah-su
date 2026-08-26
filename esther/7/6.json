@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Teras Ester nyarita: Lalaki nu ngepung jeung musuh — Haman nu jahat ieu. Jeung Haman kataji di payuneun raja jeung ratu.",
+  "tokens": [
+    {
+      "surface": "ו",
+      "gloss": "teras"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nu ngepung"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "jeung musuh"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "jeung Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "kataji"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "jeung ratu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:20:45.159366448Z",
+  "model": "glm-5.3"
+}

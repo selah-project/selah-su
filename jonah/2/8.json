@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Nalika nyawa abdi gaib dina awak abdi, Yahwe ⟨את⟩ abdi inget; jeung solat abdi asup ka Anjeun, ka istana kasucian Anjeun.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "nalika gaib"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dina awak abdi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "abdi inget"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "jeung asup"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "solat abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istana"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kasucian Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:56.485167834Z",
+  "model": "glm-5.3"
+}

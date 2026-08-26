@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Elohim ngadangu sarta murka, sarta nolak banget ka Yisrael:",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "murka"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "nolak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ka Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:39.008061145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Hayu urang asup ka imah-imahna, hayu urang sujud ka tapak sukséna.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "hayu urang asup"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ka imah-imahna"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "hayu urang sujud"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ka lantak"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sukséna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:25.195462804Z",
+  "model": "glm-5.3"
+}

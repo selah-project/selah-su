@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "sedengkeun ⟨את⟩ Esav kuring benci, jeung kuring jadikeun gunung-gunungna jadi kasusutan, jeung ⟨את⟩ warisanana pikeun tarang anu ngaring di gurun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "kuring benci"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "jeung kuring jadikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung-gunungna"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "gunung-gunungna"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kasusutan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warisanana"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisanana"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "pikeun tarang anu ngaring"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:29.278876200Z",
+  "model": "glm-5.3"
+}

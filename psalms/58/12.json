@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 58,
+  "translation": "Jeung manusa bakal ngomong: émang aya buah pikeun nu adil; émang aya Elohim nu ngahukum dina bumi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung bakal ngomong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "émang"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pikeun nu adil"
+    },
+    {
+      "surface": "אך",
+      "gloss": "émang"
+    },
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "nu ngahukum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dina bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:21.068246452Z",
+  "model": "glm-5.3"
+}

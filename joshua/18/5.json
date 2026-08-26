@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung aranjeunna bagikeun ⟨את⟩ éta jadi tujuh bagéan; Yehuda nangtung dina watesana ti beulah kidul, jeung Beit Yosef nangtung dina watesanna ti beulah kalér.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "bagikeun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jadi tujuh bagéan"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "bagéan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "watesana"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ti beulah kidul"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "jeung Beit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "watesanna"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ti beulah kalér"
+    }
+  ],
+  "timestamp": "2026-08-26T11:59:10.354238516Z",
+  "model": "glm-5.3"
+}

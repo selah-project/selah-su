@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Teras Khananyah nabi nyandak ⟨את⟩ kuk tina beuheung Yirmeyah nabi sarta ngarempugkeunana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "teras nyandak"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Khananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "kuk"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tina"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "beuheung"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "sarta ngarempugkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:32:51.456924406Z",
+  "model": "glm-5.3"
+}

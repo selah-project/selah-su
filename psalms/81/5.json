@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Sabab eta pakampungan pikeun Israél, katangtuan pikeun Elohimna Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חק",
+      "gloss": "pakampungan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pikeun Israél"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katangtuan"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pikeun Elohimna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:59.979106493Z",
+  "model": "glm-5.3"
+}

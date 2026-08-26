@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Teras abdi bisa ngajawab kecap ⟨ka⟩ nu ngahina abdi, sabab abdi percaya ka kecap-Mu.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "teras abdi ngajawab"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "nu ngahina abdi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "abdi percaya"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ka kecap-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.079984057Z",
+  "model": "glm-5.3"
+}

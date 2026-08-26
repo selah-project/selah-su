@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Sora nu nyeru di gurun: Siahkeun jalan Yahwe, lampaskeun di stepa jalan raya pikeun Elohim urang.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "nu nyeru"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "siahkeun"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "lampaskeun"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di stepa"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "jalan raya"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "pikeun Elohim urang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:04.287057862Z",
+  "model": "glm-5.3"
+}

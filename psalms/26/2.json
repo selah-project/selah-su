@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Talatah aku, wahai Yahwe, sarta uji aku, ngaleburkeun ginjal kuring jeung ati kuring.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Talatah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "sarta uji aku"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "ngaleburkeun"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjal kuring"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "jeung ati kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:06.689863793Z",
+  "model": "glm-5.3"
+}

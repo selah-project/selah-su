@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Poé-pan poé aku bakal ngaberkahan Anjeun, sarta memuji Jenengan Anjeun salawasna jeung tuluy-tuluyan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dina unggal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "aku bakal ngaberkahan Anjeun"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "sarta memuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan Anjeun"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung tuluy-tuluyan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:20.923721987Z",
+  "model": "glm-5.3"
+}

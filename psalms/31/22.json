@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Dipuji Yahwe, sabab geus ngahéjokeun kanyaah satia-Na ka abdi ⟨dina⟩ kuta nu keur dipeungpeuk.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dipuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "geus ngahéjokeun"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dina kuta"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "nu keur dipeungpeuk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:26.533451754Z",
+  "model": "glm-5.3"
+}

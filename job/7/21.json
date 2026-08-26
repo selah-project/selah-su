@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung naha anjeun teu ngangkat panyaliaran abdi, sarta teu mawa ngaliwat ⟨את⟩ kadurhakaan abdi? Sabab ayeuna abdi bakal saré di jero keusik; anjeun bakal mios milarian abdi, tapi abdi moal aya deui.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "jeung naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "panyaliaran abdi"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "sarta mawa ngaliwat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadurhakaan abdi"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "kadurhakaan abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "di jero keusik"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "abdi bakal saré"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "anjeun bakal mios milarian abdi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "tapi abdi moal aya deui"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:38.772151600Z",
+  "model": "glm-5.3"
+}

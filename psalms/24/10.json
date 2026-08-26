@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Saha ⟨ieu⟩, Raja kamulyan? Yahwe Tzevaot — ⟨ieu⟩ ⟨lah⟩ Raja kamulyan. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Saha"
+    },
+    {
+      "surface": "हוא",
+      "gloss": "⟨ieu⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ieu⟩ ⟨lah⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:30.995418272Z",
+  "model": "glm-5.3"
+}

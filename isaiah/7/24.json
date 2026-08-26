@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ku panah sasabit jeung ku busur ⟨manéh⟩ baris asup ka ditu, sabab duri-pandjeluk jeung oncer baris jadi sadaya ⟨tanah⟩ eta.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Ku panah sasabit"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "jeung ku busur"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "baris asup"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka ditu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "duri-pandjeluk"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "jeung oncer"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "baris jadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah eta"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:34.460338795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Kuring ngadamel keur diri kuring kebon-kebon jeung taman-taman, sarta kuring ngatanjekan di jerona tangkal-tangkal sarupaning bungbuahan.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ngadamel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur diri kuring"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "kebon-kebon"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "jeung taman-taman"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "sarta kuring ngatanjekan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tangkal-tangkal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sarupaning"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bungbuahan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:29.273565215Z",
+  "model": "glm-5.3"
+}

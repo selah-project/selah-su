@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Ayeuna bangun, jeung meuntasan keur anjeun ⟨את⟩ walungan Zered; sarta urang meuntas ⟨את⟩ walungan Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "jeung meuntasan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "keur anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walungan Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "sarta urang meuntas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walungan Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:34.616401416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Kecapkeun ka sadulur-sadulur lalaki aranjeuna: 'Umat-Ku,' jeung ka sadurur awewe aranjeuna: 'Nu Dikanyaahan.'",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Kecapkeun"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ka sadulur-sadulur lalaki aranjeuna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Umat-Ku"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "jeung ka sadulur-sadulur awewe aranjeuna"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Nu Dikanyaahan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:21.864411317Z",
+  "model": "glm-5.3"
+}

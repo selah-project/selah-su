@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Jeung Yehuda nyarita ka anjeunna: 'Eta jalmi meryogikeun sumping ka urang: Moal aranjeunn nempo wokeu abi iwal lamun sumping sareng aranjeunn.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "העד",
+      "gloss": "meryogikeun"
+    },
+    {
+      "surface": "העד",
+      "gloss": "sumping"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "eta jalmi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Moal"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wokeu"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "iwal lamun"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "raka aranjeunn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sareng aranjeunn",
+      "marks": "sareng aranjeunn"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:14.378835881Z",
+  "model": "glm-5.3"
+}

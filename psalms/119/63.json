@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Babarengan kuring ⟨⟨jeung⟩⟩ sadaya nu sieu ka Anjeun, jeung nu miara parentah-parentah Anjeun.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "sieu ka Anjeun"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "jeung nu miara"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "parentah-parentah Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:31.680051982Z",
+  "model": "glm-5.3"
+}

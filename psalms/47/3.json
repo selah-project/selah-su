@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Sabab Yahwe Elyon ngédankeun, Raja agung di luhur sagala ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ngédankeun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:12.422399191Z",
+  "model": "glm-5.3"
+}

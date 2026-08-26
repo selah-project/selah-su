@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Mangka ayeuna anjeun terkutuk ti taneuh, nu geus muka ⟨את⟩ sunguna pikeun nampi ⟨את⟩ getih saderek anjeun ti leungeun anjeun.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mangka ayeuna"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "terkutuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "geus muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunguna (bahamna)"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sunguna"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pikeun nampi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih saderek anjeun"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getih"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saderek anjeun"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ti leungeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:59.060796774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung karaharjaan moal jadi pikeun ⟨the⟩ jalma jahat, jeung moal ngapanjangkeun poé-poé sarua jeung kalangkang, sabab manéhna teu sieun ka payuneun Elohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "jeung karaharjaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "pikeun jalma jahat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ngapanjangkeun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "sarua jeung kalangkang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ka payuneun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T15:36:07.545542605Z",
+  "model": "glm-5.3"
+}

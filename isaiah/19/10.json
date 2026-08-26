@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sarta jadi anu dirancuk sanggana ⟨the⟩; sakabéh nu gawé upah, susuksik dina jiwa.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "sanggana"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "anu dirancuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nu gawé"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "susuksik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:47.826019302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Nepi ka iraha, Yahwe, anjeun ngaleungitkeun kuring ti ingetan — salawasna? Nepi ka iraha anjeun nyumputkeun ⟨את⟩ beungeut anjeun ti abdi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Nepi ka"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "anjeun ngaleungitkeun kuring ti ingetan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Nepi ka"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "anjeun nyumputkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beungeut anjeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "beungeut anjeun"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:04.801174395Z",
+  "model": "glm-5.3"
+}

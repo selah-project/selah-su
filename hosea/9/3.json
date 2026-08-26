@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Maranehna moal cicing di taneuh Yahwe, tapi Efrayim balik deui ka Mitsrayim, jeung di Asyur maranehna dahar ⟨tuangeun⟩ nu teu beresih.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "tapi balik deui"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "jeung di Asyur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nu teu beresih"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "maranehna dahar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:40.959225671Z",
+  "model": "glm-5.3"
+}

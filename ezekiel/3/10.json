@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sarta Anjeunna nyarita ka abdi: Putra manusa, ⟨את⟩ sadaya kecap-kecap Abdi nu bakal Abdi omongkeun ka anjeun, tarima dina hate anjeun, sarta ku ceuli anjeun ngadangu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta nyarita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap Abdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "bakal omongkeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tarima"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dina hate anjeun"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "sarta ku ceuli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:44:31.441184825Z",
+  "model": "glm-5.3"
+}

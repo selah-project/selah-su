@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung ti suku Reuven: ⟨את⟩ Betser jeung ⟨את⟩ lapanganna, ⟨את⟩ Yahxah jeung ⟨את⟩ lapanganna.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jeung ti suku"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lapanganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "lapanganna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yahxah"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahxah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lapanganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "lapanganna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:59:41.219362058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung Yahwe Elohim anjeun ngasupan ⟨את⟩ hate anjeun jeung ⟨את⟩ hate turunan anjeun, pikeun mikanyaah ⟨את⟩ Yahwe Elohim anjeun ku sakabéh hate anjeun jeung ku sakabéh nyawa anjeun, sangkan anjeun hirup.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "jeung ngasupan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hate anjeun"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hate anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "hate turunan anjeun"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hate"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "turunan anjeun"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "pikeun mikanyaah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sakabéh"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hate anjeun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung ku sakabéh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "anjeun hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:13.727164740Z",
+  "model": "glm-5.3"
+}

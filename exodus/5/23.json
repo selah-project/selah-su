@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta ti mimiti kuring datang ka Paroh pikeun nyarita dina ngaran Anjeun, manéhna geus matak awon ka bangsa ieu, tapi nyalametkeun — teu acan Anjeun nyalametkeun ⟨את⟩ bangsa Anjeun.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "sarta ti mimiti"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kuring datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pikeun nyarita"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "dina ngaran Anjeun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "geus matak awon"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ka bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "tapi nyalametkeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "Anjeun nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa Anjeun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsa Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:45.469312567Z",
+  "model": "glm-5.3"
+}

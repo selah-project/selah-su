@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Ka dirigen, mizmor pikeun Dawid, sir.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka dirigen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sir"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:38.883290908Z",
+  "model": "glm-5.3"
+}

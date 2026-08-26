@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta Samuel ngawulakeun ⟨את⟩ payun Yahwe, budak ngapingkeun éphod ti linen.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "sarta Samuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ngawulakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payun Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "budak"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ngapingkeun"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "éphod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linen"
+    }
+  ],
+  "timestamp": "2026-08-26T12:12:58.425530565Z",
+  "model": "glm-5.3"
+}

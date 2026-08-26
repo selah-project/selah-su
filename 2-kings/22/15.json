@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung nyarita anjeunna ka aranjeunna: Kitu ceuk Yahwe, Elohim Israil: Ucapkeun ka jalma nu ngirim ⟨את⟩ aranjeunna ka abdi:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Ucapkeun"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeunna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:54.232238545Z",
+  "model": "glm-5.3"
+}

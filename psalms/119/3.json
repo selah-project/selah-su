@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Lamun teu milampah kalakayan henteu adil, dina jalan-Na maranéhna lumpat.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "milampah"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kalakayan henteu adil"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "dina jalan-Na"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "maranéhna lumpat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:03.369386481Z",
+  "model": "glm-5.3"
+}

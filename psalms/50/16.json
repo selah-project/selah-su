@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Jeung ka nu jahat Elohim nyarios: naha aya pikeun anjeun ngadadarkeun katangtuan-katangtuan abdi, jeung ngakok pakti abdi dina biang anjeun?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "jeung ka nu jahat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ngadadarkeun"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "katangtuan-katangtuan abdi"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "jeung ngakok"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pakti abdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dina"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "biang anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:47.208534117Z",
+  "model": "glm-5.3"
+}

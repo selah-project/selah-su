@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teras Yéhoshua balik deui, jeung saisi Israél babarenganana, ka kampo di Gilgala.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "teras balik deui"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung saisi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarenganana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "di Gilgala"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:16.954615575Z",
+  "model": "glm-5.3"
+}

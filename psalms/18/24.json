@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sarta abdi jadi tandes haté jeung Anjeunna, sarta abdi jaga diri tina kalakuan durhaka abdi.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Sarta abdi jadi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tandes haté"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung Anjeunna"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "sarta abdi jaga diri"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "tina kalakuan durhaka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:33.057454233Z",
+  "model": "glm-5.3"
+}

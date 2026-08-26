@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Yahwe murak gana ka bapak-bapak maraneh — murak gulana.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "murak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapak-bapak maraneh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "gulana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:17:42.969217674Z",
+  "model": "glm-5.3"
+}

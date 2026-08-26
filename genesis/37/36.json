@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung urang Midyan ngajualan ⟨את⟩ manéhna ka Mitsrayim, ka Potifar, saris Fir'aun, pangulu pangawal.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "jeung urang Midyan"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ngajualan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna (Yosef)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "ka Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saris"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'aun"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "pangawal"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:21.704807732Z",
+  "model": "glm-5.3"
+}

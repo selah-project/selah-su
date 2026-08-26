@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sadayana nuju ka hiji tempat; sadayana asalna ⟨nya⟩ tina keusik, jeung sadayana balik deui ka keusik.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nuju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "asalna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "keusik"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "jeung sadayana"
+    },
+    {
+      "surface": "שב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "keusik"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:50.956163143Z",
+  "model": "glm-5.3"
+}

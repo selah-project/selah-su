@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung lébar ⟨ina⟩ buruan ka sisi wétan, ka datangna panonpoé, lima puluh héktar-ukur hasta.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Jeung lébar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨ina⟩ buruan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka sisi"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ka datangna panonpoé"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:20.735247877Z",
+  "model": "glm-5.3"
+}

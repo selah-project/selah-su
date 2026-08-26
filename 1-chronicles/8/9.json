@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ti Chodesh bojona, manéhna bakal ⟨את⟩ Yovav jeung ⟨את⟩ Tsivya jeung ⟨את⟩ Meysha jeung ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "manéhna bakal"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Meysha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meysha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:06.845964574Z",
+  "model": "glm-5.3"
+}

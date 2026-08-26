@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Teras Dawid sieun ka ⟨את⟩ Elohim dina poé éta, nyarita: Kumaha kuring bisa mawa ka diri kuring ⟨את⟩ peti paktian Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "היך",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka diri kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti paktian"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti paktian"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T17:25:11.044577348Z",
+  "model": "glm-5.3"
+}

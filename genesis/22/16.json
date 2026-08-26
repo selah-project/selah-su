@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sarta Anjeunna ngandika: Ku Aku sorangan Kuring sumpah, teu layu munni Yahwe: sabab sabab anjeun geus ngalaksanakeun ⟨את⟩ pakéwuh ieu, sarta anjeun teu nahan ⟨את⟩ putra anjeun, ⟨את⟩ nu hiji-hijina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngandika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ku Aku sorangan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Kuring sumpah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "teu layu munni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kusabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "anjeun geus ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakéwuh ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pakéwuh"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "anjeun nahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra anjeun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu hiji-hijina"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "nu hiji-hijina"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:07.623429472Z",
+  "model": "glm-5.3"
+}

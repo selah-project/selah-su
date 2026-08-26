@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jadi dina tungtun dua puluh taun, sanggeus Shelomo ngawangun ⟨את⟩ dua imah — ⟨את⟩ imah Yahwe jeung ⟨את⟩ imah raja —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Jadi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dina tungtun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua imah"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "imah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imah raja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:41.422158855Z",
+  "model": "glm-5.3"
+}

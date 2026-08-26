@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ka putra-putra Aharon maréré ⟨את⟩ kota-kota pangungsian: ⟨את⟩ Khevron jeung ⟨את⟩ Livna jeung ⟨את⟩ taneuh kaparakanana, jeung ⟨את⟩ Yatir jeung ⟨את⟩ Esytemoa jeung ⟨את⟩ taneuh kaparakanana.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "jeung ka putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "maréré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota pangungsian"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "pangungsian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "taneuh kaparakanana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "taneuh kaparakanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Esytemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esytemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "taneuh kaparakanana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "taneuh kaparakanana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:07:03.049575167Z",
+  "model": "glm-5.3"
+}

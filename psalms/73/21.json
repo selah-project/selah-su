@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Sabab ati kuring jadi haseum, jeung ginjal kuring kaeusiheung.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "jadi haseum"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "jeung ginjal kuring"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "kaeusiheung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:24.594064306Z",
+  "model": "glm-5.3"
+}

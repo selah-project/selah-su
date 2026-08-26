@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Yehosua nyarita: Ku ieu aranjeun bakal terang yén El nu hirup aya di antara aranjeun, sarta tangtu nyingkahkeun ti payun aranjeun ⟨את⟩ ka Kanaan, jeung ⟨את⟩ ka Hitti, jeung ⟨את⟩ ka Hiwi, jeung ⟨את⟩ ka Perizzi, jeung ⟨את⟩ ka Girgasyi, jeung ka Amori, jeung ka Yebusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ku ieu"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "anjeun bakal terang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di antara aranjeun"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "sarta tangtu nyingkahkeun"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "nyingkahkeun"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ti payun aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ka Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ka Hitti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ka Hitti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ka Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ka Hiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ka Perizzi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ka Perizzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ka Girgasyi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ka Girgasyi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "jeung ka Amori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jeung ka Yebusi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:54:10.930187005Z",
+  "model": "glm-5.3"
+}

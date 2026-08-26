@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Karya Daud. Pinuji Yahwe, batu kakuatan abdi, anu ngawurukan leungeun abdi pikeun perang, ramo-ramo abdi pikeun patempuran.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Karya Daud"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu kakuatan abdi"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "anu ngawurukan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun abdi"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "pikeun perang"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ramo-ramo abdi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pikeun patempuran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:49.952462986Z",
+  "model": "glm-5.3"
+}

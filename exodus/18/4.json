@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung ngaran nu hijina deui Eliezer, sabab Elohim ramana ⟨is⟩ pitulung kuring, jeung anjeunna ngabébaskeun kuring ti pédang Paroh.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hijina deui"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "pitulung kuring"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "jeung ngabébaskeun kuring"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ti pédang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:56.608020735Z",
+  "model": "glm-5.3"
+}

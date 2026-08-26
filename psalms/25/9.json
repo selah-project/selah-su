@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Ngabimbing ⟨éta⟩ nu lomba handap dina kabeneran, sarta ngajarkeun ka nu lomba handap jalan-Na.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "Ngabimbing"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nu lomba handap"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dina kabeneran"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "sarta ngajarkeun"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nu lomba handap"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:46.246941495Z",
+  "model": "glm-5.3"
+}

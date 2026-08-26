@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung Yerikho kapeungpeut, kapeungpeut pisan ku sabab kalebetan baré Israel; euweuh nu kaluar jeung euweuh nu asup.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Jeung Yerikho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "kapeungpeut"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "kapeungpeut pisan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku sabab kalebetan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "baré"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "nu kaluar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nu asup"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:46.492464075Z",
+  "model": "glm-5.3"
+}

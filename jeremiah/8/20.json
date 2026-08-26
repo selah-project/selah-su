@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Panén geus kaliwat, usum panas geus tamat, sarta urang teu disalametkeun.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "geus kaliwat"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panén"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "geus tamat"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "usum panas"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "sarta urang"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "disalametkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:25:20.469208466Z",
+  "model": "glm-5.3"
+}

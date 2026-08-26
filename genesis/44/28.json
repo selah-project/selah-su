@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung kaluar ⟨the⟩ hiji ti ⟨את⟩ gigireun abdi, sarta abdi ngomong: Tangtu dironjat-ronjat; jeung teu kungsi abdi nempo manéhna nepi ka ayeuna.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "jeung kaluar"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨the⟩ hiji"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ti gigireun abdi",
+      "marks": "hiji (nu kaluar)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jeung abdi ngomong"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tangtu"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "dironjat"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ronjat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "kungsi abdi nempo manéhna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ayeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:40.237658208Z",
+  "model": "glm-5.3"
+}

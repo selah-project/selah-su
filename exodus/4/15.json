@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung anjeun bakal nyarita ka manehna, jeung nempatkeun ⟨את⟩ kecap-kecap kana bahuna; Jeung Kuring bakal aya jeung bahuna, jeung jeung bahuna, jeung Kuring bakal ngawurukan anjeun ⟨את⟩ naon anu aranjeun bakal pigaweeun.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Jeung anjeun bakal nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manehna"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "jeung nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "kana bahuna"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Jeung Kuring"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bakal aya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bahuna anjeun"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung jeung"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "bahuna"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "jeung Kuring bakal ngawurukan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun (jamak)",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naon anu aranjeun bakal pigaweeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "naon anu"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "aranjeun bakal pigaweeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:50.073567842Z",
+  "model": "glm-5.3"
+}

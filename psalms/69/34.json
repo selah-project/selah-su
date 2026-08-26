@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Sabab Yahwe ngadengokeun nu pero-butuh, jeung ⟨את⟩ tawananana teu dipiei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadengokeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "nu pero-butuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tawananana"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "tawananana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "dipiei"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:08.376654280Z",
+  "model": "glm-5.3"
+}

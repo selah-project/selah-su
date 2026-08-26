@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Tuluy sagala bangkat ngadeg saperti hiji jalma, nyarita: Moal urang indit, jalma mang mihapat ka kéndanganna, sarta moal urang malik, jalma mang ka imahna.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangkat"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "saperti jalma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "urang indit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma mang"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "ka kéndanganna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "urang malik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma mang"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ka imahna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:11:15.808971085Z",
+  "model": "glm-5.3"
+}

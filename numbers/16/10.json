@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Anjeunna geus mawa ⟨את⟩ anjeun sarta ⟨את⟩ sadaya dulur-dulur anjeun, putra-putra Lewi, ngancan Anjeunna — tapi anjeun ogé ngahoyong imamat?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Anjeunna geus mawa ka riverannana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "sadaya dulur-dulur anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dulur-dulur anjeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ngancan anjeun"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "tapi anjeun ngahoyong"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "imamat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:30:13.792827161Z",
+  "model": "glm-5.3"
+}

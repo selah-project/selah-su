@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Aranjeun nyarita ka anjeunna: Sumuhun, ⟨את⟩ jeung anjeun urang balik deui ka bangsa anjeun.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "aranjeun nyarita"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sumuhun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jeung anjeun"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "urang balik deui"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ka bangsa anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:25:31.501997361Z",
+  "model": "glm-5.3"
+}

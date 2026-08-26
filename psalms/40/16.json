@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Ngaguratur lantaran hanca éra maranéhanana, maranéha nu ngomong ka kuring: Hé-ah, hé-ah!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ngaguratur"
+    },
+    {
+      "surface": "על",
+      "gloss": "lantaran"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "balukar"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "hanca éra maranéhanana"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "maranéha nu ngomong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé-ah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé-ah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:03.229330398Z",
+  "model": "glm-5.3"
+}

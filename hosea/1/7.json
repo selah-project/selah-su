@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ⟨את⟩ kulawarga Yéhuda kuring bakal ngariksa, sarta nyalametkeunana ku Yahwe, Elohim maranéhna, moal ku panah jeung ku pedang jeung ku perang, ku kuda jeung ku tukang naék kuda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kulawarga Yéhuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "kuring bakal ngariksa"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "jeung kuring nyalametkeunana"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ku Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim maranéhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "ngasalametkeunana"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ku panah"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "jeung ku pedang"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "jeung ku perang"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ku kuda"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "jeung ku tukang naék kuda"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:14.681908755Z",
+  "model": "glm-5.3"
+}

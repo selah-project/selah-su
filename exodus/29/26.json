@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 29:26",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun bakal nyandak ⟨את⟩ dada ti domba pangistrénan nu pikeun Aharon, sarta anjeun bakal ngageterkeun ⟨את⟩ éta jadi paraosan saméméh Yahwe; sarta ⟨éta⟩ jadi bagéan anjeun.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jeung anjeun bakal nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dada"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dada"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "ti domba"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pangistrénan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pikeun Aharon"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "sarta anjeun bakal ngageterkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "éta"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "paraosan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagéan anjeun"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "pikeun bagéan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:59.787050527Z",
+  "model": "glm-5.3"
+}

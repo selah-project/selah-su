@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Muji ka Yahwe ku kinor; ku nevel sapuluh senar mueuleuman lagu ka ⟨Anjeunna⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "muji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ku kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ku nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sapuluh senar"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mueuleuman lagu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka ⟨Anjeunna⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:53.836388134Z",
+  "model": "glm-5.3"
+}

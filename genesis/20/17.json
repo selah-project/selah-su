@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Lajeng Avraham ngadu'a ka Elohim, sarta Elohim ngubaran ⟨את⟩ Avimelex jeung ⟨את⟩ pamajikanana jeung awéwawér-na, sarta aranjeunna baranak.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ngadu'a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ngubaran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelex"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikanana"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "awéwawér-na"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "baranak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:29.357519432Z",
+  "model": "glm-5.3"
+}

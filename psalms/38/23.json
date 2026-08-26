@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Réngkong nganjang tulung kuring, Adonay, kasalametan kuring.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "réngkong"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "nganjang tulung kuring"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "kasalametan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:51.915477406Z",
+  "model": "glm-5.3"
+}

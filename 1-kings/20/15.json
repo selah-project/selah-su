@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung anjeunna ngitung ⟨את⟩ para rumaja pangulu-pangulu wilayah-wilayah, jadi dua ratus tilu puluh dua; sarta sanggeus maranehna anjeunna ngitung ⟨את⟩ sakumna bangsa, sakumna putra-putra Israel, tujuh rebu urang.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "jeung anjeunna ngitung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para rumaja pangulu-pangulu wilayah-wilayah"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "para rumaja"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangulu-pangulu"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "wilayah-wilayah"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jeung tilu puluh"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "sanggeus maranehna"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ngitung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakumna bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "rebu urang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:47:08.003821158Z",
+  "model": "glm-5.3"
+}

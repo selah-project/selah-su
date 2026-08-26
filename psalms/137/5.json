@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Mun abdi poho ka Anjeun, hei Yerushalaim, sangkan leungeun katuhu abdi poho.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "poho ka Anjeun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "poho"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "leungeun katuhu abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:30.244941492Z",
+  "model": "glm-5.3"
+}

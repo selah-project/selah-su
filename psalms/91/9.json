@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Sabab manéh, Yahwe, ⟨⟨⟩⟩ tempat pangungsi abdi; ⟨ka⟩ Elyon manéh nempatkeun imah manéh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "manéh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tempat pangungsi abdi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "manéh nempatkeun"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "imah manéh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:44.713281900Z",
+  "model": "glm-5.3"
+}

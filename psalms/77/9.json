@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Naha puguh lésa salawasna kanyaah-satia-Na? Geus tamat omongan-Na ka turunan jeung turunan?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "naha puguh lésa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-satia-Na"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "tamat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "omongan-Na"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ka turunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jeung turunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:22.969370787Z",
+  "model": "glm-5.3"
+}

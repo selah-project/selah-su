@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Adonay seuri ka manéhna, sabab ⟨geus⟩ nempo yén poéna bakal datang.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "seuri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bakal datang"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "poéna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:37.990025657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta ieu téh hukum kurban sala: suci ti nu suci etana.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "sarta ieu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "kurban sala"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ti nu suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "etana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:55.725341559Z",
+  "model": "glm-5.3"
+}

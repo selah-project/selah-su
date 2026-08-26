@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "El ngadéngé sarta mairan maranehna, sarta ⟨Nu⟩ linggih ti baheula — Selah — nu teu boga parobahan, sarta henteu sieun ka Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "sarta mairan maranehna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sarta ⟨Nu⟩ linggih"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ti baheula"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu boga"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "parobahan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pikeun maranehna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta henteu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:37.655483487Z",
+  "model": "glm-5.3"
+}

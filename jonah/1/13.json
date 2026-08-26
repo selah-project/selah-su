@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tapi para jalma ngadayung tarik pikeun mulangkeun ka darat, tapi teu sanggup, sabab laut terus beuki ngagorombol ka aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "ngadayung tarik"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para jalma"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "pikeun mulangkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "darat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "terus beuki"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "ngagorombol"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:50.718102617Z",
+  "model": "glm-5.3"
+}

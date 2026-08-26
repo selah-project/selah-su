@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lamun kurban anak domba kaula jinih minchah di luhureun mahabat, tipung lemes nu diukuy jeung minyak, roti tanpa rimas kudu jadi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "mahabat"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "kurban kaula"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tipung lemes"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "nu diukuy"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jeung minyak"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "roti tanpa rimas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kudu jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:09.081446103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Lajeng manusa Elohum ngirim talatah ka raja Israél, sangkan nyarita: Jaga diri ulah ngaliwat ka tempat ieu, sabab di dinya urang Aram keur turun nyumput.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lajeng ngirim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "jaga diri"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "uli ngaliwat"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "keur turun nyumput"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:32.057618649Z",
+  "model": "glm-5.3"
+}

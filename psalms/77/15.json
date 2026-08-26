@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Anjeun ⟨are⟩ ⟨the⟩ El nu mawa keajaiban; Anjeun ngawarungkeun ka bangsa-bangsa kakuatan-Mu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu mawa"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "keajaiban"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Anjeun ngawarungkeun"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ka bangsa-bangsa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuatan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:10.321846493Z",
+  "model": "glm-5.3"
+}

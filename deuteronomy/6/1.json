@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ieu ⟨the⟩ parentah, ⟨the⟩ katangtuan-katangtuan jeung ⟨the⟩ pANGbéntahan nu diparéntahkeun ku Yahwe, Elohim maraneh, pikeun ngajarkeun ka maraneh, sangkan dipigawé di ⟨the⟩ tanah nu aranjeun ngaliwatan ka dinya pikeun boga-piboga-ana.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Jeung ieu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "katangtuan-katangtuan"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "jeung pangbéntahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim maraneh"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "pikeun ngajarkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka maraneh",
+      "marks": "maraneh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sangkan dipigawé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aranjeun"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka dinya"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "pikeun boga-piboga-ana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:54.666170515Z",
+  "model": "glm-5.3"
+}

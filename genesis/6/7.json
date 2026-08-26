@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung Yahwe nyarita: Abdi mupus ⟨את⟩ jalma nu kula-ciptakeun tina payun-eunteup ⟨the⟩ taneuh — ti jalma nepi ka sasatoan, nepi ka nu ngarayap, jeung nepi ka manuk-maneuk langit — sabab kula-nyesa, sabab kula-nyieun aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "mupus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "kula-ciptakeun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tina"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payun-eunteup"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ti jalma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sasatoan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nu ngarayap"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung nepi ka"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "manuk-maneuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "kula-nyesa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kula-nyieun aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:54.573554065Z",
+  "model": "glm-5.3"
+}

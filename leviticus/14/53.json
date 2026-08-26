@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung manéhna ngaleupaskeun ⟨את⟩ manuk nu hirup ka luar kota, ka payuneun padang, jeung ngabaliekeun dosa pikeun imah, sarta imah jadi beresih.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "jeung ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk nu hirup"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "jeung ngabaliekeun dosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "sarta beresih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:47.290811258Z",
+  "model": "glm-5.3"
+}

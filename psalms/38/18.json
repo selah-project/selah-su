@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Sabab kuring siap tigel, jeung karasaheun kuring salawasna di payuneun kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "siap tigel"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "togog"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "jeung karasaheun kuring"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:12.522949559Z",
+  "model": "glm-5.3"
+}

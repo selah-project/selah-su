@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Ka Sihon raja ka Emori, ka Og raja ka Basan, jeung ka sakabé karajaan Kenaan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "ka Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ka Emori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ka Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ka Basan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "jeung ka sakabé"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:45.913098019Z",
+  "model": "glm-5.3"
+}

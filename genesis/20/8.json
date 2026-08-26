@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 20:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Teras Avimelekh ngamimitian mimitis isuk-isuk, sarta mairan sadaya abdina, sarta nyaritakeun ⟨את⟩ sadaya kecap-kecap ieu kana ceuli maranehna; sarta ngarasa sieun kahaneutan ⟨the⟩ jalma-jalma éta.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ngamimitian mimitis isuk-isuk"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta mairan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdina"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "sarta nyaritakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "kana ceuli maranehna"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sarta ngarasa sieun"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "jalma-jalma éta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kahaneutan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:37:13.414984692Z",
+  "model": "glm-5.3"
+}

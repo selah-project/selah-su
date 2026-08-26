@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Jeung aranjeunna ngumbara ti bangsa ka bangsa, ti karajaan ka bangsa séjén.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "jeung aranjeunna ngumbara"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ti bangsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "ti karajaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "séjén"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:20.065780650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung putrina Sheera, jeung manéhna ngawangun ⟨את⟩ Bet-Khoron nu handap jeung ⟨את⟩ nu luhur, jeung ⟨את⟩ Uzen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "putrina"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "nu handap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu luhur"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "nu luhur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Uzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:22.284322878Z",
+  "model": "glm-5.3"
+}

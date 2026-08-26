@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Tuluy Yéhoshua nyarita: Buka baham guha éta, sarta kaluarkeun ka abdi ⟨את⟩ ieu lima raja-rajian tina guha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhoshua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "buka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baham"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baham"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "guha"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "sarta kaluarkeun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima raja-rajian"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "lima"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-rajian"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "guha"
+    }
+  ],
+  "timestamp": "2026-08-26T16:48:23.394400381Z",
+  "model": "glm-5.3"
+}

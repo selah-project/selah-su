@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Raja ngirim sarta méré kabebasan ka anjeunna; pamaréntah bangsa-bangsa méré ngabébaskeun anjeunna.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "méré kabebasan ka anjeunna"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pamaréntah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "méré ngabébaskeun anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.798679693Z",
+  "model": "glm-5.3"
+}

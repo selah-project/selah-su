@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Ibrani ngaliwat ⟨את⟩ Yarden ka tanah Gad jeung Gilead; sedengkeun Shaaul tacan engges indit ti Gilgal, jeung sakabéh bangsa ngageter nuturkeunana.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Jeung Ibrani"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "jeung Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "sedengkeun Shaaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "tacan engges indit"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "ngageter"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nuturkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:00.111092483Z",
+  "model": "glm-5.3"
+}

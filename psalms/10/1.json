@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Naha, Yahwe, anjeun nangtung di jauh? Anjeun nyumput dina waktu-waktu kaenieun?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Naha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "anjeun nangtung"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "di jauh"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "anjeun nyumput"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "dina waktu-waktu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kaenieun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:30.291341842Z",
+  "model": "glm-5.3"
+}

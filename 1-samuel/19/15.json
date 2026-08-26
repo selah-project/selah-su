@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Teras Saul ngintipkeun deui ⟨את⟩ utusan-utusan pikeun nempo ⟨את⟩ Dawid, bari ngomong: 'Aungan anjeunna jeung ranjangna ka keur abdi, sangkan dipaéhan.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngintipkeun deui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utusan-utusan"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bari ngomong"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "aungan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "jeung ranjangna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka keur abdi"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "sangkan dipaéhan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:38.600511701Z",
+  "model": "glm-5.3"
+}

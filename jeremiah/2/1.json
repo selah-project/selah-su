@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung aya kecap Yahwe ka abdi, sangkan ngandika:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jeung aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngandika"
+    }
+  ],
+  "timestamp": "2026-08-26T17:00:12.293646624Z",
+  "model": "glm-5.3"
+}

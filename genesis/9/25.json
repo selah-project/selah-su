@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung katanya: Tineuhu Kenaan, budak ti para budak ⟨anolah⟩ jadi pikeun sadulur-sadururna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung katanya"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "tineuhu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para budak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "pikeun sadulur-sadururna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:34.341156974Z",
+  "model": "glm-5.3"
+}

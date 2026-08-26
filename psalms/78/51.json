@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung narajang sagala anak kakembarna di Mitsrayim, mimiti kakuatanana kana imah-imah Ham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "jeung narajang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak kakembarna"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mimiti"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "kakuatanana"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "kana imah-imah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:51.901075911Z",
+  "model": "glm-5.3"
+}

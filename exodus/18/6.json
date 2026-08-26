@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung anjeunna ngomong ka Moshe: Abdi, lanceuk pantara anjeun, Yitro, datang ka anjeun, jeung pamajikan anjeun jeung dua putrana babarengan jeung anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "lanceuk pantara anjeun"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "jeung pamajikan anjeun"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "babarengan jeung anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:44.031096086Z",
+  "model": "glm-5.3"
+}

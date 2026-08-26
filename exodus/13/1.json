@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Yahwe ngomong ka Moshe, sangkan nyarita",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:56.300231213Z",
+  "model": "glm-5.3"
+}

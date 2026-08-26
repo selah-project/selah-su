@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sarta raja balik sarta sumping nepi ka Yardén, sarta Yehuda datang ka Gilgal pikeun indik papanggih ⟨את⟩ raja, mawa balik ⟨את⟩ raja ngaliwatan ⟨את⟩ Yardén.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sarta raja balik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sarta sumping"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "sarta Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ka Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pikeun indik"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "papanggih"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "mawa ngaliwatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:59.435566977Z",
+  "model": "glm-5.3"
+}

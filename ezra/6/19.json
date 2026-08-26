@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung putra-putra nu kajeuwit nyieun ⟨את⟩ Pésach dina poe kaopat belas bulan kahiji.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "nu kajeuwit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kaopat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kahiji"
+    }
+  ],
+  "timestamp": "2026-08-26T15:53:17.429883206Z",
+  "model": "glm-5.3"
+}

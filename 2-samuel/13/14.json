@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Tapi manéhna teu daék ngadangu sora awéwéna, lajeng manéhna ngagunakeun kakuatan leuwih ti awéwéna sarta ngarampa awéwéna sarta saré jeung ⟨את⟩ awéwéna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "daék"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "sora awéwéna"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ngagunakeun kakuatan"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ti awéwéna"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ngarampa"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "saré jeung"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "awéwéna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:25.719192821Z",
+  "model": "glm-5.3"
+}

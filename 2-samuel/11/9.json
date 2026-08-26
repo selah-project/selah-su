@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Teras Uria saré di payuneun lawang imah raja jeung ⟨את⟩ sadaya abdi-lordonna, sarta manehna teu turun ka imahna.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sare"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di payuneun lawang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya abdi-lordonna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "lordonna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:33:28.390051058Z",
+  "model": "glm-5.3"
+}

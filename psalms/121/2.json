@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 121,
+  "translation": "Pitulung kuring ⟨is⟩ ti sisi Yahwe, Nu Nyieuneun langit-langit jeung bumi.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Pitulung kuring"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ti sisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Nu Nyieuneun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jeung bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:36.889452424Z",
+  "model": "glm-5.3"
+}

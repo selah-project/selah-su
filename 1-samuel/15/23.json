@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sabab doraka mah dosana ramal-karamal, sarta jahat sarta terafim mah kateugeuleus; sabab anjeun nampik ⟨את⟩ kecap Yahwe, mangka Yahwe nampik anjeun sanggeus jadi raja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "ramal-karamal"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "doraka"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "sarta jahat"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "sarta terafim"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "kateugeuleus"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "anjeun nampik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "mangka nampik anjeun"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "sanggeus jadi raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:16.449274582Z",
+  "model": "glm-5.3"
+}

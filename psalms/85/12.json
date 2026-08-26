@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Kajujuran tumuwuh tina bumi, sarta kaduli nyawang ti langit-langit.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "kajujuran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina bumi"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "tumuwuh"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "sarta kaduli"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ti langit-langit"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "nyawang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:57.103520483Z",
+  "model": "glm-5.3"
+}

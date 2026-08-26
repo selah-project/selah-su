@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung sakahayang ⟨את⟩ bangsa tina ⟨the⟩ tanah bungah, sarta ⟨את⟩ kota éta tenang; jeung ⟨את⟩ Atalyahu maranehna bunuh ku pedang.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "jeung bungah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakahayang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "sarta kota"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "tenang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "maranehna bunuh"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    }
+  ],
+  "timestamp": "2026-08-26T16:25:15.302114736Z",
+  "model": "glm-5.3"
+}

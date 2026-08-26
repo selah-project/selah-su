@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Sabab anjeun, Yahwe, Elyon di luhur sadaya bumi; pisan anjeun ngaronjat di luhur sadaya elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "anjeung ngaronjat"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:09.557216786Z",
+  "model": "glm-5.3"
+}

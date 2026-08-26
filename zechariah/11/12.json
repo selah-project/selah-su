@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Turis kuring ngomong ka aranjeun: upama merenah panon aranjeun, sing ilahkan upah kuring; upama henteu, eureun. Tur aranjeun nimbang ⟨את⟩ upah kuring: tilu puluh (perak).",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "turis kuring ngomong"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "merenah"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "panon aranjeun"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "sing ilahkan"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "upah kuring"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tur upama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "eureun"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "tur aranjeun nimbang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upah kuring"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "upah kuring"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-08-26T14:19:41.427673806Z",
+  "model": "glm-5.3"
+}

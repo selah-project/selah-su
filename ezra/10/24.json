@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ti tukang ngawih: Elyashiv; jeung ti tukang ngajaga panto: Shalum, Telem, jeung Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "jeung ti"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "tukang ngawih"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jeung ti"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "tukang ngajaga panto"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shalum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "jeung Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "jeung Uri"
+    }
+  ],
+  "timestamp": "2026-08-26T15:55:53.955197681Z",
+  "model": "glm-5.3"
+}

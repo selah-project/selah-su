@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Sabab Anjeun jadi pitulung kanggo abdi, sarta na kalinduan jangjang-Mu abdi sorak-sorai bungah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Anjeun jadi"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pitulung"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo abdi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "sarta na kalinduan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "jangjang-Mu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "abdi sorak-sorai bungah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:15.389556429Z",
+  "model": "glm-5.3"
+}

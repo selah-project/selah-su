@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung nu lampah ngarancang hal-hal luhur, jeung manehna tetep ngadeg di luhureun hal-hal luhur.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "jeung nu lampah"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "hal-hal luhur"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ngarancang"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jeung manehna"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "hal-hal luhur"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tetep ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:38.569314785Z",
+  "model": "glm-5.3"
+}

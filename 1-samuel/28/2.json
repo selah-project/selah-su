@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Laju David nyarita ka Akis: «Mangka jadi, anjeun bakal nyaho ⟨את⟩ nu bakal dipigawé ku abdi anjeun.» Laju Akis nyarita ka David: «Mangka jadi, pamauseur sirah abdi kuring jogjakeun anjeun sadami-damina poé.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "mangka jadi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "anjeun bakal nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu bakal dipigawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakal dipigawé"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ku abdi anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "mangka jadi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pamauseur"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "sirah abdi"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "kuring jogjakeun anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadami-damina"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:25.705673891Z",
+  "model": "glm-5.3"
+}

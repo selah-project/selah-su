@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Tur Shemuel nyarita ka Sha-ul: Kuring ⟨את⟩ diutus Yahwe pikeun mualat anjeun jadi raja di luhur umat-Na, di luhur Israel; ayeuna teras ngadangu kana sora kecap-kecap Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tur nyarita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kuring",
+      "marks": "diutus (kecap 'diutus' dituduh ku ⟨את⟩)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "diutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "pikeun mualat anjeun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kana sora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:07.957321027Z",
+  "model": "glm-5.3"
+}

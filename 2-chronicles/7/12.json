@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Yahwe nembongan ka Shelomoh peuting, sarta ngomong ka anjeunna: Kuring geu ngadangu ⟨את⟩ munajat anjeun, sarta Kuring milih tempat ieu pikeun Diri Kuring jadi imam korban.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nembongan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Kuring geu ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munajat anjeun"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "munajat anjeun"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "sarta Kuring milih"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Diri Kuring"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "jadi imam"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    }
+  ],
+  "timestamp": "2026-08-26T17:25:50.013765265Z",
+  "model": "glm-5.3"
+}

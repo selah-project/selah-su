@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Ngasumpah jeung bohong, jeung maéh, jeung maling, jeung zina — ⟨maranéhna⟩ ngabeledug, jeung getih ngahiji jeung getih paantel.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ngasumpah"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "jeung bohong"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "jeung maéh"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "jeung maling"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "jeung zina"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "ngabeledug"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "jeung getih"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "jeung getih"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "paantel"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:08.286952576Z",
+  "model": "glm-5.3"
+}

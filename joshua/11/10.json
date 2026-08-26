@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Teras Yehosua balik deui dina waktu harita, sarta lukisan ⟨את⟩ Xatsor jeung ⟨את⟩ raja-na ditelasan ku pedang, sabab Xatsor ti baheula ⟨euweuh⟩ mangrupa hulu ti sagala karajaan-karajaan ieu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "sarta lukisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "raja-na"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "raja-na"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ditelasan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ti baheula"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨euweuh⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti sagala"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "karajaan-karajaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:57:06.308036429Z",
+  "model": "glm-5.3"
+}

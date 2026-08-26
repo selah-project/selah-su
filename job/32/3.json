@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sangkan tilu babaturanna ogé ambekna, sabab maranehna teu manggihan walesan, padahal maranehna ngahukum ⟨את⟩ Iyob.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "sangkan tilu"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "babaturanna"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ambekna"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "manggihan"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "walesan"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "ngahukum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    }
+  ],
+  "timestamp": "2026-08-26T15:16:18.120166363Z",
+  "model": "glm-5.3"
+}

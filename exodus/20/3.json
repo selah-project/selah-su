@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Moal aya keur anjeun elohim lian di payuneun Kami.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "keur anjeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payuneun Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:18.613898980Z",
+  "model": "glm-5.3"
+}

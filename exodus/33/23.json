@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Teras Urang muka ⟨את⟩ leungeun Urang, jeung anjeun bakal nempo ⟨את⟩ tukang Urang; tapi beungeut Urang moal katingali.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Teras-Urang-muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun Urang"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "leungeun-Urang"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "jeung-anjeun-bakal-nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukang Urang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tukang-Urang"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "tapi-beungeut-Urang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "katingali"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:37.259017285Z",
+  "model": "glm-5.3"
+}

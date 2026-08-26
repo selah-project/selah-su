@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sarta ⟨את⟩ sisana bangsa anjeunna merekeun ka leungeun Avishay sadarahana, sarta anjeunna nyusun barisan pikeun ngahadep budak-budak Amon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sisana bangsa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sisana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "merekeun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka-leungeun"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadarahana"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "sarta-nyusun-barisan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pikeun-ngahadep"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:57.771271066Z",
+  "model": "glm-5.3"
+}

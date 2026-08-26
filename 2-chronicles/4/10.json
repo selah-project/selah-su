@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung ⟨את⟩ Laut diarahkeun dina taktak beulah katuhu, ka beulah wétan, ngahadep beulah kidul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Laut"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diarahkeun"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "dina-taktak"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "beulah-katuhu"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ka-beulah-wétan"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ngahadep"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "beulah-kidul"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:50.861234535Z",
+  "model": "glm-5.3"
+}

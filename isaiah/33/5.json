@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Ditinggikeun Yahwe, sabab ⟨maneh⟩ dumuk di luhur; geus ngeusian Tsiyon katrangan jeung kabeneran.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ditinggikeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "dumuk"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "geus ngeusian"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katrangan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "jeung kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:54.470249645Z",
+  "model": "glm-5.3"
+}

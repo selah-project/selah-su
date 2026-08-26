@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Teu aya nu sapadan jeung anjeun di antara para elohim, Adonay, sarta teu aya nu sapadan jeung pagawéan-pagawéan anjeun.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nu sapadan jeung anjeun"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di antara para elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sarta teu aya"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "nu sapadan jeung pagawéan-pagawéan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:44.462563528Z",
+  "model": "glm-5.3"
+}

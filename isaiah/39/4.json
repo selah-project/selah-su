@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 39:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung anjeunna ngomong: Naon nu katingali ku aranjeunna di imah anjeun? Jeung Khizkiyahu ngomong: ⟨את⟩ sakabéh nu aya di imah abdi katingali ku aranjeunna; euweuh parkara nu teu dipidangkeun abdi ka aranjeunna di lumbung-lumbung abdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung anjeunna ngomong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Naon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nu katingali"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di imah anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh nu aya di imah abdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "di imah abdi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "katingali ku aranjeunna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הראיתים",
+      "gloss": "dipidangkeun abdi ka aranjeunna"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "di lumbung-lumbung abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:47.937442275Z",
+  "model": "glm-5.3"
+}

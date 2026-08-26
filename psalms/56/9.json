@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Putingan kuring Geus Manétang; Silihkeun cicih kuring kana koja Anjeun; naha teu kacatet dina buku Anjeun?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "Putingan kuring"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "Geus Manétang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "Silihkeun"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "cicih kuring"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "kana koja Anjeun"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "naha teu"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "dina buku Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:54.087940701Z",
+  "model": "glm-5.3"
+}

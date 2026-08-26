@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 149,
+  "translation": "Puji Yah, ngawih ka Yahwe koréng anyar, puji-Na dina jamaah nu kanyaah-satia.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Puji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ngawih"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "koréng"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "puji-Na"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dina jamaah"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "nu kanyaah-satia"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:11.132921792Z",
+  "model": "glm-5.3"
+}

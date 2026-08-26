@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jadi kuring malik sangkan haté kuring putus asa ngeunaan sakabéh susah payah nu kuring ngarandosan di handap panonpoé.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "kuring malik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "sangkan putus asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haté kuring"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté kuring"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "susah payah"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "nu kuring ngarandosan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handap"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:54.481973140Z",
+  "model": "glm-5.3"
+}

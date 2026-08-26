@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "pikeun ngalihkeun karajaan ti imah Shaúl, jeung pikeun ngadegkeun ⟨את⟩ korsi Dawid ka luhur Israél jeung ka luhur Yehuda, ti Dan nepi ka Beér-Syeba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "pikeun ngalihkeun"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "jeung pikeun ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korsi Dawid"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "korsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka luhur"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ti Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beér"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    }
+  ],
+  "timestamp": "2026-08-26T16:53:21.967149383Z",
+  "model": "glm-5.3"
+}

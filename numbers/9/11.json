@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Dina bulan kadua, dina poé kaopat belas, antara tiempo-sore, aranjeunna bakal nyieunana ⟨את⟩; ku roti tanpa ragi jeung herbal pait aranjeunna ngahakanana.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "dina opat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tiempo-sore"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "anjeunna bakal nyieun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Pésach (nu dipikirimaka)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "jeung herbal pait"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "aranjeunna ngahakanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:12.646255380Z",
+  "model": "glm-5.3"
+}

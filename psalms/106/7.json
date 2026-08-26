@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Bapak-bapak urang di Mesorem teu ngarti kana hal-hal anéh-Mu, teu inget ⟨את⟩ kabisaan kanyaah-Mu, sarta maranéhna ngalawan dibasisir, di laut Suph.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "bapak-bapak urang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mesorem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kana hal-hal anéh-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "inget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabisaan kanyaah-Mu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kabisaan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "kanyaah-Mu"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "sarta maranéhna ngalawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dibasisir"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:35.748676244Z",
+  "model": "glm-5.3"
+}

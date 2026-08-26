@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Kasiahananana abdi, Elohim, sabab manusa ngahakan abdi; sapanjang poé perang manéhna ngepengan abdi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "kasiahananana abdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ngahakan abdi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "ngepengan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:48.427057766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jadi anjeunna indit jeung ⟨את⟩ maranehna, sarta maranehna datang ka Yarden, lajeng maranehna neukteu kai-kaina.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ka Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "neukteu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kai-kaina"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:02.911547118Z",
+  "model": "glm-5.3"
+}

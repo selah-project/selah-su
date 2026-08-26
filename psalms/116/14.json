@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Sumpah-sumpah kuring ka Yahwe kuring mayar, ayeuna, di payuneun sadayana umat-Na.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "sumpah-sumpah kuring"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "kuring mayar"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadayana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:47.601109419Z",
+  "model": "glm-5.3"
+}

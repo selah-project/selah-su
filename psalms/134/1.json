@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 134,
+  "translation": "Kidung tarajé. Hat, mugia anjeun muja ⟨את⟩ Yahwe, sadaya abdi Yahwe, anu cicing di bumi Yahwe dina wengi-wengi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hat"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "muja anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "anu cicing"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "dina wengi-wengi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:36.604803834Z",
+  "model": "glm-5.3"
+}

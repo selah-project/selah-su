@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Gulingkeun ti luhureun abdi aib jeung kamanusan, sabab abdi ngajaga kasaksi-kasaksi Anjeun.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "gulingkeun"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ti luhureun abdi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "aib"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "jeung kamanusan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksi-kasaksi Anjeun"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "abdi ngajaga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:56.945711136Z",
+  "model": "glm-5.3"
+}

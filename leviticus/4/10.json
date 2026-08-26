@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Saperti diangkat ti méména lembu, kurban shelamim; sarta pandita ngahaseupanana di luhureun altar kurban bakaran.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "diangkat"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ti méména lembu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "sarta ngahaseupanana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pandita"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:53.448493452Z",
+  "model": "glm-5.3"
+}

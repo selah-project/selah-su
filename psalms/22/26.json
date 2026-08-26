@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Ti ⟨את⟩ anjeun asal puji-puji kuring; dina jemaat nu loba kuring marengan janji-janji kuring di payuneun nu revere ka Mantenna.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "ti ⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "puji-puji kuring"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dina jemaat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nu loba"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "janji-janji kuring"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "kuring marengan"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "nu revere ka Mantenna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:58.761748433Z",
+  "model": "glm-5.3"
+}

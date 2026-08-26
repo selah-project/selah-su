@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Dina sasakitan sapuluh senar, jeung dina nebel, dina murmur-murmur higayon kalawan kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "dina"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sasakitan sapuluh senar"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "jeung dina"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "murmur-murmur higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kalawan kinor"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:53.984380781Z",
+  "model": "glm-5.3"
+}

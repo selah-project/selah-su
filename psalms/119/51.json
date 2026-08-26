@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jalma sombong nyieun pelecehan ka abdi pisan; tapi tina Taurat-Mu abdi teu méncrang.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Jalma sombong"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "nyieun pelecehan ka abdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "tina Taurat-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "méncrang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:09.496500944Z",
+  "model": "glm-5.3"
+}

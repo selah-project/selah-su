@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Anjeun bakal néangan aranjeunna jeung moal manggihan aranjeunna, jalma-jalma pasilit anjeun; aranjeunna bakal jadi kawas teu-aya jeung kawas nol, jalma-jalma nu perang ka anjeun.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "anjeun bakal néangan aranjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "manggihan aranjeunna"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "pasilit anjeun"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "arah jadi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kawas teu-aya"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "jeung kawas nol"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "nu perang ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:59.592540500Z",
+  "model": "glm-5.3"
+}

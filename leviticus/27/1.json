@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung Yahwe ngomong ka Moshe, sangkan nyarita,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:56.108186871Z",
+  "model": "glm-5.3"
+}

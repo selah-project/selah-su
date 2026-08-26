@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Anjeun muka wewengkon di payunana, ⟨eta⟩ ngararatrak akar-akarna, jeung ⟨eta⟩ ngeusian bumi.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Anjeun muka wewengkon"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "di payunana"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "jeung ⟨eta⟩ ngararatrak"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "akar-akarna"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "jeung ⟨eta⟩ ngeusian"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:33.195726682Z",
+  "model": "glm-5.3"
+}

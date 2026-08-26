@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Saha nu bisa ngadongengkeun kagagahan-kagagahan Yahwe? Saha nu bisa ngadengekeun sadayana puji-pujian-Na?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Saha"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ngadongengkeun"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "kagagahan-kagagahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ngadengekeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "puji-pujian-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:39.417981896Z",
+  "model": "glm-5.3"
+}

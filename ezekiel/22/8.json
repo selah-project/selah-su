@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Hal-hal suci Kami anu dipikahina, jeung ⟨את⟩ poé-poé saptu Kami anu ditistarkeun.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "hal-hal suci Kami"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "dipikahina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "poé-poé saptu Kami"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "poé-poé saptu Kami"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ditistarkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:50:39.721709568Z",
+  "model": "glm-5.3"
+}

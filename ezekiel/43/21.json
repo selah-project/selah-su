@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Sarta anjeun bakal nyandak ⟨את⟩ ⟨sapi⟩ korban dosa, jeung émbahna dibakar di tempat anu ditangtukeun tina imah, di luar tempat sucina.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "sarta anjeun bakal nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "⟨sapi⟩"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "jeung émbahna dibakar"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "di tempat anu ditangtukeun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tina imah"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "tempat sucina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:00:58.034347022Z",
+  "model": "glm-5.3"
+}

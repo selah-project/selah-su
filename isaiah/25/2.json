@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sabab anjeun geus ngajadikeun kota jadi munding batu, kota bénték jadi rugrug; batur ti dayeuh urang jadi euweuh kotea, moal diadegkeun deui salawasna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "anjeun geus ngajadikeun"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "jadi munding batu"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "bénték"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "jadi rugrug"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "bénténg"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "batur"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ti kota"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "diadegkeun deui"
+    }
+  ],
+  "timestamp": "2026-08-26T13:07:51.940673345Z",
+  "model": "glm-5.3"
+}

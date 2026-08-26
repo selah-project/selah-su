@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Lavan nyirikai dina isuk-isuk, tuluy ngoméan ⟨את⟩ putra-putrana jeung ⟨את⟩ putri-putrina, sarta ngaberkahan ⟨את⟩ maranehna; lajeng manehna indit, sarta Lavan balik deui ka tempatna.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nyirikai"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dina isuk-isuk"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "ngoméan"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "jeung putri-putrina"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ngaberkahan"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ka tempatna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:09.672058694Z",
+  "model": "glm-5.3"
+}

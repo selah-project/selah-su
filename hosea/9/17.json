@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Elohim kuring nampik aranjeunna, sabab aranjeunna teu ngadangu ka Anjeunna, sarta aranjeunna jadi nu ngumbara di antara bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "nampik aranjeunna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "nu ngumbara"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:16.971834674Z",
+  "model": "glm-5.3"
+}

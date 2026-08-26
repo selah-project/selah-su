@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 150,
+  "translation": "Sadayana nu boga napas nyepuji Yah; haléluya, Haléluya!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "nu boga napas"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "nyepuji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Haléluya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Haléluya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:53.133825970Z",
+  "model": "glm-5.3"
+}

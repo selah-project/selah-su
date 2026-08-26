@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung manéhna ngantosan tujuh poé, numutkeun waktu patepung nu ditangtukeun ku Shemuel; tapi Shemuel moal datang ka Gilgal, laju bangsa ngencar ti palebahna.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Jeung manéhna ngantosan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "numutkeun waktu patepung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ka Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "jeung ngencar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ti palebahna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:00.111251976Z",
+  "model": "glm-5.3"
+}

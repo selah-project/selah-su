@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung teu naros ka Yahwe, jadi Anjeunna maéhanana, sarta malingkeun ⟨את⟩ karajaan ka David putra Yishay.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "naros"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "jadi Anjeunna maéhanana"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "sarta malingkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajaan"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ka David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-08-26T16:09:15.903193291Z",
+  "model": "glm-5.3"
+}

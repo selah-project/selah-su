@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung aranjeunna ngocéskeun getih nu teu boga dosa — getih putra-putra jeung putri-putrina, nu maranéhna korbankeun ka berhala-berhala Kenaan; sarta ⟨itu⟩ taneuh jadi najis ku getih-getih.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "ngocéskeun"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nu teu boga dosa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "putri-putrina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "korbankeun"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "ka berhala-berhala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "jadi najis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ku getih-getih"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:07.149715695Z",
+  "model": "glm-5.3"
+}

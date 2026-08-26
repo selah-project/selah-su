@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Laju imam ngaduruk ⟨את⟩ gajih dina altár, sarta dada jadi milik Aharon jeung putra-putrana.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Laju ngaduruk"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gajih"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gajih"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "dina altár"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dada"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pikeun Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "jeung putra-putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:06.134384323Z",
+  "model": "glm-5.3"
+}

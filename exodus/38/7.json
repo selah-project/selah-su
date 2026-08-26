@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung anjeunna mawa ⟨את⟩ tihang-tihang kana cincin-cincin, di sisi-sisi altar, pikeun mawa ⟨את⟩-na ku maranéhna; kolumbung ku papan anjeunna nyieun ⟨את⟩-na.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tihang-tihang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tihang-tihang"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "kana cincin-cincin"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sisi-sisi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pikeun mawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "ku maranéhna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku maranéhna"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "kolumbung"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ku papan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "(altar)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:47.921576700Z",
+  "model": "glm-5.3"
+}

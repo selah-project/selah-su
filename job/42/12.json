@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Sarta Yahwe ngaberkah ⟨את⟩ tungtung hirup Iyob leuwih ti mimitina; sarta jadi dipibandana opat belas réwu domba, genep réwu onta, saréwu pasang sapi, jeung saréwu kuda héuan bikang.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ngaberkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tungtung hirup Iyob"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "tungtung hirup"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ti mimitina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dipibandana"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "opat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "réwu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "genep"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "réwu"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "onta"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "saréwu"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "pasang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "saréwu"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "kuda héuan bikang"
+    }
+  ],
+  "timestamp": "2026-08-26T15:23:59.019475234Z",
+  "model": "glm-5.3"
+}

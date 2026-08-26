@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Ngabuktikeun ku kecap nu teu mangpaat, sarta omong-omong nu teu mawa guna di jerona?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Ngabuktikeun"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ku kecap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "mangpaat"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "sarta-omong-omong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "mawa guna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T15:09:07.812223859Z",
+  "model": "glm-5.3"
+}

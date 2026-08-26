@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Jeung ku Ngaran Yahwe kuring ngerjer: sumangan, Yahwe, palastarijen ⟨ה⟩ nefesh kuring.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "jeung ku Ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kuring ngerjer"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "sumangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "palastarijen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:38.287014266Z",
+  "model": "glm-5.3"
+}

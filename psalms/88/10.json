@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Panon kuring layu kusabab katungsaran kuring; kuring geus nyaur Anjeun, Yahwe, sapoe-sapoe; kuring ngunjalkeun ka Anjeun dampal leungeun kuring.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "layu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kusabab"
+    },
+    {
+      "surface": "עני",
+      "gloss": "katungsaran kuring"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nyaur Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sacara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sapoe-sapoe"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ngunjalkeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dampal leungeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:16.555861928Z",
+  "model": "glm-5.3"
+}

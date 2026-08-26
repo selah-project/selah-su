@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Bérilanana abdi kajujuran, wahai Elohim, jeung pérla perkarana abdi ngalawan bangsa nu teu bakti, ti jalma nu nipu jeung zolim, paliktarakeun abdi.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "bérilanana abdi kajujuran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "jeung pérla"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "perkarana abdi"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ngalawan bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "bakti"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ti jalma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "nu nipu"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "jeung zolim"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "paliktarakeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:30.183082079Z",
+  "model": "glm-5.3"
+}

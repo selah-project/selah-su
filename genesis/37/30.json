@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna balik deui ka sadulur-sadulurna, jeung anjeunna nyarita: \u0000aeuyang éta euweuh, jeung kuring—ka mana kuring mawa diri?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "aeuyang éta"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka mana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mawa diri"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:24.167268160Z",
+  "model": "glm-5.3"
+}

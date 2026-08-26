@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Maranéhna ngosongkeunana ka leungeun pedang; jadi bagian sandsakal.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ngosongkeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "sandsakal"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:22.394482865Z",
+  "model": "glm-5.3"
+}

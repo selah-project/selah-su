@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Kuring ngancurkeun aranjeunna, aranjeunna teu sanggup liriing, aranjeunna ragrag di sahandapeun suku kuring.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "kuring ngancurkeun aranjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "קום",
+      "gloss": "liriing"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "aranjeunna ragrag"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di sahandapeun"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "suku kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:17.140118068Z",
+  "model": "glm-5.3"
+}

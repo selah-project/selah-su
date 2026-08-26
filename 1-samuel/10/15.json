@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lanceukna bapa Saúl nyarita: Caritakeun punten ka abdi naon nu diprinta Samuél ka aranjeunnang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lanceukna bapa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nu diprinta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka aranjeunnang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuél"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:50.999581819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "sarta upama anjeun nampik katangtuan Kami, sarta upama ⟨את⟩ hukum Kami jiwa anjeun ngarandeu, mun teu ngalaksanakeun ⟨את⟩ sadaya parentah Kami, malik ngancurkeun ⟨את⟩ perjangjian Kami;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sarta upama"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "katangtuan Kami"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "anjeun nampik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sarta upama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum Kami"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum Kami"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ngarandeu"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jiwa anjeun"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mun teu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya parentah Kami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah Kami"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "pikeun ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian Kami"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:17.741579555Z",
+  "model": "glm-5.3"
+}

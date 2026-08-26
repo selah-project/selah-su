@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Abdi muji Anjeun, Adonay, Elohim kuring, ku sakabéh haté abdi; sarta abdi badé ngamulyakeun Jenengan-Mu salawasna.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Abdi muji Anjeun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sakabéh"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "haté abdi"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "sarta abdi badé ngamulyakeun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:54.288354716Z",
+  "model": "glm-5.3"
+}

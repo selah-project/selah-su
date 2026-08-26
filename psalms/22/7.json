@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Ari abdi ⟨mah⟩ hueung, lain jalmi; cincai manusa, sarta nu dipicing ku balaréa.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ari abdi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "hueung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalmi"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "cincai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "nu dipicing"
+    },
+    {
+      "surface": "עם",
+      "gloss": "balaréa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:30.033381822Z",
+  "model": "glm-5.3"
+}

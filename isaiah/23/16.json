@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Sok mawa kecapi, ingkeungeun ⟨את⟩ kota, hé palacur nu geus poho; saémkeununkun sonu-socana, lilukeunana lagu, sangkan anjeun diémutan deui.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "sok mawa"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kecapi"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "ingkeungeun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨את⟩ kota",
+      "marks": "kota"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "palacur"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "nu geus poho"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "saémkeununkun sonu-socana"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "sora-sora"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "lilukeunana"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "diémutan deui"
+    }
+  ],
+  "timestamp": "2026-08-26T13:07:56.523051572Z",
+  "model": "glm-5.3"
+}

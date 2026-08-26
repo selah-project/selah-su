@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Yahwe Adonay urang, naha kadegna Jenengan-Mu di sadaya bumi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonay urang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kadegna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:50.788506361Z",
+  "model": "glm-5.3"
+}

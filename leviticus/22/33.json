@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Nu mawa aranjeun kaluar tina tanah Mitsrajim pikeun jadi Elohim munggaran aranjeun — abdi Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Nu mawa kaluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "pikeun jadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "munggaran aranjeun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:38.262001576Z",
+  "model": "glm-5.3"
+}

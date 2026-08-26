@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras mangtina manéhna baré bobo, anjeun inget-tempat di mana manéhna bobo ditu; lajeng anjeun asup, muka tutup suku-sukuna, lajeng anjeun bobo ditu; jeung manéhna bakal nyaritakeun ka anjeun ⟨את⟩ nu kudu dipigawé.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras mangtina"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "manéhna baré bobo"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "anjeun inget-tempat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "manéhna bobo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ditu"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "anjeun asup"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "muka tutup"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "suku-sukuna"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "anjeun bobo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jeung manéhna"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bakal nyaritakeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu kudu dipigawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "kudu dipigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:26:29.781557731Z",
+  "model": "glm-5.3"
+}

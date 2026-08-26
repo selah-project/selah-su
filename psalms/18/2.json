@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sarta anjeunna ngomong: Kuring bakal nanyaah ka Anjeun, wahai Yahwe, kakuatan kuring.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta anjeunna ngomong"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "kuring bakal nanyaah ka Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "kakuatan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:17.070424987Z",
+  "model": "glm-5.3"
+}

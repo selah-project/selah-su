@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Achap mios ngagero Obadyahu anu ngawasa ⟨the⟩ imah; sarta Obadyahu éta jalma anu sieun pisan ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mios ngagero"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngawasa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "sarta Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sieun\/revere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:19.009407227Z",
+  "model": "glm-5.3"
+}

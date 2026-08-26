@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung ⟨ka⟩ bumi asing ulah nyarékah nyarieun, jeung ulah nyeupeu-eupeu anjeunna, sabab ku anjeun geus jadi bumi asing di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "jeung bumi asing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "nyarékah nyarieun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "nyeupeu-eupeu anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bumi asing"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "anjeun geus jadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:23.893831733Z",
+  "model": "glm-5.3"
+}

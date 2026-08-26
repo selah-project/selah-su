@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sabab di mana aya kecap raja, di dinya aya kakawasaan, jeung saha nu bisa nyarita ka anjeunna: naon nu anjeun pigawé?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "kakawasaan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jeung saha"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nu anjeun pigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:25.708338889Z",
+  "model": "glm-5.3"
+}

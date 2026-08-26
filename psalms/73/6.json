@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Kukituna sombong jadi kalung maranéhna, kahancak mararisik nutupan maranéhna.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kukituna"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "jadi kalung maranéhna"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "sombong"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "mararisik nutupan"
+    },
+    {
+      "surface": "שית",
+      "gloss": "pakéan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kahancak"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:27.265963582Z",
+  "model": "glm-5.3"
+}

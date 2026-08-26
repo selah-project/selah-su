@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Nu jahat ngahayang jaring jalma-jalma jahat, tapi akar nu bener bakal mere ⟨buah⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "ngahayang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "tapi akar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bakal méré"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:27.979233039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung maranjeunana ngajawab ⟨את⟩ Yehosua, ngandika: Sagala nu anjeun paréntahkeun ka kami, kami lakonan, jeung ka sagala tempat nu anjeun kiriman kami, kami indit.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "anjeun paréntahkeun ka kami"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kami lakonan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "anjeun kiriman kami"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kami indit"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:59.163174056Z",
+  "model": "glm-5.3"
+}

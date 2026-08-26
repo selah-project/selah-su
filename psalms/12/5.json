@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Anu geus ngomong: ku luncur kami kami ngaronjatkeun kakuatan, biwir kami aya ⟨את⟩ jeung kami — saha ⟨nu jadi⟩ adun pikeun kami?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "geus ngomong"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "ku luncur kami"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "ngaronjatkeun kakuatan"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "biwir kami"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ jeung kami"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "adun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:59.594504265Z",
+  "model": "glm-5.3"
+}

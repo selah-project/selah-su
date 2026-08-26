@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Sabab maranéhna geus nyeukeunan haté Moshe, nepi ka anjeunna ngomong teu eling ku biwirna",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "geus nyeukeunan haté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haté anjeunna"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "haté anjeunna"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "nepi ka ngomong teu eling"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ku biwirna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:44.725783188Z",
+  "model": "glm-5.3"
+}

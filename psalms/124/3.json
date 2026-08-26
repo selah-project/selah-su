@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 124,
+  "translation": "mangka hirup kénéh arinduna geus naleungkeun urang, nalika ambek arinduna ngora ka urang.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup kénéh"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "geus naleungkeun urang"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "nalika ngora"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "ambek arinduna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ka urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:06.669817083Z",
+  "model": "glm-5.3"
+}

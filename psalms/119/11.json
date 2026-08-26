@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Dina ati abdi abdi nyimpen ⟨את⟩ sabda-Mu, sangkan teu babar dosa ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "Dina ati abdi"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "abdi nyimpen"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sabda-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "babar dosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:10.012557494Z",
+  "model": "glm-5.3"
+}

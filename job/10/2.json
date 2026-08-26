@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kuring baris nyarita ka Eloah: ulah ngahukum kuring salah; tandakeun ka kuring naha anjeun ngareureuyuh kuring.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kuring baris nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "ngahukum kuring salah"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "tandakeun ka kuring"
+    },
+    {
+      "surface": "על",
+      "gloss": "naha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "ngareureuyuh kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:32.109988739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Poé ka poé nguciskeun omongan, jeung peuting ka peuting matalikeun pangaweruh.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ka poé"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "nguciskeun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "omongan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jeung peuting"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ka peuting"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "matalikeun"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:30.683116213Z",
+  "model": "glm-5.3"
+}

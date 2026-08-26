@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Sabab manéhna nyaho rarancang urang; manéhna éling yén urang ⟨are⟩ keusik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "rarancang urang"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "éling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "keusik"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:25.818729048Z",
+  "model": "glm-5.3"
+}

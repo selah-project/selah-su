@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung Adah babar pikeun Esav ⟨את⟩ Elifaz, jeung Bosmat babar ⟨את⟩ Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Jeung (adina) babar"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "pikeun Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "jeung Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "babar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:07.105805639Z",
+  "model": "glm-5.3"
+}

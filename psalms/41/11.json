@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Tapi Anjeun, wahai Yahwe, asih-rahmat ka abdi, sarta bugangkeun abdi, supaya abdi mayar balik ⟨ka⟩ maranehna.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "asih-rahmat ka abdi"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "bugangkeun abdi"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "supaya abdi mayar balik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ka⟩ maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:37:59.060631777Z",
+  "model": "glm-5.3"
+}

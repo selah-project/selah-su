@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 114,
+  "translation": "Naha karé Anjeun, hai laut, nepi ka ngarungsi? Hai Yarden, nepi ka malik ka tukang?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "karé Anjeun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hai laut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ngarungsi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Hai Yarden"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "malik"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ka tukang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:17.397677831Z",
+  "model": "glm-5.3"
+}

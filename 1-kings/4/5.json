@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Azaryahu putra Natan, di luhureun ⟨para⟩ pangamping; jeung Zavud putra Natan, imam, babaturan ⟨ Sang Raja ⟩.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Jeung Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "⟨para⟩ pangamping"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "jeung Zavud"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "babaturan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨Sang Raja⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T16:54:15.148733280Z",
+  "model": "glm-5.3"
+}

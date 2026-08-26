@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Naha kuring kedah sieun dina poé-poé kaheureuyan, sabot kalalainan dina tumapak suku kuring nguriling kuring?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dina poé-poé"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kaheureuyan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalalainan"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "dina tumapak suku kuring"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "nguriling kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:47.842402678Z",
+  "model": "glm-5.3"
+}

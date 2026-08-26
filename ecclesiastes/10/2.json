@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Ati nu wijaksana ⟨di⟩ leungeun katuhuna, sedengkeun ati nu bodo ⟨di⟩ leungeun kenca.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nu wijaksana"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "di leungeun katuhuna"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "sedengkeun ati"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nu bodo"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "di leungeun kenca"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:50.724857425Z",
+  "model": "glm-5.3"
+}

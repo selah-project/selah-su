@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "⟨את⟩ sagara hiji, jeung ⟨את⟩ munding-munding dua belas di sahandapeunana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "munding-munding"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "munding-munding"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "dihandapeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:37.313561958Z",
+  "model": "glm-5.3"
+}

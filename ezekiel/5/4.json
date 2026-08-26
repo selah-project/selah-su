@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta ti maranehna deui anjeun keurkeun, sarta lunggangkeun ⟨את⟩ maranehna ka jero seuneu, sarta duruk ⟨את⟩ maranehna ku seuneu; ti dinya kaluar seuneu ka sakuliah rumah tangga Yisrael.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "sarta ti maranehna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "anjeun keurkeun"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "sarta lunggangkeun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ maranehna",
+      "marks": "ka jero seuneu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "jero"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "sarta duruk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ maranehna",
+      "marks": "ku seuneu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakuliah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah tangga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T13:44:59.563224450Z",
+  "model": "glm-5.3"
+}

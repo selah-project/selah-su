@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sarta aranjeun nyarita kitu: Hirup langgeng! Jeung anjeun, baresih; jeung imah anjeun, baresih; jeung sadaya nu gaduh anjeun, baresih.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "anjeun nyarita"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "kana hirup"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "baresih"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "imah anjeun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "baresih"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaduh anjeun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "baresih"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:59.565399901Z",
+  "model": "glm-5.3"
+}

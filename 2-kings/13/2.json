@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung manéhna ngalakukeun nu jahat dina panon Yahwe, sarta milu dina dosa Yarovam putra Nevat nu mawa Israél ka dosa; manéhna teu mundur ti itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung manéhna ngalakukeun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sarta milu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dina"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "mawa ka dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "סר",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ti itu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:06.095070404Z",
+  "model": "glm-5.3"
+}

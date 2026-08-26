@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Sabab anjeun geus ngabébaskeun haté mah ti maot, ⟨את⟩ panon mah ti cicih, ⟨את》 sukuna mah ti kasorang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "anjeun geus ngabébaskeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "haté mah"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ti maot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panon mah"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon mah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "cicih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sukuna mah"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sukuna mah"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ti kasorang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.463217920Z",
+  "model": "glm-5.3"
+}

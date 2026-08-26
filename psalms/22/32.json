@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Maranehna bakal datang jeung miberitakeun kabeneran-Na ka hiji bangsa nu bakal lahir, sabab Anjeunna geus ngalakukeunana.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "bakal datang"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "jeung miberitakeun"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kabeneran-Na"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ka hiji bangsa"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "nu bakal lahir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geus ngalakukeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:12.494042668Z",
+  "model": "glm-5.3"
+}

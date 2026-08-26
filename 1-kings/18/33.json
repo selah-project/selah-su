@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung maréntahkeun kana ⟨את⟩ kai-kai, laju nyiksik ⟨את⟩ lembu, laju nempatkeunana di luhur kai-kai.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kai-kai"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kai-kai"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "nyiksik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nempatkeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kai-kai"
+    }
+  ],
+  "timestamp": "2026-08-26T12:46:00.223436384Z",
+  "model": "glm-5.3"
+}

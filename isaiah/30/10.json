@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Anu nyarita ka para panempo: 'Ulah maripih,' jeung ka para panarita roh: 'Ulah narita ka kami ⟨hal⟩ nu lempeng; caritakeun ka kami nu méréah; tempona ngan kadustaan.'",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Anu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "ka para panempo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "maripih"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "jeung ka para panarita roh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "narita (nempo roh)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "nu méréah"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "tempona"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "kadustaan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:38.121787513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Tur diparéankeunana ⟨את⟩ tatutup panto pikeun ⟨ieu⟩ pamondokan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "diparéankeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tatutup panto"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tatutup"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pikeun ⟨ieu⟩ pamondokan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:45.803972780Z",
+  "model": "glm-5.3"
+}

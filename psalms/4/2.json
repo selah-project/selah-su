@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Nalika kuring ngaréruruh, walesan kuring, Élohim kabeneran kuring; dina kasusah Anjeun ngalegaan kuring; amphian kuring, sarta ngadangu solat kuring.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "nalika kuring ngaréruruh"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "walesan kuring"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "kabeneran kuring"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dina kasusah"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "Anjeun ngalegaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "amphian kuring"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "sarta ngadangu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "solat kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:25.372885991Z",
+  "model": "glm-5.3"
+}

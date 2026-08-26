@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "⟨את⟩ bulan jeung ⟨béntang-béntang⟩ pikeun maréntah peuting, sabab ka salawasna kanyaah-satia-Na.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "jeung béntang-béntang"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "pikeun maréntah"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.357284299Z",
+  "model": "glm-5.3"
+}

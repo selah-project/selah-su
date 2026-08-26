@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Teras abdi meuli ⟨את⟩ iket 〈eta〉 nurutkeun kecap Yahwe, sarta dipangkeun dina pingping abdi.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Teras abdi meuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iket"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "iket"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nurutkeun kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "dipangkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "pingping abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:01:17.944931478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Teras Dawid ngirim sapuluh rumaja, sarta Dawid ngomong ka ⟨para⟩ rumaja: Mengkat ka Karmel, asup ka Nabal, terus ménta kabaresihan ka anjeunna ku ngaran abdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "rumaja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "ka ⟨para⟩ rumaja"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "mengkat"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "ka Karmel"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "menta kabaresihan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ku ngaran abdi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kana kabaresihan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:59.565107431Z",
+  "model": "glm-5.3"
+}

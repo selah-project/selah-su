@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Berhala maranéhna ⟨mah⟩ perak jeung emas, karya leungeun manusa.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "berhala maranéhna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jeung emas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:29.253853282Z",
+  "model": "glm-5.3"
+}

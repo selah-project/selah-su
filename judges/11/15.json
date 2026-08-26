@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "jeung nyarita ka anjeunna: Kitu kataji Yiftach: Moal nyandak Israyél ⟨את⟩ taneuh Moab jeung ⟨את⟩ taneuh anak-anak Amon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kataji"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh anak-anak Amon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-08-26T12:08:19.071275417Z",
+  "model": "glm-5.3"
+}

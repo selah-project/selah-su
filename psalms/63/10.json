@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Jeung maranéhna nu néangan karuksakan nefes kuring, asup ka bagian panghandapna ⟨(⟩)bumi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "jeung maranéhna"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "karuksakan"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "néangan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes kuring"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "asup ka"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "bagian panghandapna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:22.394342561Z",
+  "model": "glm-5.3"
+}

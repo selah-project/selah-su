@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Ngadagoan kuring ngadagoan Yahwe, tuluy manéhna ngaleungeunan ka kuring sarta ngadangu jerit kuring.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ngadagoan"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "kuring ngadagoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "tuluy manéhna ngaleungeunan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "sarta ngadangu"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "jerit kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:46.122177223Z",
+  "model": "glm-5.3"
+}

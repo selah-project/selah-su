@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Pikeun netepkeun ka maranehna, sangkan maranehna jadi ngalaksanakeun ⟨את⟩ poé opat belas dina bulan Adar, jeung ⟨את⟩ poé lima belas dina éta bulan, dina unggal taun jeung taun.",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "pikeun netepkeun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sangkan jadi"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poé"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "opat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ו",
+      "gloss": "⟨את⟩ jeung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poé"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina éta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina unggal"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "jeung taun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:22:04.871153103Z",
+  "model": "glm-5.3"
+}

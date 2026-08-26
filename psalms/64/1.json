@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Ku nu mingpin mizmor; ku Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku nu mingpin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:53.009368857Z",
+  "model": "glm-5.3"
+}

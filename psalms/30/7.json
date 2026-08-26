@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Ari abdi, basa keur tengtrem abdi ngomong: teu wilah abdi ngaguncang, salawasna.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ari abdi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "basa tengtrem abdi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu wilah"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ngaguncang"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:29.174373067Z",
+  "model": "glm-5.3"
+}

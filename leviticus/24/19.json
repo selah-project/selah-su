@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung saurang jalma, upama méré cacad ka sasamana, kumaha anu dipigawéna, kitu ogé dipigawé ka manehna.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Jeung saurang jalma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upama"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "מום",
+      "gloss": "cacad"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ka sasamana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawéna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:53.779340282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung ieu mangrupa katurunan Terax: Terax ngalahirkeun ⟨את⟩ Avram, ⟨את⟩ Naxor, jeung ⟨את⟩ Haran; jeung Haran ngalahirkeun ⟨את⟩ Lot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "jeung Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:05.715626586Z",
+  "model": "glm-5.3"
+}

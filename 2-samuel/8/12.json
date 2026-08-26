@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Ti Aram, ti Moab, ti anak-anak Ammon, ti Peleshet, ti Amalek, jeung ti rampasan Hadadezer anak Rehov, raja Tsobah.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "jeung ti Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "jeung ti anak-anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "jeung ti Peleshet"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "jeung ti Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "jeung ti rampasan"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsobah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:52.822298062Z",
+  "model": "glm-5.3"
+}

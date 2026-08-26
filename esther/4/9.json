@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Tuluy Hathak datang sarta ngabejakeun ka Ester ⟨את⟩ omongan Mordekhai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "tuluy datang"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "sarta ngabejakeun"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ka Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omongan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "omongan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:48.777999206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung anjeun nyandak tipung lemes, jeung ngabeuleum ⟨את⟩-na dua belas roti; dua sapuluh-bagian jadi unggal roti nu hiji.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jeung anjeun nyandak"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tipung lemes"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "jeung ngabeuleum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dua belas roti"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "roti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "sapuluh-bagian"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "roti"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nu hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:58.296148121Z",
+  "model": "glm-5.3"
+}

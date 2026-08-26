@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 79,
+  "translation": "Sarta mulangkeun ka tatangga-tatangga urang tujuh kali kana amparan maranehna hajad nu ngahajad ka-Mu, nu geus ngahajad ka-Mu, Adonay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Sarta mulangkeun"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ka tatangga-tatangga urang"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "tujuh kali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "amparan maranehna"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "hajad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ngahajad ka-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:52.305510195Z",
+  "model": "glm-5.3"
+}

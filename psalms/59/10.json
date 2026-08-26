@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Kakuatanna — ka Anjeun kuring jaga jaga; sabab Elohim ‹⟨is⟩› benteng kuring.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Kakuatanna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "kuring jaga jaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "benteng kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:38.179008132Z",
+  "model": "glm-5.3"
+}

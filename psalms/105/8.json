@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Nginget salawasna perjangjian-Na, ⟨kungsi⟩ kecap nu Diparentahkeun nepi ka sarébu katurunan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Nginget"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjangjian-Na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nu Diparentahkeun"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "nepi ka sarébu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "katurunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:17.070092728Z",
+  "model": "glm-5.3"
+}

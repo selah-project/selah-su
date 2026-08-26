@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Avraham sunat ⟨את⟩ Yitsxak putrana, putra umur dalapan poé, saperti anu diparéntahkeun Elohim ⟨את⟩ ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Jeung sunat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka anjeunna (Avraham)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:58.114081558Z",
+  "model": "glm-5.3"
+}

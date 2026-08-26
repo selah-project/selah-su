@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Jeung Anjeun ⟨is⟩ Nu Sarua, jeung taun-taun Anjeun moal tungtung.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Jeung Anjeun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Nu Sarua"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "jeung taun-taun Anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "tungtung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:42.550529577Z",
+  "model": "glm-5.3"
+}

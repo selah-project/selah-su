@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Ngan ukur ti kaluhuranana maranéhna ngarancang pikeun ngadirugukeun; aranjeuna karenan ku kebohongan; ku bahuna maranéhna mberkahi, tapi jero jerona maranéhna ngakanget-kanget. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngan ukur"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "ti kaluhuranana"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "maranéhna ngarancang"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "pikeun ngadirugukeun"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "anjeuna karenan"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ku kebohongan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ku bahuna"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "maranéhna mberkahi"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "tapi jero jerona maranéhna"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "ngakanget-kanget"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:25.544656694Z",
+  "model": "glm-5.3"
+}

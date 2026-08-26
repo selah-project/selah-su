@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 138,
+  "translation": "Dina poé anu kaliwat abdi ngagero, Anjeun ngajawab abdi, Anjeun ngawurukan kamungkinan dina jiwa abdi — kakuatan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Dina poé"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "abdi ngagero"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "Anjeun ngajawab abdi"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "Anjeun ngawurukan kamungkinan"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "dina jiwa abdi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:25.000864974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Manehun ngarahap di tempat nyumput, saperti singa di ronjodanna; manehun ngarahap pikeun nyarampad ⟨את⟩ nu miskin; nyarampad ⟨את⟩ nu miskin dina metotna, dina jaringna.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "manehun-ngarahap"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "di-tempat-nyumput"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "saperti-singa"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "di-ronjodanna"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ngarahap"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "pikeun-nyarampad"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu-miskin"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "nyarampad"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu-miskin"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "dina-metotna"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "dina-jaringna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:18.892196684Z",
+  "model": "glm-5.3"
+}

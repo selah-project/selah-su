@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Batu-batu anu gembleng maneh ngawangun ⟨את⟩ mimban Yahwe Elohim-mah, jeung maneh naékkeun ka luhurna kurban bakar pikeun Yahwe Elohim-mah.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "anu gembleng"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "maneh ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mimban"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mimban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mah"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "jeung maneh naékkeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka luhurna"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:17.437721305Z",
+  "model": "glm-5.3"
+}

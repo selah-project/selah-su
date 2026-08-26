@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Kirimah kuring, Yahwe; tempo papaés kuring tina nu menci kuring; anu ngangkat kuring tina panto-panto kematian.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "kirimah kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "papaés kuring"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "tina nu menci kuring"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "anu ngangkat kuring"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "tina panto-panto"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kematian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:27.724521298Z",
+  "model": "glm-5.3"
+}

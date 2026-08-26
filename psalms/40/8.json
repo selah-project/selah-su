@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Mangka kuring nyarita: nétéla, kuring sumping; dina gulungan kitab katulis ngeunaan kuring.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kuring nyarita"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nétéla"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kuring sumping"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "dina gulungan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "katulis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngeunaan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:56.973108949Z",
+  "model": "glm-5.3"
+}

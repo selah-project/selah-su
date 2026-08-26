@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung bènghéng biru, jeung bènghéng beureum ngora, jeung beureum karmesina, jeung dat nu alus, jeung buuk embé.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "jeung bènghéng biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jeung bènghéng beureum ngora"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jeung (beureum) karmesina"
+    },
+    {
+      "surface": "שני",
+      "gloss": "karmesina"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeung dat nu alus"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "jeung buuk embé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:11.784125442Z",
+  "model": "glm-5.3"
+}

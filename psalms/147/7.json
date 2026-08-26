@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Wawalesan Yahwe ku sukur; zamrahkeun ka Elohim urang ku kecapi.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Wawalesan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ku sukur"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zamrahkeun"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ka Elohim urang"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ku kecapi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:26.617162806Z",
+  "model": "glm-5.3"
+}

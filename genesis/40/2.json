@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Maka Paroh ambek ka dua babaturan karatonna, ka pangulu nu nginumkeun jeung ka pangulu nu ngabebere.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "ambek"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "babaturan karatonna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "nu nginumkeun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "nu ngabebere"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:19.321735703Z",
+  "model": "glm-5.3"
+}

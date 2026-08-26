@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung ⟨את⟩ sakadang-sakadangana dijieun, jeung ⟨את⟩ banda-banda cai ngumbahna dijieun luhureun sakadang-sakadang éta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakadang-sakadang"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "sakadang-sakadang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "banda-banda cai ngumbah"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "banda-banda cai ngumbah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "sakadang-sakadang"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:37.313357518Z",
+  "model": "glm-5.3"
+}

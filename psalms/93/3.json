@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 93,
+  "translation": "Ngangkat walungan, he Yahwe, ngangkat walungan sorana, ngangkat walungan ombakna nu ngagebug.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sorana"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ombakna nu ngagebug"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:47.570184569Z",
+  "model": "glm-5.3"
+}

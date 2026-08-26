@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Jeung langit-langit mapatahan kabeneran-Na, sabab Elohim Nu Ngahukum — dirina. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Jeung mapatahan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "kabeneran-Na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Nu Ngahukum"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dirina"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:53.531387936Z",
+  "model": "glm-5.3"
+}

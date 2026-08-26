@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Di Yerushalaim nyicingan ti putra-putra Yehudah, ti putra-putra Binyamin, ti putra-putra Efrayim, jeung Ménashe.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Di Yerushalaim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nyicingan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "jeung Ménashe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:32.636065658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Nu ngampeungkeut nu miskin sangkan beunghar, nu méré ka nu beunghar — tangtu ngan ukur keur kalahiran.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "ngampeungkeut"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "sangkan beunghar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dirina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ka nu beunghar"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tangtu ngan ukur"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "keur kalahiran"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:21.008628405Z",
+  "model": "glm-5.3"
+}

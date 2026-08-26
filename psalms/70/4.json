@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 70,
+  "translation": "Balik deui ku alatan éranana, aranjeuna anu nyarita: Hé-ah, hé-ah.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku alatan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "balukar"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "éranana"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "anjeuna anu nyarita"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé-ah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé-ah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:05.889469678Z",
+  "model": "glm-5.3"
+}

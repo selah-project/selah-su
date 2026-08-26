@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sanggeus Yahwe ngandik ka Moshe, bakal sabda:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandik sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bakal sabda"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:07.265071535Z",
+  "model": "glm-5.3"
+}

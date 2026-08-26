@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jaga diri anjeun ulah nepi ka anjeun nyingkirkeun ⟨את⟩ urang Lewi, sapanjang poé anjeun di luhur taneuh anjeun.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "jaga diri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ulah nepi ka"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "anjeun nyingkirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Lewi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "urang Lewi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "poé anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "taneuh anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:17.386829605Z",
+  "model": "glm-5.3"
+}

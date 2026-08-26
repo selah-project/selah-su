@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Leungeun ka leungeun, nu jahat moal luput tina hukuman, tapi binih nu bener bakal salamet.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ka leungeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "luput tina hukuman"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "tapi binih"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "salamet"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:10.308517098Z",
+  "model": "glm-5.3"
+}

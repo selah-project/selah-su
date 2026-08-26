@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sarta Yahwe ngadéngékeun sora Yisrael, sarta masrahkeun ⟨את⟩ urang Kaanan, sarta maranéhna ngahérémkeun maranéhna jeung ⟨את⟩ kota-kotana; sarta dingaranan ngaran tempat éta Kharma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadéngékeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "masrahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kaanan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kaanan"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "ngahérémkeun"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ maranéhna",
+      "marks": "urang Kaanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kota-kotana"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kota-kotana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dingaranan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat éta"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Kharma"
+    }
+  ],
+  "timestamp": "2026-08-26T11:32:40.087277533Z",
+  "model": "glm-5.3"
+}

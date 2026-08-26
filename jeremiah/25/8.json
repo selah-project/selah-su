@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Ku kituna kitu sapatah Yahwe Tzvaot: Sabab manéh teu ngadangu ⟨את⟩ kecap-kecapna,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ku kituna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sapatah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecapna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecapna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:30:19.923916588Z",
+  "model": "glm-5.3"
+}

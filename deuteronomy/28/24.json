@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Yahwe bakal méré ⟨את⟩ hujan taneuh anjeun boddas jeung lebu; tina langit bakal turun ka anjeun nepi ka anjeun tinasarua.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "bakal méré"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hujan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "taneuh anjeun"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "boddas"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "jeung lebu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bakal turun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "anjeun tinasarua"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:04.964222710Z",
+  "model": "glm-5.3"
+}

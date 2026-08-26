@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Yahwe, ulah dina kaamuk-Mu anjeun ngabandraa kuring, jeung ulah dina picikasae-Mu anjeun ngabungarkeun kuring.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dina kaamuk-Mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "anjeun ngabandraa kuring"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "dina picikasae-Mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "anjeun ngabungarkeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:44.996352766Z",
+  "model": "glm-5.3"
+}

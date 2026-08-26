@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung ieu nu ulah didahar ti antara aranjeunna: elang, jeung péres, jeung azniyah.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ti antara aranjeunna"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "elang"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "jeung péres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "jeung azniyah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:40.617201701Z",
+  "model": "glm-5.3"
+}

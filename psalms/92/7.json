@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Jalma nu sato henteu nyaho, jeung nu beunghar henteu ngarti ka ⟨את⟩ ieu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nu sato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "jeung nu beunghar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:14.404815756Z",
+  "model": "glm-5.3"
+}

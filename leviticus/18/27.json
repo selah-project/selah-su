@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sabab ⟨את⟩ sadaya kacolétan-kacolétan ieu dipigawé ku jalma-jalma nu di tanah nu saméméh aranjeun, sarta tanah jadi najis.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kacolétan-kacolétan ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "kacolétan-kacolétan"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nu di tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "saméméh aranjeun"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "jadi najis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:34.905544432Z",
+  "model": "glm-5.3"
+}

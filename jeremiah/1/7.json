@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Yahwe nyarita ka kuring: Ulah nyarita 'ngora kuring', sabab ka sadayana nu kuring kirim ka anjeun, anjeun bakal indit, jeung ⟨את⟩ sadayana nu kuring parentahkeun ka anjeun, anjeun bakal nyaritakeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung (Yahwe) nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngora"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka\/nyanghareupan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "kuring kirim ka anjeun"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "anjeun bakal indit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana nu kuring parentahkeun ka anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "kuring parentahkeun ka anjeun"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "anjeun bakal nyaritakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:21:08.315189879Z",
+  "model": "glm-5.3"
+}

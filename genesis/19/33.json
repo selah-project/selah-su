@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Mangka aranjeunna ngasakeun ⟨את⟩ indung bapana aranjeun nginum anggur peuting harita, tur asup ⟨the⟩ nu pangkolotna, sarta saré jeung bapana; tapi anjeunna teu nyaho waktu anjeunna rebah atawa waktu anjeunna ngadeg.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "ngasakeun-nginumkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indung bapana aranjeunna"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "bapana aranjeunna"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "tur asup"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "nu pangkolotna"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "sarta saré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapana"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "waktu anjeunna rebah"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "waktu anjeunna ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:57.707999889Z",
+  "model": "glm-5.3"
+}

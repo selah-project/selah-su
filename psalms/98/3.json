@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 98,
+  "translation": "Geus apal kanyaahna jeung satiana-na ka bani Israil; sadaya tungtung bumi geus nempo ⟨את⟩ kasalametan Elohim urang.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Geus apal"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaahna"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "jeung satiana-na"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "geus nempo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasalametan Elohim urang"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kasalametan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:33.388715647Z",
+  "model": "glm-5.3"
+}

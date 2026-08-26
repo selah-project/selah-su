@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung abdi lalaki anjeun jeung empu awéwé anjeun nu jadi milik anjeun, ti ⟨את⟩ bangsa-bangsa nu sabudeureun anjeun — ti araneuna anjeun meuli abdi jeung empu.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "jeung abdi lalaki anjeun"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "jeung empu awéwé anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mibanda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "sabudeureun anjeun"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ti araneuna"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "anjeun meuli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jeung empu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:42.545703702Z",
+  "model": "glm-5.3"
+}

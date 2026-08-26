@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 120,
+  "translation": "Kawih kana naék-an. Ka Yahwe dina kasusahan abdi kuring nyaur, sareng Anjeunna ngajawab abdi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kawih"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "kana naék-an"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "dina kasusahan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kuring nyaur"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "sareng Anjeunna ngajawab abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:56.468676413Z",
+  "model": "glm-5.3"
+}

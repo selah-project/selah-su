@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Biar maranehna nyumpah, tapi anjeun nu ngaberkahan; maranehna ngadeg teras amoreuk, tapi abdi-Mu bungah.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Biar maranehna nyumpah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tapi anjeun"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "nu ngaberkahan"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "teras amoreuk"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "tapi abdi-Mu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bungah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:48.088882459Z",
+  "model": "glm-5.3"
+}

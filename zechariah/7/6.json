@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta nalika maraneh ngahakan jeung nalika maraneh nginum, naha maraneh sanés nu ngahakan, sarta maraneh nu nginum?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "sarta nalika"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "maraneh ngahakan"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "jeung nalika"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "maraneh nginum"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "naha henteu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "maraneh"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "nu ngahakan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "sarta maraneh"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "nu nginum"
+    }
+  ],
+  "timestamp": "2026-08-26T14:18:53.546339109Z",
+  "model": "glm-5.3"
+}

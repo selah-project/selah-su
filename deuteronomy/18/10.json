@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Ulah aya nu kapanggih di antara anjeun: nu ngaliwatkeun putrana atawa putrina ngaliwatan seuneu, nu ngaramal nasib, nu niténan waktu, nu ngarahyat, jeung nu nyirep.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "kapanggih"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di antara anjeun"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "nu ngaliwatkeun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "putrina"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngaliwatan seuneu"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "nu ngaramal nasib"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ngaramal"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "nu niténan waktu"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "nu ngarahyat"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "nu nyirep"
+    }
+  ],
+  "timestamp": "2026-08-26T11:46:28.832881633Z",
+  "model": "glm-5.3"
+}

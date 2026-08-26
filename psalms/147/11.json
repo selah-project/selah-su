@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Yahwe mikaresep ⟨את⟩ nu milu émut ka Anjeunna, ⟨את⟩ nu ngaharepkeun ka kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "mikaresep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu milu émut ka Anjeunna"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "nu milu émut ka Anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ngaharepkeun"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "nu ngaharepkeun"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "ka kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:07.248081978Z",
+  "model": "glm-5.3"
+}

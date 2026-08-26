@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teras Yahwe ngapedar ka Aharon, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngapedar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:53.214563262Z",
+  "model": "glm-5.3"
+}

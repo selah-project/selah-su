@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Yisrael nyandak ⟨את⟩ sagala kota-kota ieu, lajeng Yisrael dumuk di sagala kota-kota ⟨ka⟩ Emori, di Cheshbon jeung di sagala kampung-kampungna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala kota-kota ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lajeng dumuk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagala"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ka Emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Cheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung di sagala"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kampung-kampungna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:32:02.556241809Z",
+  "model": "glm-5.3"
+}

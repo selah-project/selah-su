@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Raungan singa, sarta sora singa galak, sarta huntu anak-anak singana dicabik.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "raungan"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sarta sora"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singa galak"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "sarta huntu"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "anak-anak singa"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "dicabik"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:32.775832286Z",
+  "model": "glm-5.3"
+}

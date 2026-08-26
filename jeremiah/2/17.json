@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Naha henteu ieu dilakukeun ka anjeun, sabab anjeun ninggalkeun ⟨את⟩ Yahwe, Elohim anjeun, dina waktu Ia mawa anjeun di jalan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "naha henteu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dilakukeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "anjeun ninggalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "mawa anjeun"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:21:52.911010013Z",
+  "model": "glm-5.3"
+}

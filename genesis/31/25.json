@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung Laban nyumponan ⟨את⟩ Yaakov, ari Yaakov geus ngadegkeun khemahna di gunung, jeung Laban ngadegkeun ⟨את⟩ khemah saréréana di gunung Giléad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "nyumponan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ari Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemahna"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "jeung Laban"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saréréana"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saréréana"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giléad"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:21.579328507Z",
+  "model": "glm-5.3"
+}

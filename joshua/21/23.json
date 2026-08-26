@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung tina suku Dan: ⟨את⟩ Elteke jeung ⟨את⟩ padang kalolonganna, ⟨את⟩ Givton jeung ⟨את⟩ padang kalolonganna.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jeung tina suku"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteke"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang kalolonganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang kalolonganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Givton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang kalolonganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang kalolonganna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:59:58.476806923Z",
+  "model": "glm-5.3"
+}

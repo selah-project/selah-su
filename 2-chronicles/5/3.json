@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta ngumpul ka raja sagala jalmi Israél dina apta ⟨⟨tea⟩⟩ — bulan katujuh.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "sarta ngumpul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "dina apta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tea"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "katujuh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:30.486745996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Teras maranéhna ngomong ka ⟨basa⟩ bangsa: Liwatan, sarta puteran ⟨את⟩ kota éta, jeung nu sanjata bakal ngaliwat di payun Papan Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "maranéhna ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "liwatan"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "sarta puteran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "jeung nu sanjata"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "bakal ngaliwat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payun"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Papan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:54:19.150680288Z",
+  "model": "glm-5.3"
+}

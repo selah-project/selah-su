@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 100,
+  "translation": "Asup ka panto-pantona kalawan syukur, ka pager-pager buruanna kalawan muji; muji ka Anjeunna, berkahat ngaranna.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "asup ka"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "panto-pantona"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "kalawan syukur"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ka pager-pager buruanna"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "kalawan muji"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "muji ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkahat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:59.195245506Z",
+  "model": "glm-5.3"
+}

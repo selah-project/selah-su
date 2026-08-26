@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Wangsulna, hai nevel jeung kinor; kuring baris ngaranggah fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Wangsulna"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "hai nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "jeung kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "kuring baris ngaranggah"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:15.419343Z",
+  "model": "glm-5.3"
+}

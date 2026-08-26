@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Kuring geus ngadenge ⟨את⟩ nu ceuk para-nabi, nu baprofét ku ngaran Kami dusta, nyarita: kuring ngimpi, kuring ngimpi.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Kuring geus ngadenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ceuk para-nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "para-nabi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nu baprofét"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ku ngaran Kami"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "kuring ngimpi"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "kuring ngimpi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:31:19.475322418Z",
+  "model": "glm-5.3"
+}

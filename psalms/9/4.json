@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Dina balikna musuh-musuh abdi ka tukang, aranjeunna tarajang tur leungit ti payuneun anjeun.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "dina balikna"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuh abdi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka tukang"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "tarajang"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "tur leungit"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ti payuneun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:06.907011151Z",
+  "model": "glm-5.3"
+}

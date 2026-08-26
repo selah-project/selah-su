@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung Moshe mawa kaluar ⟨את⟩ ⟨the⟩ bangsa pikeun patepung jeung ⟨the⟩ Elohim, tina ⟨the⟩ buni-bunian; jeung aranjeuna nangtung di tayalian kakait ⟨the⟩ gunung.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mawa kaluar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pikeun patepung jeung"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "buni-bunian"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "di tayalian kakait"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:16.770667847Z",
+  "model": "glm-5.3"
+}

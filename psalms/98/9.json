@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 98,
+  "translation": "Dina hareupeun Yahwe, sabab anjeuna geus datang mihakem ⟨את⟩ bumi; anjeuna bakal ngahakem ⟨את⟩ dunya kalawan kabeneran, jeung ⟨את⟩ bangsa-bangsa kalawan kajujuran.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "dina hareupeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geus datang"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "mihakem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ bumi",
+      "marks": "bumi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "bakal ngahakem"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨את⟩ dunya",
+      "marks": "dunya"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "kalawan kabeneran"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "jeung ⟨את⟩ bangsa-bangsa",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "kalawan kajujuran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:46.523998463Z",
+  "model": "glm-5.3"
+}

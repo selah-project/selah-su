@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jadi réngsé ⟨the⟩ langit-langit jeung ⟨the⟩ bumi, jeung sagala bala-tentarana.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "jadi réngsé"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨the⟩ langit-langit"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "jeung ⟨the⟩ bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "bala-tentarana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:15.614120891Z",
+  "model": "glm-5.3"
+}

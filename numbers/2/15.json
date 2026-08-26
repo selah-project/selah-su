@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "jeung pasukanana, jeung nu diitung-na, lima jeung opat puluh rebu jeung genep ratus jeung lima puluh.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jeung pasukanana"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "jeung nu diitung-na"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "jeung opat puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rebu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeung genep"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "jeung lima puluh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:09.733085090Z",
+  "model": "glm-5.3"
+}

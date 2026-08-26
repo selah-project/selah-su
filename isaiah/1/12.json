@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lamun datang pikeun nempo beungeut kuring, saha nu ngoméan ieu ti leungeun sampeuran, ngaruntas paineungan kuring?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "sampeuran datang"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut kuring"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "nu ngoméan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "ti leungeun sampeuran"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "ngaruntas"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "paineungan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:29.487398853Z",
+  "model": "glm-5.3"
+}

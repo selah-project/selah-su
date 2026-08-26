@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 114,
+  "translation": "Dina kaluarna Yisrael ti Misrayim, beulah Yaakov ti umat nu nyarita basa lian,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "dina kaluarna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Misrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beulah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ti umat"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "nu nyarita basa lian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:17.687556675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Tur dibéjakeun ka Yéhoshua, nyarita: kapanggih para raja lima éta nyumput di guha di Makédah.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "tur dibéjakeun"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "ka Yéhoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "kapanggih"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "lima"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "nyumput"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di guha"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "di Makédah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:31.410373929Z",
+  "model": "glm-5.3"
+}

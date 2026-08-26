@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Mungsirkeun és-Na sapopotahan; hareupeun tiis-Na saha ⟨tiasa⟩ nangtung?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "mungsirkeun"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "és-Na"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "sapopotahan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hareupeun"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "tiis-Na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "nangtung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:43.494858181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Omong kosong nyarita jalma masing-masing ⟨את⟩ babaturanana; bibir ngalemes, kalawan haté jeung haté nyarita.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "omong kosong"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma masing-masing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babaturanana"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ngalemes"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "kalawan haté"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "jeung haté"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:14.771554617Z",
+  "model": "glm-5.3"
+}

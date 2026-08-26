@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Sabab moal kana panah kuring abdi percaya, jeung pedang kuring moal nyalametkeun abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "kana panah kuring"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "abdi percaya"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "jeung pedang kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "nyalametkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:32.550036583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "⟨את⟩ punclut anak tangkalna anu ngora dipencut, sarta dibawana ka tanah Kenaan, di kota nu ngadagang dibawana eta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punclut anak tangkalna"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "punclut"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "anak tangkalna anu ngora"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "dipencut"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "sarta dibawana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "nu ngadagang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dibawana eta"
+    }
+  ],
+  "timestamp": "2026-08-26T13:48:15.256819776Z",
+  "model": "glm-5.3"
+}

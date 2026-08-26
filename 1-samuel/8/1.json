@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jadi keur Shemuël geus kolot, manéhna nangkeukeun ⟨את⟩ anak-anakna jadi hakim-hakim pikeun Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi keur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "keur"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "geus kolot"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "manéhna nangkeukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hakim-hakim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pikeun Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:09.446485197Z",
+  "model": "glm-5.3"
+}

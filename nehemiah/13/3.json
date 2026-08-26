@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jadi kajadian, nalika maranéhna ngadenge ⟨את⟩ Taurat ⟨i]], maranéhna misahkeun sakabéh jamaah campuran ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "nalika maranéhna ngadenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taurat"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "maranéhna misahkeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jamaah campuran"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:36.035928284Z",
+  "model": "glm-5.3"
+}

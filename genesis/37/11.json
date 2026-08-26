@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sarta sadulur-sadulurna iri ka anjeunna; tapi bapana nyimpen ⟨את⟩ kakawisan éta.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "sarta iri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "tapi bapana"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nyimpen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakawisan éta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kakawisan éta"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:01.940899620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 113,
+  "translation": "Muga ⟨mah⟩ ngaran Yahwe dipuji, ti ayeuna nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Muga ⟨mah⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "dipuji"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ti ayeuna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:54.152653538Z",
+  "model": "glm-5.3"
+}

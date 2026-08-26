@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Anjeun geus ngeureunan ⟨את⟩ sinarna, sarta kadipatéanna Anjeun bungbungan ka bumi.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "Anjeun geus ngeureunan"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "sinarna"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "sarta kadipatéanna"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "Anjeun bungbungan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:12.815086319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Esther teu ngomongkeun ⟨את⟩ bangsana jeung ⟨את⟩ turunannana, sabab Mordekhay maréntahkeun ka anjeunna ulah ngomongkeun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsana"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bangsana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "turunannana"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "turunannana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yén"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ngomongkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:16.959719970Z",
+  "model": "glm-5.3"
+}

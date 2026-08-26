@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Manéhna ngadeg peuting harita, nyandak ⟨את⟩ dua pamajikanana jeung ⟨את⟩ dua budak awéwéna jeung ⟨את⟩ sapuluh-sahiji anakna, sarta ngaliwatkeun ⟨את⟩ arangan Yabok.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua pamajikanana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dua budak awéwéna"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "budak awéwéna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapuluh-sahiji anakna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sahiji"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ngaliwatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arangan Yabok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "arangan"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabok"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:38.885236953Z",
+  "model": "glm-5.3"
+}

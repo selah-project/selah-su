@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Lajeng Yehonatan jeung David motong perjangjian, sabab anjeunna mikacinta ⟨את⟩ anjeunna sarua jeung nefeshna.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "motong"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "jeung David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sabab mikacinta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "sarua jeung nefeshna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:30.813709406Z",
+  "model": "glm-5.3"
+}

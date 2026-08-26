@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung Kuring mulangkeun balik tawanan Yehudah jeung ⟨את⟩ tawanan Yisrael, sarta Kuring ngawangun deui maranéhna saperti baheula.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Jeung Kuring mulangkeun balik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawanan Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tawanan Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "sarta Kuring ngawangun deui"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "saperti baheula"
+    }
+  ],
+  "timestamp": "2026-08-26T13:34:40.322882451Z",
+  "model": "glm-5.3"
+}

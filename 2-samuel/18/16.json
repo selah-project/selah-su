@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Yoab niél sangkakala, jeung balad balik tina ngudag sanggeus Yisrael, sabab Yoab nahan ⟨את⟩ balad.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "jeung niél"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jeung balik"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balad"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "tina ngudag"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nahan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balad"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:54.415807084Z",
+  "model": "glm-5.3"
+}

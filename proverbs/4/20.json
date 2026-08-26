@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Budak abdi, saregep ka kecap abdi, siledug ceuli anjeun ka ucap abdi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "budak abdi"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "ka kecap abdi"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "saregep"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ka ucap abdi"
+    },
+    {
+      "surface": "הט",
+      "gloss": "siledug"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ceuli anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:54:23.630850015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Ieu lot anjeun, bobotan bagian ukuran anjeun ti ⟨את⟩ kuring, cekap Yahwe, sabab anjeun motohongkeun ⟨את⟩ kuring jeung percaya ka bohong.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "lot anjeun"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bobotan"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "bagian ukuran anjeun"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "ti ⟨את⟩ kuring",
+      "marks": "kuring"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "cekap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "anjeun motohongkeun"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ kuring",
+      "marks": "kuring"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "jeung percaya"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "ka bohong"
+    }
+  ],
+  "timestamp": "2026-08-26T13:27:33.300544554Z",
+  "model": "glm-5.3"
+}

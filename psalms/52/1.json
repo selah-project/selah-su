@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Kanggo pamimpin musik, mashil karya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pamimpin musik"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "karya David"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:08.561470025Z",
+  "model": "glm-5.3"
+}

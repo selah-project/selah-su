@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sangkan kuring caritakeun sadaya pamuji Anjeun di panto-panto putri Tzion; kuring bungah kana kasalametan Anjeun.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "kuring caritakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "pamuji Anjeun"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "di panto-panto"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "kuring bungah"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "kana kasalametan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:27.724741189Z",
+  "model": "glm-5.3"
+}

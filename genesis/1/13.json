@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jadi aya ⟨i⟩}} mangsa-nyenja, aya ⟨i⟩}} ésuk — poé katilu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mangsa-nyenja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "katilu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:35:48.956360353Z",
+  "model": "glm-5.3"
+}

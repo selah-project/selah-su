@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Ulah sotékeun abdi jeung nu jahat, jeung jeung nu migawé kalennuh, nu nyarita damai jeung baturana bari jahat aya dina hate maranehna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "sotékeun abdi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "sarta jeung"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nu migawé"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalennuh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nu nyarita"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "baturana"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "bari jahat"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "dina hate maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:25.856031122Z",
+  "model": "glm-5.3"
+}

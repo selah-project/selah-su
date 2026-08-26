@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Nu mikacinta Yahwe, bencina kajahatan: ⟨anjeunna⟩ ngajaga nyawa jalma-jalma nu satia ka ⟨anjeunna⟩, tina leungeun nu jahat ⟨anjeunna⟩ nyalametkeun maranehna.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "nu mikacinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "bencina"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ngajaga"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "jalma-jalma nu satia ka-anjeunna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "anjeunna nyalametkeun maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:09.557449701Z",
+  "model": "glm-5.3"
+}

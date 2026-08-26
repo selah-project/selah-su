@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung ⟨את⟩ rempah-rimpah, jeung ⟨את⟩ minyak pikeun suluh-lampu, jeung pikeun minyak numines, jeung pikeun dupa rempah-rimpah seungit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "rempah-rimpah"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "rempah-rimpah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pikeun suluh-lampu"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "jeung pikeun minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "numines (nyerak minyak kana)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "jeung pikeun dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rimpah seungit"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:19.979361437Z",
+  "model": "glm-5.3"
+}

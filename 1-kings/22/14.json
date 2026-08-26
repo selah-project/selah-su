@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung Mikayahu ngomong: Sanggem Yahwe hirup, sabab ⟨את⟩ nu Yahwe omongkeun ka abdi, eta abdi omongkeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu Yahwe omongkeun ka abdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "omongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ eta",
+      "marks": "abdi omongkeun"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "abdi omongkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:55.897951301Z",
+  "model": "glm-5.3"
+}

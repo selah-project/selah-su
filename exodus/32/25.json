@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Teras Moshe nempo ⟨את⟩ balaré, sabab papepekan manéhna, sabab Aharon ngaleupaskeun manéhna jadi cecandu di hareupeun nu ngalawanana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balaré"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaré"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "papepekan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "jadi cecandu"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "di hareupeun nu ngalawanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:08.012368261Z",
+  "model": "glm-5.3"
+}

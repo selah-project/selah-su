@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 33:22",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung leungeun Yahwe aya ka abdi dina maksi, saméméh datangna nu ngabortos éta, sarta muka ⟨את⟩ bapanget abdi nepi ka datangna ka abdi isuk-isuk; lajeng bapanget abdi kabuka, sarta abdi teu bisu deui.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "jeung leungeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "dina maksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datangna"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "nu ngabortos"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "sarta muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapanget abdi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bapanget abdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datangna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "lajeng kabuka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bapanget abdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "נאלמתי",
+      "gloss": "bisu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T13:55:20.170121747Z",
+  "model": "glm-5.3"
+}

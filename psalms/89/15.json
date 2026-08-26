@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Kabeneran jeung katangtu hukum ⟨aya⟩ pamasangan tahta-Mu; xesed jeung katiaan ngamimitian saméméh beungeut-Mu.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jeung katangtu hukum"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "pamasangan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tahta-Mu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jeung katiaan"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ngamimitian saméméh"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "beungeut-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:05.544555367Z",
+  "model": "glm-5.3"
+}

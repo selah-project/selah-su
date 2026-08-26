@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Nalika bangsa-bangsa kumpul babarengan, jeung karajaan-karajaan, pikeun ngawula ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "nalika kumpul"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "jeung karajaan-karajaan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pikeun ngawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:04.822240596Z",
+  "model": "glm-5.3"
+}

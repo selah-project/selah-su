@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Sirahbagna nu ngajaga kesaksian-Na, ku sakabéh ati maranéhna néangan Anjeunna.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sirahbagna"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "nu ngajaga"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "kesaksian-Na"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sakabéh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "maranéhna néangan Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:03.369250045Z",
+  "model": "glm-5.3"
+}

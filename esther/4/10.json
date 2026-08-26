@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Tuluy Ester ngomong ka Hathak sarta maréntahkeun anjeunna ka Mordekhai:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tuluy ngomong"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ka Hathak"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "sarta maréntahkeun anjeunna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:48.778231811Z",
+  "model": "glm-5.3"
+}

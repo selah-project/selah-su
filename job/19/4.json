@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Saha Émténéun upami kuring gé mimiwat, kasalahan kuring cicing ⟨את⟩ di sisihan kuring.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "Émténéun"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "kuring mimiwat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "di sisihan kuring"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "kasalahan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T15:10:28.299341228Z",
+  "model": "glm-5.3"
+}

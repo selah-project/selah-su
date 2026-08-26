@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Ulah nyandak ti dinya ⟨את⟩ bunga hutang jeung laba-lebih, tapi sing aweuh ka Elohim anjeun, sangkan sadudulur hirup di sisi anjeun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "bunga hutang jeung laba-lebih"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga hutang"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "jeung laba-lebih"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "tapi sing aweuh ka"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "sangkan hirup"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadudulur"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "di sisi anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:08.751449998Z",
+  "model": "glm-5.3"
+}

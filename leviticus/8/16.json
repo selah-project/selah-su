@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta nyandak ⟨את⟩ sadaya lemak nu aya luhureun jerohan, jeung ⟨את⟩ tambah ati, jeung ⟨את⟩ dua ginjal, jeung ⟨את⟩ lemakna; sarta Moshe ngaduruk seuneu di mézbéh.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya lemak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "jerohan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tambah ati"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "tambah"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dua ginjal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemakna"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "lemakna"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ngaduruk seuneu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di mézbéh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:11.318253094Z",
+  "model": "glm-5.3"
+}

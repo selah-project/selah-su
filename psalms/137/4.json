@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Kumaha urang kawihkeun ⟨את⟩ kawih Yahwe dina taneuh nu deungeun?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "urang kawihkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawih Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kawih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "nu deungeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:35.237083680Z",
+  "model": "glm-5.3"
+}

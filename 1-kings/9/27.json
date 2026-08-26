@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Khiram ngirim dina armada ⟨את⟩ abdi-abdina, jalma-jalma kapal nu terang ka laut, babarengan jeung abdi-abdi Shelomoh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Jeung ngirim"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Khiram"
+    },
+    {
+      "surface": "באני",
+      "gloss": "dina armada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdina"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kapal"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "nu terang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ka laut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "babarengan jeung"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:58.542338488Z",
+  "model": "glm-5.3"
+}

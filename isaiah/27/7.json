@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Kawas ditamparana nu natampar manéhna — naha manéhna ditampar? Atawa kawas dipaténi nu maraot ku manéhna — naha manéhna dipaténi?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "kawas ditamparana"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "nu natampar manéhna"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "manéhna ditampar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "kawas dipaténi"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "nu maraot ku manéhna"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "manéhna dipaténi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:38.949847289Z",
+  "model": "glm-5.3"
+}

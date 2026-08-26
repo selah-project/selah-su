@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung Shemuél ngadilan ⟨את⟩ Israél sadapan poé hirupna.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ngadilan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadapan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "hirupna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:50:31.006102494Z",
+  "model": "glm-5.3"
+}

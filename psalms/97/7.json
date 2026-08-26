@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Eueuh sadaya nu migawé patung, nu ngahargaan diri dina berhala; sujud ka Anjeunna, sadaya elohim.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "eueuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nu migawé"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "nu ngahargaan diri"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "dina berhala"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:44.285805322Z",
+  "model": "glm-5.3"
+}

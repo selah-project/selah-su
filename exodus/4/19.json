@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sarta Yahwe nyarita ka Moshe di Midian: Jalan, balik deui ka Mesir, sabab paéh sadaya jalma-jalma nu ngudag ⟨את⟩ nyawa anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "di Midian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka Mesir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "nu ngudag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa anjeun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:13.301966095Z",
+  "model": "glm-5.3"
+}

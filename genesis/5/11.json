@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jadi kabéh poé-poé hirup Enosh ⟨jadi⟩ dalapan ratus lima taun, sarta maot.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabéh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maot"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:17.918377710Z",
+  "model": "glm-5.3"
+}

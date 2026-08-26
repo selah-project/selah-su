@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Jeung anjeun ngangkat tanduk kuring saperti tanduk leuwi liar; kuring diuléng ku minyak nu ngahijauan.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "saperti leuwi liar"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tanduk kuring"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "diuléng"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ku minyak"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "nu ngahijauan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:57.021037457Z",
+  "model": "glm-5.3"
+}

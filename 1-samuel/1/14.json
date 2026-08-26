@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Eli ngomong ka anjeunna: Nepi ka iraha anjeun bakal mabuk? Sing piceun ⟨את⟩ anggur anjeun ti awak anjeun!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "mabuk"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "sing piceun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anggur anjeun"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "anggur anjeun"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ti awak anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:19.138012769Z",
+  "model": "glm-5.3"
+}

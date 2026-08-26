@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Pisan, Yahwe bakal masihan ⟨את⟩ nu hadé, jeung taneuh urang bakal midaka ⟨את⟩ hasilna.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bakal masihan"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨את⟩ nu hadé",
+      "marks": "nu hadé"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "jeung taneuh urang"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bakal midaka"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "⟨את⟩ hasilna",
+      "marks": "hasilna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:29.241134149Z",
+  "model": "glm-5.3"
+}

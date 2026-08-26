@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung lalaki-lalaki Yisrael nempo yén pabeubeungeutanana geus datang, sabab bangsa kapeureutus pikieun; laju bangsa nyumput di guha, jeung di rungkun cucuk, jeung di sela, jeung di liang, jeung di sumuran.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Jeung lalaki-lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "צר",
+      "gloss": "pabeubeungeutan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun maranehna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "kapeureutus pikieun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "jeung nyumput"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "di guha"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "jeung di rungkun cucuk"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "jeung di sela"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "jeung di liang"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "jeung di sumuran"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:00.110892400Z",
+  "model": "glm-5.3"
+}

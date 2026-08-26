@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 149,
+  "translation": "Pikeun ngalaksanakeun balas dendam ka bangsa-bangsa, teguran-teguran ka kaum-kaum.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun ngalaksanakeun"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "balas dendam"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ka bangsa-bangsa"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teguran-teguran"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "kaum-kaum"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:48.970981556Z",
+  "model": "glm-5.3"
+}

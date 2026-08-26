@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung manéhna nyebut deui: Kaala kabendu ti Yisrael, sabab tabut Elohim geus dicandak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeung manéhna nyebut"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "kaala"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabendu"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "geus dicandak"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:18.978543927Z",
+  "model": "glm-5.3"
+}

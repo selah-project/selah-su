@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 33:9",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung anjeun, sabab anjeun geus méré pangéling ka jalma jahat ngeunaan jalanana sangkan balik ti dinya, tapi manéhna teu balik ti jalanana, manéhna maot dina kalalayanana, tapi anjeun geus nyalametkeun nyawa anjeun.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הזהרת",
+      "gloss": "anjeun geus méré pangéling"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma jahat"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "ngeunaan jalanana"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "sangkan balik"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "ti jalanana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "dina kalalayanana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "maot"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tapi anjeun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "geus nyalametkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:55:30.525794924Z",
+  "model": "glm-5.3"
+}

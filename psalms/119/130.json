@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Pamuka kecap-Mu méré cahaya, méré pangaweruh ka nu lalémieun.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "pamuka"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kecap-Mu"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "méré cahaya"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "méré pangaweruh"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "ka nu lalémieun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:50.597745390Z",
+  "model": "glm-5.3"
+}

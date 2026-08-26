@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Boboheun, tarima ⟨את⟩ budak éta, sarta pakuat-kuat ⟨את⟩ leungeun anjeun ka anjeunna, sabab kuring badé jadikeunana jadi bangsa anu ageung.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "boboheun"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "tarima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak éta"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "budak éta"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "jeung-pakuat-kuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun anjeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "jadi bangsa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "anu ageung"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "kuring jadikeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:24.314032016Z",
+  "model": "glm-5.3"
+}

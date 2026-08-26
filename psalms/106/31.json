@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung kahitung ka anjeunna minangka kabeneran, ti turunan ka turunan nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "jeung kahirupan ka anjeunna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "minangka kabeneran"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ti turunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ka turunan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:07.723287337Z",
+  "model": "glm-5.3"
+}

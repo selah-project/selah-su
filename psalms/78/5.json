@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung manehna ngadegkeun saksi dina Yaakov, jeung Taurat dipasang dina Yisrael, nu diparéntahkeunana ka ⟨את⟩ bapa-bapa urang, sangkan dipateri ku anak-anak maranehna,",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "dina Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "jeung Taurat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dipasang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "dina Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa-bapa urang"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapa-bapa urang"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "sangkan dipateri ku maranehna"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ka anak-anak maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:53.787385286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Ningali loba tapi anjeun teu merhatosan; ceuli dibuka tapi maranéhna teu ngadéngé.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "anjingali"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "loba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "anjeun merhatosan"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "dibukana"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ceuli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "maranéhna ngadéngé"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:24.210037728Z",
+  "model": "glm-5.3"
+}

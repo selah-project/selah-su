@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Datiang, barudak, ngadengekeun ka abdi; kasesieunan ka Yahwe abdi baris ngajarkeun ka ararinyo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Datiang"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadengekeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kasesieunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "abdi baris ngajarkeun ka ararinyo"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:00.374441408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung raja maréntahkeun ⟨את⟩ Yoab, jeung ⟨את⟩ Avisyai, jeung ⟨את⟩ Itay, nyarita: Palaleman ka abdi, ka ngorana, ka Absyalom. Jeung sagem-balukmah jalma ngadéngé nalika raja maréntahkeun ⟨את⟩ sagala pangulina ngeunaan perkara Absyalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Avisyai"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avisyai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Itay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "palaleman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ka ngorana"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "ka Absyalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "nalika maréntahkeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala pangulina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "pangulina"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absyalom"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:28.493911777Z",
+  "model": "glm-5.3"
+}

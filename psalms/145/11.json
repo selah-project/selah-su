@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Kamulyaan karajaan-Mu ku aranjeuna caritakeun, jeung kakuatan-Mu ku aranjeuna omongkeun.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "karajaan-Mu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "jeung kakuatan-Mu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "omongkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:27.781456691Z",
+  "model": "glm-5.3"
+}

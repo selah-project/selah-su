@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Langit-langit, langit-langit ⟨miboga⟩ Yahwe, tapi ⟨urang⟩ dipasrahkeun bumi ka anak-anak manusa.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "miboga Yahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "tapi bumi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipasrahkeun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:50.148035245Z",
+  "model": "glm-5.3"
+}

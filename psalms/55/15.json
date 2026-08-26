@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Anu babarengan ngamangpaatan ranji satia, di imah Elohim urang saba leungeun-leungeun ramai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "ngamangpaatan ranji satia"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ranji satia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "urang saba"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "leungeun-leungeun ramai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:44.524791515Z",
+  "model": "glm-5.3"
+}

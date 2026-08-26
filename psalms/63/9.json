@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Nefes kuring napel tarik ka Anjeun; leungeun katuhu Anjeun nu nungtung kuring.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "napel tarik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes kuring"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "nungtung"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "leungeun katuhu Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:22.394124045Z",
+  "model": "glm-5.3"
+}

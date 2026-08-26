@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung manéhna paling ti gigireunana ka hareupeun nu séjén, sarta nyarios sakumaha kecap kasebut; jeung ⟨the⟩ balad balik ngajawab manéhna kecap, sakumaba kecap munggaran.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "paling"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "ti-gigireunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מול",
+      "gloss": "hareupeun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nu-séjén"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sakumaba-kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kasebut"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "balik-ngajawab-manéhna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balad"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sakumaba-kecap"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "munggaran"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:22.562407054Z",
+  "model": "glm-5.3"
+}

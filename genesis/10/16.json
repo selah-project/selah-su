@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ⟨את⟩ nu Yevusi, jeung ⟨את⟩ nu Emori, jeung ⟨את⟩ nu Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "nu Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "nu Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "nu Girgashi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:58.358050264Z",
+  "model": "glm-5.3"
+}

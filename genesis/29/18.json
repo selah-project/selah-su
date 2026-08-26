@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung Yaakov mikacinta ⟨את⟩ Rakhel, lajeng anjeunna nyarios: kuring badé ngahormat anjeun tujuh taun, sanggeus Rakhel budak anjeun nu panghulina.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "jeung mikacinta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rakhel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyarios"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "kuring badé ngahormat anjeun"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "sanggeus Rakhel"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "budak anjeun"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "nu panghulina"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:34.609408109Z",
+  "model": "glm-5.3"
+}

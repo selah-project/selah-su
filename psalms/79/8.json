@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 79,
+  "translation": "Ula ngelingan ka kami dosa-dosa baheula; gancang kaasih anjeun nyambara ka kami, sabab kami kacida ngarerem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ula"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ngelingan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "baheula"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "nyambara ka kami"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "kaasih anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "kami ngarerem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kacida"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:54.541145546Z",
+  "model": "glm-5.3"
+}

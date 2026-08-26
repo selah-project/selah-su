@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ⟨את⟩ Khilen jeung ⟨את⟩ taneuh kaparakanana, ⟨את⟩ Devir jeung ⟨את⟩ taneuh kaparakanana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Khilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Khilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "taneuh kaparakanana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "taneuh kaparakanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "taneuh kaparakanana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "taneuh kaparakanana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:07:03.049762794Z",
+  "model": "glm-5.3"
+}

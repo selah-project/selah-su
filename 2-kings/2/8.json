@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Eliyahu nyandak ⟨את⟩ jubahna sarta ngagulungkeunana, jeung ngapuk ⟨את⟩ cai, jeung caina kabagi ka dieu jeung ka dinya, jeung mararina duanana ngaliwat dina taneuh garing.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahna"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "jubahna"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "jeung ngagulungkeunana"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "jeung ngapuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "jeung kabagi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ka dieu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung ka dinya"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "jeung ngaliwat"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duanana"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "dina taneuh garing"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:27.117480440Z",
+  "model": "glm-5.3"
+}

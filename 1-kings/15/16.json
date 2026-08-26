@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sarta aya perang antara Asa jeung antara Baésya raja Israél sadaya poé-poé maranéhna.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baésya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "poé-poé maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:19.372713423Z",
+  "model": "glm-5.3"
+}

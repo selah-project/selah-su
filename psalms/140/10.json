@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Pamingpin-pamingpin ⟨nu⟩ ngurilingan kuring: kapeningalan tina bibirna sorangan katutupan ka ⟨aranjeunana⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "pamingpin-pamingpin"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "nu ngurilingan kuring"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kapeningalan"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bibirna sorangan"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "katutupan ka aranjeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:05.763202886Z",
+  "model": "glm-5.3"
+}

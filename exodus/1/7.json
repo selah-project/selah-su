@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung putra-putra Yisrael buah nikakeun, sarta ngaruruhek ngabinihkeun, sarta ngaraket, sarta jadi kawasa pisan pisan, sahingga ⟨את⟩ nagara pinuh ku aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Jeung putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "buah nikakeun"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "ngaruruhek ngabinihkeun"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ngaraket"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "jadi kawasa"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "sahingga pinuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ה⟩ nagara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:38:59.681870216Z",
+  "model": "glm-5.3"
+}

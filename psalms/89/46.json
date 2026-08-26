@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Anjeun geus ngahéngkér poé-poé mangsa ngorana, Anjeun geus mungkus anjeunna ku kamalu. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "Anjeun geus ngahéngkér"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "mangsa ngorana"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "Anjeun geus mungkus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "ku kamalu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:12.815285929Z",
+  "model": "glm-5.3"
+}

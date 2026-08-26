@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung haté maranéhna moal ajeg babarengan jeung ⟨Anjeunna⟩, jeung moal satia kana perjangjian-Na.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "jeung haté maranéhna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ajeg"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarengan jeung ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "satia"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "kana perjangjian-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:28.547390597Z",
+  "model": "glm-5.3"
+}

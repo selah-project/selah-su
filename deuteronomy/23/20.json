@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ulah mawa bunga ka dulur anjeun; bunga duit pérak, bunga dahareun, bunga sagala hal nu dibungakeun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "mawa bunga"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ka dulur anjeun"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "duit pérak"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahareun"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "dibungakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:48:21.547985265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sadayana saperti pikeun sadayana: nasib hiji pikeun nu bener jeung pikeun nu jahat, pikeun nu hadé, jeung pikeun nu murni, jeung pikeun nu teu murni, jeung pikeun nu ngorbankeun, jeung pikeun nu teu ngorbankeun; saperti nu hadé, kitu ogé nu dosa; nu sumpah, saperti nu sieun ka sumpah.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pikeun sadayana"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "nasib"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pikeun nu bener"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "jeung pikeun nu jahat"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "pikeun nu hadé"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "jeung pikeun nu murni"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "jeung pikeun nu teu murni"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "jeung pikeun nu ngorbankeun"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "jeung pikeun nu"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "teu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ngorbankeun"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "saperti nu hadé"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "saperti nu dosa"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "nu sumpah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "ka sumpah"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nu sieun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:36:05.322568018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung Avshalom ngirim mata-mata ka sakabéh suku-suku Yisrael, nyebutkeun: \"Mun aranjeunngeungeun ⟨את⟩ sora saruling, mangka cecekelan: 'Avshalom jadi raja di Hevron.'\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sakabéh"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "mun aranjeunngeungeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "saruling"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mangka cecekelan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Hevron"
+    }
+  ],
+  "timestamp": "2026-08-26T16:53:39.951667454Z",
+  "model": "glm-5.3"
+}

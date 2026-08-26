@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sapi nyaho nu ngameunana, jeung keledai nyaho palangan nu ngaranna, tapi Israél moal nyaho, umat Kuring moal ngarti.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "nu ngameunana"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "jeung keledai"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "palangan"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "nu ngaranna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "ngarti"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:54.120406386Z",
+  "model": "glm-5.3"
+}

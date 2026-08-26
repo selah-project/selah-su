@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sabab kuring maot di tanah ieu, kuring moal ngaliwatan ⟨את⟩ Yarden, tapi aranjeun ngaliwatan sarta aranjeun ngawasaan ⟨את⟩ tanah nu alus ieu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "moal (kuring)"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "tapi aranjeun"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "sarta ngawasaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah nu alus ieu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nu alus"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:59.813365235Z",
+  "model": "glm-5.3"
+}

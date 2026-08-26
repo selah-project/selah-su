@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Sabab ti sadaya kasusah manéh nyalametkeun abdi, jeung panon abdi nempo ⟨את⟩ musuh-musuh abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "nyalametkeun abdi"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "jeung musuh-musuh abdi"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:18.519347177Z",
+  "model": "glm-5.3"
+}

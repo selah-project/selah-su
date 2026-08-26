@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Sareng ⟨את⟩ altar emas, sareng ⟨את⟩ minyak jampi-ukuran, sareng ⟨את⟩ bako-bako rempah, sareng ⟨את⟩ tudung panto kemah",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sareng ⟨את⟩",
+      "marks": "altar emas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sareng ⟨את⟩",
+      "marks": "minyak jampi-ukuran"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "jampi-ukuran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sareng ⟨את⟩",
+      "marks": "bako-bako rempah"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "bako-bako"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sareng ⟨את⟩",
+      "marks": "tudung panto kemah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tudung"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:34.529603617Z",
+  "model": "glm-5.3"
+}

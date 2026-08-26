@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung manéhna nyerahkeun ka pedang umat-Na, jeung ka pusaka-Na manéhna muka murka.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "jeung nyerahkeun"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ka pedang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "jeung ka pusaka-Na"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "muka murka"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:27.456394675Z",
+  "model": "glm-5.3"
+}

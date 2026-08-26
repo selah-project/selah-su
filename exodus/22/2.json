@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun panonpoé geus meletik luhureun ⟨anjeunna⟩, aya tuntutan getih pikeun ⟨anjeunna⟩; kudu mayar pinuh; lamun anjeunna teu boga deui, dijual pikeun malingna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "meletik"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "luhureun-anjeunna"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tuntutan-getih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun-anjeunna"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "mayar"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kudu-mayar-pinuh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu-boga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "deui"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "sarta-dijual"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "pikeun-malingna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:34.019341644Z",
+  "model": "glm-5.3"
+}

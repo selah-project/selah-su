@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Ka pangatik musik, milik Dawid, mizmor: Elohim kana pujian-kuring, ulah nana teu nyarita.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka pangatik musik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "milik Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "pujian-kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "teu nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:27.157366441Z",
+  "model": "glm-5.3"
+}

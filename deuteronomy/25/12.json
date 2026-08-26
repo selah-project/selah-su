@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "anjeun ngagojlog ⟨את⟩ leungeunana; panon anjeun ulah kaistimewa ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "anjeun ngagojlog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "kaistimewa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "panon anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:47:11.252558451Z",
+  "model": "glm-5.3"
+}

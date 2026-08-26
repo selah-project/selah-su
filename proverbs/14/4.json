@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Tanpa lombu palintuh keneh kosong, tapi buah nu loba ku kakuatan mangjang.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "lombu"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "palintuh"
+    },
+    {
+      "surface": "בר",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "tapi loba"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ku kakuatan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mangjang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:50.551908554Z",
+  "model": "glm-5.3"
+}

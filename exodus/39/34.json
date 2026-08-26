@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "jeung ⟨את⟩ tutup tina kulit domba-domba nu beureum-raray, jeung ⟨את⟩ tutup tina kulit tachash, jeung ⟨את⟩ tabir pangajaga",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutup"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tutup"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "domba-domba"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "nu beureum-raray"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutup"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tutup"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tabir"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tabir"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "pangajaga"
+    }
+  ],
+  "timestamp": "2026-08-26T17:30:31.584993239Z",
+  "model": "glm-5.3"
+}

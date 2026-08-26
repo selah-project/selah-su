@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta langit-langit baham anjeun saperti anggur nu alus, ngocor ka kanyaah kuring, kalawan lugina, ngagedur biwir nu keur saré.",
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "sarta langit-langit baham anjeun"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "saperti anggur"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nu alus"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ngocor"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ka kanyaah kuring"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "kalawan lugina"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "ngagedur"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "biwir"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "nu keur saré"
+    }
+  ],
+  "timestamp": "2026-08-26T15:24:43.141674478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Kitu jalma nu nipu ⟨את⟩ babaturanana, lajeng ngomong: Naha sanes ngalécko abdi?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "nu nipu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babaturanana"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lajeng ngomong"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "naha sanes"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ngalécko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:30.019077214Z",
+  "model": "glm-5.3"
+}

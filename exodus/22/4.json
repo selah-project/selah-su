@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun hiji jalma mabalinkeun sawah atawa kebon anggur, sarta ngaleupaskeun ⟨את⟩ ingon-ingonna nepi ngahakan di sawah batur, kudu mayar tina nu pangalusna tina sawahna jeung nu pangalusna tina kebonna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "mabalinkeun-ngahakan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiji-jalma"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "או",
+      "gloss": "ataka"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebon-anggur"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "sarta-ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingon-ingonna"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "ingon-ingonna"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "sarta-ngahakan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di-sawah"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "batur"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "tina-nu-pangalusna"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "sawahna"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "jeung-tina-nu-pangalusna"
+    },
+    {
+      "surface": "כרמo",
+      "gloss": "kebonna"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kudu-mayar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:34.019663781Z",
+  "model": "glm-5.3"
+}

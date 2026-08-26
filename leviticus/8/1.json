@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Yahwe ngandika ka Moshe, sangkan kalawan ngandika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan kalawan ngandika"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:58.392823088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Lajeng Elohim nyarita ka Noach, sangkanana:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkanana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:19.160233713Z",
+  "model": "glm-5.3"
+}

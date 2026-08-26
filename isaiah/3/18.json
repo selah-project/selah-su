@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Dina poe eta Adonay bakal ngala ⟨את⟩ kameumeut sisingget suku, jeung rumbi-rumbi, jeung bulan-bulanan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dina poe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "bakal ngala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kameumeut"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kameumeut"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "sisingget suku"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "rumbi-rumbi"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "bulan-bulanan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:07.725327047Z",
+  "model": "glm-5.3"
+}

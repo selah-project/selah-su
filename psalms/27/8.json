@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Ka Anjeun haté kuring ngandika: Paluruh wajah kuring — ⟨את⟩ wajah Anjeun, wahai Yahwe, kuring paluruh.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté kuring"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "paluruh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah Anjeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "kuring paluruh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:48.535801033Z",
+  "model": "glm-5.3"
+}

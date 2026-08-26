@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Yahwe, ngaran Anjeun ka salawasna; Yahwe, kaangeungeut Anjeun ka turunan jeung turunan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran Anjeun"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salawasna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "kaangeungeut Anjeun"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ka turunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jeung turunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.389869712Z",
+  "model": "glm-5.3"
+}

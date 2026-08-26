@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Jadi pait larangna saeutik, sarta bawana dicandak ku nu séjén.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "pait larangna"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "bawana"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ku nu séjén"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:02.213646458Z",
+  "model": "glm-5.3"
+}

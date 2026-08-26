@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung kuring nempo ⟨את⟩ sagala palawasan jeung ⟨את⟩ sagala kasuksésan gawé, sabab éta ⟨is⟩ iri haté jalma ka babaturanana; ieu ogé hebel jeung ngahuntal angin.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "jeung kuring nempo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala palawasan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "palawasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagala kasuksésan gawé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kasuksésan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "היא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "iri haté"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ka babaturanana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "jeung ngahuntal"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:19.498065868Z",
+  "model": "glm-5.3"
+}

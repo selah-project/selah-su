@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung kabut naék ti bumi, sarta mica ⟨את⟩ sagala beungeut taneuh.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "jeung kabut"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "sarta mica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala beungeut taneuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:23.748492896Z",
+  "model": "glm-5.3"
+}

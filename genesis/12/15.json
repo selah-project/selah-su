@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung para pangawasa Paroh nempo ⟨את⟩ manéhna, jeung muji ⟨את⟩ manéhna ka Paroh, jadi awéwé éta dicandak ka imah Paroh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pangawasa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "muji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "jadi dicandak"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé éta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:52.455029497Z",
+  "model": "glm-5.3"
+}

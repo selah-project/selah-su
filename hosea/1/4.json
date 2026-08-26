@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tur Yahwe ngomong ka anjeunna: Seran ngaranna Yizreél, sabab sakeudeung deui kuring badé ngajadikeun anu manggih ⟨את⟩ getih Yizreél luhur imah Yéhu, sarta kuring badé ngeureunkeun karajaan imah Israél.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tur ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "seran"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sakeudeung"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "tur kuring badé ngajadikeun anu manggih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih Yizreél"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getih"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreél"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yéhu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "tur kuring badé ngeureunkeun"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:37.886450245Z",
+  "model": "glm-5.3"
+}

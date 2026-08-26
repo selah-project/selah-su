@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anjeunna nyarita, Sora-Mu kuring ngadéngé di kebon, jeung kuring sieun sabab kulawarga kuring bulig awas, sarta kuring nyumput.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora anjeun"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "sora anjeun"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngadéngé kuring"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di kebon"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "jeung kuring sieun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "bulig awas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "sarta kuring nyumput"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:43.002734826Z",
+  "model": "glm-5.3"
+}

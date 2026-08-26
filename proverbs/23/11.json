@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Sabab Goél maranéhna ⟨⟨nyaéta⟩⟩ kuat, manéhna bakal ngadeukeutan rarayas maranéhina ⟨את⟩ ka anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "Goél maranéhna"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "bakal ngadeukeutan rarayas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rarayas maranéhna"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "rarayas maranéhna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:27.107869071Z",
+  "model": "glm-5.3"
+}

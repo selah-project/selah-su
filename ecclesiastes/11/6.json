@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Di isuk-isuk injeumkeun ⟨את⟩ bibit anjeun, jeung maén peuting ulah méré hateup leungeun anjeun, sabab anjeun moal nyaho iraha mana nu bakal hasil, ieu atawa eta, atawa mun duanana sarua alus.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "di isuk-isuk"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "injeumkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bibit anjeun"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "bibit anjeun"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "jeung maén peuting"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "méré hateup"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "anjeun moal"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "אי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "bakal hasil"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atanapi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atanapi mun"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duanana"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "sarua"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "alus"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:43.882678300Z",
+  "model": "glm-5.3"
+}

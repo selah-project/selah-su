@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jadi tabut Yahwe aya di widang Pelesyet tujuh bulan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi-aya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di widang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:18.785087995Z",
+  "model": "glm-5.3"
+}

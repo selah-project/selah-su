@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 58,
+  "translation": "Bilih leungit kawas cai, bilih ngocor jauh; mangsa bajana panahna, bilih pareng jadi potongan.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "bilih leungit"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "bilih ngocor"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "bajana"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "panahna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "bilih pareng jadi potongan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:05.765549218Z",
+  "model": "glm-5.3"
+}

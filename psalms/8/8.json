@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Domba jeung sapi, sadayana, ogé sato-sato kabéh",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "jeung sapi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "sato-sato"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kabéh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:24.935443306Z",
+  "model": "glm-5.3"
+}

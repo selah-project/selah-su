@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Tuluy maranehna indit ti Sukkot sarta ngadegkem di Etam, di wates gurun.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "ti Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ngadegkem"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "di Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "di wates"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:59.426881565Z",
+  "model": "glm-5.3"
+}

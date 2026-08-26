@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 33:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Tengong Tsiyon, dayeuh panglawungan urang; mata-mata anjeun bakal nempo Yerushalaim, imah nu tengtréh, khémah nu moal pisan dipindahkeun, moal pisan dicabut palang-palangna salawasna, sarta sadali tali-talina moal pisa mopotongan.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "tengong"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "dayeuh"
+    },
+    {
+      "surface": "מועדנו",
+      "gloss": "panglawungan urang"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mata-mata anjeun"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "bakal nempo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "imah"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "nu tengtréh"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khémah"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal pisa"
+    },
+    {
+      "surface": "יצען",
+      "gloss": "dipindahkeun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal pisa"
+    },
+    {
+      "surface": "יסע",
+      "gloss": "dicabut"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "palang-palangna"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "חבליו",
+      "gloss": "tali-talina"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal pisa"
+    },
+    {
+      "surface": "ינתקו",
+      "gloss": "mopotongan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:58.184795666Z",
+  "model": "glm-5.3"
+}

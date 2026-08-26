@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung maranehna ngantepkeun ⟨את⟩na nepi ka isuk, salaku anu diparentahkeun ku Moshe; jeung teu bau hanyir, jeung nuuk teu aya di jerona.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "jeung maranehna ngantepkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩na",
+      "marks": "manna éta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "isuk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "salaku anu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ku Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "bau hanyir"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "jeung nuuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:59.721549744Z",
+  "model": "glm-5.3"
+}

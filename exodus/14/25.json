@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung [Yahwe] nyingsalkeun ⟨את⟩ roda tina karéta-karéta maranéhna, sahingga maranéhna ngarah kaseukeut ku beuratna; lajeng Mesir ngomong: Hayu urang kabur ti payune Israél, sabab Yahwe perang pikeun maranéhna ngalawan Mesir.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "nyingsalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roda"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "roda"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "karéta-karéta maranéhna"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "sahingga maranéhna ngarah"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "ku beuratna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Hayu urang kabur"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payune"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pikeun maranéhna"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ngalawan Mesir"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:15.392265604Z",
+  "model": "glm-5.3"
+}

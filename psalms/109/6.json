@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Tempatkeun lalakian jahat luhureunana, jeung shatan nangtung di leungeun katuhuna.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "tempatkeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "luhureunana"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "lalakian jahat"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "jeung shatan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "leungeun katuhuna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:03.320319117Z",
+  "model": "glm-5.3"
+}

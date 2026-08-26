@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Kaosongan-kaosongan bakal dikosongkeun ⟨את⟩ bumi, jeung kadjaran-kadjaran bakal dijar, sabab Yahwe nyarita ⟨את⟩ kecap ieu.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Kaosongan-kaosongan"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "bakal dikosongkeun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "jeung kadjaran-kadjaran"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "bakal dijar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:12.665258780Z",
+  "model": "glm-5.3"
+}

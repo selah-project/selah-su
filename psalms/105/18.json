@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Maranehna ngeupeuh saatna ku beubeulian; beusi asup kana jiwanana.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ngeupeuh"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "ku beubeulian"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "saatna"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "beusi"
+    },
+    {
+      "surface": "באה",
+      "gloss": "asup kana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.798354116Z",
+  "model": "glm-5.3"
+}

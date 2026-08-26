@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Pajeulik-Na haté maranéhna pikeun ngabencan umat-Na, pikeun ngarancang licik ngalawan palayan-palayan-Na.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Pajeulik-Na"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "haté maranéhna"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "pikeun ngabencan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "pikeun ngarancang licik"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "ngalawan palayan-palayan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:43.244143689Z",
+  "model": "glm-5.3"
+}

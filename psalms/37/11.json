@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung nu andap haté bakal mibanda warisanana bumi, jeung bungah kana lobana kadaméan.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "jeung nu andap haté"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bakal mibanda warisanana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "jeung bungah"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lobana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kadaméan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:46.460077020Z",
+  "model": "glm-5.3"
+}

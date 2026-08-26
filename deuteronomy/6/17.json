@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Uruluk-tuturkeun pisan ⟨את⟩ paréntah-paréntah Yahwe Elohim aranjeun, sarta kasaksianana, sarta katangtuanana, nu manéhna paréntahkeun ka anjeun;",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "uruluk"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "tuturkeun pisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paréntah-paréntah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "paréntah-paréntah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "sarta kasaksianana"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "sarta katangtuanana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "manéhna paréntahkeun ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:53.822489476Z",
+  "model": "glm-5.3"
+}

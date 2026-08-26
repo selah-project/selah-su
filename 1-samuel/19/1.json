@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung Shaul nyarita ka Yonatan putrana jeung ka sadaya abdina pikeun matedayan ⟨את⟩ Daud; tapi Yonatan putra Shaul resep pisan ka Daud.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdina"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pikeun matedayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "tapi Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "resep"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "ka Daud"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:14.524696955Z",
+  "model": "glm-5.3"
+}

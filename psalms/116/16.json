@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Ah, Yahwe, sabab abdi kuring abdi Anjeun, abdi kuring abdi Anjeun, putra sakit-sakit Anjeun; Anjeun ngahulang tali-tali pabeungbeungjangan kuring.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi kuring"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi Anjeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi kuring"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi Anjeun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sakit-sakit Anjeun"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "Anjeun ngahulang"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "tali-tali pabeungbeungjangan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:47.601347936Z",
+  "model": "glm-5.3"
+}

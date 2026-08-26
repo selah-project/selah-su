@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Bögana bapa anjeun jeung indung anjeun, jeung nu ngababarakeun anjeun kalawan suka-suka.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bögana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "jeung indung anjeun"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "jeung bakal suka-suka"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "nu ngababarakeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:20.006041680Z",
+  "model": "glm-5.3"
+}

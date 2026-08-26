@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Sanggeus éta manéhna ngabarangkeun hiji awéwé, sarta manéna nyebut ngaranna Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "sanggeus éta"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ngabarangkeun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hiji awéwé"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "sarta nyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:44.620509889Z",
+  "model": "glm-5.3"
+}

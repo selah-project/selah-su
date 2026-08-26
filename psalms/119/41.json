@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jeung mangga kanyaah satia-Mu ditepikeun ka abdi, wahai Yahwe, panglulugutan-Mu, luyu jeung ucapan-Mu.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "jeung mangga ditepikeun ka abdi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "panglulugutan-Mu"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "luyu jeung ucapan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.079666356Z",
+  "model": "glm-5.3"
+}

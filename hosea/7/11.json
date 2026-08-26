@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jadi Efrayim jadi siga japati ngabodo, tanpa haté: ka Mitsrayim maranehna nagero, ka Ashur maranehna indit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "siga japati"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "ngabodo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nagero"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ka Ashur"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "indit"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:29.503817197Z",
+  "model": "glm-5.3"
+}

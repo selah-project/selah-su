@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 84,
+  "translation": "Betjina nu nyicingan imah anjeun, masih keneh muji anjeun. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Betjina"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "nu nyicingan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imah anjeun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih keneh"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "muji anjeun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:30.113850887Z",
+  "model": "glm-5.3"
+}

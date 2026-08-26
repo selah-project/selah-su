@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Jeung aranjeunna ninggalkeun Mitsrayim, sumping ka tanah Kenaan, ka Yaakov bapana.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "anjeunna ninggalkeun"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "sumping ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:47.289982162Z",
+  "model": "glm-5.3"
+}

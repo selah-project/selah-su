@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 24:4",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Teras kapanggih putra-putra Elazar loba pikeun pamingpin-pamingpin ti putra-putra Itamar; babagi ⟨maranehna⟩: pikeun putra-putra Elazar pamingpin-pamingpin rumah-tatua genep-belas, jeung pikeun putra-putra Itamar nurutkeun rumah-tatua-na dalapan.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "teras kapanggih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "pikeun pamingpin-pamingpin"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "para jalma\/paragi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "ויחלקום",
+      "gloss": "babagi maranehna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikeun putra-putra"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "pamingpin-pamingpin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pikeun rumah"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "tatua"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "genep"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-belas"
+    },
+    {
+      "surface": "ויתמר-placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "jeung pikeun putra-putra"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pikeun rumah"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "tatua-tatuana"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "dalapan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:15:34.670963261Z",
+  "model": "glm-5.3"
+}

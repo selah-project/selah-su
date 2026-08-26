@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung aranjeunna nyarita: Upami kami meunang kanyaah di panon anjeun, dipasrahkeun ⟨את⟩ tanah ieu ka abdi-abdi anjeun jadi kagungan; ulah ngaliwatkeun kami ngaliwatan ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "kami meunang"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kanyaah"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di panon anjeun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dipasrahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ka abdi-abdi anjeun"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "jadi kagungan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "ngaliwatkeun kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-26T11:36:54.428299752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Tapi lima raja-rajana kabur, sarta nyumput dina guha di Makéda.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "tapi kabur"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "lima"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-na (ieu)"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "sarta nyumput"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "dina guha"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "di Makéda"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:16.954745810Z",
+  "model": "glm-5.3"
+}

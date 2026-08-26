@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Angkat kawih, jeung tabuhkeun tambur, kecapi nu ngeunheuy jeung nebel.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kawih"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "jeung tabuhkeun"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tambur"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kecapi"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nu ngeunheuy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebel"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:52.429427119Z",
+  "model": "glm-5.3"
+}

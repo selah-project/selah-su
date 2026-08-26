@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 36:15",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Sarta maranehna ngomong ka anjeunna: Diuk, mangga, sarta bacana kana ceuli abdi sadaya; tuluy Barukh maca kana ceuli maranehna.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "maranehna ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "וקראנה",
+      "gloss": "bacana"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "kana ceuli abdi sadaya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maca"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "kana ceuli maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:35:46.430684221Z",
+  "model": "glm-5.3"
+}

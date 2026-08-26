@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Yahwe nyarita: Sabab maranéhna nginggakeun ⟨את⟩ Taurat abdi nu abdi nendeukeun di payuneunana maranéhna, jeung henteu ngadangu kana sora abdi, jeung henteu jalan di jerona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "maranéhna nginggakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taurat abdi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Taurat abdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "abdi nendeukeun"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di payuneunana maranéhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "kana sora abdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T13:25:26.799185452Z",
+  "model": "glm-5.3"
+}

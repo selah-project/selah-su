@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Lamun anjeun nempo keledai nu benci ka anjeun suhud handapeun bebebanana, jeung anjeun nana-geureunkeun ngantepkeun ⟨dirina⟩ — ngantep anjeun ngantepkeun babarengan jeung ⟨anjeunna⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "anjeun-tingali"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keledai"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "nu-benci-ka-anjeun"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "suhud"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "handapeun"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "bebebanana"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "jeung-anjeun-nana-geureunkeun"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ngantepkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka-diri-aneunna"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ngantep-nya"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "anjeun-ngantepkeun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarengan-jeung-aneunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:24.726409260Z",
+  "model": "glm-5.3"
+}

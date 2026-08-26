@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jadi kajadian, nalika Rakhel geus melahirkeun ⟨את⟩ Yusup, Yaakov ngomong ka Lavan: Lepaskeun abdi, bilih abdi jungan ka tempat abdi jeung ka nagari abdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkeun"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusup"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusup"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "lepaskeun abdi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "bilih abdi jungan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "tempat abdi"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "jeung ka nagari abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:05.360840403Z",
+  "model": "glm-5.3"
+}

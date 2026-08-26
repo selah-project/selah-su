@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Pamikiran jero ⟨maranehna⟩: imah-imah ⟨maranehna⟩ salawasna, padumukanana turun-tumurun ka incu buyut; maranehna ngagero ngaran-ngaran maraneh npamaké niwaskeun pedah-watesanana",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "pamikiran jero maranehna"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "imah-imah maranehna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "padumukanana"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "turun-tumurun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ka incu buyut"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "maranehna ngagero"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "ngaran-ngaran maranehna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamaké niwaskeun"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "pedah-watesanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:50.574610267Z",
+  "model": "glm-5.3"
+}

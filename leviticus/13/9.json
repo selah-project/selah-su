@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Ngageugeuh tsaraat lamun aya dina manusa, jeung ⟨manehna⟩ dibawa ka imam.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ngageugeuh"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "dina manusa"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "jeung dibawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:34.234786Z",
+  "model": "glm-5.3"
+}

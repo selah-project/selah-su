@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Sarta raja Mitsrayim ngarévok anjeunna di Yerushalaim, sarta muka danda ka ⟨di⟩ bumina saratus kikar pérak jeung sa-kikar emas.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "sarta ngarévok anjeunna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "sarta muka danda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumina"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "jeung sa-kikar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-26T16:34:25.149432333Z",
+  "model": "glm-5.3"
+}

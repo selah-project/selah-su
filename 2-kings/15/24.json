@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 15:24",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung anjeunna ngalakukeun nu jahat dina panon Yahwe; anjeunna teu mundur tina dosa-dosa Yaravam putra Nevat, nu mawa Yisrael dosa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anjeunna ngalakukeun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "סר",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "tina dosa-dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "mawa dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T16:57:20.888084338Z",
+  "model": "glm-5.3"
+}

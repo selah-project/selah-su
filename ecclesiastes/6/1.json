@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Aya kahorchén nu katingali ku abdi di handapeun panonpoé, sarta beurat pisan ⟨éta⟩ luhureun manusa.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kahorchén"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "katingali ku abdi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "sarta beurat pisan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨éta⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:38.296177409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung kuring nimaruan ⟨את⟩ berkah kuring ka aranjeun dina taun ka-genep, jeung éta ngahasilkeun ⟨את⟩ panén pikeun tilu taun.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "jeung kuring nimaruan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkah kuring"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "berkah kuring"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "dina taun"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ka-genep"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "jeung éta ngahasilkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panén"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "panén"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "pikeun tilu"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "taun-taun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:15.954620938Z",
+  "model": "glm-5.3"
+}

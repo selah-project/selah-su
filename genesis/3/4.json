@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sanca ngomong ka ⟨awéwé⟩: \"Moal paéh, aranjeun moal paéh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Sanca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨awéwé⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Moal"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "arahanjeun moal paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:48.003429187Z",
+  "model": "glm-5.3"
+}

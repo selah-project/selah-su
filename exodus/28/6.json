@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung maranéhna baris nyieun ⟨את⟩ ⟨the⟩ efod — emas, biru-bini, jeung ungu, cacing-krimisi, jeung linen-lemes dipilin, karya nu ngarancang-sadia.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "jeung baris nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru-bini"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jeung ungu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "cacing"
+    },
+    {
+      "surface": "שני",
+      "gloss": "krimisi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeung linen-lemes"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dipilin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nu ngarancang-sadia"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:48.782012924Z",
+  "model": "glm-5.3"
+}

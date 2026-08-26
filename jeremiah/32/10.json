@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "sarta kuring nulis dina buku, sarta kuring ngasegel, sarta mairin saksi-saksi, sarta nimbang ⟨את⟩ duit dina timbangan.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "sarta kuring nulis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dina buku"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "sarta kuring ngasegel"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "sarta mairin"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "sarta nimbang"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "duit"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "dina timbangan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:34:49.639123928Z",
+  "model": "glm-5.3"
+}

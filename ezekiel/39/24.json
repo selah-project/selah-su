@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Sarua jeung kotoranana jeung sarua jeung palanggaranna abdi ngarawat ⟨את⟩ aranjeunna, jeung abdi nyumputkeun paneungeun abdi ti maranehna.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "sarua jeung kotoranana"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "jeung sarua jeung palanggaranna"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "abdi ngarawat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeuna"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "jeung abdi nyumputkeun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "paneungeun abdi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ti maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:57:57.946421499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung sadayana nu di Yavesh-Gilad ngadéngé ⟨את⟩ sadaya nu geus dipigawé ku Pilishti ka Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana nu geus dipigawé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "geus dipigawé"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilishti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Shaul"
+    }
+  ],
+  "timestamp": "2026-08-26T17:25:22.473784152Z",
+  "model": "glm-5.3"
+}

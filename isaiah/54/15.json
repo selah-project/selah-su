@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Ih, pasti aya nu ngagero datang, lain ku ⟨את⟩ kuring; saha nu ngagero datang jeung ⟨את⟩ anjeun? Ka anjeun manéhna bakal ragrag.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ih"
+    },
+    {
+      "surface": "גור",
+      "gloss": "pasti aya nu ngagero"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bakal datang ngagero"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "lain"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "ku kuring"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "גר",
+      "gloss": "nu ngagero datang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bakal ragrag"
+    }
+  ],
+  "timestamp": "2026-08-26T13:18:16.426146285Z",
+  "model": "glm-5.3"
+}

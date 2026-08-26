@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Teras Israil asup ka Mitsrayim, jeung Yaakov ngabuméa di taneuh Ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "teras asup"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "ועקב",
+      "gloss": "jeung Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ngabuméa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:24.852025263Z",
+  "model": "glm-5.3"
+}

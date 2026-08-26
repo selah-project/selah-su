@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Tinareuwuhan anu nyandak suap pikeun maéhan nefesh — getih nu teu dosa; sarta bakal ngomong sakabéh rakyat: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tinareuwuhan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suap"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "pikeun maéhan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nu teu dosa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "sarta bakal ngomong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:34.302735624Z",
+  "model": "glm-5.3"
+}

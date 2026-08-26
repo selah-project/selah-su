@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 126,
+  "translation": "Mulihekéné, wah Yahwe, ⟨את⟩ kaayaan mulih urang, sapas walungan-ngocor di Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Mulihekéné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaayaan mulih urang"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "kaayaan mulih urang"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "sapas walungan-ngocor"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di Negev"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:16.055918705Z",
+  "model": "glm-5.3"
+}

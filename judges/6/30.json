@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung lalaki-lalaki kota nyarita ka Yoas: Kaluarkeun putra anjeun, sangkan manéhna paéh, sabab manéhna ngaruntag ⟨את⟩ mézbah Baal, jeung sabab manéhna nebang ⟨את⟩ Asherah nu di luhureunana.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lalaki-lalaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "kaluarkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra anjeun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sangkan manéhna paéh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "ngaruntag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mézbah Baal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "jeung sabab"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nebang"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di luhureunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:04:11.499865684Z",
+  "model": "glm-5.3"
+}

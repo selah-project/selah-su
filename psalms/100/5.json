@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 100,
+  "translation": "Sabab Yahwe ⟨is⟩ hadé, salawasna kanyaah satia-perjangjianana, jeung nepi ka katurunan-turunan jeung katurunan-turunan kasatiaanana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-perjangjianana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung nepi ka"
+    },
+    {
+      "surface": "דר",
+      "gloss": "katurunan-turunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jeung katurunan-turunan"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "kasatiaanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:36.425664738Z",
+  "model": "glm-5.3"
+}

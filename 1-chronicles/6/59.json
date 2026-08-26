@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung tina suku Asher: ⟨את⟩ Mashal sareng ⟨את⟩ tegal-ageungna, jeung ⟨את⟩ Abdon sareng ⟨את⟩ tegal-ageungna.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jeung tina suku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Mashal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sareng ⟨את⟩",
+      "marks": "tegal-ageungna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tegal-ageungna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tegal-ageungna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tegal-ageungna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:58.791823966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung ⟨את⟩ daging sapi jantan, jeung ⟨את⟩ kulitna, jeung ⟨את⟩ taina, anjeul ngaduruk ku seuneu di luar ti kemah; kurban dosa ⟨is⟩ eta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "daging sapi jantan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi jantan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kulitna"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kulitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taina"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "taina"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "anjeul ngaduruk"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ti kemah"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:01.587138487Z",
+  "model": "glm-5.3"
+}

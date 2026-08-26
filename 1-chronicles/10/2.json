@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Peleshet ngejar Sha-ul sarta ngejar putrana-putrana, sarta Peleshet ngabeledug ⟨את⟩ Yonatan jeung ⟨את⟩ Avinadav jeung ⟨את⟩ Malki-Shua, putra-putra Sha-ul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "nempel ngejar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "jeung sanggeus"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putrana-putrana"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sarta ngabeledug"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:47.028320539Z",
+  "model": "glm-5.3"
+}

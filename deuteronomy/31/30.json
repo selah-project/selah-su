@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Teras Moshe nyarita dina ceuli sakumumur balaréa Israél ⟨את⟩ kecap-kecap ieu lagu, nepi ka toésnggeusna.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "teras nyarita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dina ceuli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumumur"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "toésnggeusna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:13.049672772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sabab anjeun nyarios: naha eta mawa untung ka Anjeun? naon untungna abdi meunang ti dosa abdi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "anjeun nyarios"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "mawa untung"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "untungna abdi meunang"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ti dosa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:17:02.169000390Z",
+  "model": "glm-5.3"
+}

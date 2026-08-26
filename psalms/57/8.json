@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Ati kuring gé siap, hai Elohim; ati kuring gé siap; kuring baris nyanyi jeung mios pakakas musik.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "gé siap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gé siap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuring baris nyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "jeung mios pakakas musik"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:02.979347530Z",
+  "model": "glm-5.3"
+}

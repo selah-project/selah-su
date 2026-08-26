@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Dina poé éta kuring baris ngidugkeun ka Eli ⟨את⟩ sadaya nu kuring geus omongkeun ngeunaan imahna: mimiti jeung ngarandapan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "kuring ngidugkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu kuring geus omongkeun ngeunaan imahna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kuring geus omongkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mimiti"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "jeung ngarandapan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:08.440294021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kawas kuring teu kungsi jadi, kuring moal jadi; ti batin-témbongan ka kubur kuring dibawa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kungsi jadi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "kuring jadi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ti batin-témbongan"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ka kubur"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "kuring dibawa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:58.534813921Z",
+  "model": "glm-5.3"
+}

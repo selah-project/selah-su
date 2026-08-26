@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "⟨את⟩ méja ⟨את⟩ sagala parabotna, jeung ⟨את⟩ roti kaayunan",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "méja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala parabotna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "roti kaayunan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "kaayunan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:15.748379381Z",
+  "model": "glm-5.3"
+}

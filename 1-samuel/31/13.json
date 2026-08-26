@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Lajeng aranjeunana nyandak ⟨את⟩ tulang-tulangna, sarta nguburkeun dina handapeun tangkal tarariska di Yaveys, lajeng aranjeunna puasa tujuh poé.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anjeunna nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulangna"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "tulang-tulangna"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "nguburkeun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dina handapeun"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tangkal tarariska"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "di Yaveys"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "puasa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:03.629142913Z",
+  "model": "glm-5.3"
+}

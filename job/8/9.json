@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sabab kamari waé urang ⟨⟨⟩⟩ jeung teu nyaho naon-naon, sabab poé-poé urang di luhur bumi ngan kalangkang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "kamari"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "צל",
+      "gloss": "kalangkang"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "poé-poé urang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:40.235309394Z",
+  "model": "glm-5.3"
+}

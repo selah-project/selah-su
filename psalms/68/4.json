@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Jeung nu bener gumbira, maranehna sukur-sukur di payuneun Elohim, sarta maranehna bungah kacida-bida.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "jeung nu bener"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gumbira"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "sukur-sukur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "bungah kacida-bida"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kalawan kabungahan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:34.067773808Z",
+  "model": "glm-5.3"
+}

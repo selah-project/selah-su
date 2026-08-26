@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 67,
+  "translation": "Umajiké umat-umat muji Anjeu, yén Élohím; umajiké umat-umat muji Anjeu, sadayana.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "umajiké umat-umat muji Anjeu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohím"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "umajiké umat-umat muji Anjeu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:09.502495418Z",
+  "model": "glm-5.3"
+}

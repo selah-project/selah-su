@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Beuli hikmah, beuli pamahaman; ulah poho, jeung ulah mieung ti kecap-kecap tina baham abi.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "beuli"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "beuli"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pamahaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "poho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תט",
+      "gloss": "mieung"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ti kecap-kecap"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tina baham abi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:54:45.984228774Z",
+  "model": "glm-5.3"
+}

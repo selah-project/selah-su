@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung maranéhna baris nyandak ⟨את⟩ ⟨the⟩ emas, jeung ⟨את⟩ biru-bini, jeung ⟨את⟩ ungu, jeung ⟨את⟩ cacing-krimisi, jeung ⟨את⟩ linen-lemes.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "jeung maranéhna"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "baris nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "biru-bini"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "biru-bini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ungu"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ungu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "cacing-krimisi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "cacing"
+    },
+    {
+      "surface": "השני",
+      "gloss": "krimisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "linen-lemes"
+    },
+    {
+      "surface": "השש",
+      "gloss": "linen-lemes"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:48.781772285Z",
+  "model": "glm-5.3"
+}

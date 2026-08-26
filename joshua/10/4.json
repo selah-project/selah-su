@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "«Naék kaéné ka abdi, jeung tulung abdi, supaya urang ngagégem ⟨את⟩ Gibon, sabab éta kota geus daméy jeung Yehosua jeung ⟨את⟩ barbara Israél.»",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Naék"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaéné ka abdi"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "jeung tulung abdi"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "supaya urang ngagégem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "geus daméy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barbara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:33.607767527Z",
+  "model": "glm-5.3"
+}

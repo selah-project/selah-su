@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Dibalikeun-Na ⟨את⟩ cai maranéhna jadi getih, sarta dipaéhan ⟨את⟩ lauk maranéhna.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Dibalikeun-Na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cai maranéhna"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "cai maranéhna"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "jadi getih"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sarta dipaéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauk maranéhna"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "lauk maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:25.409430147Z",
+  "model": "glm-5.3"
+}

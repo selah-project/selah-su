@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 61,
+  "translation": "Pikeun nu mingpin, kalawan iringan senar seni; pupuhunan Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pikeun nu mingpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "kalawan"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "iringan senar seni"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pupuhunan Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:41.310132834Z",
+  "model": "glm-5.3"
+}

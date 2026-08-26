@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Manéhna nyandak maranéhna, ngaliwatkeun maranéhna meuntas walungan, sarta ngaliwatkeun ⟨את⟩ sagala nu jadi milikna.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "nyandak maranéhna"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ngaliwatkeun maranéhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walungan"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ngaliwatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nu jadi milikna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jadi milikna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:38.885355946Z",
+  "model": "glm-5.3"
+}

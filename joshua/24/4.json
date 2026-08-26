@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung Kuring méré ka Yitsxak ⟨את⟩ Yaakov jeung ⟨את⟩ Esav; jeung Kuring méré ka Esav ⟨את⟩ gunung Seir pikeun ngawasana; jeung Yaakov jeung anak-anakna turun ka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "jeung Kuring méré"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ka Yitsxak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "jeung Kuring méré"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ka Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "pikeun ngawasana"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "anjeunna (gunung Seir)"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "jeung Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jeung anak-anakna"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turun ka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:22.286130726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Yahwe ngomong ka Shemuél: Sumungget ka sora ⟨rakyat⟩ eta, ka sagala nu maranehna ngomongkeun ka anjeun; sabab henteu ⟨את⟩ anjeun maranehna nampik, sabab ⟨את⟩ abdi maranehna nampik, tina jadi raja di luhur maranehna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sumungget"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka sora"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat eta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "maranehna ngomongkeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun (nu ditampik)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "maranehna nampik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ abdi",
+      "marks": "abdi (nu ditampik)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "maranehna nampik"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "tina jadi raja"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di luhur maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:49.606453407Z",
+  "model": "glm-5.3"
+}

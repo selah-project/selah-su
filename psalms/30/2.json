@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Abdi badé ngaluhurkeun anjeun, Yahwe, sabab anjeun geus ngangkat abdi, jeung anjeun henteu ngahasiakeun musuh-musuh abdi bungah ngeunaan abdi.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "ngaluhurkeun anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "anjeun geus ngangkat abdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "anjeun ngajadikeun bungah"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuh abdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngeunaan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:54.142281982Z",
+  "model": "glm-5.3"
+}

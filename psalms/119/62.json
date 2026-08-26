@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Dina tengah peuting abdi bangun pikeun muji Anjeun, alá ⟨⟨ because of ⟩⟩ tina putusan-hukum kaberaratan-Mo.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "tengah"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "abdi bangun"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "pikeun muji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "alá tina"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-hukum"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kaberaratan-Mo"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:30.456823834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Ngan sagala kota-kota anu nangtung di luhureun tungtunanana moal dibeuleum ku Yisrael, iwal ti ⟨את⟩ Xatsor wungulan anu dibeuleum ku Yéhosua.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "anu nangtung"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "tungtunanana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "dibeuleum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ku Yisrael"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "iwal ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "wungulan"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibeuleum"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ku Yéhosua"
+    }
+  ],
+  "timestamp": "2026-08-26T11:57:55.267336968Z",
+  "model": "glm-5.3"
+}

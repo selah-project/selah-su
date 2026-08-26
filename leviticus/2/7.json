@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lamun kurban kaula minchah ti marcheshet, tina tipung lemes jeung minyak kudu dijieun.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "marcheshet"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "kurban kaula"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tipung lemes"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "jeung minyak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kudu dijieun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:09.081952663Z",
+  "model": "glm-5.3"
+}

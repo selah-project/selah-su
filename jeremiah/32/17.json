@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 32:17",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Ah Adonay Yahwe, tingali, Anjeun nyieun ⟨את⟩ langit-langit jeung ⟨את⟩ bumi ku kakuatan-Mu nu agung jeung ku leungeun-Mu nu dibeulahkeun; euweuh nu mustahil ti Anjeun, sagala perkara.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit-langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "ku kakuatan-Mu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nu agung"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "jeung ku leungeun-Mu"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "nu dibeulahkeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "nu mustahil"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti Anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    }
+  ],
+  "timestamp": "2026-08-26T13:34:51.059856891Z",
+  "model": "glm-5.3"
+}

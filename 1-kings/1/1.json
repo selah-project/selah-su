@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung raja Dawid geus kolot, asup kana poé-poé, tuluy aranjeunna mungkus anjeunna ku papakéan, tapi teu ngahaneut pikeun anjeunna.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jeung-raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kana-poé-poé"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "mungkus-anjeunna"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ku-papakéan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi-teu"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ngahaneut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun-anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:54.376231089Z",
+  "model": "glm-5.3"
+}

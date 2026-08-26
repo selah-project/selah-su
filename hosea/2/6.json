@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tur ⟨את⟩ anak-anakna moal abdi sayang-sayang, sabab anak-anak zina maranehna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "tur ⟨את⟩",
+      "marks": "anak-anakna"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "abdi sayang-sayang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zina"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:17.297232557Z",
+  "model": "glm-5.3"
+}

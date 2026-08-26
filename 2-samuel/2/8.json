@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Samentara Avner bin Ner, panglima pasukan nu milu Shaul, ngambil ⟨את⟩ Ish-Boshet bin Shaul, sarta mawa manéhna ngaliwatan ka Mahanaim.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "samentara Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu milu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Shaul"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ngambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boshet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "mawa ngaliwatan"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:52.458325172Z",
+  "model": "glm-5.3"
+}

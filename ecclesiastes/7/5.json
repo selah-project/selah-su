@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Leuwih hadé ngadangu omongan naséhat jeung teuas ti jalma pinter, batan ti ⟨hiji⟩ jalma ngadangu kawih nu bodo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "leuwih hadé"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "omongan naséhat jeung teuas"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "jalma pinter"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "batan ti jalma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kawih"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nu bodo"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:05.288201996Z",
+  "model": "glm-5.3"
+}

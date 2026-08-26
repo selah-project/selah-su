@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung kuring ngomong ka aranjeun dina waktos éta, sangkan nyarita: Teu sanggup kuring sorangan mawa ⟨את⟩ aranjeun.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jeung kuring ngomong"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktos"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sorangan"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:39.241683224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung putra-putra Het ngajawab ⟨את⟩ Avraham, nyarios ka anjeunna:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "jeung ngajawab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:00.338675939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Teu meunang saurang lalaki ngala ⟨את⟩ pamajikan bapana, jeung teu meunang muka sisina bapana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu meunang"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ngala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikan bapana"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu meunang"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "muka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sisina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:48:57.171801933Z",
+  "model": "glm-5.3"
+}

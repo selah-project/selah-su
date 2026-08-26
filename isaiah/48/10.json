@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Tempo, kuring geus ngamurnikeun anjeun, tapi lain kalawan pérak; kuring milih anjeun dina tungku karunya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "kuring geus ngamurnikeun anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kalawan pérak"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "kuring milih anjeun"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "dina tungku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "karunya"
+    }
+  ],
+  "timestamp": "2026-08-26T13:15:41.644690688Z",
+  "model": "glm-5.3"
+}

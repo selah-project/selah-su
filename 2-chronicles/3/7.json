@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung disalutanana ⟨את⟩ bumi — balok-balokna, ambang-ambangna, pinding-pindingna, sarta panto-pantona — ku emas; sarta diukir Kerubim dina pinding-pinding.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "disalutanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "balok-balokna"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ambang-ambangna"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "pinding-pindingna"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "panto-pantona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "diukir"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "Kerubim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "pinding-pinding"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:05.921455416Z",
+  "model": "glm-5.3"
+}

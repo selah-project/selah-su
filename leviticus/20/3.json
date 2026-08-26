@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung abdi ogé bakal nangtukeun beungeut-abdi ka jalma éta, jeung abdi bakal motong ⟨את⟩ manéhna ti tengah bangsana, sabab tina turunana manéhna méré ka Molekh, pikeun ngacimuhkeun ⟨את]] tempat suci-abdi jeung ngarameskeun ⟨את]] ngaran suci-abdi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jeung abdi ogé"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "abdi nangtukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beungeut-abdi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut-abdi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ka jalma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "jeung abdi motong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ti tengah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bangsana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "tina turunana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "manéhna méré"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka Molekh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ngacimuhkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat suci-abdi"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "tempat suci-abdi"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "jeung ngarameskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran suci-abdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "suci-abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:28.001735324Z",
+  "model": "glm-5.3"
+}

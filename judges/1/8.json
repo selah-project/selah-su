@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung putra-putra Yehuda perang ngalawan Yerushalaim, jeung aranjeunna nakolkana, jeung aranjeunna ngabeledugkeun ⟨את⟩-na ku lési pedang, jeung ⟨את⟩ kota éta aranjeunna ngabeuleum ku seuneu.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ngalawan Yerushalaim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "takolkana"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩-na",
+      "marks": "ngabeledugkeun anjeunna (kota)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ngabeledugkeun"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku lési"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kota éta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota éta"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ngabeuleum"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:22.219754273Z",
+  "model": "glm-5.3"
+}

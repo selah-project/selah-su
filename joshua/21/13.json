@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung ka anak-anakna Aharon imam dibikeun ⟨את⟩ kota perlindungan pangebanna — ⟨את⟩ Khevron jeung ⟨את⟩ taneuh angonna — jeung ⟨את⟩ Livna jeung ⟨את⟩ taneuh angonna.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "jeung ka anak-anakna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota perlindungan pangebanna"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pangebanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:06.429134732Z",
+  "model": "glm-5.3"
+}

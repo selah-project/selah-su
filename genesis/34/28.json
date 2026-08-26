@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "⟨את>> marané domba jeung ⟨את>> sapi maranéhna jeung ⟨את>> kuda heulang maranéhna jeung ⟨את>> sakabéh nu aya di kota jeung ⟨את>> sakabéh nu aya di sawah maranéhna dicandak.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marané domba"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "marané domba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapi maranéhna"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "sapi maranéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuda heulang maranéhna"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kuda heulang maranéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh nu aya di kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "aya di kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh nu aya di sawah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "aya di sawah"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "maranéhna dicandak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:30.134446873Z",
+  "model": "glm-5.3"
+}

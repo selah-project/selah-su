@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "nu mana putra-putra urang saperti tatangkalan anu dipelak, gegedéngen dina mangsa ngorana, putri-putri urang saperti juru-juru wangunan anu dipahat, nurutan rarancang balé agung.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu mana"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "putra-putra urang"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "saperti tatangkalan anu dipelak"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "gegedéngen"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "dina mangsa ngorana"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "putri-putri urang"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "saperti juru-juru wangunan"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "anu dipahat"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "nurutan rarancang"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "balé agung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:34.254106683Z",
+  "model": "glm-5.3"
+}

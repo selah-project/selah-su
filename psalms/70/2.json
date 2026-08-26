@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 70,
+  "translation": "Elohim, ⟨pikeun⟩ nyalametkeun abdi; Yahwe, ⟨pikeun⟩ pitulung abdi, gancang.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "pikeun nyalametkeun abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "pikeun pitulung abdi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "gancang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:05.889187297Z",
+  "model": "glm-5.3"
+}

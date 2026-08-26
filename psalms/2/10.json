@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung ayeuna, hé para raja, bijak ulah; diajarkeun, anu ngahukum di bumi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bijak ulah"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "diajarkeun"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "anu ngahukum"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:55.699239928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung raja David ngadéngé ⟨את⟩ sadaya kecap-kecap ieu, jeung manahna ngabeledug sangat.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "jeung ngabeledug"
+    },
+    {
+      "surface": "לו",
+      "gloss": "manahna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:10.895754386Z",
+  "model": "glm-5.3"
+}

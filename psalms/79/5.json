@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 79,
+  "translation": "Nepi ka iraha, Yahwe? anjeun murubug salawasna? kacemburuan anjeun ngahurung kawas seuneu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Nepi ka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "anjeun murubug"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ngahurung"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "kacemburuan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:54.540632736Z",
+  "model": "glm-5.3"
+}

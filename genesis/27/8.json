@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Mangka ayeuna, putra kuring, sungkan sora abdi, kana hal nu kuring paréntahkeun ⟨את⟩ ka anjeun.",
+  "tokens": [
+    {
+      "surface": "וועתה",
+      "gloss": "Mangka ayeuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra kuring"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sungkan"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sora abdi"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kana hal nu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "paréntahkeun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:32.263047704Z",
+  "model": "glm-5.3"
+}

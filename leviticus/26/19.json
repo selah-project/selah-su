@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung abdi baris ngajeungbrékkeun ⟨את⟩ kamégangan kakuatan anjeun, sarta abdi baris ngajadikeun langit-langit anjeun kawas beusi, jeung ⟨את⟩ taneuh anjeun kawas tambaga.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "jeung abdi baris ngajeungbrékkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamégangan kakuatan anjeun"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamégangan"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "kakuatan anjeun"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "sarta abdi baris ngajadikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit-langit anjeun"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "langit-langit anjeun"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "kawas beusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh anjeun"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "taneuh anjeun"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "kawas tambaga"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:13.863413638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Sangkan létah abdi napel kana langit-langit b sungut abdi, mun abdi teu émut ka Anjeun, mun abdi teu ngangkat ⟨את⟩ Yerushalaim di luhur kagumbiraan pangbadagna abdi.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "napel"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "létah abdi"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "kana langit-langit b sungut abdi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "émut ka Anjeun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "puncak"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "kagumbiraan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:30.245200248Z",
+  "model": "glm-5.3"
+}

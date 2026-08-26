@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Aharon mawa keur ⟨את⟩ embé korban dosa nu pibogana, sarta ngabisakeun dosa pikeun manéhna sorangan jeung pikeun kulawargana.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "jeung mawa keur"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "embé korban dosa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "embé"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pibogana"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "sarta ngabisakeun dosa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pikeun manéhna sorangan"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "jeung pikeun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kulawargana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:47.666078771Z",
+  "model": "glm-5.3"
+}

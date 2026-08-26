@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Alus Anjeun geus dipigawé ka abdi Anjeun, wahai Yahwe, luyu jeung kecap Anjeun.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Anjeun geus dipigawé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "luyu jeung kecap Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:22.870425802Z",
+  "model": "glm-5.3"
+}

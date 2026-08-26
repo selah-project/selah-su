@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung ⟨את⟩ sakabéh raja-raja Tsor, jeung ⟨את⟩ sakabéh raja-raja Tsidon, jeung ⟨את⟩ raja-raja pulo nu di seberang laut.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh raja-raja Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh raja-raja Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "raja-raja pulo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האי",
+      "gloss": "pulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-26T13:31:34.511045617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Kitu ogé dilakukeunana taun ka taun, saban naékna ka bait Yahwe, kian manahna diganggu, terus anjeunna nangis jeung teu daék dahar.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dilakukeunana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka taun"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "saban"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "naékna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kian"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "manahna diganggu"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "terus nangis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "daék dahar"
+    }
+  ],
+  "timestamp": "2026-08-26T16:50:32.444685779Z",
+  "model": "glm-5.3"
+}

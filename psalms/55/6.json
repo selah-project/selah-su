@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Kapieuyeung jeung moyan asup ka jero abdi, jeung kagét nu matak beungeut ngatungkulung abdi.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "kapieuyeung"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "jeung moyan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka jero abdi"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "jeung ngatungkulung abdi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kagét nu matak beungeut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:14.125033953Z",
+  "model": "glm-5.3"
+}

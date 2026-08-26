@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung ⟨את⟩ pagedugan Yerushalaim sabudeureunana dipaéhan ku sagala wadya Kasdim nu jeung panglima pangécut.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "pagedugan"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "pagedugan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureunana"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dipaéhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wadya"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "pangécut"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:10.820667223Z",
+  "model": "glm-5.3"
+}

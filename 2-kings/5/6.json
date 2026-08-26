@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung manéhna mawa ⟨the⟩ surat éta ka raja Israel, eusina: âAyeuna, iraha surat ieu datang ka anjeun, punber kuring geus ngirim ka anjeun ⟨את⟩ Naaman abdi kuring, sangkan anjeun ngubaran manéhna tina kutu-kutu-na.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "manéhna-mawa"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat-éta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "eusina"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "iraha-datang"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka-anjeun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "punber"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "kuring-geus-ngirim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka-anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-kuring"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "sangkan-anjeun-ngubaran-manéhna"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "tina-kutu-kutu-na"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:53.362473371Z",
+  "model": "glm-5.3"
+}

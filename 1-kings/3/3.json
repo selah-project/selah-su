@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sarta Shelomoh bogoh ka Yahwe, pikeun jalan dina parentah David ramana; ngan di tempat-tempat luhur anjeunna ngana qurban jeung ngahaseup bako dupa.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Sarta ... bogoh ka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pikeun jalan"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "dina parentah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di tempat-tempat luhur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ngana qurban"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "jeung ngahaseup bako dupa"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:44.875905770Z",
+  "model": "glm-5.3"
+}

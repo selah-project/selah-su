@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Teras kaluar Moshe ti payuneun Paroh, teras ngahényang ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "teras kaluar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "teras ngahényang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:09.275346485Z",
+  "model": "glm-5.3"
+}

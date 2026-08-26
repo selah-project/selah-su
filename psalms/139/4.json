@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Sabab euweuh kecap dina létah kuring — tingali, Yahwe, Anjeun nyaho sadayana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "dina létah kuring"
+    },
+    {
+      "surface": "הן",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Anjeun nyaho"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sadayana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:19.528855132Z",
+  "model": "glm-5.3"
+}

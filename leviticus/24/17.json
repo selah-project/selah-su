@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung saurang jalma, upama manehna ngampak nyawa manusa, pasti manehna dipateni.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Jeung saurang jalma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "upama"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ngampak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "(sagala)"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti dipateni"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dipateni"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:53.779017831Z",
+  "model": "glm-5.3"
+}

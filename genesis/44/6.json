@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung manehna hasil nyumponan aranjeunna, lajeng ngomong ka aranjeunna ⟨את⟩ omong-omong ieu.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "jeung manehna hasil nyumponan aranjeunna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lajeng ngomong"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omong-omong ieu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "omong-omong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:04.528170512Z",
+  "model": "glm-5.3"
+}

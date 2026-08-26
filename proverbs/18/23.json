@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Nu miskin nyarita ku panyuwun-panyuwun, tapi nu beunghar ngajawab kalawan kasar.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "ku panyuwun-panyuwun"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "רש",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "tapi nu beunghar"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "kalawan kasar"
+    }
+  ],
+  "timestamp": "2026-08-26T15:00:50.970443895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "sabab lamun ka kasagedan anjeun ngagero, ka pangaweruh anjeun méré sora,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ka kasagedan"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "anjeun ngagero"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ka pangaweruh"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anjeun méré"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sora (anjeun)"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:32.595068962Z",
+  "model": "glm-5.3"
+}

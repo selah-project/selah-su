@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Anjeun naek ka luhur, Anjeun mawa panawanan dina kaayaan ditawan, Anjeun nyandak hadiah ti ⟨basa⟩ manusa; malah ti nu nyangkal, sangkan Yah, Elohim, dumuk di dinya.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "Anjeun naek"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "Anjeun mawa panawanan"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "dina kaayaan ditawan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "Anjeun nyandak"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "hadiah"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ti ⟨basa⟩ manusa"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ti nu nyangkal"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "sangkan dumuk"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:08.981055949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Avraham nyebut ⟨את⟩ ngaran putrana nu babar ka anjeunna, nu dipapangkeun Sarah ka anjeunna: Yitsxak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Jeung nyebut"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran putrana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "nu babar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dipapangkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:58.113963627Z",
+  "model": "glm-5.3"
+}

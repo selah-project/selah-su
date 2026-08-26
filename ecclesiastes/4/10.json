@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sabab lamun maranehna ragrag, nu hiji bakal ngahudang ⟨את⟩ babaturanana; tapi nu hiji upama ragrag, euweuh nu kadua pikeun ngahudang manéhna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "maranehna ragrag"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "bakal ngahudang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babaturanana"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "tapi upama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "שני",
+      "gloss": "nu kadua"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "pikeun ngahudang manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:29.252825622Z",
+  "model": "glm-5.3"
+}

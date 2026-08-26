@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Tapi anjeunana nyalametkeun maranéhna pikeun ngamulyakeun Jenengan-Na, pikeun nyahokeun ⟨את⟩ kakuatan-Na.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Tapi anjeunana nyalametkeun maranéhna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pikeun ngamulyakeun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Jenengan-Na"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "pikeun nyahokeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuatan-Na"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "kakuatan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:35.748799375Z",
+  "model": "glm-5.3"
+}

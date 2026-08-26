@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Ogé ieu paribasa-paribasa Shelomo, nu dipindahkeun ku baraya-baraya Chizkiyahu, raja Yehuda.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "paribasa-paribasa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "dipindahkeun"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "baraya-baraya"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:06.148637399Z",
+  "model": "glm-5.3"
+}

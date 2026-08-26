@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Saperti seuneu ngabeuleum leuweung, jeung saperti seuneu ngalaunkeun gunung-gunung.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "saperti seuneu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ngabeuleum"
+    },
+    {
+      "surface": "יער",
+      "gloss": "leuweung"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "jeung saperti seuneu ngalaunkeun"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "ngalaunkeun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:17.752828588Z",
+  "model": "glm-5.3"
+}

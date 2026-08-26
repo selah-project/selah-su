@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Lamun hiji jiwa ngahianat jeung ngalampahkeun khianat ka Yahwe, jeung ngomong goréng ka babarenganana ngeunaan titipan, atawa panarimahan leungeun, atawa nu dirampas, atawa ngarempug ⟨את⟩ babarenganana",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ngahianat"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "jeung ngalampahkeun khianat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khianat"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "jeung ngomong goréng"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ka babarenganana"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "ngeunaan titipan"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "ngeunaan panarimahan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "ngeunaan nu dirampas"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ngarempug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babarenganana"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "babarenganana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:29.309232619Z",
+  "model": "glm-5.3"
+}

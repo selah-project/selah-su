@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung barulayah nalika arinyo ngaliwatan ⟨את⟩ Yarden, arinyo ngadegkeun ⟨את⟩ batu-batu ieu, nu kuring maréntahkeun ⟨את⟩ ka arinyana poé ieu, di gunung Eyval, sarta anjeun ngalapisan ⟨את⟩ arinyo ku sid.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jeung barulayah"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "nalika arinyo ngaliwatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "arinyo ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu ieu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka arinyana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyval"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "sarta anjeun ngalapisan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ arinyo",
+      "marks": "batu-batu"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "ku sid"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:42.609954285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Bangké jeung daging sato nu karinyoan moal didahar, pikeun teu beresih ku éta; Kami Yahwe.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "bangké"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "jeung nu karinyoan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "pikeun teu beresih"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku éta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:41.088735819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung ⟨את⟩ lalaki-lalaki nu di panto imah maranehna pukul ku kabutaan, ti nu leutik nepi ka nu gedé, nepi ka maranehna taya budi nyungsi panto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki-lalaki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lalaki-lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "pukul"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "ku kabutaan"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ti nu leutik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nu gedé"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "nepi ka maranehna taya budi"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "nyungsi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "panto"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:20.161674068Z",
+  "model": "glm-5.3"
+}

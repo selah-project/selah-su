@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Liri bala panah nu ngapanah nyerieun sagala, kitu ogé ⟨iwig⟩ nu nyéwa belet jeung nu nyéwa nu ngaliwat.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "bala panah"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "nu ngapanah nyerieun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "jeung nu nyéwa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "belet"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "jeung nu nyéwa"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "nu ngaliwat"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:42.570889971Z",
+  "model": "glm-5.3"
+}

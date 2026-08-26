@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Ku lantaran éta kuring nganggap sadayana parentah-parentah-Mu bener, sadayana; sagala jalan kamariatan kuring wenjing.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku lantaran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "parentah-parentah-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "kuring nganggap bener"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kamariatan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "kuring wenjing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:48.337011791Z",
+  "model": "glm-5.3"
+}

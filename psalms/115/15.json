@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Anjeun ⟨para⟩ nu dibarokahan ku Yahwe, Nu Ngadamel langit-langit jeung bumi.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "dibarokahan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ku Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Nu Ngadamel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jeung bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:50.147929498Z",
+  "model": "glm-5.3"
+}

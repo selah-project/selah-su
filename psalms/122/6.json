@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 122,
+  "translation": "Sing peunteungeun katengtreman Yerushalaim; mugia anu mikacinta anjeun ngahontal kahadéan.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "sing peunteungeun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "katengtreman"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "mugia ... ngahontal kahadéan"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "anu mikacinta anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:34.575245278Z",
+  "model": "glm-5.3"
+}

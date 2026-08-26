@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sabab panon anjeun nu nempo ⟨את⟩ sagala pagawéan agung Yahwe, nu dipigawé-Na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "panon anjeun"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "nu nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala pagawéan agung Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "agung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:27.052303998Z",
+  "model": "glm-5.3"
+}

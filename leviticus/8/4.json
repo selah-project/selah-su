@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Moshe ngalaksanakeun saperti nu diparéntahkeun Yahwe ⟨את⟩ ka anjeunna; jeung jamaah kumpul ka panto khemah patempatan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka anjeunna"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "jeung jamaah kumpul"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "مועד",
+      "gloss": "patempatan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:58.393459411Z",
+  "model": "glm-5.3"
+}

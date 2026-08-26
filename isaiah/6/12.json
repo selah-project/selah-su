@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sarta Yahwe ngajauhkeun ⟨את⟩ manusa, sarta kabeuratan nu ditinggalkeun di tengah taneuh.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "ngajauhkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "kabeuratan"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "nu ditinggalkeun"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:00.270603807Z",
+  "model": "glm-5.3"
+}

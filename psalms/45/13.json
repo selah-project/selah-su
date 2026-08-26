@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Jeung putri Tsor kalawan persembahan, pare anjeun bakal ngalemesan — nu beunghar di antara ⟨the⟩ bangsa.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "jeung putri"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "kalawan persembahan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pare anjeun"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "bakal ngalemesan"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "nu beunghar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:07.339731757Z",
+  "model": "glm-5.3"
+}

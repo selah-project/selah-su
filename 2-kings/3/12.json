@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras Yéhosafat nyarita: Aya ⟨את⟩ ucapan Yahwe ti awakna. Lajeng raja Israél, Yéhosafat, jeung raja Edom turun ka dulur ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yéhosafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ucapan Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "turun ka dulur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "jeung Yéhosafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:58.112579382Z",
+  "model": "glm-5.3"
+}

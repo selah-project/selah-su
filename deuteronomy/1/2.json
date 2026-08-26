@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Kabelas-wolu poé perjalanan ti Xorev, liwat jalan gunung Seir, nepi ka Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Kabelas-wolu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-wolu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ti Xorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "liwat jalan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-26T16:45:54.337897062Z",
+  "model": "glm-5.3"
+}

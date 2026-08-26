@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung abdi ngintun saméméh anjeun ⟨את⟩ nyiruan, sangkan nyirorog aranjeunna ti payuneun anjeun — dua raja ⟨the⟩ Emori; lain ku pédang anjeun, jeung lain ku panah anjeun.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "jeung abdi ngintun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "saméméh anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyiruan"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nyiruan"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "sangkan nyirorog"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ti payuneun anjeun"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-rajana"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "ku pédang anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung lain"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ku panah anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:39.692788283Z",
+  "model": "glm-5.3"
+}

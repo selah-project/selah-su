@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Aurat pamajikan bapa anjeun, ulah anjeun buka; aurat bapa anjeun ⟨eta⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "aurat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "anjeun buka"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "aurat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:37.313206207Z",
+  "model": "glm-5.3"
+}

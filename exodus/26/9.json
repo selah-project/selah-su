@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung anjeun bakal nyambungkeun ⟨את⟩ lima tutungkulan sorangan, jeung ⟨את⟩ genep tutungkulan sorangan, jeung anjeun bakal ngalipetkeun ⟨את⟩ tutungkulan nu kagenep ka payuneun ⟨the⟩ khemah.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "jeung anjeun bakal nyambungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima tutungkulan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tutungkulan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sorangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "genep tutungkulan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "genep"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tutungkulan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sorangan"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "jeung anjeun bakal ngalipetkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutungkulan nu kagenep"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "tutungkulan"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "nu kagenep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מול",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamukaan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:28.141148088Z",
+  "model": "glm-5.3"
+}

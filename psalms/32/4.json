@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sabab beurang jeung wengi leungeun anjeun beurat ka luhureun kuring; kasegét kuring geus jadi kawas layu dina halodoan usum katiga. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "beurang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jeung wengi"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka luhureun kuring"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "geus jadi kawas"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "kasegét kuring"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "layu dina halodoan"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "usum katiga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:07.080520580Z",
+  "model": "glm-5.3"
+}

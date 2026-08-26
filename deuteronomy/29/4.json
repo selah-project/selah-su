@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung kuring mawa ⟨את⟩ aranjeun opat puluh taun di gurun; papakéan aranjeun moal kolot ti luhureun aranjeun, jeung sapatu anjeun moal colot ti luhur suku anjeun.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "Jeung kuring mawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "papakéan aranjeun"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "ti luhureun aranjeun"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "jeung sapatu anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "colot"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "suku anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:33.136212833Z",
+  "model": "glm-5.3"
+}

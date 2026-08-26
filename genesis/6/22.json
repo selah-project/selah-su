@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sarta Noach ngalakukeunana; sakumaha sagala nu diparentahkeun Elohim ⟨את⟩ ka manéhna, kitu dilakukeunana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sarta ngalakukeunana"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sakumaha sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka manéhna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:20.573281669Z",
+  "model": "glm-5.3"
+}

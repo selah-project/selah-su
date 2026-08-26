@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Axituv nurunkan ⟨את⟩ Tsadok, sarta Tsadok nurunkan ⟨את⟩ Syalum;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Jeung Axituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "sarta Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syalum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Syalum"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:13.229797712Z",
+  "model": "glm-5.3"
+}

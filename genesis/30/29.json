@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Lajeng anjeunna ngomong ka anjeunna: Anjeu terang ⟨את⟩ nu kuring ngawulakeun ka anjeun, jeung ⟨את⟩ nu kadaian anjeun jadi rebana sareng abdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lajeng-anjeunna-ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka-anjeunna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "terang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu kuring ngawulakeun ka anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "kuring-ngawulakeun-ka-anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu kadaian anjeun jadi rebana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "kadaian-anjeun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sareng-abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:24.134243804Z",
+  "model": "glm-5.3"
+}

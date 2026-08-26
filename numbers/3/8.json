@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung maranéhna ngajaga ⟨את⟩ sagala parabot Khemah Patepung, jeung ⟨את⟩ tugas-jaga putra-putra Yisrael, pikeun ngalaksanakeun ⟨את⟩ palayanan Padéwan Kemah.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Jeung maranéhna ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala parabot Khemah Patepung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patepung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tugas-jaga putra-putra Yisrael"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas-jaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pikeun ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palayanan Padéwan Kemah"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "palayanan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Padéwan Kemah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:55.766264506Z",
+  "model": "glm-5.3"
+}

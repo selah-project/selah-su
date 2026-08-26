@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sabab kahariwang nu ku kuring dihariwangkeun datang ka kuring, jeung nu ku kuring pisan dihariwangkeun datang ka kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kahariwang"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "ku kuring dihariwangkeun"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "jeung datang ka kuring"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung nu"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ku kuring pisan dihariwangkeun"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:18.702222983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Lajeng David ngadéngé, sarta anjeunna ngirim ⟨את⟩ Yoab jeung ⟨את⟩ sagala bala tantara nu juara.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagala bala tantara nu juara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bala tantara"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "nu juara"
+    }
+  ],
+  "timestamp": "2026-08-26T16:14:12.232087308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Kasorang kawas nu ngangkat ka luhur, dina kaliheudeutan kai, kapak-kapak.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "kasorang"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "kawas nu ngangkat"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "dina kaliheudeutan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "kapak-kapak"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:32.139201275Z",
+  "model": "glm-5.3"
+}

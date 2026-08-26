@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Sadaya karya-Mu muji ⟨⟨Engké⟩⟩ Yahwe, jeung nu setia-Mu ngaberkahan ⟨Engké⟩.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "muji Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "karya-karya-Mu"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "jeung nu setia-Mu"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "ngaberkahan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:27.781317679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Pamuji-pamuji ka Yah! Pamuji-pamuji ka ⟨את⟩ Yahwe ti langit-langit, pamuji-pamuji ka Anjeunna di luhur-luhurna.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pamuji-pamuji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pamuji-pamuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pamuji-pamuji ka Anjeunna"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "di luhur-luhurna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:41.019270972Z",
+  "model": "glm-5.3"
+}

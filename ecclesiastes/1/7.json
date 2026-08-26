@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sakabéh walungan jalan ka laut, sarta laut teu pinuh; ka tempat nu di dituna walungan jalan, dinya maranéhna balik deui jalan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "walungan-walungan"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "והים",
+      "gloss": "sarta laut"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "nu walungan-walungan"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pikeun jalan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:44.092830895Z",
+  "model": "glm-5.3"
+}

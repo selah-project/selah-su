@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung nu hiji ngagero ka nu hiji deui sarta ngomong: Suci, suci, suci Yahwe Tzevaot, kabeungharan sadaya bumi kamulyaan-Na.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "Jeung ngagero"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nu hiji deui"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Suci"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kabeungharan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamulyaan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:02.877582539Z",
+  "model": "glm-5.3"
+}

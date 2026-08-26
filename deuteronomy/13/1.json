@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "⟨את⟩ sadaya parentah ieu anu kuring paréntahkeun ka arinyó, ⟨את⟩ ieu kudu arinyó jaga pikeun dipigawé; ulah nambahkeun naon-naon ka dinya, jeung ulah ngirangan naon-naon ti dinya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya parentah ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "parentah ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "paréntahkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka arinyó",
+      "marks": "arinyó"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ieu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kudu dijaga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun dipigawé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "nambahkeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka dinya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "ngirangan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:56.954163867Z",
+  "model": "glm-5.3"
+}

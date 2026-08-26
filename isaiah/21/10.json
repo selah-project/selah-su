@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Nu digilingku, jeung anak lantay ngamprahku: nu kuring ngadenge ti ⟨את⟩ Yahwe Tzevaot, Elohim-na Israél, geus kuring caritakeun ka anjeun.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "nu digilingku"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jeung anak"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "lantay ngamprahku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuring ngadenge"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tzevaot, Elohim-na Israél"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "geus kuring caritakeun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:59:04.968840606Z",
+  "model": "glm-5.3"
+}

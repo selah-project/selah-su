@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Sabab манéhna di luhureun sagara nubadayakeunana, jeung di luhureun walungan-ngalér nangtukeunana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "nubadayakeunana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung di luhureun"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "nangtukeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:52.936144010Z",
+  "model": "glm-5.3"
+}

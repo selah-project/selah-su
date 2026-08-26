@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung mun saurang ngapak ⟨את⟩ abdina atawa ⟨את⟩ budak awéwéna ku sunggi, lajeng paeh sahandapeun leunganna, wajib dihukum sangkan dihukum.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Jeung mun"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ngapak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdina"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdina"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak awéwéna"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "budak awéwéna"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ku sunggi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "lajeng paeh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leunganna"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "wajib dihukum"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "sangkan dihukum"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:50.323456873Z",
+  "model": "glm-5.3"
+}

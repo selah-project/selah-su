@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Mizmor ti Dawid, pikeun mawa émut.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "pikeun mawa émut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:15.894328615Z",
+  "model": "glm-5.3"
+}

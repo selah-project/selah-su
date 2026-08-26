@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Adam hirup tilu puluh jeung saratus taun, sarta ngalahirkeun putra dina sarupana, sarupa jeung citrana, sarta ngawarangan ngaran ⟨את⟩ manehna Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jeung hirup"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "jeung saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sarta ngalahirkeun"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "dina sarupana"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "sarupa jeung citrana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta ngawarangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran manehna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaran manehna"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:24.720425619Z",
+  "model": "glm-5.3"
+}

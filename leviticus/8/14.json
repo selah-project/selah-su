@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Terus dibawa ⟨את⟩ embé dosa, sarta Aharon jeung putra-putrana narungeun ⟨את⟩ leungeun-leungeunana kana sirah embé dosa.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "dibawa-nyarukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "embé dosa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "embé"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "narungeun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun-leungeunana"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leungeun-leungeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "פר",
+      "gloss": "embé"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:11.317952617Z",
+  "model": "glm-5.3"
+}

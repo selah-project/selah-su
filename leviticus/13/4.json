@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 13:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung mun beureum caangna bodas di kulit dagingna, jeung teu aya katempoan leuwih jero ti kulit, jeung buukna can robah jadi bodas, maka imam ngungkeul ⟨את⟩ panyakit éta tujuh poé.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung mun"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "beureum caang"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "bodas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di kulit"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "jeung jero"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "katempoan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "jeung buukna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "robah"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bodas"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ngungkeul"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panyakit"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "panyakit"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:23.785622664Z",
+  "model": "glm-5.3"
+}

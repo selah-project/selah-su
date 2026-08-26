@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Ngalawan umat anjeun maranéhna ngararancang licik, sarta banyol tinangtu ngeunaan nu disumputkeun ku anjeun.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ngalawan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat anjeun"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ngararancang licik"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "rarancang"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "sarta banyol"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "nu disumputkeun ku anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:20.512109258Z",
+  "model": "glm-5.3"
+}

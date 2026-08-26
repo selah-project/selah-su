@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Kuring ceung henteu muka bacam kuring ulah teu dianggap, sabab anjeun nu ngalakukeunana.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ceung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bacam kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ulah teu dianggap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ngalakukeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:30.761339988Z",
+  "model": "glm-5.3"
+}

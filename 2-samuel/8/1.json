@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Teras kajadian sanggeus kitu, Dawid ngagempur ⟨את⟩ urang Palisti sarta nurunkeun aranjeunna, jeung Dawid nyandak ⟨את⟩ pangbarungkeul indung-nagara ti leungeun urang Palisti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras kajadian"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ngagempur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Palisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palisti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "nurunkeun aranjeunna"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangbarungkeul"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "pangbarungkeul"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "indung-nagara"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Palisti"
+    }
+  ],
+  "timestamp": "2026-08-26T12:28:51.569369232Z",
+  "model": "glm-5.3"
+}

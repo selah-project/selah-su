@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Sakabéh tangkal anjeun jeung buah taneuh anjeun baris dicekelan ku ⟨si⟩ simeut tzeiltzal.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "tangkal anjeun"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "jeung buah"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "taneuh anjeun"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "baris dicekelan"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "simeut tzeiltzal"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:25.084527621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung maranehna bakal ngaku ⟨את⟩ kaluputanana jeung ⟨את⟩ kaluputan bapa-bapa maranehna, dina panghianatanana nu dipihianat ka Yahwe, jeung ogé yén maranehna jalan ka Yahwe kalawan cecer burung.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "bakal ngaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluputanana"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kaluputanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaluputan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa-bapa maranehna"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "dina panghianatanana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "dipihianat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yén"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "kalawan cecer burung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:31.535271382Z",
+  "model": "glm-5.3"
+}

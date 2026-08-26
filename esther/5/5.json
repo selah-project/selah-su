@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Lajeng raja nyarita, 'Gancangkeun ⟨את⟩ Haman pikeun ngalaksanakeun ⟨את⟩ kahayang Ester'; sarta raja jeung Haman asup ka ═wisting nu diayakeun ku Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "gancangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahayang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sarta asup"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "jeung Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "═wisting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "diayakeun"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-26T15:38:28.661941862Z",
+  "model": "glm-5.3"
+}

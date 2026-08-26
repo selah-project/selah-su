@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung kuring bakal ngucrakeun cai murni ka luhur anjeun, sarta anjeun bakal suci ti sadaya teuneung anjeun, jeung ti sadaya berhala anjeun kuring bakal nyucikeun ⟨את⟩ anjeun.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "jeung-kuring-bakal-ngucrakeun"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka-luhur-anjeun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "murni"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "sarta-anjeun-bakal-suci"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti-sadaya"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "teuneung-anjeun"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "jeung-ti-sadaya"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "berhala-anjeun"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "kuring-bakal-nyucikeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:56:04.649602004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Teras Attalyah ngadéngé ⟨את⟩ sora para panjaga jeung sora raraykat, jadi manehna asup ka tempat raraykat, ka Bait Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Attalyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "para panjaga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "raraykat"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "raraykat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:33.930049576Z",
+  "model": "glm-5.3"
+}

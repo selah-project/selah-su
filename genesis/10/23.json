@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung anak-anak Aram: Uts, jeung Khul, jeung Geter, jeung Mash.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Jeung anak-anak"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "jeung Khul"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "jeung Geter"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "jeung Mash"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:44.955142642Z",
+  "model": "glm-5.3"
+}

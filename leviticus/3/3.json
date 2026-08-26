@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung manéhna ngahaturkeun tina korban shelamim sesajén kadaharan diduruk pikeun Yahwe: ⟨את⟩ gajih nu nutupan ⟨את⟩ jerohan, jeung ⟨את⟩ sadaya gajih nu aya dina jerohan éta.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ngahaturkeun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "tina korban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sesajén kadaharan diduruk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gajih"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gajih"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nu nutupan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jerohan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "jerohan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gajih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "jerohan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:13.342740173Z",
+  "model": "glm-5.3"
+}

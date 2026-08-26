@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Kuring nempo ⟨את⟩ bumi, jeung tingali — kaènggang jeung kosong; jeung ka langit-langit, jeung euweuh cahayana.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Kuring nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tingali"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kaènggang"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "jeung kosong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "cahayana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:22:51.049393024Z",
+  "model": "glm-5.3"
+}

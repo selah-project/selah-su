@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Manéhna nyingkahkanana langit-langit sarta turun, sarta guleum hideung di sahandapeun sukuna.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "jeung manéhna nyingkahkeun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "sarta turun"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "jeung guleum hideung"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dihandapeun"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sukuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:32.345703393Z",
+  "model": "glm-5.3"
+}

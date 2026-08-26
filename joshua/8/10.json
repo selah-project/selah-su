@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Teras Yehosua dialunguhi isuk-isuk sarta ngaronda ⟨את⟩ balaré; pon manéhna jeung para sesepuh Israel naék di payuneun balaré ka Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "dialunguhi isuk-isuk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ngaronda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balaré"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaré"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naék"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "jeung para sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaré"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    }
+  ],
+  "timestamp": "2026-08-26T11:55:08.479460351Z",
+  "model": "glm-5.3"
+}

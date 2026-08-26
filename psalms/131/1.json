@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 131,
+  "translation": "Kidung tarajé, ku Dawid. Yahwe, teu ngadegkung haté abdi, panon abdi teu luhung, moal abdi leumpang dina hal-hal agung atawa nu ahéng nu ngaleuwihan abdi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ngadegkung"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté abdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "luhung"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon abdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "abdi leumpang"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "dina hal-hal agung"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "jeung nu ahéng"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ngaleuwihan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:29.555765896Z",
+  "model": "glm-5.3"
+}

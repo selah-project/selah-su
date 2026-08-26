@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 149,
+  "translation": "Sabab Yahwe kareueus ka umat-Na, ngamumulé nu lombong ku kasalametan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "kareueus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ka umat-Na"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "ngamumulé"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nu lombong"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ku kasalametan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:11.133355621Z",
+  "model": "glm-5.3"
+}

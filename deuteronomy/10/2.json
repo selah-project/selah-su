@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung abdi bakal nulis dina lémpengan-lémpengan ⟨את⟩ kecap-kecap nu aya dina lémpengan-lémpengan kahiji, nu anjeun migor, jeung anjeun bakal nempatkeunana dina ⟨ieu⟩ peti.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Jeung abdi bakal nulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lémpengan-lémpengan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lémpengan-lémpengan"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "kahiji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "anjeun migor"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "jeung anjeun bakal nempatkeunana"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "dina ⟨ieu⟩ peti"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:08.354880880Z",
+  "model": "glm-5.3"
+}

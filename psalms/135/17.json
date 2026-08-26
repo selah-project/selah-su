@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Ceuli boga aranjeuna, tapi maranehna teu ngadangu; ogé teu aya angin dina baham maranehna.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ceuli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "boga aranjeuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨aya⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "dina baham maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:01.466479646Z",
+  "model": "glm-5.3"
+}

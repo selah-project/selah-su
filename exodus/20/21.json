@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung jalma-jamna nangtung ti kajauhan, ari Moshe ngadeukeutan ka arapel-poék nu di dinya aya Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "jeung nangtung"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma-jamna"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ti kajauhan"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ari Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ngadeukeutan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "arapel-poék"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:16.056881337Z",
+  "model": "glm-5.3"
+}

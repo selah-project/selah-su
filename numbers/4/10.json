@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung aranjeunna bakal nempatkeun ⟨את⟩ manéhna jeung ⟨את⟩ sagala parabotna ka handapeun tudung kulit tachas, jeung nempatkeunana dina palang pangbawa.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "anjeunna nempatkeun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "ményorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala parabotna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tudung"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tachas"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "anjeunna nempatkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "palang pangbawa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:49.349287232Z",
+  "model": "glm-5.3"
+}

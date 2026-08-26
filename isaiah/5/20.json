@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Eueuh, maranéhna nu nyebut awon jadi hadÉ, jeung hadÉ jadi awon; nu masang Gilap jadi Caaya, jeung Caaya jadi Gilap; nu masang pait jadi amis, jeung amis jadi pait.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "eueuh"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "nu nyebut"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "awon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jadi hadÉ"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "jeung hadÉ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jadi awon"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nu masang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Gilap"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "jadi Caaya"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "jeung Caaya"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "jadi Gilap"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nu masang"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pait"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "jadi amis"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "jeung amis"
+    },
+    {
+      "surface": "למר",
+      "gloss": "jadi pait"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:31.116872591Z",
+  "model": "glm-5.3"
+}

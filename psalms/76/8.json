@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Anjeun, anu matak sieun, Anjeun — jeung saha nu bisa nangtung di payuneun Anjeun ti mimiti ambek Anjeun?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "anu matak sieun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jeung saha"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di payuneun Anjeun"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ti mimiti"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ambek Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:18.123438445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung anjeun bakal ngasupkeun ⟨את⟩ galang-galang kana cingcin-cingcin dina sisi-sisi ⟨the⟩ Aron, pikeun mawa ⟨את⟩ Aron ku maranehna.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "jeung anjeun bakal ngasupkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galang-galang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "galang-galang"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "kana cingcin-cingcin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sisi-sisi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pikeun mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:47.696051665Z",
+  "model": "glm-5.3"
+}

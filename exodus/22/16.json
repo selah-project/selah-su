@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun bapana nolak pastos nolak mikeun anjeunna ka anjeunna, duit pérak anjeunna nimbang sapertos mahar nu parawan-parawan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nolak"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "pastos nolak"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "mikeun anjeunna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "duit pérak"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "nimbang"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "sapertos mahar"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "nu parawan-parawan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:19.986671013Z",
+  "model": "glm-5.3"
+}

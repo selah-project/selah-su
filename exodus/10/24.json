@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Paroh nyauran ka Moshe sarta ngomong: Mondok, abdi ka ⟨את⟩ Yahwe; ngan domba jeung sapi anjeun dibaeukeun; barudak leutik anjeun ogé indit jeung anjeun.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Jeung nyauran"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mondok"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "jeung sapi"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "dibaeukeun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "barudak leutik anjeun"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:03.357257043Z",
+  "model": "glm-5.3"
+}

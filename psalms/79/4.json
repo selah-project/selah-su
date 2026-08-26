@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 79,
+  "translation": "Kami jadi ⟨kahinaan⟩ pikeun tatangga urang, cocohan jeung éjék-an pikeun nu ngurilingan kami.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "kami jadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kahinaan"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "pikeun tatangga urang"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "cocohan"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "jeung éjék-an"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "pikeun nu ngurilingan kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:58.588011007Z",
+  "model": "glm-5.3"
+}

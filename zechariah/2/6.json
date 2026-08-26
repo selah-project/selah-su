@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng kuring nyarita: ka mana anjeun jalan? Jeung anjeunna nyarita ka kuring: pikeun ngukur ⟨את⟩ Yerushalaim, pikeun nempo sabaraha lébarna jeung sabaraha panjangna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lajeng kuring nyarita"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka mana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna nyarita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "למד",
+      "gloss": "pikeun ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "sabaraha"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lébarna"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "jeung sabaraha"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "panjangna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:09:46.389501572Z",
+  "model": "glm-5.3"
+}

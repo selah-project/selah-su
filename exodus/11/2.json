@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Pun mangga pok kana ceuli balaréa, jeung maranehna nyandak — unggal lalaki ti ⟨את⟩ baturana, jeung unggal awéwé ti ⟨את⟩ baturina — parabot pérak jeung parabot emas.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "pok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pun mangga"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kana ceuli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "jeung maranehna nyandak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal lalaki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "baturana"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "jeung unggal awéwé"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "baturina"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "jeung parabot"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:23.649546296Z",
+  "model": "glm-5.3"
+}

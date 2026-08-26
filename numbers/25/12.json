@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Mangka nyarita: Tingali, kuring di dieu méré ka anjeunna ⟨את⟩ perjangjian kuring, karapihan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kuring di dieu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian kuring"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian kuring"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karapihan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:34:00.307371764Z",
+  "model": "glm-5.3"
+}

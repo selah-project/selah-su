@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung Yehonatan nyarita: 'Ieu, urang ngaliwat ka jalma-jalma éta, jeung urang némbongkeun diri ka maranéhna.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung Yehonatan nyarita"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "urang"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "jalma-jalma éta"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "jeung urang némbongkeun diri"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:56.178349230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 21:32",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung tina suku Naftali: ⟨את⟩ kota perlindungan pikeun nu maéhan — ⟨את⟩ Kedesh di Galil jeung ⟨את⟩ taneuh-bukaina, jeung ⟨את⟩ Khamot-Dor jeung ⟨את⟩ taneuh-bukaina, jeung ⟨את⟩ Kartan jeung ⟨את⟩ taneuh-bukaina — kota-kota tilu.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jeung tina suku"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota perlindungan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pikeun nu maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "di Galil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-bukaina"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-bukaina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Khamot-Dor"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamot"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-bukaina"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-bukaina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kartan"
+    },
+    {
+      "surface": "קרתן",
+      "gloss": "Kartan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-bukaina"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-bukaina"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:28.231895048Z",
+  "model": "glm-5.3"
+}

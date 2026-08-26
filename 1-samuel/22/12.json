@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung Shauleun nyarita, \"Pareng edan, putra Axitub.\" Jeung anjeunna ngajawab, \"Di dieu abdi, Adonay abdi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauleun"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pareng edan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pareng"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axitub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngajawab"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "di dieu abdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:52:40.573567905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Si malas nyarita: aya singa di jalan, aya singa di antara alun-alun.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "si malas"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "singa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "alun-alun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:44.764939003Z",
+  "model": "glm-5.3"
+}

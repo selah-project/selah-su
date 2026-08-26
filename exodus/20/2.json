@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Aku ⟨⟨inatuang⟩⟩ Yahwe, Elohim anjeun, anu mawa anjeun kaluar ti tanah Mitzrayim, ti imah patula-patuli.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "mawa anjeun kaluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "patula-patuli"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:18.613739547Z",
+  "model": "glm-5.3"
+}

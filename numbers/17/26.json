@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung Moshe ngalakukeun kumaha nu diparéntahkeun Yahwe ka ⟨את⟩ anjeunna, kitu dilakukeun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung ngalakukeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka anjeunna",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:30:28.970655251Z",
+  "model": "glm-5.3"
+}

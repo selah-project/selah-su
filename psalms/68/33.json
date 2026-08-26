@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Karajaan-karajaan bumi, uri banggit ka Elohim, uri mamuri ka Adonay, Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "karajaan-karajaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "uri banggit"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "uri mamuri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:58.716478658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Teras David nyarita: Ulah aranjeun ngalakukeun kitu, para sadur; ⟨את⟩ nu dipasihkeun Yahwe ka urang, anu ngajaga ⟨את⟩ urang, sarta maserah ⟨את⟩ pasukan nu datang ngalawan urang ka leungeun urang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aranjeun ngalakukeun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "para sadur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipasihkeun Yahwe ka urang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipasihkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "nu ngajaga"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ urang"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maserah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasukan"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "nu datang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ngalawan urang"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ka leungeun urang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:50.583985026Z",
+  "model": "glm-5.3"
+}

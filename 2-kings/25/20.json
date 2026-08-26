@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung Nebuzaradan pangawasa nu ngala parondok nyandak ⟨את⟩ aranjeunna, sarta mawa aranjeunna ka raja Bavel, ka Rivlah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "nu ngala parondok"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sarta mawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:05.791720331Z",
+  "model": "glm-5.3"
+}

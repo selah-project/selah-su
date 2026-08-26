@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Anjeun Nyaho kahinaan kuring, jeung kaembanan kuring, jeung kamemelan kuring; di payuneun Anjeun sadaya nu ngajadi musuh kuring.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Nyaho"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "kahinaan kuring"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "jeung kaembanan kuring"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "jeung kamemelan kuring"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di payuneun Anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "nu ngajadi musuh kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:16.006998448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Teras aya deui perang ⟨jeung⟩ Pelishtim, lajeng Elkhanan putra Yaor ngaratan ⟨את⟩ Lachmi dulur Galit nu ti Gat, sarta kai tumbakna saperti palang tukang tenun.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "teras aya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lajeng ngaratan"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elkhanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yaor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss-note": "",
+      "marks": "Lachmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lachmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dulur"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Galit"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "nu ti Gat"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "sarta kai"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "tumbakna"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "saperti palang"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "tukang tenun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:14:13.693732283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 121,
+  "translation": "Yahwe nu ngajaga anjeun, Yahwe kalinduan anjeun, leungeun katuhu anjeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "nu ngajaga anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "kalinduan anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "katuhu anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:27.257575874Z",
+  "model": "glm-5.3"
+}

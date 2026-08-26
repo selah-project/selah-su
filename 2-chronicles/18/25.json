@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung raja Israél nyarita: Candak Mikhayahu, mulangkeunana ka Amon, pangulu ⟨⟨the⟩⟩ kota, jeung ka Yoas, putra raja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "candak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "mulangkeunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T17:26:46.471737243Z",
+  "model": "glm-5.3"
+}

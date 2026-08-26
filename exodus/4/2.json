@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng Yahwe ngomong ka anjeunna: Naon anu aya dina leungeun anjeun? Jeung anjeunna ngomong: Sanguku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "naon ieu"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "dina leungeun anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna ngomong"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sanguku"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:22.262329486Z",
+  "model": "glm-5.3"
+}

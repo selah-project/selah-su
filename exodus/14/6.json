@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung anjeunna nyarangkeunan ⟨את⟩ kareta-na, jeung ⟨את⟩ rakyat-na dibawa babarengan jeung anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "nyarangkeunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kareta-na"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kareta-na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "rakyat-na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "rakyat-na"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dibawa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarengan jeung anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:33.095067930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Anjeunna ngandika, Angkat eta! Mangka anjeunna ngajrrr —koreksi: ngajrrr teu, lereskeun: Mangka anjeunna ngalegakeun leungeunana sarta nyandak eta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "angkat eta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngalegakeun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "nyandak eta"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:12.369368954Z",
+  "model": "glm-5.3"
+}

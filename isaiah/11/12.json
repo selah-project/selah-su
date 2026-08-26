@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung ⟨manéhna⟩ baris ngangkat pananda keur golongan-golongan bangsa, jeung baris ngumpulkeun nu diusir ti Yisrael, jeung nu kasebar ti Yehuda baris manéhna kumpulkeun ti opat jangjang bumi.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "jeung baris ngangkat"
+    },
+    {
+      "surface": "נס",
+      "gloss": "pananda"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "keur golongan-golongan bangsa"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "jeung baris ngumpulkeun"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "nu diusir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "jeung nu kasebar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "baris kumpulkeun"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "ti opat"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "jangjang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:46.206495783Z",
+  "model": "glm-5.3"
+}

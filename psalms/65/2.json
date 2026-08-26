@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Pikeun Anjeun dumia-teh-puji, wahai Elohim, di Tzion; jeung pikeun Anjeun ⟨bakal⟩ dibayar ⟨sumpah⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pikeun Anjeun"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "dumia (kanyenyeuhan)"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "puji-puji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "jeung pikeun Anjeun"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dibayar"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "sumpah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:38.883540715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung ogé kuring nahan ti arinyana ⟨את⟩ hujan, mun masih tilu bulan ka panén, sarta kuring ngahujankeun ka hiji kota, jeung ka hiji kota lianna teu kuring hujanan; hiji wewengkon kujanan, jeung wewengkon nu teu kujanan di dinya jadi garing.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Jeung ogé"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "nahan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ti arinyana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hujan"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "mun masih"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "ka panén"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "jeung kuring ngahujankeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "kuring hujanan"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "wewengkon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "kujanan"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "jeung wewengkon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "kujanan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "jadi garing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:08:51.487718428Z",
+  "model": "glm-5.3"
+}

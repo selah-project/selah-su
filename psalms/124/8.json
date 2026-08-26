@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 124,
+  "translation": "Pitulung urang aya dina Jenengan Yahwe, Nu Ngaraokeun langit-langit jeung bumi",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Pitulung urang"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dina Jenengan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Nu Ngaraokeun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jeung bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:05.847802849Z",
+  "model": "glm-5.3"
+}

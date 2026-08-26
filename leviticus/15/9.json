@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung sagala sela nu ditumpatan ku nu kabancat bakal teu suci.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ditumpatan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dinaanjeunana"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "nu kabancat"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "teu suci"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:46.597421683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kuring nempo budak ngawur na kuda-kuda, sedengkeun pangawasa leumpang jadi budak di luhureun taneuh.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "budak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "sedengkeun pangawasa"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "jadi budak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:46.088146872Z",
+  "model": "glm-5.3"
+}

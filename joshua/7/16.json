@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jadi Yehosua slinghar isukan isuk, sarta manéhna ngarak-datangkeun ⟨את⟩ Yisrael numutkeun suku-sukuna; sarta suku Yehuda katangkah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Jadi Yehosua slinghar isukan isuk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isukan isuk"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "sarta manéhna ngarak-datangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "numutkeun suku-sukuna"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "sarta katangkah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T11:55:23.102961786Z",
+  "model": "glm-5.3"
+}

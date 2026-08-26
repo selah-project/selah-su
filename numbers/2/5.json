@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung nu ngadeg taréh di gigireuna: matri Yissaskar, jeung pangulina barudak Yissaskar, Netanel bin Tzuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "jeung nu ngadeg taréh"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di gigireuna"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "matri"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "jeung pangulina"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tzuar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:52.119489071Z",
+  "model": "glm-5.3"
+}

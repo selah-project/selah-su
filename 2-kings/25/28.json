@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sarta anjeunna nyarita ⟨את⟩ jeung anjeunna kecap-kecap hadé, terus nangtukeun ⟨את⟩ korsina luhureun korsi para raja nu aya ⟨את⟩ jeung anjeunna di Babilon.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anjeunna nyarita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung anjeunna"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "kecap-kecap hadé"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anjeunna nangtukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korsina"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "korsina"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "korsi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung anjeunna"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "di Babilon"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:29.714444213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Teras anjeunna ngirim utusan ka Ahab raja Yisrael, ka jero kota.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Teras anjeunna ngirim"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ka jero kota"
+    }
+  ],
+  "timestamp": "2026-08-26T12:46:32.396677915Z",
+  "model": "glm-5.3"
+}

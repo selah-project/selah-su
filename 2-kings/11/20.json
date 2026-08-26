@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Teras sakabéh bangsa taneuh bubungah jeung kota éta tenang; sarta ⟨את⟩ Atalya maranéhna paéhan ku pedang di imah raja.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "bubungah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "jeung kota"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "tenang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "paéhan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:11.395739386Z",
+  "model": "glm-5.3"
+}

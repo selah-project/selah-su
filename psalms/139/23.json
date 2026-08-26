@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Sungsukeun kuring, ya El, jeung apalkeun ati kuring; uji kuring jeung apalkeun gunem-gunem kuring",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "sungsukeun kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "jeung apalkeun"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "uji kuring"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "jeung apalkeun"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "gunem-gunem kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:56.521085362Z",
+  "model": "glm-5.3"
+}

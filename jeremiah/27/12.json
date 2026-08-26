@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 27:12",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung ka Tsidkiyah raja Yehuda kuring ngomong sadayana kecap-kecap ieu, sangkan nyarita: Pekasokeun ⟨את⟩ beuheung anjeun ka handapeun kuk raja Babel, jeung awula ⟨את⟩ ka anjeunna jeung ka umatna, jeung hirup.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Tsidkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kuring ngomong"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "pekasokeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beuheung anjeun"
+    },
+    {
+      "surface": "צואריכם",
+      "gloss": "beuheung anjeun"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ka handapeun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "jeung awula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka anjeunna"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "jeung umatna"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "jeung hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T13:32:26.169946902Z",
+  "model": "glm-5.3"
+}

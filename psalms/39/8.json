@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung ayeuna, naon nu abdi tungguan, Adonay? Sanghaji abdi ⟨éta⟩ aya ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jeung ayeuna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nu abdi tungguan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "sanghaji abdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨éta⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:39.401501276Z",
+  "model": "glm-5.3"
+}

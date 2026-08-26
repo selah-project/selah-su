@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Dipuji Yahwe, Elohim-na Yisrael, ti ⟨jaman⟩ kuna nepi ka ⟨jaman⟩ kuna, sarta munomméan sadaya ⟨para⟩ balaréa: Amin. Halaluyah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "dipuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨jaman⟩ kuna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨jaman⟩ kuna"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "sarta munomméan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨para⟩ balaréa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halaluyah"
+    },
+    {
+      "surface": "יה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:01.054431510Z",
+  "model": "glm-5.3"
+}

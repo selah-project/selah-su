@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Pamuji maranehna ka Yahwe pikeun xesedna, sarta pikeun kagumanna ka putra-putra adam",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "pamuji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedna"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "sarta kagumanna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka putra-putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:02.338568244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sabab Yahwe, Elohim anjeun, ⟨⟨anjeuna⟩⟩ nu jalan jeung anjeun, pikeun perang milihan anjeun ngalawan musuh-musuh anjeun, pikeun ngabébaskeun ⟨את⟩ anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nu jalan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "pikeun perang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "milihan anjeun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "pikeun ngabébaskeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:51.703221070Z",
+  "model": "glm-5.3"
+}

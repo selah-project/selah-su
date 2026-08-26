@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Sabab eungeuy kana imah-Mi geus ngahakan kuring, jeung cela jalma nu ngacela Anjeun geus ragrag ka awak kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "eungeuy"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imah-Mi"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "geus ngahakan kuring"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "jeung cela"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "nu ngacela Anjeun"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "geus ragrag"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka awak kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:47.396890579Z",
+  "model": "glm-5.3"
+}

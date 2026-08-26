@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Sarta Anjeunna munggelan maranéhna ku awan peuting-poe, jeung sapanjang peuting ku caang seuneu.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "munggelan maranéhna"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ku awan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "peuting-poe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sapanjang"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ku caang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:44.740860047Z",
+  "model": "glm-5.3"
+}

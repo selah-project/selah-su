@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Nyirikeun perang nepi ka tungtung bumi; manéhna ngancurkeun busur, motong tanduk, jeung ngadurug karéta-karéta ku seuneu.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "nyirikeun"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "perang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "motong"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tanduk"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "karéta-karéta"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ngadurug"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:01.435866906Z",
+  "model": "glm-5.3"
+}

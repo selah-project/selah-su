@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Ieu mangrupakeun ⟨the⟩ kasaksian, jeung ⟨the⟩ katetepan, jeung ⟨the⟩ pangukum-an, nu diucapkeun ku Moshe ka bani Yisrael nalika aranjeunna kaluar ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "jeung katetepan"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "jeung pangukum-an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diucapkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ku Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "nalika kaluarna aranjeunna"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:03.458772188Z",
+  "model": "glm-5.3"
+}

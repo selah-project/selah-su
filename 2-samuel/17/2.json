@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "sangkan abdi datang ka manéhna bari manéhna capé jeung leuleus leungeun, sangkan abdi ngajadikeun manéhna sieun, bari kabéh jalma nu ⟨את⟩ ⟨jeung⟩ manéhna ngarandapan, sangkan abdi ngabunuh ⟨את⟩ raja éta sorangan wungkul.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "sangkan abdi datang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jeung manéhna"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "capé"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "jeung leuleus"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "sangkan abdi ngajadikeun sieun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "manéhna (Dawid)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "jeung ngarandapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma\/bala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨jeung⟩ manéhna"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "sangkan abdi ngabunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja éta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sorangan wungkul"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:59.599473264Z",
+  "model": "glm-5.3"
+}

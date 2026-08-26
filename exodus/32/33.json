@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sarta Yahwe ngandik ka Moshe: saha nu geus dosa ka Kaula, Kaula mupus manéhna tina buku Kaula.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngandik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "geus dosa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Kaula"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "Kaula mupus manéhna"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "tina buku Kaula"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:36.239172936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kecap-kecap tina baham nu wijaksana ngandung kanyaah; tapi biwir nu beurit nelaan manéhna.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tina baham"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nu wijaksana"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ngandung kanyaah"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "tapi biwir"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nu beurit"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "nelaan manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:06.478899157Z",
+  "model": "glm-5.3"
+}

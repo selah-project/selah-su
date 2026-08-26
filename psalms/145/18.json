@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Deukeut Yahwe ka sakur nu nagero ka anjeunna, ka sakur nu nagero ka anjeunna bener-bener.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Deukeut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sakur"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "nu nagero ka anjeunna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sakur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "nagero ka anjeunna"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "bener-bener"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:25.875757117Z",
+  "model": "glm-5.3"
+}

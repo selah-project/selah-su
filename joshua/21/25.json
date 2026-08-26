@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung tina satengah suku Menashsheh ⟨את⟩ Taanakh jeung ⟨את⟩ taneuh-padangna, jeung ⟨את⟩ Gat-Rimon jeung ⟨את⟩ taneuh-padangna; dua kota.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "jeung tina satengah"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakh"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-padangna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-padangna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-padangna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-padangna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:17.516133411Z",
+  "model": "glm-5.3"
+}

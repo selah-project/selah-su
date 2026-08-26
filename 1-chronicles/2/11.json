@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Naxshon marengkeun ⟨את⟩ Salma, jeung Salma marengkeun ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "jeung Naxshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "marengkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "jeung Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "marengkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:52.992153563Z",
+  "model": "glm-5.3"
+}

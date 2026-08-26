@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Malah di dinya leungeun-Mu nungtun kuring, jeung leungeun katuhu-Mu ngeueung kuring.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun-Mu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "nungtun kuring"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "jeung ngeueung kuring"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "leungeun katuhu-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:00.359542590Z",
+  "model": "glm-5.3"
+}

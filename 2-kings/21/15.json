@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sabab maranehna ngalakukeun ⟨את⟩ nu jahat dina panon kuring, sarta jadi nu ngaruksak kahieuman ⟨את⟩ kuring, ti poé nalika bapa-bapa maranehna kaluar ti Mesir nepi ka poé ieu.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yén"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maranehna ngalakukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu jahat"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon kuring"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "jeung jadi"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "nu ngaruksak kahieuman"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kuring"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa-bapa maranehna"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mesir"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:43.092386887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Teras Sarah nempo ⟨את⟩ putra Hagar ⟨nu⟩ Mesir, nu dibabarkeunana pikeun Avraham, keur sok ngaguyon.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Teras nampo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra Hagar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dibabarkeunana"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "pikeun Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "sok ngaguyon"
+    }
+  ],
+  "timestamp": "2026-08-26T16:37:20.861733802Z",
+  "model": "glm-5.3"
+}

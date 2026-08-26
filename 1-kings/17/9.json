@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Bagun, indit ka Tsarefat nu padeukeut ka Tsidon, jeung cicing di dinya: tempo, kuring geus maréntah di dinya saurang awéwé baldatan pikeun miberan anjeun.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "bagun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "ka Tsarefat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "padeukeut ka Tsidon"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "jeung cicing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kuring geus maréntah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "saurang awéwé"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "baldatan"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "pikeun miberan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:38.874568085Z",
+  "model": "glm-5.3"
+}

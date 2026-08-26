@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Anjeun ngajadikeun urang paribasa di antara bangsa-bangsa, guncang sirah di antara kaum-kaum.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Anjeun ngajadikeun urang"
+    },
+    {
+      "surface": "משל",
+      "gloss": "paribasa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "guncang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di antara kaum"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "kaum-kaum"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:04.097517481Z",
+  "model": "glm-5.3"
+}

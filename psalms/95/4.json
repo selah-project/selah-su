@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 95,
+  "translation": "Saha nu ceuk leungeun-Na aya juru-jero bumi, jeung punclut gunung kabeh milik Na.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "saha nu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ceuk leungeun-Na"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "aya juru-jero"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "jeung punclut"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung kabeh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "milik Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:15.952096183Z",
+  "model": "glm-5.3"
+}

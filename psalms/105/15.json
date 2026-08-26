@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Ulah nyambar Nu Dilisihan-Ku, jeung ka nabi-nabi-Ku ulah ngagoréngkeun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nyambar"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Nu Dilisihan-Ku"
+    },
+    {
+      "surface": "ו",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "ka nabi-nabi-Ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ngagoréngkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:20.066164640Z",
+  "model": "glm-5.3"
+}

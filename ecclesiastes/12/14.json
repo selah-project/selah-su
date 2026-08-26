@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sabab Elohim bakal mawa ⟨את⟩ tiap gawé kana pangadilan, luhureun tiap nu nyumput, lamun ⟨it is⟩ alus jeung lamun ⟨it is⟩ goréng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiap gawé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tiap"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bakal mawa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kana pangadilan"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tiap"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "nu nyumput"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "goréng"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:36.596277462Z",
+  "model": "glm-5.3"
+}

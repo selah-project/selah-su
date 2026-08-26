@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "⟨את⟩ peti paraksaan jeung ⟨את⟩ galenganana, jeung ⟨את⟩ tutup panghurunganana",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti paraksaan"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "paraksaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "galenganana"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "galenganana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tutup panghurunganana"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup panghurunganana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:15.748146155Z",
+  "model": "glm-5.3"
+}

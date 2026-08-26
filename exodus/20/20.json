@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Moshe ngomong ka balaétés: Ulah sieun, sabab pikeun nguji ⟨את⟩ aranjeun Elohim datang, jeung pikeun sieun ka-Na aya di payuneun aranjeun, sangkan ulah aranjeun dosa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaétés"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "nguji"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "jeung pikeun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "sieun ka-Na"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "payuneun aranjeun"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sangkan ulah"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "aranjeun dosa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:50.829291555Z",
+  "model": "glm-5.3"
+}

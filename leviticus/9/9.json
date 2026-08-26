@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung putra-putra Aharon ngadeukeutkeun ⟨את⟩ getih ka anjeunna; laju anjeunna ngunjalkeun ramona kana getih, naroskeunana kana tanduk-tanduk mézbéach, jeung ⟨את⟩ getih diucratkeunana ka dadasar mézbéach.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ngadeukeutkeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "ngunjalkeun"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ramona"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kana getih"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "naroskeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduk-tanduk"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbéach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "diucratkeunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "dadasar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbéach"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:46.795709107Z",
+  "model": "glm-5.3"
+}

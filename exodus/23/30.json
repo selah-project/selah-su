@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Saeutik-saeutik Kuring moal ngusir ⟨arajeunna⟩ ti payun anjeun, nepi ka anjeun buah jeung anjeun maréntakeun ⟨את⟩ taneuh.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Saeutik"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "Kuring ngusir"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ti payun anjeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "neepi ka"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "aneun buah"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "jeung anjeun maréntakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:55.648745952Z",
+  "model": "glm-5.3"
+}

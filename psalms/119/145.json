@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Kuring nyauran ku sadaya haté — balesan kuring, Yahwe; katangtuan-Mu kuring awas-awas.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "kuring nyauran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sadaya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "balesan kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katangtuan-Mu"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "kuring awas-awas"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:26.849117623Z",
+  "model": "glm-5.3"
+}

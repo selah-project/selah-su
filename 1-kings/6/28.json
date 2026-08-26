@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung manéhna ngalapisan ⟨את⟩ kerub-kerub ku emas.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "jeung manéhna ngalapisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerub-kerub"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:26.066681974Z",
+  "model": "glm-5.3"
+}

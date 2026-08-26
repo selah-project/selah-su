@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung kuring mawa ⟨את⟩ anjeun ngaliwat sahandapeun tungkat, jeung kuring mawa ⟨את⟩ anjeun kana beungkeut perjangjian.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "jeung kuring mawa ngaliwat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "tungkat"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "jeung kuring mawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "kana beungkeut"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjangjian"
+    }
+  ],
+  "timestamp": "2026-08-26T13:50:26.363106576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung Yahwe turun ka luhur gunung Sinai, tepi ka punclut ⟨the⟩ gunung; jeung Yahwe nyaur Moshe ka punclut ⟨the⟩ gunung, jeung Moshe naek.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tepi ka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "punclut"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nyaur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ka Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "punclut"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:16.771303872Z",
+  "model": "glm-5.3"
+}

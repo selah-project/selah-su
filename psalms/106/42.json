@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung sasaratanna nganieun aranjeunna, jeung aranjeunna diinumeun sahandapeun leungeunana.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "nganieun aranjeunna"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "sasaratanna"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "diinumeun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "leungeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:54.687399195Z",
+  "model": "glm-5.3"
+}

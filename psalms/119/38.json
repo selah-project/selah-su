@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Tetepkeun ka abdi anjeun ⟨⟨sanggian⟩⟩ anjeun, nu pikeun sieun ka anjeun.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Tetepkeun"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ka abdi anjeun"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sanggian anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "pikeun sieun ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:07.038922832Z",
+  "model": "glm-5.3"
+}

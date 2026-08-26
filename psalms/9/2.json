@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Abdi badé ngahargaan ka Yahwe ku sakabéh ati abdi; abdi badé ngadongengkeun sadaya kagumunan-Mu.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "abdi badé ngahargaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sakabéh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati abdi"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "abdi badé ngadongengkeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kagumunan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:06.906743667Z",
+  "model": "glm-5.3"
+}

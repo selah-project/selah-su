@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Naha teu kuring ngarandih ka nu pait poéna? Nyaruksaneung nyawa abdi ka nu miskin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "kuring-ngarandih"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "ka-nu-pait"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé-na"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "nyaruksaneung"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa-abdi"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "ka-nu-miskin"
+    }
+  ],
+  "timestamp": "2026-08-26T15:15:41.919344870Z",
+  "model": "glm-5.3"
+}

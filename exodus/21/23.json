@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Tapi lamun aya kacilakaan, mangka manéh méré nyawa ganti nyawa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi lamun"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "kacilakaan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mangka méré"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:02.484195385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Yahwe ngomong ka abdi, sangkan ngandika: Abdi geus nempo ⟨את⟩ bangsa ieu, jeung atuh bangsa teteg beuheung ⟨éta⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngandika"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "abdi geus nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa ieu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung atuh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "teteg"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "beuheung"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨éta⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:31.651434269Z",
+  "model": "glm-5.3"
+}

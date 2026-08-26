@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung anjeun kudu ngajaga ⟨את⟩ kecap ieu salaku katangtuan pikeun anjeun jeung pikeun murangkalak-murangkalak anjeun nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jeung anjeun kudu ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "salaku katangtuan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "jeung pikeun murangkalak-murangkalak anjeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:39:29.875002867Z",
+  "model": "glm-5.3"
+}

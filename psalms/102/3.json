@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Ulah disumputkeun raray-Mu ti abdi, dina poé pikagangaweuring abdi; soddet ceuli-Mu ka abdi, dina poé abdi nagero, gancang waé waler abdi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "disumputkeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raray-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "צר",
+      "gloss": "pikagangaweuring"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "soddet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ceuli-Mu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "abdi nagero"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "waler abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:39.045976236Z",
+  "model": "glm-5.3"
+}

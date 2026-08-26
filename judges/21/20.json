@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung aranjeunna maréntahkeun ⟨את⟩ lalaki Benyamin, nyebutkeun: indit, jeung nungguan bongkod nalaka keur ninyahoanana di kebon anggur.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "anjeunna maréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki Benyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "nungguan bongkod"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "di kebon anggur"
+    }
+  ],
+  "timestamp": "2026-08-26T12:11:44.052023177Z",
+  "model": "glm-5.3"
+}

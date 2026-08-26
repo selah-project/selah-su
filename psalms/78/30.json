@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Teu pisan aranjeunna mesat ti kahayangna; naon baé kadaharanana can kaliwat tina irungna—",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu pisan"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "mesat"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "ti kahayangna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naon baé"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "kadaharanana"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "tina irungna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:27.530150126Z",
+  "model": "glm-5.3"
+}

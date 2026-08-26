@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "⟨את⟩ sadaya gagak sanggeus-mimitina.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya gagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "sanggeus-mimitina"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:29.635836385Z",
+  "model": "glm-5.3"
+}

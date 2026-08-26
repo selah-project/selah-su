@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Lamun anjeun sieun turun, turun anjeun jeung Pura, palayan anjeun, ka ⟨kamp⟩ eta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "turun"
+    },
+    {
+      "surface": "רד",
+      "gloss": "turun (turunwa)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "jeung Pura"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "palayan anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨kamp⟩ eta"
+    }
+  ],
+  "timestamp": "2026-08-26T12:04:22.717872325Z",
+  "model": "glm-5.3"
+}

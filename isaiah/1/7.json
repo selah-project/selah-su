@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lemur anjeun karam, kota-kota anjeun dibeuleum ku seuneu; lemakna anjeun di payuneun anjeun didahar ku batur ⟨את⟩, jeung karam sarupa jeung ruksak ku batur.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "lemur anjeun"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "karam"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kota-kota anjeun"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "dibeuleum"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "lemakna anjeun"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "di payuneun anjeun"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "batur"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna (lemakna)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "jeung karam"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sarupa jeung ruksak"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ku batur"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:00.525677292Z",
+  "model": "glm-5.3"
+}

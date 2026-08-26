@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 17:21",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Kitu omongan Yahwe: Jaga diri ku luhur hati, ulah mawa muatan poé Sabat, jeung ulah mawa ⟨את⟩-na asup kana panto-panto Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "omongan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "jaga diri"
+    },
+    {
+      "surface": "בנפשותיכם",
+      "gloss": "ku luhur hati (nefesh)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "משא",
+      "gloss": "muatan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "jeung ulah mawa asup"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ka panto-panto"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T13:28:49.007967582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung cucuk jeung dardar bakal muara keur anjeun, jeung anjeun bakal dahar ⟨את⟩ jukut bungbanggan.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "jeung cucuk"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "jeung dardar"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "bakal muara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "keur anjeun"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "jeung anjeun bakal dahar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jukut bungbanggan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bungbanggan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:05.390175198Z",
+  "model": "glm-5.3"
+}

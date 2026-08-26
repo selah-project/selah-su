@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Avraham nangtukeun ⟨את⟩ tujuh anak-domba bikang tina kawanan domba papisah.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "nangtukeun"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh anak-domba bikang"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "anak-domba bikang"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawanan domba"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "papisah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:47.288439282Z",
+  "model": "glm-5.3"
+}

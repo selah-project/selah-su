@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lamun manéhna ngomong ka kuring sakumaha kecap-kecap ieu, kuring nundeun beungeut kana taneuh, sarta kuring cicing.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "Lamun manéhna ngomong"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "sakumaha kecap-kecap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring nundeun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kana taneuh"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "sarta kuring cicing"
+    }
+  ],
+  "timestamp": "2026-08-26T17:22:43.764989871Z",
+  "model": "glm-5.3"
+}

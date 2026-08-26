@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Ku rarungan Anjeun Anjeun nungtun abdi, jeung sanggeusna ku kamulyaan Anjeun nampi abdi.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "ku rarungan Anjeun"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "nungtun abdi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "jeung sanggeusna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "nampi abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:24.594524764Z",
+  "model": "glm-5.3"
+}

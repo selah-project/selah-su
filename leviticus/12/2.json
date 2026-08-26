@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ngomong ka barudak Israél, nyarios: Mun saurang awéwé ngandung siki tur ngalahirkeun budak lalaki, mangka manéhna teu beres salawas tujuh poé; sarua jeung poé-poé kaisolanna dina nyeri haidna, manéhna teu beres.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "ngandung siki"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "tur ngalahirkeun"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "budak lalaki"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "tur teu beres"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sarua jeung poé-poé"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "kaisolan"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "nyeri haidna"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "teu beres"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:43.210398892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung anjeun bakal nyieun ⟨את⟩ mézbéax pikeun ngahaseupan bungbuwang; tina kai akasia anjeun bakal nyieun ⟨את⟩-na.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun bakal nyieun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mézbéach (altar)"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "pikeun ngahaseupan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "bungbuwang (kétoret)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia (shittim)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun bakal nyieun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "mézbéach (altar)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:15.255778876Z",
+  "model": "glm-5.3"
+}

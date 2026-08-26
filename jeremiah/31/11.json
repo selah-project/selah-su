@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Sabab Yahwe geus ngabébaskeun ⟨את⟩ Yaakov, sarta geus nebus manehna ti leungeun nu leuwih kuat ti batan manehna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "geus ngabébaskeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "sarta geus tebus manehna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "nu leuwih kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti batan manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:33:55.776486940Z",
+  "model": "glm-5.3"
+}

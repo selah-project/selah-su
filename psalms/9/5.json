@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sabab anjeun geus ngalaksanakeun putusan kuring jeung perkara kuring; anjeun geus diuk pikeun takhta, ngahukum kalawan kabeneran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "anjeun geus ngalaksanakeun"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan kuring"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "jeung perkara kuring"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "anjeun geus diuk"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "pikeun takhta"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ngahukum"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kalawan kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:09.715032100Z",
+  "model": "glm-5.3"
+}

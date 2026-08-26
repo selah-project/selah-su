@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Laju Dawid nyandak ⟨את⟩ papayung-papayung emas nu aya dina abdi-abdi Hadadezer, sarta mawa aranjeunna ka Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papayung-papayung emas"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "papayung-papayung"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dina"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "mawa aranjeunna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:00.517418865Z",
+  "model": "glm-5.3"
+}

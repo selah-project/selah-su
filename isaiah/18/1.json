@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Aduh, tanah nu gumreret jangjang, nu di sabudeureun walungan-walungan Kush.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "gumreret"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "jangjang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di sabudeureun"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ka walungan-walungan"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-26T16:59:10.876926053Z",
+  "model": "glm-5.3"
+}

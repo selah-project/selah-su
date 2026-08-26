@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sarta anjeun ngélingan ⟨את⟩ maranehna kana ⟨את⟩ parentah-parentah jeung ⟨את⟩ ajran-ajran, sarta ngabérieun ka maranehna ⟨את⟩ jalan nu bakal maranehna tapakkeun, sarta ⟨את⟩ pagawéan nu bakal maranehna pigawé.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Sarta anjeun ngélingan"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-parentah"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "parentah-parentah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ajran-ajran"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ajran-ajran"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "sarta ngabérieun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nu bakal maranehna tapakkeun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dina éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "pagawéan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "bakal maranehna pigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:12.139200786Z",
+  "model": "glm-5.3"
+}

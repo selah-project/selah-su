@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Saéstuna panyalametan-Na padeukeut ka nu sieun ka Anjeunna, sangkan kamulyaan bisa cicing di bumi urang.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "saéstuna"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "padeukeut"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ka nu sieun ka Anjeunna"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "panyalametan-Na"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "sangkan cicing"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "di bumi urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:57.103183615Z",
+  "model": "glm-5.3"
+}

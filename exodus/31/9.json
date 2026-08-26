@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "jeung ⟨את⟩ mézbah kurban bakaran jeung ⟨את⟩ kabéh parabotna, jeung ⟨את⟩ bak cai jeung ⟨את⟩ umpakna,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "mézbah kurban bakaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "kabéh parabotna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabéh"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "bak cai"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "bak cai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "umpakna"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "umpakna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:06.139258322Z",
+  "model": "glm-5.3"
+}

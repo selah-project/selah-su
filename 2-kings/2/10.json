@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Mangka anjeunna nyarita: \"Anjeun geus ngaminta hal nu beurat pikeun dipenta; mun anjeun nempo ⟨את⟩ abdi basa abdi dibawa ti ⟨את⟩ ti sisi anjeun, jadi pikeun anjeun kitu; tapi mun euweuh, moal jadi kitu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mangka anjeunna nyarita"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "anjeun geus ngaminta hal nu beurat"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "pikeun dipenta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "anjeun nempo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "abdi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dibawa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ti ⟨את⟩ ti sisi anjeun"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tapi mun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:45.652012522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Sora abdi ka Elohim, sareng abdi ngarérét; sora abdi ka Elohim, sareng Pilantik Ceuli ka abdi.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "sora abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "sareng abdi ngarérét"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "sareng Pilantik Ceuli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:12.836141609Z",
+  "model": "glm-5.3"
+}

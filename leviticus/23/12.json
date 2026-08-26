@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung aranjeun ngalakonan, dina poé ngajungkelkeunana ⟨את⟩ ⟨éta⟩ omer: domba jalu sampurna, umur sataun, salaku kurban bakar ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Jeung aranjeun ngalakonan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ngajungkelkeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨éta⟩ omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "⟨éta⟩ omer"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "domba jalu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sampurna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umur (harfiah: putra)"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "sataun"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "salaku kurban bakar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:44.888302233Z",
+  "model": "glm-5.3"
+}

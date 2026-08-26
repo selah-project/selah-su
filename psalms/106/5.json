@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Pikeun nempo kabungahan nu dipilih-Mu, pikeun bungah dina kabungahan bangsa-Mu, pikeun muji babarengan jeung warisan-Mu.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "kabungahan"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "nu dipilih-Mu"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "pikeun bungah"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "dina kabungahan"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "bangsa-Mu"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "pikeun muji"
+    },
+    {
+      "surface": "עם",
+      "gloss": "babarengan jeung"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "warisan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:35.748154034Z",
+  "model": "glm-5.3"
+}

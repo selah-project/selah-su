@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "jeung ⟨את⟩ seuseupuan leutik, jeung ⟨את⟩ soang, jeung ⟨את⟩ seuseupuan ageung,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "seuseupuan leutik"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "seuseupuan leutik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "soang"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "soang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "seuseupuan ageung"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "seuseupuan ageung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:17.897343821Z",
+  "model": "glm-5.3"
+}

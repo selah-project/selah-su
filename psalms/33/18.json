@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Tempo, panon Yahwe ka nu mikaresep ka Anjeunna, ka nu ngaharepkeun kanyaah-Na.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "nu mikaresep ka Anjeunna"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "ka nu ngaharepkeun"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "kanyaah-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:56.290677198Z",
+  "model": "glm-5.3"
+}

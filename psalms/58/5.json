@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 58,
+  "translation": "Racun maranéhanana kawas racun oray; kawas leungyey tuli nu nungkelkeun ceulina.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "racun"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maranéhanana"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "racun"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "oray"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "leungyey"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "nungkelkeun"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ceulina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:05.764837833Z",
+  "model": "glm-5.3"
+}

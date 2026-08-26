@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Nu dina leungeunana aya rarancang jahat, jeung leungeun katuhuna pinuh ku suap.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "dina leungeunana"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "rarancang jahat"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "jeung leungeun katuhuna"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ku suap"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:15.892863744Z",
+  "model": "glm-5.3"
+}

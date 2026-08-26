@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Jeung Shekhem ngomong ka Khamor bapana, sangkan nyandak pikeun kuring ⟨את⟩ budak wanoja ieu jadi pamajikan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak wanoja ieu"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "budak wanoja"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi pamajikan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:09.297283864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sabab Yahwe nyaho ⟨jalan⟩ nu bener; tapi jalan nu jalma-rasiah bakal musnah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tapi jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jalma-rasiah"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bakal musnah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:16.748425858Z",
+  "model": "glm-5.3"
+}

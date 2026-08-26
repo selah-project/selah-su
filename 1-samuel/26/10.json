@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung Dawid ngomong: sangkan Yahwe hirup, mun lain Yahwe nu ngajempring manéhna, atawa poéna datang jeung anjeunna paéh, atawa anjeunna turun ka perang jeung binasa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "nu ngajempring manéhna"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "poéna"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "jeung paéh"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ka perang"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "jeung binasa"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:20.302141790Z",
+  "model": "glm-5.3"
+}

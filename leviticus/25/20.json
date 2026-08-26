@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung upama anjeun nyarita, Naon urang dahar dina taun ka-7? Témah, urang moal siki jeung moal ngumpulkeun ⟨את⟩ hasil urang.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Jeung upama"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "anjeun nyarita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "urang dahar"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "dina taun"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ka-7"
+    },
+    {
+      "surface": "הן",
+      "gloss": "témah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "urang siki"
+    },
+    {
+      "surface": "וילא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasil urang"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "hasil urang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:17.149811463Z",
+  "model": "glm-5.3"
+}

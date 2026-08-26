@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung kuring ngangkat ⟨את⟩ panon kuring, jeung kuring nempo, jeung hyper, opat tanduk.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "jeung kuring ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panon kuring"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "jeung kuring nempo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung hyper"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:18:19.752731320Z",
+  "model": "glm-5.3"
+}

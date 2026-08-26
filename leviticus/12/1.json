@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Lajeng Yahwe ngomong ka Moshe, ku cara ngendika,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lajeng ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ku cara ngendika"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:43.210083807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Kuring ngirining poé-poké baheula, taun-taun jaman kolot.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Kuring ngirining"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poké"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "baheula"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "taun-taun"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "jaman kolot"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:34.836180719Z",
+  "model": "glm-5.3"
+}

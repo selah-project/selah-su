@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Kabar kuring ngadéngé ti ⟨את⟩ Yahwe, jeung saurang utusan dipulus ka antara bangsa-bangsa: Berengah, datang ngalawan manéhna, jeung hudang keur perang.",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "kabar"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuring ngadéngé"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "jeung saurang utusan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ka antara bangsa-bangsa"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "dipulus"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "berengah"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "jeung datang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ngalawan manéhna"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "jeung hudang"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "keur perang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:40:18.518502218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung Yahwe ngandika ka Moshe, pikeun nyarita:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pikeun nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:28.001298039Z",
+  "model": "glm-5.3"
+}

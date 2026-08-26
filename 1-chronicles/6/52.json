@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Maranehna masihan ka maranehna ⟨את⟩ kota-kota pangungsi: ⟨את⟩ Shkhem jeung ⟨את⟩ lapanganna di pagunungan Efrayim, jeung ⟨את⟩ Gezer jeung ⟨את⟩ lapanganna.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "maranehna masihan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota pangungsi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "pangungsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shkhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lapanganna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "lapanganna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pagunungan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lapanganna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "lapanganna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:07:12.884473510Z",
+  "model": "glm-5.3"
+}

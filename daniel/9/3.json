@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung kuring nungkulankeun ⟨את⟩ pawayaran kuring ka Adonay, ⟨את⟩ Elohim, pikeun sanggama doa jeung panghampura kalawan puasa, karudak, jeung abu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Jeung kuring nungkulankeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawayaran kuring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pawayaran kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pikeun sanggama"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "jeung panghampura"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "kalawan puasa"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "karudak"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "jeung abu"
+    }
+  ],
+  "timestamp": "2026-08-26T15:48:04.884162440Z",
+  "model": "glm-5.3"
+}

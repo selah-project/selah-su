@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Ah nasib anjeun, ⌜bumi⌟, sabot raja anjeumur ngora, jeung pangawasa-pangawasa anjeun ngahakan dina isuk-isuk!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ah nasib"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "raja anjeun"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngora"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "jeung pangawasa-pangawasa anjeun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "dina isuk-isuk"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ngahakan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:59.484531479Z",
+  "model": "glm-5.3"
+}

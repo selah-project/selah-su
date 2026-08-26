@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ⟨את⟩ nu malik deui tina sanggeus Yahwe, sarta nu teu milari ⟨את⟩ Yahwe sarta teu nanya ka Anjeunna",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "nu malik deui"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "nu malik deui"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "tina sanggeus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sarta nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "milari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "nanya ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:14.654425181Z",
+  "model": "glm-5.3"
+}

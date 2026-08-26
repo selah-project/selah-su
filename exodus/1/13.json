@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Mesir mawa ⟨את⟩ budak-budak Yisrael ngahambá kalawan kasarna.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "mawa ngahambá"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak-budak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "kalawan kasarna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:54.247855157Z",
+  "model": "glm-5.3"
+}

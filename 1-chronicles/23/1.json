@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Dawid geus kolot sarta kacukupan ku poé-poé, sarta manéhna ngajantenkeun Shelomoh putrana jadi raja di luhur Israél.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Jeung Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "geus kolot"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sarta kacukupan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ku poé-poé"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ngajantenkeun jadi raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T16:15:43.424267369Z",
+  "model": "glm-5.3"
+}

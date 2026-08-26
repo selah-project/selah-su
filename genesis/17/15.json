@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Saterusna Elohum nyarita ka Avraham: \"Saray, pamajikan anjeun, ulah disebut ngaranna ⟨את⟩ Saray, sabab Sarah ngaranna.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "pamajikan anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "disebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ngaranna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:38.092950452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Teras Anjeunna ngomong, teras nyegakeun angin badai, jeung angin ngangkat urug-urugna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Teras Anjeunna ngomong"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "teras nyegakeun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "jeung ngangkat"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "urug-urugna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:26.728199942Z",
+  "model": "glm-5.3"
+}

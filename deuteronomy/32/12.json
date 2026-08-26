@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Yahwe wungkul nu nungtun ⟨את⟩ maranehna, jeung euweuh Eloah deungeun babarengan jeung-Na.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "wungkul"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "nungtun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarengan jeung-Na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "deungeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:47:43.658845928Z",
+  "model": "glm-5.3"
+}

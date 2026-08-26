@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng kohen nu dilisahan (Mashiax) nyandak sabagian tina getih singa, sarta mawa ⟨את⟩-na ka tenda patepungan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "lajeng nyandak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "nu dilisahan"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "tina getih"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "singa"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "sarta mawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "getih (sufiks -na)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepungan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:42.523478108Z",
+  "model": "glm-5.3"
+}

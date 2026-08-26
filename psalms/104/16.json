@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Tatangkalan Yahwe wareg kaeusian; sarasiah-sarasiah Libanon, nu dipelak-Na.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "wareg kaeusian"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "Tatangkalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sarasiah-sarasiah"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "dipelak-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:31.009299100Z",
+  "model": "glm-5.3"
+}

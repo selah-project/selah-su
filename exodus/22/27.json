@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Elohim ulah anjeun hina-euheul, jeung pangawasa di antara bangsa anjeun ulah anjeun nyumpahi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "hina-euheul"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "jeung pangawasa"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "di antara bangsa anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "nyumpahi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:55.440063799Z",
+  "model": "glm-5.3"
+}

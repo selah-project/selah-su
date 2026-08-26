@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung lamun aya lalaki nu saré jeung ⟨את⟩ lalaki kalawan tilam saré sapertos awéwé, kahyarangan karunya maranéhna dua-duana geus dipigawé; paéh maot maranéhna dibunuh, getih maranéhna aya dina awak maranéhna.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jeung lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "saré jeung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "tilam saré sapertos"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kahyarangan karunya"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "geus dipigawé"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "maranéhna dua-duana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "maranéhna dibunuh"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "getih maranéhna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dina awak maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:44.808262330Z",
+  "model": "glm-5.3"
+}

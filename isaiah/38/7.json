@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung ieu pikeun anjeun ⟨tanda⟩ ti ⟨את⟩ Yahwe, yén Yahwe bakal migawé ⟨את⟩ ieu perkara nu geus diomongkeunana.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "האות",
+      "gloss": "⟨tanda⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yén"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakal migawé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieu perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ieu perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geus diomongkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:23.579816743Z",
+  "model": "glm-5.3"
+}

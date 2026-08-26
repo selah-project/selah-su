@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 120,
+  "translation": "Yahwe, bilariat nefesh abdi tina bihi nu dusta, tina lisan nu nipu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "bilariat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "tina bihi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nu dusta"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "tina lisan"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nu nipu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:56.468989846Z",
+  "model": "glm-5.3"
+}

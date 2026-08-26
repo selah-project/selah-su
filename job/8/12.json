@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Bari canaran kénéh, can datang dicabut, saacan sadaya jukut-rakit makeunay.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "bari… kénéh"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "canaran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "can"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "dicabut"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "saacan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jukut-rakit"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "makeunay"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:40.235817542Z",
+  "model": "glm-5.3"
+}

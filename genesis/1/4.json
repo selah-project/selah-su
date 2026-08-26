@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Saterusna Elohim nempo ⟨את⟩ cahya yén ⟨eta⟩ alus; saterusna Elohim misahkeun antara cahya jeung kagalangan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Saterusna nempo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cahya"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "Saterusna misahkeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "kagalangan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:13.484290259Z",
+  "model": "glm-5.3"
+}

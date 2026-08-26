@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ⟨את⟩ budak lalaki anjeun jeung ⟨את⟩ budak awéwé anjeun jeung ⟨את⟩ pamuda anjeun nu alus jeung ⟨את⟩ kaldeuy anjeun bakal dicandak, jeung dipaké pikeun pagawéanana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "budak lalaki anjeun"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "budak lalaki anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "budak awéwé anjeun"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "budak awéwé anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pamuda anjeun"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "pamuda anjeun"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "nu alus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaldeuy anjeun"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "kaldeuy anjeun"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bakal dicandak"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jeung dipaké"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "pikeun pagawéanana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:35.782020611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Pedang di luar, sarta wabah sarta kalaparan ti jero; nu aya di kebon ku pedang baris maot, sarta nu aya di kota, kalaparan sarta wabah baris ngahakanana.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "sarta wabah"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "sarta kalaparan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti jero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu aya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di kebon"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "baris maot"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sarta nu aya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "sarta wabah"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "baris ngahakanana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:44:53.261954416Z",
+  "model": "glm-5.3"
+}

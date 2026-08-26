@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Manéhna bakal datang ka golongan karuhunna, ka salawasna maranéhna moal nempo cahya.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "bakal datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דור",
+      "gloss": "golongan"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "karuhunna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:54.869942606Z",
+  "model": "glm-5.3"
+}

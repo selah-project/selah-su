@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung kawil hampang ieu dina panon Yahwe, jeung méré ⟨זו⟩ Moab kana leungeun anjeun.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "jeung kawil hampang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "jeung méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "kana leungeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:56.237367301Z",
+  "model": "glm-5.3"
+}

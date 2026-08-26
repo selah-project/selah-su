@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Chiç karuksakan, taneuh mourod; sabab gandum ruksak, anggur anyar garing, minyak layu.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "karuksakan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "chiç"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "mourod"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ruksak"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "anggur anyar"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "layu"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "minyak"
+    }
+  ],
+  "timestamp": "2026-08-26T17:08:10.823410274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Elohim kuring, ka anjeun kuring numpukeun diri; ulah kuring malu, ulah musuh-musuh kuring bagja ngeunjeuk ka kuring.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kuring numpukeun diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "kuring malu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "bagja ngeunjeuk"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuh kuring"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:40.434733326Z",
+  "model": "glm-5.3"
+}

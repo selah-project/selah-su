@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Naha kanyaah-satia-perjangjian Anjeun di caritakeun di makam? Kasetiaan Anjeun di Abadon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "di caritakeun"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "di makam"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah-satia-perjangjian Anjeun"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasetiaan Anjeun"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "di Abadon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:16.556167103Z",
+  "model": "glm-5.3"
+}

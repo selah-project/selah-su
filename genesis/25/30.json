@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung Esav ngomong ka Yaakov: “Béré abdi ngahakan, punten, tina beureum-beureum ieu, sabab abdi capek.” Ku sabab kitu dingaranan manehna Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "béré abdi ngahakan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "beureum"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "beureum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "capek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dingaranan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaran manehna"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:31.688035486Z",
+  "model": "glm-5.3"
+}

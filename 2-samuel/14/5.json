@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung raja ngomong ka anjeunna, naon anu dipikabutuh ku anjeun? Jeung anjeunna ngomong, sabenerna awéwé balandal kuring, jeung salaki kuring maot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku anjeun"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sabenerna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balandal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "salaki kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:43.494643794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Laju anjeunna nyembelih ⟨את⟩ kurban bakar; jeung putra-putra Aharon nganteurkeun ka anjeunna ⟨את⟩ getih, laju anjeunna ngaseupananana kana mézbéach sakuriling.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "nganteurkeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "ngaseupananana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbéach"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakuriling"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:46.796191910Z",
+  "model": "glm-5.3"
+}

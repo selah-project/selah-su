@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Anjeunna nyandak ⟨את⟩ kotakan paweron imah Yahwe jeung ⟨את⟩ kotakan paweron imah ⟨si⟩ raja; ⟨את⟩ sadayana dicandak; anjeunna nyandak ⟨את⟩ sadaya taméng emas nu dijieun Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anjeunna nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotakan paweron imah Yahwe"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "kotakan paweron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kotakan paweron imah raja"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "kotakan paweron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadayana"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "anjeunna nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨أת⟩",
+      "marks": "sadaya taméng emas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "taméng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:26.697030283Z",
+  "model": "glm-5.3"
+}

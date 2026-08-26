@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Sabab kuring geus nyarita, bisi maranéhna bungah ka kuring; nalika suku kuring ngolés, maranéhna ngagedéan awak ngalawan kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kuring geus nyarita"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "nalika ngolésna"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "suku kuring"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan kuring"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "ngagedéan awak"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:12.522742294Z",
+  "model": "glm-5.3"
+}

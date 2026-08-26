@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Imam-imamna ragrag ku pedang, jeung randa-randana teu bae nangis.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "imam-imamna"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "jeung randa-randana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "bae nangis"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:27.456675012Z",
+  "model": "glm-5.3"
+}

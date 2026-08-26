@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung maranehna bakal nanya ka anjeun ngeunaan kahirukunan, jeung méré ka anjeun dua roti, jeung anjeun bakal nyandak ti leungeunana.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "jeung-bakal-nanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka-anjeun"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ngeunaan-kahirukunan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "jeung-méré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka-anjeun"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "jeung-bakal-nyandak"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ti-leungeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:57.507260866Z",
+  "model": "glm-5.3"
+}

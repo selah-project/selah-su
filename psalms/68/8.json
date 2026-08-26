@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Elohim, waktu Anjeun kaluar di payuneun jalma-Anjeun, waktu Anjeun maju leumpang di gurun — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "waktu Anjeun kaluar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jalma-Anjeun"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "waktu Anjeun maju leumpang"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "סלah",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:12.761207723Z",
+  "model": "glm-5.3"
+}

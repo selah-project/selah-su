@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung saurung Yahwe balik deui kadua kalina, jeung ngantep ka anjeunna, jeung nyarita: Tinggali, dahar, sabab lila teuing ti anjeunna jalan-na.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "jeung balik deui"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "saurung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kadua kalina"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "jeung ngantep"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tinggali"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lila teuing"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti anjeunna"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan-na"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:37.001556445Z",
+  "model": "glm-5.3"
+}

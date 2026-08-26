@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 113,
+  "translation": "Anu ngadegkeun nu miwaras tina keusik, tina runtah ngangkat nu kakurangan.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "anu ngadegkeun"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "tina keusik"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nu miwaras"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "tina runtah"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nu kakurangan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:12.586757219Z",
+  "model": "glm-5.3"
+}

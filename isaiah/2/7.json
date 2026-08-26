@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung pinuh tanahna pérak jeung emas, teu aya wates kana artos-na; jeung pinuh tanahna kuda-kuda, teu aya wates kana karéta-na.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "Jeung pinuh"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tanahna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jeung emas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "wates"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "kana artos-na"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "jeung pinuh"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tanahna"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "wates"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "kana karéta-na"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:16.590787844Z",
+  "model": "glm-5.3"
+}

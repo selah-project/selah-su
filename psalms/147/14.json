@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Anjeunna nu ngajadikeun wates-wates anje tenteram, kalawan kagendeng gandum anjeunna ngabeledugkeun anje.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Anjeunna nu ngajadikeun"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "wates-wates anje"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tenteram"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kagendeng"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "ngabeledugkeun anje"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:52.692416418Z",
+  "model": "glm-5.3"
+}

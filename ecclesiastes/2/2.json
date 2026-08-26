@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Ngeunaan seuri kuring ngomong: marengéngé, jeung ngeunaan sukacita: naon anu dipigawé ku ieu?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ngeunaan seuri"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kuring ngomong"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "marengéngé"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "jeung ngeunaan sukacita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:26.652013795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Ka abdi Gilad, ka abdi Menashsheh; jeung Ephraim benteng sirah abdi; Yehudah nu méré hukum ka abdi.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "jeung Ephraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "benteng"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirah abdi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "nu méré hukum ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:13.956770965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung Yahwe ngomong ka Moshe, songongkeun:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "songongkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:53.448318152Z",
+  "model": "glm-5.3"
+}

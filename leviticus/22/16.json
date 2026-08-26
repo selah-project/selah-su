@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "sarta moal ngabalukarkeun ⟨את⟩ maranehna mawa dosa kasalahan ku cara dahar ⟨את⟩ barang-barang sucina, sabab akuinga Yahwe nu nyucikeun aranjeunna.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "sarta moal ngabalukarkeun mawa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ maranehna"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "kasalahan"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "ku cara dahar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang-barang sucina"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "barang-barang sucina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akuinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "nu nyucikeun aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:12.235692853Z",
+  "model": "glm-5.3"
+}

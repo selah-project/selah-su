@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jalan imu kaula milih, katangtuan-Mu kaula nangtukeun payuneun.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "imu"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "kaula milih"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "katangtuan-Mu"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "kaula nangtukeun payuneun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:22.659078363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Lajeungna anjeunna ngaduruk ⟨את⟩ imah Yahwe jeung ⟨את⟩ imah raja, jeung ⟨את⟩ sakumala imah-imah Yerushalaim, jeung ⟨את⟩ sakumala imah nu gedé diduruk ku seuneu.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "lajeungna anjeunna ngaduruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imah raja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakumala imah-imah Yerushalaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumala"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakumala imah nu gedé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nu gedé"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "diduruk"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:42:46.590515733Z",
+  "model": "glm-5.3"
+}

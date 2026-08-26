@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Kitu dawis Yahwe: kitu-deui ulun badé ngaruksak ⟨את⟩ kamégahan Yehuda jeung ⟨את⟩ kamégahan Yerushalaim nu ageung.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dawis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kitu-deui"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "badé ngaruksak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamégahan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamégahan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kamégahan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamégahan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "nu ageung"
+    }
+  ],
+  "timestamp": "2026-08-26T13:27:15.358503331Z",
+  "model": "glm-5.3"
+}

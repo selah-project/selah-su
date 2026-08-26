@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Kurbankeun ka Elohim ucapan sukur, sarta luputkeun ka Elyon junan-junan anjeun.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Kurbankeun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ucapan sukur"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "sarta luputkeun"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "ka Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "junan-junan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:44.765135456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Aram nempo yén ⟨aranjeuna⟩ kakeuheulan di payuneun Yisrael, sarta ⟨aranjeuna⟩ ngahiji nyawanda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "kakeuheulan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "sarta ⟨aranjeuna⟩ ngahiji"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nyawanda"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:39.982208685Z",
+  "model": "glm-5.3"
+}

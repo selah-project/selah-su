@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ka Nu ngalegaan ⟨the⟩ bumi luhureun ⟨the⟩ cai, sabab ka satulumikana kanyaah-Na nu satia.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Ka Nu ngalegaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka satulumikana"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-Na nu satia"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:04.627913457Z",
+  "model": "glm-5.3"
+}

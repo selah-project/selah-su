@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "jeung ⟨את⟩ urang Hivi, jeung ⟨את⟩ urang Arki, jeung ⟨את⟩ urang Sini;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "urang Hivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "urang Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "urang Sini"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:02.963080371Z",
+  "model": "glm-5.3"
+}

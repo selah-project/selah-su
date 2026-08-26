@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung Moshe maréntahkeun ka ⟨את⟩ urang Levi, nu mawa peti pajeunggikan Yahwe, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nu mawa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pajeunggikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T16:48:25.591202051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Gunung-gunung jeung sadaya turunan; tangkal buah jeung sadaya sararing",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "turunan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tangkal"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sararing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:04.448377742Z",
+  "model": "glm-5.3"
+}

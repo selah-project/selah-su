@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Pangaweruh ku Asaf. Naha Elohim nyingkahkeun ⟨kami⟩ salawasna? Murbeng muring hap Anjeun ka domba-domba angon Anjeun?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Pangaweruh"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ku Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Naha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "nyingkahkeun"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "murbeng muring"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hap Anjeun"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ka domba-domba"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "angon Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:32.535807554Z",
+  "model": "glm-5.3"
+}

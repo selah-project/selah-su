@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Anjeunna mimalikeun abdi ka tempat nu lébar; Anjeunna ngabébaskeun abdi, sabab Anjeunna kanyaah ka abdi.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Jeung mimalikeun abdi"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ka tempat nu lébar"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "ngabébaskeun abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kanyaah"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:15.484175687Z",
+  "model": "glm-5.3"
+}

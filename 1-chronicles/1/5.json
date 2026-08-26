@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Putra-putra Yefet: Gomer, jeung Magog, jeung Madai, jeung Yawan, jeung Tuval, jeung Meshek, jeung Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "jeung Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "jeung Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "jeung Yawan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "jeung Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "jeung Meshek"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "jeung Tiras"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:40.957974150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Nu cicing dina sumput Élyon, dina kalangkang Shadday mojang-ngaonan.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Nu cicing"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dina sumput"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Élyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "dina kalangkang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "mojang-ngaonan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:51.055267769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Teras sadulur-sadulurna mihirit méré kokolakeun ⟨את⟩ domba-domba bapana di Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "teras mihirit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "méré kokolakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba-domba"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba-domba"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:01.941003944Z",
+  "model": "glm-5.3"
+}

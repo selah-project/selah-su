@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung anjeun ngadegokeun di langit, tempat dumuk anjeun, ⟨את⟩ pareng maranéhna jeung ⟨את⟩ pangéjérna, lajeng ngarékadana kaperluan maranéhna.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ngadegokeun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "dumuk anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pareng maranéhna"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "pareng maranéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pangéjérna"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "pangéjérna"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ngarékadana"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "kaperluan maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:23.117228771Z",
+  "model": "glm-5.3"
+}

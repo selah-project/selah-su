@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Anjeun ngatur saméméh kuring méja, di payuneun nu munggar musuh kuring; Anjeun ngalisanan maké minyak ⟨את⟩ sirah kuring; cawan kuring kacuuhan.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Anjeun ngatur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "saméméh kuring"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "nu munggar musuh kuring"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "Anjeun ngalisanan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "maké minyak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirah kuring"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "cawan kuring"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "kacuuhan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:33.149743669Z",
+  "model": "glm-5.3"
+}

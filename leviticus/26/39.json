@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 26:39",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung nu kari ti aranjeunna bakal luntur dina kaluputanana di taneuh-taneuh musuh-musuh aranjeunna, jeung ogé dina kaluputan-kaluputan bapa-bapa maranehna ⟨jeung⟩ maranehna bakal luntur.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "Jeung nu kari"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ti aranjeunna"
+    },
+    {
+      "surface": "ימקו",
+      "gloss": "bakal luntur"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "dina kaluputanana"
+    },
+    {
+      "surface": "בארצת",
+      "gloss": "di taneuh-taneuh"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuh aranjeunna"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "בעונת",
+      "gloss": "dina kaluputan-kaluputan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa-bapa maranehna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jeung maranehna",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "ימקו",
+      "gloss": "bakal luntur"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:31.535105578Z",
+  "model": "glm-5.3"
+}

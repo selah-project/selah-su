@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta ngantosan deui tujuh poé nu lian, lajeng ngirim ⟨את⟩ japati, sarta lain deui nambah balik ka manéhna deui.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ngantosan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nu lian"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "japati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "japati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:40.427743422Z",
+  "model": "glm-5.3"
+}

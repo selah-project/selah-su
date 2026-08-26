@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung raja Shelomah jeung sakabéh jamaah Yisrael nu kumpul ka anjeunna, aya ⟨את⟩ jeung anjeunna di payuneun tabut, ngakorbankeun domba jeung sapi nu teu bisa diitung jeung teu bisa dibilang kusabab lobaana.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "nu kumpul"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeung anjeunna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ngakorbankeun"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jeung sapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "bisa diitung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "bisa dibilang"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kusabab lobaana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:34.184460652Z",
+  "model": "glm-5.3"
+}

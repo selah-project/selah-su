@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Jeung pilihanteun ⟨את⟩ jeung urang: putri-putri aranjeun aranjeun berkeun ka urang, jeung ⟨את⟩ putri-putri urang aranjeun pilih pikeun aranjeun.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "pilihanteun jeung"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ jeung urang",
+      "marks": "—"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "putri-putri aranjeun"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "aranjeun berkeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putri urang"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "putri-putri urang"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "aranjeun pilih"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:21.062355884Z",
+  "model": "glm-5.3"
+}

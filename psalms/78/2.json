@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Bakaham kuring kuring buka dina parabola; kecap-kecap nu samar kuring corétkeun ti mangsa baheula.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "kuring buka"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "dina parabola"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baham kuring"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "kuring corétkeun"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "kecap-kecap nu samar"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "mangsa baheula"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:51.269531192Z",
+  "model": "glm-5.3"
+}

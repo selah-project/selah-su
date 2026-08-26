@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung putra-putra Israél ngahaturanan ⟨את⟩ Eglon raja Moab dalapan belas tahun.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ngahaturanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:53.872437689Z",
+  "model": "glm-5.3"
+}

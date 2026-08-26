@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Ulah mulakeun nyawa dodo-Mu ka sato buas; kahirupan nu miprihieun-Mu ulah hilap-inget salawasna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mulakeun"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "ka sato buas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "dodo-Mu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "kahirupan"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "nu miprihieun-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "hilap-inget"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:28.610021099Z",
+  "model": "glm-5.3"
+}

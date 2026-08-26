@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Di luar anjeun boga, sarta ⟨l⟩jalma nu anjeun madamkeun bakal mawa kaluar ka anjeun ⟨את⟩ sésana ka luar.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "anjeun boga"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "sarta jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "madamkeun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "mawa kaluar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sésana"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "sésana"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ka luar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:48:47.772039461Z",
+  "model": "glm-5.3"
+}

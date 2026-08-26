@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Katurunan ka katurunan bakal memuji gawé-gawé Anjeun, sarta kakuatan-kakuatan Anjeun bakal dipomokkeun.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ka katurunan"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "bakal memuji"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "gawé-gawé Anjeun"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "sarta kakuatan-kakuatan Anjeun"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "bakal dipomokkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:20.923970943Z",
+  "model": "glm-5.3"
+}

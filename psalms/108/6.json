@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Dipertinggih ↑ bari diluhurkeunana, Elohim, luhureun ⟨the⟩ langit-langit, jeung luhureun sadaya ⟨the⟩ bumi kameumeut-Mu.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Dipertinggih"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kameumeut-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:24.349455376Z",
+  "model": "glm-5.3"
+}

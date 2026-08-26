@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 26:18",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung anjeunna nyarita: 'Kunaon ieu, Adonay kuring ngudag ka tukang palayan kuring? Sabab naon anu geus kuring lakukeun, naon awak gaduh leungeun kuring?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kunaon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ngudag"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka tukang"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palayan-Na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "geus kuring lakukeun"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jeung naon"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "dina leungeun kuring"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "awak gaduh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:07.831098200Z",
+  "model": "glm-5.3"
+}

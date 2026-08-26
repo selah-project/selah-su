@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Pujian ka Yah, pujilah ⟨את⟩ ngaran Yahwe, puji, hai abdi-abdi Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "puji"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:46.538013971Z",
+  "model": "glm-5.3"
+}

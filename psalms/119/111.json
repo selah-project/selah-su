@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Kuring warisanana edot-édot Anjeun salawasna, sabab ⟨aranjeuna nyaéta⟩ kagumbiraan ati kuring.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "kuring warisanana"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "edot-édot Anjeun"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kagumbiraan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "המה",
+      "gloss": "aranjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:51.545217722Z",
+  "model": "glm-5.3"
+}

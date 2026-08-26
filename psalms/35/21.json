@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung aranjeunna ngalebarkan bahuna ka hareupeun kuring, nyarita: Hé-ah, hé-ah, ceuli urang geus nempo.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "jeung aranjeunna ngalebarkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka hareupeun kuring"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bahuna"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hé-ah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hé-ah"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "geus nempo"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ceuli urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:13.381432209Z",
+  "model": "glm-5.3"
+}

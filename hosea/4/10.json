@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung aranjeunna bakal ngahakan sarta teu wareg; aranjeunna zina sarta teu nambah; sabab ⟨את⟩ Yahwe geus aranjeunna tinggalkeun, teu deui ngajaga.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "jeung aranjeunna ngahakan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "wareg"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "aranjeunna zina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "aranjeunna tinggalkeun"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pikeun ngajaga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:06.022461736Z",
+  "model": "glm-5.3"
+}

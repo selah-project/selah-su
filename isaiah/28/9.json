@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "⟨את⟩ saha nu bakal diajarkeun pangaweruh, jeung ⟨את⟩ saha nu bakal dibéré pangarti kana wartos? Murangkalak nu disapih tina susu, nu ditarik ti dada.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "diajarkeun"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "méré pangarti"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "wartos"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "disapih"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "tina susu"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ditarik"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "ti dada"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:08.756855789Z",
+  "model": "glm-5.3"
+}

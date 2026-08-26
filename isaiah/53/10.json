@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 53,
+  "translation": "Jeung Yahwe karesep ngancurkeunana, ngasakeunana; upami anjeun nempatkeun jiwana jadi persembahan-salah, manéhna baris nempo turunan, baris manjangkeun poé-poéna, jeung karesep Yahwe baris lulus dina leungeunna.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "jeung Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "karesep"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "ngancurkeunana"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "ngasakeunana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "anjeun nempatkeun"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "persembahan-salah"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwana"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "baris nempo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turunan"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "baris manjangkeun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poéna"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "jeung karesep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dina leungeunna"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "baris lulus"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:12.025131296Z",
+  "model": "glm-5.3"
+}

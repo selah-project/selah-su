@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "jeung balad-na sarta nu diitung-ngitungna, tilu puluh dua rebu jeung dua ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jeung balad-na"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "sarta nu diitung-ngitungna"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jeung tilu puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rebu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "jeung dua ratus"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:50.885796467Z",
+  "model": "glm-5.3"
+}

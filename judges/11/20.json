@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Tapi Sihon teu percaya ⟨את⟩ Yisrael sangkan ngaliwatan watesna, sarta Sihon ngumpulkeun ⟨את⟩ sakabéh baladna, sarta maranéhna kempal di Yahatsa, sarta perang jeung Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "watesna"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "sarta ngumpulkeun"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh baladna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "baladna"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "sarta kempal"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "di Yahatsa"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "sarta perang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T12:08:10.440025739Z",
+  "model": "glm-5.3"
+}

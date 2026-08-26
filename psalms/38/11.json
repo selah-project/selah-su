@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Ati abdi ngadegdeg, tanaga abdi nginggingkeun abdi, sarta caang panon abdi, komo maranéhna, euweuh ⟨את⟩ jeung abdi.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ati abdi"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "ngadegdeg"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "nginggingkeun abdi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "tanaga abdi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "sarta caang"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon abdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jeung abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:18.713062694Z",
+  "model": "glm-5.3"
+}

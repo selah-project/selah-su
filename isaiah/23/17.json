@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 23:17",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung baris kajadian dina tungtung tujuh puluh tahun, Yahwe marios ⟨את⟩ Tso\r r, jeung <\r he\r> balik deui ka ==>upahna\r <, jeung <\r he\r> ngalacur jeung ⟪את⟫ sakabéh karajaan-karajaan ⟨\r the\r> bumi dina beungeut ⟨\r the\r> taneuh.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jeung baris kajadian"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "dina tungtung"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "marios"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsor"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "jeung balik deui"
+    },
+    {
+      "surface": "לאתננה",
+      "gloss": "ka upahna"
+    },
+    {
+      "surface": "וזנתה",
+      "gloss": "jeung ngalacur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh karajaan-karajaan bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajaan-karajaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:01.265869314Z",
+  "model": "glm-5.3"
+}

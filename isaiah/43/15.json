@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Akurap Yahwe, nu Suci Anjeun, nu Nyiptakeun Yisrael, Raja Anjeun.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Akurap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "nu Suci Anjeun"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "nu Nyiptakeun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Raja Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:36.673175386Z",
+  "model": "glm-5.3"
+}

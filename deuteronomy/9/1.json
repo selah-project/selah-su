@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Denge, Israél: anjeun keur meuntas ayeuna ⟨את⟩ Yarden, pikeun asup ngareuman bangsa-bangsa nu leuwih badag tur leuwih kawasa ti batan anjeun — kota-kota badag jeung kubenténg nepi ka langit.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Denge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "meuntas"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "pikeun asup"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "pikeun ngareuman"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "badag"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "tur kawasa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti batan anjeun"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "badag"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "jeung kubenténg"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nepi ka langit"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:26.870250320Z",
+  "model": "glm-5.3"
+}

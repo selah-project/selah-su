@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Teras Dawid ngadeg sarta kabur poé éta ti payuneun Shaul, sarta datang ka Akhisy, raja kota Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhisy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:26.793218346Z",
+  "model": "glm-5.3"
+}

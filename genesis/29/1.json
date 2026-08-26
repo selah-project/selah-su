@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Teras Yaakov ngangkat sapapaitna suku teras leumpang ka nagri putra-putra wétan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "suku-suku na"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "teras leumpang"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka nagri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "wétan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:56.498875242Z",
+  "model": "glm-5.3"
+}

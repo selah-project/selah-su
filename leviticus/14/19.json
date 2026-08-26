@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung imam ngalaksanakeun ⟨את⟩ kurban dosa, sarta ngadamel panebusan pikeun nu keur disucikeun tina kaorkonana; sanggeus éta anjeunna nyembelih ⟨את⟩ kurban bakar.",
+  "tokens": [
+    {
+      "surface": "ויעשה\/ועשה",
+      "gloss": "jeung ngalaksanakeun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban dosa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "sarta ngadamel panebusan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nu keur disucikeun"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "tina kaorkonana"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sanggeus éta"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:24.508120654Z",
+  "model": "glm-5.3"
+}

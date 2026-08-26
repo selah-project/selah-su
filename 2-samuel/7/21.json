@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sangkan kecap Anjeun, jeung nurutkeun haté Anjeun, Anjeun migawé ⟨את⟩ sadaya kagungan-agung ieu, sangkan méré kanyaho ⟨את⟩ ka abdi Anjeun.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kecap Anjeun"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "jeung nurutkeun haté Anjeun"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Anjeun migawé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kagungan-agung ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "kagungan-agung"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "sangkan méré kanyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi Anjeun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:28:59.444683673Z",
+  "model": "glm-5.3"
+}

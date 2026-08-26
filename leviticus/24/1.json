@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Lajeng Yahwe ngomong ka Moshe, sing ngaranna:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sing ngaranna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:46.327971728Z",
+  "model": "glm-5.3"
+}

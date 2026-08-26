@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Lakukeun ka ⟨את⟩ maranéhna siga ka Midian, siga Sisera, siga Yabin, di walungan Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Lakukeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "siga ka Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "siga Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "siga Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di walungan"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:33.667329300Z",
+  "model": "glm-5.3"
+}

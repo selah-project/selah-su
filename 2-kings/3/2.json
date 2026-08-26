@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung anjeunna ngalakukeun nu jelek dina panon Yahwe, ngan henteu sapopoé saperti bapana jeung saperti indungna, sarta anjeunna ngaleungitkeun ⟨את⟩ tugu Baal nu dijieun ku bapana.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Jeung ngalakukeun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu jelek"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "saperti bapana"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "jeung saperti indungna"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "sarta ngaleungitkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ku bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:45.982223624Z",
+  "model": "glm-5.3"
+}

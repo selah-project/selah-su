@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Sabab ⟨Anjeuna⟩ bakal ngabébaskeun anjeun ti rarampa nu ngajebak, tina wabah nu ngancurkeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Anjeuna⟩"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "bakal ngabébaskeun anjeun"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ti rarampa"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "nu ngajebak"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tina wabah"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "nu ngancurkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:51.055643954Z",
+  "model": "glm-5.3"
+}

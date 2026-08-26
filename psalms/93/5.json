@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 93,
+  "translation": "Patungsikan-Mu geus paguneguneg pisan; ka bumi-Mu kaayaan nu mulya, Yahwe, lilana poé-poé.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Patungsikan-Mu"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "geus paguneguneg"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ka bumi-Mu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kaayaan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nu mulya (kakudusan)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "lilana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:37.984616788Z",
+  "model": "glm-5.3"
+}

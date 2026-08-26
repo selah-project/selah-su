@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Maranehna mayar ka abdi jahat gaganti hadé, jadi kaduka pikeun jiwa abdi.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "maranehna mayar ka abdi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "gaganti"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "jadi kaduka"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pikeun jiwa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:50.398856389Z",
+  "model": "glm-5.3"
+}

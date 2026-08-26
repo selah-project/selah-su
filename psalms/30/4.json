@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Yahwe, anjeun naékkeun jiwa abdi ti Sheol; anjeun ngahirupkeun abdi tina nu turun ka liang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "anjeun naékkeun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa abdi"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "anjeun ngahirupkeun abdi"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "tina nu turun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ka liang"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:34.691601695Z",
+  "model": "glm-5.3"
+}

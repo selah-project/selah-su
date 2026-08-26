@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 99,
+  "translation": "Béré kahormatan ka Jenengan anu héwang jeung ngagédér, sucina manehna.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "béré kahormatan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan anu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "héwang"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "jeung ngagédér"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:17.907138664Z",
+  "model": "glm-5.3"
+}

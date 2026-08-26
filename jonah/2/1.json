@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tuluy Yahwe nangtukeun lauk gedé pikeun ngahakan ⟨את⟩ Yonah, sarta aya Yonah di jero beuteung lauk éta tilu poé jeung tilu peuting.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Tuluy nangtukeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "lauk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedé"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "pikeun ngahakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sarta aya"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "di jero beuteung"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "lauk éta"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "peuting"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:44.244548255Z",
+  "model": "glm-5.3"
+}

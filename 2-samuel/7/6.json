@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sabab kuring teu dumuk dina ⟨⟨saeutik⟩⟩ imah ti mimiti poé nalika kuring ngangkat ⟨את⟩ putra-putra Yisrael ti Mesir, nepi ka poé ieu, tapi kuring jadi nu lalampahan saba dina kolam jeung dina tarumbu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "dumuk"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dina imah"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "ti mimiti poé"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "kuring ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mesir"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "kuring jadi"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "nu lalampahan saba"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dina kolam"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "dina tarumbu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:20.436598182Z",
+  "model": "glm-5.3"
+}

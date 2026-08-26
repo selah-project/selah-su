@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Anak-anak Elpaal: Ever, Misham, jeung Shamed; manéhna ngawangun ⟨את⟩ Ono jeung ⟨את⟩ Lod jeung kampung-kampungna.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "jeung Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "jeung Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "jeung kampung-kampungna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:06.846482477Z",
+  "model": "glm-5.3"
+}

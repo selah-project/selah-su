@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Maneh ngaancurkeun ku kakuatan-Mu laut; Maneh ngancurkeun sirah-sirah tannin di luhur ⟨cai⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Maneh"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "ngaancurkeun"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ku kakuatan-Mu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirah-sirah"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tannin"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:29.233161866Z",
+  "model": "glm-5.3"
+}

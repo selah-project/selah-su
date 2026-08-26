@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Nyingkahnan Yah nyingkah kuring, tapi moal nepikeun kuring ka pati.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "nyingkahnan"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "nyingkah kuring"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "tapi ka pati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "nepikeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:35.039911830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Teras Avraham ngahumas, lajeng maot dina kolot nu alus, geus sepuh jeung kacukuhan, sarta kariung ka umatna.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "ngahumas"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "dina kolot"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nu alus"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "geus sepuh"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "jeung kacukuhan"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "kariung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "umatna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:32.177150495Z",
+  "model": "glm-5.3"
+}

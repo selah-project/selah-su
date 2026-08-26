@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Euweuh nu suci saperti Yahwe, sabab euweuh ⟨nu lian ti⟩ Anjeun, sarta euweuh batu saperti Elohim urang.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "saperti Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "nu lian ti Anjeun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sarta euweuh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "saperti Elohim urang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:12:34.049163805Z",
+  "model": "glm-5.3"
+}

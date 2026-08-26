@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung maranehna ngarunguyah di jero khemah-khemahna, teu daek ngadangukeun sora Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "jeung maranehna ngarunguyah"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "di jero khemah-khemahna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "daek ngadangukeun"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:52.853851360Z",
+  "model": "glm-5.3"
+}

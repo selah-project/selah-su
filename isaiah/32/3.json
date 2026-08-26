@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung moal ngahuleng panon nu nempo, jeung ceuli nu ngadéngé baris ngeunteung ngadengekeun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Jeung moal"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ngahuleng"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "nu nempo"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "jeung ceuli"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "nu ngadéngé"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ngeunteung ngadengekeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:12.073126593Z",
+  "model": "glm-5.3"
+}

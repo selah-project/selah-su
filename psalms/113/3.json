@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 113,
+  "translation": "Ti mimitina panonpoé meletek nepi ka suganana, dipuji ngaran Yahwe.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ti mimiti terbitna"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "suganana"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "dipuji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:15.567877420Z",
+  "model": "glm-5.3"
+}

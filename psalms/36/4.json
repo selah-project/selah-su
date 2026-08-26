@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Kalimah-kalimah tina bahuna: kalalawan jeung tipu-daya; manehna eureun tina mikanyaah akal, tina milampah hadé.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kalimah-kalimah"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "tina bahuna"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalalawan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "jeung tipu-daya"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "eureun"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "tina mikanyaah akal"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "tina milampah hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:23.386787420Z",
+  "model": "glm-5.3"
+}

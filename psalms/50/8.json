@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Bukan alatan kurban-kurban anjeun abdi ngukum anjeun, jeung bakaran-bakaran anjeun ⟨⟨aya⟩⟩ terus-terusan di payuneun daku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "kurban-kurban anjeun"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "abdi ngukum anjeun"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "jeung bakaran-bakaran anjeun"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di payuneun daku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-terusan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:53.531689643Z",
+  "model": "glm-5.3"
+}

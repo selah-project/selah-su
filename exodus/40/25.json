@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Tur dipasangkeunana ⟨ieu⟩ lumping-lumping cinyusu hareupeun Yahwe, sakumaha anu diparentahkeun ku Yahwe ka ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "dipasangkeunana"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "⟨ieu⟩ lumping-lumping cinyusu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hareupeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakumaha anu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:45.803346096Z",
+  "model": "glm-5.3"
+}

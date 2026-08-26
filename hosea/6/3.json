@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung urang baris terang, urang ngudag mikanyaho ⟨את⟩ Yahwe; kalawan fajar kaluar-Na pasti, jeung manéhna baris datang ka urang kalawan hujan, kalawan hujan munggaran nu ngocor bumi.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "jeung urang baris terang"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "urang ngudag"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pikeun mikanyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "kalawan fajar"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kaluar-Na"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "jeung manéhna baris datang"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "kalawan hujan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "kalawan hujan munggaran"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "nu ngocor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:41.342159141Z",
+  "model": "glm-5.3"
+}

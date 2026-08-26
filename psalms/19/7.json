@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Ti wujud langit-langit kaluarna, jeung puteranna nepi ka wujud-wujudna; jeung euweuh nu nyumput ti haneutna.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ti wujud"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kaluarna"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "jeung puteranna"
+    },
+    {
+      "surface": "על",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "wujud-wujudna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh nu"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "nyumput"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ti haneutna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:58.934834716Z",
+  "model": "glm-5.3"
+}

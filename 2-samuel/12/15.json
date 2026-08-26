@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Lajeng Natan indit ka imahna, jeung Yahwe nyerang ⟨את⟩ budak nu dilahirkeun ku pamajikan Uria keur Dawid, sarta těstorybook jadi teu kaubaran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lajeng indit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "jeung nyerang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahirkeun"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "keur Dawid"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "jadi teu kaubaran"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:24.235877900Z",
+  "model": "glm-5.3"
+}

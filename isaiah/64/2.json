@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Nalika Anjeun ngalakonan hal-hal nu matak hariwang nu teu ka harepan, urang moal nungguanana; Anjeun turun, tina hareapan Anjeun gunung-gunung ngoyag lééh.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "nalika Anjeun ngalakonan"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "hal-hal nu matak hariwang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "ka harepan \/ tungguan"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "Anjeun turun"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "tina hareapan Anjeun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "ngoyag lééh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:20:10.903683841Z",
+  "model": "glm-5.3"
+}

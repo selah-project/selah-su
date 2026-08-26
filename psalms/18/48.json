@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "El nu mere balas-balas ka abdi, sarta nundukkan bangsa-bangsa di sahandapeun abdi.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "nu mere"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "balas-balas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "sarta nundukkan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "di sahandapeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:44.606756025Z",
+  "model": "glm-5.3"
+}

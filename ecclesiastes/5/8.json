@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung kauntungan bumi — ka sadayana ⟨éta⟩; saurang raja jadi palayu pikeun sawah.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "jeung kauntungan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sadayana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨éta⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "pikeun sawah"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "jadi palayu"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:50.371781699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ieu maranehna nu ngaliwatan ⟨את⟩ Yarden dina bulan kahiji, harita caina keur ngalelep sakabéh sisi-sisina, sarta maranehna ngaburungkeun ⟨את⟩ sakabéh lebak-lebak ka wétan jeung ka kulon.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kahiji"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "harita caina"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ngalelep"
+    },
+    {
+      "surface": "על",
+      "gloss": "sacara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "sisi-sisina"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "sarta maranehna ngaburungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh lebak-lebak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "lebak-lebak"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ka wétan"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "jeung ka kulon"
+    }
+  ],
+  "timestamp": "2026-08-26T16:11:11.620052692Z",
+  "model": "glm-5.3"
+}

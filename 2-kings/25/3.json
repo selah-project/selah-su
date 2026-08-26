@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Dina salapan dénning bulan éta kalaparan jadi beurat pisan di kota, sarta teu aya roti pikeun bangsa nagara éta.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "dina salapan dénning"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan éta"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "jadi beurat pisan"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pikeun bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara éta"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:28.599768891Z",
+  "model": "glm-5.3"
+}

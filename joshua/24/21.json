@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung masarakat ngomong ka Yéhoshua: Sanes, tapi ⟨את⟩ Yahwe urang layan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "masarakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "urang layan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:53.470809259Z",
+  "model": "glm-5.3"
+}

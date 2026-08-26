@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung manehna ngalakukeun kitu ka maranehna, jeung ngabébaskeun ⟨את⟩ maranehna tina leungeun putra-putra Yisrael, sarta maranehna teu maéhanana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ngabébaskeun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "maéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:55:39.368061663Z",
+  "model": "glm-5.3"
+}

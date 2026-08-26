@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Nu maha welas jeung maha asih nyaeta Yahwe, lami ambekanana, jeung loba kanyaah satia perjangjian.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Nu maha welas"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "jeung maha asih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lami"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ambekan"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jeung loba"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kanyaah satia perjangjian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:59.060865004Z",
+  "model": "glm-5.3"
+}

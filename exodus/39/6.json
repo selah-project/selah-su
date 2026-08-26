@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung maranehna nyieun ⟨את⟩ batu shoham nu dikurilingan bingkéy emas, diukir ukiran siga meterai, luhureun ngaran-ngaran putra Israél.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "jeung maranehna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "nu dikurilingan"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "bingkéy"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "diukir"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ukiran"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "meterai"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:02.326746375Z",
+  "model": "glm-5.3"
+}

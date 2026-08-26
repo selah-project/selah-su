@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sabab ka salju Ia ngomong: 'Aya di ⟨the⟩ bumi,' sarta ka hujan maké ciduh, jeung ka hujan ciduh kakuatan-Na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "ka salju"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "Ia ngomong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "sarta ka hujan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ciduh"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "jeung ka hujan"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "ciduh"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "kakuatan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T15:18:39.597668409Z",
+  "model": "glm-5.3"
+}

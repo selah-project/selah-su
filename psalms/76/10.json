@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Nalika Elohim ngadeg ka pangadilan, méréhatkeun sadaya nu leuleu di bumi. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "nalika ngadeg"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ka pangadilan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "méréhatkeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "nu leuleu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:14.416604282Z",
+  "model": "glm-5.3"
+}

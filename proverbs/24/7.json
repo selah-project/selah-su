@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Karunungan luhur teuing pikeun nu éblok; di gerbang manéhna teu muka sungutna.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "luhur teuing"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "pikeun nu éblok"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gerbang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sungutna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:46.346497731Z",
+  "model": "glm-5.3"
+}

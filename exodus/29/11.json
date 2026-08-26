@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun nyembelih ⟨את⟩ banteng éta di payune Yahwe, di panto Khemah Pertemuan.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "jeung anjeun nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banteng éta"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "banteng éta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:23.873970447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Nu geus aya, éta ⟨is⟩ nu bakal aya, jeung nu geus dijieun, éta ⟨is⟩ nu bakal dijieun, jeung euweuh nu anyar di handapeun panonpoé.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nu geus aya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nu bakal aya"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jeung naon"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "nu geus dijieun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "nu bakal dijieun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nu anyar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:10.320239423Z",
+  "model": "glm-5.3"
+}

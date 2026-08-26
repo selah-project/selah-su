@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Kepada pimpinan, dina nu kadalapan, mazmur pikeun Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kepada pimpinan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "nu kadalapan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:14.771216094Z",
+  "model": "glm-5.3"
+}

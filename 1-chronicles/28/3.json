@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Tapi Elohim nyarios ka kuring: Anjeun moal ngawangun imah pikeun ngaran Kami, sabab jalma perang anjeun, sarta getih anjeun geus ngacicaer.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "tapi-Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka-kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal\/henteu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "anjeun-ngawangun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "pikeun-ngaran-Kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "perang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "jeung getih"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "anjeun-geus-ngacicaer"
+    }
+  ],
+  "timestamp": "2026-08-26T16:18:12.199100309Z",
+  "model": "glm-5.3"
+}

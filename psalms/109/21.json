@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Tapi Anjeun, Yahwe Adonay, lakukeun ⟨את⟩ ka kuring pikeun ngaran-Mu, sabab hadé kanyaah satia-Mu, sangjatakeun kuring.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lakukeun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ka kuring"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia-Mu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "sangjatakeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:50.974141707Z",
+  "model": "glm-5.3"
+}

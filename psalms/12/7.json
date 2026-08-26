@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ucapan Yahwe ⟨mang⟩ ucapan murni, saperti pérak nu dileleusi dina udagan taneuh, disaring tujuh kali.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "murni"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "dileleusi"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "dina udagan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "disaring"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "tujuh kali"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:59.594946351Z",
+  "model": "glm-5.3"
+}

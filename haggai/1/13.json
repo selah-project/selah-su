@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 1:13",
+  "book": "haggai",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Chaggai, utusan Yahwe, nyarita dina sutan-utusan Yahwe ka ⟨⟨the⟩> bangsa, nyebutkeun: Abdi aya jeung aranjeun, ajian Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Chaggai"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במלאכות",
+      "gloss": "dina sutan-utusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ka bangsa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "jeung ⟨את⟩-anjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ajian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:55.684786127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung ⟨את⟩ Bosmat putri Yismael, dulur awéwé Nbayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yismael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "dulur awéwé"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nbayot"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:07.105672458Z",
+  "model": "glm-5.3"
+}

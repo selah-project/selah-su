@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Budak kuring, lamun anjeun nyandak kecap-kecap kuring, jeung parentah kuring anjeun sumputkeun ⟨את⟩ jeung anjeun,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "budak kuring"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "anjeun nyandak"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kecap-kecap kuring"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "jeung parentah kuring"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "anjeun sumputkeun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jeung anjeun",
+      "marks": "jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:32.594764657Z",
+  "model": "glm-5.3"
+}

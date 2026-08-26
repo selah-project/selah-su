@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "tur nyalukeun leungeun-na kana hulu kurban-na, tur nyembelih ⟨את⟩-na di payuneun khamah papanggihan; tur anak-anak Aharon nyiramkeun ⟨את⟩ getih-na kana ⟨eta⟩ mézbah sabudeureun.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "tur nyalukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun-na"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeun-na"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurban-na"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "tur nyembelih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "domba éta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khamah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "papanggihan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "tur nyiramkeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih-na"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getih-na"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨eta⟩ mézbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:30.899943309Z",
+  "model": "glm-5.3"
+}

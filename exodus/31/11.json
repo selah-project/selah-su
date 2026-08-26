@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "jeung ⟨את⟩ minyak paminyakan jeung ⟨את⟩ aseupan rempah-rempah pikeun tempat suci; sagalana nu Kuring parentakeun ka anjeun, aranjeunna kudu ngalaksanakeunana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "minyak paminyakan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "paminyakan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "aseupan rempah-rempah"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "aseupan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rempah"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "pikeun tempat suci"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sagalana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "Kuring parentakeun ka anjeun"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "aranjeunna kudu ngalaksanakeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:06.139651088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung ⟨את⟩ panasénan jeung ⟨את⟩ cawan nu émas, mangrupa émas, jeung nu pérak, mangrupa pérak — Pupuhu Pangbanté nu nyandak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panasénan"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "panasénan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cawan"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "cawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "émas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "émas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung nu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Pupuhu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "Pangbanté"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:23.988853150Z",
+  "model": "glm-5.3"
+}

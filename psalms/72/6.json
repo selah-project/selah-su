@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Bibirin manehna saperti hujan ka jukut nu dicukung, saperti ribeuy-ribeuy nyiramkeun kokocoran ka bumi.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "bibirin"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "saperti hujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "גז",
+      "gloss": "jukut nu dicukung"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "saperti ribeuy-ribeuy"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "kokocoran"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:47.362141680Z",
+  "model": "glm-5.3"
+}

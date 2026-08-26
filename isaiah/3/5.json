@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ⟨rakyat⟩ bakal ditindas, saurang ku saurang, jeung saurang ku dulurna; nu ngora bakal nyangka luhur ka nu kolot, jeung nu hina ka nu hormat.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "jeung ditindas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ku saurang"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung saurang"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ku dulurna"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "bakal nyangka luhur"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nu ngora"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ka nu kolot"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "jeung nu hina"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "ka nu hormat"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:55.611415069Z",
+  "model": "glm-5.3"
+}

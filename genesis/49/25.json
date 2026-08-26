@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Ti El ramana, Jeung Anu nulungan anjeun, Sarta ⟨את⟩ Shadday, Jeung Anu mberkahkeun anjeun Ku berkah-berkah langit ti luhur, Berkah-berkah tehom nu saré di handap, Berkah-berkah susu Jeung rahim.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "Ti El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "Jeung Anu nulungan anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Jeung ⟨את⟩",
+      "marks": "Shadday"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "Jeung Anu mberkahkeun anjeun"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah-berkah"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah-berkah"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "nu saré"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handap"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah-berkah"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "Jeung rahim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:11.087523326Z",
+  "model": "glm-5.3"
+}

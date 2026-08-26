@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Tapi maranéhna tara ngadangu, jeung ngeukeuh beuheung maranéhna saperti beuheung bapa-bapa maranéhna, nu teu percaya ka Yahwe, Elohim maranéhna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi … teu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ngeukeuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beuheung maranéhna"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "beuheung maranéhna"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "saperti beuheung"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa-bapa maranéhna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:57:27.751995825Z",
+  "model": "glm-5.3"
+}

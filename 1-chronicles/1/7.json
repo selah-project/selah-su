@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung putra-putra Yawan: Elisha, jeung Tarshisha, Kitim, jeung Rodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yawan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "jeung Tarshisha"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "jeung Rodanim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:40.958450202Z",
+  "model": "glm-5.3"
+}

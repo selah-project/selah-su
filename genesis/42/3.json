@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung turun sapuluh dulur Yoséf meuli béas ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dulur"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "meuli"
+    },
+    {
+      "surface": "בר",
+      "gloss": "béas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:51.302884804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sakabéh Yisrael dicatet silsilahna, jeung irunan mah maranéhna tinulis dina buku raja-raja Yisrael jeung Yehudah; maranéhna dibuang ka Bavel lantaran panghianatanna.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "dicatet silsilahna"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "jeung irunan mah"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "tinulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jeung Yehudah"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "dibuang"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "ka Bavel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "lantaran panghianatanna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:32.635494920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung Kami baris nempatkeun imah Kadhat Kami di tengah-tengah ararinyana, jeung jiwa Kami moal ngarandong ⟨את⟩ ararinyana.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jeung Kami baris nempatkeun"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "imah Kadhat Kami"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tengah-tengah ararinyana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ngarandong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa Kami"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ararinyana",
+      "marks": "ngarandong ka ararinyana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:56.976290790Z",
+  "model": "glm-5.3"
+}

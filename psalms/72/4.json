@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Bakal ngabelaan nu miskin ti ⟨um⟩at, bakal nyalametkeun putra-putra nu kabohongan, sarta bakal ngancurkeun nu ngaker.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "bakal ngabelaan"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨um⟩at"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "bakal nyalametkeun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nu kabohongan"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "sarta bakal ngancurkeun"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "nu ngaker"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:27.838745533Z",
+  "model": "glm-5.3"
+}

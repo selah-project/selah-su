@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Mangka kuring moal sieun éra nalika kuring nénjo ka sadaya parentah-parentah anjeun.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "sieun éra"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "nalika kuring nénjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentah-parentah anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:51.881572758Z",
+  "model": "glm-5.3"
+}

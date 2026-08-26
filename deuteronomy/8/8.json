@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Tanah gandum jeung jagong bur, jeung anggur, jeung awok, jeung delima; tanah zaitun minyak jeung madu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Tanah"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "jeung jagong bur"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "jeung anggur"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "jeung awok"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "jeung delima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jeung madu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:25.033282089Z",
+  "model": "glm-5.3"
+}

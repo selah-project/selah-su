@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Musuh moal ngeusi hutang ka anjeunna, jeung putra kajahatan moal nyiksa anjeunna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ngeusi hutang"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "jeung putra"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "nyiksa anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:38:21.819174290Z",
+  "model": "glm-5.3"
+}

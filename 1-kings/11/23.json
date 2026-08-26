@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Lajeng Elohim ngajekjegkeun keur anjeunna sagala lawan, ⟨את⟩ Rezon putra Elyada, nu kabur ti ⟨את⟩ Hadadezer raja Tzovah, pangawasana.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngajekjegkeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur anjeunna"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "lawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tzovah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pangawasana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:01.034820585Z",
+  "model": "glm-5.3"
+}

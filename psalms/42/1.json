@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Kana nu mingpin. Pangajaran (maskil) ti putra-putra Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kana nu mingpin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Pangajaran (maskil)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ti putra-putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:59.125982373Z",
+  "model": "glm-5.3"
+}

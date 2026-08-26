@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Dina leungeun Anjeun aya mangsa-mangsa kuring; sing salametkeun kuring tina leungeun musuh kuring jeung tina nu ngudag kuring.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "dina leungeun Anjeun"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "mangsa-mangsa kuring"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "sing salametkeun kuring"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh kuring"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "jeung tina nu ngudag kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:30.545192846Z",
+  "model": "glm-5.3"
+}

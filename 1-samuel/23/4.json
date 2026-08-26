@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung David nambihan deui naros ka Yahwe, jeung Yahwe ngabales anjeunna jeung ngandik: Mangkat, turun ka Keila, sabab abdi méré ⟨את⟩ Palisti kana leungeun anjeun.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "jeung nambihan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "pikeun naros"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "jeung ngabales anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngandik"
+    },
+    {
+      "surface": "קום",
+      "gloss": "mangkat"
+    },
+    {
+      "surface": "רד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ka Keila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Palisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palisti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "kana leungeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:07.206605202Z",
+  "model": "glm-5.3"
+}

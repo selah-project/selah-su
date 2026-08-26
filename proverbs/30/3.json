@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung teu kuring diajarkeun hikmah, pon kaweruh Nu-Nu-Suci moal kuring nyaho.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Jeung teu"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "kuring diajarkeun"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "pon kaweruh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Nu-Nu-Suci"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "kuring nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T15:04:30.548952715Z",
+  "model": "glm-5.3"
+}

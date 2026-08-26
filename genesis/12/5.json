@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Avram nyandak ⟨את⟩ Saray pamajikanana, jeung ⟨את⟩ Lot putra adina, jeung ⟨את⟩ sagala harta maranéhanana nu geus dikumpulkeun, jeung ⟨את⟩ ⟨the⟩ jalma-jalma nu geus dijieun di Kharan; laju maranéhna kaluar pikeun jauh ka tanah Kenaan, sarta maranéhna nepi ka tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saray"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "adina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ⟨阿ת⟩",
+      "marks": "sagala harta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "harta maranéhanana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "geus dikumpulkeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jalma-jalma"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "geus dijieun"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "di Kharan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "maranéhna kaluar"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pikeun jauh"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "maranéhna nepi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:49.183567408Z",
+  "model": "glm-5.3"
+}

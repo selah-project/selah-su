@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Sarta Yahwe ngabalikkeun ⟨את⟩ kaayaan-pangbuangan Iyob, sabot manéhna munajat pikeun babaturanana; sarta Yahwe nambahkeun ka sadaya nu dipibanda Iyob jadi dua kalina.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ngabalikkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaayaan-pangbuangan Iyob"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "kaayaan-pangbuangan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "saeutik munajat"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "nambahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu dipibanda Iyob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ka Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "jadi dua kalina"
+    }
+  ],
+  "timestamp": "2026-08-26T15:23:59.019103065Z",
+  "model": "glm-5.3"
+}

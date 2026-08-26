@@ -1,0 +1,178 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 1:6",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung aranjeunna nyarita ka anjeunna: Saurang lalaki naék nyumponan kami, jeung manéhna nyarita ka kami: Laku, balik deui ka raja nu ngutus ⟨את⟩ aranjeunna, jeung aranjeunna nyarita ka anjeunna: Kitu dawuh Yahwe: Naha sabab euweuh Elohim di Israél, anjeun ngutus mawa naros ka Baal-Zebub, allah Ékron? Ku lantaran kitu, ti kaperésan nu anjeun naék ka dinya, anjeun moal turun ti dinya, sabab anjeun pasti maot.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung aranjeunna nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "nyumponan kami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung manéhna nyarita"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "laku"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "jeung aranjeunna nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dawuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "naha sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Israél"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "pikeun naros"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ka Baal"
+    },
+    {
+      "surface": "זבוב",
+      "gloss": "-Zebub"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allah"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ékron"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ku lantaran kitu"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kaperésan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "anjeun naék"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ka dinya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maot"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "pasti maot"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:31.720843467Z",
+  "model": "glm-5.3"
+}

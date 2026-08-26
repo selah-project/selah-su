@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Manusa kaluar pikeun pagawéanna, jeung pikeun digawéna nepi ka surup.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "pikeun pagawéanna"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "jeung pikeun digawéna"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "surup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:42.424921899Z",
+  "model": "glm-5.3"
+}

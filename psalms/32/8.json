@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Kuring méré akal ka anjeun sarta méré parentah ka anjeun dina jalan nu ku anjeun dilalumpatan; kuring méré saran, panon kuring mundel ka anjeun.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "kuring méré akal ka anjeun"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "sarta méré parentah ka anjeun"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ku anjeun dilalumpatan"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "kuring méré saran"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:24.555178798Z",
+  "model": "glm-5.3"
+}

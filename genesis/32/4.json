@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sangkan Yaakov ngintunkeun utusan-utusan saméméh manehna, ka Esau dulurna, ka tana Seir, ampian Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngintunkeun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "saméméh manehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulurna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tana"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ampian"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:09.672603461Z",
+  "model": "glm-5.3"
+}

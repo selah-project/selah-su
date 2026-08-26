@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ogé ti luhur ⟨mere⟩ sieun, jeung kagétan-kagétan di jalan, jeung tangkal shaked mekar, jeung belalang beubeuratan, jeung buah kaper luntur; sabab manusa jalan ka imah ⟨salawasna⟩-na, jeung nu milu sedu muter di pasar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "jeung kagétan-kagétan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "jeung mekar"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "tangkal shaked"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "jeung beubeuratan"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "jeung luntur"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "buah kaper"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "salawasna-na"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "jeung muter"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "di pasar"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "nu milu sedu"
+    }
+  ],
+  "timestamp": "2026-08-26T15:36:32.886499438Z",
+  "model": "glm-5.3"
+}

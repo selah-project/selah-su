@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jalan ⟨keur⟩ nu bener téas, jalur nu teges diheureuyeungan-Mu, jáma nu bener dipapantes.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Jalan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "keur nu bener"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "téas"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nu teges"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "jalur"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jáma nu bener"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "dipapantes"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:19.159894429Z",
+  "model": "glm-5.3"
+}

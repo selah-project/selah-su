@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Cilaka mun nu ngawangun kota ku getih-getih, sarta ngadegkeun kota ku kalalayan!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nu ngawangun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ku getih-getih"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "sarta ngadegkeun"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ku kalalayan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:15:16.256360598Z",
+  "model": "glm-5.3"
+}

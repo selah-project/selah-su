@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung raja ngomong: Geger ⟨את⟩ budak nu hirup kana dua, jeung mere ⟨את⟩ satengah ka nu hiji jeung ⟨את⟩ satengah ka nu hijina deui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "geger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kana dua"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "jeung bere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satengah"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ka nu hiji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "satengah"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ka nu hijina deui"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:49.868845127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Abdi boga girang jeung bagéa dina kanyaah Anjeun, sabab Anjeun nempo ⟨את⟩ kasusah abdi; Anjeun nyaho dina sisieun nyawa abdi.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "abdi boga girang"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "jeung bagéa"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "dina kanyaah Anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "Anjeun nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusah abdi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kasusah abdi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Anjeun nyaho"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "dina sisieun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:14.997726133Z",
+  "model": "glm-5.3"
+}

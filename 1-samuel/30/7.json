@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Teras David ngomong ka Avyatar imam, putra Akhimelekh: Deukeutkeun pity na ka abdi efod. Sarta Avyatar mawa ⟨את⟩ ⟨efod éta⟩ ka David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "teras ngomong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "deukeutkeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pity na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "sarta mawa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:52.926468387Z",
+  "model": "glm-5.3"
+}

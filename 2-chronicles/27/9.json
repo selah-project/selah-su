@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Laju Yotam saré jeung bapak-bapakna, sarta aranjeunna nguburkeunana ⟨את⟩ di kota Dawid, laju Achaz putrana jadi raja sanggeusna.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapakna"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "nguburkeunana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna (Yotam)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sanggeusna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:28:37.227952879Z",
+  "model": "glm-5.3"
+}

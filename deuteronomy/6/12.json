@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jaga-jaga diri anjeun, ulah anjeun poho ⟨את⟩ Yahwe, nu mawa anjeun kaluar tina tanah Mitsrayim, tina imah hamba-hamba.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "jaga-jaga diri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ulah (enteng-enteng)"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "anjeun poho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "mawa anjeun kaluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tina imah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hamba-hamba"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:03.895230242Z",
+  "model": "glm-5.3"
+}

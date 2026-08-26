@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung dina taun kadalapanbelasna raja Yaravam putra Navat, Aviyam jadi raja di Yehuda.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "jeung dina taun"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:41.527260444Z",
+  "model": "glm-5.3"
+}

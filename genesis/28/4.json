@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung méré ka anjeun ⟨את⟩ berkah Avraham, ka anjeun jeung ka turunan anjeun ⟨את⟩ sarta jeung anjeun, pikeun anjeun noga ⟨את⟩ tanah borojong anjeun, nu dipasrahkeun Elohim ka Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Jeung méré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkah Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "jeung ka turunan anjeun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sarta jeung anjeun"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "pikeun anjeun noga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "borojong anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ka Avraham"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:47.972223148Z",
+  "model": "glm-5.3"
+}

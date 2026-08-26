@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung ayeuna kuring méré nyaho ⟨את⟩ ka aranjeun ⟨את⟩ nu kuring pigawé ka kebon anggur kuring: nyingsalkeun pager katutuhuanana, mangka jadi pikeun dibeuleum; ngarobohkeun pager batuna, mangka jadi pikeun diinjeuman.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "kuring méré nyaho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu kuring pigawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pigawé"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ka kebon anggur kuring"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "nyingsalkeun"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "pager katutuhuanana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mangka jadi"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "pikeun dibeuleum"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ngarobohkeun"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "pager batuna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mangka jadi"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "pikeun diinjeuman"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:25.763321394Z",
+  "model": "glm-5.3"
+}

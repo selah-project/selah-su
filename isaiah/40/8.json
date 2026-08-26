@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jukut garing, kembang layu, tapi kecap Elohim urang tanggu turun-tumuluyna.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "layu"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kembang"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "tapi kecap"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tanggu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "turun-tumuluyna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:54.175373192Z",
+  "model": "glm-5.3"
+}

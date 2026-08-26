@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Nu linggih di langit-langit seuri; Adonay ngédé ngaronyok maranéhna.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Nu linggih"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit-langit"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "seuri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ngédé ngaronyok"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:55.526678659Z",
+  "model": "glm-5.3"
+}

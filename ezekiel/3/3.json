@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 3:3",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sarta Anjeunna nyarita ka abdi: heirran manusa, beuteung anu dahar, sarta jero anu eusian ⟨את⟩ gulungan ieu nu abdi masihan ka anjeun. Teras abdi dahar éta, jadi dina baham abdi kawas madu pikeun amisna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "heirran"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "beuteung anu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "ומעיך",
+      "gloss": "jero anu"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "eusian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan ieu"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gulungan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "masihan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "teras abdi dahar"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dina baham abdi"
+    },
+    {
+      "surface": "כדבש",
+      "gloss": "kawas madu"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "pikeun amisna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:44:25.109177332Z",
+  "model": "glm-5.3"
+}

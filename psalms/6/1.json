@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Kanggo pangatik, kalawan alat senar, dina dangting kadalapan — mazmur kanggo Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangatik"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "kalawan alat senar"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "dangting kadalapan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:44.996024252Z",
+  "model": "glm-5.3"
+}

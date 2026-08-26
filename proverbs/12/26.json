@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 12:26",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Nu bener leuwih utama batan babaturanana, tapi jalan nu jahat nyasarkeun aranjeunna.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "leuwih utama"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "batan babaturanana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tapi jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "תתעם",
+      "gloss": "nyasarkeun aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:24.726706224Z",
+  "model": "glm-5.3"
+}

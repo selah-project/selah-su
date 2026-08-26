@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Ulah aranjeun motong ⟨את⟩ suku kulawarga Kohat ti tengah-tengah urang Lewi;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "aranjeun motong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kohat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ti tengah-tengah"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Lewi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:45.730656848Z",
+  "model": "glm-5.3"
+}

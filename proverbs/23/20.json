@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ulah aya di antara nu nginum anggur, di antara nu ngahakan daging ruksak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "di antara nu nginum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "di antara nu ngahakan ruksak"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maro"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:57.437247433Z",
+  "model": "glm-5.3"
+}

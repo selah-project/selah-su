@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Ieu ⟨⟨ini⟩ katurunan Shem: Shem umur saratus taun, teras niparkeun ⟨את⟩ Arpakshad, dua taun sanggeus caah brah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "teras niparkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dua taun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "caah brah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:11.921452285Z",
+  "model": "glm-5.3"
+}

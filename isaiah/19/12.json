@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Aya di mana, ayeuna, nu wijaksana anjeun? Mangga aranjeunna nyaritakeun ka anjeun, sarta aranjeunna nyaho naon anu dirarancang Yahwe Tzevaot ka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "aya di mana"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "nu wijaksana anjeun"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "mangga aranjeunna nyaritakeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "sarta aranjeunna nyaho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "anu dirarancang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:47.826329198Z",
+  "model": "glm-5.3"
+}

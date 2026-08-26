@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Ben-Cesed, di Arubot; pibakueunana Sokoh jeung sadayana taneuh Ceper.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Cesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "di Arubot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pibakueunana"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadayana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Ceper"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:45.710069662Z",
+  "model": "glm-5.3"
+}

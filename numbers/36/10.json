@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Saperti anu diparéntahkeun Yahwe ka ⟨את⟩ Moshe, kitu geus dipigawé putri-putri Tselofxad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "geus dipigawé"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofxad"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:25.762367349Z",
+  "model": "glm-5.3"
+}

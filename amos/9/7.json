@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Naha lain saperti budak-budak Kusyah anjeun ka Kami, hai budak-budak Yisrael? — katerangan Yahwe. Naha lain ⟨את⟩ Yisrael Kami angkat ti bumi Mitsrajim, jeung urang Pelesyet ti Kaftor, sarta Aram ti Kir?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Naha lain"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "saperti budak-budak"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kusyah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Kami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "katerangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Naha lain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "Kami angkat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "jeung urang Pelesyet"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "ti Kaftor"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "sarta Aram"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "ti Kir"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:28.661804440Z",
+  "model": "glm-5.3"
+}

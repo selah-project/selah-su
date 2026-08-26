@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Anjeunna ngabébaskeun abdi tina musuh abdi nu kuat, jeung tina nu ngabenci abdi, sabab aranjeunna leuwih kuat batan abdi.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "ngabébaskeun abdi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "tina musuh abdi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nu kuat"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "jeung tina nu ngabenci abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "anjeunna leuwih kuat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "batan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:15.483876972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sarta Moshe jadi ngangon ⟨את⟩ domba-domba Yitro, mantuanna, imam di Midian; sarta mawa ⟨את⟩ domba-domba ka tukangeun padang gurun, sarta sumping ka gunung Elohim, ka Khoreb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Sarta Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ngangon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba-domba"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba-domba"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mantuanna"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "sarta mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba-domba"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba-domba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka tukangeun"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sarta sumping"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ka Khoreb"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:09.952085327Z",
+  "model": "glm-5.3"
+}

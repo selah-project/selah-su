@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Ogá abdi-Mah diwaro ku aranjeunna; dina ngajagana aya ganjaran ageung.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogá"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mah"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "diwaro"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku aranjeunna"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "dina ngajagana"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ganjaran"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ageung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:20.309701329Z",
+  "model": "glm-5.3"
+}

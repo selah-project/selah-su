@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung ⟨את⟩ elang bangkai, jeung ⟨את⟩ falkon, sanggeus-mimitina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elang bangkai"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "elang bangkai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "falkon"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "falkon"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sanggeus-mimitina (jieunna)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:29.635700429Z",
+  "model": "glm-5.3"
+}

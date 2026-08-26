@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Tuluy Moshe jeung Aharon ngalakukeun saperti anu diparéntahkeun Yahwe ⟨את⟩ ka anjeunna; kitu maranehna ngalakukeun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Tuluy ngalakukeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jeung Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ka anjeunna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ngalakukeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:03.733148049Z",
+  "model": "glm-5.3"
+}

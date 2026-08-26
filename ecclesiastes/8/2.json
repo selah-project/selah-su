@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Abdi ⟨nyarita>: paikeuneun sungut raja, jeung lantaran sumpah Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sungut"
+    },
+    {
+      "surface": "mלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "paikeuneun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung lantaran"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "lantaran"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:25.708036527Z",
+  "model": "glm-5.3"
+}

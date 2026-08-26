@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Anjeun ngancurkeun aranjeunna ku tampar beusi; kawas parabot tukang keramik anjeun ngentakkeun aranjeunna.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "anjeun ngancurkeun aranjeunna"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ku tampar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "beusi"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "kawas parabot"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "tukang keramik"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "anjeun ngentakkeun aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:55.699059194Z",
+  "model": "glm-5.3"
+}

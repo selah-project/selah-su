@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 82,
+  "translation": "Teu nyaho, teu ngarti, mimitian ku poek maranéhna ngumbara; kabéh susuhunan bumi goyah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "mimitian ku poek"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ngumbara"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "goyah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabéh"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "susuhunan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:49.720554911Z",
+  "model": "glm-5.3"
+}

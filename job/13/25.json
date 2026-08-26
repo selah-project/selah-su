@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Naha daun nu kabawa angin kuAnjeun galak di蝟i, jeung ⟨את⟩ jarami garing kuAnjeun diudag?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "nu kabawa angin"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "kuAnjeun galak di蝟i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "jarami garing"
+    },
+    {
+      "surface": "קש",
+      "gloss": "jarami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "kuAnjeun diudag"
+    }
+  ],
+  "timestamp": "2026-08-26T15:08:47.641254151Z",
+  "model": "glm-5.3"
+}

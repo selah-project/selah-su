@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sabab raja baris ngadéngé, pikeun nyalametkeun ⟨את⟩ abdi awéwéna tina leungeun lalaki éta, nu rék musnahkeun ⟨את⟩ abdi jeung ⟨את⟩ budak kuring babarengan tina warisan Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "pikeun nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi awéwéna"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "abdi awéwéna"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki éta"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "pikeun musnahkeun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "abdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "budak kuring"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak kuring"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "tina warisan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:09.058997306Z",
+  "model": "glm-5.3"
+}

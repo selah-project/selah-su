@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Ngagem domba-dombana jeung sapi-sapina maranehna jalan pikeun milarian ⟨את⟩ Yahwe, tapi moal manggihan; manehna geus mundur ti maranehna.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ku domba-dombana"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "jeung ku sapi-sapina"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pikeun milarian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "manggihan"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ti maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:14.922522451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung rakyat éta ngarungkun ka Musa, nyarita: Naon nu urang inum?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "ngarungkun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat éta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "urang inum"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:15.615904734Z",
+  "model": "glm-5.3"
+}

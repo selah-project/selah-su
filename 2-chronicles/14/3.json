@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Manéhna ngomong ka Yehuda pikeun milangungi ⟨את⟩ Yahwe, Elohim karuhun maranéhna, sarta pikeun ngalakonan ⟨את⟩ Torah jeung ⟨את⟩ parentah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ka Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "pikeun milangungi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "karuhun maranéhna"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "sarta pikeun ngalakonan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "jeung parentah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:23:04.702787223Z",
+  "model": "glm-5.3"
+}

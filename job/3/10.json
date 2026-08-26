@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sabab teu nutup panto-panto uriing abdi, sarta teu nyumputkeun kasusah tina panon-panon abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nutup"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "panto-panto"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "uriing abdi"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "sarta nyumputkeun"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "tina panon-panon abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:10.494721820Z",
+  "model": "glm-5.3"
+}

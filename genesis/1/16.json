@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta Elohim nyieun ⟨את⟩ dua sumber cahaya nu badag: ⟨את⟩ sumber cahaya nu badag pikeun maréntah siang, sarta ⟨את⟩ sumber cahaya nu leutik pikeun maréntah peuting — sarta ⟨את⟩ béntang-béntang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sarta nyieun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua sumber cahaya nu badag"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "sumber cahaya"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "nu badag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumber cahaya nu badag"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sumber cahaya"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nu badag"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pikeun maréntah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sumber cahaya nu leetik"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sumber cahaya"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nu leetik"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pikeun maréntah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "béntang-béntang"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "béntang-béntang"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:21.696758630Z",
+  "model": "glm-5.3"
+}

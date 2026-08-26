@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Awetkeun ku anjeun ⟨את⟩ sadérék nu kuring parentahkeun ka anjeun ayeuna; tempo, kuring keur ngusir ti payuneun anjeun ⟨את⟩ urang Emori, jeung urang Kenaani, jeung urang Xiti, jeung urang Perizi, jeung urang Xivi, jeung urang Yevusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "awetkeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadérék nu kuring parentahkeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parentahkeun ka anjeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tempo kuring"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "keur ngusir"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ti payuneun anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "urang Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "jeung urang Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "jeung urang Xiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "jeung urang Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "jeung urang Xivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jeung urang Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:02.876873185Z",
+  "model": "glm-5.3"
+}

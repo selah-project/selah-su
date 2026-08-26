@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Jeung abdi bakal ngancurkeun ti payunna ⟨את⟩ musuh-musuhna, jeung nu benci ka anjeunna abdi baris ngagebug.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "jeung abdi bakal ngancurkeun"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ti payunna"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "musuh-musuhna"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "jeung nu benci ka anjeunna"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "abdi baris ngagebug"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:44.961139238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung manéhna ngarebut ⟨את⟩ kota-kota bénténg nu ka Yehuda, teras datang nepi ka Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ngarebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "bénténg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ka Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "teras datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:29.703535859Z",
+  "model": "glm-5.3"
+}

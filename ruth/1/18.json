@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras manéhna nempo yén manéhna ngajangjikeun haté pikeun indit jeung ⟨את⟩ anjeunna, teras eureun nyarita ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Teras manéhna nempo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "ngajangjikeun haté"
+    },
+    {
+      "surface": "היא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pikeun indit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ jeung anjeunna",
+      "marks": "jeung anjeunna"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "teras eureun"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:25:20.592063132Z",
+  "model": "glm-5.3"
+}

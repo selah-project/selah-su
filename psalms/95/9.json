@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 95,
+  "translation": "Sabab bapa-bapa aranjeun nyobaan abdi, ngujian abdi, padahal ogé katingali ⟨gawé⟩ abdi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "nyobaan abdi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa aranjeun"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ngujian abdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "katingali"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gawé abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:18.889109832Z",
+  "model": "glm-5.3"
+}

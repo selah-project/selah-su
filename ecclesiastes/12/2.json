@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Saméméh poék ⟨the⟩ panonpoé jeung caaya, jeung bulan, jeung bentang-bentang, jeung balik deui ⟨the⟩ awan-awan sanggeus hujan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu acan"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "poék"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "jeung caaya"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "jeung bulan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "jeung bentang-bentang"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "jeung balik deui"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:06.790507474Z",
+  "model": "glm-5.3"
+}

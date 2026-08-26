@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Lajeng Shelomoh jadi nuturkeun Ashtoret, elohim urang Tsidon, sarta nuturkeun Milkom, saluhur nu dibenci, ka bangsa Amon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lajeng jadi nuturkeun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nuturkeun"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "urang Tsidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "sarta nuturkeun"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "saluhur nu dibenci"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "ka bangsa Amon"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:25.227700257Z",
+  "model": "glm-5.3"
+}

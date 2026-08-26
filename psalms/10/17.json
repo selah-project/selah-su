@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kahayang nu lempleng geus didangu Yahwe; Anjeun nguatkeun ati maranehna, ceuli Anjeun museuk ngadangu.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nu lempleng"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "geus didangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "nguatkeun"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati maranehna"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "museuk ngadangu"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ceuli Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:58.506033830Z",
+  "model": "glm-5.3"
+}

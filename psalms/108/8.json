@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Elohim nyarios dina ka-suci-an-Na: bungah sartauring abdi, bagikeun abdi Shekhem, sarta Lembah Sukkot ukur abdi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dina ka-suci-an-Na"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "bungah sartauring abdi"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "bagikeun abdi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "sarta Lembah"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ukur abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:24.349754831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Hiji tungtung karang nu mimitina ngadeg di beulah kalér, mugia Mikhmas, jeung nu hijina deui di beulah kidul, mugia Giv'ah.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "hiji tungtung karang nu mimitina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hijina"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "di beulah kalér"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mugia"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "jeung nu hijina deui"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "di beulah kidul"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mugia"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Giv'ah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:56.177665057Z",
+  "model": "glm-5.3"
+}

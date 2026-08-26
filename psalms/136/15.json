@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Jeung ngagelengkeun Paroh jeung balad-na di laut Suf, sabab salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Jeung ngagelengkeun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "jeung balad-na"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.725255588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung Yahwe ngapuk Mesir — ngapuk jeung natambaan — jeung aranjeunna balik deui ka Yahwe, jeung anjeunna dihampura ku aranjeunna, sarta mairan aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "jeung ngapuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mesir"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ngapuk"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "jeung natambaan"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "jeung aranjeunna balik deui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "jeung dihampura"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku aranjeunna"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "sarta mairan aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:58:44.955740350Z",
+  "model": "glm-5.3"
+}

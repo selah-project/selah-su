@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 95,
+  "translation": "Opat puluh taun abdi ku bencina ngahandap angkatan ieu, jeung ngandika: ⟨⟨ieu⟩⟩ jalma nu nyimpang haté, maranéhna, jeung maranéhna teu wanoh kana jalan-jalan abdi.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ku bencina"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ngahandap angkatan ieu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jeung ngandika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "nu nyimpang"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "והם",
+      "gloss": "jeung maranéhna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wanoh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:18.889373998Z",
+  "model": "glm-5.3"
+}

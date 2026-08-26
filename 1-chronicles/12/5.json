@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "jeung Yirmeyah, jeung Yaxaziel, jeung Yoxanan, jeung Yozavad ⟨sang⟩ Gederati;",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "jeung Yirmeyah"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "jeung Yaxaziel"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "jeung Yoxanan"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "jeung Yozavad"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "Gederati"
+    }
+  ],
+  "timestamp": "2026-08-26T16:09:40.968848295Z",
+  "model": "glm-5.3"
+}

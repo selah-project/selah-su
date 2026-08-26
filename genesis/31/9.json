@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Mangka Elohim nyabut ⟨את⟩ ingon-ingon bapak aranjeun, sarta mere ka abdi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "nyabut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingon-ingon bapak aranjeun"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bapak aranjeun"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "sarta mere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:33.453719720Z",
+  "model": "glm-5.3"
+}

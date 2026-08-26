@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 82,
+  "translation": "Abdi geus ngomong: maranéhanna ⟨⟨para⟩⟩ elohim, sadayana putra-putri Elyon.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "geus ngomong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "maranéhanna"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sadayana putra-putri"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "sadayana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:49.720879173Z",
+  "model": "glm-5.3"
+}

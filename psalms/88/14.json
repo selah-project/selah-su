@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Ari abdi, ka Yahwe abdi ngaréréngeuk, jeung isuk-isuk panyabaan abdi nyamperkeun Anjeun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ari abdi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "abdi ngaréréngeuk"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "jeung isuk-isuk"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "panyabaan abdi"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "nyamperkeun Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:19.833577963Z",
+  "model": "glm-5.3"
+}

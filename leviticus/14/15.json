@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung imam nyandak tina log minyak, jeung ngocorkeunana kana dampal leungeun imam nu kénca.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "tina log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "jeung ngocorkeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dampal"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "kénca"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:28.058562431Z",
+  "model": "glm-5.3"
+}

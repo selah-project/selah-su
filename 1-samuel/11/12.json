@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung ⟨the⟩ bangsa nyarita ka Shemuel: saha ⟨the⟩ nu nyarita 'Sha-ul baris ngawasa ka luhur kami'? Antepkeun ⟨the⟩ jalma-jalma éta, bisi kami maéhan maranehna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "the bangsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "the nu nyarita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "baris ngawasa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka luhur kami"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "antepkeun"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "the jalma-jalma éta"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "bisi kami maéhan maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:29.287804465Z",
+  "model": "glm-5.3"
+}

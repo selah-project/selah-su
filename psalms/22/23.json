@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Abdi bade nyaritakeun Jenengan-Mu ka sadulur-sadulur abdi; di tengah jamaah abdi muji Anjeun.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "abdi nyaritakeun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan-Mu"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ka sadulur-sadulur abdi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "abdi muji Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:23.039214245Z",
+  "model": "glm-5.3"
+}

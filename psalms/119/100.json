@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Ti para sesepuh kuring mibanda panandes-éling leuwih, sabab titipan-titipan-Mu kuring pihara.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ti para sesepuh"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "kuring mibanda panandes-éling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "titipan-titipan-Mu"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "kuring pihara"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:28.091170812Z",
+  "model": "glm-5.3"
+}

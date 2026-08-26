@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ chestplate (hoshen) — pagawéan nu ditenun pinter, sarua jeung pagawéan efod — emas, binih biru (tekhelet), wanen kulawu (argaman), sarta beureum tinagetteng (tolaat shani), jeung linen nguntir (shesh mashzar).",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung anjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chestplate (hoshen)"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chestplate (hoshen)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nu ditenun pinter"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sarua jeung pagawéan"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "binih biru (tekhelet)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jeung wanen kulawu (argaman)"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jeung tinagetteng"
+    },
+    {
+      "surface": "שני",
+      "gloss": "beureum (shani)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeung linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nguntir (mashzar)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:02.327001122Z",
+  "model": "glm-5.3"
+}

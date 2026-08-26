@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung ⟨את⟩ Izevel baris didahar ku ⟨the⟩ asu di bagian Yizreel, jeung moal aya nu nyirikeun. Terus buditakar eta muka panto jeung ngarungsi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "baris didahar"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "asu"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "di bagian"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung moal aya"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "nu nyirikeun"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "terus muka"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "panto"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ngarungsi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:36.771508633Z",
+  "model": "glm-5.3"
+}

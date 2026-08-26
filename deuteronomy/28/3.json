@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Diberkahan anjeun di kota, jeung diberkahan anjeun di sawah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "diberkahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "jeung diberkahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di sawah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:21.149562736Z",
+  "model": "glm-5.3"
+}

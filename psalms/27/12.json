@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Ulah masrahkeun abdi kana karep nu ngahésé-ngahésé abdi, sabab nu jadi saksi paeh geus ngadeg ngalawan abdi, jeung nu ngahiu kakerasan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "masrahkeun abdi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kana karep"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "nu ngahésé-ngahésé abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "geus ngadeg"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngalawan abdi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nu jadi saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "paeh"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "jeung nu ngahiu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kakerasan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:34.401187276Z",
+  "model": "glm-5.3"
+}

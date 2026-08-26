@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung abdi-abdina ngadeg sarta maranéhna ngararancang rarancang, sarta maranéhna ngabeat ⟨את⟩ Yoas di Beit-Milo, nu turun ka Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ngararancang"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "rarancang"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ngabeat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "nu turun"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-08-26T12:54:55.597048828Z",
+  "model": "glm-5.3"
+}

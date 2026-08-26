@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Saur ka jamaah, legawa: Angkat aranjeun ti sabudeureun tempat cicingna Qorax, Datán, jeung Aviram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "saur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "legawa"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "angkat aranjeun"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ti sabudeureun"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "tempat cicingna"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorax"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datán"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-08-26T11:30:51.623204821Z",
+  "model": "glm-5.3"
+}

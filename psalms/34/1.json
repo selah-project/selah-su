@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Karya Dawid, basa mangsa manéhna ngarobah paripolahna ⟨את⟩ kalakuanana di payuneun Avimelex, sarta manéhna ngusir Dana, tuluy манéhna indit.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Karya Dawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "basa mangsa manéhna ngarobah paripolahna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalakuanana"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "kalakuanana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "sarta manéhna ngusir Dana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "tuluy manéhna indit"
+    }
+  ],
+  "timestamp": "2026-08-26T17:37:50.734108887Z",
+  "model": "glm-5.3"
+}

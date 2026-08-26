@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Diberkahan anjeun bakal ⟨jadi⟩ ti sadaya bangsa-bangsa; moal aya di antara anjeun lalaki mandul jeung awéwé mandul, ogé di sasatoan anjeun.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "diberkahan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal aya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal aya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di anjeun"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "lalaki mandul"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "awéwé mandul"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "di sasatoan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:01.720284761Z",
+  "model": "glm-5.3"
+}

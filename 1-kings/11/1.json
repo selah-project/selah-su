@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung raja Shelomoh mikacinta awéwé deungeun loba, jeung ⟨את⟩ putri Paroh, awéwé Moab, awéwé Amon, awéwé Edom, awéwé Tsidon, awéwé Het.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mikacinta"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "deungeun"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "loba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putri Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "awéwé Moab"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "awéwé Amon"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "awéwé Edom"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "awéwé Tsidon"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "awéwé Het"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:02.777179559Z",
+  "model": "glm-5.3"
+}

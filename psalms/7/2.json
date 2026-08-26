@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Yahwe, Elohim kuring, ka Anjeun kuring nunggangsa; salametkeun kuring ti sadaya nu ngudag kuring, jeung maluhaskeun kuring.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kuring nunggangsa"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salametkeun kuring"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "nu ngudag kuring"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "jeung maluhaskeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:44.646013374Z",
+  "model": "glm-5.3"
+}

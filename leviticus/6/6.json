@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Seuneu mamawa kudu ngahurun di luhur mézbéh, ulah pareum.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mamawa"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "kudu ngahurun"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbéh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "pareum"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:15.300299463Z",
+  "model": "glm-5.3"
+}

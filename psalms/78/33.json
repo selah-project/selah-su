@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jadi Anjeunna ngarandahan ku hanca ⟨poé-poé⟩ maranéhna, jeung taun-taun maranéhna ku kagétéan.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ngarandahan"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ku hanca"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "poé-poé maranéhna"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "jeung taun-taun maranéhna"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "ku kagétéan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:31.933482125Z",
+  "model": "glm-5.3"
+}

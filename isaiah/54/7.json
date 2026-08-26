@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Dina kededap leutik kuring ngantep anjeun, tapi ku welas nu agung kuring baris ngumpulkeun anjeun.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "dina kededap"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "leutik"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "kuring ngantep anjeun"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "tapi ku welas"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nu agung"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "kuring baris ngumpulkeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:43.259375763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Sabab anjeun ⟨weruh⟩ Elohim, bénténg kakuatan abdi; naha anjeun nyingkirkeun abdi? Naha abdi leumpang sarta nunggangungan pisan ku panjakona musuh?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "bénténg kakuatan abdi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "anjeun nyingkirkeun abdi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nungngungannana"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "abdi leumpang"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ku panjakona"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:30.183329833Z",
+  "model": "glm-5.3"
+}

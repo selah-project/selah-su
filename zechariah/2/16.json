@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta Yahwe baris ngawariskeun ⟨את⟩ Yéhuda bagéan-Na di luhureun taneuh sucina, sarta baris milih deui Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "sarta baris ngawariskeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yéhuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "bagéan-Na"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sucina"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "sarta baris milih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:17:49.659196466Z",
+  "model": "glm-5.3"
+}

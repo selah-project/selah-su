@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Paroh raja Mitsrayim naék sarta nalukan ⟨את⟩ Gezer, lajeng mésér ku seuneu, jeung ⟨את⟩ urang Kenaan nu cicing di kota éta ditelasanana, lajeng masihanana salaku bingah ka putrina, pamajikan Shelomoh.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "sarta nalukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "lajeng mésér"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "urang Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kenaan"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "nu cicing"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ditelasanana"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "lajeng masihanana"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "salaku bingah"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ka putrina"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:55:06.136411625Z",
+  "model": "glm-5.3"
+}

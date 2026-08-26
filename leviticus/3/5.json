@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung putra-putra Aharon bakal ngadurugna ⟨את⟩ di luhur mébér, di luhur kurban bakaran, nu di luhur kai nu aya di luhur seuneu — kurban seuneu, seungit nu ngeunteung pikeun Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "bakal ngadurugna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Aharon (objék: eunggeus kurban)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mébér"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kurban seuneu"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "seungit"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nu ngeunteung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:22.166327872Z",
+  "model": "glm-5.3"
+}

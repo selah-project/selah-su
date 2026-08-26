@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Dina poé karungeun kuring abdi nagero ka anjeun, sabab anjeun nyangsang kuring.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "karungeun kuring"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "abdi nagero ka anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "anjeun nyangsang kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:44.462450197Z",
+  "model": "glm-5.3"
+}

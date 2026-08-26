@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "ka Avraham jadi kamilikan meuli, di hareupeun putra-putra Khet, ka sakumuh nu asup kana panto kota-na.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "ka Avraham"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "jadi kamilikan meuli"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di hareupeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sakumuh"
+    },
+    {
+      "surface": "באי",
+      "gloss": "nu asup"
+    },
+    {
+      "surface": "שער",
+      "gloss": "panto"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kota-na"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:49.893530562Z",
+  "model": "glm-5.3"
+}

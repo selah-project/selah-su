@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Lamun ngalahirkeun awéwé, mangka inyana teu murni dua minggu, sarua jeung masa haidna; jeung genep puluh poé jeung genep poé deui inyana cicing di luhureun getih pamurnihan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "teu murni"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "dua minggu"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "sarua jeung masa haidna"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "genep puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "jeung genep"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé deui"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getih"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "pamurnihan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:50.428456599Z",
+  "model": "glm-5.3"
+}

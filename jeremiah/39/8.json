@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung ⟨את⟩ imah raja sarta ⟨את⟩ imah ⟨kaom⟩ urang, Kasdim ngaduruk ku seuneu; jeung ⟨את⟩ panyangga Yerushalaim maranéhna ngaruntagkeun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imah raja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imah kaom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaom"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ngaduruk"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panyangga Yerushalaim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "panyangga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ngaruntagkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:02:54.890947543Z",
+  "model": "glm-5.3"
+}

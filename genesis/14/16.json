@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sarta mulangkeun ⟨את⟩ sadaya banda-na, ogé ⟨את⟩ Lot sandasaturna sarta bandana mulangkeun, ogé ⟨את⟩ awéwawé jeung ⟨את⟩ balad-balad.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mulangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya banda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "banda"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sandasaturna"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "bandana"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "mulangkeun"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awéwawé"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "awéwawé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balad-balad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balad-balad"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:47.255454815Z",
+  "model": "glm-5.3"
+}

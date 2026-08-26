@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Raja-rajana bumi nangtung ᮍᮨᮔᮨ, sarta nu boga kawasa ngarumpul babarengan, ngalawan Yahwe jeung ngalawan Mashiax-Na.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "nangtung nangtung"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-rajana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "sarta nu boga kawasa"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "ngarumpul"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ngalawan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiax-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:55.526409662Z",
+  "model": "glm-5.3"
+}

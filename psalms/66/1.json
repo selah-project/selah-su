@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Kanggo pangatik. Shiur, mizmor. Ujungkeun sora ka Elohim, sajalamna bumi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangatik"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "shiur"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ujungkeun sora"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:09.432933835Z",
+  "model": "glm-5.3"
+}

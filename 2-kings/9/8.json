@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung sadaya imah Ahab bakal musnah, sarta Abdi bakal ngaruntagkeun ka Ahab nu saiak ka témbok, nu dikurung jeung nu dicicingkeun, di Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "jeung sadaya bakal musnah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "sarta Abdi bakal ngaruntagkeun"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ka Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "nu saiak"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ka témbok"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "nu dikurung"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "nu dicicingkeun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:27.022746771Z",
+  "model": "glm-5.3"
+}

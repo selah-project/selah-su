@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Anjeun baré tropkol dina poé, sarta nabi ogé tropkol jeung anjeun dina peuting; sarta abdi tineungkeun indung anjeun.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "anjeun baré tropkol"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "tropkol"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "dina peuting"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "sarta abdi tineungkeun"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "indung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:06.487731456Z",
+  "model": "glm-5.3"
+}

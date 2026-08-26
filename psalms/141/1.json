@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 141,
+  "translation": "Mizmor kanggo Dawid. Yahwe, abdi geus nagerong ka Anjeun, gancang ka abdi, pasea sora abdi iraha abdi nagerong ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "abdi geus nagerong ka Anjeun"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pasea"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora abdi"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "iraha abdi nagerong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:37.424804257Z",
+  "model": "glm-5.3"
+}

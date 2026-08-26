@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 114,
+  "translation": "Sagara nempo sarta ngarungsi, Yardén malik ka tukang.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "sarta ngarungsi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "malik"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ka tukang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:17.687924373Z",
+  "model": "glm-5.3"
+}

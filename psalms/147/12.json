@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Poejokeun ⟨את⟩ Yahwe, hei Yerushalaim; muji Elohim anjeun, hei Tsiyon.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Poejokeun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "hei Yerushalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "muji"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "hei Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:07.248313611Z",
+  "model": "glm-5.3"
+}

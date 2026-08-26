@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung Betsalel nyieun ⟨את⟩ ⟨the⟩ tabut tina kai akasia: dua satengah hasta panjangna, sareng satengah sareng harepan engangna, sareng satengah sareng harepan jangkungna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dua hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "engangna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "harta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jangkungna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:04.053338529Z",
+  "model": "glm-5.3"
+}

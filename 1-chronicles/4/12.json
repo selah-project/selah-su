@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Esyton nuarakeun ⟨את⟩ Beit-Rafa, jeung ⟨את⟩ Paseax, jeung ⟨את⟩ Texinah, bapana Ir-Naxas; ieu ⟨are⟩ jalma-jalma ti Rexah.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "jeung Esyton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nuarakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseax"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Texinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Texinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naxas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rexah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:05:36.900744589Z",
+  "model": "glm-5.3"
+}

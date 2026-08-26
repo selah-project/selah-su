@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Mangka nu mimpin jalma ieu milampah nyasar, sarta nu dipimpinna ditelen.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "mangka-jadi"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "nu mimpin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "nyasarkeun"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "jeung nu dipimpinna"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ditelen"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:10.357385218Z",
+  "model": "glm-5.3"
+}

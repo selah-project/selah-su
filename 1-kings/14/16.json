@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung méré ⟨את⟩ Yisrael diserah, lantaran dosa-dosana Yarobeam, nu manehna geus dosa jeung nu geus mawa Yisrael dosa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "méré ... diserah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "lantaran"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dosa-dosana"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "geus dosa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung nu"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "mawa ... dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T16:56:27.724573359Z",
+  "model": "glm-5.3"
+}

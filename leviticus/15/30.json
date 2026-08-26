@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung imam ngalakonan ⟨את⟩ ⟨the⟩ nu hiji kurban dosa, jeung ⟨את⟩ ⟨the⟩ nu hiji kurban bakaran; sarta imam mierapi manéhna di payuneun Yahwe lantaran kaluaran kakotoranana.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "jeung ngalakonan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu hiji"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu hiji"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "sarta mierapi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pihak ka manéhna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "lantaran kaluaran"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "kakotoranana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:56.104795344Z",
+  "model": "glm-5.3"
+}

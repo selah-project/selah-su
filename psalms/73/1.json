@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Mizmor pikeun Asaf: saéstu alus ka Yisrael ⟨⟩ Elohim, ka nu bogoh ati beresih.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pikeun Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "saéstu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ka Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "ka nu bogoh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:22.733822981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung ku ieu aranjeunna jadi teu beresih: saha waé nu antel kana bangké maranéhna jadi teu beresih nepi ka soré.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Jeung ku ieu"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "anjeunna jadi teu beresih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saha waé"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nu antel kana"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bangké maranéhna"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "jadi teu beresih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soré"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:24.915275484Z",
+  "model": "glm-5.3"
+}

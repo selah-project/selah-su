@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Kajahatan ngamaéhan nu jahat, jeung nu ngabenci nu sarilih bakar salahi.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "ngamaéhan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "jeung nu ngabenci"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu sarilih"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bakar salahi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:20.852485374Z",
+  "model": "glm-5.3"
+}

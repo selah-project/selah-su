@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Eureunan tina kahanaeun, jeung tinggalkeun murka; ulah anggangsumbang, sabab ngan mawa kana panyakara.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Eureunan"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "tina kahanaeun"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "jeung tinggalkeun"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "murka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "anggangsumbang"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "mawa kana panyakara"
+    }
+  ],
+  "timestamp": "2026-08-26T14:31:38.703110975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Kuring sorowot ka Anjeun, tapi Anjeun henteu ngawaler kuring; kuring nangtung, Anjeun ukur nitenan kuring.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "kuring sorowot"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ngawaler kuring"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "kuring nangtung"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "Anjeun nitenan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T15:15:40.588460184Z",
+  "model": "glm-5.3"
+}

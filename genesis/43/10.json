@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Sabab lamun urang teu ngahoyong-ngahoyong, moal maju ayeuna geus balik urang ka dieu ieu ka dua kali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "lamun teu"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "urang ngahoyong-ngahoyong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "moal maju"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "geus balik urang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali (dua kali)"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:41.990540495Z",
+  "model": "glm-5.3"
+}

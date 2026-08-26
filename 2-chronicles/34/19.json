@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Jeung jadi, nalika raja ngadéngé ⟨את⟩ kecap-kecap torat, anjeunna nyiksa ⟨את⟩ papakéanna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nalika ngadéngé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap torat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "torat"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "nyiksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papakéanna"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "papakéanna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:33:34.207808944Z",
+  "model": "glm-5.3"
+}

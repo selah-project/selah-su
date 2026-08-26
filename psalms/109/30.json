@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Abdi pitudu Yahwe kalawan tanaga ngaliwatan sungut abdi, jeung di tengah-tengah loba jalma abdi muji ⟨anjenna⟩.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "abdi pitudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kalawan tanaga"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ngaliwatan sungut abdi"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "jeung di tengah-tengah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba jalma"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "abdi muji ⟨anjenna⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:59.341735823Z",
+  "model": "glm-5.3"
+}

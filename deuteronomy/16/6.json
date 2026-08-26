@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Lianna ngan di tempat nu dipilih ku Yahwe Elohim-anjeun pikeun nyieun ngaranna cicing, di dinya anjeun ngorbankeun ⟨את⟩ péskah mangsa peterén, mangsa panonpoé surup, wayah anjeun kaluar ti Misraim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lianna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "dipilih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-anjeun"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "pikeun nyieun cicing"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "anjeun ngorbankeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "péskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "péskah"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mangsa peterén"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "mangsa ka datang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wayah"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "anjeun kaluar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Misraim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:29.851275601Z",
+  "model": "glm-5.3"
+}

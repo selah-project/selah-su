@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung bilik-bilik ⟨nu⟩ luhur dipendekkeun, sabab galéri-galéri nyandak rohang tina aranjeunna, ti nu handap jeung ti nu tengah, tina wangunan.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "jeung bilik-bilik"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "dipendekkeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "nyandak rohang"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "galéri-galéri"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ti aranjeunna"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "ti nu handap"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "jeung ti nu tengah"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "tina wangunan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:58:59.645546214Z",
+  "model": "glm-5.3"
+}

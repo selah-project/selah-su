@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Jeung kakuatan cingcingan anjeun aranjeunna bakal caritakeun, jeung kagungan anjeun abdi nyaritakeun.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "jeung kakuatan"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "cingcingan anjeun"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "aranjeunna bakal caritakeun"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "jeung kagungan anjeun"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "abdi nyaritakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:18.035798225Z",
+  "model": "glm-5.3"
+}

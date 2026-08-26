@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung aranjeun bakal ngahakan daging putra-putra aranjeun, sarta daging putri-putri aranjeun aranjeun ngahakan.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "jeung aranjeun bakal ngahakan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "putra-putra aranjeun"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "sarta daging"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "putri-putri aranjeun"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "aranjeun ngahakan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:43.898826625Z",
+  "model": "glm-5.3"
+}

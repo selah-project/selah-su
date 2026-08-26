@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 120,
+  "translation": "Ah nanaah ka kuring, sabab kuring ngumum di Meshek, kuring cicing jeung khemah-khemahna Kedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "ah nanaah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "kuring ngumum"
+    },
+    {
+      "surface": "משך",
+      "gloss": "di Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "kuring cicing"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "khemah-khemahna"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:34.401513154Z",
+  "model": "glm-5.3"
+}

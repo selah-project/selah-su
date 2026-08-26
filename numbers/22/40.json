@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lajeng Balak ngakorbanken sapi jeung domba, sarta ngirim ka Bilam jeung ka pangawasa-pangawasa nu ⟨את⟩ pisarenganana.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Lajeng-ngakorbanken"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "jeung-domba"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sarta-ngirim"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ka-Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "jeung-ka-pangawasa-pangawasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pisarenganana (pangawasa-pangawasa nu aya sareng anjeunna)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:33:20.470295385Z",
+  "model": "glm-5.3"
+}

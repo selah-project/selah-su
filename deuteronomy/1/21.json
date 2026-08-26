@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tempo, Yahwe Elohim anjeun geus nempatkeun ⟨את⟩ tanah saméméh anjeun; laek, arcop, sahingga milik, saperti anu diparéntahkeun ku Yahwe, Elohim karuhun anjeun, ka anjeun; ulah sieun jeung ulah kaleungitan haté.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geus nempatkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "saméméh anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "laek"
+    },
+    {
+      "surface": "רש",
+      "gloss": "arcop sahingga milik"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "karuhun anjeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kaleungitan haté"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:18.801364456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Moal ngarugik jeung moal ngancurkeun dina sakabéh gunung kasucian-Kami; sabab ⟨ieu⟩ pinuh bumi ku pangaweruh ⟨ngeunaan⟩ Yahwe, kawas cai nu mungkus laut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ngarugik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sakabéh"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kasucian-Kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kawas cai"
+    },
+    {
+      "surface": "לים",
+      "gloss": "ka laut"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "nu mungkus"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:46.205874097Z",
+  "model": "glm-5.3"
+}

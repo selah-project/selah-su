@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sabab piwales tujuh kali dibikeun keur Kayin, tapi keur Lemek tujuh puluh tujuh kali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "tujuh kali"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "piwales dibikeun"
+    },
+    {
+      "surface": "קין",
+      "gloss": "keur Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "tapi keur Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "jeung tujuh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:12.823308537Z",
+  "model": "glm-5.3"
+}

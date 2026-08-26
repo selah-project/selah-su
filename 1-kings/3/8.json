@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Tur abdi anjeun aya di tengah-tengah jalma anjeun nu Anjeun milih — jalma loba, nu teu bisa dibéré angka jeung teu bisa dicitat ku sabab lobana.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "tur abdi anjeun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jalma anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "Anjeun milih"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "loba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "dibéré angka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "dicitat"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ku sabab lobana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:31.772023639Z",
+  "model": "glm-5.3"
+}

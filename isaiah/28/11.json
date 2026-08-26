@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Sabab ku bibir nu nyindir jeung ku lisan lian, manehna bakal nyarita ka bangsa ieu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ku bibir nu nyindir"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "jeung ku lisan"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "lian"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakal nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:08.757230492Z",
+  "model": "glm-5.3"
+}

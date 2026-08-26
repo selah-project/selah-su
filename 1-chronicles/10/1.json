@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Peleshet perang ngalawan Yisrael, sarta ⟨iyo⟩ lalaki Yisrael ngarungsi ti payun Peleshet, sarta ragrag palastra di gunung Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Jeung Peleshet"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ngalawan Yisrael"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "sarta ⟨iyo⟩ ngarungsi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "sarta ragrag"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "palastra"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:47.027995052Z",
+  "model": "glm-5.3"
+}

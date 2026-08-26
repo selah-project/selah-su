@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 126,
+  "translation": "Nu nimuan cimatu, ku sora tarik hayu baris ngarik beunang.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "nu timuan"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "cimatu"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ku sora tarik hayu"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "baris ngarik beunang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:54.348425289Z",
+  "model": "glm-5.3"
+}

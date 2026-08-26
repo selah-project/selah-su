@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Létah kuring ngajawab kalimah-Mu, sabab sadaya parentah Anjeun ⟨é⟩ kabeneran.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "létah kuring"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kalimah-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentah Anjeun"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:34.050508912Z",
+  "model": "glm-5.3"
+}

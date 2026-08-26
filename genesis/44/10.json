@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung manéhna nyarita: Ogé ayeuna, saluyu jeung kecap-kecap maraneh kitu ⟨eta⟩; nu kapanggih ⟨את⟩ jeung anjeunna jadi milik kuring abdi, jeung aranjeun jadi teu boga salah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung manéhna nyarita"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "saluyu jeung kecap-kecap maraneh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "kapanggih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung anjeunna",
+      "marks": "nu kapanggih eta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "milik kuring"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jeung aranjeun"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "teu boga salah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:56.064292629Z",
+  "model": "glm-5.3"
+}

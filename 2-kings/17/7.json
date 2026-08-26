@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Sarta kajadian sabab anak-anak Yisrael dosa ka Yahwe, Elohim maranehna, anu naékkeun ⟨את⟩ aranjeunna ti taneuh Mitsrayim, ti sahandapeun leungean Paroh raja Mitsrayim, sarta maranehna sieun ka elohim séjén.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sarta-kajadian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka-Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-maranehna"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "anu-naékkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti-taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ti-sahandapeun"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungean"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sarta-sieun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "séjén"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:55.509991026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Minangka gaganti kanyaah-kuring, maranéhna ngadu kuring; tapi kuring — ngan bedoa.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "minangka gaganti"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kanyaah-kuring"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "maranéhna ngadu kuring"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tapi kuring"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ngan bedoa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:27.157896206Z",
+  "model": "glm-5.3"
+}

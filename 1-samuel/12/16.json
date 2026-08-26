@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ogée ayeuna pisa, calik ngadeg tur nempo ⟨את⟩ kajadian ageung ieu, nu Yahwe ngalakonan di payuneun panon aranjeun.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna pisa"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "calik ngadeg"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "tur nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kajadian ageung ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kajadian"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ageung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngalakonan"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "di payuneun panon aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:50:52.597831918Z",
+  "model": "glm-5.3"
+}

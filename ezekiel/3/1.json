@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sarta Anjeunna nyarita ka abdi: heirran manusa, naon nu kapanggih dahar, dahar ⟨את⟩ gulungan ieu, sarta indit, nyarita ka beth Israél.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "heirran"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naon nu kapanggih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kapanggih"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan ieu"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gulungan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "sarta indit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beth"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T13:44:25.108519915Z",
+  "model": "glm-5.3"
+}

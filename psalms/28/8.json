@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Yahwe ⟨is⟩ kakuatan pikeun aranjeunna, sareng benténg kajayaan pikeun Mashiax-Na — Anjeunna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pikeun aranjeunna"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "sareng benténg"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kajayaan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiax-Na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:23.169882622Z",
+  "model": "glm-5.3"
+}

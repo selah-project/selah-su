@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung urang ngaheremkeun ⟨את⟩ aranjeunna, saperti anu dipigawé urang ka Sihon raja Cheshbon; ngaheremkeun unggal kota — lalakina, awéwéna, jeung barudak leutikna.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "jeung urang ngaheremkeun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "dipigawé urang"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "ka Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ngaheremkeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "lalakina"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "awéwéna"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "jeung barudak leutikna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:43.726093369Z",
+  "model": "glm-5.3"
+}

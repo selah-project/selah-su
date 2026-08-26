@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ⟨את⟩ domba jantan éta diwengkel jadi potongan-potonganna, laju Moshe ngahaseupan ⟨את⟩ huluna jeung ⟨את⟩ potongan-potonganna jeung ⟨את⟩ gajihna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "domba jantan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "diwengkel"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "jadi potongan-potonganna"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ngahaseupan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huluna"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "huluna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "potongan-potonganna"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "potongan-potonganna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "gajihna"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "gajihna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:24.118997956Z",
+  "model": "glm-5.3"
+}

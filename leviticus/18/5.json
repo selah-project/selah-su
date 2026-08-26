@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung aranjeun kudu ngajaga ⟨את⟩ katangtuan-Ku jeung ⟨את⟩ putusan-Ku, nu lamun saur jalma ngalaksanakeun ⟨את⟩ éta, manehna hiru ku aranjeunna; aing Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jeung aranjeun kudu ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katangtuan-Ku"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katangtuan-Ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putusan-Ku"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "saur jalma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "saur jalma"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "jeung hiru"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku aranjeunna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:37.312755255Z",
+  "model": "glm-5.3"
+}

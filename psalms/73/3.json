@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Sabab kapesek abdi ka nu aryuk, katingali kanyenyeujeuran nu jahat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "kapesek abdi"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "ka nu aryuk"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kanyenyeujeuran"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "katingali"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:22.734268299Z",
+  "model": "glm-5.3"
+}

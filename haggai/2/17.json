@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Kuring geus ngabeulah anjeun ku angin garing sarta ku jamur konéng sarta ku és hujan, ⟨את⟩ sagala pagawéan leungeun anjeun, ari anjeun mah euweuh nu datang ka kuring — pngawawaran Yahwe.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "kuring geus ngabeulah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun (tujuan pamukul)"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "ku angin garing"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "sarta ku jamur konéng"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "sarta ku és hujan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala pagawéan leungeun anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ari… mah euweuh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun (nu teu datang ka kuring)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pngawawaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:17:44.890905644Z",
+  "model": "glm-5.3"
+}

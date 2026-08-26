@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Kalayan angin wétan Anjeun ngancurkeun kapal-kapal Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "kalayan angin"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kapal-kapal"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:26.736225984Z",
+  "model": "glm-5.3"
+}

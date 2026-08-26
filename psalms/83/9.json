@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Assur ogé ngahiji jeung maranéhna; maranéhna jadi leungeun pikeun anak-anak Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "ngahiji"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "jeung maranéhna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikeun anak-anak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:33.667134540Z",
+  "model": "glm-5.3"
+}

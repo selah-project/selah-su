@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung ⟨את⟩ putra-putrana anjeun mawa-deukeut, jeung anjeun mengkuan aranjeunna baju-baju jeroan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "anjeun mawa-deukeut"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "jeung anjeun mengkuan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "baju-baju jeroan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:48.718967539Z",
+  "model": "glm-5.3"
+}

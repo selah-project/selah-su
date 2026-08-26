@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "anjeun bakal ngadodongokeunana ka anak-anak anjeun, jeung anjeun bakal ngomongkeunana, harita anjeun diuk di imah anjeun, harita anjeun jalan dina jalan, harita anjeun saré, jeung harita anjeun bangun.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "anjeun bakal ngadodongokeunana"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ka anak-anak anjeun"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "jeung anjeun bakal ngomongkeunana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngomongkeunana"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "harita anjeun diuk"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di imah anjeun"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "jeung harita anjeun jalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "jeung harita anjeun saré"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "jeung harita anjeun bangun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:47.141686638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Ulah ngarampas nu miskin, sabab ⟨euweuh⟩ ⟨pikeun⟩ manéhna, jeung ulah ngija nu tarungkil di gerbang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ngarampas"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "ngija"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu tarungkil"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gerbang"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:08.778424118Z",
+  "model": "glm-5.3"
+}

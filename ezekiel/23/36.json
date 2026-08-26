@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 23:36",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Yahwe ngomong ka aku: Anu manusa, naha anjeun bakal ngahukum ⟨את⟩ Aholah jeung ⟨את⟩ Aholibah? Mangka caritakeun ka aranjeunna ⟨את⟩ kajijengan-kajijenganana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka aku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "naha anjeun bakal ngahukum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aholah"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Aholah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aholibah"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Aholibah"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "mangka caritakeun"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kajijengan-kajijenganana"
+    },
+    {
+      "surface": "תועבותיהן",
+      "gloss": "kajijengan-kajijenganana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:36:22.424367372Z",
+  "model": "glm-5.3"
+}

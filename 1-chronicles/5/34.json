@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta Axituv nimanggulkeun ⟨את⟩ Tsadok, sarta Tsadok nimanggulkeun ⟨את⟩ Aximaats.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "sarta Axituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimanggulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "sarta Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimanggulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aximaats"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Aximaats"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:16.999420955Z",
+  "model": "glm-5.3"
+}

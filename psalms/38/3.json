@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Sabab panah-panah-Mu geus ngancik kana abdi, jeung leungeun-Mu geus neundeun beuratna kana abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "panah-panah-Mu"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "geus ngancik"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kana abdi"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "jeung geus neundeun beuratna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kana abdi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:15.894753839Z",
+  "model": "glm-5.3"
+}

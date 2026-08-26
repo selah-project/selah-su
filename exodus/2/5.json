@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Turun putri Paroh pikeun mandi di walungan, jeung papawawuna leumpang sapanjing leungeun walungan; tuluy manéhna nempo ⟨את⟩ jiuk di tengah papirus, lajeng manéhna ngutusan ⟨את⟩ ampunanana sarta manéhna nyandak ⟨את⟩ éta.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "pikeun mandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "jeung papawawuna"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sapanjing"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "manéhna nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiuk"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "jiuk"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "papirus"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "manéhna ngutusan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ampunanana"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "ampunanana"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "manéhna nyandak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:07.635379525Z",
+  "model": "glm-5.3"
+}

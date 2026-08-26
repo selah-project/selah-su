@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teras Yéhu saré jeung bapana-bapana, sarta aranjeunna ngurebkeun ⟨את⟩ manéhna di Shomron; sarta Yéhoaxaz anakna jadi raja ngagantikeunana.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "teras saré"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yéhu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapana-bapana"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "sarta ngurebkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "di Shomron"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "sarta jadi raja"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yéhoaxaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ngagantikeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:37.693604412Z",
+  "model": "glm-5.3"
+}

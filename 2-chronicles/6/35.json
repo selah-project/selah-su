@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "mangka Anjeun ngadangu ti langit-langit ⟨את⟩ solat aranjeunna jeung ⟨את⟩ pangaptian aranjeunna, tur ngalaksanakeun hak aranjeunna;",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mangka Anjeun ngadangu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "solat aranjeunna"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "solat aranjeunna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "tur ⟨את⟩",
+      "marks": "pangaptian aranjeunna"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "pangaptian aranjeunna"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "tur ngalaksanakeun"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hak aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:21:14.575399281Z",
+  "model": "glm-5.3"
+}

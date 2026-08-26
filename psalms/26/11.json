@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Tapi abdi, dina benangning haté abdi leumpang; bébaskeun abdi, jeung kanyaahan ka abdi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi abdi"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "dina benangning haté abdi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "bébaskeun abdi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "jeung kanyaahan ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:15.892995492Z",
+  "model": "glm-5.3"
+}

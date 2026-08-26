@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 121,
+  "translation": "Yahwe bakal nungkulan kaluarna anjeun jeung asupna anjeun, ti ayeuna nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bakal nungkulan"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kaluarna anjeun"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "jeung asupna anjeun"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ti ayeuna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:27.874717757Z",
+  "model": "glm-5.3"
+}

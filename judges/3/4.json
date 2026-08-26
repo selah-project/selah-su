@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung maranehna jadi pikeun nguji ku maranehna ⟨את⟩ Yisrael, sangkan kanyahoan naha maranehna ngadangukeun ⟨את⟩ parentah-parentah Yahwe nu dititahkeun ka ⟨את⟩ karuhun maranehna ku leungeun Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "pikeun nguji"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku maranehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sangkan kanyahoan"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "naha ngadangukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-parentah Yahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah-parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "dititahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karuhun maranehna"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "karuhun maranehna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku leungeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:17.679059600Z",
+  "model": "glm-5.3"
+}

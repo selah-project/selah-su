@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Tapi dina taun ka-tujuh kudu jadi shabbat, eureun-pon buhun, pikeun tanah — shabbat pikeun Yahwe; sawah anjeun ulah anjeun ngaseuk, sarta kebon anggur anjeun ulah anjeun mAnggur.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "tapi dina taun"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ka-tujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "eureun-pon buhun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kudu jadi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pikeun tanah"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "sawah anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "anjeun ngaseuk"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "sarta kebon anggur anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "anjeun mAnggur"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:17.666461719Z",
+  "model": "glm-5.3"
+}

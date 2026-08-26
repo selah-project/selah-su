@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Momenkeun, jiwa kuring, ⟨את⟩ Yahwe! Yahwe, Elohim kuring, Anjeun kacida gedéna; kamulyaan jeung kamegahan Anjeun sandang.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Momenkeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "Anjeun kacida gedéna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kacida"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jeung kamegahan"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "Anjeun sandang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:41.780129810Z",
+  "model": "glm-5.3"
+}

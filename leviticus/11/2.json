@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Saur ka budak-budak Israél, keur ngomongkeun: ieu sato hirup nu aranjeun dahar, tina sagala ingon-ingon nu aya dina bumi.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "saur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "keur ngomongkeun"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sato hirup"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "aranjeun dahar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tina sagala"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "aya dina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:25.719563168Z",
+  "model": "glm-5.3"
+}

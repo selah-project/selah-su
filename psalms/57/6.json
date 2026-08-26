@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Mulyakeun diri-Mu, hai Elohim, luhureun ⟨langit-langit⟩; luhureun sakabéh ⟨bumi⟩ kamulyaan-Mu.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Mulyakeun diri-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamulyaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:02.978997389Z",
+  "model": "glm-5.3"
+}

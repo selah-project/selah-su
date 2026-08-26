@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Awan jeung kaayaan poék ngurilingan ⟨Manéhna⟩; kabeneran jeung parentah ⟨mangrupa⟩ dasar kakursian-Na.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "jeung kaayaan poék"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ngurilingan ⟨Manéhna⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jeung parentah"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "⟨mangrupa⟩ dasar"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kakursian-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:48.211175808Z",
+  "model": "glm-5.3"
+}

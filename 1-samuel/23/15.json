@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Sarta Daud nempo yen Shaul kaluar pikeun néangan ⟨את⟩ nyawa-nyawana, sarta Daud di padang euweuh jalma Zif, di Horesha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pikeun néangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa-nyawana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawa-nyawana"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "sarta Daud"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang euweuh jalma"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "di Horesha"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:49.455186745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Sabab Anjeun geus nyalametkeun kami ti mungsuh-mungsuh kami, jeung nu mikeun padah ka nu ngahawi kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "Anjeun geus nyalametkeun kami"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ti mungsuh-mungsuh kami"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "jeung nu ngahawi kami"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "Anjeun geus mikeun padah"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:32.550252545Z",
+  "model": "glm-5.3"
+}

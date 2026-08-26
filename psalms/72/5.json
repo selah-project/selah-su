@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Biar aranjeunna sieun ka Anjeun sasarengan jeung panonpoé, jeung sateuacan bulan, katurunan turun-tumurun.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "sieun ka Anjeun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sasarengan jeung"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "jeung sateuacan"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "turun-tumurun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:47.361905680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung manéhna nempatkeun dina baham kuring kawih anyar, puji-pujian kangge Elohim urang; loba ⟨jelema⟩ bakal nempo sarta sieun, sarta percaya ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "jeung manéhana nempatkeun"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dina baham kuring"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kawih"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kangge Elohim urang"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "loba bakal nempo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba jelema"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sarta sieun"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "sarta percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:46.122487715Z",
+  "model": "glm-5.3"
+}

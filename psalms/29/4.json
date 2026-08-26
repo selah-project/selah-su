@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sora Yahwe ⟨mah⟩ boga kakuatan; sora Yahwe ⟨mah⟩ boga kamulyan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "boga kakuatan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "boga kamulyan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:09.390112288Z",
+  "model": "glm-5.3"
+}

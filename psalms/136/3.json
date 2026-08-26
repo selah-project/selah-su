@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Pujian ka Adonay ⟨para⟩ pangéran, sabab salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pujian"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ka Adonay"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "para pangéran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.148474677Z",
+  "model": "glm-5.3"
+}

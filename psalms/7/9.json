@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Yahwe ngahukum ⟨את⟩ bangsa-bangsa; hukum abdi, wahai Yahwe, luyu jeung kabeneran abdi jeung jeung kajujuran abdi dina diri abdi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ngahukum"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "hukum-abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "luyu-jeung-kabeneran-abdi"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "jeung-jeung-kajujuran-abdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dina-diri-abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:59.584033408Z",
+  "model": "glm-5.3"
+}

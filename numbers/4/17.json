@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Yahwe ngomong ka Moshe jeung ka Aharon, sing ngomong:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sing ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:45.730405517Z",
+  "model": "glm-5.3"
+}

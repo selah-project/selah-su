@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng manehna mawa ⟨את⟩ sandungan ka panto tenda patepung, di payuneun Yahwe, sarta neundeun leungeunana dina sirah sandungan, teras nyembelih ⟨את⟩ sandungan di payuneun Yahwe.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandungan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sandungan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "neundeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sandungan"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandungan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sandungan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:34.100375578Z",
+  "model": "glm-5.3"
+}

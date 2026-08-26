@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Sabab lempeng ⟨ téh ⟩ kecap Yahwe, jeung sakur gawé-Na ⟨dilakonan⟩ dina satia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lempeng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakur"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "gawé-Na"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dina satia"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:53.836688753Z",
+  "model": "glm-5.3"
+}

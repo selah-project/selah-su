@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ka Makir kula mapakeun ⟨את⟩ Gilad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "jeung ka Makir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kula mapakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:38.014016581Z",
+  "model": "glm-5.3"
+}

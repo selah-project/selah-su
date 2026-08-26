@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lajeng Avraham ngajrrdjkeun ⟨את⟩ leungeunana, sarta nyandak ⟨את⟩ bedog pikeun mbeleah ⟨את⟩ putrana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngajrrdjkeun"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bedog"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "bedog"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "pikeun mbeleah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:50.223784525Z",
+  "model": "glm-5.3"
+}

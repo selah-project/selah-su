@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung manéhna nolak kemah Yosef, sareng suku Efrayim teu dipilih.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "nolak"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "sareng suku"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipilih"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:33.359429153Z",
+  "model": "glm-5.3"
+}

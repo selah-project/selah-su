@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Lir bapak mikanyaah ka anak-anakna, Yahwe mikanyaah ka nu mikacinta ka-Na.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "lir mikanyaah"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mikanyaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "nu mikacinta ka-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:25.818485874Z",
+  "model": "glm-5.3"
+}

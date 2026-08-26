@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Efrayim ngurilingan kuring ku kahayalan, jeung imah Israél ku tipu-daya; tapi Yéhuda tacan eureun nyambar-nyambar ka El, ka Nu-Nu Ari Suci anu satia.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "ngurilingan kuring"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "ku kahayalan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "jeung ku tipu-daya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "tapi Yéhuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tacan eureun"
+    },
+    {
+      "surface": "רד",
+      "gloss": "nyambar-nyambar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "Nu-Nu Ari Suci"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "anu satia"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:21.057345579Z",
+  "model": "glm-5.3"
+}

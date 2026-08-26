@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 12:22",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Teras jadi kecap ⟨the⟩ Elohim ka Shemayah, jalma Elohim, nyarahokeun:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras jadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemayah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarahokeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:21.085850424Z",
+  "model": "glm-5.3"
+}

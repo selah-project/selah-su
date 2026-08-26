@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Jeung kuring baris mulangkeun ⟨את⟩ Israel ka padanganna, jeung baris ngararamu di Karmel jeung di Basyan, jeung di gunung Efrayim jeung di Giléad jiwana baris wareg.",
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "baris mulangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "padanganna"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "baris ngararamu"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "jeung Basyan"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "jeung di gunung"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "jeung Giléad"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "baris wareg"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:42:04.134919473Z",
+  "model": "glm-5.3"
+}

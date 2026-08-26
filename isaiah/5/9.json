@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Dina ceuli kuring, Yahwe Tzevaot: ⟨saeutik-deui⟩ loba imah jadi tuguh, nu ageung jeung nu hadé, tanpa pangeusi.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "dina ceuli kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨saeutik-deui⟩ (sumpah: upama lain kitu)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "imah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "jadi tuguh"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nu ageung"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "jeung nu hadé"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "pangeusi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:29.738619434Z",
+  "model": "glm-5.3"
+}

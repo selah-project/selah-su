@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Anu kabelas Elyashib, anu kadua-belas Yaqim,",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "Elyashib"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "sabelas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-belas)"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "Yaqim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-belas"
+    }
+  ],
+  "timestamp": "2026-08-26T16:15:01.527296983Z",
+  "model": "glm-5.3"
+}

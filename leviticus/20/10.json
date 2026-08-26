@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung jalma nu boga zina jeung ⟨את⟩ pamajikan jalma lian, nu boga zina jeung ⟨את⟩ pamajikan tatanggana, paéh dipaéhan: nu zina jeung nu zina awéwé.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jeung jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "boga zina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikan jalma"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "boga zina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikan tatanggana"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "tatanggana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dipaéhan"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "nu zina"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "jeung nu zina awéwé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:24.365958734Z",
+  "model": "glm-5.3"
+}

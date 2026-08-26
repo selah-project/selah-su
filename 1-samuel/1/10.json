@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ari manehna pait haté, sarta ngadu'a ka Yahwe, sarta ceurik bari ceurik kacida.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ari manehna"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "pait"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "haté"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "ngadu'a"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ceurik kacida"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "bari ceurik"
+    }
+  ],
+  "timestamp": "2026-08-26T12:12:26.226016942Z",
+  "model": "glm-5.3"
+}

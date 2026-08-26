@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 58,
+  "translation": "Kanggo pangatik; Ulah Musnahkeun; mazmur Kanggo Dawid; miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangatik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Musnahkeun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Kanggo Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:16.300697713Z",
+  "model": "glm-5.3"
+}

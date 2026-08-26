@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sabab ngurung kuring anjing-anjing, kumpulan nu nyiein jahat geus ngurungan kuring; saperti singa — leungeun kuring jeung suku kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ngurung kuring"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "anjing-anjing"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nu nyiein jahat"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "geus ngurungan kuring"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "saperti singa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun kuring"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "jeung suku kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:55.216702887Z",
+  "model": "glm-5.3"
+}

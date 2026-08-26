@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Dina peuting éta kaliwat nganjanjur tunduhna raja, sarta ⟨anjeunna⟩ maréntahkeun mawa ⟨את⟩ buku pangéling-éngeling, catetan poé-poé, sarta dibacakeun di payuneun raja.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "dina peuting"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "nganjanjur"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tunduhna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta maréntahkeun"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buku pangéling-éngeling"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "pangéling-éngeling"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "catetan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sarta ⟨aranjeunna⟩"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "dibacakeun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T15:38:40.974451595Z",
+  "model": "glm-5.3"
+}

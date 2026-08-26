@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung raja Israil kaluar, sarta ngabeledug ⟨את⟩ ⟨the⟩ kuda jeung ⟨את⟩ ⟨the⟩ kareta, sarta mawa parengpat ka Aram — parengpat nu badag.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ngabeledug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuda"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kareta"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ngabeledug"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "ka Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "parengpat"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "badag"
+    }
+  ],
+  "timestamp": "2026-08-26T16:55:27.666923234Z",
+  "model": "glm-5.3"
+}

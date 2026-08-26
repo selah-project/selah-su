@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Ulah ngangkat ka luhur tanduk anjeun; ⟨ulah⟩ ngomong maké beuheung nyengkeléd.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "tanduk anjeun"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "maké beuheung"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "nyengkeléd"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:52.109025047Z",
+  "model": "glm-5.3"
+}

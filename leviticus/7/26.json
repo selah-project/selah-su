@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung getih naon waé ulah kahariwang di dahar, dina sadaya tempat cicing ararinyana, boh ti manuk boh ti sasatoan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung getih naon waé"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sadaya"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tempat cicing ararinyana"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ti manuk"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "jeung ti sasatoan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:45.472348662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sarta kuring nyandak ⟨את⟩ Yaazanyah putra Yirmyahu putra Khabatsanyah, jeung ⟨את⟩ sadaya sadulurna, jeung ⟨את⟩ sakabéh putra-putrana, jeung ⟨את⟩ sakabéh imah urang Rekhabi.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Sarta kuring nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Khabatsanyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadaya sadulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadaya sadulurna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh putra-putrana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh imah urang Rekhabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "urang Rekhabi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:35:58.067984990Z",
+  "model": "glm-5.3"
+}

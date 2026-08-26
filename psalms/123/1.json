@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 123,
+  "translation": "Kidung tarajé. Ka anjeun abdi ngangkat ⟨את⟩ panon abdi, anu nyicingan di langit-langit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Ka anjeun"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "abdi ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panon abdi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon abdi"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "anu nyicingan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit-langit"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:08.618480485Z",
+  "model": "glm-5.3"
+}

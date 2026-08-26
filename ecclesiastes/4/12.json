@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung lamun nu hiji sanggug ngéléhkeun, ⟨dua⟩ urang bakal nangtung nyanghareupanana; sarta tali nu tilu beulahan henteu gancang putus.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "sanggug ngéléhkeun"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "⟨dua⟩ urang"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bakal nangtung"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "nyanghareupanana"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "sarta tali"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "nu tilu beulahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "putus"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:29.253094329Z",
+  "model": "glm-5.3"
+}

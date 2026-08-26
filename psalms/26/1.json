@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Ku Davud. Béréskeun aku, wahai Yahwe, sabab aku jalan dina kabersihan diri kuring, sarta ka Yahwe aku percaya, moal aku gésér.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ku Davud"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Béréskeun aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "dina kabersihan diri kuring"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "sarta ka Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "aku gésér"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:06.689551070Z",
+  "model": "glm-5.3"
+}

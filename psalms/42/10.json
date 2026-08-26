@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Kuring nyarita ka El, batu kakuatan kuring: pikeun naon Anjeun malireung kuring? Pikeun naon kuring lalampahan duhung ku panekenan musuh?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "kuring nyarita"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ka El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu kakuatan kuring"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pikeun naon"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "Anjeun malireung kuring"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pikeun naon"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "duhung"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuring lalampahan"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ku panekenan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:29.640973514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung saung bakal jadi pikeun kalindunan ku beurang tina halodo, jeung pikeun tempat nyalametkeun, jeung pikeun tempat nyumput tina angin puyuh jeung tina hujan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "jeung saung"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "pikeun kalindunan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ku beurang"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "tina halodo"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "jeung pikeun tempat nyalametkeun"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "jeung pikeun tempat nyumput"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "tina angin puyuh"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "jeung tina hujan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:06.727558052Z",
+  "model": "glm-5.3"
+}

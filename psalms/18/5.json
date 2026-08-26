@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Tali-tali paeh nguriling kuring, jeung walungan-walungan Belial nyieun kuring sieun.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "nguriling kuring"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paeh"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "jeung walungan-walungan"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "nyieun kuring sieun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:24.393102202Z",
+  "model": "glm-5.3"
+}

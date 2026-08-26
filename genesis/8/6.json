@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Teras kajadian dina tungtung opat puluh poé, Noach muka ⟨את⟩ jandela bahtera nu dijieun ku anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras kajadian"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "dina tungtung"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jandela"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "jandela"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dijieun ku anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:16.728168093Z",
+  "model": "glm-5.3"
+}

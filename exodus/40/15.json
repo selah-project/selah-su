@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeun ngalisihan ⟨את⟩ aranjeunna saperti anjeun ngalisihan ⟨את⟩ ramana, jeung aranjeunna mimitadi ka Kami, jeung jadi pikeun aranjeunna lisan-Na pikeun imamian salawasna turun-temurun ka aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "jeung anjeun ngalisihan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "anjeun ngalisihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramana"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "jeung aranjeunna mimitadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Kami"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "jeung jadi"
+    },
+    {
+      "surface": "להית",
+      "gloss": "pikeun jadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pikeun aranjeunna"
+    },
+    {
+      "surface": "مשחתם",
+      "gloss": "lisan-Na"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "pikeun imamian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "turun-temurun ka aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:48.719138393Z",
+  "model": "glm-5.3"
+}

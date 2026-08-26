@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Lalaki nu Adonay ⟨deui tanah⟩ éta nyarita kana sarua ka urang, sarta anjeunna nyieun urang ⟨את⟩ salaku mata-mata ⟨את⟩ ⟨tanah⟩ éta.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki nu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ urang"
+    },
+    {
+      "surface": "קשOTOT",
+      "gloss": "kana sarua"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:41.891836417Z",
+  "model": "glm-5.3"
+}

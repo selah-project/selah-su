@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Ieu panglipur abdi dina karasaan abdi: sabab omong-Mu mere hirup deui ka abdi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "panglipur abdi"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "dina karasaan abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "omong-Mu"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "mere hirup deui ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:09.496337805Z",
+  "model": "glm-5.3"
+}

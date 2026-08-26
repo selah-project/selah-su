@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Teras Yahwe nyarita ka manéhna: Wilujungan, balik deui léléngkanana ka padang geter Damésk, sarta datang, ulah anjeun ngaminyakan ⟨את}} Xzavel jadi raja di luhur Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wilujungan"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "léléngkanana"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ka padang geter"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damésk"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "sarta datang"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "anjeun ngaminyakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xzavel"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Xzavel"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-26T12:46:44.488692203Z",
+  "model": "glm-5.3"
+}

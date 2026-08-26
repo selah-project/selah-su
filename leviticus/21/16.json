@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sarta Yahwe ngobrol ka Moshe, sangkan nyarita",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Sarta ngobrol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:59.309125675Z",
+  "model": "glm-5.3"
+}

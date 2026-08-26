@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "mun kuring méré saré ka panon kuring, ka kelopak panon kuring ngeuneuy —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "saré"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ka panon kuring"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ka kelopak panon kuring"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ngeuneuy"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:28.697787374Z",
+  "model": "glm-5.3"
+}

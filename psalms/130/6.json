@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 130,
+  "translation": "Nefesh kuring ⟨ka⟩ Adonay, leuwih ti nu ngajaga maca fajar — nu ngajaga maca fajar.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨ka⟩ Adonay"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "ti nu ngajaga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "maca fajar"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "nu ngajaga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "maca fajar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:25.246443400Z",
+  "model": "glm-5.3"
+}

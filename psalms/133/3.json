@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 133,
+  "translation": "Kawas ambeu Hermon nu turun ka pagunungan Tsion, sabab dinya Yahwe maréntahkeun ⟨את⟩ berkah — hirup nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "kawas ambeu"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nu turun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "pagunungan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.222920939Z",
+  "model": "glm-5.3"
+}

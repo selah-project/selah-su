@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Ngagero, ngagolak cai-caina, gunung-gunung geger ku kamegahna. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Ngagero"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ngagolak"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "cai-caina"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "geger"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ku kamegahna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:19.013785311Z",
+  "model": "glm-5.3"
+}

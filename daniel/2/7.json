@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 2:7",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Maranehna ngajawab pikeun kadua kalina sarta ngomong: Sang Raja, hayu mimpi éta diomongkeun ka abdi-abdina, sarta tafsiranna urang tandokeun.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "תנינות",
+      "gloss": "pikeun kadua kalina"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Sang Raja"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "mimpi éta"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "לעבדוהי",
+      "gloss": "ka abdi-abdina"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "sarta tafsiranna"
+    },
+    {
+      "surface": "נהחוה",
+      "gloss": "urang tandokeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:22:14.426551709Z",
+  "model": "glm-5.3"
+}

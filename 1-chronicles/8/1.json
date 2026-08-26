@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Binyamin nurunkeun ⟨את⟩ Bela anak kahijina, Ashbel nu kadua, jeung Achrach nu katilu.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Jeung Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak kahijina"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nu kadua"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "jeung Achrach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nu katilu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:07:49.699575446Z",
+  "model": "glm-5.3"
+}

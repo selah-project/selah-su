@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Lajeng Dawid nyuwun ka ⟨את⟩ Elohim dina hal budak, jeung Dawid ayan puasa, asup, nénggal wengi, sarta rebah ka taneuh.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Lajeng nyuwun ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "dina hal"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "budak"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "jeung ayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "puasa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "nénggal wengi"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "sarta rebah"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:24.236017414Z",
+  "model": "glm-5.3"
+}

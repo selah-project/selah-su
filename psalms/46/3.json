@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Ku sabab éta urang moal sieun najan bumi robah, jeung gunung-gunung usik kana jantung laut-laut.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ku sabab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "najan bumi robah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "jeung gunung-gunung usik"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "kana jantung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut-laut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:19.013639197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Harita bakal dibuka panon ⟨nu⟩ buta, sarta ceuli nu bangir bakal dibuka.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "harita"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "bakal dibuka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "nu buta"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "sarta ceuli"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "nu bangir"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "bakal dibuka"
+    }
+  ],
+  "timestamp": "2026-08-26T13:11:27.717562997Z",
+  "model": "glm-5.3"
+}

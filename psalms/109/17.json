@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Anjeunna bogoh ka kutuk, jadi ⟨eta⟩ datang ka anjeunna; teu kahoyong berkahan, jadi ⟨eta⟩ jauh ti anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "bogoh ka"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "jadi datang ka anjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kahoyong"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "kana berkahan"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "jadi jauh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:57.633116242Z",
+  "model": "glm-5.3"
+}

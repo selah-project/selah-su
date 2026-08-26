@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Caang Anjeun, diranjangkeun salaku nu agung, ngaleuwihan gunung-gunung nu ngarampas.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "caang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "nu agung"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "nu ngarampas"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:18.122935293Z",
+  "model": "glm-5.3"
+}

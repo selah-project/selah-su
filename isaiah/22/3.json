@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sakabéh pangawasa anjeun ngomping babarengan, ti panah ditawan; sakabéh nu kapanggih di anjeun ditawan babarengan, ti jauh kabur.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "pangawasa anjeun"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ngomping"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "ti panah"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ditawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "nu kapanggih di anjeun"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ditawan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ti jauh"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "kabur"
+    }
+  ],
+  "timestamp": "2026-08-26T13:07:19.963701964Z",
+  "model": "glm-5.3"
+}

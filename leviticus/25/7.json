@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung pikeun sato ingon anjeun, jeung pikeun sato liar nu di bumi anjeun — sadaya hasilna bakal jadi pikeun kadaharan.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "jeung pikeun sato ingon anjeun"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "jeung pikeun sato liar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di bumi anjeun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pikeun kadaharan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:43.974643037Z",
+  "model": "glm-5.3"
+}

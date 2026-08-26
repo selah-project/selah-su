@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Yahwe nyarita ka Moshe, sanggeus maotna dua putra Aharon, sabot maranehna ngadeukeutan ka payuneun Yahwe, lajeng maranehna paeh.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maotna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "sabot maranehna ngadeukeutan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "lajeng maranehna paeh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:12.901276506Z",
+  "model": "glm-5.3"
+}

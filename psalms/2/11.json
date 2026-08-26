@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Abdi ka ⟨את⟩ Yahwe ku sieun, jeung bungah ku geger.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ku sieun"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "jeung bungah"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ku geger"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:55.699393679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Paparinan aku dina bener-Mu, jeung ajaran aku, sabab Anjeun Elohim kasalametan abdi; ka Anjeun ⟨את⟩ kuring nganteng sapanjang poé.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Paparinan aku"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dina bener-Mu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "jeung ajaran aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "kasalametan abdi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ka Anjeun",
+      "marks": "ka Anjeun"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "kuring nganteng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:39.430300946Z",
+  "model": "glm-5.3"
+}

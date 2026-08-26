@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Sarta Yisrael nyarita ka Yosef: Aku maot wé ieu kali, sanggeus nempo ⟨את⟩ raray anjeun, sabab anjeun masih hirup.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "aku maot wé"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ieu kali"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raray anjeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raray anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "anjeun masih"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:08.715538075Z",
+  "model": "glm-5.3"
+}

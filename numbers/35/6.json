@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 35:6",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung ⟨את⟩ kota-kota nu aranjeun masiskeun ka urang Levi: ⟨את⟩ genep kota panampungan nu aranjeun masiskeun pikeun ngungsi ka ditu nu maehanan; jeung di luhurna aranjeun masiskeun opat puluh dua kota.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "masiskeun"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ka-urang-Levi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "genep kota panampungan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "genep"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "panampungan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "masiskeun"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "pikeun-ngungsi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka-ditu"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "nu-maehanan"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "jeung-dina-luhurna"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "masiskeun"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat-puluh"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "jeung-dua"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:13.767331587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Ku jangjang-Na Anjeuna bakal nyumputkeun anjeun, jeung sahandapeun jangjang-Na anjeun nyalindung; panyalindung jeung papan beusi kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Ku jangjang-Na"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "bakal nyumputkeun anjeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "jeung sahandapeun"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "jangjang-Na"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "anyeun nyalindung"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "panyalindung"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "jeung papan beusi"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:51.055802954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Sabab tingal, musuh-musuh anjeun ngagogorowokan, jeung nu ngabenci anjeun mana-nganjangkeun hulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingal"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ngagogorowokan"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "jeung nu ngabenci anjeun"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "mana-nganjangkeun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hulu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:20.511949527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ka Eber babar dua putra: ngaran nu hiji Peleg, sabab dina poé-poéna dibagi bumi éta, jeung ngaran sadulurna Yoktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "jeung ka Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "babar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "dina poé-poéna"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "dibagi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi éta"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulurna"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:55.537599927Z",
+  "model": "glm-5.3"
+}

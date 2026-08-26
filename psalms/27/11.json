@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Ajaran abdi, Yahwe, jalan anjeun, jeung mawa abdi dina lagu nu lempeng, ku sabab nu jadi lawan abdi.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ajaran abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan anjeun"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "jeung mawa abdi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "dina lagu"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "nu jadi lawan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:34.400991352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung manéhna nyieun ⟨את⟩ efod: emas, biru, wungu, jeung beureum-geter, jeung lino anu dipilin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Jeung manéhna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jeung wungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jeung geter"
+    },
+    {
+      "surface": "שני",
+      "gloss": "beureum-kaina"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeung lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "anu dipilin"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:05.742761960Z",
+  "model": "glm-5.3"
+}

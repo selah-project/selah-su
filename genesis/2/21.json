@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng Yahwe Elohim ngeundeukan saré lyuh ragrag ka luhur sang manusa, lajeng inyana saré; sarta nyokot hiji tina iga-igana, lajeng nutup daging di handapeunana.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ngeundeukan ragrag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "saré lyuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manusa"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "saré"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyokot"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "tina iga-igana"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "nutup"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "di handapeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:49.206909171Z",
+  "model": "glm-5.3"
+}

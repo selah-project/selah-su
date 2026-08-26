@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung Sheya ⟨nu⟩ jadi juru tulis, jeung Tsadok jeung Evyatar ⟨jadi⟩ imam.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "Jeung Sheya"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "juru tulis"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "jeung Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "jeung Evyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-08-26T12:34:54.385560575Z",
+  "model": "glm-5.3"
+}

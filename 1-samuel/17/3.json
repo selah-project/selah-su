@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung ⟨ka⟩ Pelishti nangtung ka gunung di dieu, jeung Israél nangtung ka gunung di dieu, jeung lebak di antawisna.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "jeung Pelishti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di dieu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jeung Israél"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di dieu"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "jeung lebak"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "di antawisna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:40.710399796Z",
+  "model": "glm-5.3"
+}

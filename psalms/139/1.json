@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Pikeun nu mingpin; mazmur Daud. Yahwe, Anjeun geus nyungsi kuring jeung nyaho.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pikeun nu mingpin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Daud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "Anjeun geus nyungsi kuring"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "jeung nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:19.528300347Z",
+  "model": "glm-5.3"
+}

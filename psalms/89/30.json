@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Sarta abdi nangtukeun nepi ka salawasna keturunanana, sarta tahtana kawas poé-poé ⟨langit⟩.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "sarta abdi nangtukeun"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nepi ka salawasna"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "keturunanana"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "sarta tahtana"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kawas poé-poé"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨langit⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:34.568801011Z",
+  "model": "glm-5.3"
+}

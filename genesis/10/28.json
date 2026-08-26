@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ⟨את⟩ Oval jeung ⟨את⟩ Avimaél jeung ⟨את⟩ Sheva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Oval"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Avimaél"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaél"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:55.538124145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Sarta maranéhna nyieun ⟨את⟩ jubah efod, pagawéan nu ditenun, sakabéhna bageulatan biru.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "nu ditenun"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "sakabéhna"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bageulatan biru"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:30.365937599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Poé abdi sieun, abdi percaya ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "abdi sieun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "percaya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:48.427277093Z",
+  "model": "glm-5.3"
+}

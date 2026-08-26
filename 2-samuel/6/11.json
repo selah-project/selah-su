@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sarta tabut Yahwe cicing di imah Oved-Edom sang Giti tilu bulan, sarta Yahwe mberkahan ⟨את⟩ Oved-Edom jeung ⟨את⟩ sakabéh balanagna.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sarta cicing"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "sang Giti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "sarta mberkahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh balanagna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balanagna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:54.935296434Z",
+  "model": "glm-5.3"
+}

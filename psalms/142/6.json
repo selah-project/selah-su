@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 142,
+  "translation": "Abdi sorakeun ka Anjeun, Yahwe; abdi ngomong: Anjeun mah tempat pangungsi abdi, bagéan abdi di bumi nu hirup.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "abdi sorakeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "abdi ngomong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tempat pangungsi abdi"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "bagéan abdi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nu hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:41.164560089Z",
+  "model": "glm-5.3"
+}

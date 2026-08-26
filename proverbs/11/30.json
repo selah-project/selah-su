@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Buah nu bener ⟨⟨aya⟩⟩ tangkal hirup, jeung nu nyandak nyawa jalma pinter.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tangkal"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "jeung nu nyandak"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "pinter"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:51.788776692Z",
+  "model": "glm-5.3"
+}

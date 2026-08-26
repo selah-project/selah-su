@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Nyarios Elohim Israél ka kuring, ngomong Karang Israél: nu maréntah ka manusa ⟨ewéh⟩ bener, maréntah dina sieun ka ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nyarios"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Karang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "nu maréntah"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ka manusa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bener"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "dina sieun ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:05.562006960Z",
+  "model": "glm-5.3"
+}

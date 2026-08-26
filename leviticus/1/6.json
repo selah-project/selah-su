@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta manéhna ngakulitanan ⟨את⟩ kurban bakaran, sarta nyopotkeun jadi potongan-potongan.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "sarta ngakulitanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "sarta nyopotkeun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "potongan-potonganna"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "jadi potongan-potonganna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:52.465374453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Mangga, abdi ngaliwat sarta abdi nempo ⟨את⟩ tanah nu hadé anu di seberangeun Yarden, gunung nu hadé ieu jeung Levanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "abdi ngaliwat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "sarta abdi nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah nu hadé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di seberangeun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "jeung Levanon"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:27.292045376Z",
+  "model": "glm-5.3"
+}

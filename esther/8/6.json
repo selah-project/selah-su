@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "sabab kumaha carana kuling singgah nempo ⟪kawirang⟫⟪e⟫ eta palawas nu baris manggihan ⟨את⟩ bangsa kuring, jeung kumaha carana kuring singgah nempo ka binjorna tempat kuring babar?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kumaha carana"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kuring singgah"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "palawas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "baris manggihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa kuring"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangsa kuring"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "jeung kumaha carana"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kuring singgah"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "ka binjorna"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "tempat kuring babar"
+    }
+  ],
+  "timestamp": "2026-08-26T15:40:22.607645693Z",
+  "model": "glm-5.3"
+}

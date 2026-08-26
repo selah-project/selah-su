@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Naha kuring laut, atanapi tanin, nepi ka Anjeun nempatkeun panjaga luhureun kuring?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atanapi"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "tanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "luhureun kuring"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "panjaga"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:58.750018012Z",
+  "model": "glm-5.3"
+}

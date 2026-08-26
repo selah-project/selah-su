@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Angin geus ngabeungbeulkeun ⟨את⟩ manéhna dina jangjang-jangjangna, sarta aranjeunna bakal sieuneun ku kurban-kurbanana.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "geus ngabeungbeulkeun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "dina jangjang-jangjangna"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "sarta aranjeunna bakal sieuneun"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ku kurban-kurbanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:07:54.079782743Z",
+  "model": "glm-5.3"
+}

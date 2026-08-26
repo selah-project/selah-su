@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 143,
+  "translation": "Bébaskeun kuring ti musuh-musuh kuring, Yahwe; ka Anjeun kuring nyumput.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Bébaskeun kuring"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ti musuh-musuh kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "kuring nyumput"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:43.505437675Z",
+  "model": "glm-5.3"
+}

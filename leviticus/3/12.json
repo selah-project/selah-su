@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung mun kurbanana embé kambing, manéhna mawa ⟨הét⟩ ka hareupeun Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung mun"
+    },
+    {
+      "surface": "עז",
+      "gloss": "embé kambing"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbanana"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "manéhna mawa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka hareupeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:22.903458907Z",
+  "model": "glm-5.3"
+}

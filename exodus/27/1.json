@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung anjeun bakal nyieun ⟨את⟩ altar kai akasia, lima hasta panjangna jeung lima hasta lébarna; pasagi ⟨ieu⟩ jadi altarana, jeung tilu hasta jangkungna.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun bakal nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "jeung lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lébarna"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pasagi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarana"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jangkungna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:21.342007626Z",
+  "model": "glm-5.3"
+}

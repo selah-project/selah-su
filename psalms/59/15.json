@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Jeung mugia maranehna balik wanci soré, ngagogog jiga anjing, sarta muter-muter kota.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "jeung mugia maranehna balik"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "wanci soré"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ngagogog"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jiga anjing"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "sarta muter-muter"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:44.565233178Z",
+  "model": "glm-5.3"
+}

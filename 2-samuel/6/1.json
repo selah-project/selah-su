@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Deui keneh David ngumpulkeun ⟨את⟩ sakabéh pilihan di Yisrael, tilu puluh rébu.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "deui"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "keneh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh pilihan di Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "pilihan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:28:35.949022945Z",
+  "model": "glm-5.3"
+}

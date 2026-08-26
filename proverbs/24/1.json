@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Ulah iri hati ka jalma-jalma jahat, jeung ulah kahayang jadi ⟨את⟩ jeung maranehna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "iri hati"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ka jalma-jalma"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jeung maranehna",
+      "marks": "jadi jeung maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:51.108352455Z",
+  "model": "glm-5.3"
+}

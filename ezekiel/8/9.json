@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung anjeunna ngomong ka abdi: Asup, sarta tingali ⟨את⟩ kajijangan-kajijangan nu jahat nu maranéhna ngalakukeun di dieu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung anjeunna ngomong"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Asup"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "sarta tingali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kajijangan-kajijangan nu jahat"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "kajijangan-kajijangan"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di dieu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:05:08.732926601Z",
+  "model": "glm-5.3"
+}

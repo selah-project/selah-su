@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung anjeunna nyarita: Miang, Daniel, sabab kecap-kecap éta ditutup jeung disegel nepi ka waktu tungtung.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Miang"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "ditutup"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "jeung-disegel"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap-éta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "tungtung"
+    }
+  ],
+  "timestamp": "2026-08-26T15:50:29.836118184Z",
+  "model": "glm-5.3"
+}

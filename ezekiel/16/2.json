@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Putra manusa, waroakeun ⟨את⟩ ka Yerushalaim ⟨את⟩ kabeunjenna",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "waroakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeunjenna"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "kabeunjenna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:47:10.117908152Z",
+  "model": "glm-5.3"
+}

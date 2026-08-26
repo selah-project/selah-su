@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Nyawa kuring teterusan ku kahayang kana putusan-putusan-Mu sadaya waktu.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "teterusan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nyawa kuring"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ku kahayang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "putusan-putusan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:24.131721408Z",
+  "model": "glm-5.3"
+}

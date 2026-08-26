@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Tuanku, ngadangu ka abdi: taneuh — opat ratus syikel pérak; antara abdi jeung antara anjeun, naon éta? Jeung ⟨את⟩ mayit anjeun, golekan.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Tuanku"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ngadangu-ka-abdi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syikel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara-abdi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "jeung-antara-anjeun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mayit anjeun"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "mayit-anjeun"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "golekan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:35.402240295Z",
+  "model": "glm-5.3"
+}

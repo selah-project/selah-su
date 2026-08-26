@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Rengku kuring, maka kuring bakal salamet, sarta kuring bakal ngalelep kana aturan-aturan Anjeun saterusna.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "Rengku kuring"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "maka kuring bakal salamet"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "sarta kuring bakal ngalelep"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "kana aturan-aturan Anjeun"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "saterusna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:57.393029708Z",
+  "model": "glm-5.3"
+}

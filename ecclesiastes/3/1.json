@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Pikeun sagalana ⟨aya⟩ waktos nangtukeun, jeung waktos pikeun sagala karesepan sahandapeun langit-langit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "pikeun sagalana"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "waktos nangtukeun"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktos"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pikeun sagala"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "karesepan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:35.926741034Z",
+  "model": "glm-5.3"
+}

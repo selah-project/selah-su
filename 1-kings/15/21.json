@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jadi kajadian, nalika Baasa ngadéngé éta, manéhna eureun ngawangun ⟨את⟩ Rama, sarta cicing di Tirtza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nalika ngadéngé"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "manéhna eureun"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sarta cicing"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "di Tirtza"
+    }
+  ],
+  "timestamp": "2026-08-26T16:55:32.434346514Z",
+  "model": "glm-5.3"
+}

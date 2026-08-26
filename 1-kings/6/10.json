@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Tur ngawangun ⟨את⟩ sélér ngagantung ka sakabéh bumi eta, jangkungna lima hasta, tur nyaretkeun ⟨את⟩ bumi eta ku kai sarusuksuk.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sélér ngagantung"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "sélér ngagantung"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi eta"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "jangkungna"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "nyaretkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi eta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi eta"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ku kai"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sarusuksuk"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:55.161832666Z",
+  "model": "glm-5.3"
+}

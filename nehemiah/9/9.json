@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung anjeun nempo ⟨את⟩ kasusah karuhun urang di Mitsrayim, jeung ⟨את⟩ jerit maranehna anjeun ngadangu di gigireun Yam Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "jeung anjeun nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusah karuhun urang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "karuhun urang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "jerit maranehna"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "jerit maranehna"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "anjeun ngadangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di gigireun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-26T16:00:53.131412651Z",
+  "model": "glm-5.3"
+}

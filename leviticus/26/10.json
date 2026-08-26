@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung ararinyana baris ngahakan anu heubeul, heubeul kacida, jeung anu heubeul muhung ku nu anyar baris ararinyana kaluarkeun.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "jeung ararinyana baris ngahakan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "anu heubeul"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "heubeul kacida"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "jeung anu heubeul"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "muhung ku"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nu anyar"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "baris ararinyana kaluarkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:56.976156167Z",
+  "model": "glm-5.3"
+}

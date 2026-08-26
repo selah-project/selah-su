@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung ngaruntagkeun ⟨את⟩ imah, ⟨את⟩ batu-batuna, jeung ⟨את⟩ kai-kaina, jeung ⟨את⟩ sagala keusik imah, jeung mawa kaluar ka luar kota, ka tempat nu teu murni.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "jeung ngaruntagkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batuna"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "batu-batuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kai-kaina"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "kai-kaina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala keusik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "keusik"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "jeung mawa kaluar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "teu murni"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:17.123387009Z",
+  "model": "glm-5.3"
+}

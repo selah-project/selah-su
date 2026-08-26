@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Mangsa-mangsa kuring nu can ngawujud ceuli maneuh katingali ku panon anjeun, jeung sadayana ditulis dina kitab anjeun; poé-poé maranéhna dijieun, can aya hiji ogé ti maranéhna.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "mangsa-mangsa kuring nu can ngawujud"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "katingali"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ku panon anjeun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung dina"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitab anjeun"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ditulis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "can"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji ogé"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ti maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:37.207010985Z",
+  "model": "glm-5.3"
+}

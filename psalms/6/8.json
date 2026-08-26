@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Luntur panon abdi ku gèlmis; kolot katua alatan sakabéh nu nyaru-musuhkeun abdi.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "luntur"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ku gèlmis"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon abdi"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "kolot katua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alatan sakabéh"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "nu nyaru-musuhkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:41.772516681Z",
+  "model": "glm-5.3"
+}

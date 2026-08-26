@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta putra-putra Aharon, para imam, nunda ngaruntuy ⟨את⟩ potongan-potongan, ⟨את⟩ sirah jeung ⟨את⟩ gajih, di luhureun ⟨the⟩ kai nu aya di luhureun ⟨the⟩ seuneu nu aya di luhureun ⟨the⟩ mézbah.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "sarta nunda ngaruntuy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potongan-potongan"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "potongan-potongan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirah"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "gajih"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "gajih"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:52.465705209Z",
+  "model": "glm-5.3"
+}

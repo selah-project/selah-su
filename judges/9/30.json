@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Zebul, pangawasa ⟨éta⟩ kota, ngadangu ⟨את⟩ omongan-omongan Gaal putra Ebed, lajeng gedeg haténa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omongan-omongan Gaal"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "omongan-omongan"
+    },
+    {
+      "surface": "гעל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "lajeng ngagedig"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ambuna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:05:41.105928376Z",
+  "model": "glm-5.3"
+}

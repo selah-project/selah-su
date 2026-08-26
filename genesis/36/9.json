@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Sarta ieu ⟨⟨téh⟩⟩ katurunan Esav, bapak Edom, di gunung Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "sarta ieu"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:37.522834322Z",
+  "model": "glm-5.3"
+}

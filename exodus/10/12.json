@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Yahwe nyarita ka Moshe: Ulurkeun leungeun anjeun luhureun tanah Mitsrayim pikeun belalang, sangkan maranehna naék ka luhur tanah Mitsrayim jeung ngahakan ⟨את⟩ sadaya jukut taneuh, ⟨את⟩ sadaya nu titinggal ku hujan és.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ulurkeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "pikeun belalang"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sangkan maranehna naék"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "jeung ngahakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya jukut taneuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu titinggal ku hujan és"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "titinggal"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "hujan és"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:00.189324330Z",
+  "model": "glm-5.3"
+}

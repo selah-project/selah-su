@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Kuring baris muji anjeun kalawan jujur haté nalika kuring diajar putusan-putusan kabeneran anjeun.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "kuring baris muji anjeun"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "kalawan jujur"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "nalika kuring diajar"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-putusan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kabeneran anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:51.881698564Z",
+  "model": "glm-5.3"
+}

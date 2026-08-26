@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung putra-putra Reubén ngawangun ⟨את⟩ Cheshbon jeung ⟨את⟩ Elalé, jeung ⟨את⟩ Kiryataim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubén"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Elalé"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elalé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kiryataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:36:42.628124837Z",
+  "model": "glm-5.3"
+}

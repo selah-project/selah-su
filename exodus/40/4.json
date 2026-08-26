@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Anjeun kudu mawa asup ⟨את⟩ méja sarta nyusun ⟨את⟩ susunannana; anjeun kudu mawa asup ⟨את⟩ tarangseun lampu sarta ngahurungkeun ⟨את⟩ lampu-lampuna.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "sarta anjeun mawa asup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "méja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "sarta anjeun nyusun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "susunannana"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "susunannana"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "sarta anjeun mawa asup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarangseun lampu"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "tarangseun lampu"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "sarta anjeun ngahurungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampuna"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampuna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:00.670769710Z",
+  "model": "glm-5.3"
+}

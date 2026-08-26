@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Sabab abdi ⟨את⟩ Esav geus ngaoker, geus ngabukbak ⟨את⟩ tempat-sumeburna, jeung nyumput moal sanggup ⟨anjeunna⟩; dirampas katurunanna, jeung sadulur-sadulurna, jeung tatanggana, jeung anjeunna geus euweuh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "geus ngaoker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "geus ngabukbak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat-sumeburna"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "tempat-sumeburna"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "jeung nyumput"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dirampas"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "katurunanna"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "jeung sadulur-sadulurna"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "jeung tatanggana"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "jeung anjeunna geus euweuh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:40:48.315388697Z",
+  "model": "glm-5.3"
+}

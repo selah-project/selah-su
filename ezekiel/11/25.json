@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Lajeng abdi nyarita ka ⟨⟨הגולה⟩⟩ ka maranéhana nu kasingkirkeun sadayana kecap-kecap Yahwe nu ditepikeun ka abdi.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "lajeng abdi nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ka maranéhana nu kasingkirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana kecap-kecap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "nu ditepikeun ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:45:05.571581695Z",
+  "model": "glm-5.3"
+}

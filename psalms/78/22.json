@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "sabab maranehna henteu aiman ka Elohim, sarta henteu percaya ka kasalametan-Na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "aiman"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta henteu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "ka kasalametan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:51.639580273Z",
+  "model": "glm-5.3"
+}

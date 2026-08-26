@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Kauninga di Yehuda ⟨∅⟩ Elohim, di Yisrael gedé ngaranna.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "kauninga"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedé"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:02.499840668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Tapi abdi, ku lobana kanyaah satia perjangjian anjeun, abdi bakal asup ka bumi anjeun; abdi sujud ka balai suci anjeun kalawan sieun ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi abdi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ku lobana"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia perjangjian anjeun"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "abdi bakal asup"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ka bumi anjeun"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "abdi sujud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "balai"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "suci anjeun"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "kalawan sieun ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:41.315610913Z",
+  "model": "glm-5.3"
+}

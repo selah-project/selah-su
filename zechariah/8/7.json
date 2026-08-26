@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Kitu ceuk Yahwe Tzevaot: Temen, abdi nyalametkeun ⟨את⟩ umat abdi ti taneuh wétan, sarta ti taneuh palanglanganning panonpoé.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "temen abdi"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat abdi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat abdi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "sarta ti taneuh"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "palanglanganning"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:19:14.356412315Z",
+  "model": "glm-5.3"
+}

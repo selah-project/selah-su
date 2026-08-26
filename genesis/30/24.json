@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Sarta manéna nyebut ngaranna Yosef, bari ngomong: Yahwe nambihan ka kuring hiji lanceuk deui.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "sarta nyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bari ngomong"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "nambihan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hiji lanceuk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:44.621045438Z",
+  "model": "glm-5.3"
+}

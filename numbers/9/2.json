@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sarta putra-putrana Israél ngalaksanakeun ⟨את⟩ Paskah dina waktuna nu ditangtukeun.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "dina waktuna nu ditangtukeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:02.666173282Z",
+  "model": "glm-5.3"
+}

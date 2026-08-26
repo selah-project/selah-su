@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "tempatkeun, wahai Yahwe, katuangan ka maranehna, sangkan bangsa-bangsa terang yen manusa waé maranehna. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "tempatkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "katuangan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "terang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa (nu fana)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:49.422224973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung kagagahan Israél ngajawab dina payunna; jeung Israél jeung Efrayim ragrag dina kalalayennaana, ragrag ogé Yehuda jeung maranehna.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kagagahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "dina payunna"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "jeung Israél"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "jeung Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "dina kalalayennaana"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "jeung maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:14.922221220Z",
+  "model": "glm-5.3"
+}

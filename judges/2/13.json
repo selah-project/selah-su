@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung maranehna nyingkahkeun ⟨את⟩ Yahwe, jeung ngalayanan Baal jeung Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "jeung nyingkahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "jeung ngalayanan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ka Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "jeung ka Ashtarot"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:52.949380033Z",
+  "model": "glm-5.3"
+}

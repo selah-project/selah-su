@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Tsipporah ngala batu seukeut, terus motong ⟨את⟩ kulup putrana, terus marengkeunana ka suku-na, terus nyarita: sabab pangantén getih anjeun ka abdi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "jeung nyokot"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "batu seukeut"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "terus motong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulup putrana"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kulup"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "terus marengkeunana"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ka suku-na"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "terus nyarita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "pangantén"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:41.515528627Z",
+  "model": "glm-5.3"
+}

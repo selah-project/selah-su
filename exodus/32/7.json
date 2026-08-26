@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Yahwe ngomong ka Moshe: “Pungs, turun, sabab geus rusak bangsamu nu anjeun naékkeun tina tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pungs"
+    },
+    {
+      "surface": "רד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "geus rusak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "anjeun naékkeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:29.363326329Z",
+  "model": "glm-5.3"
+}

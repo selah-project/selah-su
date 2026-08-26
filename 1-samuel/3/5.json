@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Terus ⟨ manehna ⟩ lumpat ka Eli sarta ngomong: Ieu abdi, sabab anjeun nyaur abdi. Tapi Eli ngomong: Abdi henteu nyaur; balik, bobo. Terus manehna indit sarta rebah bobo.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "lumpat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ieu abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "anjeun nyaur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "abdi nyaur"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "bobo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "rebah bobo"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:43.370032974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 37:12",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Mangka-Ta nubuat sarta anjeun bakal ngomong ka aranjeunna: Kitu dawuh Adonay Yahwe: Tempo, abdi muka ⟨את⟩ makam-makam anjeun, sarta abdi ngarakit aranjeunna ti makam-makam anjeun, umat-Ku, sarta abdi mawa aranjeunna ka taneuh Israél.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mangka-Ta"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "nubuat"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "sarta anjeun bakal ngomong"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dawuh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makam-makam anjeun"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "makam-makam anjeun"
+    },
+    {
+      "surface": "והעליתי",
+      "gloss": "sarta abdi ngarakit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeunna"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "ti makam-makam anjeun"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "sarta abdi mawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeunna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T13:56:38.526844521Z",
+  "model": "glm-5.3"
+}

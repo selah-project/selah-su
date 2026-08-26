@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Kawas tilempanic dina tulang-tulang kuring, sasarak-sasarak kuring ngahina kuring, bari maranehna nyarita ka kuring saalam poé: di mana Elohim anjeun?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "kawas tilempanic"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "dina tulang-tulang kuring"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ngahina kuring"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "sasarak-sasarak kuring"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "bari nyarita maranehna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé-na"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:29.641093998Z",
+  "model": "glm-5.3"
+}

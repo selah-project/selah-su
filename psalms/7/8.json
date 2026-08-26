@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta mugi pasamoan bangsa-bangsa ngurilingan Anjeun, sarta luhureunana mulang ka luhur.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "sarta pasamoan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "mugi ngurilingan Anjeun"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "sarta luhureunana"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "mulang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:02.519184622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Sabab batu karang kuring jeung bénténg kuring ⟨anjing→⟩ ⟨éta⟩ Anjeun, jeung pikeun ngaran-Mu tunjuk kuring sarta ator kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu karang kuring"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "jeung bénténg kuring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "jeung pikeun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran-Mu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tunjuk kuring"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "sarta ator kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:16.313251990Z",
+  "model": "glm-5.3"
+}

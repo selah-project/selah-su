@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sarta Barak ngomong ka anjeunna: Upami anjeun naéng jeung kuring, kakara kuring ampilar; tapi upami anjeun moal naéng jeung kuring, moal kuring ampilar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "anjeun naéng"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "kuring ampilar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tapi upami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "anjeun naéng"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuring ampilar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:49.089218783Z",
+  "model": "glm-5.3"
+}

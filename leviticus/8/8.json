@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung manehna nempatkeun kana dirina ⟨את⟩ dada-beubeuratan, sarta méré ka jero dada-beubeuratan ⟨את⟩ Urim jeung ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kana dirina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dada-beubeuratan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "dada-beubeuratan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka jero"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "dada-beubeuratan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:46.964849828Z",
+  "model": "glm-5.3"
+}

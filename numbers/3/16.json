@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lajeng Moshe ngabilang ⟨את⟩ maranehna dumasar kana cangkem Yahwe, saperti anu diparentahkeun ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Lajeng ngabilang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna (putra-putra Léwi)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dumasar kana"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anu diparentahkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:06.498797988Z",
+  "model": "glm-5.3"
+}

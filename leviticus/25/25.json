@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Lamun sadulur anjeun miskin sarta ngajual tina kagunganana, lajeng datang nu malik dibele, nu pangdeukeutna ka anjeunna, sarta malik dibele ⟨את⟩ nu kajual sadulurna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadulur anjeun"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "sarta ngajual"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "tina kagunganana"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lajeng datang"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "nu malik dibele"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nu pangdeukeutna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "sarta malik dibele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu kajual sadururana"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "nu kajual"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulurna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:06.598447353Z",
+  "model": "glm-5.3"
+}

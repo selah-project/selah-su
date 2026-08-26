@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Angkat, oh panto-panto, sirah-sirah anjeun; sarta angkat, oh panto-panto baheula; sangkan asup Raja kamulyan.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "panto-panto"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "sirah-sirah anjeun"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "sarta angkat"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "panto-panto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "baheula"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sangkan asup"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kamulyan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:30.995126250Z",
+  "model": "glm-5.3"
+}

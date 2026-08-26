@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Beungbeuratan kecap Yahwe ka Yisrael leungeun Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Beungbeuratan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:04.850275770Z",
+  "model": "glm-5.3"
+}

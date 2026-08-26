@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung batur cicing ulah anjeun tindas, jeung anjeun terang ⟨את⟩ kanyawaan sang batur cicing, sabab batur cicing anjeun kungsi jadi di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "jeung batur cicing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "anjeun tindas"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "terang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyawaan sang batur cicing"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kanyawaan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sang batur cicing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "batur cicing"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "anjeung kungsi jadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:00.503950375Z",
+  "model": "glm-5.3"
+}

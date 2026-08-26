@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 127,
+  "translation": "Tingali, putra-putra ⟨itu⟩ warisan ti Yahwe; buah kandungan, pahala.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pahala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "kandungan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:24.534152542Z",
+  "model": "glm-5.3"
+}

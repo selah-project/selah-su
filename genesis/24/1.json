@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Sarta Avraham geus kolot, geus asup ka poé-poé, sarta Yahwe geus ngaberkahan ⟨את⟩ Avraham ku sagala rupa.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "sarta Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "geus kolot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ka poé-poé"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "sarta Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "geus ngaberkahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sagala rupa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:20.930780094Z",
+  "model": "glm-5.3"
+}

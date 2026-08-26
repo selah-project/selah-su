@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tuluy Yehu asup ka Yizreel, sarta Izebel ngadéngé éta, lajeng manehna ngagunakeun paksá panon, mariksa sirahna, teras nénjo kaluar ngaliwatan jandéla.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "mariksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahna"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "nénjo kaluar"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jandéla"
+    }
+  ],
+  "timestamp": "2026-08-26T16:57:22.323040568Z",
+  "model": "glm-5.3"
+}

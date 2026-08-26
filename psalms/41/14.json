@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Dipuji Yahwe, Elohim-na Yisrael, ti mimiti katukang nepi ka salawasna. Amin, sarta amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dipuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "ti mimiti katukang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "sarta amin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:40.023322485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Maranehna — maranehna ngumbar hayang tuang; upami teu kacukuhan, maranehna ngarungkun sanggeus peuting.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "maranehna ngumbar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hayang tuang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kacukuhan"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "maranehna ngarungkun sanggeus peuting"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:44.565373041Z",
+  "model": "glm-5.3"
+}

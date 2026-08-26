@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Abdi ngamuliakeun ka-Anjeun, sabab Anjeun geus ngawaler abdi, jeung jadi jadi ka-abdi salamet.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ngamuliakeun ka-Anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Anjeun geus ngawaler abdi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jeung jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka-abdi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "salamet"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.693112092Z",
+  "model": "glm-5.3"
+}

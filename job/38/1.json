@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Mangka Yahwe ngajawab ⟨את⟩ Iyob tina badai angin puyuh, sarta ngandika:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "tina"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "badai angin puyuh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngandika"
+    }
+  ],
+  "timestamp": "2026-08-26T15:19:30.463060343Z",
+  "model": "glm-5.3"
+}

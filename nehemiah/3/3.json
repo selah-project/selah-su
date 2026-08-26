@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ⟨את⟩ panto lauk diwangun ku putra-putra HaSenaah; maranehna ngabalay hate-na sarta ngadegkeun panto-na, konci-na, jeung palang-na.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "panto lauk"
+    },
+    {
+      "surface": "שער",
+      "gloss": "panto"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "lauk"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "diwangun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "HaSenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "ngabalay hate-na"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "sarta ngadegkeun"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "panto-na"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "konci-na"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "jeung palang-na"
+    }
+  ],
+  "timestamp": "2026-08-26T17:23:34.961461608Z",
+  "model": "glm-5.3"
+}

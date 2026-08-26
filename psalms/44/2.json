@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Elohim, ku ceuli urang ngadenge, bapak-bapak urang nyaritakeun ka urang ⟨nengetan⟩ gawé nu dipigawé ku Anjeun dina mangsa maranéhanana, dina poé-poé baheula.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ku ceuli urang"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ngadenge"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapak-bapak urang"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "nu dipigawé ku Anjeun"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "dina mangsa maranehana"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dina poé-poé"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "baheula"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:52.900038493Z",
+  "model": "glm-5.3"
+}

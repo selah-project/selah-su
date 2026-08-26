@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Yahwe aya di bale karunya; ⟨engkeu⟩ ti payunana, buana sadayana!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "jeung Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di bale"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "karunya"
+    },
+    {
+      "surface": "הס",
+      "gloss": "⟨engkeu⟩"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ti payunana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "buana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:00.268314186Z",
+  "model": "glm-5.3"
+}

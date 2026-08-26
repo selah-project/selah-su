@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung manéhna miceun ⟨את⟩ allah-allah deungeun jeung ⟨את⟩ berhala tina imah Yahwe, jeung sadaya mézbéax nu diwangun di gunung imah Yahwe jeung di Yerushalaim, sarta ngalungkeunana ka luar kota.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "jeung miceun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allah-allah deungeun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "deungeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "berhala"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "berhala"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tina imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mézbéax-mézbéax"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "diwangun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "jeung di Yerushalaim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "sarta ngalungkeunana"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ka luar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "tina kota"
+    }
+  ],
+  "timestamp": "2026-08-26T16:33:35.604347502Z",
+  "model": "glm-5.3"
+}

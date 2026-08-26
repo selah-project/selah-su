@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lajeun abdi ngomong ka aranjeun, tapi aranjeun moal ngadangu; aranjeun nolak ⟨את⟩ sungut Yahwe, aranjeun dicegaeun kamarihan, sarta aranjeun naék ka pagunungan.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "lajeun abdi ngomong"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "anjeun ngadangu"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "anjeun nolak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungut Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sungut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "anjeun dicegaeun kamarihan"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "anjeun naék"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ka pagunungan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:21.122767322Z",
+  "model": "glm-5.3"
+}

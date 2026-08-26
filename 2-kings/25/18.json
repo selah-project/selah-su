@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung pangawasa nu ngala parondok nyandak ⟨את⟩ Serayah imam kahiji, jeung ⟨את⟩ Tsefanyahu imam kadua, jeung ⟨את⟩ nu tilu penjaga panto.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "nu ngala parondok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah imam kahiji"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kahiji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Tsefanyahu imam kadua"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu tilu penjaga panto"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "nu tilu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "panto"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:05.791330539Z",
+  "model": "glm-5.3"
+}

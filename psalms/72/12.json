@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Sabab anjeunna bakal ngabébaskeun nu papa nu ngarérét, jeung nu miskin, jeung nu euweuh nu nulungan manéhna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "bakal ngabébaskeun"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nu papa"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "nu ngarérét"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "jeung nu miskin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung nu euweuh"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "nu nulungan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:35.090937470Z",
+  "model": "glm-5.3"
+}

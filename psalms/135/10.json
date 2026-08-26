@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Anu ngabaradabkeun bangsa-bangsa loba tur maéhan raja-raja nu kawasa.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Anu ngabaradabkeun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "tur maéhan"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "nu kawasa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:45.912931494Z",
+  "model": "glm-5.3"
+}

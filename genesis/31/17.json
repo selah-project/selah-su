@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Teras Yaakov bangun, mawa ⟨את⟩ putra-putrana jeung ⟨את⟩ pamajikanana dina ⟨the⟩ onta-onta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikanana"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "onta-onta"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:17.575795425Z",
+  "model": "glm-5.3"
+}

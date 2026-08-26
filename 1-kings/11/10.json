@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung (Yahwe) paréntah ka anjeunna ngeunaan perkara ieu, ulah milampah sanggeus allah-allah séjén; tapi manéhna teu mariksa ⟨את⟩ nu geus diparéntahkeun ku Yahwe.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "paréntah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "milampah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "séjén"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mariksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu geus diparéntahkeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:29.665720260Z",
+  "model": "glm-5.3"
+}

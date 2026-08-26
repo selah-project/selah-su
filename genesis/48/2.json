@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Jeung aya nu ngabejaan ka Yaakov, nyarita: Tingali, putra anjeun Yosef datang ka anjeun. Terus Yisrael nguatkeun manéhna sarta diuk di luhureun dampal.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ngabejaan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ka Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tingali"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "nguatkeun manéhna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "dampal"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:37.060379868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sarta sing nulis ⟨aranjeunna⟩ dina pangiring panto imah anjeun jeung dina panto-panto anjeun.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "sarta sing nulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "pangiring panto"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imah anjeun"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "jeung dina panto-panto anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:36.754493693Z",
+  "model": "glm-5.3"
+}

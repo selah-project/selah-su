@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeun bakal nyandak ⟨את⟩ minyak minyakan, jeung anjeun bakal ngalisahan ⟨את⟩ kemah jeung ⟨את⟩ sagala nu aya di jerona, jeung anjeun bakas nyucikeun ⟨את⟩anjeunna jeung ⟨את⟩ sagala parabotna, jeung ⟨anjeunna⟩ bakal jadi suci.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jeung anjeun bakal nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak minyakan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "minyakan"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "jeung anjeun bakal ngalisahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala nu aya di jerona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jeung anjeun bakal nyucikeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩anjeunna",
+      "marks": "kemah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala parabotna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jeung bakal jadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:05.245795286Z",
+  "model": "glm-5.3"
+}

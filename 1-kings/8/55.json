@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Anjeunna nangtung, lajeng ngaberkahan ⟨את⟩ sakabéh jamaah Israél ku sora tarik, nyarita:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "anjeunna nangtung"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lajeng ngaberkahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh jamaah Israél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tarik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:48.050075462Z",
+  "model": "glm-5.3"
+}

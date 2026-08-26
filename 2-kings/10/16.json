@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sarta anjeunna nyarita: Teang ⟨את⟩ jeung abdi, sarta tingali kana kinsi abdi pikeun Yahwe; lajeng marulung ⟨את⟩ anjeunna di karétana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "teang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jeung abdi",
+      "marks": "jeung abdi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "sarta tingali"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "kana kinsi abdi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "lajeng marulung"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "di karétana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:57:26.520815248Z",
+  "model": "glm-5.3"
+}

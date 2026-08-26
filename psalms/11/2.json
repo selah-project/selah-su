@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sabab tingal, nu jahat ngajangjangan busur, aranjeunna numpakkeun panahna dina tali, pikeun ngalungkeun tina kahideungan ka nu lempeng haté.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingal"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "ngajangjangan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "numpakkeun"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "panahna"
+    },
+    {
+      "surface": "על",
+      "gloss": "din"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tali"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "ngalungkeun"
+    },
+    {
+      "surface": "במו",
+      "gloss": "tina"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "kahideungan"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ka nu lempeng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:36.967896906Z",
+  "model": "glm-5.3"
+}

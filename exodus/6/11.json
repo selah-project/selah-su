@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Kagungan asup, omong ka Paroh, raja Misrayim, sangkan manehna ngalirkeun ⟨את⟩ barudak Yisrael kaluar ti nagarana.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "omong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngalirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barudak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ti nagarana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:19.581435273Z",
+  "model": "glm-5.3"
+}

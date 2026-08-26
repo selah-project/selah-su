@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung ⟨את⟩ ceeng katuhu aranjeun balikeurkeun salaku persembahan angkat ka imam, tina korban karapihan aranjeun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ceeng"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "katuhu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "balikeurkeun"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "persembahan angkat"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ka imam"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "tina korban"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "karapihan aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:06.134514738Z",
+  "model": "glm-5.3"
+}

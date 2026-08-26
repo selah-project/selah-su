@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Anjeun baris ngancurkeun nu ngomong dusta; jalma getih jeung tipu-daya Yahwe baris kakeueung.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "anjeun baris ngancurkeun"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nu ngomong"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "דמiers",
+      "gloss": ""
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "jeung tipu-daya"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "baris kakeueung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:41.315468334Z",
+  "model": "glm-5.3"
+}

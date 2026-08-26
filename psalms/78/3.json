@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Nu geus kadangu ku urang jeung geus katelah ku urang, jeung karuhun urang geus nyaritakeunana ka urang.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "geus kadangu ku urang"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "jeung geus katelah ku urang"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "jeung karuhun urang"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "geus nyaritakeunana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:51.269691485Z",
+  "model": "glm-5.3"
+}

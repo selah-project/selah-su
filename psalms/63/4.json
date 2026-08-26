@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Sabab leuwih hadé kanyaah satia perjangjian Anjeun batan hirup, biwir kuring bakal muji Anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "leuwih hadé"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia perjangjian Anjeun"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "batan hirup"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "biwir kuring"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "bakal muji Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:54.496467153Z",
+  "model": "glm-5.3"
+}

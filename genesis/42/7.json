@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung Yosef nempo ⟨את⟩ dulur-dulurna jeung mikawanoh ⟨maranéhna⟩, terus nyamar ka maranéhna, sarta nyarita ⟨את⟩ maranéhna kalawan teuas, sarta ngomong ka maranéhna: Ti mana aranjeunn datang? Jeung aranjeunn ngawawalan: Ti tanah Kenaan, mésér katuang.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dulur-dulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulur-dulurna"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "mikawanoh"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "nyamar"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "kalawan teuas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ti mana"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "anjeunn datang"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ngawawalan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "mésér"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "katuang"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:06.700650741Z",
+  "model": "glm-5.3"
+}

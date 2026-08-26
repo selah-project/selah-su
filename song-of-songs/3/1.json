@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Dina tilam kuring, peuting, kuring milari ⟨את⟩ nu dipikacinta ku jiwa kuring; kuring milari anjeunna, tapi teu manggih.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di\/dina"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "tilam kuring"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "kuring milari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipikacinta ku jiwa kuring"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "nu dipikacinta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "kuring milari anjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "manggih anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:11.799380353Z",
+  "model": "glm-5.3"
+}

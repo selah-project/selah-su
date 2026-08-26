@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Daud terang yen Shaul ngancaman ku niat jahat ka anjeunna, jadi anjeunna nyarita ka Avyatar sang imam: \"Dideukeunanana ∙ efod éta.\"",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Jeung ∙ terang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "ngancaman diam-diam"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kahadinan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jadi nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "dideukeunanana"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:26.873861175Z",
+  "model": "glm-5.3"
+}

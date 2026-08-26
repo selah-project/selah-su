@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Jeung jadi kanyaah-na Adonay Elohim urang diluhureun urang, sarta pakuat-kaitkeun karya leungeun urang ka urang; enya, karya leungeun urang pakuat-kaitkeun ⟨ éta ⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jeung jadi"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "kanyaah-na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "diluhureun urang"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "sarta karya"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "leungeun urang"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "pakuat-kaitkeun"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "nya karya"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "leungeun urang"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "pakuat-kaitkeun ⟨את⟩",
+      "marks": "⟨את⟩ -hu (karya leungeun urang)"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:39.819324269Z",
+  "model": "glm-5.3"
+}

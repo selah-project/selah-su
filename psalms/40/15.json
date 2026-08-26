@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Ngaholeran jeung sieun éra babarengan maranéhna nu mikabutuh ⟨את⟩ nyawa kuring pikeun ngancurkeunana; undur ka tukang sarta arapeun éra, maranéha nu bungah kana kamangsatan kuring.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ngaholeran"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "jeung sieun éra"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "nu mikabutuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa kuring"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa kuring"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "pikeun ngancurkeunana"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "undur ka tukang"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka tukang"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "sarta arapeun éra"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "nu bungah kana"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kamangsatan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:03.229184956Z",
+  "model": "glm-5.3"
+}

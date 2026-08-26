@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung baladna jeung nu diitung ti marihna, tujuh puluh lima rébu jeung opat ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jeung baladna"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "jeung nu diitung ti marihna"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "puluh lima"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jeung opat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:52.119925575Z",
+  "model": "glm-5.3"
+}

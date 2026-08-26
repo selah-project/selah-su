@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Teras abdi mulang deui, abdi nempo hebel handapeun panonpoé.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "teras abdi mulang deui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "abdi nempo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "handapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:42.530919077Z",
+  "model": "glm-5.3"
+}

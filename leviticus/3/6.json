@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lamun kurbanana ti ⟨the⟩ kawanan domba, jadi kurban syalomim pikeun Yahwe, jalu atawa bikang, tanpa cacad bakal dibikeunana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawanan domba"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbanana"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "syalomim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "jalu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "bikang"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanpa cacad"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "bakal dibikeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:22.166602309Z",
+  "model": "glm-5.3"
+}

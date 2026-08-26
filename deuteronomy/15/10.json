@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Méré, méré sungguh ka anjeunna, jeung hate anjeun ulah susah mun méré ka anjeunna, sabab alatan perkara ieu Yahwe, Elohim anjeun, ngeberkah anjeun dina sagala pagawéan anjeun jeung dina sagala nu dipancénkeun leungeun anjeun.",
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "méré"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "susah"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hate anjeun"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "mun méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ngeberkah anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sagala"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "pagawéan anjeun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung dina sagala"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "nu dipancénkeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:57.358046907Z",
+  "model": "glm-5.3"
+}

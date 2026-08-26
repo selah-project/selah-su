@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Nu geus nyarios ka maranehna: Ieu eta kanyanaahan, mere kanyahaan atuh ka nu cape; jeung ieu eta kapanenang; tapi maranehna teu daék ngadangu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "kanyanaahan"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "mere kanyahaan"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "ka nu cape"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "kapanenang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "daék"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ngadangu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:08.757389223Z",
+  "model": "glm-5.3"
+}

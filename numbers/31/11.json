@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung aranjeunna nyandak ⟨את⟩ sadaya rampasan perang jeung ⟨את⟩ sadaya.tarétnéh, boh ti manusa boh ti sato.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya rampasan perang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "rampasan perang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya tarétnéh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "tarétnéh"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ti manusa"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ti sato"
+    }
+  ],
+  "timestamp": "2026-08-26T11:36:07.264344560Z",
+  "model": "glm-5.3"
+}

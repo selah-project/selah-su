@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung nu maéhan sato kudu mayar gantina, jeung nu maéhan manusa kudu dipaéhan.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "jeung nu maéhan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sato"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "kudu mayar gantina"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "jeung nu maéhan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kudu dipaéhan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:39.269734830Z",
+  "model": "glm-5.3"
+}

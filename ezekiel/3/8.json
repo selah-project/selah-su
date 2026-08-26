@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Tempo, Kami geus nyieun ⟨את⟩ iruting anjeun kuat ngalawan iruting maranehna, jeung ⟨את⟩ tarang anjeun kandel ngalawan tarang maranehna.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tempo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "geus nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iruting anjeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iruting anjeun"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "iruting maranehna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tarang anjeun"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "tarang anjeun"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kandel"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "tarang maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:04:32.231427857Z",
+  "model": "glm-5.3"
+}

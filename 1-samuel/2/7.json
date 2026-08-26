@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Yahwe ngarérakeun jeung ngahartakeun, ngahandapkeun malah ngamulyakeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ngarérakeun"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "jeung ngahartakeun"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ngahandapkeun"
+    },
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "ngamulyakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:12:42.364948955Z",
+  "model": "glm-5.3"
+}

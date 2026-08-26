@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung David nyarita ka Shaul: Saha kuring, jeung saha hirup kuring, jeung kulawarga rama kuring di Israél, nepi ka kuring jadi minantu raja?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jeung-saha"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hirup-kuring"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rama-kuring"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di-Israél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "kuring-jadi"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "minantu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka-raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:22.357874277Z",
+  "model": "glm-5.3"
+}

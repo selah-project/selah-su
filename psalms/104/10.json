@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Nu ngirim cinyusu-cinyusu kana lebak-lebak; di antara gunung-gunung arindika ngalir.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Nu ngirim"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "cinyusu-cinyusu"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "kana lebak-lebak"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "arindika ngalir"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:57.082639553Z",
+  "model": "glm-5.3"
+}

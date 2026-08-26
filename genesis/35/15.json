@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Lajeng Yaakov ngaranan ⟨את⟩ ngaran tempat tempat anu ngomong ⟨jeung⟩ éta, di dinya Elohim: Beit-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ngaranan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran tempat éta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "jeung anjeunna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:52.721606214Z",
+  "model": "glm-5.3"
+}

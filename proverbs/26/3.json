@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Cambuk pikeun kuda, kekang pikeun katelah, jeung tungkat pikeun tonggong nu bebalong.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "cambuk"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "pikeun kuda"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "kekang"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "pikeun katelah"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "jeung tungkat"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "pikeun tonggong"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nu bebalong"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:33.433085726Z",
+  "model": "glm-5.3"
+}

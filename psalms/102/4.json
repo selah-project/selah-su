@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Sabab moal tungtung jadi hareuweung poé-poé abdi, jeung tulang abdi saperti seuneu muruweuy beuleum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "moal tungtung"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "jadi hareuweung"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé abdi"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "jeung tulang abdi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "קד",
+      "gloss": "seuneu muruweuy"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "beuleum"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:39.046219762Z",
+  "model": "glm-5.3"
+}

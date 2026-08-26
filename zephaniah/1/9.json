@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 1:9",
+  "book": "zephaniah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung abdi baris ngahukum ka sagala nu ngalangkah luhureun ambang, dina poé harita, nyaéta nu ngeusian imah adul maranehna ku kakerasan sarta tipu.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "jeung-abdi-baris-ngahukum"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הדולג",
+      "gloss": "nu-ngalangkah"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "המפתן",
+      "gloss": "ambang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina-poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "nu-ngeusian"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "adul-maranehna"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kakerasan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "sarta-tipu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:53.153767706Z",
+  "model": "glm-5.3"
+}

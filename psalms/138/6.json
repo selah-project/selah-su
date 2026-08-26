@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 138,
+  "translation": "Sabab luhur Yahwe, tapi nu handap dipitembeyan-Na; nu jungkel ti kajauhan dipikawanoh-Na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רם",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "nu handap"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "dipitembeyan"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "nu jungkel"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "ti kajauhan"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "dipikawanoh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:19.499278470Z",
+  "model": "glm-5.3"
+}

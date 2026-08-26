@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Anjeun diuk, ngeunaan dulur lalaki anjeun nyarita, ngeunaan putra indung anjeun méré paéh-huntu.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "anjeun diuk"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "ngeunaan dulur lalaki anjeun"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ngeunaan putra"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "indung anjeun"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "paéh-huntu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:42.483464650Z",
+  "model": "glm-5.3"
+}

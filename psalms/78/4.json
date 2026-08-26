@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Moal ku urang dipiceun ti anak-anak maranéhna; ka anak incu diomongkeun pujian-pujian Yahwe, jeung kakuatan-Na, jeung kagétan-kagétan-Na nu geus dipigawé-Na.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ku urang dipiceun"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "ti anak-anak maranéhna"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ka anak incu"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "nu saterusna"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "pujian-pujian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "jeung kakuatan-Na"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "jeung kagétan-kagétan-Na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geus dipigawé-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:51.269868811Z",
+  "model": "glm-5.3"
+}

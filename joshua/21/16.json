@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung ⟨את⟩ Ayin jeung ⟨את⟩ taneuh angonna, jeung ⟨את⟩ Yuta jeung ⟨את⟩ taneuh angonna, ⟨את⟩ Beit Shemesh jeung ⟨את⟩ taneuh angonna — kota dalapan-ngeusi-salapan, ti ⟨את⟩ dua suku ieu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Ayin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yuta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "salapan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩",
+      "marks": "dua suku ieu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:06.429623690Z",
+  "model": "glm-5.3"
+}

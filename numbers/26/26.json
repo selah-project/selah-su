@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 26:26",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Putra-putra Zevulun numutkeun margamargana: ti Sered, margana ⟨urang⟩ Seredi; ti Elon, margana ⟨urang⟩ Eloni; ti Yaxleel, margana ⟨urang⟩ Yaxleeli.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "numutkeun margamargana"
+    },
+    {
+      "surface": "לסרד",
+      "gloss": "ti Sered"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "margana"
+    },
+    {
+      "surface": "הסרדי",
+      "gloss": "urang Seredi"
+    },
+    {
+      "surface": "לאלון",
+      "gloss": "ti Elon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "margana"
+    },
+    {
+      "surface": "האלני",
+      "gloss": "urang Eloni"
+    },
+    {
+      "surface": "ליחלאל",
+      "gloss": "ti Yaxleel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "margana"
+    },
+    {
+      "surface": "היחלאלי",
+      "gloss": "urang Yaxleeli"
+    }
+  ],
+  "timestamp": "2026-08-26T11:33:33.772186729Z",
+  "model": "glm-5.3"
+}

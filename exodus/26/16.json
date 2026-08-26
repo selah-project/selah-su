@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Sepuluh éngkal panjang papan ⟨eta⟩, jeung sahiji éngkal satengah lébar papan ⟨eta⟩ anu hiji.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "éngkal"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jeung sahiji éngkal"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "éngkal"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lébar"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "anu hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:19.721411859Z",
+  "model": "glm-5.3"
+}

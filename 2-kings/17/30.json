@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung jalma-jalma Bavel nyieun ⟨את⟩ Sukkot-Benot, jeung jalma-jalma Kut nyieun ⟨את⟩ Nergal, jeung jalma-jalma Hamat nyieun ⟨את⟩ Asyima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "jeung jalma-jalma"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "jeung jalma-jalma"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "jeung jalma-jalma"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asyima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Asyima"
+    }
+  ],
+  "timestamp": "2026-08-26T16:57:45.291672263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 58,
+  "translation": "Malah, di jero ati kajahatan arajeung pigawé; di bumi kakerasan leungeun arajeung arajeung timbangan.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Malah"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di jero ati"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "arajeung pigawé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kakerasan"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "leungeun arajeung"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "arajeung timbangan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:16.301064547Z",
+  "model": "glm-5.3"
+}

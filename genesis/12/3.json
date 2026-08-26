@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Kaula bakal mberkahikeun nu mberkahikeun anjeun, jeung nu ngutuk anjeun Kaula kutuk; jeung ku sabab anjeun sadaya kulawarga di bumé bakal meunang mberkah.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Jeung Kaula bakal mberkahikeun"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "nu mberkahikeun anjeun"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "jeung nu ngutuk anjeun"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "Kaula kutuk"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "jeung bakal meunang mberkah"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku sabab anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di bumé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:02.593772873Z",
+  "model": "glm-5.3"
+}

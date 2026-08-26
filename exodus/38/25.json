@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung pérak nu diitung ti balaréa: saratus talenta, jeung sarébu jeung tujuh ratus jeung lima jeung tujuh puluh syékel, ku syékel suci.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "Jeung pérak"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "nu diitung"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "jeung sarébu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "jeung tujuh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "jeung lima"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "jeung tujuh puluh"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syékel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ku syékel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:49.380217558Z",
+  "model": "glm-5.3"
+}

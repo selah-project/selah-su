@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Ti ⟨את⟩ Yahwe ieu geus jadi; ⟨ieu⟩ ajaib dina panon urang.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ti",
+      "marks": "ieu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "geus jadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ieu⟩"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ajaib"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "dina panon urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.693468329Z",
+  "model": "glm-5.3"
+}

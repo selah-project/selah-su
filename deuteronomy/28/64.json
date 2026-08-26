@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "deuteronomy 28:64",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung Yahwe bakal nyebarkeun anjeun di sakumaha bangsa-bangsa, ti tungtung bumi nepi ka tungtung bumi; jeung di ditu anjeun bakal ngawula ka allah lian nu teu dipikanyaho ku anjeun ogé ku bapak-bapak anjeun — kai jeung batu.",
+  "tokens": [
+    {
+      "surface": "והפיצך",
+      "gloss": "jeung bakal nyebarkeun anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sakumaha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ti tungtung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "jeung anjeun bakal ngawula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di ditu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dipikanyaho ku anjeun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "jeung bapak-bapak anjeun"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jeung batu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:37.538022736Z",
+  "model": "glm-5.3"
+}

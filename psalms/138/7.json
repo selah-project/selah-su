@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 138,
+  "translation": "Lamun kuring leumpang di tengah kasusah Anjeun ngahirupkeun kuring; ngalawan ambekna musuh-musuh kuring Anjeun ngintipkeun leungeun Anjeun, jeung leungeun katuhu Anjeun nyalametkeun kuring.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuring leumpang"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "Anjeun ngahirupkeun kuring"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ambekna"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuh kuring"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "Anjeun ngintipkeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun Anjeun"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "jeung ... nyalametkeun kuring"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "leungeun katuhu Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:19.499460887Z",
+  "model": "glm-5.3"
+}

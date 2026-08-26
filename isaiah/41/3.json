@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Anjeunna ngudag aranjeunna, ngaliwatan kalawan salamet; jalan ku suku-sukuna henteu diasupanan.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "ngudag aranjeunna"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalawan salamet"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ku suku-sukuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "diasupanan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:11.940207432Z",
+  "model": "glm-5.3"
+}

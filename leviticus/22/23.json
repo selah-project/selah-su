@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sapi jeung domba nu kaleuleuwihan anggota atawa kurang anggota — salakah-salakah bisa dijieun ⟨את⟩-na, tapi pikeun nazar moal ditarima.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "jeung domba"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "kaleuleuwihan anggota"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "jeung kurang anggota"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "salakah-salakah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pikeun nazar"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "tapi pikeun nazar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ditarima"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:55.080303860Z",
+  "model": "glm-5.3"
+}

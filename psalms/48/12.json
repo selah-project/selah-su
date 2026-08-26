@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Bakeun gunung Tsiyon bungah, putri-putri Yehuda marihat, alatan putusan-putusan-Mu.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Bakeun … bungah"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "marihat"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "putusan-putusan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:55.061683940Z",
+  "model": "glm-5.3"
+}

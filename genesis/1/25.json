@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Elohim nyieun ⟨את⟩ sato liar bumi nurutkeun kheupna, jeung ⟨את⟩ ingon-ingon nurutkeun kheupna, jeung ⟨את⟩ sagala nu ngarayap taneuh nurutkeun kheupna; jeung Elohim nempo yén hadé.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sato liar bumi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "sato liar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "nurutkeun kheupna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ingon-ingon"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "nurutkeun kheupna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nu ngarayap taneuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nu ngarayap"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nurutkeun kheupna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:33.389929960Z",
+  "model": "glm-5.3"
+}

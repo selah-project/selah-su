@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sabab abdi mawa anjeun naék tina taneuh Mitsrayim, sarta tina imah para abdi dipisikeun anjeun, sarta ngintunkeun méméh anjeun ⟨את⟩ Moshe, Aharon, sarta Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "abdi mawa anjeun naék"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "sarta tina imah"
+    },
+    {
+      "surface": "עבדim",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "dipisikeun anjeun"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "sarta ngintunkeun"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "méméh anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "sarta Miryam"
+    }
+  ],
+  "timestamp": "2026-08-26T14:14:43.356933518Z",
+  "model": "glm-5.3"
+}

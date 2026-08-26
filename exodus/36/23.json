@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Sarta dijieunna ⟨את⟩ ⟨the⟩ karés-karés pikeun kemah: dua puluh karés pikeun sisi kidul, ka beulah tengah daya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sarta dijieunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karés-karés"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "karés-karés"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pikeun kemah"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "karés"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pikeun sisi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kidul"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ka beulah tengah daya"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:59.466967232Z",
+  "model": "glm-5.3"
+}

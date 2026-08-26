@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 23:27",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung kuring mairikan rencana jahat anjeun ti anjeun, jeung ⟨את⟩ pezinaan anjeun ti taneuh Mitsrajim; nepi ka anjeun moal ngangkat panon anjeun ka aranjeunna, jeung Mitsrajim moal anjeun inget deui.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "jeung kuring mairikan"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "rencana jahat anjeun"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "pezinaan anjeun"
+    },
+    {
+      "surface": "זנותך",
+      "gloss": "pezinaan anjeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "תשאי",
+      "gloss": "anjeun ngangkat"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "panon anjeun"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "jeung Mitsrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "anjeun inget"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T13:51:22.826701492Z",
+  "model": "glm-5.3"
+}

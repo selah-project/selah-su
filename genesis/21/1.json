@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Yahwe nganjangkeun ⟨את⟩ Sarah saperti anu geus diomongkeun, sarta Yahwe ngalakukeun ka Sarah saperti anu geus diucapkeun.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Jeung Yahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nganjangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "geus diomongkeun"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "sarta ngalakukeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "ka Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geus diucapkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:58.113593772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Tuluy aranjeunna narik ⟨את⟩ Yirmeyahu ku tali-tali, sarta mawa ⟨את⟩ manéhna naék tina ⟨the⟩ liang; tuluy Yirmeyahu dumuk di buruan panjara.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "narik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "ku tali-tali"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mawa naék"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "tina liang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "liang"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dumuk"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di buruan"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "panjara"
+    }
+  ],
+  "timestamp": "2026-08-26T17:03:20.951490681Z",
+  "model": "glm-5.3"
+}

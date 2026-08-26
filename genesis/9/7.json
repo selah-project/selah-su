@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung anjeun sakalian: buahkeun jeung bitrateukeun, sumebarkeun diri di bumi, jeung bitrateukeun di jerona.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "anjeun sakalian"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "buahkeun"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "jeung bitrateukeun"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "sumebarkeun diri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "jeung bitrateukeun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:13.747792819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Kuring nempatkeun Yahwe sanghareup kuring ka teleng; sabab di leungeun katuhu kuring, moal kuring goyah.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "kuring nempatkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "sanghareup kuring"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka teleng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "di leungeun katuhu kuring"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "goyah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:38.774787370Z",
+  "model": "glm-5.3"
+}

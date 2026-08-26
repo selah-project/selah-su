@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Uzzi nurunkeun ⟨את⟩ Zerachyah, jeung Zerachyah nurunkeun ⟨את⟩ Merajot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "jeung Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachyah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "jeung Zerachyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:12.352673316Z",
+  "model": "glm-5.3"
+}

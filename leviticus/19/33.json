@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung lamun aya nu nyicingan ⟨את⟩ anjeun, jalma dumuk di taneuh anjeun, ulah anjeun nganieunan ⟨את⟩ manéhna.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "nyicingan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "גר",
+      "gloss": "jalma dumuk"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di taneuh anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "anjeun nganieunan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:53.422872559Z",
+  "model": "glm-5.3"
+}

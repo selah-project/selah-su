@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Lamun ⟨manehna⟩ boga dosa kana salah sahiji tina ieu, mangka manehna ngaku dosa nu geus dipigawé nanaon dosa éta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "boga dosa"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ka salah sahiji"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "tina ieu"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "mangka ngaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dipigawé dosana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nanaon éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:20.483139169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Saru barina — naha aya nu ngajawab anjeun? Jeung ka saha ti ⟨nu-nu suci⟩ anjeun baris nyanghareup?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "saru"
+    },
+    {
+      "surface": "נא",
+      "gloss": "barina"
+    },
+    {
+      "surface": "היש",
+      "gloss": "naha aya"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "nu ngajawab anjeun"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "מ קדשים",
+      "gloss": "ti nu-nu suci"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "anjeun nyanghareup"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:24.686350232Z",
+  "model": "glm-5.3"
+}

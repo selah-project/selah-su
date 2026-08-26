@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Hadé ngaran ti minyak anu hadé, sarta poé maot ti poé babar.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ti minyak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "anu hadé"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "sarta poé"
+    },
+    {
+      "surface": "המות",
+      "gloss": "maot"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ti poé"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "babar"
+    }
+  ],
+  "timestamp": "2026-08-26T17:20:43.401713116Z",
+  "model": "glm-5.3"
+}

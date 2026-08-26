@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Manéhna ngéléhkeun ⟨את⟩ Edom di Lembah Uyah — sapuluh rébu — sarta ngawasa ⟨את⟩ Sela dina perang, teras manéhna méré ngaran ⟨את⟩ Yokteél, nepi ka ayeuna ari ieu.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ngéléhkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di Lembah"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Uyah"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "ngawasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sela"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dina perang"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "teras méré ngaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokteél"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yokteél"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna ari ieu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:01.981651129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung upama anjeun nyarita dina ati anjeun: Kumaha urang nyaho ⟨את⟩ ⟨hiji⟩ kecap nu teu diomongkeun ku Yahwe?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "jeung upama"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "anjeun nyarita"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dina ati anjeun"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "urang nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:46:25.704942612Z",
+  "model": "glm-5.3"
+}

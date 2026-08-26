@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 12:30",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung anjeunna nyandak ⟨את⟩ mahkota raja maranéhna ti luhureun mastakana, beuratna sakarér emas aya batu nu aralus, sarta jadi dina luhur mastak Dawud; sarta rampasan kota éta diancrubkeun loba pisan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahkota raja maranéhna"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "raja maranéhna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhureun"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mastakana"
+    },
+    {
+      "surface": "ומשקלה",
+      "gloss": "beuratna"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "sakarér"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "nu aralus"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina luhur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mastaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota éta"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "diancrubkeun"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "loba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:41.524011463Z",
+  "model": "glm-5.3"
+}

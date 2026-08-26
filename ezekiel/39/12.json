@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung balaréa Israél ngubur aranjeunna, sangkan nyucikeun ⟨את⟩ lemah éta, tujuh bulan.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "jeung ngubur aranjeunna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "nyucikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:07:21.793343491Z",
+  "model": "glm-5.3"
+}

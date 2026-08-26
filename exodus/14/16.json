@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Ari anjeun, angkat ⟨את⟩ tungtut anjeun, sarta leungeunkeun ka laut, lajeng belah éta; incu-israil bakal asup ka tengah-tengah laut dina taneuh garing.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ari anjeun"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tungtut anjeun"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tungtut anjeun"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "sarta leungeunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun anjeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "lajeng belah éta"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bakal asup"
+    },
+    {
+      "surface": "בני",
+      "gloss": "incu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "israil"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka tengah-tengah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "dina taneuh garing"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:51.758163028Z",
+  "model": "glm-5.3"
+}

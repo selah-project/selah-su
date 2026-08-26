@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Avshalom ngesa-ngesakeun manéh, jeung manéhna ngirim jeung manéhna ⟨את⟩ Avnon jeung ⟨את⟩ sadaya putra-putra raja.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "jeung ngesa-ngesakeun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "manéh"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "jeung ngirim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung manéhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Avnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadaya putra-putra raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:45.836788666Z",
+  "model": "glm-5.3"
+}

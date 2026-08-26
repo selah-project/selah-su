@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Teu aya omongan, jeung teu aya kecap-kecap — euweuh sora nu kadangu. [baris mamawa kana unggal buumi, omonganana nepi ka tungtung dunya]",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "omongan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung teu aya"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kadangu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sora"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:30.683231238Z",
+  "model": "glm-5.3"
+}

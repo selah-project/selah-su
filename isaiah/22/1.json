@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Beungbeurat Lembah Panyawang: naha ari anjeun kiwari, sabab sakabéh anjeun naik ka hateup-hateup?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Beungbeurat"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Lembah"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Panyawang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "kiwari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "naik"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "sakabéh anjeun"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ka hateup-hateup"
+    }
+  ],
+  "timestamp": "2026-08-26T13:07:19.963257965Z",
+  "model": "glm-5.3"
+}

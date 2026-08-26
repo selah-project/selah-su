@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Sabab tempo, ⟨para⟩ raja kumpul, marikéa ngaliwat babarengan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "kumpul"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:26.735422421Z",
+  "model": "glm-5.3"
+}

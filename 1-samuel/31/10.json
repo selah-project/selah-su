@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Ananjeunna nempatkeun ⟨את⟩ pakakasna di bait Ashtarot, sedengkeun ⟨את⟩ awakna dipasang dina payun bénténg Beit-Syan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "anjeunna nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakakasna"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pakakasna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sedengkeun ⟨את⟩",
+      "marks": "awakna"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "awakna"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "anjeunna dipasang"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "dina panyangan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Syan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:29.467615667Z",
+  "model": "glm-5.3"
+}

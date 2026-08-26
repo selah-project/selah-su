@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung sagala lalaki Yisral, nalika maranehna nempo ⟨את⟩ lalaki éta, kabur ti payuneunana, sarta sieun pisan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "nalika maranehna nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki éta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki éta"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ti payuneunana"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:37.953458730Z",
+  "model": "glm-5.3"
+}

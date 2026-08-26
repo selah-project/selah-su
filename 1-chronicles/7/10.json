@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung putra-putra Yediael: Bilhan; jeung putra-putra Bilhan: Yeush, jeung Binyamin, jeung Ehud, jeung Kenaana, jeung Zetan, jeung Tarshish, jeung Axisahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "jeung Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "jeung Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "jeung Kenaana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "jeung Zetan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "jeung Tarshish"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "jeung Axisahar"
+    }
+  ],
+  "timestamp": "2026-08-26T16:07:55.280465218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Teras Yosef meser ⟨את⟩ palayan-palayanna, ⟨את⟩ nu ngubaran, sangkan mumbuh-mumbuh balsam ka ramana; mangka nu ngubaran mumbuh-mumbuh balsam ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "teras meser"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palayan-palayanna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palayan-palayanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ngubaran"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "nu ngubaran"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "sangkan mumbuh-mumbuh balsam ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "mangka mumbuh-mumbuh balsam"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "nu ngubaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:05.634160688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Di tempat nu pangineusna anjeun kudu ngahakanan éta; sakum lalaki kudu ngahakanan ⟨את⟩na; kadudusan ⟨éta⟩ pikeun anjeun.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "di kadudusan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nu pangineusna"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "anjeun ngahakanan éta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakum"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kudu ngahakanan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩na",
+      "marks": "éta (kadudusan nu pangineusna)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadudusan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:30:56.775316237Z",
+  "model": "glm-5.3"
+}

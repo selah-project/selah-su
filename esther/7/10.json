@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Teras maranéhna ngagantung ⟨את⟩ Haman dina kai nu disiapkeunana pikeun Mordekhai, sarta muruakna amarah raja.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "teras maranéhna ngagantung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "disiapkeunana"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "pikeun Mordekhai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "sarta amarah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "muruakna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:39:03.838065597Z",
+  "model": "glm-5.3"
+}

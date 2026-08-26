@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Elisa ngomong ka anjeunna: Pakeul gandéwa jeung anak panah; sarta anjeunna mawa ka manéhna gandéwa jeung anak panah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "pakeul"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "gandéwa"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "jeung anak panah"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "sarta mawa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "gandéwa"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "jeung anak panah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:37.444387413Z",
+  "model": "glm-5.3"
+}

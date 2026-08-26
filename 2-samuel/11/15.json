@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sarta anjeunna nulis dina surat éta, nyebutkeun: Alokeun ⟨את⟩ Uria ka hareupeun perang nu pangharitna, terus aranjeunna undur tina tukangeunana, supaya anjeunna dipukul jeung paéh.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nulis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dina surat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "alokeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מול",
+      "gloss": "hareupeun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dina hareup"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nu pangharitna"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "anjeun undur"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "tina tukangeunana"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "dipukul"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:29.797311250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Jeung sadaya raja-raja bakal sujud ka anjeunna; sadaya bangsa-bangsa bakal ngawula ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "jeung bakal sujud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "bakal ngawula ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:35.090819550Z",
+  "model": "glm-5.3"
+}

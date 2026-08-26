@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung saurang batur teu meunang ngahakan sakral; bumi-tumpang imahna saurang kahen jeung saurang karyawan teu meunang ngahakan sakral.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung saurang-saurang"
+    },
+    {
+      "surface": "זר",
+      "gloss": "batur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu meunang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sakral"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "bumi-tumpang"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahen"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "jeung karyawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu meunang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sakral"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:15.457074284Z",
+  "model": "glm-5.3"
+}

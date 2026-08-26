@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Jadi manehna ngalemkeun haté maranehna ku kasusah; maranehna ragrag sarta euweuh nu nulungan.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "manehna ngalemkeun"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ku kasusah"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "haté maranehna"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "maranehna ragrag"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sarta euweuh"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "nu nulungan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:01.517378808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung dina taun kalima anjeun bakal dahar ⟨את⟩ buahna, sangkan nambahan ka anjeun hasilna; aing Yahwe, Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "jeung dina taun"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "kalima"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "anjeun bakal dahar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buahna"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahna"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "sangkan nambahan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "hasilna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:32.234783451Z",
+  "model": "glm-5.3"
+}

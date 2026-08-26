@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung anjeunna ngomong: Antepkeun anjeunna; ulah aya nu ngagésér tulangna. Jadi aranjeunna nyalametkeun tulangna sareng ⟨את⟩ tulang nabiy nu datang ti Shomron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna ngomong"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "antepkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "batur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "ngagésér"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "tulangna"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "sarta aranjeunna nyalametkeun"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "tulangna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "ti Shomron"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:42.844372734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung kitu Shimi nyarita bari ngahuca: Kaluar, kaluar, hai jalma getih jeung jalma hina!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "Jeung kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "bari ngahuca"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Kaluar"
+    },
+    {
+      "surface": "צא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung jalma"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "hina"
+    }
+  ],
+  "timestamp": "2026-08-26T12:32:41.080561821Z",
+  "model": "glm-5.3"
+}

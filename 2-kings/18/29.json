@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Kitu pok ⟨ré⟩ raja: ulah antod Chizkiyahu mairan aranjeun, sabab manehna teu sanggup nyalametkeun ⟨את⟩ aranjeun tina leungeunana.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "mairan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aranjeun"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "nyalametkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "tina leungeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:57:41.346366790Z",
+  "model": "glm-5.3"
+}

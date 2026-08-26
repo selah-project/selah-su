@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Jadi ⟨ananjeun⟩ batu tempat nyingkah pikeun kuring, pikeun asup salawasna; Anjeun geus maréntahkeun nyalametkeun kuring, sabab batu kuring jeung bénténg kuring ⟨nya⟩ Anjeun.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun kuring"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "batu tempat nyingkah"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "panginguman"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pikeun asup"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "Anjeun geus maréntahkeun"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "nyalametkeun kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu kuring"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "jeung bénténg kuring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:49.771895015Z",
+  "model": "glm-5.3"
+}

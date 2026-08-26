@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Jeung Shekhem putra Khamor urang Hivi, pangéran nagara ⟨éta⟩, nempo ⟨את⟩ manéhna, lajeng nyandak ⟨את⟩ manéhna, lajeng saré jeung ⟨את⟩ manéhna, sarta ngahina anjeunna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "urang Hivi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pangéran"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lajeng nyandak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "lajeng saré jeung"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "sarta ngahina"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:09.296930752Z",
+  "model": "glm-5.3"
+}

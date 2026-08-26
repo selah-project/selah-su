@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Kuring ngitung sadayana tulang-tulang kuring; maranehna nyaliksik, nempo kana kuring.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "kuring ngitung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulang-tulang kuring"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "nyaliksik"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kana kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:55.216965130Z",
+  "model": "glm-5.3"
+}

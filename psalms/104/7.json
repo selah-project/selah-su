@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Tina hardik-Mu aranjeuna kabur; tina sora guntur-Mu aranjeuna gancang ngompong.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "hardik-Mu"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "aranjeuna kabur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "guntur-Mu"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "aranjeuna gancang ngompong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:35.537012436Z",
+  "model": "glm-5.3"
+}

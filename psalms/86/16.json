@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Silih-pandang ka kuring, jeung asih-aneh ka kuring; alokna kakuatan-Mu ka abdi-Mu, jeung salametkeun putra awéwé palayan-Mu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "silih-pandang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "jeung asih-aneh ka kuring"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "alokna"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuatan-Mu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ka abdi-Mu"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "jeung salametkeun"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "awéwé palayan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:48.947457633Z",
+  "model": "glm-5.3"
+}

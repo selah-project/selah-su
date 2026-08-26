@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sungkeunan ka putra-putra Israil, sarta serekedeun ka maranehna: mangsa anjeun sadaya ngaliwatan ⟨את⟩ Yarden ka tanah Kenaan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sungkeunan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "sarta serekedeun"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun sadaya"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:16.720910306Z",
+  "model": "glm-5.3"
+}

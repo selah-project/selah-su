@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Abdi ngabogaan anjeun di padang belantara, di taneuh nu karing banget.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ngabogaan anjeun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang belantara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "nu karing banget"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:07.076689650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Naha pangaduanna abdi ⟨dituju⟩ ka manusa? sarta upama kitu, balik naha méméh henteu jengkel roh abdi?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "naha abdi"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ka manusa"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "pangaduanna abdi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sarta upama"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "jengkel"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roh abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:10:32.536579428Z",
+  "model": "glm-5.3"
+}

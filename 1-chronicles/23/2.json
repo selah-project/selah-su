@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung manéhna ngumpulkeun ⟨את⟩ sakabéh pangulu-pangulu Israél, jeung para imam, jeung para Léwi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh pangulu-pangulu Israél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangulu-pangulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "jeung para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "jeung para Léwi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:15:43.424505355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "sangkan awak generasi sanggeusna terang, anak-anak nu bakakak lahir, bakal ngadeg sarta nyaritakeun ka anak-anak maranehna,",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "terang"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sanggeusna"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "bakakak lahir"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "sarta nyaritakeun"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ka anak-anak maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:53.787661676Z",
+  "model": "glm-5.3"
+}

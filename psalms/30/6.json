@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Sabab sakejap baé kaambekan-Na, hirup aya dina kanyaah-Na; malem jadi eukeur tangis, tapi isuk rebalan gumbira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sakejap"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "kaambekan-Na"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "dina kanyaah-Na"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "malem"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "jadi eukeur"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "tangis"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "tapi isuk"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rebalan gumbira"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:29.174260196Z",
+  "model": "glm-5.3"
+}

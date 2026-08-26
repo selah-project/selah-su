@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Mihanan ka abdi, wahai Elohim, luyu jeung xesed-Mu; luyu jeung kaayaan rahem-Mu, pupuskeun palanggaran abdi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "mihanan ka abdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "luyu jeung xesed-Mu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "luyu jeung kaayaan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahem-Mu"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pupuskeun"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "palanggaran abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:28.327897016Z",
+  "model": "glm-5.3"
+}

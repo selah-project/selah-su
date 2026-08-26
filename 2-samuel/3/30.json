@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Yoav jeung Avishai sadudulurna maehan Avner, sabab manehna geus maehan ⟨את⟩ Asael dudulur aranjeunna, di Givon, dina perang.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Jeung Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "jeung Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadudulurna"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "maehan"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "ka Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "המית",
+      "gloss": "maehan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asael"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dudulur aranjeunna"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "di Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dina perang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:28.888548152Z",
+  "model": "glm-5.3"
+}

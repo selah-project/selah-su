@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Carita-carita Nechemyah putra Khakalyah. Teras kajadian dina bulan Kisleu, taun kadua puluh, ari abdi aya di Shushan ⟨the⟩ bénténg.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "carita-carita"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Khakalyah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "teras kajadian"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "Kisleu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kadua puluh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ari abdi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "di Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "bénténg"
+    }
+  ],
+  "timestamp": "2026-08-26T15:56:32.335888259Z",
+  "model": "glm-5.3"
+}

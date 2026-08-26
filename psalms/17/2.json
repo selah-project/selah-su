@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Ti payuneun anjeun balik pamadegan abdi mangkat; panon-panon anjeun nempo kajujuran.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Ti payuneun anjeun"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pamadegan abdi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mangkat"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "panon-panon anjeun"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "kajujuran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:54.929943946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lajeng kaluar seuneu ti payuneun Yahwe, sarta ngahakan ⟨את⟩ maranéhna, sarta maranéhna paéh di payuneun Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:57.950075563Z",
+  "model": "glm-5.3"
+}

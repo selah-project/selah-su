@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sarta nu mikanyaho Jenengan-Mu percaya ka Anjeun, sabab Anjeun moal nyinggahan nu milari Anjeun, wahai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "sarta percaya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "nu mikanyaho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "nyinggahan"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "nu milari Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:13.895406826Z",
+  "model": "glm-5.3"
+}

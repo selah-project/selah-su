@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Arindika nginumkeun sadaya sato Médan; kuda-kuda liar ngaleungitkeun haus maranéhanana.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "arindika nginumkeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "sato"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Médan"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ngaleungitkeun"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "kuda-kuda liar"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "haus maranéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:57.082780418Z",
+  "model": "glm-5.3"
+}

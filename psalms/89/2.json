@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Kanyaah satia perjangjian Yahwe kuring uing salawasna; ka turunan-turunan kuring émutkeun kasatiaan Anjeun ku baham kuring.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Kanyaah satia perjangjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuring uing"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ka turunan-turunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jeung turunan"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "kuring émutkeun"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasatiaan Anjeun"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ku baham kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:14.276502976Z",
+  "model": "glm-5.3"
+}

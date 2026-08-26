@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Dulur awéwé Tachpenes midangkeun ka manéhna ⟨את⟩ Genubat putrana, sarta Tachpenes nyapih manéhna di jero imah Paraoh; jadi Genubat aya di imah Paraoh di tengah-tengah putra-putra Paraoh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "midangkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "dulur awéwé"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat putrana"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "nyapih manéhna"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di jero"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:33.176931789Z",
+  "model": "glm-5.3"
+}

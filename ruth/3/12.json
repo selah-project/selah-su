@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ayeuna, memang bener, yen kuring ⟨istri⟩ teu, ari pangbagéa anjeun méméh aya nu leuwih deukeut ti kuring.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "memang bener"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ari"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "pangbagéa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "pangbagéa"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "leuwih deukeut"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:46.972770350Z",
+  "model": "glm-5.3"
+}

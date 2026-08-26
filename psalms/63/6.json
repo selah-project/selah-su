@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Kawas gajih jeung lemak kanyangkeun nefesh abdi, sarta bibir sorak-sorai bungah muji baham abdi.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gajih"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "jeung lemak"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kanyangkeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "sarta bibir"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "sorak-sorai bungah"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "muji"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baham abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:15.389315169Z",
+  "model": "glm-5.3"
+}

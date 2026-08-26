@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Mun anjeun méré adam ka batur anjeun sakedik apa baé, ulah asup ka imahna pikeun nyandak sésana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "méré adam"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ka batur anjeun"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "adam"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "sakedik apa baé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "pikeun nyandak sésana"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "sésana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:48:47.771863787Z",
+  "model": "glm-5.3"
+}

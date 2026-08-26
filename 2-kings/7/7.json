@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Mangka maraneh bangkit sarta kabur dina geringis, ninggalkeun ⟨את⟩ khemah-khemahna jeung ⟨את⟩ kuda-kudana jeung ⟨את⟩ kalda-kaldana — kamp saéstuna sakumaha anu aya — sarta kabur pikeun nyalametkeun nyawana.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "dina geringis"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "ninggalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah-khemahna"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "khemah-khemahna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuda-kudana"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kuda-kudana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kalda-kaldana"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kalda-kaldana"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakumaha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "anu aya"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:52:34.398539032Z",
+  "model": "glm-5.3"
+}

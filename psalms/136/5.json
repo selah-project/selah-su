@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ka Nu nyieun ⟨the⟩ langit-langit ku kasunggulan pikiran, sabab ka satulumikana kanyaah-Na nu satia.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ka Nu nyieun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ku kasunggulan pikiran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka satulumikana"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-Na nu satia"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:04.627708476Z",
+  "model": "glm-5.3"
+}

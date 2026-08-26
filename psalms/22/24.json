@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung anu sieun ka Yahwe, muji Dia; sadaya turunan Yaakov, muliadan Dia; jeung ku sieun ka Anjeunna, sadaya turunan Yisrael.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "anu sieun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "muji Dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turunan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "muliadan Dia"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "jeung ku sieun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:23.039444956Z",
+  "model": "glm-5.3"
+}

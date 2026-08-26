@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Dina paimin-paimin imah Yahwe, di tengah-tengah anjeun, hai Yerushalaim. Hallelu — Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "dina paimin-paimin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "di tengah-tengah anjeun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:22.366383429Z",
+  "model": "glm-5.3"
+}

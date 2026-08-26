@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 7:8",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Efrayim, di antara bangsa-bangsa manehha nyampurkeun diri; Efrayim jadi saperti kuéh ⟨nu dibeuleum dina abu⟩ nu can dibalik.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "יתבולל",
+      "gloss": "nyampurkeun diri"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "kuéh ⟨nu dibeuleum dina abu⟩"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "can"
+    },
+    {
+      "surface": "הפוכה",
+      "gloss": "dibalik"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:40.606902054Z",
+  "model": "glm-5.3"
+}

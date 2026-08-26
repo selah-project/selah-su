@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Nyuhunan abu, haté nu nipu geus ngagiring anjeunna; jeung moal nyalametkeun ⟨את⟩ nyawa awakna, jeung teu bakal ngomong: Naha lain goréng dina leungeun katuhu abdi?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "nyuhunan"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "nu nipu"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "geus ngagiring anjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa awakna"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawa awakna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu bakal"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "naha lain"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goréng"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "dina leungeun katuhu abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:47.125003766Z",
+  "model": "glm-5.3"
+}

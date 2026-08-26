@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "sarta ⟨את⟩ Ebal, sarta ⟨את⟩ Abimael, sarta ⟨את⟩ Sheba,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ebal"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-08-26T17:23:53.247441886Z",
+  "model": "glm-5.3"
+}

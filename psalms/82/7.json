@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 82,
+  "translation": "Tapi saperti manusa maranéhanna bakal paéh, jeung saperti salah sahiji pangawasa maranéhanna baká ragrag.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "saperti manusa"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "bakal paéh"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "jeung saperti salah sahiji"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "bakal ragrag"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:49.720998466Z",
+  "model": "glm-5.3"
+}

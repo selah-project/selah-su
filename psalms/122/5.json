@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 122,
+  "translation": "Sabab di dinya nangtung korsi-korsi pikeun ngadegkeun hukum, korsi-korsi pikeun kulawargi Dawid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "korsi-korsi"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "pikeun ngadegkeun hukum"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "korsi-korsi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pikeun kulawargi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:34.575025018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Kuring mikeun warta bubungah ngeunaan kabeneran di jero jamaah nu loba; tempo, biwir kuring moal kuring tahan, Yahwe, Anjeun nu nyaho.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "kuring mikeun warta bubungah"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ngeunaan kabeneran"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "di jero jamaah"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nu loba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "biwir kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "kuring tahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nu nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:15.068652395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Sieuneun ka ⟨את⟩ Yahwe, umat-umat sucina, sabab euweuh kakurangan pikeun nu sieun ka Anjeunna.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Sieuneun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "umat-umat sucina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kakurangan"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "pikeun nu sieun ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:00.374159766Z",
+  "model": "glm-5.3"
+}

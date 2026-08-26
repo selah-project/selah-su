@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Bulan ⟨anu⟩ ieu mimiti bulan-bulanpikeun anjeun; munggaran ⟨éta⟩ pikeun anjeun di bulan-bulan tahun ⟨anu⟩",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "bulan ⟨anu⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mimiti"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan-bulan"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "munggaran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨éta⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "di bulan-bulan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tahun ⟨anu⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:05.973531799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Axdaz nurunkeun ⟨את⟩ Yara; jeung Yara nurunkeun ⟨את⟩ Alemet, jeung ⟨את⟩ Azmavet, jeung ⟨את⟩ Zimri; jeung Zimri nurunkeun ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "jeung Axdaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yara"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yara"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "jeung Yara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "jeung Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-08-26T16:09:00.946825125Z",
+  "model": "glm-5.3"
+}

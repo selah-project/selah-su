@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 79,
+  "translation": "Arujuan ngocorkeun getihna siga cai sabudeureun Yerushalaim, jeung euweuh nu ngurebkeun.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "arujuan ngocorkeun"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "siga cai"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sabudeureun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "nu ngurebkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:58.587886694Z",
+  "model": "glm-5.3"
+}

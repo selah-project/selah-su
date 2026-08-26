@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 95,
+  "translation": "Urang ngadeukeutan hareup-Na ku sukur, ku mimitatan urang sora kacida ka Anjeunna.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "urang ngadeukeutan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hareup-Na"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ku sukur"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "ku mimitatan"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "urang sora kacida"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:15.951828781Z",
+  "model": "glm-5.3"
+}

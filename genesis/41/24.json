@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Tuluy malai-malai nu laleutik ngahakan ⟨את⟩ tujuh malai nu hadé; jeung abdi nyaritakeunana ka nu nyatet-nyatet ramalan, tapi euweuh nu ngomongkeunana ka abdi.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "tuluy ngahakan"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "malai-malai eta"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "nu laleutik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh malai nu hadé"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "malai-malai"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "nu nyatet-nyatet ramalan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi euweuh"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "nu ngomongkeunana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:18.723852283Z",
+  "model": "glm-5.3"
+}

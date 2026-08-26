@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung ⟨את⟩ Yatir jeung ⟨את⟩ taneuh angonna, jeung ⟨את⟩ Eshtemoa jeung ⟨את⟩ taneuh angonna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:06.429339052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Tapi anjeun, nu ninggalkeun Yahwe, nu poho ka ⟨את⟩ gunung suci kuring; nu nyayagakeun méja pikeun Gad, jeung nu ngeusian pikeun Meni inuman kacampur.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "tapi anjeun"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "nu ninggalkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "nu poho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "suci kuring"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "nu nyayagakeun"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "pikeun Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "jeung nu ngeusian"
+    },
+    {
+      "surface": "למני",
+      "gloss": "pikeun Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "inuman kacampur"
+    }
+  ],
+  "timestamp": "2026-08-26T13:20:50.068190294Z",
+  "model": "glm-5.3"
+}

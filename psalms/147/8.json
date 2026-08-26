@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Nu mungkus langit-langit ku mega, Nyiapkeun pikeun bumi hujan, Nu munggahkeun jukut di pagunungan.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Nu mungkus"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ku mega"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "Nyiapkeun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pikeun bumi"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "Nu munggahkeun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "di pagunungan"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jukut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:26.617337748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Pikeun nu mingpin, dumasar kana 'Rusa Wanci Fajar', mizmor ti Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pikeun nu mingpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dumasar kana"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Rusa"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Wanci Fajar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:42.094882214Z",
+  "model": "glm-5.3"
+}

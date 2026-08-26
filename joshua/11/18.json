@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Poé lila Yéhosua ngalakonan perang ngalawan ⟨את⟩ sadaya raja-raja ieu.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lila"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngalakonan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya raja-raja ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:57:21.342694665Z",
+  "model": "glm-5.3"
+}

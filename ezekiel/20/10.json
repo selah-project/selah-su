@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jadi kuring mawa maranéhna kaluar tina tanah Mitsrajim, sarta mawa maranéhna ka ⟨את⟩ padang belantara.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "kuring mawa maranéhna kaluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "sarta mawa maranéhna ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨את⟩ padang belantara"
+    }
+  ],
+  "timestamp": "2026-08-26T17:05:24.308242388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sabab saha nu bisa dahar, saha nu bisa ngarasakeun kagumbiraan, salain ti Anjeunna?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nu bisa dahar"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "nu bisa ngarasakeun kagumbiraan"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "salain ti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:20:25.764980967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung Novax indit sarta nalukkeun ⟨את⟩ Kénat jeung ⟨את⟩ anak-anak awéwna, sarta nyebat eta kana Novax, dumasar ngaranna.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Jeung Novax"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "sarta nalukkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kénat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kénat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak awéwna"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "anak-anak awéwna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta nyebat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "eta"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novax"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "dumasar ngaranna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:36:18.345954696Z",
+  "model": "glm-5.3"
+}

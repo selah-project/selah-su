@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Mangka manehna nambahan midangkeun sadulurna ⟨את⟩ Hebel; jadi Hebel ngangon domba, ari Kayin jadi tani taneuh.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Mangka manehna nambahan"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "midangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulurna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ngangon"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "ari Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tani, ngawurukeun"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:00.229978908Z",
+  "model": "glm-5.3"
+}

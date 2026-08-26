@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Kaamuk Anjeun numpakan diri ka luhur kuring, sarta ku sagala galura ombak Anjeun geus nganyenyeri kuring. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ka luhur kuring"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "numpakan diri"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Kaamuk Anjeun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta sagala"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "galura ombak Anjeun"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "geus nganyenyeri kuring"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:04.420153656Z",
+  "model": "glm-5.3"
+}

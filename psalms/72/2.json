@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Bakal ngadilan ⟨um⟩at anjeun ku kabeneran, sarta anu miskin ti anjeun ku katangtu hukum.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "bakal ngadilan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨um⟩at anjeun"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ku kabeneran"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "sarta anu miskin ti anjeun"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ku katangtu hukum"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:27.838439186Z",
+  "model": "glm-5.3"
+}

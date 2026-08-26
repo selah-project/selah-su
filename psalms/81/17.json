@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Jeung diparab-Na manéh dahar tina kagendutan ⟨тина⟩ gandum, jeung tina batu madu ku-Eweh kueurang kanyangkeun manéh.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "jeung diparab-Na manéh dahar"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "tina kagendutan"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "jeung tina batu"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "kueurang kanyangkeun manéh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:02.331161579Z",
+  "model": "glm-5.3"
+}

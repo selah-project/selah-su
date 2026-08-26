@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Lamun moal kuring moal percaya nempo ⟨⟨ teu peryogi ⟩⟩ kabecikan Yahwe di bumi nu hirup.",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "lamun moal"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "kuring moal percaya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nu hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:55.082133462Z",
+  "model": "glm-5.3"
+}

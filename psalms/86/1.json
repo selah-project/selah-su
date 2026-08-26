@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Katutulungan (doa) ti Dawid. Sagog ⟨the⟩ ceuli-Mi, Yahwe, jeung jawab abdi, sabab abdi ponting jeung miskin abdi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "sagog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ceuli-Mi"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawab abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ponting"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jeung miskin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:21.016556866Z",
+  "model": "glm-5.3"
+}

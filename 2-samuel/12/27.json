@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Yoab ngirim utusan ka David, sarta nyarita: kuring geus perang ngalawan Rabbah, ogé kuring geus naklukkeun ⟨את⟩ kota cai.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "jeung ngirim"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "kuring geus perang"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "ngalawan Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "kuring geus naklukkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:46.174495827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Horto, tukang-tukang ngangon nu ngancurkeun sarta nyebarkeun ⟨את⟩ domba tina angonan kuring — sabda Yahwe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Horto"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "tukang-tukang ngangon"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "nu ngancurkeun"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "sarta nyebarkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "angonan kuring"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:30:39.125268656Z",
+  "model": "glm-5.3"
+}

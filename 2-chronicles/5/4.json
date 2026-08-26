@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta datang sagala para sepuh Israél, sarta ngangkat urang Léwi ⟨את⟩ éta peti.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "sarta datang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "sarta ngangkat"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Léwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "éta peti"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "peti"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:30.486887794Z",
+  "model": "glm-5.3"
+}

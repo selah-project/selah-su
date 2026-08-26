@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Sabab nu ngumpulkeunana bakal ngahakanana, sarta muji ⟨את⟩ Yahwe; sarta nu ngahimpunana bakal nginumna di pakarangan kasucian-Kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "nu ngumpulkeunana"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ngahakanana"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "muji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "nu ngahimpunana"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "nginumna"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di pakarangan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kasucian-Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T13:19:59.104263951Z",
+  "model": "glm-5.3"
+}

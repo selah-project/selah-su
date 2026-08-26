@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Bapana nyarita ka maranéhna: 'Kana mana jalan anu dilalimpunganana?' Putra-putrana nempo ⟨את⟩ jalan anu dilalimpungan ku jalma Elohim anu datang ti Yehuda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kana mana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "anu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dilalimpunganana"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dilalimpungan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ti Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:31.297552127Z",
+  "model": "glm-5.3"
+}

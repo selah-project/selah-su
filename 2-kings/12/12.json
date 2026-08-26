@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 12:12",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung aranjeuna masrahkeun ⟨את⟩ ⟨ara⟩ artos anu geus ditimbang kana leungeun nu ngalaksanakeun ⟨ara〉 kagiatan, anu ngawasanan ⟨ara⟩ imah Yahwe; aranjeuna medalkeunana pikeun tukang kai jeung tukang batu anu digawé di imah Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "masrahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ara⟩ artos"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨ara⟩ artos"
+    },
+    {
+      "surface": "המתכן",
+      "gloss": "anu geus ditimbang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nu ngalaksanakeun"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "⟨ara⟩ kagiatan"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "anu ngawasanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויוציאהו",
+      "gloss": "medalkeunana"
+    },
+    {
+      "surface": "לחרשי",
+      "gloss": "pikeun tukang"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "jeung tukang batu"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "anu digawé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:24.789976373Z",
+  "model": "glm-5.3"
+}

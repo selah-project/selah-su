@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Laju bumi jigug sarta guncang, sarta pungjungan-pungjungan gunung gunget, laju aranjeunna jigug-jagung, sabab jiwa-Na keuhkeuh panas.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "laju jigug-jagug"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "sarta guncang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "sarta pungjungan-pungjungan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "gunget"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "laju aranjeunna jigug-jagung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "keuhkeuh panas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:24.393610939Z",
+  "model": "glm-5.3"
+}

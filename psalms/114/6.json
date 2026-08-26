@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 114,
+  "translation": "Hai gunung-gunung, naha anjeun ngalumpat salaku domba jantan, hai bukit-bukit, salaku anak dibé?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Hai gunung-gunung"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "ngalumpat"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "salaku domba jantan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "hai bukit-bukit"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "salaku anak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dibé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:17.397964562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Saksi dusta bakal musnah, tapi jalma nu ngadangu bakal ngomong salawasna.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "bakal musnah"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tapi jalma"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "nu ngadangu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakal ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:16.767636715Z",
+  "model": "glm-5.3"
+}

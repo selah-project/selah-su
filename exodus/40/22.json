@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeunna nempatkeun ⟨את⟩ méja dina khemah patepung, di sisi imah-kemah kalér, di luar tirai.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "méja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dina khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "imah-kemah"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "kalér"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "tirai"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:11.046507768Z",
+  "model": "glm-5.3"
+}

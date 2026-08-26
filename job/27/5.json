@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Cox pisan pikeun abdi upami abdi ngabenerkeun ⟨את⟩ aranjeun; nepi ka abdi maot, abdi moal mika kamurnian abdi ti diri abdi.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Cox pisan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "abdi ngabenerkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "abdi maot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "abdi mika"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "kamurnian abdi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti diri abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:13:48.090246035Z",
+  "model": "glm-5.3"
+}

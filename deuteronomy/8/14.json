@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "jeung hate anjeun luhung, sarta anjeun poho ka ⟨את⟩ Yahwe Elohim anjeun, Nu mawa anjeun kaluar tina tanah Mitsrayim, tina imih budak-budak kalawan",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "jeung luhung"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hate anjeun"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "sarta anjeun poho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "Nu mawa anjeun kaluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tina imih"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "budak-budak kalawan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:32.572597979Z",
+  "model": "glm-5.3"
+}

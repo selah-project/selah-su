@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 6:24",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "jeung Yahwe maréntahkeun ka kami ngalaksanakeun ⟨את⟩ sadaya katangtuan-katangtuan ieu, sangkan sieun ka Yahwe, Elohim urang, sangkan hatur nuhadieun ka kami sapanjang poé, sangkan Ngahipu hirup urang saperti poé ieu.",
+  "tokens": [
+    {
+      "surface": "ויצונו",
+      "gloss": "jeung maréntahkeun ka kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya katangtuan-katangtuan ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "katangtuan-katangtuan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "sangkan sieun ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim urang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "sangkan hatur nuhadieun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "לחיתנו",
+      "gloss": "sangkan Ngahipu hirup urang"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "saperti poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:51.442735047Z",
+  "model": "glm-5.3"
+}

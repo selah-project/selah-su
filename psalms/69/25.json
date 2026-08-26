@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Tuangkeun ka aranjeunna murka Anjeun, jeung ngageuleubna amarah Anjeun ngahontal aranjeunna.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Tuangkeun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "murka Anjeun"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "jeung ngageuleubna"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "amarah Anjeun"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ngahontal aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:23.177073835Z",
+  "model": "glm-5.3"
+}

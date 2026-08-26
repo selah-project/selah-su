@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Ka Elohim kuring muji ⟨ה⟩ sabdana; ka Yahwe kuring muji ⟨ה⟩ sabdana.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ka Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "kuring muji"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda-Na"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "kuring muji"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:54.088362231Z",
+  "model": "glm-5.3"
+}

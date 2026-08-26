@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Budi daya kuring di bumi; ulah sumputkeun parentah-parentah-Mu ti kuring.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Budi daya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "sumputkeun"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti kuring"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentah-parentah-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:24.131563480Z",
+  "model": "glm-5.3"
+}

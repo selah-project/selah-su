@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung maranehna baris sirungan di antara jukut, kawas tangkal-arabim di sisi aliran cai.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "jeung maranehna baris sirungan"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "kawas tangkal-arabim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "aliran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:03.809855887Z",
+  "model": "glm-5.3"
+}

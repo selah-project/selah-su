@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Poé ieu aranjeun kaluar, dina bulan Abib.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aranjeun"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:56.300799015Z",
+  "model": "glm-5.3"
+}

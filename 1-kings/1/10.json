@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tapi ⟨את⟩ Natan sang nabi, jeung Benayahu, jeung ⟨את⟩ para jawara, jeung ⟨את⟩ Shelomoh dulurna, teu ditarjamahkeunana — manéhna henteu nyauran.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan sang nabi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "jeung Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para jawara"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "para jawara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh dulurna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulurna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nyauran"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:02.114355738Z",
+  "model": "glm-5.3"
+}

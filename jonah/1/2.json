@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Bangun, indit ka Ninewe, ⟨the⟩ kota nu badag, sarta criewina taruh ka maranéhna, sabab kajahatanana geus naék ka payuneun-Urang.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nu badag"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "sarta criewina"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "taruh ka maranéhna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "geus naék"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "kahajatanana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka payuneun-Urang"
+    }
+  ],
+  "timestamp": "2026-08-26T17:09:06.433326767Z",
+  "model": "glm-5.3"
+}

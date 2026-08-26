@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Maranéhna nempatkeun awakna di langit, sungutna; sarta létahna léngkah-léngkah di bumi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "sungutna"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "sarta létahna"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "léngkah-léngkah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:09.370715575Z",
+  "model": "glm-5.3"
+}

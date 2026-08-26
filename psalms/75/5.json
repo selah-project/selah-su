@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Kuring ngandika ka nu sombong: ulah sombong; jeung ka nu jahat: ulah ngangkat tanduk.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Kuring ngandika"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "ka nu sombong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "sombong"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "jeung ka nu jahat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tanduk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:52.108818805Z",
+  "model": "glm-5.3"
+}

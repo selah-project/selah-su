@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Pasti pisan anjeun ngageregep ⟨את⟩ pangeusi-pangeusi kota éta ku seukeut pedang; tumpeskeun ⟨את⟩ sarta ⟨את⟩ sadaya nu aya di jerona jeung ⟨את⟩ sato-sato na ku seukeut pedang.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "pasti pisan"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "anjeun ngageregep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangeusi-pangeusi kota éta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "pangeusi-pangeusi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku seukeut"
+    },
+    {
+      "surface": "חרrb",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tumpeskeun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kota éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu aya di jerona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aya di jerona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sato-sato na"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "sato-sato na"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku seukeut"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:43.816072169Z",
+  "model": "glm-5.3"
+}

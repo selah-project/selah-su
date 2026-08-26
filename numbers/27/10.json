@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Lamun euweuh sadulur-sadulur pikeun manéhna, jer maraneh masihan ⟨את⟩ warisanna ka sadulur-sadulur ramana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manéhna"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "sadulur-sadulur"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "jer maraneh masihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisanna"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisanna"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ka sadulur-sadulur"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:35:01.758829126Z",
+  "model": "glm-5.3"
+}

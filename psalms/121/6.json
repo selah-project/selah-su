@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 121,
+  "translation": "Beurang panonpoé moal ngahiliwarkeun anjeun, bulan peuting ogé moal.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "beurang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ngahiliwarkeun anjeun"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "peuting"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:27.257833869Z",
+  "model": "glm-5.3"
+}

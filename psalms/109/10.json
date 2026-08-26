@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Jeung anak-anakna ngumbara terus-terusan, jeung ngemis, jeung nyarieun ⟨roti⟩ tina karuntunanana.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "jeung ngumbara"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "ngumbara terus-terusan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "jeung ngemis"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "jeung nyarieun"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "tina karuntunanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:40.141096238Z",
+  "model": "glm-5.3"
+}

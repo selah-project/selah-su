@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Sarta sadaya tanduk nu jahat baris abdi potongkeun; tanduk-tanduk nu bener baris diangkat luhur.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Sarta sadaya"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tanduk"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "baris abdi potongkeun"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "baris diangkat luhur"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduk-tanduk"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:06.531571579Z",
+  "model": "glm-5.3"
+}

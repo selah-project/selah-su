@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung nguriling sapuluh juru ngora nu mawa parabot Yoab, mariksa ngabeledugkeun ⟨את⟩ Avshalom, jeung maéhanana.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "jeung nguriling"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "juru ngora"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nu mawa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "jeung ngabeledugkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "jeung maéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:54.415681117Z",
+  "model": "glm-5.3"
+}

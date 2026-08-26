@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Terus Elohum inget ka ⟨את⟩ Noach, jeung ⟨את⟩ sagala nu hirup, jeung ⟨את⟩ sagala ingon-ingon nu ⟨את⟩ paturut dina bahtera, sarta Elohum nyirian angin ngaliwatan bumi, tur cai ngarandapan.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "inget"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nu hirup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagala ingon-ingon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paturut"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "dina bahtera"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "nyirian ngaliwatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "ngarandapan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:58.634256579Z",
+  "model": "glm-5.3"
+}

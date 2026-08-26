@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Teras Akan ngajawab ⟨את⟩ Yehosua sarta nyarita: Leres pisan, abdi geus dosa ka Yahwe, Elohim-na Israél, sarta kieu jeung kieu anu abdi pigawé.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Leres pisan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "geus dosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "kieu"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "jeung kieu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "abdi pigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:55:09.892611320Z",
+  "model": "glm-5.3"
+}

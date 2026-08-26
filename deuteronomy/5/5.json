@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Abdi nangtung di antara Yahwe jeung di antara aranjeun dina waktu harita, pikeun ngombarkeun ka aranjeun ⟨את⟩ kecap Yahwe, sabab aranjeun sieun ka ⟨the⟩ seuneu jeung teu naek ka gunung, nyarita.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "jeung di antara aranjeun"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "pikeun ngombarkeun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "anjeun sieun"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "anjeun naek"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ka gunung"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:24.479399538Z",
+  "model": "glm-5.3"
+}

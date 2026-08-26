@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung aranjeun ngajaga ⟨את⟩ jagaan kadiran jeung ⟨את⟩ jagaan mizbeach, supaya henteu jadi aya deui kasebel ka putra-putra Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Jeung aranjeun ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jagaan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "jagaan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kadiran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "jagaan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "jagaan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya henteu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kasebel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T11:31:08.125944577Z",
+  "model": "glm-5.3"
+}

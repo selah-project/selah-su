@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Manéhna ngangkat matana, tuluy nempo ⟨את⟩ jalma nu ngumbara di lapang-témbok kota; lajeng jalma kolot éta ngomong: Ka mana anjeun indit, jeung ti mana datang?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma nu ngumbara"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "nu ngumbara"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "di lapang-témbok"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ka mana"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "anjeun indit"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "jeung ti mana"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "datang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:10:53.420376211Z",
+  "model": "glm-5.3"
+}

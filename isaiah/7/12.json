@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Tapi Axaz nyarios: Teu abdi pénta, jeung teu abdi ngécés Yahwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "abdi pénta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "abdi ngécés"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:31.343114433Z",
+  "model": "glm-5.3"
+}

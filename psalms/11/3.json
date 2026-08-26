@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sabab pasak-pasak geus diruntuhkeun — nu bener, naon nu dipigawé?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "pasak-pasak"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "diruntuhkeun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "dipigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:36.968029916Z",
+  "model": "glm-5.3"
+}

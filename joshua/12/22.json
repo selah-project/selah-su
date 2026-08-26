@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Raja ⟨ieu⟩ Kedesh, hiji; raja ⟨ieu⟩ Yokneam di Karmel, hiji;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "di Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:57:09.553343413Z",
+  "model": "glm-5.3"
+}

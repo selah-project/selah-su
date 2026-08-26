@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Moal aya nu misbari jeung nu mandul di bumi anjeun; ⟨את⟩ bilangan poé-poé anjeun Abdi kawiskeun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "nu misbari"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "jeung nu mandul"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di bumi anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilangan poé-poé anjeun"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangan"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "poé-poé anjeun"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "Abdi kawiskeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:56.233788818Z",
+  "model": "glm-5.3"
+}

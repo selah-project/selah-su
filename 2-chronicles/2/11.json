@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 2:11",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Teras Huram nyarios: Pinuhun Yahwe, Elohim Israél, nu nyieun ⟨את⟩ langit-langit jeung ⟨את⟩ bumi, nu masihan ka Dawid sang raja putra nu wijaksana, nu ngaweruh akal jeung pamahaman, nu bakal ngawangun imah pikeun Yahwe sarta imah pikeun karajaanana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "teras nyarios"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "pinuhun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit-langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "masihan"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ka Dawid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nu wijaksana"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nu ngaweruh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "akal"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "jeung pamahaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bakal ngawangun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "sarta imah"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "pikeun karajaanana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:15.127765849Z",
+  "model": "glm-5.3"
+}

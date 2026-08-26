@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anjeun nyaho ⟨את⟩ Avner putra Ner, yén manéhna datang pikeun méréso anjeun, jeung pikeun nyaho ⟨את⟩ kaluarna anjeun jeung ⟨את⟩ asupna anjeun, jeung pikeun nyaho ⟨את⟩ sadaya nu anjeun pigawé.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "méréso anjeun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "jeung pikeun nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluarna anjeun"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "kaluarna anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "asupna anjeun"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "asupna anjeun"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "jeung pikeun nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:25.102819312Z",
+  "model": "glm-5.3"
+}

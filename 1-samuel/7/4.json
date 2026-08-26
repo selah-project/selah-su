@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Tuluy putra-putra Israél ngapingping ⟨את⟩ nu Baal sarta ⟨את⟩ nu Ashtarot, sarta ngabdi ka ⟨את⟩ Yahwe wunggul.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Tuluy ngapingping"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "nu Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "nu Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "sarta ngabdi ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wunggul"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:50.569118570Z",
+  "model": "glm-5.3"
+}

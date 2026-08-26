@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Saha nu mawa aing ka kota bénténg? Saha nu mawa aing nepi ka Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "nu mawa aing"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ka kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "benténg"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "nu mawa aing"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:22.370544408Z",
+  "model": "glm-5.3"
+}

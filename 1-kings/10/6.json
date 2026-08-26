@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Mangka anjeunna ngomong ka raja: bener temen ⟨⟨euweuh⟩⟩ kecap-kecap nu kuring geus ngadenge dina nagari kuring, ngeunaan omongan-Mi jeung hikmah-Mi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Mangka anjeunna ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bener temen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨euweuh⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuring geus ngadenge"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "dina nagari kuring"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "omongan-Mi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ngeunaan"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikmah-Mi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:03.874628272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Sabab lamun suci-suci dunggir kana sora-na, sarta ngalakonan sadaya nu Kuring omongkeun, mangka Kuring jadi musuh pikeun musuh aranjeun, sarta Kuring nyarieun ngalawan nu nyarieun aranjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "suci-suci"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dunggir"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "kana sora-na"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "sarta ngalakonan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "Kuring omongkeun"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "Kuring jadi musuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuh aranjeun"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh aranjeun"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "sarta Kuring nyarieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu nyarieun aranjeun"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "nu nyarieun aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:03.499437078Z",
+  "model": "glm-5.3"
+}

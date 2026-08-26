@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 117,
+  "translation": "Pupujian ka Yahwe, sadaya bangsa-bangsa; sanggulangkeun anjeunna, sadaya umat-umat!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "sanggulangkeun anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "umat-umat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:42.029539116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Sing caayan pohoco anjeun ka luhur hamba anjeun; sing salametkeun abdi dina kanyaah satia anjeun.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "sing caayan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pohoco anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba anjeun"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sing salametkeun abdi"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "dina kanyaah satia anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:42.510846345Z",
+  "model": "glm-5.3"
+}

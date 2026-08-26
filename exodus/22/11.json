@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Tapi lamun mémang dicuri ti pananganana, manehna kudu mayar ganti ka nu bogana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tapi lamun"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "mémang dicuri"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "dicuri"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ti pananganana"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mayar ganti"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ka nu bogana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:25.596779561Z",
+  "model": "glm-5.3"
+}

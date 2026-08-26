@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Poé raja urang! Para pangulu geus karanaan ku paranas anggur; manjangan leungeunana jeung ⟨nu ngalecehkeun⟩.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "raja urang"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "karanaan"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "paranas"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "משך",
+      "gloss": "manjangan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ngalecehkeun"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "nu ngalecehkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:40.606209997Z",
+  "model": "glm-5.3"
+}

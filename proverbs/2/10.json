@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sabab hikmah asup ka jero ati anjeun, jeung pangaweruh jadi ngahbur kana ⟨nefesh⟩ anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ka jero ati anjeun"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "jeung pangaweruh"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ka ⟨nefesh⟩ anjeun"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "jadi ngahbur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:27.040473083Z",
+  "model": "glm-5.3"
+}

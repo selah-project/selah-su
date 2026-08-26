@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung ⟨את⟩ Athalyahu ngadangu ⟨את⟩ sora jalma rakyat nu ngajoged-ngajoged muji ⟨את⟩ jeung muji ⟨את⟩ raja, jeung anjeunna asup ka jalma rakyat aya di imah Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן ותשמע",
+      "gloss": ""
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "⟨את⟩ Athalyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma rakyat"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "nu ngajoged-ngajoged"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "⟨את⟩ jeung muji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma rakyat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:25:18.631965607Z",
+  "model": "glm-5.3"
+}

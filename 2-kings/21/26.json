@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung maranéhna ngurebkeun ⟨את⟩ manéhna di tempat dipureunkeunana, di kebon Uza; saterasna Yoasyah anakna jadi raja minggihanana.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Jeung maranéhna ngurebkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "di tempat dipureunkeunana"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di kebon"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoasyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "minggihanana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:58.733601879Z",
+  "model": "glm-5.3"
+}

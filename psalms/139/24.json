@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Jeung nempoan upama aya jalan nu nyeri di jeron kuring, terus pibingbing kuring dina jalan nu langgeng",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "jeung nempoan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "nu nyeri"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di jeron kuring"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "terus pibingbing kuring"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nu langgeng"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:56.521230816Z",
+  "model": "glm-5.3"
+}

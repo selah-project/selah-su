@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ mézbéach korban bakar kai akasia, panjangna lima hasta jeung lébarna lima hasta, pasagi, jeung jangkungna tilu hasta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Jeung anjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mézbéach korban bakar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mézbéach"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "jeung lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lébarna"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pasagi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jangkungna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:07.567193751Z",
+  "model": "glm-5.3"
+}

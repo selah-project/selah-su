@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Cupu alusna khemah-khemah anjeun, ya Yaakov, panginggungan-panginggungan anjeun, ya Yisrael!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "cupu"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "alusna"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "khemah-khemah anjeun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "panginggungan-panginggungan anjeun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T11:33:04.164555418Z",
+  "model": "glm-5.3"
+}

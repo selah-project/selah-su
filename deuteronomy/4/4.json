@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung arinyana nu napel kana Yahwe Elohim arinyana — hirup, arinyana sadayana, ayeuna.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "jeung arinyana"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "nu napel"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kana Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim arinyana"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "arinyana sadayana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:31.981920156Z",
+  "model": "glm-5.3"
+}

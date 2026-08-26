@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung nalika cisek turun ka ⟨the⟩ kamp bengi, manna ogé turun ka luhureunana.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "jeung nalika turun"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "cisek"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bengi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka luhureunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:31.896072748Z",
+  "model": "glm-5.3"
+}

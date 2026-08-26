@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung kuring nembong ka Avraham, ka Yitsxak, jeung ka Yaakov salaku El Shadday, tapi ku ngaran kuring Yahwe kuring can kanyahoan ku maranehna.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "kuring nembong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "באל",
+      "gloss": "salaku"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "El Shadday"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ku ngaran kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "can"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "kuring kanyahoan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:50.120373002Z",
+  "model": "glm-5.3"
+}

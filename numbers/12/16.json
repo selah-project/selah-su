@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sapsapna rahayat indit ti Xatserot, sarta aranjeunna nempatan di gurun Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "sapsapna"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahayat"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "Xatserot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nempatan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:50.711576403Z",
+  "model": "glm-5.3"
+}

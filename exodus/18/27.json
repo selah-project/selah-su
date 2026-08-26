@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Teras Moshe ngantunkeun ⟨את⟩ ramana-in-law, sarta manehna indit balik ka nagarina sorangan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngantunkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramana-in-law"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ramana-in-law"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "manehna indit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "balik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nagarina sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:34.126920190Z",
+  "model": "glm-5.3"
+}

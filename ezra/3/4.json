@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Maranéhna ogé ngarayakeun ⟨את⟩ pesta Sukot sakumaha anu katulis, jeung kurban bakar poé-demi-poé nganomer luyu jeung katangtuan, prakawis unggal poé dina poéna.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngarayakeun (ngalaksanakeun)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesta Sukot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pesta"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "sakumaha anu katulis"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "jeung kurban bakar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "demi-poé"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "nganomer"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "luyu jeung katangtuan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "prakawis"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "dina poéna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:52:18.602290298Z",
+  "model": "glm-5.3"
+}

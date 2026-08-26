@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Dina Anjeun, Yahwe, kuring nyingkah pabalatak; ulah kuring kaemieun salawasna.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Dina Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kuring nyingkah pabalatak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "kuring kaemieun"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:49.771445839Z",
+  "model": "glm-5.3"
+}

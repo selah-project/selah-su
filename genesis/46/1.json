@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Lajeng Israil indit jeung sagala nu dipibogana, sarta sumping ka Beér-Sheba, lajeng ngalaksanakeun kurban-kurban ka Elohim bapana, nyaéta ka Yitsxak.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "lajeng indit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dipibogana"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sumping ka"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "Beér-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ngalaksanakeun kurban"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "kurban-kurban"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:01.805193926Z",
+  "model": "glm-5.3"
+}

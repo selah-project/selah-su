@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Kuring ngabersekeun leungeun kuring ku kamurnian, sarta ngurilingan ⟨את⟩ altar Anjeun, Yahye—Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "kuring ngabersekeun"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ku kamurnian"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "leungeun kuring"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "sarta ngurilingan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar Anjeun"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altar Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:13.553185748Z",
+  "model": "glm-5.3"
+}

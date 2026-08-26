@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sarta Mitsrayim ngudag maranéhna, sarta ngahontal maranéhna keur eureur di sisi laut — sagala kuda, kereta Paroh, sarta tukang naék kudana, satantra balad-na — di Pi-HaKhiroth, di payune Baal-Tsefon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "ngudag"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sanggeus maranéhna"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "ngahontal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "keur eureur"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "sarta tukang naék kudana"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "sarta balad-na"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pangbukanna (Pi-)"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "HaKhiroth"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payune"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:58.027847439Z",
+  "model": "glm-5.3"
+}

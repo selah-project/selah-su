@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "jeung ⟨את⟩ dua ginjal, jeung ⟨את⟩ lemak nu aya dina aranjeunna, nu di eta pingping, jeung ⟨את⟩ lambeut-ati dina eta ati — bareng jeung eta ginjal manéhna ngaleupaskeunana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "dua ginjal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "eta-lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "eta-lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "dina-aranjeunna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "eta-pingping"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "eta-lambeut-ati"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "eta-lambeut-ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "eta-ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "eta-ginjal"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ngaleupaskeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:45.742047648Z",
+  "model": "glm-5.3"
+}

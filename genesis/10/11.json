@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Ti taneuh éta Ashshur kaluar, sarta ngawangun ⟨את⟩ Ninewe, jeung ⟨את⟩ Rekhobot-Ir, jeung ⟨את⟩ Kelakh.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "sarta ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninewe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Rekhobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rekhobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir (kota)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kelakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelakh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:02.298186444Z",
+  "model": "glm-5.3"
+}

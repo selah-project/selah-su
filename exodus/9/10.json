@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung aranjeunna nyandak ⟨את⟩ jipa tina tungku, sarta nangtung di payune Paroh; jeung Moshe mintingkeunana ka langit, jadi bisul buntul-buntul nu ngabeledug di manusa jeung di ingon-ingon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "jeung aranjeunna nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jipa tina tungku"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "jipa"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "tina tungku"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "sarta nangtung"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payune"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "jeung mintingkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩na",
+      "marks": "jipa éta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ka langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bisul"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "buntul-buntul"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "nu ngabeledug"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "di manusa"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "jeung di ingon-ingon"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:28.098236097Z",
+  "model": "glm-5.3"
+}

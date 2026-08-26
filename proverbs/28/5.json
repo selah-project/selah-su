@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jalma-jalma jahat teu ngartos ⟨the⟩ putusan, tapi nu milari Yahwe ngartos sagalana.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ngartos"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "putusan"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "nu milari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ngartos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:55.313084223Z",
+  "model": "glm-5.3"
+}

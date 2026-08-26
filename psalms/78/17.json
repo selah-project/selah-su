@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Tuluy maranéhna nambahan deui dosa ka ⟨Anjeunna⟩, pikeun barontak ka Elyon di tempat anu karing.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "nambahan deui"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "barontak"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "di tempat anu karing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:58.743599576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Anjeun ngawasa dina kagumirungan laut; nalika galura-galurana ngangkat, Anjeun nu mairan aranjeunna.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ngawasa"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "dina kagumirungan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "nalika ngangkat"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "galura-galurana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "nu mairan aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:13.598291500Z",
+  "model": "glm-5.3"
+}

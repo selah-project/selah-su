@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Roti nu-munawis teuwas dimakan ku ⟨anggo⟩ jalma; sangu geus dikirimkeun ka aranjeulana tepi ka wareg.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "nu-munawis"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anggo jalma"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "sangu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dikirimkeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka aranjeulana"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tepi ka wareg"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:58.793785458Z",
+  "model": "glm-5.3"
+}

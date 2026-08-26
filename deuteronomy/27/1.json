@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Teras Moshe sarta para sepuh Yisrael mesat paréntah ka ⟨את⟩ kaum éta, ngandika: Piharimon ⟨את⟩ sagala parentah nu kuring maréntahkeun ⟨את⟩ ka arinyana poé ieu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mesat paréntah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "sarta para sepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaum éta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum éta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "piharimon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala parentah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka arinyana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:42.609376753Z",
+  "model": "glm-5.3"
+}

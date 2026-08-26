@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Sarta Zikhri, jalma sakti ti Efrayim, maéhan ⟨את⟩ Maasyahu putra ⟨the⟩ raja, jeung ⟨את⟩ Azriqam pangawasa imah, jeung ⟨את⟩ Elqana anu kadua sanggeus raja.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "sarta maéhan"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jalma sakti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maasyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Azriqam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azriqam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Elqana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "anu kadua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sanggeus raja"
+    }
+  ],
+  "timestamp": "2026-08-26T16:29:55.662252036Z",
+  "model": "glm-5.3"
+}

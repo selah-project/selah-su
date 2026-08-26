@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Di Elohim kuring muji ⟨את⟩ sabdana; di Elohim kuring nempatkeun percaya; moal kuring sieun — naon anu dipigawé daging ka kuring?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "kuring muji"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sabdana"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kuring nempatkeun percaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kuring sieun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:04.999823586Z",
+  "model": "glm-5.3"
+}

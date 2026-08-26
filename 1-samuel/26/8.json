@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Mangka Avishay ngomong ka Dawid: Elohim nungkel ayeuna ⟨את⟩ musuh anjeun kana leungeun anjeun; ayeuna ogé, kumaha waé, antebkeun baé kana taneuh ku tumbak sahartap, moal kudu dua kali ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mangka … ngomong"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nungkel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuh anjeun"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "musuh anjeun"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "kana leungeun anjeun"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna ogé"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "antebkeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kumaha waé"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "ku tumbak"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "kana taneuh"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "sahartap"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "kudu dua kali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:55.440010967Z",
+  "model": "glm-5.3"
+}

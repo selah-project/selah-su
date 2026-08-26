@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung manéh dariakeun ti dinya hiji tina unggal korban, ⟨perengan⟩ teruma ka Yahwe; ka kohen nu nyiramkeun ⟨את⟩ getih shelamim — éta jadi milik-na.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "jeung manéh dariakeun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tina unggal"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ka kohen"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "nu nyiramkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "milik-na"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:25.740818272Z",
+  "model": "glm-5.3"
+}

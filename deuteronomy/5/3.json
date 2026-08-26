@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Henteu jeung ⟨את⟩ bapak-bapak urang Yahwe ngamotong ⟨את⟩ perjangjian ieu, tapi ⟨את⟩ jeung urang — urang, ieu jalma-jalma, di dieu, ayeuna, sakabeh urang hirup.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapak-bapak urang"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bapak-bapak urang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ngamotong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian ieu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ jeung urang"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "urang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu jalma-jalma"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di dieu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "sakabeh urang"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:33.114931864Z",
+  "model": "glm-5.3"
+}

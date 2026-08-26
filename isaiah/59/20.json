@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Jeung datang ka Tzion nu Ngabebas, jeung ka nu balik deui ti pabalanggaran di antara Yaakov — oracle Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "jeung datang"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "ka Tzion"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "nu Ngabebas"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "jeung ka nu balik deui"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pabalanggaran"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di antara Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:18:28.389787054Z",
+  "model": "glm-5.3"
+}

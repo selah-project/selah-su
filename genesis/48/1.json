@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Sanggeus perkara-perkara ieu, aya nu nyarita ka Yosef: Tingali, bapa anjeun gering. Terus anjeunna nyandak ⟨את⟩ dua putrana babarengan jeung anjeunna, ⟨את⟩ Menashe jeung ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ka Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tingali"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "gering"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua putrana"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarengan jeung anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:37.060148836Z",
+  "model": "glm-5.3"
+}

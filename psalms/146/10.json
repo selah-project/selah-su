@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 146,
+  "translation": "Yahwe bakal jadi raja salawasna — Elohim anjeun, waé Tsiyon — turun-tumurun kana anak-incu; pujikeun Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "bakal jadi raja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "turun-tumurun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kana anak-incu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujikeun"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:41.152255152Z",
+  "model": "glm-5.3"
+}

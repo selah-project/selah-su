@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Ayeuna, sanggeus surat ieu nepi ka anjeun, jeung aya jeung anjeun ⟨את⟩ putra-putra adi pamimpin anjeun (pamingpin anjeun), jeung aya jeung anjeun ⟨את⟩ kareta perang jeung kuda-kuda, sarta kota bénteng jeung sanjata —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ayeuna"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "sanggeus nepi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra pamingpin anjeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "pamingpin anjeun"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kareta perang jeung kuda-kuda"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kareta perang"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "jeung kuda-kuda"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "sarta kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "bénteng"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "jeung sanjata"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:00.621832395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung anjeunna ngirim ⟨את⟩ budak-budak lalaki Bani Israil, jeung aranjeunna nyalikeun kurban bakar, jeung aranjeunna nyembelih kurban salamet pikeun Yahwe, sapi-sapi ngora.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak-budak lalaki"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "budak-budak lalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani\/anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nyalikeun\/nawa­ngkat"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "nyembelih"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "kurban-kurban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "salamet\/damé"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "sapi-sapi ngora"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:56.931026466Z",
+  "model": "glm-5.3"
+}

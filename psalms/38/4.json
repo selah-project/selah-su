@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Euweuh nu séhat dina daging abdi alatan kaduhékan-Mu; euweuh wilujeng dina tulang abdi alatan dosa abdi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "nu séhat"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dina daging abdi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kaduhékan-Mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wilujeng"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "dina tulang abdi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:15.894881546Z",
+  "model": "glm-5.3"
+}

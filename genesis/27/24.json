@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Teras ngomong: Anjeun ⟨ieu⟩ putra kuring Esav? Terus ngomong: Kuring.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "teras-ngomong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-kuring"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "terus-ngomong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:51.135046660Z",
+  "model": "glm-5.3"
+}

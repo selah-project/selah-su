@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Yahwe nyaho ⟨the⟩ poé-poé nu tuntas, tur warisan ⟨maranehna⟩ bakal aya salawasna.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "nu tuntas"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "tur warisan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal aya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:37.792537857Z",
+  "model": "glm-5.3"
+}

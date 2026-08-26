@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 42:37",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Terus Reuen nyarita ka bapana, sangkan: ⟨את⟩ dua putra abdi pateuh mun abdi henteu mawa manéhna ka anjeun; serkeun manéhna kana leungeun abdi, jeung abdi barulikkeun manéhna ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "terus nyarita"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua putra abdi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra abdi"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "pateuh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "mawa manéhna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "serkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun abdi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeung abdi"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "barulikkeun manéhna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:19.724550042Z",
+  "model": "glm-5.3"
+}

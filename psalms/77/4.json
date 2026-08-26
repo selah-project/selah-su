@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Kuring éling ka Elohim jeung ngarungkun; kuring neuteup rarancag, jeung ruach kuring leungit kuatna. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "kuring éling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "jeung ngarungkun"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "kuring neuteup rarancag"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "jeung leungit kuatna"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruach kuring"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:48.705715971Z",
+  "model": "glm-5.3"
+}

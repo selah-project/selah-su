@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung maot ogé duanana, Machlon jeung Kilyon, sahingga awéwé éta nganinggal ti dua budakna jeung ti salakina.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "jeung maot ogé"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duanana"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "jeung Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "sahingga nyaninggal"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé ⟨éta⟩"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ti dua"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "budakna"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "jeung ti salakina"
+    }
+  ],
+  "timestamp": "2026-08-26T15:25:13.352692966Z",
+  "model": "glm-5.3"
+}

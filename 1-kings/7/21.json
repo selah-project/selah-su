@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Lajeng manéhna ngadegkeun ⟨את⟩ tiang-tiang di lobi bait suci; manéhna ngadegkeun ⟨את⟩ tiang katuhu, sarta ngaranan ⟨את⟩ ngaranna Yakhi; jeung manéhna ngadegkeun ⟨את⟩ tiang kénca, sarta ngaranan ⟨את⟩ ngaranna Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lajeng ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "di lobi"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "bait suci"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang katuhu"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "katuhu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta ngaranan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "jeung ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang kénca"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "kénca"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta ngaranan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:28.941664152Z",
+  "model": "glm-5.3"
+}

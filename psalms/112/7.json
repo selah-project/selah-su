@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": " Tina carita goreng ⟨anjeunna⟩ moal sieun; ati-na kaciwi, nyumba ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "tina carita"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "goreng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kaciwi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ati-na"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:05.917707081Z",
+  "model": "glm-5.3"
+}

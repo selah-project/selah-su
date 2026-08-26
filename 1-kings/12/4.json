@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "\"Bapa anjeun ngeuneungkeun ⟨את⟩ kuk urang; ari anjeun ayeuna sing énggal-ngahiliwir tina pagawéan beurat bapa anjeun jeung tina kuk beurat nu dipasang ka urang, jeung urang baris ngawula ka anjeun.\"",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ngeuneungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk urang"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "kuk urang"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ari anjeun"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "sing énggal-ngahiliwir"
+    },
+    {
+      "surface": "مעבדת",
+      "gloss": "tina pagawéan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "jeung tina kuk"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipasang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "jeung urang baris ngawula ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:44.588142767Z",
+  "model": "glm-5.3"
+}

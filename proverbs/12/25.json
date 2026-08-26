@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Kakawasayeun dina ati saurang jelema nyundaykeunana, tapi kecap nu hadé ngabungbangkeunana.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "kakawasayeun"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dina ati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang jelema"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "nyundaykeunana"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "tapi kecap"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "ngabungbangkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:24.726444603Z",
+  "model": "glm-5.3"
+}

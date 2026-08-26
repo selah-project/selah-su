@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tuluy urang Yahudi nampa ⟨את⟩ naon nu geus maranéhna mimiti ngalakukeun, jeung ⟨את⟩ naon nu ditulis Mordekhay ka maranéhna.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "tuluy nampa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "urang Yahudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naon nu geus maranéhna mimiti ngalakukeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "naon nu"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "geus maranéhna mimiti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "naon nu ditulis Mordekhay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "naon nu"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ditulis"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:21:58.416701088Z",
+  "model": "glm-5.3"
+}

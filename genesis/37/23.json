@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jadi lamun Yusuf geus datang ka dulur-dulurna, maranehna ngosokan ⟨את⟩ Yusuf, ⟨את〉 jasna — jas nu matuker-matuker nu aya dina awakna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulur-dulurna"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ngosokan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusuf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jasna"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "jasna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jas"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "jas"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "nu matuker-matuker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dina awakna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:15.406401195Z",
+  "model": "glm-5.3"
+}

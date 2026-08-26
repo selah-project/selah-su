@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lajeng abdi ngangkat ⟨את⟩ panon, sarta abdi nempo, jeung katanya saurang lalaki maké baju linen, jeung caingeunana dikait ku emas Upaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "lajeng abdi ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "sarta abdi nempo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung katanya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "maké baju"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "linen"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "jeung caingeunana"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "dikait"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ku emas"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Upaz"
+    }
+  ],
+  "timestamp": "2026-08-26T17:23:01.969298592Z",
+  "model": "glm-5.3"
+}

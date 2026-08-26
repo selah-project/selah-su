@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung aranjeunna nyarita: Naha ngan dina Moshe wungkul Yahwe ngomong? Naha henteu ogé ka kami ⟨׃⟩ jeung Yahwe ngadangu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung aranjeunna nyarita"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "naha ngan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "wungkul"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "dina Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "naha henteu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "jeung ngadangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:25.924970720Z",
+  "model": "glm-5.3"
+}

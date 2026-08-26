@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Naha korsi kajahatan bakal ngahiji jeung anjeun, nu ngawangun kasusahan dumasar parentah?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "bakal ngahiji jeung anjeun"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "korsi"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nu ngawangun"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dumasar"
+    },
+    {
+      "surface": "חק",
+      "gloss": "parentah"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:24.250022239Z",
+  "model": "glm-5.3"
+}

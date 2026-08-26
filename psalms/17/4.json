@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Ngeunaan parabot manusa, ku kecap tina biwir anjeun abdi ngajaga diri tina jalan jalma nu ganas.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Ngeunaan parabot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ku kecap"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "tina biwir anjeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ngajaga diri"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "tina jalan"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "jalma nu ganas"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:54.930270316Z",
+  "model": "glm-5.3"
+}

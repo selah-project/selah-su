@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Denge, umat Kami, sarta Kami baris nyaksian ka anjeun; enya, Yisrael, upama anjeun ngadangu ka Kami,",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Denge"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Kami"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "sarta Kami baris nyaksian"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "anjeun ngadangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:01.324185701Z",
+  "model": "glm-5.3"
+}

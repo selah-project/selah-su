@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta lahir ka manéhna tujuh putra jeung tilu putri.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "lahir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:01.608295479Z",
+  "model": "glm-5.3"
+}

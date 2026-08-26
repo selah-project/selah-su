@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "⟨את⟩ domba nu hiji anjeun mapaykeun isuk-isuk, sarta ⟨את⟩ domba nu kadua anjeun mapaykeun di antara sabeulah peuting.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba nu hiji"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun mapaykeun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba nu kadua"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "domba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nu kadua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun mapaykeun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "sabeulah peuting"
+    }
+  ],
+  "timestamp": "2026-08-26T11:35:17.758565159Z",
+  "model": "glm-5.3"
+}

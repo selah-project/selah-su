@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Aranjeunna nyarita ka anjeunna: \"Sanajan kitu, Adonay abdi; abdi-abdi anjeun datang mawa maksud mésér kahuntuan.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanajan kitu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay abdi"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "abdi-abdi anjeun"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "mésér"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kahuntuan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:48.116024990Z",
+  "model": "glm-5.3"
+}

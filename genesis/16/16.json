@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sarta Avram umurna dalapan puluh taun jeung genep taun basa Hagar midangkeun ⟨את⟩ Yishmael ka Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "sarta Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra (umur)"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "dalapan puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeung genep"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "basa midangkeun"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ka Avram"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:32.059606461Z",
+  "model": "glm-5.3"
+}

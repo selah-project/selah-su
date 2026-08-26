@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung anjeunna nyarita ka anjeunna: ‘Sing indit jeung ⟨את⟩ abdi ka bumi, jeung dahar roti.’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sing indit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "jeung abdi"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ka bumi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "jeung dahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:36.924936988Z",
+  "model": "glm-5.3"
+}

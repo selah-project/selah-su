@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ka Nu nyieun ⟨the⟩ lampu-lampu nu agung, sabab ka satulumikana kanyaah-Na nu satia.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ka Nu nyieun"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "lampu-lampu"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nu agung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka satulumikana"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-Na nu satia"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:04.628054583Z",
+  "model": "glm-5.3"
+}

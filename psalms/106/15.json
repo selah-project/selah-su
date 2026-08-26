@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung Anjeunna méré ka aranjeuna pamenta aranjeuna, tapi m ngirim karungan kana awakeunan:",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "jeung méré"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka aranjeuna"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "pamenta aranjeuna"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "tapi ngirim"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "karungan"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "kana awakeunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:38.134507995Z",
+  "model": "glm-5.3"
+}

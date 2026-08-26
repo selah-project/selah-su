@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Jalan kuring jeung saré kuring Anjeun wincik-wincik, jeung sadaya jalan kuring Anjeun mikawanoh.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "jalan kuring"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "jeung saré kuring"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "Anjeun wincik-wincik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan kuring"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "Anjeun mikawanoh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:19.528725578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Elohim urang bakal datang jeung ulah bisu; seuneu di payuneunana ngahakan, jeung sacuriga ngabahyur sabudeureunana kacida heureuyna.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "bakal datang"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "bisu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di payuneunana"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "jeung sabudeureunana"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ngabahyur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kacida"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:46.370343834Z",
+  "model": "glm-5.3"
+}

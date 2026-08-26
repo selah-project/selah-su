@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Adoni-Bezek kabur, jeung aranjeunna ngudag ti tukang, jeung aranjeunna nyepeng ⟨את⟩-na, jeung aranjeunna motongan ⟨את⟩ pigeunceuk leungeunana jeung pigeunceuk sukuna.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ngudag"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ti tukang"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "nyepeng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "motongan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pigeunceuk leungeunana jeung pigeunceuk sukuna"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "pigeunceuk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "jeung sukuna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:22.219434907Z",
+  "model": "glm-5.3"
+}

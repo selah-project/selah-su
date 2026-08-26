@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Sadayana ka Anjeun ngadeg-sanggan, méré eupan maranéhna din waktuna.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "ngadeg-sanggan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "méré"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "eupan maranéhna"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "din waktuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:09.688594645Z",
+  "model": "glm-5.3"
+}

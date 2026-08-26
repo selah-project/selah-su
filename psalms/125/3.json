@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 125,
+  "translation": "Sabab tangkal karuksakan moal cicing luhureun babagan nu bener, sangkan nu bener moal ngulurkeun leungeun maranéhna ka kalakayan salah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tangkal"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "karuksakan"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "babagan"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "ngulurkeun"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "ka kalakayan salah"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leungeun maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:11.123615429Z",
+  "model": "glm-5.3"
+}

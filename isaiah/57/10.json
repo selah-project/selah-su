@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Ku lobana jalan anjeun anjeun cape; teu anjeun nyarios, ⟨euweuh⟩ pangaresep; hirup leungeun anjeun papanggih; alatan kitu anjeun teu gering.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ku lobana"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan anjeun"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "anjeun cape"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "anjeun nyarios"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "pangaresep"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "anjeun papanggih"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "anjeun gering"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:47.200421463Z",
+  "model": "glm-5.3"
+}

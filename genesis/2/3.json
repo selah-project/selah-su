@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Elohim mberkah-an ⟨את⟩ poé ka-7, jeung ngas sucikeun ⟨את⟩-na, sabab DINA POÉ KA-7-NANA Elohim eureun tina sakabéh karyana nu dipcipta ku Elohim pikeun dijieun.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "jeung mberkah-an"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poé ka-7"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ka-7"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "jeung ngas sucikeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "poé ka-7"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina manéhna (poé)"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "eureun"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tina sakabéh"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "karyana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "dipcipta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun dijieun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:15.614520043Z",
+  "model": "glm-5.3"
+}

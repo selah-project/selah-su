@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung ⟨anu⟩ dikira-kira tina kulawarga-kulawarga putra Merari, numutkeun kulawarga maranéhna, numutkeun imah bapa-bapa maranéhna.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "jeung nu dikira-kira tina"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga-kulawarga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "numutkeun kulawarga maranéhna"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "numutkeun imah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa-bapa maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:56.494754960Z",
+  "model": "glm-5.3"
+}

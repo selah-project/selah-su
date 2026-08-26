@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung ⟨את⟩ unta, jeung ⟨את⟩ elang peuting, jeung ⟨את⟩ kokodo, jeung ⟨את⟩ elang alit sanggeus-mimitina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "unta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "(retakan boga)"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "unta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elang peuting"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "elang peuting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kokodo"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "kokodo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elang alit"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "elang alit"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sanggeus-mimitina"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:29.635974886Z",
+  "model": "glm-5.3"
+}

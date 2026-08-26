@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Lajeng pohogna Yaakov baradik ka Rekhel, lajeng anjeunna nyarios: Naha abdi ⟨i⟩ di tempat Elohim, anu nungkulan ti anjeun buah ti bedrij?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "lajeng baradik pikaseurieun"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pohog"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "ka Rekhel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyarios"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "naha di tempat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "nungkulan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti anjeun"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ti bedrij"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:41.755131628Z",
+  "model": "glm-5.3"
+}

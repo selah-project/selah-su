@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lamun anjeun leumpang dina jalan-jalan abdi, pikeun ngajaga katangtuan-katangtuan abdi jeung paréntah-paréntah abdi, kawas Dawid ramana anjeun leumpang, mangka abdi bakal mawa panjang poé-poé anjeun ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "anjeun leumpang"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "dina jalan-jalan abdi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pikeun ngajaga"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "katangtuan-katangtuan abdi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "jeung paréntah-paréntah abdi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ramana anjeun"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "mangka abdi bakal mawa panjang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poé-poé anjeun"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "poé-poé anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:49.167421739Z",
+  "model": "glm-5.3"
+}

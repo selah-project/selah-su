@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Upami kuring naék ka langit, di dinya Anjeun ⟨aya⟩; upami kuring nyaréang di Sheol, pia, Anjeun ⟨aya⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "kuring naék"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ka langit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun ⟨aya⟩"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "upami kuring nyaréang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "pia Anjeun ⟨aya⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:10.600869645Z",
+  "model": "glm-5.3"
+}

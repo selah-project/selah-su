@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ieu ngaran-ngaran anak-anak Yisrael nu asup ka Mitsrayim: ⟨את⟩ Yaakov jeung ⟨את⟩ saha-sahaja jeung bale-na asup.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Jeung ieu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "nu asup"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saha-sahaja"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "jeung bale-na"
+    },
+    {
+      "surface": "באו",
+      "gloss": "asup"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:15.059003028Z",
+  "model": "glm-5.3"
+}

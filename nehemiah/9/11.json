@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 9:11",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung laut anjeun belah di payuneunana, sarta maranehna ngaliwat babarengan lebah tengah laut dina gcdi, jeung ⟨את⟩ nu ngudag maranehna anjeun ngalungkeun kana juru-jero siga batu kana cai nu wirasat.",
+  "tokens": [
+    {
+      "surface": "והים",
+      "gloss": "jeung laut"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "anjeun belah"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di payuneunana"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "sarta maranehna ngaliwat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "lebah tengah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "dina gcdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu ngudag maranehna"
+    },
+    {
+      "surface": "רדפיהם",
+      "gloss": "nu ngudag maranehna"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "anjeun ngalungkeun"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "kana juru-jero"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "siga"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kana cai"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "nu wirasat"
+    }
+  ],
+  "timestamp": "2026-08-26T16:00:53.132020401Z",
+  "model": "glm-5.3"
+}

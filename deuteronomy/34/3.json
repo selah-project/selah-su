@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "jeung ⟨את⟩ Nagév, jeung ⟨את⟩ lapang, léngkob Yerikho, kota kurma, nepi ka Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Nagév"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Nagév"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lapang"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "lapang"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "léngkob"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "kurma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:52:59.628529679Z",
+  "model": "glm-5.3"
+}

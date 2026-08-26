@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Kangge nu mingpin; mizmor ti Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kangge nu mingpin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:28.327482369Z",
+  "model": "glm-5.3"
+}

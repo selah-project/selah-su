@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Nu mamarawan cahaya layuneun baju, Nu ngajentangkeun langit-langit layuneun kain layar.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Nu mamarawan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "layuneun baju"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "Nu ngajentangkeun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "layuneun kain layar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:41.780354268Z",
+  "model": "glm-5.3"
+}

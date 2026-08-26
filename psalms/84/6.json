@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 84,
+  "translation": "Betjina manusa nu kakuatanna aya di anjeun, jalan-jalan luhur aya dina jantung maranéhna.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Betjina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mibanda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di anjeun"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "jalan-jalan luhur"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "dina jantung maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:30.114046448Z",
+  "model": "glm-5.3"
+}

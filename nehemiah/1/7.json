@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Pisan urang geus ngarugeunka ka Anjeun, sarta teu miara ⟨את⟩ parentah-parentah jeung ⟨את⟩ katangtuan-katangtuan jeung ⟨את⟩ hukum-hukum nu Anjeun paréntahkeun ka ⟨את⟩ Moshe, abdi-Anjeun.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "urang geus ngarugeunka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "miara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-parentah"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "parentah-parentah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "katangtuan-katangtuan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "katangtuan-katangtuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "Anjeun paréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:56:42.520501864Z",
+  "model": "glm-5.3"
+}

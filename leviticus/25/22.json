@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung aranjeun ngaseuk ⟨את⟩ taun ka-delapan, jeung aranjeun ngahakan tina panén heubeul nepi ka taun ka-salapan; nepi ka datangna panén-ana, aranjeun ngahakan nu heubeul.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "jeung aranjeun ngaseuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taun ka-delapan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "ka-delapan"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "jeung aranjeun ngahakan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "panén"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "heubeul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "ka-salapan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datangna"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "panén-ana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "aranjeun ngahakan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "heubeul"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:15.954839745Z",
+  "model": "glm-5.3"
+}

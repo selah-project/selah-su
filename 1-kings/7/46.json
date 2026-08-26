@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Dina lebak Yarden raja ngacorana, dina taneuh leuleuy kandel, antara Sukkot jeung antara Tsarethan.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "dina lebak"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "ngacorana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "dina taneuh leuleuy kandel"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "Tsarethan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:26.800450951Z",
+  "model": "glm-5.3"
+}

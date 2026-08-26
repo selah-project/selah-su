@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sabab Anjeun moal nyingkirkeun nefesh kuring ka Sheol, moal méré Nu Satia-Mu pikeun nempo karuksakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "nyingkirkeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "Nu Satia-Mu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "karuksakan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:52.789356691Z",
+  "model": "glm-5.3"
+}

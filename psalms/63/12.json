@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Jeung raja bakal bungah di Elohim; sing sahaana nu sumpah ku-Na mahaméru, sabab burih nu ngomongkeun dusta bakal ditutup.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "mahaméru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sing sahaana"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "nu sumpah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku-Na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "bakal ditutup"
+    },
+    {
+      "surface": "פי",
+      "gloss": "burih"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "nu ngomongkeun"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:22.394631113Z",
+  "model": "glm-5.3"
+}

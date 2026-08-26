@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jalan nu jahat kaya poék ⟨na⟩ gelap; maranehna euweuh nu nyaho naon nu njadi sabab maranehna tibra.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "kaya poék gelap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "maranehna nyaho"
+    },
+    {
+      "surface": "במה",
+      "gloss": "naon nu"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "maranehna tibra"
+    }
+  ],
+  "timestamp": "2026-08-26T14:54:23.630693158Z",
+  "model": "glm-5.3"
+}

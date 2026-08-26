@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Kuring milik ka kanyaah kuring, sarta ka kuring pangnahanna.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "milik ka kanyaah kuring"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "sarta ka kuring"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "pangnahanna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:24:43.141839761Z",
+  "model": "glm-5.3"
+}

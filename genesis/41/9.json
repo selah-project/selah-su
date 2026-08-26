@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Terus pangawasa para nu ngawurakan nyarita ka ⟨את⟩ Paroah, nyebutkeun: ⟨את⟩ dosa-dosa kuring kuring émutkeun poé ieu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "terus nyarita"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "para nu ngawurakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dosa-dosa kuring"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "dosa-dosa kuring"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "émutkeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:23.388233279Z",
+  "model": "glm-5.3"
+}

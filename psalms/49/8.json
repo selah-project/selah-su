@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Hiji sadulur tangtu teu bisa ditebus ku saurang; teu méré ka Elohim tebusanana.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "hiji sadulur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ngabébaskeun ku tebus"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ditebus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "tebusanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:01.374764664Z",
+  "model": "glm-5.3"
+}

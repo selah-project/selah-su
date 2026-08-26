@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Kabéh ieu geus datang ka kami, jeung kami teu poho ka Anjeun, jeung teu ngadustaanana dina perjangjian Anjeun.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabéh"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "geus datang ka kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "poho ka Anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ngadustaanana"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "dina perjangjian Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:07.378036798Z",
+  "model": "glm-5.3"
+}

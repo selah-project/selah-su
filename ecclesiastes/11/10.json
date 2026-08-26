@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung piceun pangruwut ti hate anjeun, jeung singkirkeun kajahatan ti daging anjeun; sabab mangsa barudak jeung mangsa buuk hideung — kabos.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "jeung piceun"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "pangruwut"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "ti hate anjeun"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "jeung singkirkeun"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "ti daging anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "mangsa barudak"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "jeung mangsa buuk hideung"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kabos"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:51.680460588Z",
+  "model": "glm-5.3"
+}

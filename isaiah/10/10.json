@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lain-deui kawas leungeun kuring meunang karajaan-karajaan berhala, jeung patung-patung maranehna, ti Yerushalaim jeung ti Shomeron,",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "meunang"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun kuring"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "karajaan-karajaan"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "berhala"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "jeung patung-patung maranehna"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ti Yerushalaim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "jeung ti Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:58.488654511Z",
+  "model": "glm-5.3"
+}

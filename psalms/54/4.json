@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Elohim, sing ngadangu solat abdi, sing manahkeun ceuli ka kecap-kecap bapaning abdi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sing ngadangu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "solat abdi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "sing manahkeun ceuli"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ka kecap-kecap"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bapaning abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:17.587184583Z",
+  "model": "glm-5.3"
+}

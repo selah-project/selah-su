@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Sarta teu nginget pangawasa nu ngawurukan ⟨את⟩ Yosef, tapi poho ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nginget"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "nu ngawurukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "poho ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:43.571823694Z",
+  "model": "glm-5.3"
+}

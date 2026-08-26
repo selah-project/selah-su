@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Pelishti nyandak ⟨את⟩ peti Elohim, terus mawa eta ti Eben-ha-Ezer ka Asydod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "jeung Pelishti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "mawa eta"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "ti Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ka Asydod"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:46.427876655Z",
+  "model": "glm-5.3"
+}

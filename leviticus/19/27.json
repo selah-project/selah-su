@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Ulah motok gigir sirah anjeun, jeung ulah ngaruksak ⟨את⟩ gigir janggut anjeun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "motok"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "gigir"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "sirah anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ngaruksak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gigir janggut anjeun"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "gigir"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "janggut anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:32.235110099Z",
+  "model": "glm-5.3"
+}

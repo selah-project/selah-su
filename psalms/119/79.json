@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Mulih ka abdi maranehna anu sieun ka anjeun, sarta maranehna mikawanoh kasaksian anjeun.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mulih\/balik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "maranehna anu sieun ka anjeun"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "sarta maranehna mikawanoh"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksian anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:29.223217961Z",
+  "model": "glm-5.3"
+}

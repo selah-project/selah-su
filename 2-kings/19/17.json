@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Saestwa, Yahwe, raja-raja Assur geus ngancurkeun ⟨את⟩ bangsa-bangsa kafir jeung ⟨את⟩ tanah maranehna.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "saestwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "geus ngancurkeun"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa kafir"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa kafir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tanah maranehna"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanah maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:31.648510506Z",
+  "model": "glm-5.3"
+}

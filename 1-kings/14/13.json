@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung sadaya Yisrael baris milulutung pikeun anjeunna, jeung nguremkeun ⟨את⟩ anjeunna, sabab ieu hungkul ti Yaraveam nu bakal asup kana kubur, sabab kapanggih dina dirina hiji hal hadé ka Yahwe, Elohim Yisrael, di buni Yaraveam.",
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "jeung milulutung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "jeung nguremkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "hungkul"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ti Yaraveam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubur"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kapanggih"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina dirina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hiji hal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di buni"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaraveam"
+    }
+  ],
+  "timestamp": "2026-08-26T16:55:36.793717040Z",
+  "model": "glm-5.3"
+}

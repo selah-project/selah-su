@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 13:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Tuluy Shemuel nyarita: Naon anu anjeun pigawe? Tuluy Shaul nyarita: Sabab abdi nempo yen balaréan ngencar ti luhur abdi, jeung anjeun teu datang ka waktos anu dipundut poé-poé, jeung Pelishtim ngumpul di Mikhmas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Tuluy nyarita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Naon"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "anjeun pigawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Tuluy nyarita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "abdi nempo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "ngencar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréan"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ti luhur abdi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "באת",
+      "gloss": "datang"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ka waktos anu dipundut"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "jeung Pelishtim"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "ngumpul"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "di Mikhmas"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:00.600930474Z",
+  "model": "glm-5.3"
+}

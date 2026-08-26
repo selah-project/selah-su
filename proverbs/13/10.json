@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Ngan ku ka-gedéan haté\/baréto sengséta kaluar; tapi ⟨dina⟩ ⟨את⟩ nu bari Musawarah aya kapinteran.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ku ka-gedéan haté"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ngaluarkeun"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "sengséta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu bari Musawarah"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "nu bari Musawarah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kapinteran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:33.183098274Z",
+  "model": "glm-5.3"
+}

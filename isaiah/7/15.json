@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Keju-kejuan jeung madu bakal didahar ku manéhna, sangkan manéhna terang nampik nu jahat jeung milih nu hadé.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "keju-kejuan"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jeung madu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bakal didahar"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "sangkan manéhna terang"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "nampik"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "jeung milih"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "nu hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T16:58:21.292418008Z",
+  "model": "glm-5.3"
+}

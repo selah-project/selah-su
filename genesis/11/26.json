@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Terax hirung tujuh puluh taun, sarta ngalahirkeun ⟨את⟩ Avram, ⟨את⟩ Naxor, jeung ⟨את⟩ Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:05.715428768Z",
+  "model": "glm-5.3"
+}

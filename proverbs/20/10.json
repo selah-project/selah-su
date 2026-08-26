@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Batu sarta batu, éfa sarta éfa — kajijik pikeun Yahwe, kadua-duanana.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Batu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "sarta batu"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "éfa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "sarta éfa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kajijik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kadua-duanana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:00:57.640369696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung Moshe ngomong ka Mantenna: Upami hadirat Anjeun henteu nu miang, ulah mawa kami naék ti dieu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka Mantenna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "אין",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hadirat Anjeun"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nu miang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "mawa kami naék"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ti dieu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:14.985275851Z",
+  "model": "glm-5.3"
+}

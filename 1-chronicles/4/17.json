@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung putrana Ezrah: Yeter, Mered, Efer, jeung Yalon; sarta ⟨anjeunna⟩ ngandung ⟨את⟩ Miryam, ⟨את⟩ Syamay, jeung ⟨את⟩ Yisbak, ramana Eshetemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "jeung putrana"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ngandung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Syamay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Syamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisbak"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yisbak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshetemoa"
+    }
+  ],
+  "timestamp": "2026-08-26T16:05:52.689218347Z",
+  "model": "glm-5.3"
+}

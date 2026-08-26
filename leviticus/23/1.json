@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Yahwe ngobrol ka Moshe, sangkan ngomong:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngobrol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:34.711861639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ngomong ka bar-barina Israyel, sarta anjeun nyarita ka aranjeunna: pasamoan-waktos Yahwe, nu aranjeunna ogé seruan ⟨את⟩ maranéhna, pasamoan suci — ieu ⟨are⟩ pasamoan-waktos abdi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bar-barina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "anjeun nyarita"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "pasamoan-waktos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "aranjeunna seruan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "pasamoan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨are⟩"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "pasamoan-waktos abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:34.712107199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Teras Moshe naék mendak Elohim, sarta Yahwe ngagero anjeunna ti gunung éta, pokna: Songko ieu anjeun ucapkeun ka bumina Yaakov, sarta anjeun caritakeun ka bani Yisrael:",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Teras Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mendak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta ngagero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung éta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pokna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Songko"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "anjeun ucapkeun"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka bumina"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "sarta anjeun caritakeun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:34.216120577Z",
+  "model": "glm-5.3"
+}

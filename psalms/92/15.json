@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Tetep maranéhna buah dina rarandaan, gendutan kénéh jeung héjo kénéh maranéhna.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Tetep"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "maranéhna buah"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "dina rarandaan"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "gendutan kénéh"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "jeung héjo kénéh"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:50.579942848Z",
+  "model": "glm-5.3"
+}

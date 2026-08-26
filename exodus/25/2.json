@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Caritakeun ka bani Israél sangkan aranjeunna mawa persembahan ⟨jeung⟩ pikeun Kami; ti unggal lalaki nu haténa ngadorong manéhna kalawan sukarela, aranjeunna hampong persembahan Kami ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "sangkan aranjeunna mawa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Kami"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "ngadorong kalawan sukarela"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "haténa"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "anjeunna hampong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan Kami"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "persembahan Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:11.783848362Z",
+  "model": "glm-5.3"
+}

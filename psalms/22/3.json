@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Elohim kuring, kuring nyaur poé-wingking, tapi anjeun lain ngajawab; sarta peuting, sarta euweuh séré pikeun abdi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kuring nyaur"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "poé-wingking"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi lain"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "anjeun ngajawab"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "sarta peuting"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta euweuh"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "séré"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:42.095348056Z",
+  "model": "glm-5.3"
+}

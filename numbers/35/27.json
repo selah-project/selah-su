@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung manggihan ⟨את⟩ manéhna pangbalas getih ti luar wates kota perlindunganana, jeung maéhan pangbalas getih ⟨את⟩ nu maéhan — euweuh getih keur manéhna.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "manggihan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "pangbalas"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ti luar"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "perlindunganana"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "maéhan"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "pangbalas"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu maéhan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "nu maéhan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur manéhna"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:08.422179398Z",
+  "model": "glm-5.3"
+}

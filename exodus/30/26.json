@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung anjeun ngaminyakan ku éta ⟨את⟩ténda patepungan, jeung ⟨את⟩piti kasaksian.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "jeung anjeun ngaminyakan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ténda patepungan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ténda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepungan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "piti kasaksian"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "piti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksian"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:55.079040880Z",
+  "model": "glm-5.3"
+}

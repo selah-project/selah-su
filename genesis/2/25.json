@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung aranjeuna duanana telanjang, sang manusa jeung pamajikanana, jeung teu sieun aeun.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jeung jadi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duanana"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manusa"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "jeung pamajikanana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "sieun aeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:28.297625750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Maranéhna nempo ka manéhna jeung rarayna caang, jeung raray maranéhna moal sieun-hinieung.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "maranéhna nempo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "jeung rarayna caang"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "jeung raray maranéhna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "sieun-hinieung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:58.117433707Z",
+  "model": "glm-5.3"
+}

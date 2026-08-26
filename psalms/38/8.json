@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Sabab tungtung beuteung kuring pinuh ku ngaduruk, sarta euweuh nu cageur dina daging kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "tungtung beuteung kuring"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ku ngaduruk"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sarta euweuh"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "nu cageur"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dina daging kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:04.444384534Z",
+  "model": "glm-5.3"
+}

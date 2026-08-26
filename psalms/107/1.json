@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Ulah kaburu ménta sukur ka Yahwe, sabab ⟨manehna⟩ mibanda kanyaah satia perjangjian.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "ménta sukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia perjangjian-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:02.195312709Z",
+  "model": "glm-5.3"
+}

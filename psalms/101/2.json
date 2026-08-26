@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 101,
+  "translation": "Abdi bakal ngahadéngan ka jalan nu sampurna — iraha Anjeun datang ka abdi? Abdi lakuna kalawan haté nu taya cacat, di jero imah abdi.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "abdi bakal ngahadéngan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka jalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nu sampurna"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "Anjeun datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "abdi lakuna"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "kalawan taya cacat"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "haté abdi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di jero"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "imah abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:38:45.412392180Z",
+  "model": "glm-5.3"
+}

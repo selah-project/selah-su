@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung Balak putra Tsipor nempo ⟨את⟩ sakabéh nu geus dipigawé ku Yisrael ka ⟨the⟩ Emori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ka Emori"
+    }
+  ],
+  "timestamp": "2026-08-26T11:32:06.095651963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung Moshe maréntahkeun ka ⟨את⟩ kaum éta dina poé éta, sangkan ngomong:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaum éta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum éta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T16:47:03.091793511Z",
+  "model": "glm-5.3"
+}

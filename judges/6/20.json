@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung malaekat Elohim nyarita ka anjeunna: Pikeun ⟨את⟩ daging jeung ⟨את⟩ roti tanpa ragi, tutulakkeun ka batu ieu, jeung ⟨את⟩ kuahna cicikeun. Jeung anjeunna ngalakukeun kitu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka-anjeunna"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaekat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "roti tanpa ragi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti-tanpa-ragi"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "jeung-nendeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "batu"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuah"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "kuah"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "cicikeun"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "jeung-ngalakukeun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:04:15.552278621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Moal dina kakuatan kuda maneh reujeus, moal dina suku-suku jalma maneh kariaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Moal"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "dina kakuatan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "maneh reujeus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "dina suku-suku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "maneh kariaan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:46.301453247Z",
+  "model": "glm-5.3"
+}

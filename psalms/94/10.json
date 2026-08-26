@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Nu ngawurukeun bangsa-bangsa, moal ⟨anjeunna⟩ ngabuktikeun? Nu ngajarkeun manusa kaweruh —",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "ngawurukeun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ngabuktikeun"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ngajarkeun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaweruh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:28.089032106Z",
+  "model": "glm-5.3"
+}

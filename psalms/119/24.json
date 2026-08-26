@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Tuluy kasaksi-kasaksi Anjeun kahot anjeunna abdi, jalma-jalma pitutur abdi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tuluy"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksi-kasaksi Anjeun"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kahot anjeunna abdi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "pitutur abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:56.946008857Z",
+  "model": "glm-5.3"
+}

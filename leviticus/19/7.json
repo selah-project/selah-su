@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Lamun bener-bener didahar dina poé katilu, pigogolah éta, moal ditarima.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "bener-bener didahar"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katilu"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pigogolah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ditarima"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:54.494171600Z",
+  "model": "glm-5.3"
+}

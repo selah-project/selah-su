@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Pingitan pedang Anjeun luhureun pingping, hé anu kawasa; kaagungan Anjeun jeung kamulyaan Anjeun.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "pingitan"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedang Anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "pingping"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hé anu kawasa"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kaagungan Anjeun"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "jeung kamulyaan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:24.451440869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Kumaha agungna pagawéan Anjeun, Yahwe! Pisan jero rarancang Anjeun.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "agungna"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "pagawéan Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "jero"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "rarancang Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:14.404673508Z",
+  "model": "glm-5.3"
+}

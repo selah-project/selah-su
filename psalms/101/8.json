@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 101,
+  "translation": "Isuk-isuk kula binasakeun sadaya nu jahat di bumi, sangkan mupus ti kota Yahwe sadaya nu migawe kalainan",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "kula binasakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "sangkan mupus"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ti kota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nu migawe"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalainan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:11.219599343Z",
+  "model": "glm-5.3"
+}

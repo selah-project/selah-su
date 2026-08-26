@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Manehna nempatkeun ⟨את⟩ nu hiji di Beit-El, jeung ⟨את⟩ nu hijina ditempatkeun di Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "jeung-manehna-nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu hiji"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu hijina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hijina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ditempatkeun"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "di Dan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:16.949481985Z",
+  "model": "glm-5.3"
+}

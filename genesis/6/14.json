@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Buat pikeun anjeun hiji bahe tina kai gofer; rohangan-rohangan anjeun buat ka ⟨את⟩ bahe, jeung anjeun ngalapisan ⟨את⟩-na tina jero jeung tina luar ku tar.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "buat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun-anjeun"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "rohangan-rohangan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun-buat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahe"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "jeung-anjeun-ngalapisan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tina jero"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tina-jero"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "jeung-tina-luar"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ku-tar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:10.963139350Z",
+  "model": "glm-5.3"
+}

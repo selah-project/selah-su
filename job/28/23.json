@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Elohim ngarti kana jalanana, jeung ⟨manehna⟩ nyaho ⟨את⟩ tempatna.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "jalanana"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jeung manehna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempatna"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "tempatna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:04.073355654Z",
+  "model": "glm-5.3"
+}

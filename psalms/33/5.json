@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Nu mikacinta kabeneran jeung kaadilan; kanyaah satia Yahwe ngeusian ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Nu mikacinta"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jeung kaadilan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kanyaah satia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ngeusian"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:50.290031756Z",
+  "model": "glm-5.3"
+}

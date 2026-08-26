@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung manusa ngakoni ⟨את⟩ Chavvah, pamajikanana, mangka ngandung sarta midangkeun ⟨את⟩ Kayin, sarta nyarita: Kuring geus meunangkeun saurang lalaki kalawan ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Jeung manusa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mangka ngandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "sarta midangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "kuring geus meunangkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:00.229691835Z",
+  "model": "glm-5.3"
+}

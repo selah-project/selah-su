@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Sabab baham jalma jahat jeung baham nipu geus dibuka ngalawan kuring; maranéhna ngagunakeun jeung ⟨את⟩ kuring lisan dusta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baham"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma jahat"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "jeung baham"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "nipu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan kuring"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "geus dibuka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "maranéhna ngagunakeun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "jeung ⟨את⟩ kuring",
+      "marks": "kuring"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lisan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:27.157604656Z",
+  "model": "glm-5.3"
+}

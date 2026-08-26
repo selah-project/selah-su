@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sora Yahwe ngabeukah cédar-cédar; nya Yahwe ngabeukah ⟨את⟩ cédar-cédar Lubnan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ngabeukah"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cédar-cédar"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "nya ngabeukah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cédar-cédar Lubnan"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cédar-cédar"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lubnan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:03.750804659Z",
+  "model": "glm-5.3"
+}

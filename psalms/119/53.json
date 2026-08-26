@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Paneuir nyandak kana abdi alatan nu jahat, nu ngantepkeun ⟨את⟩ Taurat-Mu.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "paneuir"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "nyandak kana abdi"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "alatan nu jahat"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "nu ngantepkeun"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Taurat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:13.620851065Z",
+  "model": "glm-5.3"
+}

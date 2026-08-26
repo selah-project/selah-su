@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung raja ngajadikeun ⟨את⟩ pérak di Yerushalaim saperti batu, jeung ⟨את⟩ sararing dibéré saperti ari ditumpuk saperti kajó randu nu aya di dataran handap, pikeun kacukangan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ngajadikeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pérak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "saperti batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sararing"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "sararing"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibéré"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "saperti kajó randu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "di dataran handap"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "pikeun kacukangan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:37.940402217Z",
+  "model": "glm-5.3"
+}

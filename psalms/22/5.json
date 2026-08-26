@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Ka anjeun karuhun urang bogoh nyalindung; bogoh nyalindung, sareng anjeun ngabébaskeun ⟨aranjeunna⟩.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bogoh nyalindung"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "karuhun urang"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bogoh nyalindung"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ngabébaskeun aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:30.032985295Z",
+  "model": "glm-5.3"
+}

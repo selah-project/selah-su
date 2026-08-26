@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "sarta ⟨את⟩ Tsorah jeung ⟨את⟩ Ayalon jeung ⟨את⟩ Xevron, nu aya di Yehuda jeung di Binyamin, kota-kota bénténg",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Xevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "jeung di Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "bénténg"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:35.013577287Z",
+  "model": "glm-5.3"
+}

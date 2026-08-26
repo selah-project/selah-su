@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Maranéhna balik dina wanci sengeur, maranéhna ngahurung sapertos anjing, jeung muter-muter kira-kira ⟨the⟩ kota.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "maranéhna balik"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "dina wanci sengeur"
+    },
+    {
+      "surface": "יימו",
+      "gloss": "maranéhna ngahurung"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sapertos anjing"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "jeung muter-muter kira-kira"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:23.110627051Z",
+  "model": "glm-5.3"
+}

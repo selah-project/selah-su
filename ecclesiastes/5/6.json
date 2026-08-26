@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Kusabab dina loba ngimpi jeung karungu, jeung loba omongan; ⟨kowé⟩ mah beuneur ka ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kusabab"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dina loba"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ngimpi"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "jeung karungu"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "jeung omongan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "loba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kowé⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "beuneur ka"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:50.371424389Z",
+  "model": "glm-5.3"
+}

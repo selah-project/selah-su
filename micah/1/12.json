@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sabab ngagiringsing kana hadé nu dicicingan di Marot; sabab jahat turun ti ⟨את⟩ Yahwe, ka panto Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ngagiringsing"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kana hadé"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "nu dicicingan"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ka panto"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:44.145152543Z",
+  "model": "glm-5.3"
+}

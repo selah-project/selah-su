@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sabab jalma jahat emeh kana kahayang haténa, sarta nu resep kana untung ngaberkahan ⟨dirina⟩; nyieuh Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "emeh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma jahat"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "haténa"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "nu resep kana untung"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ngaberkahan"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "nyieuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:30.291801453Z",
+  "model": "glm-5.3"
+}

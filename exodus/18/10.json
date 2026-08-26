@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sarta Yitro nyauran: Diberkahana Yahwe nu geus ngabébaskeun ⟨את⟩ anjeun ti leungeun Mitsrayim jeung ti leungeun Paroh, nu geus ngabébaskeun ⟨את⟩ ⟨bang éta> tina handapeun leungeun Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyauran"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "diberkahana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "geus ngabébaskeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "jeung ti leungeun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "geus ngabébaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bang éta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bang éta"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "tina handapeun"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:51.648056370Z",
+  "model": "glm-5.3"
+}

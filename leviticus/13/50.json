@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung imam nempo ⟨את⟩ cacar éta, jeung ngasingkeun ⟨את⟩ cacar éta salila tujuh poé.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cacar éta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cacar"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "jeung ngasingkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cacar éta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cacar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:36.739233223Z",
+  "model": "glm-5.3"
+}

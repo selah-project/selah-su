@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Lajeng Noach asup, jeung putra-putrana, jeung pamajikanana, jeung pamajikan putra-putrana bareng jeung ⟨את⟩-na, ka jero bahtera, ku sabab datangna caian banjir.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lajeng asup"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jeung putra-putrana"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "jeung pamajikanana"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "jeung pamajikan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeung manéhna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "jero bahtera"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku sabab datangna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "caian"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "banjir"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:35.304880908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Leuwih hadé kaambek ti batá seuri, sabab ku hariwang beungeut haté jadi hadé.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "leuwih hadé"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kaambek"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "seuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ku hariwang"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "jadi hadé"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    }
+  ],
+  "timestamp": "2026-08-26T17:20:44.750622444Z",
+  "model": "glm-5.3"
+}

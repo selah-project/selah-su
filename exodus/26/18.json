@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung anjeun ngalakonan ⟨את⟩ ⟨the⟩ papan-papan keur ⟨the⟩ kemah: dua puluh papan ka sisi beulah kidul, arah kidul.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun ngalakonan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "⟨the⟩ papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "keur ⟨the⟩ kemah"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka sisi"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "beulah kidul"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "arah kidul"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:24.788848261Z",
+  "model": "glm-5.3"
+}

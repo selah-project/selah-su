@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung Yaakov hariwang pisan jeung karasa sesek, sarta manéhna meulah ⟨את⟩ ⟪rakyat⟫ nu aya jeung manéhna, jeung ⟨את⟩ domba-domba, jeung ⟨את⟩ sapi-sapi, jeung unta-unta jadi dua kubuan.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "jeung hariwang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "jeung karasa sesek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "jeung manéhna meulah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung manéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba-domba"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba-domba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapi-sapi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi-sapi"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "jeung unta-unta"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "jadi dua"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "kubuan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:42.899683259Z",
+  "model": "glm-5.3"
+}

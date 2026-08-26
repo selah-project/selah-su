@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "jeung manéhna narapelkeun ⟨את⟩ leungeunana kana sirahna, sarta nyembelih ⟨את⟩na di payuneun khemah patempatan; jeung putra-putra Aharon ngacérkeun ⟨את⟩ getihna kana ⟨the⟩ altar sacara sabudeureun.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "jeung-narapelkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahna"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "sarta-nyembelih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩na",
+      "marks": "kambing eta di payuneun khemah patempatan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di-payuneun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patempatan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "jeung-ngacérkeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "eta-altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:45.741625945Z",
+  "model": "glm-5.3"
+}

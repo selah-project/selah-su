@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Yahwe Elohim aranjeun geus ngalobaan ⟨את⟩ aranjeun, jeung atlas, aranjeun kiwari lirka bentang-bentang di langit, kalobaanana.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "geus ngalobaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "jeung atlas aranjeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kiwari"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "lirka bentang-bentang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kalobaanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:39.241918015Z",
+  "model": "glm-5.3"
+}

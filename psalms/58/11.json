@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 58,
+  "translation": "Nu adil bakal bungah sabab nempo pangbalasan; injonna bakal dikeueus dina getih nu jahat.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bakal bungah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu adil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pangbalasan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "injonna"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "bakal dikeueus"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dina getih"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "nu jahat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:21.068130717Z",
+  "model": "glm-5.3"
+}

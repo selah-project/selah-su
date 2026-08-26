@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ti Khushim manéhna marengkeun ⟨את⟩ Aviduv jeung ⟨את⟩ Elpaal.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "jeung ti Khushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "manéhna marengkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviduv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Aviduv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:06.846320601Z",
+  "model": "glm-5.3"
+}

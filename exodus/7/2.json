@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Anjeun bakal nyaritakeun ⟨את⟩ sadaya nu kuring parentahkeun ka anjeun, sarta Aharon lanceuk anjeun bakal nyarita ka Parao, sangkan manéhna ngaleupaskeun ⟨את⟩ barudak Yisrael ti nagarana.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "bakal nyaritakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu kuring parentahkeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "kuring parentahkeun ka anjeun"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sarta Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "lanceuk anjeun"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakal nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "sangkan manéhna ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barudak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ti nagarana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:54.220865142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Dibarokahan Yahwe nepi ka salawasna; amin, jeung amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dibarokahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nepi ka salawasna"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "jeung amin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:35.861012904Z",
+  "model": "glm-5.3"
+}

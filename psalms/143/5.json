@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 143,
+  "translation": "Kuring inget ka poé-poé baheula; kuring ngarenungkeun ka sagala pagawéan-Mu; kuring neuteupan kana pagawéan leungeun-Mu.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "kuring-inget"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "baheula"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "kuring-ngarenungkeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka-sagala"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "pagawéan-Mu"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "kana-pagawéan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "leungeun-Mu"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "kuring-neuteupan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:45.027953952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung anjeun bakal nyieun ⟨את⟩ jubah efod, sakabéhna tina kelir biru tekhelet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun bakal nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah efod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "sakabéhna"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "kelir biru tekhelet"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:23.631081391Z",
+  "model": "glm-5.3"
+}

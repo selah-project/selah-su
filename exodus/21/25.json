@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "rarab paeh tapak rarab paeh, tatu tapak tatu, biruing tapak biruing.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "rarab paeh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "rarab paeh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "biruing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "biruing"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:03.195620239Z",
+  "model": "glm-5.3"
+}

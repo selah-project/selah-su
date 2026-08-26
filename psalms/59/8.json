@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Tingali, ku sotar aranjeunna ngamomorkeun ceceger; pedang aya dina biwir marancanana — sabab saha nu ngadegigireung?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "ngamomorkeun"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ku sotar aranjeunna"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "dina biwir marancanana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nu ngadegigireung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:23.110740301Z",
+  "model": "glm-5.3"
+}

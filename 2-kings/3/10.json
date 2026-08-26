@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras raja Israélé nyarita: Aduh, sabab Yahwe geus mawa ⟨את⟩ tilu raja ieu sangkan dipasrahkeun ka leungeun Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "geus mawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sangkan dipasrahkeun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ka leungeun Moab"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka leungeun"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:58.112149104Z",
+  "model": "glm-5.3"
+}

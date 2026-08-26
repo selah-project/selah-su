@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Saha ⟨iyu⟩ nu sapertos jelema wijaksana, jeung saha nu terang panyelasan hiji kalakuan? Kawijaksanaan manusa nyinaran beungeutna, jeung kakuatan beungeutna bakal dirobah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "nu sapertos jelema wijaksana"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "jeung saha"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nu terang"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "panyelasan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalakuan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kawijaksanaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "nyinaran"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "beungeutna"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "jeung kakuatan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "beungeutna"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "bakal dirobah"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:25.707793511Z",
+  "model": "glm-5.3"
+}

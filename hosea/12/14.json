@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung ku saurang nabi Yahwe munggahkeun ⟨את⟩ Yisrael kaluar tina Mitsrayim, jeung ku saurang nabi manéhna dijaga.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "jeung ku saurang nabi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "munggahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kaluar tina Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "jeung ku saurang nabi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "dijaga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:52.873780713Z",
+  "model": "glm-5.3"
+}

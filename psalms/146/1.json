@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 146,
+  "translation": "Puji-puji <Yah>! Puji, hai jiwa kuring, ⟨את⟩ Yahwe!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Puji-puji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "puji"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:44.913178714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Mangka ayeuna, Yahwe, bawa kuring tarék ⟨את⟩ nyawa kuring ti awaking, sabab leuwih hadé paéh kuring batan hirup kuring.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mangka-ayeuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kuring-tarék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa kuring"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa-kuring"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti-awaking"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "leuwih-hadé"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "paéh-kuring"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "batan-hirup-kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:49.435989339Z",
+  "model": "glm-5.3"
+}

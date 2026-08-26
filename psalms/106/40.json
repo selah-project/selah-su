@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jadi murka Yahwe ngagora ka umat-Na, jeung kanojor-Na babari ka ⟨את⟩ warisan-Na.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ngagora"
+    },
+    {
+      "surface": "אף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ka umat-Na"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "kanojor-Na babari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisan-Na"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:51.337369484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung mawa indit jamaah-Na sarua jeung domba, munggulan aranjeunna sarua jeung kawanan di gurun.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "jeung mawa indit"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sarua jeung domba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jamaah-Na"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "munggulan aranjeunna"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "sarua jeung kawanan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:51.901185876Z",
+  "model": "glm-5.3"
+}

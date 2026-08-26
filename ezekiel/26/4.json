@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Sarta maranehna bakal ngancurkeun panto-pagawéan tembok Tsor sarta ngaruntagkeun munara-munarana; abdi bakal ngakikis keusikna ti dinya, sarta abdi bakal ngajadikeun ⟨את⟩ maneh jadi batu karang tarangching.",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "sarta maranehna bakal ngancurkeun"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "sarta ngaruntagkeun"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "munara-munarana"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "sarta abdi bakal ngakikis"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "keusikna"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "sarta abdi bakal ngajadikeun"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "maneh (Tsor)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "tarangching"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "batu karang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:52:17.007182439Z",
+  "model": "glm-5.3"
+}

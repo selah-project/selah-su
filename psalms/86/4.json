@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Bagjakeun jiwa abdi Anjeun, sabab ka Anjeun, Adonay, jiwa abdi kuingkatkeun.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "bagjakeun"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa abdi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kuingkatkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:54.021927625Z",
+  "model": "glm-5.3"
+}

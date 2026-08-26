@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sabat, eureun sapinuhna, ⟨éta⟩ pikeun aranjeun, jeung aranjeun ngarandapan sangsara ⟨את⟩ jiwa-jiwa aranjeun — katangtuan salawasna.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "eureun sapinuhna"
+    },
+    {
+      "surface": "היא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun aranjeun"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "jeung aranjeun ngarandapan sangsara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwa-jiwa aranjeun"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jiwa-jiwa aranjeun"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "katangtuan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:13.928961919Z",
+  "model": "glm-5.3"
+}

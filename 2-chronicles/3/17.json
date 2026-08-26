@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung manéhna ngadegkeun ⟨את⟩ pilar-pilar di payuneun ⟨isi⟩ baliagedang, hiji di kenca jeung hiji di katuhu, sarta manéhna ngaranna ngaranna nu di kenca Yakxin, jeung ngaran nu di katuhu Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "jeung manéhna ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilar-pilar"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pilar-pilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "baliagedang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "di kenca"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "jeung hiji"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "di katuhu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jeung manéhna ngaranna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "nu di kenca"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakxin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "nu di katuhu"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-26T16:18:28.602419436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "⟨את⟩ bangsa nu degil teu bakal ku anjeun katingali: bangsa nu cecekungan basal ti kadenge, basa nu diécé-écé, teu aya nu ngarti.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa nu degil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "nu degil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bakal ku anjeun katingali"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "nu cecekungan"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "basal"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "ti kadenge"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "nu diécé-écé"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "basa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "nu ngarti"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:58.184597949Z",
+  "model": "glm-5.3"
+}

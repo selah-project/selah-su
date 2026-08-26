@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Munjuk Mana Elohim jadi, cwii musuhna kabawa sosari, sarta nu ngabenci Anjeunna ngayaul ti payuneun Anjeunna.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "munjuk Mana jadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "cwii"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "musuhna kabawa sosari"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "sarta ngayaul"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "nu ngabenci Anjeunna"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ti payuneun Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:34.067433395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeun bakal ngalisahan ⟨את⟩ cai beuseuran jeung ⟨את⟩ saranganna, jeung anjeun bakal nyucikeun ⟨את⟩anjeunna.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "jeung anjeun bakal ngalisahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cai beuseuran"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "cai beuseuran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "saranganna"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "saranganna"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jeung anjeun bakal nyucikeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩anjeunna",
+      "marks": "cai beuseuran jeung sarangana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:05.246130330Z",
+  "model": "glm-5.3"
+}

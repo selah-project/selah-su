@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Naha ka nu maot Anjeun ngalakukeun kagumunan? Naha Refaim baris bangun muji Anjeun? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ka nu maot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "kagumunan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "naha"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "muji Anjeun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:16.556028563Z",
+  "model": "glm-5.3"
+}

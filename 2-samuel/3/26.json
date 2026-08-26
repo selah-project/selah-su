@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Yoab kaluar ti pangaweur David, sarta manéhna ngirim utusan sanggeus Avner, sarta maranéhna mawa balik ⟨את⟩ manéhna tina sumur Sirah; jeung David teu nyaho.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ti pangaweur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mawa balik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "Avner"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "tina sumur"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Sirah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "jeung David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:25.103076426Z",
+  "model": "glm-5.3"
+}

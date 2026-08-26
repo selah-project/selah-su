@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung anjeunna nyarios: Bawa ka abdi satulu anyar, jeung bayakeun uyah di jerona. Jadi aranjeunna mawa éta ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Bawa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "satulu"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "bayakeun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "uyah"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:22.285736514Z",
+  "model": "glm-5.3"
+}

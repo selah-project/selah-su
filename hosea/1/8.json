@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung manéhna nyapih ⟨את⟩ Lo-Ruhamah, sarta ngandung sarta ngalahirkeun putra.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "jeung manéhna nyapih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "jeung ngandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "sarta ngalahirkeun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:14.682052788Z",
+  "model": "glm-5.3"
+}

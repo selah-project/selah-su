@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tapi anjeun teu daek pikeun naék, jeung aranjeunna ngalanggar ⟨את⟩ sungut Yahwe Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "daek"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "pikeun naék"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "ngalanggar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sungut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:46.272451752Z",
+  "model": "glm-5.3"
+}

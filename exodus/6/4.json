@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ogé kuring ngadegkeun perjangjian kuring jeung ⟨את⟩ maranehna, pikeun mikeun ka maranehna ⟨את⟩ taneuh Kenaan, ⟨את⟩ taneuh dumukna maranehna, nu maranehna kungsi dumuk di dinya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Jeung ogé"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "kuring ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian kuring"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian kuring"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pikeun mikeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh dumukna maranehna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "dumukna maranehna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "maranehna kungsi dumuk"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:50.120529419Z",
+  "model": "glm-5.3"
+}

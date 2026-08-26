@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Anjeuneun nyieun éra éta naséhat ⟨ka⟩ nu miskin, sabab Yahwe tempat pangnyuman-na.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "naséhat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "nyieun éra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "tempat pangnyuman-na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:45.207156805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Teras Dawid musyawarah jeung para panglima sarébu jeung saratus, ka sadaya pamingpin.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "musyawarah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para panglima"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "sarébu"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadaya"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pamingpin"
+    }
+  ],
+  "timestamp": "2026-08-26T16:11:13.811581699Z",
+  "model": "glm-5.3"
+}

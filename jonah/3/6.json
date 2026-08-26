@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 3:6",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung kecap ⟨i⟩|ngahontal ka raja Nínévé, sarta ⟨anjeunna⟩ tangkit ti singgahsana-na, sarta ⟨anjeunna>> miceun jubah-na ti luhureun awak-na, sarta ⟨anjeunna>> nutupan diri ku kabésak, sarta ⟨anjeunna>> diuk dina abu.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "jeung ngahontal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nínévé"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sarta tangkit"
+    },
+    {
+      "surface": "מכסאו",
+      "gloss": "ti singgahsana-na"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "sarta miceun"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "jujah-na"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ti luhureun awak-na"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "sarta nutupan"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kabésak"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sarta diuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "abu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:44.410918561Z",
+  "model": "glm-5.3"
+}

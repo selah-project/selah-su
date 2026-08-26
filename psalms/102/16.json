@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Jeung bangsa-bangsa bakal sieun ka ⟨את⟩ Jenengan Yahwe, jeung sakabéh raja-raja bumi ka ⟨את⟩ kamulyaan Anjeun.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "jeung bakal sieun ka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jenengan Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Jenengan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyaan Anjeun"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamulyaan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:37.881674025Z",
+  "model": "glm-5.3"
+}

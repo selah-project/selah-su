@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 146,
+  "translation": "Ulah arandel ka para bangsawan, ka anak manusa — nu teu boga pertulung keur manéhna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "arandel"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ka para bangsawan"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ka anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "nu teu boga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur manéhna"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "pertulung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:44.913518449Z",
+  "model": "glm-5.3"
+}

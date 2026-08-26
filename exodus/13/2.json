@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Sucikeun pikeun Kuring sagala anak sakandung, nu mimiti dibuka tina sagala kabuka muru kandungan, di antara baris Yisrael — dina manusa jeung dina sato: pikeun Kuring ⟨ieu⟩.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "sucikeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Kuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sakandung"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "nu mimiti dibuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "kandungan"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di antara baris"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "dina manusa"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "jeung dina sato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Kuring"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:56.300463017Z",
+  "model": "glm-5.3"
+}

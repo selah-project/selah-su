@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 13:10",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Terus Amnon nyarita ka Tamar: \"Ampihkeun kadaharan ka jero bilik, sangkan kuring tiasa dahar ti leungeun anjeun.\" Jadi Tamar nyandak ⟨את⟩ roti-roti nu manéhna buat, terus mawa ka Amnon, sadérékana, ka jero bilik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "terus nyarita"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "ampihkeun-kadaharan"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "kadaharan"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "ka jero bilik"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "sangkan kuring tiasa dahar"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ti leungeun anjeun"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "jadi nyandak"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roti-roti"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "roti-roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "manéhna buat"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "terus mawa"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "ka Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "sadérékana"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "ka jero bilik"
+    }
+  ],
+  "timestamp": "2026-08-26T16:53:19.854859276Z",
+  "model": "glm-5.3"
+}

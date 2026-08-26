@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung saurang awéwé nu ngadeukeutan ka sagala binatang pikeun cumbu jeung ⟨את⟩-na, anjeun bunuh ⟨את⟩ awéwé éta jeung ⟨את⟩ binatang éta; maot tangtu maranéhna dibunuh, getihna napel ka maranéhna.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "jeung saurang awéwé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ngadeukeutan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "pikeun cumbu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-na",
+      "marks": "binatang"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "anjeun bunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awéwé éta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "binatang éta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang éta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maot"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "maranéhna dibunuh"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "napel ka maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:50.126617490Z",
+  "model": "glm-5.3"
+}

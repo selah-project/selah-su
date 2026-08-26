@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung abdi bakal méré ⟨את⟩ kanyaah ka bangsa ieu dina panonna urang Mitsrayim, sarta baris kajadian, sabot aranjeun ngosmang, aranjeun moal ngosmang kosong.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jeung abdi bakal méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyaah"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kanyaah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panonna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sarta baris kajadian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabot"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "anjeun ngosmang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "anjeun ngosmang"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kosong"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:21.718643996Z",
+  "model": "glm-5.3"
+}

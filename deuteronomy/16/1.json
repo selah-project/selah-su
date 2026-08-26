@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jaga ⟨את⟩ bulan Abib, sarta anjeun ngalaksanakeun Pésah pikeun Yahwe, Elohim anjeun, sabab dina bulan Abib Yahwe, Elohim anjeun, mawa anjeun kaluar ti Mitsrayim dina wengi.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "jaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulan Abib"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "sarta anjeun ngalaksanakeun"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pésah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "mawa anjeun kaluar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "dina wengi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:55.886855123Z",
+  "model": "glm-5.3"
+}

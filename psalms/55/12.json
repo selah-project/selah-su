@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Karuksakan di tengah-tengahna, sarta teu miang tina lapang-lapangna panindasan jeung tipu-daya.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "karuksakan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "miang"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "tina lapang-lapangna"
+    },
+    {
+      "surface": "תך",
+      "gloss": "panindasan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "jeung tipu-daya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:24.532003057Z",
+  "model": "glm-5.3"
+}

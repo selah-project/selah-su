@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "sarta imam mawa ⟨את⟩ manéhna nepi ka payun, sarta nangtungkeun manéhna di payuneun Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "sarta mawa nepi ka payun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "sarta nangtungkeun manéhna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:26:28.446307095Z",
+  "model": "glm-5.3"
+}

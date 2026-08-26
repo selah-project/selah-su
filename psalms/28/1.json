@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Karya Dawid. Ka Anjeun, Yahwe, abdi nyaur; batu kakuatan abdi, ulah sieu ti abdi, bisi Anjeun bisu ti abdi, sarta abdi jadi sarua jeung nu turun ka liang.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Karya Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjean"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "abdi nyaur"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu kakuatan abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "sieu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "Anjean bisu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "sarta abdi jadi sarua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "nu turun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ka liang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:25.855562274Z",
+  "model": "glm-5.3"
+}

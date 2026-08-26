@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Pinuji anjeun nalika asup, jeung pinuji anjeun nalika kaluar.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "nalika asup"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "jeung pinuji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nalika kaluar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:16.952826756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 129,
+  "translation": "Dina tonggong abdi maréntés maréntés-paparéntés, manjangan aranjeuna alur-alurna.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "tonggong abdi"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "maréntés"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "maréntés-paparéntés"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "manjangan aranjeuna"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "alur-alurna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:31.032437810Z",
+  "model": "glm-5.3"
+}

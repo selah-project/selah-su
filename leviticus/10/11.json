@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "jeung pikeun ngawuruk ⟨את⟩ putra-putra Yisrael ⟨את⟩ sadaya katangtuan-katangtuan nu dipedar Yahwe ka maranehna ku leungeun Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "jeung pikeun ngawuruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya katangtuan-katangtuan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "katangtuan-katangtuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dipedar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku leungeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:28.946689270Z",
+  "model": "glm-5.3"
+}

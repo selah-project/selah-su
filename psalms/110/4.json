@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 110,
+  "translation": "Yahwe sumpah sarta moal miceun haté: \"Anjeun imam salawasna, nurutkeun dadaran Malki-Tsedek.\"",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "miceun haté"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "על",
+      "gloss": "nurutkeun"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "dadaran"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:01.667159118Z",
+  "model": "glm-5.3"
+}

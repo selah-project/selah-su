@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Abdi, Nevukhadnetsar, ngarasa tentrem di imah abdi jeung mekar di balé agung abdi.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ngarasa tentrem"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "keur aya"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "di imah abdi"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "jeung mekar"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "di balé agung abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:43:27.856088585Z",
+  "model": "glm-5.3"
+}

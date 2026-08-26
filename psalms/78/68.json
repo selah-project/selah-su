@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Ngan milih ⟨את⟩ suku Yehudah, ⟨את⟩ Gunung Tzion nu dipikacinta.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "milih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku Yehudah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gunung Tzion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dipikacinta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:33.359598343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Raja-raja Tarshish jeung pulo-pulo bakal mawa persembahan; raja-raja Sheba jeung Seba bakal mawa hadiah.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "jeung pulo-pulo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "bakal mawa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "jeung Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "hadiah"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bakal mawa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:35.090707832Z",
+  "model": "glm-5.3"
+}

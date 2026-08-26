@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Lajeng Paroh nyarita ka Yaakov: Sabaraha lami poé-poé taun-taun hirup anjeun?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "sabaraha lami"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "שני",
+      "gloss": "taun-taun"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "hirup anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:19.818495967Z",
+  "model": "glm-5.3"
+}

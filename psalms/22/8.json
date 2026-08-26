@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sing saha nu nempo abdi ngahina abdi; nyolentikkeun biwir, ngagérakkeun sirah,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sing saha"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "nu nempo"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ngahina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "nyolentikkeun"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "biwir"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ngagérakkeun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:30.033534220Z",
+  "model": "glm-5.3"
+}

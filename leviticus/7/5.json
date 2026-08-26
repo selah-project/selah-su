@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung ngadurug ⟨את⟩ aranjeunna imam, ka luhur altar, kurban-api pikeun Yahwe; kurban-salah ⟨eta⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "jeung-ngadurug"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna (bagéan-bagéan kurban)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ka-luhur-altar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kurban-api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun-Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kurban-salah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨eta⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:41.101910606Z",
+  "model": "glm-5.3"
+}

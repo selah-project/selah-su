@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ka Nu marengkeul Mitsrajim ti mimiti anak-anak éta, sabab ka salawasna kanyaah-satia-Na.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Ka Nu marengkeul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ti mimiti anak-anak éta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.357487747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Jeung maranéhna nyieun ⟨את⟩ anak domba jeung ⟨את⟩ persembehan jeung ⟨את⟩ minyak isuk-isuk, isuk-isuk — kurban bakar sinambung.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "jeung maranéhna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "persembehan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembehan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sinambung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:02:01.736666209Z",
+  "model": "glm-5.3"
+}

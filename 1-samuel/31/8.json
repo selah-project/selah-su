@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jadi kajadian isuk-isukna, datang Palistin pikeun ngarampasaké ⟨את⟩ nu keur tiwas, manggihan ⟨את⟩ Shaul jeung ⟨את⟩ tilu putrana ragrag di gunung Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "isuk-isukna"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palistin"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "pikeun ngarampasaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu keur tiwas"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "nu keur tiwas"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "manggihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tilu putrana"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:23.182859819Z",
+  "model": "glm-5.3"
+}

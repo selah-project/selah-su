@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeun bakal mawa ⟨את⟩ Aharon jeung ⟨את⟩ putrana-putrana ka payuneun kemah patepung, jeung anjeun bakal murih ⟨את⟩aranjeunna ku cai.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "jeung anjeun bakal mawa ka jeung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putrana-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putrana-putrana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "jeung anjeun bakal murih"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩aranjeunna",
+      "marks": "Aharon jeung putrana-putrana"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ku cai"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:05.246271947Z",
+  "model": "glm-5.3"
+}

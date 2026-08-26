@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Yahwe jadi raja — bumi kudu bungah, pulo-pulo nu loba kudu suka-suka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "kudu bungah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kudu suka-suka"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulo-pulo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:48.210964416Z",
+  "model": "glm-5.3"
+}

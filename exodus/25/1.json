@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Tur Yahwe nyarita ka Moshe, songong.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "songong"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:11.783570491Z",
+  "model": "glm-5.3"
+}

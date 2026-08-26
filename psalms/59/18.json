@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Kakuatan abdi, ka Anjeun abdi njangji sasari; sabab Elohim kartas panyalindung abdi, Elohim kanyaah satia perjangjian abdi.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Kakuatan abdi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "abdi njangji sasari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kartas panyalindung abdi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "kanyaah satia perjangjian abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:35.125413728Z",
+  "model": "glm-5.3"
+}

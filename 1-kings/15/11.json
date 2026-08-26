@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung Asa ngalakukeun ⟨the⟩ nu bener dina panon Yahwe, saperti David bapana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung ngalakukeun"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨the⟩ nu bener"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "saperti David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:10.123531564Z",
+  "model": "glm-5.3"
+}

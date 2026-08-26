@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Teras aranjeunna balik deui saenggeus éta, sarta mulihkeun ⟨את⟩ para budak jeung ⟨את⟩ para palay anu parantos dilcleupaskeunana merdika, sarta dipaksa aranjeunna jadi budak deui jeung palay deui",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Teras balik deui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "saenggeus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mulihkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para budak"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "para budak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "para palay"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "para palay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "dileupaskeunana"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "merdika"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "dipaksa aranjeunna"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "jadi budak deui"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "jeung palay deui"
+    }
+  ],
+  "timestamp": "2026-08-26T13:35:47.736298853Z",
+  "model": "glm-5.3"
+}

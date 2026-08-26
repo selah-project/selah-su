@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Denge, wahai Yahwe, sora kuring nalika kuring méré seruan; mugi asih ka kuring jeung waler kuring.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "denge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora kuring"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kuring méré seruan"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mugi asih ka kuring"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "jeung waler kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:48.535694144Z",
+  "model": "glm-5.3"
+}

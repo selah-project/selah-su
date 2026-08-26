@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung David naros ka Yahwe, nyarios: Naha abdi indit sarta ngéléhkeun Palisti ieu? Jeung Yahwe ngandik ka David: Indit, sarta anjeun ngéléhkeun Palisti, sarta anjeun ngamimeuskeun ⟨את⟩ Keila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "jeung naros"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "naha abdi indit"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "sarta abdi ngéléhkeun"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "ka Palisti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngandik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "sarta anjeun ngéléhkeun"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "ka Palisti"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "sarta anjeun ngamimeuskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:07.206305955Z",
+  "model": "glm-5.3"
+}

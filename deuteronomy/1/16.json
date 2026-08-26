@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta abdi maréntahkeun ⟨את⟩ para hakim maraneh dina waktu harita, nyarita: ngadangukeun sengkéta di antara sadulur-sadulur maraneh, sarta maraneh ngahukum kalawan adil antara saurang jeung antara sadulurna, jeung antara bumi putrana.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "sarta abdi maréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para hakim maraneh"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "para hakim maraneh"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangukeun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sadulur-sadulur maraneh"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "sarta maraneh ngahukum"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kalawan adil"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulurna"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "bumi putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:31.307605869Z",
+  "model": "glm-5.3"
+}

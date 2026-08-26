@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Ku sabab Yahwe teu sanggup mawa asup ⟨את⟩ bangsa ieu ka taneuh nu dipasumpahkeun ka maranehna, lajeng anjeun nyembelih maranehna di amparan gurun.",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "ku sabab teu"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "mawa asup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa ieu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "dipasumpahkeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "lajeng anjeun nyembelih maranehna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di amparan gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:29:47.608422011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Harita éta maranehna baris ngagero abdi, tapi abdi moal ngajawab; maranehna baris nyungsi abdi sungkan-sungkan, tapi moal manggihan abdi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "harita éta"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "maranehna baris ngagero abdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "abdi ngajawab"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "maranehna baris nyungsi abdi sungkan-sungkan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "manggihan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:54:01.699853070Z",
+  "model": "glm-5.3"
+}

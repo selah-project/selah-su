@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Naha moal Elohim nu mariksa ieu? sabab Anjeunna nyaho ⟨ieu⟩ rusiah-rusiah haté.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "naha moal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "mariksa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Anjeunna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "rusiah-rusiah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    }
+  ],
+  "timestamp": "2026-08-26T14:31:57.025250368Z",
+  "model": "glm-5.3"
+}

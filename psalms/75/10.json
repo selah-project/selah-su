@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Tapi abdi sorangan baris caritakeun salawasna, abdi baris mumujikeun ka Elohimna Yaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tapi abdi sorangan"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "baris caritakeun"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "abdi baris mumujikeun"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ka Elohimna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:06.531444331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung Yismael anakna baré tilu belas taun nalika disunat ⟨את⟩ daging kulupna.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "jeung Yismael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "baré"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "nalika disunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kulupna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:46.877203474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Kirimkeun ⟨sang⟩ kibas ⟨ka⟩ pamaréntah nagara, ti Sela ka gurun, ka gunung putri Tsiyon.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Kirimkeun"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kibas"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pamaréntah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nagara"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ka gurun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:17.169769991Z",
+  "model": "glm-5.3"
+}

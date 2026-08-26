@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung urang ngomong ka Tuan abdi: Teu sanggup budak éta ngaantepkeun ⟨את⟩ bapana, jeung lamun ngaantepkeun ⟨את⟩ bapana, manéhna baris paéh.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "jeung urang ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Tuan abdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "budak éta"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ngaantepkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "jeung ngaantepkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "jeung paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:25.352889987Z",
+  "model": "glm-5.3"
+}

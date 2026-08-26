@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Ka Anjeunna sungan kuring kungsi nyauran, jeung kameunaran aya di handapeun lila-lila kuring.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sungan kuring"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kungsi nyauran"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "kameunaran"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lila-lila kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:10.959800268Z",
+  "model": "glm-5.3"
+}

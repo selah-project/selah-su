@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Sabaraha loba pakaryana, Yahwe! Sadayana Kuring gaduh dijieun dina hikmah; pinuh bumi ku nu jadi kagungan-Ma.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sabaraha"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "loba"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "pakaryana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dina hikmah"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pinuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "nu jadi kagungan-Ma"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:42.425066552Z",
+  "model": "glm-5.3"
+}

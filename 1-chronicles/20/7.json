@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Manehna ngahina ⟨את⟩ Israel, lajeng Yehonatan putra Simea dulur Dawid ngaratan manéhna.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ngahina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "lajeng ngaratan manéhna"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Simea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dulur"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T16:14:13.694245005Z",
+  "model": "glm-5.3"
+}

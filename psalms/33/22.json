@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Muga kanyaah satia-Mu, Yahwe, aya luhureun kami, sapertos anu urang anti-anti ka ⟨Anjeun⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "muga aya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "luhureun kami"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sapertos"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "urang anti-anti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka ⟨Anjeun⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:36.363651256Z",
+  "model": "glm-5.3"
+}

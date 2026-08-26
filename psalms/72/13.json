@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Welas asihna ka nu lemah jeung ka nu keur nyeri, jeung nyawa jalma-jalma nu keur nyeri ku disalametkeunana.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "welas asihna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nu lemah"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jeung nu keur nyeri"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "jeung nyawa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "jalma-jalma nu keur nyeri"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "disalametkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:50.245367146Z",
+  "model": "glm-5.3"
+}

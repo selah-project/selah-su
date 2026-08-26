@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung raja Israél nyarita ka Elisha, nalika manéhna nempo ⟨את⟩ maranehna: \"Bapa abdi, bakeun abdi pati? bakeun abdi pati?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "nalika manéhna nempo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "bakeun abdi pati"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "bakeun abdi pati"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:30.339376803Z",
+  "model": "glm-5.3"
+}

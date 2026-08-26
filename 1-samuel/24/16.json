@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jadi Yahwe jadi hakim, sarta ngahukum antawis abdi jeung anjeun, sarta nempo sarta ngeusi ⟨את⟩ perkara abdi, sarta ngabébaskeun abdi ti leungeun anjeun.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "jadi hakim"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "sarta ngahukum"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antawis abdi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "jeung antawis anjeun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sarta nempo"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "sarta ngeusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara abdi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "perkara abdi"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "sarta ngabébaskeun abdi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ti leungeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:03.041953399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sora abdi ka Yahwe abdi nyaur, sarta ⟨manehna⟩ ngajawab abdi ti gunung kaéngeusanna. Sélah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "sora abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "abdi nyaur"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "sarta ngajawab abdi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ti gunung"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kaéngeusanna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:41.271106578Z",
+  "model": "glm-5.3"
+}

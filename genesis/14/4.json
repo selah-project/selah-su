@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Dua-walas taun arireun ngawula ka ⟨את⟩ Kedarlaomer, tapi dina taun ka-tiga-walas arireun barontak.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "walas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "arireun ngawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jeung katilu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "walas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "arireun barontak"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:12.746578890Z",
+  "model": "glm-5.3"
+}

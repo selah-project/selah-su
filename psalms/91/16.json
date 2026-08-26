@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Ku lilana poé Kami bakal mueuskeun ⟨dirina⟩, sarta mintonkeun ka ⟨dirina⟩ kasalametan Kami.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ku lilana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "Kami bakal mueuskeun dirina"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "sarta mintonkeun ka dirina"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "kasalametan Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:54.920815513Z",
+  "model": "glm-5.3"
+}

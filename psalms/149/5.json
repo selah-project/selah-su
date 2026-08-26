@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 149,
+  "translation": "Bari jeung sukurla jalma-jalma nu satia kanyaahna mah dina kamulyaan, maranéhna ngahaleuang-uri sora kagumbiraan dina tempat saré séwang-séwang.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "sukurla jeung murua"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "jalma-jalma nu satia kanyaahna"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "dina kamulyaan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ngahaleuang-uri sora kagumbiraan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina \/ luhureun"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "tempat saré séwang-séwang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:48.970571484Z",
+  "model": "glm-5.3"
+}

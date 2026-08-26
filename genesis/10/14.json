@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ⟨את⟩ Patrusim, jeung ⟨את⟩ Kasluchim — ti dituna kaluar Pelesytim — jeung ⟨את⟩ Kaphtorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dituna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kaphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaphtorim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:58.357707672Z",
+  "model": "glm-5.3"
+}

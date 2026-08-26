@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jalma jahat, luhur beungeutna, teu milarian; 'euweuh Elohim' sadaya racikan-racikanana.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Jalma jahat"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "beungeutna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "milarian"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "racikan-racikanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:30.291982307Z",
+  "model": "glm-5.3"
+}

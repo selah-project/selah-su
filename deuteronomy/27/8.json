@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung maneh nulis dina ⟨the⟩ batu-batu ⟨את⟩ sadaya kecap-kecap Taurat ieu, ngaécéskeun kalawan hadé.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "jeung maneh nulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap Taurat ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ngaécéskeun"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "kalawan hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:17.437964842Z",
+  "model": "glm-5.3"
+}

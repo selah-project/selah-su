@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Tuluy manéhna asik sarta ngabejaan ka jalmi Elohim; manéhna nyarita: 'Dia indit, jual ⟨את⟩ minyak éta sarta palunjeur ⟨את⟩ hutang-hutang anjeun, sarta anjeul jeung anak-anak anjeun hirup tina nu nyésa.'",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "tuluy asik"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ngabejaan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka jalmi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "manéhna nyarita"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "dia indit"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "jual"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak éta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "sarta palunjeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hutang-hutang anjeun"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "hutang-hutang anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta anjeul"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "anak-anak anjeun"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "tina nu nyésa"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:22.254214913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 7:1",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Balik deui, balik deui, hai Shulamit; balik deui, balik deui, bisi kami nempo ka anjeun. Naon nu dianteur ditempo dina ⟨si⟩ Shulamit? Saperti tarian ⟨di⟩ Mahanaim.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "השולמית",
+      "gloss": "hai Shulamit"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "ונחזה",
+      "gloss": "bisi kami nempo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "nu dianteur ditempo"
+    },
+    {
+      "surface": "בשולמית",
+      "gloss": "dina Shulamit"
+    },
+    {
+      "surface": "כמחלת",
+      "gloss": "saperti tarian"
+    },
+    {
+      "surface": "המחנים",
+      "gloss": "Mahanaim"
+    }
+  ],
+  "timestamp": "2026-08-26T15:24:34.114274227Z",
+  "model": "glm-5.3"
+}

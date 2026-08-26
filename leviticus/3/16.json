@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "jeung imam ngahaseupanana dina eta-altar: kadaharan sesa-seuneu pikeun seungit nu ngaleueung; sakabéh lemak milik Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "jeung-ngahaseupanana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "eta-imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "dina-eta-altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kadaharan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sesa-seuneu"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "pikeun-seungit"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nu-ngaleueung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "milik-Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:45.742194074Z",
+  "model": "glm-5.3"
+}

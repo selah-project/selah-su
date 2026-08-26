@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung imam nyandak ⟨את⟩ anak domba nu hiji, lajeng mawa ⟨את⟩ éta salaku kurban salah, jeung ⟨את⟩ log minyak, lajeng ngagalurkeunana minangka galuran payuneun Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba nu hiji"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mawa neundeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "salaku kurban salah"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "kurban salah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "log minyak"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ngagalurkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "minangka galuran"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "galuran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:55.206808894Z",
+  "model": "glm-5.3"
+}

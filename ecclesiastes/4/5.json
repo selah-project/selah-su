@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Si belegug ngahiliungan ⟨את⟩ leungeunana sarta ngahakan ⟨את⟩ dagingna.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "si belegug"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ngahiliungan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "sarta ngahakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:42.530468024Z",
+  "model": "glm-5.3"
+}

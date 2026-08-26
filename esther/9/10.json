@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sapuluh putra Haman, putra Hamdata, nu ngamusuhan Yahudi, geus dipaot, tapi kana rampasan maranéhna teu nyampeurkeun leungeunana ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ngamusuhan"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dipaot"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "kana rampasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nyampeurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "leungeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:39:46.036367703Z",
+  "model": "glm-5.3"
+}

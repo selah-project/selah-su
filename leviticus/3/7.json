@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lamun domba ⟨nya⟩ nu mawa ⟨את⟩ kurban-na, mangka mawa ⟨את⟩-na ka payuneun Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "domba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nya⟩"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "nu mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban-na"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurban-na"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mangka mawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "domba éta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:30.899618313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Nepi ka wanci-datangna kecapna; ucapan Yahwe ngamurnikeun anjeunna.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wanci"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datangna"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kecapna"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "ngamurnikeun anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.798509520Z",
+  "model": "glm-5.3"
+}

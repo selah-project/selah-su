@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung abdi maréntahkeun ⟨את⟩ ka anjeun dina waktu harita, nyarita: Yahwe, Elohim anjeun, geus masihan anjeun ⟨את⟩ tanah ieu pikeun dicekel; aringkah-sanjata anjeun ngarayon saméméh sadulur anjeun, barudak Yisrael, sadaya barudak anu kuat.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geus masihan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "pikeun dicekel"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "aringkah-sanjata"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "anjeun ngarayon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sadulur anjeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "anu kuat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:54.072937008Z",
+  "model": "glm-5.3"
+}

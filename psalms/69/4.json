@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Kuring capé ku saujal kuring, tikoro kuring garing, panon kuring tuntas, bari nyanggakeun ka Elohim kuring.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "capé"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ku saujal kuring"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "garing"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "tikoro kuring"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tuntas"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "nyanggakeun"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ka Elohim kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:18.202442915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Izevel ngutus saweruh ka Eliyahu, nyebutkeun: Mangkana para allah ngalampahkeun ka abdi, sareng mangkana ditambahna, lamun teu jiga wanci ayeuna isukan abdi ngajangkepikeun ⟨את⟩ nyawa anjeun jiga nyawa hiji ti maranehna.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "मलאך",
+      "gloss": "saweruh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkana"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ngalampahkeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para allah"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "sareng mangkana"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "ditambahna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun teu"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "jiga wanci ayeuna"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "isukan"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ngajangkepikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa anjeun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "jiga nyawa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ti maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:56:32.051091587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Harita kénéh anjeun ngomong dina pangimpi ka nu kanyaah-satia anjeun, sarta anjeun nyarios: kuring geus nempatkeun pitulung ka luhur nu kawasa, kuring geus ngangkat saurang nu dipilih ti tengah bangsa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "harita kénéh"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "anjeun ngomong"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "dina pangimpi"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "ka nu kanyaah-satia anjeun"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sarta anjeun nyarios"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "kuring geus nempatkeun"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pitulung"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "nu kawasa"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "kuring geus ngangkat"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "saurang nu dipilih"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ti tengah bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:06.718789796Z",
+  "model": "glm-5.3"
+}

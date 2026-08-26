@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Deukeut Yahwe ka nu papeupeureuweuy ati, jeung nu taretés semangat ⟨את⟩ disalametkeun.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Deukeut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "ka nu papeupeureuweuy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu taretés semangat"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "nu taretés"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "semangat"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "disalametkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:38.663151611Z",
+  "model": "glm-5.3"
+}

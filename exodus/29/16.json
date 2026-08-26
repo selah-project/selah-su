@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung maneh nyembelih ⟨את⟩ si domba-jalu, jeung maneh ngala ⟨את⟩ getihna, jeung maneh ngucurkeunana kana ⟨sabudeureun⟩ mézbéah.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "jeung maneh nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si domba-jalu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "si domba-jalu"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "jeung maneh ngala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "jeung maneh ngucurkeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbéah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "⟨sabudeureun⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:37.922408939Z",
+  "model": "glm-5.3"
+}

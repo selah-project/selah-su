@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Kahayang hatena geus Anjeun berikeun ka anjeunna, sarta pamenta biwirna teu Anjeun eureunkeun. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatena"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Anjeun berikeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "sarta pamenta"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "biwirna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "Anjeun eureunkeun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:13.581957790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Anjeun, wahai Yahwe, baris miara ⟨manéhna⟩; Anjeun baris ngajaga ⟨manéhna⟩ ti ieu angkatan, salawasna.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "miara aranjeunna"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "ngajaga manéhna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:59.595061066Z",
+  "model": "glm-5.3"
+}

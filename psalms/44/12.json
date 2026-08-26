@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Anjeun maserahkeun kami sarua jeung domba pikeun kahakanan, jeung di antara bangsa-bangsa Anjeun nyebarkeun kami.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Anjeun maserahkeun kami"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sarua jeung domba"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "pikeun kahakanan"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "jeung di antara bangsa-bangsa"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "Anjeun nyebarkeun kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:03.152695218Z",
+  "model": "glm-5.3"
+}

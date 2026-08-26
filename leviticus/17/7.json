@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Sarta aranjeunna moal deui nyembelih ⟨את⟩ kurban-kurbanana keur sato embé-saeutik nu aranjeunna lalampah nuturkeunana; ieu jadi katangtuan salawasna keur aranjeunna, turun-temurun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "nyembelih kurban"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban-kurbanana"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "kurban-kurbanana"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "keur sato embé-saeutik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aranjeunna"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "lalampah nuturkeunana"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sanggeusna"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "katangtuan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "keur aranjeunna"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "turun-temurun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:12.493322734Z",
+  "model": "glm-5.3"
+}

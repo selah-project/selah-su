@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Ngan, dina poé anjeun Moal Kupigawé, pikeun gadis David ramana; tina leungeun putrana Kucabik.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngan"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "dina poé anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Moal"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "Kupigawé"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "Kucabik"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:29.666067721Z",
+  "model": "glm-5.3"
+}

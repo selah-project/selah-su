@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sangkan nyarita ka putra-putra Yisrael, jeung anjeun bilang ka aranjeunna: akuing Yahwe, Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sangkan nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jeung anjeun bilang"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akuing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:09.810688880Z",
+  "model": "glm-5.3"
+}

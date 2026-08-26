@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Sarta Yahwe baris ngalakukeun ka maranehna sakumaha anu geus dipigawé ka Sihon sarta ka Og, raja-raja Émori, sarta ka nagarana, anu geus diancurkeunana ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "sarta baris ngalakukeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakumaha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geus dipigawé"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "ka Sihon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "sarta ka Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Émori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "sarta ka nagarana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "geus diancurkeunana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Sihon sarta Og"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:37.234867194Z",
+  "model": "glm-5.3"
+}

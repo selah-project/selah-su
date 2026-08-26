@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Aku Yahwe, Elohim anjeun, nu mawa anjeun kaluar tina tanah Mitsrayim, pikeun masihan ka anjeun ⟨את⟩ tanah Kenaan, jadi Elohim pikeun anjeun.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mawa ... kaluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pikeun masihan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:32.509840836Z",
+  "model": "glm-5.3"
+}

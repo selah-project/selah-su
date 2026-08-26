@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teu ngadangu ⟨⟨ dina ⟩⟩ sora, teu nampa pangaweruh; ka Yahwe teu percaya, ka Elohim-na teu ngadeukeutan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "nampa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "ngadeukeutan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:25.322143758Z",
+  "model": "glm-5.3"
+}

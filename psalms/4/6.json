@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Korbankeun ⟨את⟩ korban kabeneran, sarta percayakeun diri ka Yahwe.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Korbankeun"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korban"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "sarta percayakeun diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:35.270878162Z",
+  "model": "glm-5.3"
+}

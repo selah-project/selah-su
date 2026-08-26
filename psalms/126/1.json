@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 126,
+  "translation": "Kidung tarajé-nanjat. Nalika Yahwe malikkeun ⟨את⟩ mulihna Tsiyon, urang jadi sapas nu ngimpi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé-nanjat"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "nalika malikkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulihna Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "mulihna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "urang jadi"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "sapas nu ngimpi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:16.055293553Z",
+  "model": "glm-5.3"
+}

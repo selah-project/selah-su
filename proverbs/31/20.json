@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Dampalna dibukakeunana kabéh ka nu miskin, sarta leungeun-leungeunna dipasonkeun ka nu butuh.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "dampalna"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "dibukakeunana kabéh"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ka nu miskin"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "sarta leungeun-leungeunna"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "dipasonkeun"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "ka nu butuh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:04:33.464758861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Pagawéanana henteu ngawenangkeun ⟨maranéhna⟩ balik deui kana Elohim maranéhna, sabab roh zina ⟨aya⟩ dina tengah-tengah maranéhna, jeung ⟨את⟩ Yahwe henteu maranéhna nyaho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ngawenangkeun"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "pagawéanana"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim maranéhna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zina"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "dina tengah-tengah maranéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:59.444848015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung Yahwe ngomong ka Moshe: \"Kuring geus nempo ⟨את⟩ bangsa ieu, jeung tempo, bangsa nu beuheul kaku ⟨is⟩ ia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Kuring geus nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa ieu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tempo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nu kaku"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "beuheul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:21.727211183Z",
+  "model": "glm-5.3"
+}

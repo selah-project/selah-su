@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Emang ti éta dina gambiran unggal jalma leumpang; emang ti éta dina kasasaranna maranéhna ribut; manusa ngakukut beubeunangan, tapi teu nyaho saha nu baris ngakumpulkeun ⟨ieu⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Emang ti éta"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dina gambiran"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "אך",
+      "gloss": "emang ti éta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "dina kasasaranna"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "maranéhna ribut"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "ngakukut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "baris ngakumpulkeun ⟨ieu⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:39.401374119Z",
+  "model": "glm-5.3"
+}

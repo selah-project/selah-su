@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Elohim, ulah cicing anjeun, ulah发挥作用 anggang, sarta ulah cicingeun, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "anggang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sarta ulah"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "cicingeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:20.511783823Z",
+  "model": "glm-5.3"
+}

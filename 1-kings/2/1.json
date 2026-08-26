@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung padeukeut poé-poé Dawid maot, lajeng anjeunna maréntahkeun ⟨את⟩ Syelomo putrana, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "padeukeut"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "maot"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T16:53:27.329035218Z",
+  "model": "glm-5.3"
+}

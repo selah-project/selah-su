@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Leungeun-Mu bakal manggihan sakabéh musuh-Mu; leungeun katuhu-Mu bakal manggihan nu ngararuniat ka-Mu.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "bakal manggihan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun-Mu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-Mu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "leungeun katuhu-Mu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bakal manggihan"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "nu ngararuniat ka-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:59.886556481Z",
+  "model": "glm-5.3"
+}

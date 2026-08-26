@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Terus ngariung ka raja Shlomo sadaya jalma Israél, dina bulan Etanim, mangsa raya — éta ⟨is⟩ bulan katujuh.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Terus ngariung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "mangsa raya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "katujuh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:16.449132628Z",
+  "model": "glm-5.3"
+}

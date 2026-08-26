@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Kami nyaritakeun, jeung mulihkeun, jeung mairkeun, jeung teu aya allah deungeun di antara aranjeunna; jeung aranjeunna saksi-saksi Kami, panyandra Yahwe, jeung Kami El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Kami"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "jeung mulihkeun"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "jeung mairkeun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung teu aya"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "di antara aranjeunna"
+    },
+    {
+      "surface": "זר",
+      "gloss": "allah deungeun"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jeung aranjeunna"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "saksi-saksi Kami"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "panyandra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeung Kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:53.076139745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Saterusna Elohim méré ngaran ka cahya ‘Poé’, sarta ka kagalangan dilandih ‘Peuting’. Tuluy aya senja, tuluy aja énjing — poé kahiji.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Saterusna méré ngaran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ka cahya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Poé"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "sarta ka kagalangan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dilandih"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Peuting"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Tuluy aya"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "senja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tuluy aya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "énjing"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kahiji"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:13.484454050Z",
+  "model": "glm-5.3"
+}

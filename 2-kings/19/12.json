@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Naha ⟨את⟩ maranehna diwilujengkeun ku elohim bangsa-bangsa nu dirancag ku bapak-bapak kuring — ⟨את⟩ Gozan, ⟨את⟩ Haran, jeung Retsef, jeung putra-putra Eden nu di Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "naha diwilujengkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "dirancag"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ku bapak-bapak kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "jeung Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "di Telassar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:05.532926613Z",
+  "model": "glm-5.3"
+}

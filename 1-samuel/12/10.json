@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Maranjeunna ngareremet ka Yahwe sarta ngomong: 'Kami geus dosa, sabab kami geus nyingkahkeun ⟨את⟩ Yahwe sarta ngawula ⟨את⟩ ka Baal-Baal jeung ⟨את⟩ ka Asytoret; ayeuna kolamkeun kami tina leungeun musuh kami, bisi kami bakal ngawula ka Anjeun.'",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "maranjeunna ngareremet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kami geus dosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kami geus nyingkahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "sarta ngawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal-Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal-Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Asytoret"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Asytoret"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "kolamkeun kami"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "musuh kami"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "bisi kami bakal ngawula ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:59.343449979Z",
+  "model": "glm-5.3"
+}

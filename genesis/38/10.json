@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jadi goreng dina panon Yahwe nu dipigawéna, lajeng dipaéhan ogé ⟨את⟩ mananjana.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "jadi goreng"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawéna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dipaéhan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mananjana (Onan)"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:31.000328728Z",
+  "model": "glm-5.3"
+}

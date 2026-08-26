@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Kuring nyaho sadaya manuk gunung, jeung nu ngagerak di sawah ⟨nyaéta⟩ jeung Kuring.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Kuring nyaho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "jeung nu ngagerak"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "di sawah"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jeung Kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:54.391424388Z",
+  "model": "glm-5.3"
+}

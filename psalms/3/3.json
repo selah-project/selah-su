@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Loba nu nyarita ka jiwa abdi: euweuh kasalametan pikeun manéhna dina Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "nu nyarita"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ka jiwa abdi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "kasalametan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manéhna"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "dina Elohim"
+    },
+    {
+      "surface": "סלah",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:18.991540469Z",
+  "model": "glm-5.3"
+}

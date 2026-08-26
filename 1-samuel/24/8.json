@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Teras Dawed nyegah ⟨את⟩ jalma-jalmana ku kecap-kecap, sarta teu micininken aranjeunna ngadeg ngalawan Sha-ul; sarta Sha-ul angkat tina guha sarta mumpang dina jalan.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "nyegah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma-jalmana"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jalma-jalmana"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ku kecap-kecap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "micininken"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "sarta Sha-ul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "tina guha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mumpang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:26.371949806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung anjeunna nyambungkeun ⟨את⟩ lima lain-lain kain misah, jeung ⟨את⟩ genep lain-lain kain misah.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "anjeunna nyambungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima lain-lain kain"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "lain-lain kain"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "misah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "genep lain-lain kain"
+    },
+    {
+      "surface": "שש",
+      "gloss": "genep"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "lain-lain kain"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "misah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:57.595827454Z",
+  "model": "glm-5.3"
+}

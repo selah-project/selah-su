@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Lajeng Yahwe kaluar deui, sanggeus bérés ngobrol jeung Avraham, sarta Avraham balik deui ka tempatna.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kaluar deui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "berés"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngobrol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "sarta Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ka tempatna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:40.337729981Z",
+  "model": "glm-5.3"
+}

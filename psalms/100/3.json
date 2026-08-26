@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 100,
+  "translation": "Tahu yén Yahwe ⟨aya⟩ Elohim; manéhna nu nyieun urang, jeung lain urang sorangan; ⟨urang⟩ balaréa-Na, jeung domba-domba kandang-Na.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨aya⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nu nyieun urang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung lain"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "urang sorangan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "balaréa-Na"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "jeung domba-domba"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "kandang-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:59.195094321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung raja ngomong ka awéwé éta, indit ka imah anjeun, jeung kuring baris maréntahkeun ngeunaan anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé éta"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "indit"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ka imah anjeun"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngeunaan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:43.495288828Z",
+  "model": "glm-5.3"
+}

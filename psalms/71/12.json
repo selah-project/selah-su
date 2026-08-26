@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Elohim, ulah jauh ti abdi; Elohim abdi, gancang ḥurung ka pitulung abdi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim abdi"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ka pitulung abdi"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "gancang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:06.491415006Z",
+  "model": "glm-5.3"
+}

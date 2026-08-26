@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Naha dua jalma jalan babarengan upama teu paheut?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "naha ... jalan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua jalma"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "paheut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:08:31.262422751Z",
+  "model": "glm-5.3"
+}

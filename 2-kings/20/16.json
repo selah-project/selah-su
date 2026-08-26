@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung Yeshayahu nyarita ka Khizkiyahu: Sanggupkeun kecap Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sanggupkeun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:57.998552817Z",
+  "model": "glm-5.3"
+}

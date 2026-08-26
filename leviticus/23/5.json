@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Dina bulan ⟨anu⟩ munggaran, dina opat-belas ⟨poé⟩ bulan, antara bayang-bayang magrib, ⟨aya⟩ Pésakh pikeun Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "⟨anu⟩ munggaran"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "dina opat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-belas"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "bayang-bayang magrib"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pésakh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:39.201144031Z",
+  "model": "glm-5.3"
+}

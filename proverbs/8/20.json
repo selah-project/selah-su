@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Dina jalan kabeneran kuring mimit, di tengah-tengah jalur-jalur katangtuan hukum.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "kuring mimit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "jalur-jalur"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katangtuan hukum"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:58.264030959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Lajeng Moshe ngomong ka mantuna: sabab balaréa datang ka abdi sanggêm nanya ka Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "ka mantuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "sanggêm nanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:56.126353783Z",
+  "model": "glm-5.3"
+}

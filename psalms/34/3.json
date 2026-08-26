@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Dina Yahwe jiwa kuring mitemeyakeun kagumungan; nu lélémbut ngadéngé éta, sarta marisos.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Dina Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "mitemeyakeun kagumungan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nu lélémbut"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "sarta marisos"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:04.770200630Z",
+  "model": "glm-5.3"
+}

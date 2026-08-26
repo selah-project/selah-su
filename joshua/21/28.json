@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung tina suku Yissaskhar ⟨את⟩ Kishyon jeung ⟨את⟩ taneuh-padangna, ⟨את⟩ Daberat jeung ⟨את⟩ taneuh-padangna,",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jeung tina suku"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-padangna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-padangna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-padangna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-padangna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:17.516735490Z",
+  "model": "glm-5.3"
+}

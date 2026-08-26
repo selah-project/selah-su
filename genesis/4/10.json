@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung ⟨Maneh⟩ nyarita: „Naon anu geus dipigawé? Sorana getih saderek anjeun ngajejerit ka Kami ti taneuh.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Naon"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "geus dipigawé"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sorana"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getih (dana-getih)"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saderek anjeun"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ngajejerit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka Kami"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:59.060567104Z",
+  "model": "glm-5.3"
+}

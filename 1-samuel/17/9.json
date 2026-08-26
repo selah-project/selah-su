@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Mun anjeunna sanggup perang ⟨את⟩ jeung kuring jeung ngéléhkeun kuring, urang jadi abdi pikeun maranéhna; jeung mun kuring sanggup ka anjeunna jeung ngéléhkeun anjeunna, maranéhna jadi abdi pikeun urang jeung ngalayanan ⟨את⟩ urang.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jeung kuring",
+      "marks": "kuring"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "jeung ngéléhkeun kuring"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "jadi urang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun maranéhna"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "jadi abdi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung mun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "jeung ngéléhkeun anjeunna"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "jadi maranéhna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun urang"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "jadi abdi"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "jeung ngalayanan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ urang",
+      "marks": "urang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:20.008028440Z",
+  "model": "glm-5.3"
+}

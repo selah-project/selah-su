@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Dawid nyauran salah sahiji ti barudak ngora éta, nyarita: «Sumping, serang manéhna.» Ari barudak éta ngarampasana, mangka manéhna paéh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nyauran"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ka salah sahiji"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "ti barudak ngora éta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "גש",
+      "gloss": "sumping"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "serang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ngarampasana"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:42.399203076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung sakabéh ⟨nu ti⟩ tanah asup kana leuweung, sarta aya madu di luhureun beungeut kebon.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "asup"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "kana leuweung"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sarta aya"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kebon"
+    }
+  ],
+  "timestamp": "2026-08-26T12:17:54.454573571Z",
+  "model": "glm-5.3"
+}

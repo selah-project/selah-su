@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Dina luhureunana burung-burung langit nyicingan; tina pajeuet-pajeuet dangdaunnan maranéhna ngaluarkeun sora.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "dina luhureunana"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung-burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "nyicingan"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "tina pajeuet-pajeuet"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "dangdaunnan"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "maranéhna ngaluarkeun"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:57.082914019Z",
+  "model": "glm-5.3"
+}

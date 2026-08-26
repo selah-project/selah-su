@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sikri emas murni, aranjeunna bakal nyieun ⟨את⟩ inana, ⟨את⟩ sadaya parabot-parabot ieu.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "sikri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aranjeunna bakal nyieun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "inana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "parabot-parabot"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:18.552796924Z",
+  "model": "glm-5.3"
+}

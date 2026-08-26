@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Tapi Anjeun, wahai Yahwe, baris seuri ka maranehna; Anjeun baris ngamock ka sadaya bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tapi Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "baris seuri"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "baris ngamock"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadaya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:38.178773776Z",
+  "model": "glm-5.3"
+}

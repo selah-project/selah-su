@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Anjeun sakabéhanana éndah, kaenanya abdi, euweuh cacat dina anjeun.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "anjeun sakabéhanana"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "éndah"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "kaenanya abdi"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "jeung cacat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dina anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:24:06.167727918Z",
+  "model": "glm-5.3"
+}

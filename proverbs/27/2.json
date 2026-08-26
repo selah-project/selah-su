@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Batur nu ngamulyakeun anjeun, lain bibir anjeun; nu asing, lain biwir anjeun.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "nu ngamulyakeun anjeun"
+    },
+    {
+      "surface": "זר",
+      "gloss": "batur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bibir anjeun"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "nu asing"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "biwir anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:20.395430933Z",
+  "model": "glm-5.3"
+}

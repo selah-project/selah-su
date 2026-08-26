@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung aya jalma hiji nempo, sarta ngabejaan ka Yoav, sarta ngomong: Punten, kuring nempo ⟨את⟩ Avshalom gantung kana elah.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ngabejaan"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "ka Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Punten"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "gantung"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "kana elah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:34:07.338935031Z",
+  "model": "glm-5.3"
+}

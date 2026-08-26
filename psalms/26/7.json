@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Pikeun ngadéngékeun sora sukur, jeung pikeun nyaritakeun sadaya karya-karya Anjeun nu héok.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "pikeun ngadéngékeun"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sukur"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "jeung pikeun nyaritakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "karya-karya Anjeun nu héok"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:13.553394897Z",
+  "model": "glm-5.3"
+}

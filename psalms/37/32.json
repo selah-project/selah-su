@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jalma jahat ngintip nu bener-bener, jeung milarian maéhanana.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ngintip"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma jahat"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "nu bener-bener"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "jeung milarian"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "maéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:14.182099916Z",
+  "model": "glm-5.3"
+}

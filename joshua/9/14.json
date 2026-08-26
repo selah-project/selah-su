@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tuluy lalakon-lalakon nyandak tina sangu maranehna, tapi ⟨את⟩ sungut Yahwe maranehna teu nanya.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "tuluy nyandak"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lalakon-lalakon"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "tina sangu maranehna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sungut Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sungut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "nanya"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:00.190214540Z",
+  "model": "glm-5.3"
+}

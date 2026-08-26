@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "jeung ⟨את⟩ unggal gagak sungkeun spésiésna",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "unggal gagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "sungkeun spésiésna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:50.124762226Z",
+  "model": "glm-5.3"
+}

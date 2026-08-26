@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Awas-awaskeun ⟨ה⟩ nu lengkep, sarta tingali ⟨ה⟩ nu lempeng, sabab ahirna aya pikeun jalma daméy.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "awas-awaskeun"
+    },
+    {
+      "surface": "תם",
+      "gloss": "nu lengkep"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "sarta tingali"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ahirna"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pikeun jalma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "daméy"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:25.925462373Z",
+  "model": "glm-5.3"
+}

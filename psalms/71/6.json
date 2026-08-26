@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Kana anjeun abdi nyaruntung ti dina babyaan, ti turungan indung abdi anjeun nu ngalahirkeun; ku anjeun puji-pujian abdi sababaraha waé waktu.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "kana anjeun"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "abdi nyaruntung"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ti dina babyaan"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ti turungan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "indung abdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "nu ngalahirkeun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku anjeun"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "puji-pujian abdi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sababaraha waé waktu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:04.165509765Z",
+  "model": "glm-5.3"
+}

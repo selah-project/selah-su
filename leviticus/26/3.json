@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Lamun dina katangtuan-katangtuan Abdi aranjeun leumpang, jeung ⟨את⟩ parentah-parentah Abdi aranjeun piara, sarta ngalaksanakeun ⟨את⟩ aranjeunna;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "dina katangtuan-katangtuan Abdi"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "arahanjeun leumpang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "parentah-parentah Abdi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah-parentah Abdi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "arahanjeun piara"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "sarta aranjeun ngalaksanakeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna (parentah-parentah)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:45.774249217Z",
+  "model": "glm-5.3"
+}

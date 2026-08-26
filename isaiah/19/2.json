@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung abdi baris ngaduakeun Mitsrajim jeung Mitsrajim, sarta maraneuhna baris perang, jalma lawan dulurna, jeung jalma lawan batur babarenganana, kota lawan kota, karajaan lawan karajaan.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Jeung abdi baris ngaduakeun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "jeung Mitsrajim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "sarta maraneuhna baris perang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "lawan dulurna"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung jalma"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "lawan batur babarenganana"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "lawan kota"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "lawan karajaan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:11.099684791Z",
+  "model": "glm-5.3"
+}

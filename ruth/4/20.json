@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Aminadab nimbul ⟨את⟩ Naxson, jeung Naxson timbul ⟨את⟩ Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "jeung Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimbul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxson"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naxson"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "jeung Naxson"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimbul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-08-26T15:26:25.198802699Z",
+  "model": "glm-5.3"
+}

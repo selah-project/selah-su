@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Bapa-bapa kami geus dosa, aranjeuna geus moalieun; kami nu mawa kalalawan maranehna.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "geus dosa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "geus moalieun"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "kalalawan maranehna"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "nu mawa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:30:54.092370892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Anjeun, bangkit, indit ka imah anjeun; harita sukuna anjeun asup ka kota, barudak bakal paeh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "indit"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ka imah anjeun"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "harita asup"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "sukuna anjeun"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ka kota"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bakal paeh"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barudak"
+    }
+  ],
+  "timestamp": "2026-08-26T16:55:25.804223680Z",
+  "model": "glm-5.3"
+}

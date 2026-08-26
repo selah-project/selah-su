@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "jeung Yahwe Elohim anjeun maserahkeun ⟨את⟩ inyana kana leungeun anjeun, tuluy anjeun ngabunuh ⟨את⟩ sagawa lalakina ku éta seuseukeut péso.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "jeung maserahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "kana leungeun anjeun"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "tuluy anjeun ngabunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagawa lalakina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagawa"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "lalakina"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seuseukeut péso"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:09.798415767Z",
+  "model": "glm-5.3"
+}

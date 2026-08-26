@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Sabab anjeun nguji kami, wahai Elohim; anjeun ngalebur kami saperti ngalebur pérak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "anjeun nguji kami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "anjeun ngalebur kami"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "saperti ngalebur"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:56.306278727Z",
+  "model": "glm-5.3"
+}

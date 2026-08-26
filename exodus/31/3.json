@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "jeung kuring geus ngeusian manéhna ⟨את⟩ ku roh Elohim, dina kawijaksanaan jeung dina pamahaman jeung dina pangaweruh jeung dina sagala kagawéan;",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "jeung kuring geus ngeusian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dina kawijaksanaan"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "jeung dina pamahaman"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "jeung dina pangaweruh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung dina sagala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kagawéan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:34.825500953Z",
+  "model": "glm-5.3"
+}

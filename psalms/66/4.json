@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Sajalamna bumi bakal sujud ka Anjeun sarta bakal zamérkeun ka Anjeun, bakal zamérkeun Jenengan-Ma. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sajalamna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "bakal sujud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "sarta bakal zamérkeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bakal zamérkeun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan-Ma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:09.433457095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ngan saperti ⟨את⟩ kijang jeung ⟨את⟩ rusa didahar, kitu anjeun ngadaharna; nu teu beresih jeung nu beresih sarua babareangan ngadaharna.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kijang"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "kijang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rusa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "rusa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "anjeun ngadaharna"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nu teu beresih"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "jeung nu beresih"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sarua babareangan"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ngadaharna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:14.002218052Z",
+  "model": "glm-5.3"
+}

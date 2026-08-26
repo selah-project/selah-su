@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Ieu ⟨⟨inggis⟩⟩ gerbang milik Yahwe; nu bener bakal asup ka jerona.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gerbang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "milik Yahwe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakal asup"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:35.040168823Z",
+  "model": "glm-5.3"
+}

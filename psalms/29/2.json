@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Anteukeun ka Yahwe kahormatan ngaran-Na; sujud ka Yahwe dina kamulyan kasucian.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "anteukeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kahormatan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaran-Na"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "dina kamulyan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kasucian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:09.389781440Z",
+  "model": "glm-5.3"
+}

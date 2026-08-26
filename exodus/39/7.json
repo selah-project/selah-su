@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung anjeunna nempatkeunana ⟨אתם⟩ luhureun taturai efod, jadi batu émutan pikeun putra Israél, sakumaha paréntah Yahwe ka ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "jeung anjeunna nempatkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "taturai"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "émutan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikeun putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakumaha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paréntah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:02.326876749Z",
+  "model": "glm-5.3"
+}

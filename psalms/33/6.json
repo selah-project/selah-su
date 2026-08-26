@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Ku kecap Yahwe langit-langit dijieun, jeung ku hENCED napas tina bahuna sadala bala tentrana.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Ku kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "jeung ku napas"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "tina bahuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "bala tentrana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:50.290240895Z",
+  "model": "glm-5.3"
+}

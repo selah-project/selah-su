@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 18:4",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sarta raja ngomong ka maranehna: Nu katingali hadé dina panon anjeun, abdi bakal melak; sarta raja ngadeg gigireun panto, sarta sadaya bala kaluar ku saratus jeung ku saréwu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka-maranehna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "katingali-hadé"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "dina-panon-anjeun"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "abdi-bakal-melak"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gigireun"
+    },
+    {
+      "surface": "יד",
+      "gloss": "panto"
+    },
+    {
+      "surface": "השער",
+      "gloss": "panto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta-sadaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bala"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "ku-saratus"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "jeung-ku-saréwu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:34.265354546Z",
+  "model": "glm-5.3"
+}

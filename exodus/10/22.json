@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Moshe ngangleungkeun ⟨את⟩ leungeunana kana langit-langit, jadi aya kaheureuyan beungit di sakuliah bumi Mitsrayim tilu poé.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Jeung ngangleungkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kaheureuyan"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "beungit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sakuliah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:03.356948549Z",
+  "model": "glm-5.3"
+}

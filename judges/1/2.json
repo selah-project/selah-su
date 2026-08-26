@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Yahwe nyarita: Yehuda anu bakal naék; tempo, kuring geus méré ⟨את⟩ tanah kana leungeunna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bakal naék"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring geus méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kana leungeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:33.475453295Z",
+  "model": "glm-5.3"
+}

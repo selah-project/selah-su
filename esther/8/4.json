@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Tuluy raja ngajulurkeun ka Ester ⟨את⟩ tongkat kamasan, sarta Ester jumeneng sarta nangtung ka payuneun raja.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "Tuluy ngajulurkeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ka Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat kamasan"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kamasan"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "jumeneng"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "sarta nangtung"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka payuneun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T15:39:20.953853163Z",
+  "model": "glm-5.3"
+}

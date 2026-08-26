@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung ⟨Anjeunna⟩ émut yén maranéhna daging, angin nu lilana jeung moal balik deui.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "jeung ⟨Anjeunna⟩ émut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nu lilana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "balik deui"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:28.547809585Z",
+  "model": "glm-5.3"
+}

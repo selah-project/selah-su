@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 130,
+  "translation": "Ngaharepkeun, hé Israél, ka Yahwe, sabab jeung Yahwe ⟨aya⟩ xesed, jeung jeung Anjeunna pangeda nu loba.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Ngaharepkeun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "hé Israél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "⟨aya⟩ xesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "jeung nu loba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung Anjeunna"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "pageda"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:25.246579997Z",
+  "model": "glm-5.3"
+}

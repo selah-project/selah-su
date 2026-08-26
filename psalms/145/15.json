@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Panon sagala ngarep-arep ka anjeun, jeung anjeun méré ka maranehna ⟨את⟩ papakanana irupana mangsana.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "panon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ngarep-arep"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papakanana"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "papakanana"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "irupana mangsana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:40.797885815Z",
+  "model": "glm-5.3"
+}

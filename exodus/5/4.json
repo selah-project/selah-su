@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung raja Mesir ngomong ka maranéhna: Naha, Musa jeung Harun, manéh ngaleupaskeun ⟨את⟩ bangsa tina gawéna? Indit ka bebeban maranéh!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "مצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jeung Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "manéh ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "tina gawéna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "ka bebeban maranéh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:40.106823379Z",
+  "model": "glm-5.3"
+}

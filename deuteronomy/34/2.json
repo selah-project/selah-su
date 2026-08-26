@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "jeung ⟨את⟩ sakuliah wilayah Naftali, jeung ⟨את⟩ taneuh Efrayim jeung Menasye, jeung ⟨את⟩ sakuliah taneuh Yéhuda nepi ka laut nu di tukang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakuliah wilayah Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakuliah"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh Efrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "jeung Menasye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakuliah taneuh Yéhuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakuliah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "nu-di-tukang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:52:59.628381008Z",
+  "model": "glm-5.3"
+}

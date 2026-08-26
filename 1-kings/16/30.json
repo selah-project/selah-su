@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Ahab putra Omri ngalakukeun ⟨anu⟩ jahat dina panon Yahwe, leuwih ti sadaya anu ⟨ngadinya saméméh manéhna⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Jeung ngalakukeun"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨anu⟩ jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "leuwih ti sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "saméméh manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:02.330218532Z",
+  "model": "glm-5.3"
+}

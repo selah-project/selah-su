@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Lajuning ngabagi-bagi manéh ka maranéhna peuting, manéhna jeung abdi-abdina, lajuning ngajer — sarta ngudag maranéhna tepi ka Khoba, nu di kénca Damsyik.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ngabagi-bagi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka-maraneulana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "hovi",
+      "gloss": "manéhna",
+      "comment": "surface should be הוא"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "ngajer"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "ngudag-maraneulana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tepi-ka"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "Khoba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "di-kénca"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Damsyik"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:47.255258871Z",
+  "model": "glm-5.3"
+}

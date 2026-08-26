@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Kuring geus manggihan David, abdi kuring; ku minyak kasucian kuring kuring geus ngalisihanana.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "kuring geus manggihan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi kuring"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ku minyak"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kasucian kuring"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "kuring geus ngalisihanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:06.719021580Z",
+  "model": "glm-5.3"
+}

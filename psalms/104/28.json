@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Anjeun masihan ka aranjeuna, aranjeuna ngumpulkeun; Anjeun muka leungeun Anjeun, aranjeuna kanyangan ku nu hadé.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Anjeun masihan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka aranjeuna"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "aranjeuna ngumpulkeun"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "Anjeun muka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun Anjeun"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "aranjeuna kanyangan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ku nu hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:09.688727044Z",
+  "model": "glm-5.3"
+}

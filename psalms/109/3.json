@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Jeung kecap-kecap kabencian nguriling kuring, sarta maranéhna perang ngalawan kuring tanpa alesan.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "jeung kecap-kecap"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "kabencian"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "nguriling kuring"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "sarta maranéhna perang ngalawan kuring"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa alesan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:27.157770621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Nu nyageurkeun anu tugug atina, sarta mungkus pasemon maranéhna.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Nu nyageurkeun"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "anu tugug"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atina"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "sarta mungkus"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "pasemon maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:25.139720929Z",
+  "model": "glm-5.3"
+}

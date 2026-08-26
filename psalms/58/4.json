@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 58,
+  "translation": "Jadi deungeun ⟨manehna⟩ nu jahat ti tikuras; nyasar ti beuteung, nyarita dusta.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Jadi deungeun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ti tikuras"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "nyasar"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ti beuteung"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:16.301185733Z",
+  "model": "glm-5.3"
+}

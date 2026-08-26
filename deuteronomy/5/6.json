@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Abdi ⟨nya⟩ Yahwe Elohim anjeun, nu mawa Anjeun kaluar tina tanah Mitsrayim, tina imah perbudakan.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "mawa Anjeun kaluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tina imah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perbudakan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:24.479646303Z",
+  "model": "glm-5.3"
+}

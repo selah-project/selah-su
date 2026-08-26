@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sanggeus perkara-perkara ieu, raja Achashverosh ngadegkeun ⟨את⟩ Haman putra Hamdata urang Agag, sarta ngangkat manehna, sarta nempatkeun ⟨את⟩ korsina luhureun sakumna pangulina nu aya jeung manehna.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "urang Agag"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "sarta ngangkat manehna"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "sarta nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korsina"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "korsina"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumna"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "pangulina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:38:08.068997120Z",
+  "model": "glm-5.3"
+}

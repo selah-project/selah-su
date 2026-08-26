@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Eber hirup sanggeus mibarakeun ⟨את⟩ Peleg tilu puluh taun jeung opat ratus taun, sarta mibarakeun putra-putra jeung putri-putri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "mibarakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jeung opat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sarta mibarakeun"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jeung putri-putri"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:09.111248252Z",
+  "model": "glm-5.3"
+}

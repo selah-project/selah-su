@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 134,
+  "translation": "Mugia Yahwe ngaberkahan anjeun ti Tsiyon, Nu Nyieun langit-langit jeung bumi.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Mugia... ngaberkahan anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Nu Nyieun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "jeung bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:36.605347006Z",
+  "model": "glm-5.3"
+}

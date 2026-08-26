@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Anjeun nyieun jauh ka babaturan kuring ti sisi kuring; Anjeun nempatkeun kuring jadi kabeungeut pikeun maranehna; kuring dikunci sarta teu tiasa kaluar.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "nyieun jauh"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "babaturan kuring"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti sisi kuring"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "nempatkeun kuring"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "kabeungeut"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pikeun maranehna"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "dikunci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "tiasa kaluar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:16.555616398Z",
+  "model": "glm-5.3"
+}

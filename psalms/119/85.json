@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Ngali liang-liang pikeun abdi maranehna nu sombong, nu teu dumasar kana Taurat-Mu.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ngali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "nu sombong"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "liang-liang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "dumasar kana Taurat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:19.197065085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Poé-poé taun-taun urang di jerona ⟨nyaéta⟩ tujuh puluh taun, jeung upama ku kakuatan dalapan puluh taun; tapi kagumbiraanana mah ciciré paur jeung kasusahan, sabab gancang kapotong, terus urang ngabeurit.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Poé-poé"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "taun-taun urang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung upama"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ku kakuatan"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "dalapan puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "kagumbiraanana"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ciciré paur"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "jeung kasusahan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גז",
+      "gloss": "gancang kapotong"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "terus urang ngabeurit"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:16.101213903Z",
+  "model": "glm-5.3"
+}

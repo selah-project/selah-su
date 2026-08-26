@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 8:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sagala nu hirup nu ⟨את⟩ jeung anjeun, ti sagala daging, manuk jeung ingon-ingon, jeung sagala nu ngarayap nu ngarayap dina bumi — kaluarkeun ⟨את⟩ jeung anjeun; mun ngaramonyog di bumi, mun baranahan tur ngarambah di bumi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jeung anjeun",
+      "marks": "nu hirup"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sagala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "jeung ingon-ingon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "nu ngarayap"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "nu ngarayap"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "kaluarkeun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jeung anjeun",
+      "marks": "kaluarkeun"
+    },
+    {
+      "surface": "ושרצו",
+      "gloss": "mun ngaramonyog"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "mun baranahan"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "tur ngarambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:26.825372601Z",
+  "model": "glm-5.3"
+}

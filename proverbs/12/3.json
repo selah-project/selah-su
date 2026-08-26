@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Moal ngadeg manusa ku jahatan, tapi akar jalma-jalma nu bener sagolenana moal gésang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ku jahatan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "tapi akar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "jalma-jalma nu bener"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sagolenana"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "moal gésang"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:21.867158241Z",
+  "model": "glm-5.3"
+}

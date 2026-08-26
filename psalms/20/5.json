@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Béréh ka anjeun luyu jeung hate anjeun, sarta sadaya pertimbangan anjeun dipuguh",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Béréh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "luyu jeung hate anjeun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta sadaya"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "pertimbangan anjeun"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "dipuguh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:54.057836361Z",
+  "model": "glm-5.3"
+}

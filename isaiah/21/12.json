@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Penjaga ngomong: Datang isuk-isukan, ogé wengi. Lamun aranjeun hayang nanya, taunan déwéan; balik, ⟨datang⟩ deui.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Penjaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Datang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "isuk-isukan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "hayang nanya"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "taunan déwéan"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "balik"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "datang deui"
+    }
+  ],
+  "timestamp": "2026-08-26T16:59:12.289254043Z",
+  "model": "glm-5.3"
+}

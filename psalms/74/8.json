@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Maranéhna nyarita dina haté maranéhna: 'Babarengan hayu urang mawuruk maranéhna'; maranéhna ngabeuleum sadaya tempat pateemon El di nagri.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dina haté maranéhna"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "mawuruk maranéhna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ngabeuleum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "tempat pateemon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di nagri"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:38.376970852Z",
+  "model": "glm-5.3"
+}

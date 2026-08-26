@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung anjeun bakal ngumpulkeun ⟨את⟩ imah Ahab adín anjeun, sarta Abdi bakal males getih para abdi Abdi, para nabi, jeung getih sadaya abdina Yahwe, leungeun Izebel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "jeung anjeun bakal ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah Ahab adín anjeun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "adín anjeun"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "sarta Abdi bakal males"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getih"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "jeung getih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:27.022604844Z",
+  "model": "glm-5.3"
+}

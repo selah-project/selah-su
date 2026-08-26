@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Xiram ngirim ka raja saratus jeung dua puluh talenta amas.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Jeung ngirim"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Xiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka raja"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jeung dua puluh"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "amas"
+    }
+  ],
+  "timestamp": "2026-08-26T16:54:39.947429718Z",
+  "model": "glm-5.3"
+}

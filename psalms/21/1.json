@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Kangge pangaping. Mazmur karangan Daud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kangge pangaping"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "karangan Daud"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:13.581426539Z",
+  "model": "glm-5.3"
+}

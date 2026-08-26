@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Berkeun, hai bangsa-bangsa, ka Elohim urang, sarta mbdilkeun sora muji ka Anjeunna kadangu.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Berkeun"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "hai bangsa-bangsa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ka Elohim urang"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "sarta mbdilkeun kadangu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "muji ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:53.161782996Z",
+  "model": "glm-5.3"
+}

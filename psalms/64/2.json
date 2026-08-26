@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Singarengan, Elohim, sora abdi dina pareungeuting abdi; tina kasieuneun musuh sing jaga anjeun hirup abdi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "singarengan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora abdi"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "dina pareungeuting abdi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "tina kasieuneun"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "sing jaga"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hirup abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:53.009577864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Di Gat ulah caritakeun, ulah bubu; di Beit-LeAfra golerkeun awak dina débu.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "di Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "tangis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "bubu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "LeAfra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "débu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "golerkeun awak"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:44.144510735Z",
+  "model": "glm-5.3"
+}

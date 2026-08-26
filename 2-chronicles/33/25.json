@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung balaréa ⟨⟨the⟩⟩ bumi maéhan ⟨את⟩ sadaya nu ngararancang ngalawan raja Amon; jeung balaréa ⟨⟨the⟩⟩ bumi ngajadikeun Yoasya putrana dununganana.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "maéhan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu ngararancang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "nu ngararancang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ngajadikeun raja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoasya putrana"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoasya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "dununganana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:32:53.199051346Z",
+  "model": "glm-5.3"
+}

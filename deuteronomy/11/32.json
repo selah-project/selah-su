@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung anjeun bakal ngajaga pikeun ngalaksanakeun ⟨את⟩ sadaya katangtuan jeung ⟨את⟩ hukum-hukum nu kuring nangtukeun di payuneun anjeun ayeuna.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jeung anjeun bakal ngajaga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya katangtuan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "katangtuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nangtukeun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di payuneun anjeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:50.909691129Z",
+  "model": "glm-5.3"
+}

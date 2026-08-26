@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Bumi dibuka jeung ngelegan Datán, jeung nutupan luhureun jamaah Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "dibuka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "jeung ngelegan"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datán"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "jeung nutupan"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:54.828160421Z",
+  "model": "glm-5.3"
+}

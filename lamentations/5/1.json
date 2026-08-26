@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Ingét, wahai Yahwe, naon nu kajadian ka kami; nempo kalawan taliti, jeung nempo ⟨את⟩ kahinaan kami.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ingét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kajadian"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nempo kalawan taliti"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahinaan kami"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "kahinaan kami"
+    }
+  ],
+  "timestamp": "2026-08-26T15:30:37.382231502Z",
+  "model": "glm-5.3"
+}

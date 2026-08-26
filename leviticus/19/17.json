@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Ulah menci ⟨את⟩ sadulur anjeun dina hate anjeun; pasti tegeskeun ⟨את⟩ batur anjeun, sarta ulah mawa dosa kusabab manehna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "menci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulur anjeun"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadulur anjeun"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dina hate anjeun"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "tegeskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batur anjeun"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "batur anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta ulah"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kusabab manehna"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:00.261682025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Yahwe henteu bogaeun ngancurkeun ⟨את⟩ ronah Dawid, demi perjangjian nu dijeujeurkeun jeung Dawid, jeung saperti anu geus diomongkeun-Nana mikeun ka anjeunna lampu jeung ka putra-putrana sadaya poé.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "bogaeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ronah Dawid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ronah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dijeujeurkeun"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "jeung Dawid"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "jeung saperti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mikeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "jeung ka putra-putrana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T16:27:11.053506005Z",
+  "model": "glm-5.3"
+}

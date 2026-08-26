@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Anjeun geus ngéléhkeun ⟨את⟩ Édom, jeung haté anjeun geus ngangkat anjeun; dibéré gelar kénéh, sarta cicing di imah anjeun; sarta naha anjeun ngaruksak ku kajahatan, nepi ka anjeun ragrag, anjeun jeung Yéhudá jeung anjeun?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "popojok"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "anjeun geus ngéléhkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Édom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ngangkat anjeun"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "haté anjeun"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "dibéré gelar kénéh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "sarta cicing"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di imah anjeun"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "sarta naha"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ngaruksak\/ngaruksakeun"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ku kajahatan"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "nepi ka ragrag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "jeung Yéhudá"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:57.438776649Z",
+  "model": "glm-5.3"
+}

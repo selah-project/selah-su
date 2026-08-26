@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Anjeun sumputan pikeun kuring; tina kasusah Anjeun ngajaga kuring; ku wirawidan kabebasan Anjeun ngurilingan kuring. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "sumputan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun kuring"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "tina kasusah"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "Anjeun ngajaga kuring"
+    },
+    {
+      "surface": "רני",
+      "gloss": "wirawidan"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "kabebasan"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "Anjeun ngurilingan kuring"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:24.555049946Z",
+  "model": "glm-5.3"
+}

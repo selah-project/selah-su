@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Shemuel ngagero ⟨את⟩ raayat ka Yahwe di Mitzpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "jeung ngagero"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raayat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "raayat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:45.413311445Z",
+  "model": "glm-5.3"
+}

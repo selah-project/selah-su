@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ulah sieun ka maranéhna; inget-uinget anu dipigawé Yahwe, Elohim anjeun, ka Parao jeung ka sakuliah Misrayim —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "inget-"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "uinget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anu dipigawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ka Parao"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "jeung ka sakuliah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:49.449630377Z",
+  "model": "glm-5.3"
+}

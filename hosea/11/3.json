@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung abdi anu ngajaran Efrayim leumpang, nyandak aranjeunna dina leungeun-leungeunana; tapi maranéhna nyahoan yén abdi anu ngubaran aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "jeung abdi"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ngajaran leumpang"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "nyandak aranjeunna"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "leungeun-leungeunana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "maranéhna nyahoan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "abdi ngubaran aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:37.886021183Z",
+  "model": "glm-5.3"
+}

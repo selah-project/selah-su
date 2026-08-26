@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Kenan hirup tujuh puluh taun, sarta ngalahirkeun ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:17.918482676Z",
+  "model": "glm-5.3"
+}

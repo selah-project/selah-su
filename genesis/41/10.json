@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Paroah murka ka para abdana, jeung manéhna masrahkeun ⟨את⟩ kuring ka panjara, imah pangawasa para jagal — ⟨את⟩ kuring jeung ⟨את⟩ pangawasa para nu ngabeungbeurangan.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroah"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdana"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jeung masrahkeun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kuring"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ka panjara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "para jagal"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "para nu ngabeungbeurangan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:23.388690614Z",
+  "model": "glm-5.3"
+}

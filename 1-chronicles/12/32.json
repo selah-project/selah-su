@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 12:32",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung ti satengah suku Menashshe dalapan belas rebu, nu ditulis ku ngaran-ngaran pikeun datang matak jadi raja ⟨את⟩ Dawid.",
+  "tokens": [
+    {
+      "surface": "ומחצי",
+      "gloss": "Jeung ti satengah"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rebu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ditulis ku"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pikeun datang"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "matak jadi raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T16:10:52.605703389Z",
+  "model": "glm-5.3"
+}

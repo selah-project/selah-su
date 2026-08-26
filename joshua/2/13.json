@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "jeung aranjeun ngabiarkan hirup ⟨את⟩ bapa kuring, jeung ⟨את⟩ indung kuring, jeung ⟨את⟩ sadéré lanang kuring, jeung ⟨את⟩ sadéré awéwé kuring, jeung ⟨את⟩ sagala nu dipiboga maranehna; jeung aranjeun nyalametkeun ⟨את⟩ jiwa-jiwa kami tina kamautan.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "jeung aranjeun ngabiarkan hirup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa kuring"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "indung kuring"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "indung kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadéré lanang kuring"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sadéré lanang kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadéré awéwé kuring"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "sadéré awéwé kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala nu dipiboga maranehna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dipiboga maranehna"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "jeung aranjeun nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwa-jiwa kami"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "jiwa-jiwa kami"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "tina kamautan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:48:15.066463577Z",
+  "model": "glm-5.3"
+}

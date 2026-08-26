@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Mangka cungahna cinta ka ⟨את⟩ Yahwe, Elohim anjeun, jeung awas-awas ngajaga parentah-Na, katut katangtuan-katangtuan-Na, hukum-hukum-Na, jeung paréntah-paréntah-Na, sadaya poé.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "cinta ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "awas-awas ngajaga"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "parentah-Na"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "katangtuan-katangtuan-Na"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "hukum-hukum-Na"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "paréntah-paréntah-Na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:25.309031872Z",
+  "model": "glm-5.3"
+}

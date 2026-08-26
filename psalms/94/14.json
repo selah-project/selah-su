@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Sabab Yahwe moal ngantepkeun umat-Na, tur pusaka-Na moal dipihoyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ngantepkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "tur pusaka-Na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "dipihoyo"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:39.537955565Z",
+  "model": "glm-5.3"
+}

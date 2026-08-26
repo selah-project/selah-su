@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Waktuna mikanyaah, jeung waktuna benci; waktuna perang, jeung waktuna daméy.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktuna"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "mikanyaah"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktuna"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "benci"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktuna"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktuna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "daméy"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:36.672690969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng aranjeunna datang ka Reuel bapana, sarta anjeunna nyarita: kunaon maranéhna gancang datang kiwari?",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "datang (anjeunna f.)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anjeunna nyarita"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kunaon"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kiwari"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:02.944785718Z",
+  "model": "glm-5.3"
+}

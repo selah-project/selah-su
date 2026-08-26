@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Tuluy manéhna indit ti ⟨ti gigireunana⟩ sarta miceungeung panto pikeun dirina jeung pikeun anak-anakna; maranéhna mawa (beundeuyan) ka anjeunna, sarta manéhna ngocorkeun.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "tuluy indit"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ti gigireunana"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "sarta miceungeung"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "panto"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "pikeun dirina"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "jeung pikeun"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aranjeunan"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "mawa deukeut"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "sarta manéhna"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "ngocorkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:22.253756770Z",
+  "model": "glm-5.3"
+}

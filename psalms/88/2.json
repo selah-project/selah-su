@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Yahwe, Elohim kana salametan abdi, beurang kuring sautu-sautu, peuting ⟨di⟩ payuneun Anjeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kana salametan abdi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "beurang"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "kuring sautu-sautu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "⟨di⟩ payuneun Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:19.230287207Z",
+  "model": "glm-5.3"
+}

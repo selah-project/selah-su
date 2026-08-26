@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lamun maranéhna nyarita, ko aya ⟨את⟩ urang, hayu urang ngancangan di keuna getih, hayu urang ngintip-nyumput pikeun nu tanpa dosa, tanpa alesan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ko aya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ urang",
+      "marks": "urang"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "hayu urang ngancangan"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "di keuna getih"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "hayu urang ngintip-nyumput"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "pikeun nu tanpa dosa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa alesan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:07.125011338Z",
+  "model": "glm-5.3"
+}

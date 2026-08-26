@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Jeung kuring nyarita: ieu kaseutan abdi — émut kana robah-robahan leungeun katuhu Nu Maha Luhur.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jeung kuring nyarita"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "kaseutan abdi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "robah-robahan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "leungeun katuhu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nu Maha Luhur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:22.969769966Z",
+  "model": "glm-5.3"
+}

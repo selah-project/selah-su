@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "sarta bapana awéwé ngora ngomong ka kolot-kolot: ⟨את⟩ murangkalih awéwé kuring kuring méré ka lalaki ieu jadi istri, sarta anjeunna benci ka manéhna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "awéwé ngora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kolot-kolot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murangkalih awéwé kuring"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "murangkalih awéwé kuring"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring méré"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka lalaki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi istri"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "sarta anjeunna benci ka manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:48:20.585850608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Bangun, wahai Yahwe, ka tempat instanceofan-Mu, Anjeun jeung tabut kakuatatan-Mu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "ka tempat instanceofan-Mu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "jeung tabut"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuatatan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:25.195623007Z",
+  "model": "glm-5.3"
+}

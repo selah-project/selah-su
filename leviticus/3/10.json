@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ⟨את⟩ dua ginjal, jeung ⟨את⟩ lemak nu luhureunana, nu aya dina pingping, jeung ⟨את⟩ tambalan luhureun ati, luhureun ginjal manéhna miceunnana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dua ginjal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "luhureunana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu aya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pingping"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tambalan"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "tambalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "manéhna miceunnana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:22.903147800Z",
+  "model": "glm-5.3"
+}

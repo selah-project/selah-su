@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sangkan kuring bisa nangkep ⟨את⟩ beuteung Yisrael ku haténa sorangan, nu geus milih tukang ti Kuring ku berhala-berhala maranehna — sadayana.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "nangkep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beuteung Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beuteung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ku haté maranehna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "milih tukang"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ti Kuring"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "ku berhala-berhala maranehna"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:48:00.244518462Z",
+  "model": "glm-5.3"
+}

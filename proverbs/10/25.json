@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lir ngaliwatna angin puyuh, jeung euweuh deui nu jahat; tapi nu bener ⟨yakitu⟩ yayasan anu langgeng.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "lir ngaliwatna"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "angin puyuh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh deui"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "tapi nu bener"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "yayasan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "anu langgeng"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:57.472930695Z",
+  "model": "glm-5.3"
+}

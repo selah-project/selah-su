@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Bareng sakabéh nu bogoh ka abdi bisisiran ngalawan abdi; ngalawan abdi maranéhna ngarancang goreng ka abdi.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan abdi"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "bisisiran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nu bogoh ka abdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan abdi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ngarancang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "goreng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:44.848691906Z",
+  "model": "glm-5.3"
+}

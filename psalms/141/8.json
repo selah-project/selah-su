@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 141,
+  "translation": "Sabab ka Anjeun, Yahwe, Adonay, panon abdi; ka Anjeun abdi nyalindung; ulah nangkeuhkeun jiwa abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon abdi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "abdi nyalindung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תער",
+      "gloss": "nangkeuhkeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:11.221610709Z",
+  "model": "glm-5.3"
+}

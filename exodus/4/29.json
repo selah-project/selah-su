@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng Moshe jeung Aharon indit, sarta ngumpulkeun ⟨את⟩ sadaya para sepuh urang Israél.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jeung Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya para sepuh urang Israél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sepuh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:15.393852964Z",
+  "model": "glm-5.3"
+}

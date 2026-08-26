@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sadayanana baris ngajawab sarta bakal ngomong ka anjeun: 'Anjeun ogé geus leuleus saperti kami, ka kami anjeun geus jadi sarupa.'",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "sadayanana"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "baris ngajawab"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta bakal ngomong"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "geus leuleus"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "saperti kami"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "geus jadi sarupa"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:14.200141388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 122,
+  "translation": "Rénggélé suku urang nangtung di panto-panto anjeun, hai Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "היו",
+      "gloss": "rénggélé"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "suku urang"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "di panto-panto anjeun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:10.735119590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Teras raja ngabalik ⟨את⟩ socana, sarta mberkahain ⟨את⟩ sagala jamaah Israél, ari sagala jamaah Israél ngadeg.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "teras ngabalik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "socana"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "socana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "sarta mberkahain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala jamaah Israél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ari sagala"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:56.998897253Z",
+  "model": "glm-5.3"
+}

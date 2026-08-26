@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Raja Babel ngajadikeun ⟨את⟩ Mattanyah, lanceuk bapana, raja gaganti dirina, sarta ngarobah ⟨את⟩ ngaranna jadi Tzidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ngajadikeun raja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "lanceuk bapana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "gaganti dirina"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "sarta ngarobah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "jadi Tzidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:18.582603007Z",
+  "model": "glm-5.3"
+}

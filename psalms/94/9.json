@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Nu napelkeun ceuli, moal ⟨anjeunna⟩ nyaraho? Nu ngawangun panon, moal ⟨anjeunna⟩ nempo?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Nu napelkeun"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ceuli"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nyaraho"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "עין",
+      "gloss": "panon"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "nempo"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:28.088792829Z",
+  "model": "glm-5.3"
+}

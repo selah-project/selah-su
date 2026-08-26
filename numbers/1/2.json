@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Angkat ⟨את⟩ sirah ti sakabéh jamaah putra-putra Yisrael, luyu jeung marga-margana, luyu jeung imah bapak-bapakna, dina jumlah ngaran, sadaya lalaki, hiji-hiji tiap sirahna:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirah"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "luyu jeung marga-margana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "luyu jeung imah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapak-bapakna"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dina jumlah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "hiji-hiji tiap sirahna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:46.236783104Z",
+  "model": "glm-5.3"
+}

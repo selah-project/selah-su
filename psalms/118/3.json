@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Ucapkeun bahe, é imah Aharon: ka salawasna kanyaah-satia-Na.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ucapkeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bahe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:31.336150365Z",
+  "model": "glm-5.3"
+}

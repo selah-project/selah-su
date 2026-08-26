@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Shemuel bangun, laju naék tina Gilgal ka Givat Binjamin; jeung Shaaul ngitung ⟨את⟩ ⟨rakyat⟩ nu kapanggih jeung manéhna, kira-kira genep ratus jalma.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "jeung bangun"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "laju naék"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givat"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "jeung ngitung"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakyat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nu kapanggih"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung manéhna"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "kira-kira genep"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:21.443976748Z",
+  "model": "glm-5.3"
+}

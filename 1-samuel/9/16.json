@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 9:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Kira-kira ieu waktos isukan Kuring bakal ngirim ka anjeun saurang ti tana Binjamin, sareng anjeun ngalisanan manehna jadi pangawasa saluhureun umat Kuring Israél, sareng manehna baris nyalametkeun ⟨את⟩ umat Kuring tina leungeun Pelishti, sabab Kuring geus nempo ⟨את⟩ umat Kuring, sabab ceuetna geus nepi ka Kuring.",
+  "tokens": [
+    {
+      "surface": "כעת",
+      "gloss": "kira-kira ieu waktos"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "isukan"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "Kuring bakal ngirim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti tana"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ומשחתו",
+      "gloss": "sareng anjeun ngalisanan manehna"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "jadi pangawasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "saluhureun"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Kuring"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "והושיע",
+      "gloss": "sareng manehna baris nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat Kuring"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Kuring"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Kuring geus nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat Kuring"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "באה",
+      "gloss": "geus nepi"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ceuetna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka Kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:24.997812655Z",
+  "model": "glm-5.3"
+}

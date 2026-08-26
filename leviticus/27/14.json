@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung saha waé jalma lamun nyucikeun ⟨את⟩ imahna jadi kadas ka Yahwe, jeung imam ngaajianana, antara nu hadé jeung antara nu goréng; saperti imam ngaajian ⟨את⟩ manéhna, kitu ⟨ieu⟩ tetep nangtung.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Jeung saha waé jalma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "nyucikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imahna"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "jadi kadas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "jeung imam ngaajianana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nu goréng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "ngaajian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tetep nangtung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:42.282330063Z",
+  "model": "glm-5.3"
+}

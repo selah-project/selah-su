@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta raja nempatkeun ⟨את⟩ Benayahu anak Yehoyada gagantiana salambar balad, sarta ⟨את⟩ Tsadok imam raja masihan dina tempat Evyatar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Sarta nempatkeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "gagantiana"
+    },
+    {
+      "surface": "על",
+      "gloss": "salambar"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "balad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "masihan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dina tempat"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:32.248269725Z",
+  "model": "glm-5.3"
+}

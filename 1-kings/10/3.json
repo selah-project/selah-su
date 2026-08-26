@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Laju Shelomoh ngébréhkeun ka anjeunna ⟨את⟩ sadaya putusanana; euweuh hiji hal nu katémbong nyumput ti raja nu henteu diébréhkeun ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "laju ngébréhkeun"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya putusanana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "putusanana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hal"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "nu nyumput"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "diébréhkeun"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:54.147071549Z",
+  "model": "glm-5.3"
+}

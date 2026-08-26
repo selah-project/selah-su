@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Sabab manéhna nyingkirikeun kuring dina saungna, dina poé kagoréngan; manéhna nyumputkeun kuring dina rohong empongana; dina batu manéhna ngajungjungkeun kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "manéhna nyingkirikeun kuring"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "dina saungna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kagoréngan"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "manéhna nyumputkeun kuring"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dina rohong"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "empongana"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "dina batu"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "manéhna ngajungjungkeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:48.535269222Z",
+  "model": "glm-5.3"
+}

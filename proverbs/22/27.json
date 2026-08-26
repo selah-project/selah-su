@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun anjeun euweuh nu dipaké mayar, naha manéhna nyandak dipuran anjeun ti sahandapeun anjeun?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "pikeun mayar"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "dipuran anjeun"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "ti sahandapeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:49.171045459Z",
+  "model": "glm-5.3"
+}

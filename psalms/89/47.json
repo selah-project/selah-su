@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Sabaraha lami deui, wahai Yahwe, anjeun bakal nyumput salawasna? Naha muruuc awewe ngaduruk kawas seuneu? Muhun, kaamuk anjeun ngaduruk kawas seuneu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sabaraha lami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "anjeun nyumput"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ngaduruk"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "kaamuk anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:38:25.604305621Z",
+  "model": "glm-5.3"
+}

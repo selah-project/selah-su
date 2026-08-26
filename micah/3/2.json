@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anu ngahatean nu hade, sarta nu bogoh kana jahat; anu ngarampas kulit aranjeunna ti luhureunana, sarta dagingna ti luhureun tulangna.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "anu ngahatean"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu hade"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "sarta nu bogoh kana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "anu ngarampas"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "kulit aranjeunna"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ti luhureunana"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "sarta dagingna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhureun"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "tulangna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:46.835303922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ⟨את⟩ Chashabya jeung ⟨את⟩ Yeshaya, ti putra-putra Merari, dulur-dulurna jeung putra-putrana, dua puluh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chashabya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashabya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yeshaya"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshaya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ti putra-putra"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulur-dulurna"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "jeung putra-putrana"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:55:20.668997603Z",
+  "model": "glm-5.3"
+}

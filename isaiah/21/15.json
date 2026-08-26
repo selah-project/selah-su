@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Sabab ti payuneun pedang-pedang maranehna kabur; ti payuneun pedang nu ditarik, jeung ti payuneun panah nu diteukteukkeun, jeung ti payuneun beuneur perang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pedang-pedang"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "maranehna kabur"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "nu ditarik"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "jeung ti payuneun"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "panah"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "nu diteukteukkeun"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "jeung ti payuneun"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "beuneur"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:53.195655103Z",
+  "model": "glm-5.3"
+}

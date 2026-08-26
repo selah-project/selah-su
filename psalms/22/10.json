@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sabab Anjeun nu mundayun abdi tina kandungan, nu ngajadikeun abdi percaya dina dada indung abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "nu-mundayun"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "tina-kandungan"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "nu-ngajadikeun-percaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dada"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "indung-abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:16.831410162Z",
+  "model": "glm-5.3"
+}

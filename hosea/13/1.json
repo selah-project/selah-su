@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Nalika Efrayim ngomong, karunya ngageter; manéhna ngaronjatkeun dirina di Yisrael; tapi mangsa jadi salah ku sabab Baal, manéhna maot.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "nalika ngomong"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "ngageter"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ngaronjatkeun dirina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "jadi salah"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ku sabab Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maot"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:28.508946998Z",
+  "model": "glm-5.3"
+}

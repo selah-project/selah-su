@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Yaakov ngabohongkeun ⟨את⟩ haté Lavan urang Aram, sabab teu nyaritakeun ka anjeunna yén manéhna ngarandapan.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ngabohongkeun\/nyolong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haté"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "urang Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ngarandapan\/kabur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:17.576402885Z",
+  "model": "glm-5.3"
+}

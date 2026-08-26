@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Nefesh kuring dipulihkeun, manéh munggahkeun kuring — nya: dina jalan lajur-Na manéh ngaanteur kuring, jalan kabanaran, sangkan wenang wawanjen-Na.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "dipulihkeun"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ngaanteur kuring"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "dina jalan lajur"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wawanjen-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:28.458351019Z",
+  "model": "glm-5.3"
+}

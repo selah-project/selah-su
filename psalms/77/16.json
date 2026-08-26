@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Anjeun geus ngabébaskeun ku leungeun-angon ⟨the⟩ umat-Mu, putra-putra Yaakov jeung Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Anjeun geus ngabébaskeun"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ku leungeun-angon"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "jeung Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:10.321957600Z",
+  "model": "glm-5.3"
+}

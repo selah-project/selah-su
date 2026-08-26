@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Yahwe ngandika ka Moshe, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:26:17.364026668Z",
+  "model": "glm-5.3"
+}

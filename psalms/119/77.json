@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Tina mere rahmat anjeun ka abdi, sangkan abdi hirup; sabab taurat anjeun kahoto\/kagemari abdi.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "tina ngahontal"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmat anjeun"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "sangkan abdi hirup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "taurat anjeun"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kagemaran abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:29.222848058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "‘Miang ti dieu, sarta pigeuingneun anjeun ka wétan, sarta sumputkeun anjeun di walungan Kerit, nu di payureun Yardén.’",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Miang"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ti dieu"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "pigeuingneun anjeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ka wétan"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "sumputkeun anjeun"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di walungan"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payureun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:16.302848930Z",
+  "model": "glm-5.3"
+}

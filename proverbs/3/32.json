@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sabab nu nyimpang téh kajijian keur Yahwe, tatapi jeung ⟨את⟩ nu-nu-lempeng rahasia-Na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kajijian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "nu nyimpang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu-nu-lempeng"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "nu-nu-lempeng"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "rahasia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:54:28.679453029Z",
+  "model": "glm-5.3"
+}

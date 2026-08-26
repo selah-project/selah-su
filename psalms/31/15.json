@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Tapi kuring, ka Anjeun kuring nyalindung, wahai Yahwe; kuring ngomong: Elohim kuring ⟨eta⟩ Anjeun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tapi kuring"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kuring nyalindung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kuring ngomong"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:30.545082580Z",
+  "model": "glm-5.3"
+}

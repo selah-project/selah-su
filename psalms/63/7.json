@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Nalika abdi émut ka Anjeun di luhureun dampar abdi, di jaga-jaga peuting abdi nawarkeun Anjeun dina isi ati.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "abdi émut ka Anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "dampar abdi"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "di jaga-jaga peuting"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "abdi nawarkeun Anjeun dina isi ati"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:15.389446545Z",
+  "model": "glm-5.3"
+}

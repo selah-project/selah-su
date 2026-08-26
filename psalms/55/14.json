@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Tapi anjeun — manusa sapadan jeung abdi, sobat karuhun abdi, jeung kaenan abdi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tapi anjeun"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "sapadan jeung abdi"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "sobat karuhun abdi"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "jeung kaenan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:44.524632596Z",
+  "model": "glm-5.3"
+}

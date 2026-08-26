@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung Yahwe ngintun anjeun dina lampah, jeung nyarita: Lunga, sarta anjeun baris ngaheremkeun ⟨את⟩ nu-Ndosa, ⟨את⟩ Amalek, jeung anjeun baris perang jeung ⟨dirina⟩ nepi ka ngaréréngésé maranehna ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "jeung-ngintun-anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina-lampah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "sarta-aneun-baris-ngaheremkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu-Ndosa"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "nu-Ndosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "jeung-aneun-baris-perang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jeung-dirina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ngaréréngésé-maranehna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:19.688841451Z",
+  "model": "glm-5.3"
+}

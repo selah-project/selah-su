@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Naha manusa ngarampas ⟨את⟩ Elohim? Padahal aranjeun ngarampas ⟨את⟩ abdi. Jeung aranjeun nyarios: Ku naon kami ngarampas anjeun? Dina seper sapuluh jeung persembahan.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "naha ngarampas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "padahal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aranjeun"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ngarampas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "abdi"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "jeung aranjeun nyarios"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ku naon"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "kami ngarampas anjeun"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "seper sapuluh"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "jeung persembahan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:33.958167597Z",
+  "model": "glm-5.3"
+}

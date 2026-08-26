@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Putra bangsa deungeun kalayuan, jeung geringer kaluar tina benteng-bentengna.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bangsa deungeun"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "kalayuan"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "jeung geringer"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "tina benteng-bentengna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:44.606474864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Anjeun marengan kuring nyaho jalan hirup; kameweh kabagéan di payuneun Anjeun ⟨את⟩; kagumbiraan di leungeun katuhu Anjeun salawasna.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Anjeun marengan kuring nyaho"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kameweh"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "kabagéan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payuneun Anjeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "payuneun Anjeun"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "kagumbiraan"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "di leungeun katuhu Anjeun"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:52.789507867Z",
+  "model": "glm-5.3"
+}

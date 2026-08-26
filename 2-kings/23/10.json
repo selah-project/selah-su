@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung anjeunna ngaramakeun ⟨את⟩ Tofet nu aya di lembah anak-anak Hinom, sangkan moal aya deui jalma ngaliwatkeun ⟨את⟩ putrana jeung ⟨את⟩ putrina ngaliwatan seuneu pikeun Molekh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "ngaramakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu aya di"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sangkan moal aya deui"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ngaliwatkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putrina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "putrina"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngaliwatan seuneu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pikeun Molekh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:34.621814468Z",
+  "model": "glm-5.3"
+}

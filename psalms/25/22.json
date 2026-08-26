@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Tebusanana, hai Elohim, ⟨את⟩ Yisrael tina sagala karugeuhannana.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Tebusanana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tina sagala"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "karugeuhannana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:25.093615338Z",
+  "model": "glm-5.3"
+}

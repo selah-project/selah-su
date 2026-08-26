@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras jadi raja anyar di Mitsrayim, nu teu wanoh ⟨את⟩ Yusup.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Teras jadi (raja)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di (ngawasa)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wanoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusup"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusup"
+    }
+  ],
+  "timestamp": "2026-08-26T16:38:59.682069597Z",
+  "model": "glm-5.3"
+}

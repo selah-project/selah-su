@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 87,
+  "translation": "Pikeun anak-anak Korach, mazmur, lagu: yayasanna aya di gunung-gunung suci.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "pikeun anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "yayasanna"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "di gunung-gunung"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:47.840102969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Gunung-gunung naék, léngkob turun ka tempat nu Anjeunna nangtukeun pikeun aranjeuna.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "naék"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "léngkob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Anjeunna nangtukeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pikeun aranjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:35.537142039Z",
+  "model": "glm-5.3"
+}

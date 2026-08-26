@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Nu jalan sampurna, tur nu gawe kaadilan, tur nu nyarita jujur dina atina.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "nu jalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sampurna"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "tur nu gawe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaadilan"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "tur nu nyarita"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "jujur"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "dina atina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:48.330432818Z",
+  "model": "glm-5.3"
+}

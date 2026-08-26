@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Anjeun moal ngahiji jeung ⟨את⟩ maranéhna dina kubur, sabab tanah anjeun anjeun ruksakkeun, bangsa anjeun anjeun paéhan; moal disebut salawasna binih nu ngaruksak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "ngahiji"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "dina kubur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanah anjeun"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "anjeun ruksakkeun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsa anjeun"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "anjeun paéhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "disebut"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binih"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nu ngaruksak"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:25.711239659Z",
+  "model": "glm-5.3"
+}

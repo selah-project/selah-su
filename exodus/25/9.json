@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sakumaha sagala nu kuring témbongkeun ⟨את⟩ ka anjeun — ⟨את⟩ pola haMishkan jeung ⟨את⟩ pola sakur parabotna — sarta kitu aranjeun nyieun.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sakumaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "témbongkeun"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ka anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pola haMishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "pola"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "haMishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "pola sakur parabotna"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "pola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakur"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "sarta kitu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aranjeun nyieun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:54.732373238Z",
+  "model": "glm-5.3"
+}

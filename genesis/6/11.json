@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung bumi ruksak sanggeusna di payuneun Elohim, sarta bumi pinuh ku kéwéd.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "jeung ruksak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "sarta pinuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kéwéd"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:55.500597059Z",
+  "model": "glm-5.3"
+}

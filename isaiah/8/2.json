@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung abdi mibanda saksi-saksi nu dipercaya keur abdi: ⟨את⟩ Uria kahak jeung ⟨את⟩ Zekharia bin Yeverekhya.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Jeung abdi mibanda saksi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur abdi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "nu dipercaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria kahak"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekharia bin Yeverekhya"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekhya"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:20.694747730Z",
+  "model": "glm-5.3"
+}

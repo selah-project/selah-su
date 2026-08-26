@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Lajeng kaluar sahingga jamaah barudang Yisrael ti payuneun Moshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Lajeng kaluar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sahingga"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:11.737608832Z",
+  "model": "glm-5.3"
+}

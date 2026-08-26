@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Jeung manusa dina kamulyahan moal nyinggah; ngarupa-rupa kana sasatoan nu pareum.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Jeung manusa"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "dina kamulyahan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nsinggah"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ngarupa-rupa"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "kana sasatoan"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "nu pareum"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:58.269819873Z",
+  "model": "glm-5.3"
+}

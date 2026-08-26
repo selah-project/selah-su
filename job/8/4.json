@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Lamun anak-anak anjeul dosa ka Mantenna, mangka Mantenna ngeusian ⟨את⟩ aranjeunna ku leungeun pamberontakanana",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anak anjeul"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Mantenna"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "mangka Mantenna ngeusian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku leungeun"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pamberontakanana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:29.652057498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta abdi paréntahkeun ⟨את⟩ ka arinyana dina waktu harita ⟨את⟩ sadaya perkara-perkara nu arinyana sing galampahkeun.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "sarta abdi paréntahkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka arinyana"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya perkara-perkara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "arinyana sing galampahkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:24.467344149Z",
+  "model": "glm-5.3"
+}

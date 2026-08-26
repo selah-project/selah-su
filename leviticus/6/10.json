@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Teu kudu diseupeul kalawan ragi; bagian maranehna Kuring méré ⟨את⟩ ina tina kurban seuneu-Ku; sucí pang sucína éta ⟨⟨ieu⟩⟩, sarua jeung kurban dosa jeung kurban salah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "diseupeul"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "bagian maranehna"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Kuring méré"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ina (tina kurban seuneu-Ku)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tina kurban seuneu-Ku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sucí"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pang sucína"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "sarua jeung kurban dosa"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "jeung kurban salah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:03.819014807Z",
+  "model": "glm-5.3"
+}

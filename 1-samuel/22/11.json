@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Terus raja ngirim ⟨את⟩ Aximelex putra Axituv, imam éta, jeung ⟨את⟩ sakulawarga bapana, para imam nu di Nob; maranéhna sadaya datang ka raja.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "manggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aximelex"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aximelex"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axituv"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakulawarga bapana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "di Nob"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "maranéhna sadaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T17:32:47.267082013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Teras Yitro, bapa-in-law Moshe, nyandak ⟨את⟩ Zipora, pamajikan Moshe, sanggeus tulakanana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "bapa-in-law"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Zipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "tulakanana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:30.269369876Z",
+  "model": "glm-5.3"
+}

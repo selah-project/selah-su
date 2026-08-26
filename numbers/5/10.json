@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung unggal jalma ⟨את⟩ barang sucina, jadi kagunganana; barang naon waé nu dipasihkeun jalma ka imam, jadi kagunganana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Jeung unggal jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang sucina"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "barang sucina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadi kagunganana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dipasihkeun"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ka imam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi kagunganana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:40.129324037Z",
+  "model": "glm-5.3"
+}

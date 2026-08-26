@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Woe, bangsat nu dosa, umat bebeurat ku kalalawora, turunan nu jahat, putra-putra nu ngancurkeun! Aranjeunna natinggalkeun ⟨את⟩ Yahwe, nyieun muji ka ⟨את⟩ Nu Sucina Israél, munggar ka tukang.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "woe"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsat"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nu dosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bebeurat ku"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalalawora"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turunan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "nu ngancurkeun"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "aranjeunna natinggalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "nyieun muji ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nu Sucina Israél"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Nu Sucina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "munggar"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka tukang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:54.120594564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Lamun Yahwe Elohim-mu geus mupus ⟨את⟩ bangsa-bangsa nu Yahwe Elohim-mu masihan ka anjeun ⟨את⟩ taneuh maranehna, jeung anjeun ngawasaanana sarta cicing di kotana jeung di imahna",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "geus mupus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "masihan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh maranehna"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "taneuh maranehna"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "jeung anjeun ngawasaanana"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "sarta cicing"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "di kotana"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "jeung di imahna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:46:57.015167620Z",
+  "model": "glm-5.3"
+}

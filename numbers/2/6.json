@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung baladna jeung nu diitung ti marihna, opat puluh lima rébu jeung opat ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "jeung baladna"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "jeung nu diitung ti marihna"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "opat"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "puluh lima"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jeung opat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:52.119721656Z",
+  "model": "glm-5.3"
+}

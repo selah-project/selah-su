@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung Oholibama ngalahirkeun ⟨את⟩ Yeisy, jeung ⟨את⟩ Yealam, jeung ⟨את⟩ Korach; ieu téh anak-anak Esav nu lahir keur manéhna di tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Jeung Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeisy"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeisy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yealam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yealam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu téh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "lahir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur manéhna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:41.855668905Z",
+  "model": "glm-5.3"
+}

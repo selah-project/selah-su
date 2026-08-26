@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Elohim nyieun ⟨את⟩ rékia, sarta ngabédakeun antawis cai nu di sahandapeun rékia jeung cai nu di luhureun rékia; jadih kitu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "teras nyieun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rékia"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rékia"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "sarta ngabédakeun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antawis"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di sahandapeun"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rékia"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antawis"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rékia"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadih"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:23.408268960Z",
+  "model": "glm-5.3"
+}

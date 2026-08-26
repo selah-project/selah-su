@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Sabab saréhné bakal balik deui ka kabeneran, sanggeus éta sakabéh nu lempung ati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bakal balik deui"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "saréhné"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "sanggeus éta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "nu lempung"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:39.538154143Z",
+  "model": "glm-5.3"
+}

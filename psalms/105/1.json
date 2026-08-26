@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Puji ka Yahwe, ngagero ku ngaranna, wartarkeun di antara ⟨para⟩ bangsa sagala pagawéanana.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Puji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ngagero"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ku ngaranna"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "wartarkeun"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "pagawéan-pagawéanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:25.668101968Z",
+  "model": "glm-5.3"
+}

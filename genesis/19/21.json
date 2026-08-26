@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung manehna ngomong ka anjeunna: Tempo, kuring geus ngangkat raray anjeun ogé pikeun perkara ieu, ulah mabalikkeun ⟨את⟩ kota nu geus anjeun omongkeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka-anjeunna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "kuring-geus-ngangkat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raray-anjeun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pikeun-perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sangkan-henteu"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "mabalikkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "anjeun-omongkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:58.916423791Z",
+  "model": "glm-5.3"
+}

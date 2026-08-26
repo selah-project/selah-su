@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Waktuna nyungsi, jeung waktuna ngaleungitkeun; waktuna miara, jeung waktuna maramalkeun.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktuna"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "nyungsi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktuna"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ngaleungitkeun"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktuna"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "miara"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktuna"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "maramalkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:36.672441521Z",
+  "model": "glm-5.3"
+}

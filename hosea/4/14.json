@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 4:14",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Moal kuring ngahukum anak-anak awéwé aranjeun waktu ⟨maranéhanana⟩ lacur, jeung moal ngahukum minantu-minantu awéwé aranjeun waktu ⟨maranéhanana⟩ jaladar — sabab para lalaki ⟨sorangan⟩ misahkeun diri jeung para palacur, jeung nyembelih korban jeung palacur-palacur suci; balad nu teu ngarti bakal ragrag.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אפקוד",
+      "gloss": "kuring ngahukum"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "anak-anak awéwé aranjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "תזנינה",
+      "gloss": "maranéhanana lacur"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "כלותיכם",
+      "gloss": "minantu-minantu awéwé aranjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "תנאפנה",
+      "gloss": "maranéhanana jaladar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhanana sorangan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "הזנות",
+      "gloss": "para palacur"
+    },
+    {
+      "surface": "יפרדו",
+      "gloss": "misahkeun diri"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "הקדשות",
+      "gloss": "palacur-palacur suci"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "nyembelih korban"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "bakal ragrag"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:23.001615996Z",
+  "model": "glm-5.3"
+}

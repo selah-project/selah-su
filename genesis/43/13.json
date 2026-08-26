@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Jeung ⟨את⟩ sadulur-sadulur aranjeun pibawa, jeung bagéa, balik deui ka ⟨the⟩ jalma éta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "sadulur-sadulur aranjeun"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sadulur-sadulur aranjeun"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "pibawa"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "jeung bagéa"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jalma éta"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:24.818784586Z",
+  "model": "glm-5.3"
+}

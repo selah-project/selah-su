@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Kidang, mazmur karangan Dawid.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidang"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "karangan Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:15.419056961Z",
+  "model": "glm-5.3"
+}

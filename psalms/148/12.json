@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Bujang-bujang ogé jeung papacangan; kolot sarua jeung rumaja",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "bujang-bujang"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé jeung"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "papacangan"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sarua jeung"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "rumaja"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:04.448952435Z",
+  "model": "glm-5.3"
+}

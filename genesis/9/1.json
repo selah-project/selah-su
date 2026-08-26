@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Saterasna Elohim ngabaratkeun ⟨את⟩ Nuh jeung ⟨את⟩ anak-anakna, lajeng Mantenna ngomong ka aranjeunna: Pajengbaran sarta rea anak, eusian ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Saterasna ngabaratkeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nuh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "anak-anakna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng ngomong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "pajengbaran"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "sarta rea anak"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "eusian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨eta⟩ bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:27.587335879Z",
+  "model": "glm-5.3"
+}

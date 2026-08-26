@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Hirup dipénta ti Anjeun, Anjeun méré ka manéhna — panjang poé, salawasna jeung satuluyna.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "dipénta"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti Anjeun"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Anjeun méré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung satuluyna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:14.570103698Z",
+  "model": "glm-5.3"
+}

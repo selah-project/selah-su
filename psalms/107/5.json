@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Laput jeung muriag, kalebet awak hirupna di jerona jadi taya watir",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "lapar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "haus"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefesna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "taya watir"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:02.338085902Z",
+  "model": "glm-5.3"
+}

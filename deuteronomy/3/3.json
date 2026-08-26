@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lajeng Yahwe Elohim urang maserahkeun kana leungeun urang ogé ⟨את⟩ Og raja Bashan jeung ⟨את⟩ sakabéh baladna; lajeng urang ngancurkeun manéhna nepi ka teu nyésakeun ka manéhna hiji nu salamet.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maserahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "kana leungeun urang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og raja Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh baladna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "baladna"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "ngancurkeun manéhna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "teu"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "nyésakeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "nu salamet"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:22.849983164Z",
+  "model": "glm-5.3"
+}

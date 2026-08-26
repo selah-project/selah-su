@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta abdi ngomong ka arinyana: arinyana geus datang nepi ka gunung nu Emori, nu Yahwe Elohim urang maparin ka urang.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "sarta abdi ngomong"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ka arinyana"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "arinyana geus datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "nu Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maparin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka urang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:24.467713164Z",
+  "model": "glm-5.3"
+}

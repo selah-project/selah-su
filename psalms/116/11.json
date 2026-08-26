@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Abdi ngomong dina pangpopohoceun abdi: sagala manusa dusta.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "dina pangpopohoceun abdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:32.317932765Z",
+  "model": "glm-5.3"
+}

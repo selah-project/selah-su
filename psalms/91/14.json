@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Sabab inyana mikacinta ka Kami, ku alatan éta Kami bakal ngabébaskeun ⟨dirina⟩; Kami bakal ngaronjatkeun ⟨dirina⟩, sabab inyana terang Jenengan Kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka Kami"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "inyana mikacinta"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "Kami bakal ngabébaskeun dirina"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "Kami bakal ngaronjatkeun dirina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "inyana terang"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Jenengan Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:54.920478284Z",
+  "model": "glm-5.3"
+}

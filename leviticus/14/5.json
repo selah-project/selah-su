@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung kohen maréntahkeun, jeung disembelih ⟨את⟩ manuk nu hiji kana wadah taneuh liat di luhureun cai nu hirup.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "disembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk nu hiji"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "wadah"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "taneuh liat"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nu hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:21.253478778Z",
+  "model": "glm-5.3"
+}

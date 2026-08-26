@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sarta katénjo ku manéhna utusan Yahwe dina seuneu seuneu-an tina tengah-tengah kai handeuleum; sarta manéhna nempo, sareng hayu, kai handeuleum eta kaduruk dina seuneu, najan kai handeuleum eta henteu kaahing.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Sarta katénjo ku manéhna"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "dina seuneu seuneu-an"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "tina tengah-tengah"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "kai handeuleum"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sarta manéhna nempo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sareng hayu"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "kai handeuleum"
+    },
+    {
+      "surface": "בער",
+      "gloss": "kaduruk"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dina seuneu"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "najan kai handeuleum"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kaahing"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:09.952374583Z",
+  "model": "glm-5.3"
+}

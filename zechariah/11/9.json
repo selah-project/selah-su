@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Turis kuring ngomong: moal kuring angonan ⟨את⟩ aranjeun; nu maot, paéh; nu musnah, musnah; tur nu nyésa, dahar unggal awéwé ⟨את⟩ daging babaturanna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "turis kuring ngomong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "kuring angonan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "nu maot"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "tur nu musnah"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "musnah"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "tur nu nyésa"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "unggal awéwé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "babaturanna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:19:41.426799563Z",
+  "model": "glm-5.3"
+}

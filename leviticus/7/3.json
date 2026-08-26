@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta ⟨את⟩ sakabéh lemakna dibikeun ti dinya: ⟨את⟩ buntut gendut, jeung ⟨את⟩ lemak nu nutupan ⟨את⟩ usus.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh lemakna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "lemakna"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buntut gendut"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "buntut gendut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nu nutupan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usus"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "usus"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:55.725809373Z",
+  "model": "glm-5.3"
+}

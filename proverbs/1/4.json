@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Pikeun méré ka nu polos kaislapan, ka nu ngora pangaweruh jeung kapinteran nyieun putusan.",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "pikeun méré"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "ka nu polos"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "kaislapan"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ka nu ngora"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "jeung kapinteran nyieun putusan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:00.157290937Z",
+  "model": "glm-5.3"
+}

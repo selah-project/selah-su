@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung maranéhna ngomong: Anjeun henteu nyesa kami, jeung henteu anjeun nelengakeun kami, jeung anjeun henteu nyandak naon-naon ti leungeun saha-man.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung maranéhna ngomong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "anjeun nyesa kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "anjeun nelengakeun kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "anjeun nyandak"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saha-man"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "naon-naon"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:14.712009490Z",
+  "model": "glm-5.3"
+}

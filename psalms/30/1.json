@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Mizmor, lagu ngeusikeun ⟨bait⟩-bait ⟨di hareupnana⟩, pikeun palangkungan ⟨Imamat>>><< of <<bait>> of <<David>>.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "palangkungan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:44.082124471Z",
+  "model": "glm-5.3"
+}

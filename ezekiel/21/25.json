@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Maneh nyieun jalan pikeun pedang asup ka ⟨את⟩ Rabbah barudak Ammon, jeung ⟨את⟩ Yehuda di Yerushalaim, ⟨kota⟩ nu dibenteng.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "maneh nyieun"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pikeun asup"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah barudak Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "nu dibenteng"
+    }
+  ],
+  "timestamp": "2026-08-26T13:50:07.685936663Z",
+  "model": "glm-5.3"
+}

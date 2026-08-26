@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 124,
+  "translation": "Kawih tarajé pikeun Dawid. Upama lain Yahwe nu jadi pikeun urang — iyeu, nyaritana, Israél —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kawih"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "upama lain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nu jadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun urang"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iyeu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:06.669424155Z",
+  "model": "glm-5.3"
+}

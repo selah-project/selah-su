@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Datang ka payuneun Anjeun du'a abdi, senggot ceuli Anjeun ka sora tangtang abdi.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Datang"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ka payuneun Anjeun"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "du'a abdi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "senggot"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ceuli Anjeun"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ka sora tangtang abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:19.230447410Z",
+  "model": "glm-5.3"
+}

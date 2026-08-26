@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Yahwe ⟨Raja⟩ salawasna jeung ka Enggeus; bangsa-bangsa musnah ti taneuh-Na.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung ka enggeus"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "musnah"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ti taneuh-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:49.219040339Z",
+  "model": "glm-5.3"
+}

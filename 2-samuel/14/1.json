@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung Yoab putra Tserujah terang yén ati ⟨raja⟩ ka balik deui ka Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "terang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨raja⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka balik deui ka"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:40.884361427Z",
+  "model": "glm-5.3"
+}

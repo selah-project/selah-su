@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Awéwé ngajawab ka ⟨sanca⟩: \"Tina buah kai di kebon urang ngahakan\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Awéwé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "⟨sanca⟩"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Tina buah"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "di kebon"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "urang ngahakan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:48.003195418Z",
+  "model": "glm-5.3"
+}

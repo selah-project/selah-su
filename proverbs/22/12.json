@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Panon-panon Yahwe ngajaga pangaweruh, sarta manehna ngaruksak kecap-kecap nu nyieun khianat.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "panon-panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "ngajaga"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "sarta ngaruksak"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "nu nyieun khianat"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:16.765036058Z",
+  "model": "glm-5.3"
+}

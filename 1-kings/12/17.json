@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sangkan putra-putra Yisrael nu cicing di kota-kota Yehuda, Rexavam jadi raja di luhureunana.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "nu cicing"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "di kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di luhureunana"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rexavam"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:43.499639101Z",
+  "model": "glm-5.3"
+}

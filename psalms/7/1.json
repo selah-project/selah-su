@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sigayon ku Dawid, nu dinyanyikeun ka Yahwe, ngeunaan kecap-kecap Kush, urang Benyamin.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Sigayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "dinyanyikeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "urang"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benyamin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:44.645777191Z",
+  "model": "glm-5.3"
+}

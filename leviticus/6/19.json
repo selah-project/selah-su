@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Imam nu ngararawes kurban dosa ⟨את⟩ eta kudu ngahakanana; di tempat suci kudu didahar, di buruan ténda patamuan.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "nu ngararawes dosa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "eta (kurban dosa)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "kudu ngahakanana"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kudu didahar"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di buruan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ténda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patamuan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:34.515777728Z",
+  "model": "glm-5.3"
+}

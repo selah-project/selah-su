@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Naha ⟨hadé⟩ lamun Anjeunna mariksakeun ⟨את⟩ anjeun, upama ngomong ka saurang manusa anjeun ngomong ka Anjeunna?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "mariksakeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "ngomong ka"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "ka saurang manusa"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "anjeun ngomong ka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:09:06.600897491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Nyanyikeun ka ⟨Anjeunna⟩ kawih anyar; pakeun alusna petikan ku sora taruang.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "nyanyikeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kawih"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "pakeun alusna"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "petikan"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ku sora taruang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:53.836535323Z",
+  "model": "glm-5.3"
+}

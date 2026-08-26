@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Komo sok bilang ka nu bener: “Lain lakuni alus,” sabab buah tina pamelanganana maranehna bakal ngahontal.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "komo sok bilang"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ka nu bener"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lain lakuni alus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "tina pamelanganana maranehna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal ngahontal"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:00.160332887Z",
+  "model": "glm-5.3"
+}

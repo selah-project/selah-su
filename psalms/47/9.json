@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Elohim jumeneng raja luhureun bangsa-bangsa; Elohim diuk dina takhta kasucian-Na.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "jumeneng raja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasucian-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:26.708006273Z",
+  "model": "glm-5.3"
+}

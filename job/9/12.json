@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tingali, lamun ⟨Anjeunna⟩ ngarampag, saha nu bisa mulikeun? Saha nu bakal nyarita ka ⟨Anjeunna⟩: Naon anu anjeun pigawé?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tingali"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "ngarampag"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "nu bisa mulikeun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bakal nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Naon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun pigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:16.757232770Z",
+  "model": "glm-5.3"
+}

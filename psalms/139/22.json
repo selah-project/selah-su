@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Kalawan kabencian nu parna kuring mikabenci maranéhna; jadi musuh maranéhna keur kuring",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "parna (nu tungtungna)"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "kabencian"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "kuring mikabenci maranéhna"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:56.520924768Z",
+  "model": "glm-5.3"
+}

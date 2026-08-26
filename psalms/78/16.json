@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Sarta Anjeunna ngaluarkeun aliran ngocor tina batu, sarta nurunkeun cai sapertos walungan-walungan.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ngaluarkeun"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "aliran ngocor"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "tina batu"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "sapertos walungan-walungan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:44.741089805Z",
+  "model": "glm-5.3"
+}

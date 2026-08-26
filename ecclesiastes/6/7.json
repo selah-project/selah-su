@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sagala kasusah manusa pikeun sungutna, tapi亭 nélpas ogé moal wareg.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "pikeun sungutna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "tapi ogé"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "néfpés"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "wareg"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:24.501108389Z",
+  "model": "glm-5.3"
+}

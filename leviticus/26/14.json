@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Tapi upama anjeun teu ngadenge ka Kami, sarta teu ngalaksanakeun ⟨את⟩ sadaya parentah ieu;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi upama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "anjeun ngadenge"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "anjeun ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya parentah ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:17.741428119Z",
+  "model": "glm-5.3"
+}

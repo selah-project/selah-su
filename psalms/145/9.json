@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Alus Yahwe ka sadayana, jeung rahmat-Na ka luhureun sadaya karya-karyana.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadayana"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "jeung rahmat-Na"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karya-karyana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:27.781132206Z",
+  "model": "glm-5.3"
+}

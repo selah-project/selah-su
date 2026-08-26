@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 67,
+  "translation": "Bumi geus méré sasarihana; mugia Élohím, Élohím urang, mberkahatan urang.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "geus méré"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sasarihana"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "mugia mberkahatan urang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohím"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Élohím urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:09.502674948Z",
+  "model": "glm-5.3"
+}

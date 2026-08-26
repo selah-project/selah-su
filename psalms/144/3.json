@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Yahwe, naon manusa nepi ka Anjeun munwangetanana, putra maotmortal nepi ka Anjeun ngitunganana?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "nepi ka Anjeun munwangetanana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "maotmortal"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "nepi ka Anjeun ngitunganana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:49.952941532Z",
+  "model": "glm-5.3"
+}

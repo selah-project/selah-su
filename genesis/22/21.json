@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uts anak hijina, jeung ⟨את⟩ Buz lanceukna, jeung ⟨את⟩ Kemuel bapa Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uts"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak hijina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "lanceukna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-26T16:37:29.076088784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 130,
+  "translation": "Jeung Anjeunna baris mikedalkeun ⟨את⟩ Israél ti sadaya kalalangkang-Na.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Jeung Anjeunna"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "baris mikedalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "kalalangkang-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:25.246789777Z",
+  "model": "glm-5.3"
+}

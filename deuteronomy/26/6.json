@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung urang Mitsrayim ngarugikeun ⟨את⟩ urang, jeung ngsikeun urang, jeung maranéhna nempatkeun ka luhur urang pagawean nu beurat.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "jeung ngarugikeun"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "urang"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "urang Mitsrayim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "jeung ngsikeun urang"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "jeung maranéhna nempatkeun"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka luhur urang"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "pagawean"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nu beurat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:12.067157656Z",
+  "model": "glm-5.3"
+}

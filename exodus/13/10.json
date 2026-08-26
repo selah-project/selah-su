@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Sarta anjeun bakal miara ⟨את⟩ katangtuan ieu dina waktuna nu geus ditangtukeun, ti poé ka poé.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "sarta anjeun bakal miara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katangtuan ieu"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "katangtuan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "dina waktuna nu geus ditangtukeun"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ti poé"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ka poé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:52.742929247Z",
+  "model": "glm-5.3"
+}

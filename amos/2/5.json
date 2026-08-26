@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung kuring bakal ngirim seuneu ka Yehuda, sarta bakal ngahakan benténg-benténg Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "jeung kuring bakal ngirim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ka Yehuda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "sarta bakal ngahakan"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "benténg-benténg"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:08:25.587788106Z",
+  "model": "glm-5.3"
+}

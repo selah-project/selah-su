@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 113,
+  "translation": "Luhur Sanggiah Yahwe tina sagala bangsa, di luhureun ⟨the⟩ langit-langit kamulyaanana.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "על",
+      "gloss": "tina\/luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamulyaanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:15.568121778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Songgog sora pangbanda abdi nalika abdi ngarérénge ka Anjean, nalika abdi ngangkat leungeun-leungeun abdi ka bait suci anu kudas Anjean.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Songgog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pangbanda abdi"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "nalika abdi ngarérénge"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjean"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "nalika abdi ngangkat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun-leungeun abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "bait suci"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "anu kudas Anjean"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:25.855832173Z",
+  "model": "glm-5.3"
+}

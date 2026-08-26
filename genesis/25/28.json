@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung Yitsxak mikanyaah ka ⟨את⟩ Esav, sabab buruan aya dina bahuna; ari Rivkah mikanyaah ka ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Jeung mikanyaah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "buruan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "aya dina bahuna"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "ari Rivkah"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "mikanyaah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T16:37:07.657204842Z",
+  "model": "glm-5.3"
+}

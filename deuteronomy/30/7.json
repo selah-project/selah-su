@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung Yahwe Elohim anjeun nempatkeun ⟨את⟩ sakabéh kutukan-kutukan ieu ka luhur musuh-musuh anjeun jeung ka luhur nu muci ka anjeun, nu ngudag anjeun.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "jeung nempatkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh kutukan-kutukan ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "kutukan-kutukan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka luhur"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "nu muci ka anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ngudag anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:13.727315525Z",
+  "model": "glm-5.3"
+}

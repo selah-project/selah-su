@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Kangge Panginton, mazmur kangge Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kangge Panginton"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kangge Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:02.671501499Z",
+  "model": "glm-5.3"
+}

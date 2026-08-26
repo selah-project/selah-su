@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Balik manéhna ⟨את⟩ jeung anjeunna, jeung manéhna dahar roti di imahna, jeung manéhna inum cai.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "jeung manéhna balik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeung anjeunna"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "jeung manéhna dahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di imahna"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "jeung manéhna inum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:34.149188789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Tuluy manéhna mimitikeun bangkéna di kuburanana, sarta marae miceu ka saluhureunana, nyebutkeun: Hó, adik kuring!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "mimitikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkéna"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "bangkéna"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "di kuburanana"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "sarta marae miceu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka saluhureunana"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hó"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "adik kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:44.584539548Z",
+  "model": "glm-5.3"
+}

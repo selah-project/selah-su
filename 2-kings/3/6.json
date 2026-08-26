@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras raja Yehoram kaluar ti Shomron dina poé éta, sarta méré tandang ka ⟨את⟩ sagala Israel.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "ti Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "méré tandang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:27.567230755Z",
+  "model": "glm-5.3"
+}

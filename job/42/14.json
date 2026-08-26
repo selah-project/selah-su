@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Anjeunna nyebut ngaran ⟨את⟩ nu munggaran Yemimah, jeung ngaran nu kadua Ketsiah, jeung ngaran nu katilu Qeren-Hapukh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nyebut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nu munggaran"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Yemimah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nu kadua"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Ketsiah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "nu katilu"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Qeren"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "Hapukh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:22:35.655327712Z",
+  "model": "glm-5.3"
+}

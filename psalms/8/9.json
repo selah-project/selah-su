@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Manuk langit jeung lauk-lauk laut, nu ngaliwat lampah-lampah laut.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "jeung lauk-lauk"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "lampah-lampah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:50.788261050Z",
+  "model": "glm-5.3"
+}

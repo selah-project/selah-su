@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Lajeng sapi-sapi karempeng tur goréng ngahakan ⟨את⟩ tujuh sapi munggaran nu gendut.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "lajeng ngahakan"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sapi-sapi"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "karempeng"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "tur goréng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh sapi munggaran nu gendut"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "munggaran"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "nu gendut"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:13.468259217Z",
+  "model": "glm-5.3"
+}

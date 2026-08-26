@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Naha lain anjeun ⟨nu⟩ ngagaringkeun laut, cai juru jero nu agung, ⟨nu⟩ ngajadikeun juru laut jalan pikeun nu dibébaskeun ngaliwat?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Naha lain"
+    },
+    {
+      "surface": "את",
+      "gloss": "anjeun",
+      "marks": "anjeun — pronomina H859"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "ngagaringkeun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cai"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "juru jero"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "agung"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ngajadikeun"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "juru-juru"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "nu dibébaskeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:13.635538623Z",
+  "model": "glm-5.3"
+}

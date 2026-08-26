@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Shét hirup sanggeus ngelahirkeun ⟨את⟩ Enosy tujuh taun jeung dalapan ratus taun, teras ngelahirkeun putra-putri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jeung hirup"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shét"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ngelahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosy"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosy"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "jeung dalapan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "teras ngelahirkeun"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jeung putri-putri"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:15.355406240Z",
+  "model": "glm-5.3"
+}

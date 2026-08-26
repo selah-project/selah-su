@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Putra nu wijaksana — parempah ramana; tapi nu ngécéh henteu ngadéngé hardik.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nu wijaksana"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "parempah"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "tapi nu ngécéh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "hardik"
+    }
+  ],
+  "timestamp": "2026-08-26T14:59:06.111241933Z",
+  "model": "glm-5.3"
+}

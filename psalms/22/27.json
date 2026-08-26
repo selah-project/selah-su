@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jalma-jalma andap bakal dahar sarta kacukuhan; aranjeunna bakal muji Yahwe, nu milari Mantenna; haté kabéh aranjeunna, hirup salawasna.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal dahar"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "jalma-jalma andap"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "sarta kacukuhan"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "bakal muji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "nu milari Mantenna"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "haté kabéh aranjeunna"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:58.761912955Z",
+  "model": "glm-5.3"
+}

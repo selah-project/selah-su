@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sarta sanggeusna Éilon urang Zevulun nyingkah ⟨את⟩ Yisrael, sarta manéhna nyingkah ⟨את⟩ Yisrael sapuluh taun.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "nyingkah"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sanggeusna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Éilon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "urang Zevulun"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "sarta manéhna nyingkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:08:17.382712617Z",
+  "model": "glm-5.3"
+}

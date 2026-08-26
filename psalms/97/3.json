@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Seuneu lumpat di payuneun-Na, sarta ngahontalkeun seuneu ka nu ngalieuk di sabudeureun-Na.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di payuneun-Na"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "lumpat"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "sarta ngahontalkeun seuneu ka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di sabudeureun"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "nu ngalieuk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:48.211317625Z",
+  "model": "glm-5.3"
+}

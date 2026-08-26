@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Alus jeung bener ⟨the⟩ Yahwe; ku lantaran éta Anjeun mawa ngatikkeun ⟨את⟩ parapat-dosa dina jalan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Alus"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "jeung bener"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku lantaran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "mawa ngatikkeun"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "parapat-dosa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:49.983268265Z",
+  "model": "glm-5.3"
+}

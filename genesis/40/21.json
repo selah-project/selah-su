@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Sarta anjeunna mulangkeun ⟨את⟩ pangawasa nu ngawurukan kana pancén ngawurukanana, jeung anjeunna méré ⟨the⟩ cangkir kana leungeun Paroh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mulangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangawasa nu ngawurukan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "nu ngawurukan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "pancén ngawurukanana"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "jeung anjeunna méré"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "cangkir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כף",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:43.571355287Z",
+  "model": "glm-5.3"
+}

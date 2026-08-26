@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Sabab anjeunna nguatkeun palang-palang panto anje, muga-muga kahadiranana ngabaranah budak-budak anje di tengah-tengah anje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "nguatkeun"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "palang-palang"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "panto anje"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ngabaranah"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "budak-budak anje"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di tengah-tengah anje"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:52.692193752Z",
+  "model": "glm-5.3"
+}

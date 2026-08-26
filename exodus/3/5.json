@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ⟨anjingna ngandika⟩: ulah arappeun ka dieu; sing leupaskeun sapatu anjeun ti luhur suku anjeun, sabab tempat anu anjeun nangtung di luhurna taneuh suci ⟨éta⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "arappeun"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ka dieu"
+    },
+    {
+      "surface": "של",
+      "gloss": "sing leupaskeun"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "sapatu anjeun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "suku anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di luhurna"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨éta⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:30.777801930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Teras Tsefanyah sang imam maca ⟨את⟩ surat ieu dina ceuli Yirmeyah sang nabi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "teras maca"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surat ieu"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dina ceuli"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:33:13.820518015Z",
+  "model": "glm-5.3"
+}

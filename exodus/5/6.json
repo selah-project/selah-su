@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jadi dina poé éta Paroh maréntahkeun ⟨את⟩ nu ngajemprang bangsa jeung ⟨את⟩ punggawana, sangkan ngomongkeun:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Jadi maréntahkeun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ngajemprang bangsa"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "nu ngajemprang"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "punggawana"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "punggawana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngomongkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:35.929801123Z",
+  "model": "glm-5.3"
+}

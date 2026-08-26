@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Sabab Yahwe ngahukum umat-Na, jeung ka palayan-palayan-Na diri-Na ngarumaos.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ngahukum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palayan-palayan-Na"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "diri-Na ngarumaos"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.390051638Z",
+  "model": "glm-5.3"
+}

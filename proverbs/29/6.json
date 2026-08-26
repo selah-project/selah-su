@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Dina kalakuan ngalanggar jalma jahat aya ranjang ⟨the⟩, tapi nu bener ngahaleuang sarta sukur-sukur.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "dina kalakuan ngalanggar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ranjang"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "tapi nu bener"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "ngahaleuang"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "sarta sukur-sukur"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:47.053514426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 129,
+  "translation": "Jadi ⟨they⟩ sapias jukut luhureun hateup, nu saméméh dicabut geus layu.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sapias jukut"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "luhureun hateup"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "dicabut"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "geus layu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:50.305232724Z",
+  "model": "glm-5.3"
+}

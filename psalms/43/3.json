@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Singkirkeun cahaya-Mu jeung kanyataan-Mu — maranehna nu mawa abdi, mawa abdi ka gunung sucian-Mu jeung ka tempat-tempat cicingan-Mu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Singkirkeun"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "cahaya-Mu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "jeung kanyataan-Mu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "nu mawa abdi"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "mawa abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sucian-Mu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "tempat-tempat cicingan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:42.748845533Z",
+  "model": "glm-5.3"
+}

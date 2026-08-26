@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung aranjeunna bakal giris jeung muriang alatan Kush, pangharepan maranehna, jeung alatan Mitsrajim, kamulyaan maranehna.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "giris"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "muriang"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "pangharepan maranehna"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jeung alatan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "kamulyaan maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:23.299345502Z",
+  "model": "glm-5.3"
+}

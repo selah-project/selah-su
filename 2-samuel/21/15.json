@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung aya deui perang pikeun urang Pelisti jeung ⟨את⟩ Yisrael, turun Dawid jeung abdi-abdana jeung anjeunna, jeung aranjeunna perang ngalawan ⟨את⟩ Pelisti, jeung Dawid cape.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "jeung aya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "pikeun urang Pelisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "jeung abdi-abdana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung anjeunna"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "jeung aranjeunna perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisti"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "jeung cape"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T12:35:39.651720846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Di Gibeon Yahwe nembong ka Shelomoh dina ngimpi peuting ⟨éta⟩, tur Elohim nyarita: penta naon anu abdi béré ka anjeun.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Di Gibeon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nembong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "dina ngimpi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "peuting ⟨éta⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tur nyarita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "penta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "abdi béré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:38:31.771419294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Bagikeun kahadéan ka abdi-Mu, sangkan hirup kuring sarta ngajaga kecap-Mu.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Bagikeun kahadéan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "sangkan hirup kuring"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "sarta ngajaga"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kecap-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:24.131275246Z",
+  "model": "glm-5.3"
+}

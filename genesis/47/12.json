@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Teras Yosef nanyaahian ⟨את⟩ ramana jeung ⟨את⟩ sadulur-sadulurna jeung ⟨את⟩ sakabéh imah ramana ku dahareun, numutkeun sungut awak leutik-leutik.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "teras nanyaahian"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadulur-sadulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ku dahareun"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "numutkeun sungut"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "awak leutik-leutik"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:29.714281076Z",
+  "model": "glm-5.3"
+}

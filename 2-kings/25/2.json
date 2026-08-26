@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sarta kota éta asup kana kapancéngan tepi ka tahun ka-sabelas Raja Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota éta"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "kana kapancéngan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tepi ka"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ka-sabelas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:28.599630140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Ari gurun jeung tanah karing bade gumbira, jeung dataran stepa bade kariaariaan, sarta baris mekar jiga habatsélet.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "bade gumbira"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "jeung tanah karing"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "bade kariaariaan"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "dataran stepa"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "baris mekar"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "jiga habatsélet"
+    }
+  ],
+  "timestamp": "2026-08-26T13:11:20.288455806Z",
+  "model": "glm-5.3"
+}

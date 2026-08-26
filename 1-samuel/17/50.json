@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Lajeng Dawid jadi leuwih kuat ti ⟨éta⟩ Pelishti ku jémpéng jeung ku batu, sarta ngajempang ⟨את⟩ ⟨éta⟩ Pelishti sarta maéhanana; jeung pedang euweuh dina leungeun Dawid.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "jadi leuwih kuat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "⟨éta⟩ Pelishti"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "ku jémpéng"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "jeung ku batu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ngajempang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨éta⟩ Pelishti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "⟨éta⟩ Pelishti"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "maéhanana"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "jeung pedang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dina leungeun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:01.654700447Z",
+  "model": "glm-5.3"
+}

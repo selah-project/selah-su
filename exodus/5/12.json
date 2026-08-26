@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Maka ⟨hiji⟩ rahayat sumebar ka sakuliah tana Mitsrajim pikeun ngumpulkeun jami garing gaganti jami.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "sumebar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahayat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka sakuliah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "pikeun ngumpulkeun"
+    },
+    {
+      "surface": "קש",
+      "gloss": "jami garing"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "gaganti jami"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:03.403018857Z",
+  "model": "glm-5.3"
+}

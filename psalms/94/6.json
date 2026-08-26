@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Randa jeung bari dumuk maranéhna geura maéhan, jeung yatim-yatim maranéhna singlar.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "randa"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "jeung bari dumuk"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "maranéhna geura maéhan"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "jeung yatim-yatim"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "maranéhna singlar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:43.895994242Z",
+  "model": "glm-5.3"
+}

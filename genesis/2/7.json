@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tuluy Yahwe Elohim ngawangun ⟨את⟩ jalma tina keusuk tina taneuh, sarta mihikeun dina irungna hiliwir hirup, jadi jalma jadi ⟨a⟩ nefesh hirup.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "tuluy ngawangun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "keusuk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "sarta mihikeun"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "dina irungna"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "hiliwir"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "jadi nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:23.748671997Z",
+  "model": "glm-5.3"
+}

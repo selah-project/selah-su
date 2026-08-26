@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Mairan aranna bakal nyarita: Leungeun kami henteu ngalirkeun ⟨את⟩ getih ieu, jeung panon kami henteu nempo.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "mairan aranna"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bakal nyarita"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "leungeun kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ngalirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih ieu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "jeung panon kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nempo"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:46.289354808Z",
+  "model": "glm-5.3"
+}

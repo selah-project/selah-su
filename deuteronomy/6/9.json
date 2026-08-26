@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung tuliskeun aranjeunna dina angka-panto imah anjeun jeung dina panto-panto gerbang anjeun.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "jeung tuliskeun aranjeunna"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "angka-panto"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imah anjeun"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "jeung dina panto-panto gerbang anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:03.894643371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Hayu kuring ngaliwat ti nagara anjeul; di jalan, di jalan kuring leumpang; moal nyimpang ka katuhu jeung ka kenca.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "hayu kuring ngaliwat"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ti nagara anjeul"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuring leumpang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "nyimpang"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ka katuhu"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "jeung ka kenca"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:01.801299542Z",
+  "model": "glm-5.3"
+}

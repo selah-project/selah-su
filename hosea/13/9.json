@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Karuksakan anjeun, hé Israél — sabab pangwangsal anjeun aya di bisa-Ku.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "karuksakan anjeun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "hé Israél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di bisa-Ku"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "pangwangsal anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:08.611762801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Beurang jeung peuting maranehana ngurilinganana dina pinding-pindingna, jeung katindas jeung karusakan di tengah-tengahna.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "beurang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jeung peuting"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ngurilinganana"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "pinding-pindingna"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "jeung katindas"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "jeung karusakan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:24.531867162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Sabab kami tuntas dina lenges anjeun, jeung dina kaambek anjeun kami kagété.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "kami tuntas"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dina lenges anjeun"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "jeung dina kaambek anjeun"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "kami kagété"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:20.526208188Z",
+  "model": "glm-5.3"
+}

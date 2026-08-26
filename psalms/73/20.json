@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Siga ngimpi nalika ngahaturan; éh Adonay, nalika Anjeun ngabangkit, Anjeun bakal ngahina rupa maranéhanana.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "siga ngimpi"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "nalika ngahaturan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nalika ngabangkit"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "rupa maranéhanana"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "Anjeun bakal ngahina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:24.917161149Z",
+  "model": "glm-5.3"
+}

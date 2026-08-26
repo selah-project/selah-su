@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Percayakeun ka Yahwe salawasna, sabab di Yah, Yahwe mah batu salilana.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Percayakeun"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "(salilana)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "di Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "salilana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:20.193523209Z",
+  "model": "glm-5.3"
+}

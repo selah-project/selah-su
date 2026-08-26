@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Mousuh-musuh Anjeun ngagorok di tengah pasamoan Anjeun; maranehna ngaganjing panji-panji maranehna jadi tanda-tanda.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "ngagorok"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "mousuh-musuh Anjeun"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "pasamoan Anjeun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "maranehna ngaganjing"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "panji-panji maranehna"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "jadi tanda-tanda"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:32.536322659Z",
+  "model": "glm-5.3"
+}

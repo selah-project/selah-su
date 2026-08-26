@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Pikeun miceun hikmah jeung pangawéuh, pikeun ngartos omongan-omongan kana harti bener.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "pikeun miceun"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "jeung pangawéuh"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "pikeun ngartos"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "omongan-omongan"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kana harti bener"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:00.157052540Z",
+  "model": "glm-5.3"
+}

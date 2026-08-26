@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Paroh nyarita: Saha Yahwe, nu kuring kudu ngadangukeun sora-Na pikeun miceun ⟨את⟩ Israél? Teu nyaho kuring ⟨את⟩ Yahwe, jeung ogé ⟨את⟩ Israél moal kuring piceun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "kuring ngadangukeun"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sora-Na"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "pikeun miceun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nyaho kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "kuring piceun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:40.106505696Z",
+  "model": "glm-5.3"
+}

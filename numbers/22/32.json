@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 22:32",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung utusan Yahwe saurna ka anjeunna: \"Ku naon anjeun ngabeukitan ⟨את⟩ kaleuheut anjeun ieu tilu kali? Tempo, kuring kaluar jadi panghalang, sabab jalanana miring sanggah ka payuneun kuring.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung-saurna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka-anjeunna"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "anjeun-ngabeukitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaleuheut anjeun"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "kaleuheut-anjeun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "לשטן",
+      "gloss": "jadi-panghalang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ירט",
+      "gloss": "miring-sanggah"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalanana"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ka-payuneun-kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T11:34:27.039080523Z",
+  "model": "glm-5.3"
+}

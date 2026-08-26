@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sabab euweuh nu ngémut ka Anjeun di kamaotan; di Sheol saha nu miji ka Anjeun?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "במות",
+      "gloss": "di kamaotan"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "pangémut ka Anjeun"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "di Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "nu miji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:41.772255078Z",
+  "model": "glm-5.3"
+}

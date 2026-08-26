@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Kuring geus ngagunting ⟨את⟩ perjangjian ka nu dipilih-Ku; kuring geus sumpah ka David, abdi kuring.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "kuring geus ngagunting"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "ka nu dipilih-Ku"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "kuring geus sumpah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:05.003900034Z",
+  "model": "glm-5.3"
+}

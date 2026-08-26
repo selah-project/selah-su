@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung ogé ka Lot, nu indit ⟨את⟩ Avram, aya domba jeung sapi jeung khémah.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "ka Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nu indit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jeung sapi"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "jeung khémah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:54.808925968Z",
+  "model": "glm-5.3"
+}

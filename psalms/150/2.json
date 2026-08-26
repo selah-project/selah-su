@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 150,
+  "translation": "Pujilah anjeunna dina kagagasan-Na, pujilah anjeunna luyu jeung kaagungan-Na.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah anjeunna"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "dina kagagasan-Na"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah anjeunna"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "luyu jeung"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kaagungan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:00.978750948Z",
+  "model": "glm-5.3"
+}

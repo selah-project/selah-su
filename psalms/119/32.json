@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jalan parentah-Mu abdi lumpat, sabab Anjeun ngalegaan ati abdi.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentah-Mu"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "abdi lumpat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "Anjeun ngalegaan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:22.659303263Z",
+  "model": "glm-5.3"
+}

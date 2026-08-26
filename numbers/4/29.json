@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Putra-putra Merari, nurutkeun margana, nurutkeun imah bapana, anjeun ngarondah ⟨את⟩ maranehna.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nurutkeun margana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nurutkeun imah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "anjeun ngarondah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:25:04.495427992Z",
+  "model": "glm-5.3"
+}

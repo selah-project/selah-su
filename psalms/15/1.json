@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Mizmor pikeun Dawid. Yahwe, saha nu nganjang dina khemah-Mu? Saha nu cicing di gunung suci-Mu?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "nganjang"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "dina khemah-Mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "suci-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:48.330210593Z",
+  "model": "glm-5.3"
+}

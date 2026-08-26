@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Singkah, Yahwe! El, angkat leungeun-Mu; ulah poho ⟨את⟩ ka nu-nu miskin!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "singkah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "poho"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ka-nu-nu-miskin",
+      "marks": "ka nu-nu miskin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:18.892657156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Maranéhna benci ka nu ngora-negri di gerbang, jeung ka nu nyarita jujur maranéhna ngarandeuhan.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "benci"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gerbang"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "nu ngora-negri"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "jeung nu nyarita"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "jujur\/sampurna"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "ngarandeuhan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:10:03.688464249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Yahwe geus ngadangu pamundel sim kuring; Yahwe nampa dongdeng sim kuring.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "geus ngadangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "pamundel sim kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "dongdeng sim kuring"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nampa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:17.395133541Z",
+  "model": "glm-5.3"
+}

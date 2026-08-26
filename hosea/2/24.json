@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung bumi bakal ngajawab ⟨את⟩ jagal, jeung ⟨את⟩ anggur anyar, jeung ⟨את⟩ minyak; jeung aranjeunna bakal ngajawab ⟨את⟩ Yitsreél.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "jeung bumi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bakal ngajawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jagal"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "jagal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "anggur anyar"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "anggur anyar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "והם",
+      "gloss": "jeung aranjeunna"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bakal ngajawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsreél"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yitsreél"
+    }
+  ],
+  "timestamp": "2026-08-26T17:08:05.345649765Z",
+  "model": "glm-5.3"
+}

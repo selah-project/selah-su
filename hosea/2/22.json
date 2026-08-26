@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung kuring baris melamar anjeun ka kuring dina kasatiaan; sarta anjeun baris ngawanoh ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "jeung kuring baris melamar anjeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dina kasatiaan"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "sarta anjeun baris ngawanoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T17:07:30.466358618Z",
+  "model": "glm-5.3"
+}

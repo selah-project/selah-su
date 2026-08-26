@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun nu bogaana babarenganana, henteu bayar; lamun diupah anjeunna, datang kalawan upahna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "nu bogaana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarenganana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bayar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "diupah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anja"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "kalawan upahna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:19.986352323Z",
+  "model": "glm-5.3"
+}

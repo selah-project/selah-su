@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung aranjeun kudu ngajaga ⟨את⟩ katangtuan-katangtuan Kami jeung ⟨את⟩ putusan-putusan Kami, sarta ulah migawé ti sadaya kacolétan-kacolétan ieu, boh nu bungaheungan di tanah ieu boh nu cicing di antara aranjeun.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kudu ngajaga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katangtuan-katangtuan Kami"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katangtuan-katangtuan Kami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putusan-putusan Kami"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-putusan Kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "migawé"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "kacolétan-kacolétan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "nu bungaheungan"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "boh nu cicing"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nu cicing"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di antara aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:34.905376062Z",
+  "model": "glm-5.3"
+}

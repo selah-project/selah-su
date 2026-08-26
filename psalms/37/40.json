@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sarta Yahwe nulungan maranehna sarta nangtukeun kaluarna — nangtukeun kaluarna tina ⟨ה⟩ nu jahat — sarta nyalametkeun maranehna, sabab maranehna numpang suka ka Anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "sarta nulungan maranehna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "sarta nangtukeun kaluarna"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "nangtukeun kaluarna"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "tina nu jahat"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "sarta nyalametkeun maranehna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "numpang suka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:25.925924489Z",
+  "model": "glm-5.3"
+}

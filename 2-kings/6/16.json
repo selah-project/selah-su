@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung anjeunna ngandika, \"Ulah sieun, sabab leuwih loba nu ⟨⟨ aya ⟩⟩ jeung urang batan nu ⟨⟨ aya ⟩⟩ ⟨את⟩ jeung maranehna.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "leuwih loba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ jeung urang"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "batan nu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ jeung maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:22.004177486Z",
+  "model": "glm-5.3"
+}

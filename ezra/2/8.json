@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Barang-barang ⟨ti⟩ Zattu: salapan ratus jeung opat puluh jeung lima.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "barang-barang ⟨ti⟩"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zattu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "salapan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "jeung opat puluh"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "jeung lima"
+    }
+  ],
+  "timestamp": "2026-08-26T15:50:47.018629283Z",
+  "model": "glm-5.3"
+}

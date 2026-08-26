@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Lajeng Shmuel nyaritakeun ⟨את⟩ sadaya kecap-kecap Yahwe ka bangsa nu nyuhunkeun ⟨את⟩ ti anjeunna saurang raja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyaritakeun"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "nu nyuhunkeun"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ti anjeunna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:46.149561093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Segub nimbulkeun ⟨את⟩ Yair, jadi aya pikeun manehna dua puluh tilu kota di ⟨the⟩ tanah Gilad.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "jeung Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nimbulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yair"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manehna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-26T16:05:20.948435524Z",
+  "model": "glm-5.3"
+}

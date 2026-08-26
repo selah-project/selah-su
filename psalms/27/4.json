@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Hiji anu dipenta abdi ti ⟨את⟩ Yahwe — eta nu diancohkeun abdi: cicing di imah Yahwe sadintena hirup abdi, pikeun nempo kana kageulannana Yahwe jeung mios-ulos di jero baléna-Na.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "dipenta abdi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "eta nu diancohkeun abdi"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "diancohkeun abdi"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "cicing abdi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sami-"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dintena"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hirup abdi"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "kana kageulannana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "jeung mios-ulos"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "di jero baléna-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:08.790678748Z",
+  "model": "glm-5.3"
+}

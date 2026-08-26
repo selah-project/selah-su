@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta anjeunna nyarita ka putri-putrina: turaha anjeunna? kunaon ieu, ngantep ⟨את⟩ jalma eta? Seruruan anjeunna, supaya anjeunna tiasa kadahar roti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anjeunna nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "putri-putrina"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "turaha anjeunna"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kunaon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "ngantep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma eta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jalma eta"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "seruruan anjeunna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "anjeunna kadahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:02.945070545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung kolot-kolot anjeun jeung para hakim anjeun kaluar, jeung maraneha ngukur ka kota-kota nu aya di sabudeureun mayit éta.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "jeung kaluar"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "kolot-kolot anjeun"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "jeung hakim anjeun"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "jeung maraneha ngukur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "di sabudeureun"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "mayit éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:32.985223608Z",
+  "model": "glm-5.3"
+}

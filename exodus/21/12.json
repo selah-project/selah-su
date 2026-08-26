@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Nu ngagempor saurang jalma nepi ka paéh, pasti dihukum paéh.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "nu ngagempor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang jalma"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "nepi ka paéh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti paéh"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dihukum paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:56.555217107Z",
+  "model": "glm-5.3"
+}

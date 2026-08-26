@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sarta aranjeunna nyandak ⟨את⟩ Lot jeung ⟨את⟩ bandana, putra adi-na Avram, lajeng aranjeunna angkat; ari ⟨he⟩ nganjrek di Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "sarta aranjeunna nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bandana"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "bandana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "adi-na"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lajeng aranjeunna angkat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ari ⟨he⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nganjrek"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "di Sodom"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:03.100960838Z",
+  "model": "glm-5.3"
+}

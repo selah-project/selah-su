@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Upami anjeun miungan ⟨את⟩ Yahwe sarta ngawula allah-allah deungeun, manéhna baralik deui sarta ngabalukarkeun kabencatan ka anjeun, sarta baralik ngarumpak anjeun, sanggeus méméh mah manéhna ngabarogah ka anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Upami"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "anjeun miungan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "sarta ngawula"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "deungeun"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "baralik deui"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "sarta ngabalukarkeun kajahatan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "sarta ngarumpak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ngabarogah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:10.348572700Z",
+  "model": "glm-5.3"
+}

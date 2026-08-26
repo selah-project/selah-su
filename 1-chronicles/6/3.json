@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung putra-putra Kehat: Amram, Yitsxar, Chevron, jeung Uziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "jeung Yitsxar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "jeung Chevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "jeung Uziel"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:39.759358058Z",
+  "model": "glm-5.3"
+}

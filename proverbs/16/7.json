@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Nalika jalan-jalan saurang jalma ngahatur ka Yahwe, musuh-musuhna ogé ⟨⟨dianteuran⟩→ diantepkeun daméy jeung ⟨את⟩ manéhna.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "nalika ngahatur ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang jalma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "musuh-musuhna"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "diantepkeun daméy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:59:30.070191512Z",
+  "model": "glm-5.3"
+}

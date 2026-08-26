@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung raja nyarita ka nu-nu wijaksana, nu nyaho waktu-waktu — sabab kitulah carita raja ka payuneun saha waé nu nyaho dat jeung putusan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ka nu-nu wijaksana"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "nu nyaho"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "waktu-waktu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "carita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka payuneun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saha waé"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "nu nyaho"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "jeung putusan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:13.251912961Z",
+  "model": "glm-5.3"
+}

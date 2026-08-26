@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Bogoh kuring, cageur kecap-kecap kuring, jeung parentah-parentah kuring sing(simpen) pisan ⟨את⟩ babarengan jeung anjeun.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bogoh kuring"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "cageur"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kecap-kecap kuring"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "jeung parentah-parentah kuring"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "sing(simpen) pisan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ babarengan jeung anjeun",
+      "marks": "babarengan jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:01.757049343Z",
+  "model": "glm-5.3"
+}

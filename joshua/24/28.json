@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Tuluy Yehoshua micangan ⟨את⟩ bengbara, jalma-jalma masing-masing ka warisanana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "micangan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bengbara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bengbara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma-jalma masing-masing"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ka warisanana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:57.039511652Z",
+  "model": "glm-5.3"
+}

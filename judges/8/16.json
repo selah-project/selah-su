@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung anjeunna nyandak ⟨את⟩ sesepuh-sesepuh kota jeung ⟨את⟩ cucuk ti padang garing jeung ⟨את⟩ sulampa, jeung maturan ku éta ⟨את⟩ jalma-jalma Sukot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesepuh-sesepuh kota"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "sesepuh-sesepuh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cucuk ti padang garing"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "cucuk"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang garing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sulampa"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "sulampa"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "maturan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma-jalma Sukot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-08-26T12:04:52.792340745Z",
+  "model": "glm-5.3"
+}

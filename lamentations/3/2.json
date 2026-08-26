@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "⟨את⟩-ku arina dipingpin mantenna mawa ka kokoreangan, tanpa ⟨aya⟩ cahaya.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩-ku",
+      "marks": "dipingpin"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "dipingpin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mawa ka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kokoreangan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    }
+  ],
+  "timestamp": "2026-08-26T15:27:32.294345631Z",
+  "model": "glm-5.3"
+}

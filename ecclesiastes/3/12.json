@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Kuring terang yén euweuh nu hadé pikeun maranéhna, iwal ti bungah sarta ngahadéan dina hirupna.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "kuring terang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pikeun maranéhna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iwal ti"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "sarta ngahadéan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "dina hirupna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:37.101480272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nahum 1:14",
+  "book": "nahum",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Yahwe paréntah geus diundang ngeunaan anjeun: moal disemai deui nami anjeun; tina imah elohim anjeun kuring baris mupus berhala pahatan jeung berhala cor; kuring nempatkeun kubur anjeun, sabab anjeun geus hina.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "jeung paréntah geus diundang"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngeunaan anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "disemai"
+    },
+    {
+      "surface": "משמך",
+      "gloss": "nami anjeun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tina imah"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "elohim anjeun"
+    },
+    {
+      "surface": "אכרית",
+      "gloss": "kuring baris mupus"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "berhala pahatan"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "jeung berhala cor"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "kuring nempatkeun"
+    },
+    {
+      "surface": "קברך",
+      "gloss": "kubur anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "anjeun geus hina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:14:03.662197720Z",
+  "model": "glm-5.3"
+}

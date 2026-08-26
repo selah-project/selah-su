@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung mawa maranehna cicing ⟨את⟩ payuneun raja Moab, jeung maranehna dumuk jeung anjeunna sadaya poé-poé ayana David di bénténg.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "jeung mawa cicing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payuneun raja Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "jeung dumuk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ayana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "di bénténg"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:13.779182122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Palaunta paturngul anjeunna ti luhur kuring; tina tarangan leungeun anjeunna kuring euweuh nu manggihan jalan kaluar.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "palaunta"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ti luhur kuring"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "paturngul anjeunna"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "tina tarangan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeunna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "euweuh nu manggihan jalan kaluar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:30.761465732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Terus Mordehai nuliskeun ⟨את⟩ kecap-kecap ieu, sarta ngirim surat-surat ka sakabéh urang Yehuda nu aya di sakabéh propinsi raja Achashverosh, nu padeukeut jeung nu jauh.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "terus nuliskeun"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sarta ngirim"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "surat-surat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "urang Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sakabéh"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "propinsi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "nu padeukeut"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "jeung nu jauh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:40:10.404267566Z",
+  "model": "glm-5.3"
+}

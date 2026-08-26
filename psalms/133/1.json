@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 133,
+  "translation": "Sirah hajat nu naék, ti Dawid. Honto, sabaraha hadé jeung sabaraha ngeunah dudumukna sadulur-sadulur, ogé babarengan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hajat nu naék"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "honto"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sabaraha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jeung sabaraha"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ngeunah"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "dudumukna"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "sadulur-sadulur"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.222382686Z",
+  "model": "glm-5.3"
+}

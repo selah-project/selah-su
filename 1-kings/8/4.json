@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta mawa ka luhur ⟨את⟩ Peti Yahwe jeung ⟨את⟩ Kémah Papanggihan jeung ⟨את⟩ sadaya parabot kasucian nu aya di éta kémah; para imam jeung urang Léwi nu mawa ka luhur ⟨את⟩ maranehna.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Sarta mawa ka luhur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peti Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Peti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kémah Papanggihan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kémah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Papanggihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadaya parabot kasucian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "aya di kémah"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mawa ka luhur"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ maranehna",
+      "marks": "para imam jeung urang Léwi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "jeung urang Léwi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:16.449448347Z",
+  "model": "glm-5.3"
+}

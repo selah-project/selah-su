@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Moshe jeung Aharon migawé ⟨את⟩ sadaya tanda-tanda ajaib ieu di payuneun Paro; jeung Yahwe ngahesekeun ⟨את⟩ ati Paro, jeung ⟨manehna⟩ moal ngantunkeun ⟨את⟩ putra-putra Yisrael kaluar tina nagarina.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "jeung-Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jeung-Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "migawé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya tanda-tanda ajaib ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "tanda-tanda-ajaib"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di-payuneun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "jeung-ngahesekeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung-moal"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngantunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "tina-nagarina"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:55.065264877Z",
+  "model": "glm-5.3"
+}

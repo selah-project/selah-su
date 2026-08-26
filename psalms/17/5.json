@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Pegatkeun tetep langkah-langkah abdi dina lalampahan-lalampahan Anjeun; teu pisan suku abdi ngagésér.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "pegatkeun tetep"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "langkah-langkah abdi"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "dina lalampahan-lalampahan Anjeun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu pisan"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "ngagésér"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "suku abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:01.205318664Z",
+  "model": "glm-5.3"
+}

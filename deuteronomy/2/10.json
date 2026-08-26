@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Eta Emim baheula nyicingan di dinya, bangsa nu gede jeung loba jeung jangkung, kawas Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Eta Emim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "baheula"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nyicingan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gede"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "jeung loba"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "jeung jangkung"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "kawas Anakim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:36.785328516Z",
+  "model": "glm-5.3"
+}

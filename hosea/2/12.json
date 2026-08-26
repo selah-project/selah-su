@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung ayeuna abdi baris ngabuka ⟨את⟩ kalumudan-na di hareupeun panon para kanaah-na, jeung saha waé moal baris nyalametkeun manéhna tina leungeun abdi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "abdi baris ngabuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalumudan-na"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "kalumudan-na"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di hareupeun panon"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "para kanaah-na"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung saha waé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "baris nyalametkeun manéhna"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "tina leungeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:58.535594586Z",
+  "model": "glm-5.3"
+}

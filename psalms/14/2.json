@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Yahwe tina langit-ngalangit nyawang ka luhur anak-anak manusa, pikeun nempo aya nu bageur mikawanoh, milarian ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "tina langit-ngalangit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nyawang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "היש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nu bageur mikawanoh"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "milarian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:06.510860620Z",
+  "model": "glm-5.3"
+}

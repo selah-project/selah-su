@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Kuring geus nyingkahkeun ⟨את⟩ imah kuring, kuring geus ngantepkeun ⟨את⟩ warisan kuring; kuring geus masrahkeun ⟨את⟩ kanyaah kana jiwa kuring kana leungeun musuh-musuhna.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Kuring geus nyingkahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah kuring"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "imah kuring"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "kuring geus ngantepkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisan kuring"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "warisan kuring"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring geus masrahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyaah kana jiwa kuring"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "kanyaah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kana jiwa kuring"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "kana leungeun"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "musuh-musuhna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:26:47.195482774Z",
+  "model": "glm-5.3"
+}

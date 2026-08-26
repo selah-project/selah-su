@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Bajanana bakal cape jeung eseput, jeung pamuda-pamuda bakal sapat-patah ragrag.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "bakal cape"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bajanana"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "jeung eseput"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "jeung pamuda-pamuda"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "sapat-patah"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bakal ragrag"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:37.560771381Z",
+  "model": "glm-5.3"
+}

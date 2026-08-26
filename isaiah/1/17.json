@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Diajarkeun ngahadékeun, ulahkeun kabeneran, babarungan nu karampas, sia ka yatim, bela kakasihna almana.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "diajarkeun"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ngahadékeun"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ulahkeun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "babarungan"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "nu karampas"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "bela"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "almana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:56.554292150Z",
+  "model": "glm-5.3"
+}

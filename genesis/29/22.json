@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung Lavan ngumpulkeun ⟨את⟩ sadaya jalma ti tempat éta, sarta nyieun sabana pesta.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "jeung ngumpulkeun"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya jalma ti tempat éta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat éta"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "sarta nyieun"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "pesta"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:35.400252173Z",
+  "model": "glm-5.3"
+}

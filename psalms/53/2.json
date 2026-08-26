@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 53,
+  "translation": "Nu beurat akalna ngomong dina atina, 'Euweuh Elohim'; maranehna geus ruksak jeung nganjrek kalakuan henteu adil, euweuh nu migawe hadé.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nu beurat akalna"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dina atina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "geus ruksak"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "jeung nganjrek"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kalakuan henteu adil"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu migawe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:39.366985182Z",
+  "model": "glm-5.3"
+}

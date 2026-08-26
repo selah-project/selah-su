@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung nyacac ka leungeun katuhu tapi lapar, jeung dahar ka leungeun kénca tapi teu wareg; unggal jalma ngahakan daging leungeunna sorangan.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "jeung nyacac"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "leungeun katuhu"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "tapi lapar"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "jeung dahar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "leungeun kénca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "wareg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "leungeunna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ngahakan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:51.667817203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng kohen nyelapkeun ⟨את⟩ ramona kana getih, sarta mrumes tina getih tujuh kali di payuneun Yahwe, ⟨את⟩ ka harepan tirai kabecikan.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "nyelapkeun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramona"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ramona"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kana getih"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "mrumes"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka harepan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ka harepan"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kabecikan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:42.523745069Z",
+  "model": "glm-5.3"
+}

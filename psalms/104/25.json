@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Ieu ⟨the⟩ lautan, agung jeung lébar kadua sisi, di dinya rémés tanpa wilangan, mahluk hirup leutik jeung ⟨anu>> agung.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨the>> lautan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "jeung lébar"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "kadua sisi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "rémés"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung tanpa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "wilangan"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "mahluk hirup"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "leutik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "agung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:09.688205235Z",
+  "model": "glm-5.3"
+}

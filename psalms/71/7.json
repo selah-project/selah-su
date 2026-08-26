@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Jiga tanda hébat abdi jadi ka loba jalma, tapi anjeun pangnaungan abdi, kakuatan.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "jiga tanda hébat"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "abdi jadi"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ka loba jalma"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tapi anjeun"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "pangnaungan abdi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:04.165660850Z",
+  "model": "glm-5.3"
+}

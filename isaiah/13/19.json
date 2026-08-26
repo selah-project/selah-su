@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Bavel, kameumeut karajaan-karajaan, kamulyan kaagungan Kasdim, baris jadi siga pangbarengna Elohim ka ⟨את⟩ Sodom jeung ⟨את⟩ Amorah.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "jeung baris jadi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "kameumeut"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajaan-karajaan"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kaagungan"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "siga pangbarengna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Amorah"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:31.425297884Z",
+  "model": "glm-5.3"
+}

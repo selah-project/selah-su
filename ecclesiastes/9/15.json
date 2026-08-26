@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sarta kapanggih di jerona saurang lalaki miskin nu wijaksana, sarta manéhna ngabébaskeun ⟨את⟩ kota éta ku hikmahna, tapi euweuh jelema nu émut ⟨את⟩ lalaki miskin éta.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "sarta kapanggih"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nu wijaksana"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "sarta ngabébaskeun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota éta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota éta"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ku hikmahna"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "tapi jelema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "émut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki miskin éta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:11.536373014Z",
+  "model": "glm-5.3"
+}

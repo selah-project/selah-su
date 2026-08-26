@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung sunatna ⟨את⟩ kulup ati anjeun, jeung beuheung anjeun ulah deui dieureuyeuhkeun.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Jeung sunatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulup ati anjeun"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kulup"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ati anjeun"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "jeung beuheung anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "dieureuyeuhkeun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:50.854951897Z",
+  "model": "glm-5.3"
+}

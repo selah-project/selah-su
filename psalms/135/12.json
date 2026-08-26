@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Jeung méré deudeuhanna jadi warisan, warisan pikeun Yisrael, umat-Na.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Jeung méré"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deudeuhanna"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "jadi warisan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pikeun Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:45.913231019Z",
+  "model": "glm-5.3"
+}

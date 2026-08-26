@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Panon ⟨the⟩ abdi teterusan ka Yahwe, sabab Anjeunna nu bakal ngaluarkeun suku abdi tina jaring.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "panon abdi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "teterusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Anjeunna"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "bakal ngaluarkeun"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "tina jaring"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "suku abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:47.720448574Z",
+  "model": "glm-5.3"
+}

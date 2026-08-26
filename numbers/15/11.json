@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Kitu kudu dijieun pikeun ⟨את⟩ sapi ⟨את⟩ hiji-hiji, atawa pikeun ⟨את⟩ ménédi hiji-hiji, atawa pikeun ⟨את⟩ anak domba ti domba-domba atawa ti embé-embé.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kudu dijieun"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "pikeun sapi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hiji-hiji"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "pikeun ménédi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hiji-hiji"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "pikeun anak domba"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "ti domba-domba"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "ti embé-embé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:29:42.654738337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Tonggong kuring kuring serah ka nu nyukung, jeung piha kuring ka nu marulung bulu; munjur kuring teu nyumput tina hinaan jeung nyéél.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "tonggong"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring serah"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "ka nu nyukung"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "jeung piha kuring"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "ka nu marulung bulu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "munjur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "nyumput"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "tina hinaan"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "jeung nyéél"
+    }
+  ],
+  "timestamp": "2026-08-26T13:16:54.649402786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung anjeun datang ka para imam, urang Levi, jeung ka hakim nu aya dina poé-poé harita, jeung anjeun nanya, jeung maranéhna ngoméakeun ka anjeun ⟨את⟩ kecap putusan.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "jeung anjeun datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "urang Levi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dina poé-poé"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "harita"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "jeung anjeun nanya"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "jeung maranéhna ngoméakeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap putusan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "putusan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:46:45.646353865Z",
+  "model": "glm-5.3"
+}

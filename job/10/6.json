@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "sabab anjeun milari kalakuan salah abdi, jeung ngusik-usik dosa abdi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "anjeun milari"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "kalakuan salah abdi"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "jeung dosa abdi"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "anjeun ngusik-usik"
+    }
+  ],
+  "timestamp": "2026-08-26T15:08:27.482451133Z",
+  "model": "glm-5.3"
+}

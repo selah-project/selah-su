@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Loba nu bararéa, mibodaskeun diri, jeung ngasah diri; jalma-jalma jahat ngalakukeun kajahatan, sarta teu sadaya nu ngarti — sadaya nu jahat; tapi nu bakanget, aranjeunna ngarti.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "bararéa"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "mibodaskeun-diri"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "ngasah-diri"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ngalakukeun-kajahatan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jahat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta-teu"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jahat"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "nu-bakanget"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ngarti"
+    }
+  ],
+  "timestamp": "2026-08-26T15:50:29.836432248Z",
+  "model": "glm-5.3"
+}

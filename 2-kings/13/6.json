@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Ngan moal aranjeunna malik tina dosa-dosa imah Yarovam nu nyarékan ⟨את⟩ Israél; dina éta aranjeunna jalan, sarta ogé Ashéra nangtug di Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "aranjeunna malik"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "tina dosa-dosa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "nyarékan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dina éta"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sarta ogé"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashéra"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nangtug"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:13.365502960Z",
+  "model": "glm-5.3"
+}

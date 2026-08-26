@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung aranjeunna ngaharamkeun ⟨את⟩ sakabéh nu aya di ⟨the⟩ kota, ti lalaki nepi ka awéwé, ti rumaja nepi ka kolot, nepi ka munding jeung domba jeung kabayan, ku seuseukeut péso.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "jeung aranjeunna ngaharamkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ti rumaja"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "munding"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "jeung domba"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "jeung kabayan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku seuseukeut"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "péso"
+    }
+  ],
+  "timestamp": "2026-08-26T11:55:44.870271805Z",
+  "model": "glm-5.3"
+}

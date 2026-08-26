@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung cai nimpa nutupan sarwa-nana nu ngarusak maranehna, euweuh hiji-hiji nu nyésa.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "nutupan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "sarwa-nana nu ngarusak maranehna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji-hiji"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nyésa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:40.029109069Z",
+  "model": "glm-5.3"
+}

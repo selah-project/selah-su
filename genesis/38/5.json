@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung manehna nambah deui, sarta midangkeun putra, sarta méré ngaran ⟨את⟩ ngaranna Shelah; jeung manehna ⟨era⟩ di Khezib waktu midangkeunana ⟨את⟩ manéhna.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "jeung manehna nambah deui"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "sarta midangkeun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "sarta méré ngaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jeung manehna ⟨era⟩"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "di Khezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "waktu midangkeunana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna (Shelah)"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:57.819241915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Nu cicing dina karerungan jeung kalinduan maot, tawanan kasusahan jeung beusi.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "nu cicing"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dina karerungan"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "jeung kalinduan maot"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "jeung beusi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:01.517147967Z",
+  "model": "glm-5.3"
+}

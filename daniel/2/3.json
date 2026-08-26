@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung raja ngomong ka maranjeunna: Hiji ngimpian kuring ngimpianeun, tapi roh kuring gelisah pikeun nyaho ⟨את⟩ ngimpian éta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranjeunna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "hiji ngimpian"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "kuring ngimpianeun"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "tapi gelisah"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roh kuring"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pikeun nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngimpian éta"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ngimpian éta"
+    }
+  ],
+  "timestamp": "2026-08-26T15:40:48.912358398Z",
+  "model": "glm-5.3"
+}

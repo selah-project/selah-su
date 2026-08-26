@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Sabab aranjeunna teu ngartos ka karya-karya Yahwe, sareng ka pigawéan leungeun-Na; ditruhkeun-Na ⟨aranjeunna⟩, sareng moal diwangun deui ⟨aranjeunna⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ngartos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "karya-karya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sareng ka"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pigawéan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "leungeun-Na"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ditruhkeun aranjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sareng moal"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "diwangun aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:23.169337243Z",
+  "model": "glm-5.3"
+}

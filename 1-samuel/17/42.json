@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung urang Pelesyet nempo, jeung nitenan ⟨את⟩ David, teras ngahina anjeunna, sabab anjeunna ngora kénéh, semu beureum jeung bungbung dina katingalina.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "urang Pelesyet"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "jeung nitenan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "jeung ngahina anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nyaéta"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngora"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "jeung semu beureum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bungbung"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "dina katingalina"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:01.488846990Z",
+  "model": "glm-5.3"
+}

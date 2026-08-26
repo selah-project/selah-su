@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Maranehna ngomong ka Moshe: Anjeun nu nyarita jeung kami, hasil kami ngadangu; ulah Elohim nu nyarita jeung kami, bisi kami paéh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "maranehna ngomong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "jeung kami"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "hasil kami ngadangu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "jeung kami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "kami paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:50.829091063Z",
+  "model": "glm-5.3"
+}

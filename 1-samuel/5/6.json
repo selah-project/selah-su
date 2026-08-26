@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jadi leungeun Yahwe beurat ka urang Ashdod, sarta ngancurkeun aranjeunna, sarta narajang aranjeunna ku bisul — ⟨את⟩ Ashdod jeung ⟨את⟩ wates-watesna.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "jadi beurat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "urang Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "sarta ngancurkeun"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sarta narajang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunna"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ku bisul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "wates-watesna"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "wates-watesna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:50:55.452821777Z",
+  "model": "glm-5.3"
+}

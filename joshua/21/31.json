@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "⟨את⟩ Khealkat jeung ⟨את⟩ taneuh-bukaina, jeung ⟨את⟩ Rekhow jeung ⟨את⟩ taneuh-bukaina — kota-kota opat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khealkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khealkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-bukaina"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-bukaina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Rekhow"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhow"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh-bukaina"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh-bukaina"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:28.231727039Z",
+  "model": "glm-5.3"
+}

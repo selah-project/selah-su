@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Tuluy utusan-utusan éta datang ka Givah-na Shaol, sarta nyaritakeun ⟨את⟩ kecap-kecap éta dina ceuli ⟨the⟩ balaré; jeung sagala balaré ngangkat sora maranehna, sarta marieung.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "tuluy datang"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "utusan-utusan éta"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "sarta nyaritakeun"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap éta"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dina ceuli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaré"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "jeung ngangkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora maranehna"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sora maranehna"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "sarta marieung"
+    }
+  ],
+  "timestamp": "2026-08-26T16:50:36.361823202Z",
+  "model": "glm-5.3"
+}

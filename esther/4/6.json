@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng HaTakh kaluar ka Mardekai, ka alun-alun kota anu di payuneun panto raja.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "התך",
+      "gloss": "HaTakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardekai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "alun-alun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "שער",
+      "gloss": "panto"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:55.123450590Z",
+  "model": "glm-5.3"
+}

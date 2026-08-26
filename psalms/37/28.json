@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sabab Yahwe kanyaah kana katuhu, sarta moal nyinggahkeun ⟨את⟩ nu bakti ka-Na; salawasna aranjeunna dijaga, tapi turunan nu jahat dipotong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kanyaah kana"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katuhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "nsinggahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu bakti ka-Na"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "nu bakti ka-Na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "aranjeunna dijaga"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "tapi turunan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "dipotong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:36.566290564Z",
+  "model": "glm-5.3"
+}

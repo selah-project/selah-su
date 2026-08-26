@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Nu maot pibatureunan Yaravam di kota bakal didahar ku anjing, jeung nu maot di kebon bakal didahar ku manuk-manuk langit, sabab Yahwe geus ngomong.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "nu maot"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "pibatureunan Yaravam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal didahar"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ku anjing"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "jeung nu maot"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di kebon"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal didahar"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ku manuk-manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geus ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T16:55:25.803958102Z",
+  "model": "glm-5.3"
+}

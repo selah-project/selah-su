@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jalan-jalan kuring geus kucaritakeun, jeung Anjeun ngajawab kuring; ajarkeun kuring katangtuan Anjeun.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan kuring"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "geus kucaritakeun"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "jeung Anjeun ngajawab kuring"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarkeun kuring"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katangtuan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:28.292333123Z",
+  "model": "glm-5.3"
+}

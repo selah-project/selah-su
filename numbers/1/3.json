@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ti umur dua puluh taun ka luhur, sadaya nu kaluar ka perang di Yisrael, anjeun ngitung ⟨את⟩ maranehna luyu jeung pasukan-pasukanna; anjeun jeung Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Ti umur"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "ngitung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "luyu jeung pasukan-pasukanna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jeung Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:46.236965170Z",
+  "model": "glm-5.3"
+}

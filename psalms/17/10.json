@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Dina lemakna maranehna ⟨▶> katutup; ku sunguna maranehna nyarita kalawan kasombongan.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "lemakna"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "katutup"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "sunguna"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kalawan kasombongan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:19.942880198Z",
+  "model": "glm-5.3"
+}

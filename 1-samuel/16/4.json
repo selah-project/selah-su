@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Teras Shemuel ngalaksanakeun ⟨את⟩ sadayana nu Yahwe ucapkeun, sarta asup ka Beitlexem; sarta para sepuh kota ngageter narima anjeunna, sarta anjeunna nanya: Damai kahareupan datang anjeun?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Teras ngalaksanakeun"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana nu Yahwe ucapkeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ucapkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sarta asup ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lexem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "sarta para sepuh ngageter"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sepuh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "narima anjeunna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta anjeunna nyebat"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "damai"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "datang anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:55.262609697Z",
+  "model": "glm-5.3"
+}

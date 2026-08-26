@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Jeung anjeunna ngagem kutuk saperti bajuna, sarta ⟨eta⟩ asup saperti cai kana jero beuteungna, jeung saperti minyak kana tulang-tulangna.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "ngagem"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "saperti bajuna"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "saperti cai"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kana jero dirina"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "jeung saperti minyak"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "kana tulang-tulangna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:57.633334589Z",
+  "model": "glm-5.3"
+}

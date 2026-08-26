@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Mizraim ngabantarkeun ⟨את⟩ orang Ludi, jeung ⟨את⟩ orang Anami, jeung ⟨את⟩ orang Lehabi, jeung ⟨את⟩ orang Naftuxi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "jeung Mizraim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ngabantarkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Ludi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "orang Ludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "orang Anami"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "orang Anami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "orang Lehabi"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "orang Lehabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "orang Naftuxi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "orang Naftuxi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:58.283883620Z",
+  "model": "glm-5.3"
+}

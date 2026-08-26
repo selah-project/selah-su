@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lajeng Elohum méré ⟨את⟩ Daniel kana kanyaah satia perjangjian jeung kana welas asih, di payune pangulu ⟨para⟩ sarakah.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "kana kanyaah satia perjangjian"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "jeung kana welas asih"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payune"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarakah"
+    }
+  ],
+  "timestamp": "2026-08-26T15:41:01.151527456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "randa, jeung nu dipiceun, jeung nu dicemar, palacur — ⟨את⟩ ieu teu ku manéhna dicandak; tapi ti bangsana sorangan saurang perawan dicandak jadi awéwé",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "randa"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "jeung nu dipiceun"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "jeung nu dicemar"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "palacur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieu (randa, nu dipiceun, nu dicemar, palacur)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "saurang perawan"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "ti bangsana sorangan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jadi awéwé"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:59.308852340Z",
+  "model": "glm-5.3"
+}

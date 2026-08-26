@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Yahwe, pimpin kuring dina kabeneran-Mu sabab nu ngaharéwos ka kuring; lempangkeun di payuneun kuring jalan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "pimpin kuring"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dina kabeneran-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "nu ngaharéwos ka kuring"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "lempangkeun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun kuring"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:07.605148184Z",
+  "model": "glm-5.3"
+}

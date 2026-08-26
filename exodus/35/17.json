@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "⟨את⟩ kain-kain layar ⟨the⟩ pekarangan, ⟨את⟩ pilar-pilarana jeung ⟨את⟩ dadasaranna, jeung ⟨את⟩ kelambi panutup panto ⟨the⟩ pekarangan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kain-kain layar"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "kain-kain layar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pekarangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilar-pilarana"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "pilar-pilarana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "dadasaranna"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "dadasaranna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kelambi panutup"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kelambi panutup"
+    },
+    {
+      "surface": "שער",
+      "gloss": "panto"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pekarangan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:11.737066754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Umur sajutaun Shaol nalika jadi raja; sarta dua taun maréntah dina Israél.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "umur sajutaun"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sataun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "nalika jadi raja"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "sarta dua"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T16:50:54.579231626Z",
+  "model": "glm-5.3"
+}

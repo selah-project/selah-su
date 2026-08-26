@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 31:31",
+  "book": "job",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Mun jelema-jeléma khemah abdi teu nyarita: Mudu-mudu aya saeutik dagingna, teu wareg kami!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jelema-jeléma"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "khemah abdi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha (mudu-mudu)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "saeutik dagingna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "wareg"
+    }
+  ],
+  "timestamp": "2026-08-26T15:16:21.835509280Z",
+  "model": "glm-5.3"
+}

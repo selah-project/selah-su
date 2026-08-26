@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Kebon nu dikunci ⟨nyaéta⟩ adi awéwé abdi, pangantén abdi; sumber nu ditutup, pancuran nu disegel.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "kebon"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "nu dikunci"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "adi awéwé abdi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pangantén abdi"
+    },
+    {
+      "surface": "גל",
+      "gloss": "sumber"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "nu ditutup"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "pancuran"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "nu disegel"
+    }
+  ],
+  "timestamp": "2026-08-26T15:23:26.048353013Z",
+  "model": "glm-5.3"
+}

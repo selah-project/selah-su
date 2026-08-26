@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Pelishti nyandak ⟨את⟩ peti Elohim, mawa ⟨את⟩ eta kana imah Dagon, sarta nempatkeun ⟨את⟩ eta gigireun Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mawa asup"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ eta",
+      "marks": "imah Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "sarta nempatkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ eta",
+      "marks": "gigireun Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "gigireun"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:46.428347Z",
+  "model": "glm-5.3"
+}

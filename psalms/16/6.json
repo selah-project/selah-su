@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Tali ukur ragrag ka kuring di tempat-tempatnu ngeunah; malah tugaran kuring caang di luhur kuring.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "tali ukur"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "di tempat-tempat nu ngeunah"
+    },
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "tugaran"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "caang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di luhur kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:38.774460029Z",
+  "model": "glm-5.3"
+}

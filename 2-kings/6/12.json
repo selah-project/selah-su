@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Saur salah sahiji ti budak-budakna: Teu batur, Tuan abdi, ja raja; sabab Elisha nabi nu aya di Israél ngabejaan ka raja Israél ⟨את⟩ kecap-kecap nu anjeun ucapkeun di jero kamar saré anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "saur"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "salah sahiji"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "ti budak-budakna"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Tuan abdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ja raja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Israél"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ngabejaan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "anjeun ucapkeun"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "di jero kamar"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "saré anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:51:32.058193259Z",
+  "model": "glm-5.3"
+}

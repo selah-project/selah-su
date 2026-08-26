@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Mizmor ti Davíd; anteukeun ka Yahwe, hé anak-anakna ⟨para⟩ El; anteukeun ka Yahwe kahormatan jeung kakuatan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Davíd"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "anteukeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "anteukeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kahormatan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "jeung kakuatan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:09.389516692Z",
+  "model": "glm-5.3"
+}

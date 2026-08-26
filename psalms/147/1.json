@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Pujiah Yah, sabab hadé ngawih pujian pikeun Elohim urang, sabab nguntukeun, éndah pisan pujian ⟨eta⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujiah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ngawih pujian"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nguntukeun"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "éndah pisan"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:25.139235590Z",
+  "model": "glm-5.3"
+}

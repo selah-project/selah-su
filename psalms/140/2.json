@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Bilikeun abdi, Yahwe, ti ⟨the⟩ jalma jahat, ti ⟨the⟩ lalaki nu mawa kajahatan; anjeun ngajaga abdi.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Bilikeun abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ti jalma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "nu mawa kajahatan"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "anjeun ngajaga abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:04.057877076Z",
+  "model": "glm-5.3"
+}

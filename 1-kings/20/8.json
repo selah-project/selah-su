@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Lajeng sakabéh sesepuh jeung sakabéh bala nyarita ka anjeunna: Ulah ngadangu, sarta ulah satuju.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "sesepuh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "sarta ulah"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "satuju"
+    }
+  ],
+  "timestamp": "2026-08-26T12:46:31.260791105Z",
+  "model": "glm-5.3"
+}

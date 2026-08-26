@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Umat kuring — nu ngapedesna barudak nénéh, jeung awéwé maréntah ka manéhna. Umat kuring — nu nyebut anjeun berbahagia nyasarkeun anjeun, jeung jalan lorong-lorong anjeun diarah.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Umat kuring"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "nu ngapedesna"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "barudak nénéh"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "jeung awéwé"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Umat kuring"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "nu nyebut anjeun berbahagia"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "nyasarkeun anjeun"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "jeung jalan"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "lorong-lorong anjeun"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "diarah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:00.160680006Z",
+  "model": "glm-5.3"
+}

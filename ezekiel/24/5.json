@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Pilihan domba nu hadé nyandak, jeung ogé tumpukan tulang-tulang di handapeunana; ngagolakkeun, ngagolakna ogé; kaasakkeun tulang-tulangna dina jeroeunana.",
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "pilihan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "דור",
+      "gloss": "tumpukan"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "di handapeunana"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "ngagolakkeun"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "ngagolakna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "kaasakkeun"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "tulang-tulangna"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "dina jeroeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:51:57.915617486Z",
+  "model": "glm-5.3"
+}

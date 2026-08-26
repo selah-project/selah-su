@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung kuring ngomong ka arinyana: ulah taraik, jeung ulah sieun ka maranehna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jeung kuring ngomong"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ka arinyana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "taraik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:13.487744673Z",
+  "model": "glm-5.3"
+}

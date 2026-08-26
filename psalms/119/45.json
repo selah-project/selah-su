@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Jeung abdi bakal jaroyaan dina tempat nu lega, sabab parentah-Mu pisan anu abdi pilari.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "jeung abdi bakal jaroyaan"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "dina tempat nu lega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "parentah-Mu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "anu abdi pilari"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:00.334193480Z",
+  "model": "glm-5.3"
+}

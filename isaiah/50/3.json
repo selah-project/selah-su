@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Kuring makehan langit ku ka poékan, jeung kain karung kuring jadikeun tutupna.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "kuring makehan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "ku ka poékan"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "jeung kain karung"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "kuring jadikeun"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "tutupna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:42.101164708Z",
+  "model": "glm-5.3"
+}

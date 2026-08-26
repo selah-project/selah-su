@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung Leah nyaur: Dina kabagjaanana abdi, sabab barudak awéwé nyebut abdi bagja; lajeng manéhna ngadan ⟨את⟩ ngaranana Asher.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeung nyaur"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "dina kabagjaanana abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "nyebut abdi bagja"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barudak awéwé"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "lajeng ngadan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranana"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:30.651375944Z",
+  "model": "glm-5.3"
+}

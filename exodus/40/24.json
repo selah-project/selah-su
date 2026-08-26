@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeunna nempatkeun ⟨את⟩ kandil dina khemah patepung, ngahadap méja, di sisi imah-kemah kaléreun wétan kidul.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandil"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dina khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ngahadap"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "imah-kemah"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kidul"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:11.047006372Z",
+  "model": "glm-5.3"
+}

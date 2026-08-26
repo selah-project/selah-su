@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Kami nyuhunkeun puji ka Anjeun, wa Elohim; kami nyuhunkeun puji, sareng deukeut ngaran-Mu; aranjeunna ngomongkeun ⟨פנפלאותיך⟩ kagumang-Mu.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "kami nyuhunkeun puji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "kami nyuhunkeun puji"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "sareng deukeut"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran-Mu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "aranjeunna ngomongkeun"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kagumang-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:44.561760188Z",
+  "model": "glm-5.3"
+}

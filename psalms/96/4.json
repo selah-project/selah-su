@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 96,
+  "translation": "Sabab Yahwe agung, sarta kacida muji-Na, congkah manehna luhureun sakumna allah-allah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "sarta kacida muji-Na"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kacida"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "congkah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:32.245259605Z",
+  "model": "glm-5.3"
+}

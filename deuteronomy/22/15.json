@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "sarta bapana awéwé ngora sarta indungna nyandak, sarta mawa kaluar ⟨את⟩ tanda-tanda kajoraan awéwé ngora ka kolot-kolot kota di panto.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "sarta nyandak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "awéwé ngora"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "sarta indungna"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "sarta mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanda-tanda kajoraan awéwé ngora"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "kajoraan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "awéwé ngora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kolot-kolot"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "di panto"
+    }
+  ],
+  "timestamp": "2026-08-26T11:48:20.585693551Z",
+  "model": "glm-5.3"
+}

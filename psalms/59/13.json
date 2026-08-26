@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Dina dosa carik maranehna jeung kecap biwir maranehina, mugia maranehna katangkep dina kaayaanana, jeung mibanda sumpah jeung dusta nu dicaritakeun.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "carik maranehna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "biwir maranehina"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "mugia katangkep"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "dina kaayaanana"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "jeung mibanda sumpah"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "jeung dusta"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "nu dicaritakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:44.564847237Z",
+  "model": "glm-5.3"
+}

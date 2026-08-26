@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Tapi sanggeus éta kuring mulangkeun ⟨את⟩ tawanan putra-putra Ammon, maido Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Tapi sanggeus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kuring mulangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawanan"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:40:30.714985969Z",
+  "model": "glm-5.3"
+}

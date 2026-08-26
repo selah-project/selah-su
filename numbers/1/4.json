@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung bareng ⟨את⟩ anjeun bakal aya saurang jalma tiap-tiap suku, saurang nu jadi sirah pikeun imah bapak-bapakna, manéhna sorangan.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Jeung bareng ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal aya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "tiap-tiap suku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pikeun imah"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapakna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:46.237098681Z",
+  "model": "glm-5.3"
+}

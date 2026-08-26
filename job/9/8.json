@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Nu ngajemprangna langit-langit sauranganana, sarta Nu lumampah di luhureun tonggong-tonggong laut.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "ngajemprangna"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sauranganana"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "sarta lumampah di"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "tonggong-tonggong"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:56.549603309Z",
+  "model": "glm-5.3"
+}

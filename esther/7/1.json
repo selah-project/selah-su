@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Tuluy raja jeung Haman asik pikeun nginum bareng Ester ⟨si⟩ ratu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tuluy asik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "jeung Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "pikeun nginum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ratu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:20:35.785065027Z",
+  "model": "glm-5.3"
+}

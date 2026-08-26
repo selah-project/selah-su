@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Kami geus ngalanggar jeung ngaruntag, Anjeun moah hapunteun.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "geus ngalanggar"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "jeung ngaruntag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moah"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "hapunteun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:44.142779979Z",
+  "model": "glm-5.3"
+}

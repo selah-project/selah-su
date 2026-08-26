@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Dina poé munggaran bulan kahiji, anjeun kudu ngadegkeun ⟨את⟩ mimidian, tapak patepung.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan ⟨the⟩"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "munggaran"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "dina ka-satu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ti bulan"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "anjeun ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mimidian"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mimidian"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepung"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:00.670493581Z",
+  "model": "glm-5.3"
+}

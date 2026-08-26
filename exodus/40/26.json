@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Tur diparéankeunana ⟨את⟩ mézbah emas dina kéndang patepaan, di payuneun tirai pangwates.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "diparéankeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mézbah emas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dina kéndang"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patepaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "tirai pangwates"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:45.803634840Z",
+  "model": "glm-5.3"
+}

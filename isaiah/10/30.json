@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sorakeun sora anjeun, o boru Gallim; peunteuneun, o Layisyah; o Anathoth nu miminten!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "sorakeun"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sora anjeun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "boru"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Gallim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "peunteuneun"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layisyah"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "nu miminten"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:46.026482771Z",
+  "model": "glm-5.3"
+}

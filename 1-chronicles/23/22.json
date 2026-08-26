@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Elazar maot, jeung teu boga putra, ngan putri; sarta putra-putra Kish, sadulur-sadulur maranehna, ngarampas ⟨את⟩ maranehna.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "jeung maot"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sagécéh"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "sarta ngarampas maranehna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kish"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "sadulur-sadulur maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:15:16.625439951Z",
+  "model": "glm-5.3"
+}

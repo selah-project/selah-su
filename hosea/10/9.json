@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 10:9",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Tina poé-poé Gibea, ya Israel, anjeun geus dosa; ditu maranehna nangtung; teu baris ngahontal maranehna perang di Gibea, ka incu-incu kaahéngan.",
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "tina poé-poé"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "anjeun geus dosa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ditu"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "maranehna nangtung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשיגם",
+      "gloss": "baris ngahontal maranehna"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "di Gibea"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "incu-incu"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "kaahéngan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:07:58.512511383Z",
+  "model": "glm-5.3"
+}

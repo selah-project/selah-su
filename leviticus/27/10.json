@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Moal ditukerkeun jeung moal diganti ⟨את⟩ nu saé ku nu goreng, atawa nu goreng ku nu saé; jeung lamun bener-bener ngaganti sato ku sato, mangka éta jeung gantina bakal jadi suci.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "ditukerkeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "diganti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nu saé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu saé"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ku nu goreng"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nu goreng"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ku nu saé"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "המר",
+      "gloss": "bener-bener ngaganti"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ngaganti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sato"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ku sato"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mangka jadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "jeung gantina"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:44.898771002Z",
+  "model": "glm-5.3"
+}

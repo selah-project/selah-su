@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Beban ngeunaan gurun-laut: lir angin puyuh di beulah kidul ngaliwat, ti gurun ⟨eta⟩ datang, ti tanah nu matak sieun.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "beban"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "lir angin puyuh"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di beulah kidul"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ti gurun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti tanah"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "nu matak sieun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:59.142118596Z",
+  "model": "glm-5.3"
+}

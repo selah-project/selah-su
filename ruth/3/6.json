@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung manehna turun ka lantayan, jeung ngalampikeun luyu jeung sagala nu diparentahkeun ku maot-na.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Jeung manehna turun"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "lantéyan (angkal) ⟨the⟩"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "jeung ngalampikeun"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "luyu jeung sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ku maot-na"
+    }
+  ],
+  "timestamp": "2026-08-26T15:25:59.523079191Z",
+  "model": "glm-5.3"
+}

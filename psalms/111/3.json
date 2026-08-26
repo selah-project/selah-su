@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Kaagungan jeung kagumbiraan ⟨karya-Na⟩, jeung kabeneran-Na nangtung salawasna.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "kaagungan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jeung kagumbiraan"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "karya-Na"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "jeung kabeneran-Na"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:19.889713169Z",
+  "model": "glm-5.3"
+}

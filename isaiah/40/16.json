@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung Levanon teu cekap pikeun kaduruk, jeung sato-satona teu cekap pikeun kurban bakar.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "jeung Levanon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu"
+    },
+    {
+      "surface": "די",
+      "gloss": "cekap"
+    },
+    {
+      "surface": "בער",
+      "gloss": "pikeun kaduruk"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "jeung sato-satona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu"
+    },
+    {
+      "surface": "די",
+      "gloss": "cekap"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kurban bakar"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:34.891128669Z",
+  "model": "glm-5.3"
+}

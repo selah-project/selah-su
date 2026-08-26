@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Celeng ti leuweung ngarandastana, jeung sato nu ngagorowé padang ngangona.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ngarandastana"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "celeng"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ti leuweung"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "jeung sato nu ngagorowé"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "ngangona"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:28.689519804Z",
+  "model": "glm-5.3"
+}

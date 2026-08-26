@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jadi kajadian dina taun katilu, Yehoshafat raja Yehuda turun ka raja Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "dina taun"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "katilu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:44.035009233Z",
+  "model": "glm-5.3"
+}

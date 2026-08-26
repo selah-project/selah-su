@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Nefesh kuring aya di tengah singa; kuring saré di antara nu hurung seuneu — anak-anak manusa, nu huntu maranéhna tumbak jeung panah, sarta lidah maranéhna pédang nu seukeut.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "singa"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "kuring saré"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "nu hurung seuneu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "huntu maranéhna"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tumbak"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "jeung panah"
+    },
+    {
+      "surface": "ו לשונם",
+      "gloss": "sarta lidah maranéhna"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pédang"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "nu seukeut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:02.978695832Z",
+  "model": "glm-5.3"
+}

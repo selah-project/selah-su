@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sabab nu jahat bakal musnah, tur musuh-musuh Yahwe kawas daging domba-domba jantan — musnah, jadi haseup maranehna musnah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bakal musnah"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "tur musuh-musuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "kawas daging"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "domba-domba jantan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "musnah"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "jadi haseup"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "musnah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:37.792825765Z",
+  "model": "glm-5.3"
+}

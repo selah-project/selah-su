@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Manuk gagak mawa roti jeung daging ka anjeunna isuk-isuk, sarta roti jeung daging maing peuting, sarta ti walungan inyana nginum.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "Manuk gagak"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "jeung daging"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "sarta roti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "jeung daging"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "maing peuting"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "sarta ti"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "nginum"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:57.024897562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Hadé pikeun abdi yén abdi geus disiksa, sangkan abdi diajar kana katangtuan-katangtuan-Mu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "abdi geus disiksa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "abdi diajar"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kana katangtuan-katangtuan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:20.427886666Z",
+  "model": "glm-5.3"
+}

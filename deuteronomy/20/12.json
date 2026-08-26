@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung mun henteu damai jeung anjeun, tapi ngalakonan perang ngalawan anjeun, jeung anjeun ngepung éta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "damai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "jeung ngalakonan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "jeung anjeun ngepung"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ngalawan éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:16.781474031Z",
+  "model": "glm-5.3"
+}

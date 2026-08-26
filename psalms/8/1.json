@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Kanggo pangaris-aris, dumasar ⟨kana⟩ gittith; mazmur ti Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangaris-aris"
+    },
+    {
+      "surface": "על",
+      "gloss": "dumasar ⟨kana⟩"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gittith"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:58.556995445Z",
+  "model": "glm-5.3"
+}

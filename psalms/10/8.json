@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Anjeunna cicing dina sapatukidagan pakampungan; dina tempat samar anjeunna maéhan ⟨an⟩ nu teu dosa; panon-panonna borojojo kana nu papait, dirurukbay.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "dina sapatukidagan"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "pakampungan"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "dina tempat samar"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "maéhan"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nu teu dosa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "panon-panonna"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "kana nu papait"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "dirurukbay"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:23.452043011Z",
+  "model": "glm-5.3"
+}

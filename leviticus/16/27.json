@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 16:27",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung ⟨את⟩ sapi korban dosa jeung ⟨את⟩ embé korban dosa, nu ⟨את⟩ getihna dibawa ka jero pikeun ngahapus dosa di tempat suci, bakal dipingpin kaluar ka luareun kempalan; jeung maranehna ngabeuleum dina seuneu ⟨את⟩ kulitna jeung ⟨את⟩ dagingna jeung ⟨את⟩ taina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sapi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "embé"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "embé"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "dibawa ka jero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "pikeun ngahapus dosa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tempat suci"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "bakal mawa kaluar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luareun"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kempalan"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "jeung ngabeuleum"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dina seuneu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulitna"
+    },
+    {
+      "surface": "ערתם",
+      "gloss": "kulitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "dagingna"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taina"
+    },
+    {
+      "surface": "פרשם",
+      "gloss": "taina"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:52.833675459Z",
+  "model": "glm-5.3"
+}

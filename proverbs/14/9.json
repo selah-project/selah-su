@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jalma-jalma bodo ngegunem ⟨את⟩ salah; tapi di antara nu lempeng aya kanyaah.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "jalma-jalma bodo"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ngegunem"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "⟨את⟩",
+      "marks": "salah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "tapi di antara"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kanyaah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:59:08.660757721Z",
+  "model": "glm-5.3"
+}

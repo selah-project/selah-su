@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Ngan beyas daging nu masih kénéh hirup ku jiwana — getihna — ulah anjeun dahar.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngan beyas"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ku jiwana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "anjeun dahar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:27.587863333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Aya kota leutik, jeung lalaki saeutik di jerona, sarta datang ka éta kota saurang raja gedé, sarta ngurungan ⟨את⟩ éta kota, sarta ngawangun luhureun éta kota bénténg-bénténg kukuh nu gedé.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "leutik"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "jeung lalaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "sarta datang"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka éta kota"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedé"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "sarta ngurungan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "éta kota"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "sarta ngawangun"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "luhureun éta kota"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "bénténg-bénténg kukuh"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nu gedé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:11.536216708Z",
+  "model": "glm-5.3"
+}

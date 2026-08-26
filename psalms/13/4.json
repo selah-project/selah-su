@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Pandang, walesan abdi, wahai Yahwe Elohim kuring; caangankeun panon abdi, bisi abdi saré maot.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Pandang"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "walesan abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "caangankeun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon abdi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "saré"
+    },
+    {
+      "surface": "המות",
+      "gloss": "maot"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:27.099909126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Berharga di panon Yahwe ⟨⟨is⟩⟩ paéh na jalma-jalma satia-Na.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "berharga"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "paéh na"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "jalma-jalma satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:47.601231879Z",
+  "model": "glm-5.3"
+}

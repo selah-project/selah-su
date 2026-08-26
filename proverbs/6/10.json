@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Saeutik saré, saeutik ngarondok, saeutik nyalangkeuneun leungeun pikeun saré deui;",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "saré"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ngarondok"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "nyalangkeuneun"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "pikeun saré deui"
+    }
+  ],
+  "timestamp": "2026-08-26T14:56:57.008794604Z",
+  "model": "glm-5.3"
+}

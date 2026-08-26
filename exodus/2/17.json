@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng datang para pangawasa domba eta sarta ngusir aranjeunna; tapi Moshe bangun sarta nyalametkeun aranjeunna, sarta méré inum ⟨את⟩ domba-domba maranéhna.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "para pangawasa domba"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "ngusir aranjeunna"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "nyalametkeun aranjeunna"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "méré inum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba-domba maranéhna"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "domba-domba maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:02.944563703Z",
+  "model": "glm-5.3"
+}

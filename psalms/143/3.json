@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 143,
+  "translation": "Sabab musuh geus ngudag jiwa kuring, geus ngaremukeun kana taneuh hirup kuring, mukakeun kuring cicing dina kaayaan poék jiga nu geus maraot ti baheula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ngudag"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ngaremukeun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kana taneuh"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "hirup kuring"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "mukakeun kuring cicing"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dina kaayaan poék"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "jiga nu geus maraot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ti baheula"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:42.150171906Z",
+  "model": "glm-5.3"
+}

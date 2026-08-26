@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Pujian ka Elohim ⟨para⟩ allah, sabab salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pujian"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "para allah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.148323652Z",
+  "model": "glm-5.3"
+}

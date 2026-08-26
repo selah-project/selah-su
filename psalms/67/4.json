@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 67,
+  "translation": "Bangsa-bangsa muji Anjeun, wahe Elohim; bangsa-bangsa, sadayana, muji Anjeun.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "muji Anjeun"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahe Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "muji Anjeun"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sadayana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:12.293798810Z",
+  "model": "glm-5.3"
+}

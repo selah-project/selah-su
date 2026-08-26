@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "jeung masih hirup salawasna, henteu arangling ⟨kubur⟩",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "jeung hirup"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "arangling"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "kubur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:50.574302608Z",
+  "model": "glm-5.3"
+}

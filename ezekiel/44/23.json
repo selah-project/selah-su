@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung ⟨את⟩ umat-Ku aranjeunna bakal ngajarkeun [bédana] antara anu suci jeung anu biasa, jeung antara anu teu murni jeung anu murni aranjeunna bakal nyaho-keun ka maranehna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "arinjeunna bakal ngajarkeun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "[bédana] antara"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "anu suci"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "jeung anu biasa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "anu teu murni"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "jeung anu murni"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "arinjeunna bakal nyaho-keun ka maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:01:03.283419572Z",
+  "model": "glm-5.3"
+}

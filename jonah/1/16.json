@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tuluy para jalma sieun — sieun nu ageung — ka ⟨את⟩ Yahwe, jeung nyembelih korban keur Yahwe, jeung nazar nazar-nazar.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para jalma"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ageung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "nyembelih"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "keur Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "nazar"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nazar-nazar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:50.718756989Z",
+  "model": "glm-5.3"
+}

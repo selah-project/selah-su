@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Ku pérak jeung ku emas aranjeunna ngaméranana; ku paku jeung ku palu aranjeunna ngaheuyeukna, sangkan henteu goyang.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "Ku pérak"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "jeung ku emas"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "ngaméranana"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "ku paku"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "jeung ku palu"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "ngaheuyeukna"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "sangkan henteu"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "goyang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:26:08.823825491Z",
+  "model": "glm-5.3"
+}

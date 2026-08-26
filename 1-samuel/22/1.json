@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung indit David ti dinya, jeung ngungsi ka guha Adulam; jeung ngadangu sadulur-sadulurna jeung sakabéh imah bapana, jeung maranehna turun ka anjeunna ka dinya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "jeung indit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "jeung ngungsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "guha"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "jeung ngadangu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "jeung turun"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:13.778562878Z",
+  "model": "glm-5.3"
+}

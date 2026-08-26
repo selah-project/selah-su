@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 23:35",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ku lantaran kitu, mangka kieu kadupak Adonay Yahwe: sabab anjeun poho ka ⟨aku⟩, anjeun ngiceung ⟨aku⟩ ka tukangeun awak anjeun, mangka anjeun ogé sanggup bubaran kalacuran anjeun jeung ⟨את⟩ zinah anjeun.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ku lantaran kitu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kieu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kadupak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "anjeun poho"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku (Yahwe nu dipoho)"
+    },
+    {
+      "surface": "ותשליכי",
+      "gloss": "anjeun ngiceung"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku (Yahwe nu diiceung)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka tukangeun"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "awak anjeun"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "anjeun ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "anjeun",
+      "marks": "שאי — Imperativ ka Oholiva"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "sanggup bubaran"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "kalacuran anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "zinah anjeun"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "zinah anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:36:27.870361886Z",
+  "model": "glm-5.3"
+}

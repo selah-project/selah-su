@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sakumaha aranjeunna ngahasil lobana, kitu dosa marukaeun ka abdi; kamulyaanana abdi robah jadi kaahunan.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "sakumaha lobana aranjeunna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "dosa aranjeunna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kamulyaanana"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "jadi kaahunan"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "abdi robah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:06.488143475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jantung Paroh tepet ku kuat, manéhna teu ngadangu ka aranjeun, saperti anu dipedar Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "tepet-kuat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "jantung"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dipedar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:25.442628653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Tuluy Moshe mawa ⟨את⟩ pakéanna ka payune Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Tuluy mawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakéanna"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "pakéanna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka payune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:34:43.898617186Z",
+  "model": "glm-5.3"
+}

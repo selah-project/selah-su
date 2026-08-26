@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Sabab dampal leungeun aranjeun kotor ku getih, jeung jeriji aranjeun ku kadurhakaan; biwir aranjeun nyarita dusta, letah aranjeun ngarungkah kajahatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "dampal leungeun aranjeun"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "kotor"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ku getih"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "jeung jeriji aranjeun"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ku kadurhakaan"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "biwir aranjeun"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "letah aranjeun"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ngarungkah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:18:39.901813080Z",
+  "model": "glm-5.3"
+}

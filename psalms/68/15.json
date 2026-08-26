@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Nalika Shadday nyebarkeun raja-raja di dinya, salju muru di Tzalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "nalika ... nyebarkeun"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "salju muru"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "di Tzalmon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:59.996861824Z",
+  "model": "glm-5.3"
+}

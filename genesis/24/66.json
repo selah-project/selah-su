@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Lajeng abdi éta ngomongkeun ka Yitsxak ⟨את⟩ sadaya perkara-perkara nu geus dipigawé.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "lajeng ngomongkeun"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "abdi éta"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ka Yitsxak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya perkara-perkara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geus dipigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:04.138951854Z",
+  "model": "glm-5.3"
+}

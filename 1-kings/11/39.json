@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung abdi bakal ngahina ⟨את⟩ katurunan David alatan ieu, ngan moal salawasna.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "jeung abdi bakal ngahina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katurunan David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé-poé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:56.028248385Z",
+  "model": "glm-5.3"
+}

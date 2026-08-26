@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Sing jadi jalan aranjeunna poék jeung lilipet, sarta malekat Yahwe ngudag aranjeunna.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sing jadi"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan aranjeunna"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "poék"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "jeung lilipet"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "sarta malekat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ngudag aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:51.942419779Z",
+  "model": "glm-5.3"
+}

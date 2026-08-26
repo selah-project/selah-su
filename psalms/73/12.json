@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Tempo, ieu maranéhna nu jahat, jeung nu nyangga bagja salawasna, geus ngaronjatkeun kakayaan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "jeung nu nyangga bagja"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "geus ngaronjatkeun"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kakayaan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:09.371225138Z",
+  "model": "glm-5.3"
+}

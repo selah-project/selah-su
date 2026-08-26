@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Manusa nyarita, Awéwé nu Anjeun maparin keur aya jeung kuring, manéhna nu méré ka kuring tina tangkal, sarta kuring ngadahar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Anjeun maparin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "tangkal"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "sarta kuring ngadahar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:43.003084742Z",
+  "model": "glm-5.3"
+}

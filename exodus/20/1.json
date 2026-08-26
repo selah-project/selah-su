@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Tuluy Elohim nyaritakeun ⟨את⟩ sagala kecap-kecap ieu, sing nyarita:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Tuluy nyaritakeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala kecap-kecap ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sing nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:18.613480761Z",
+  "model": "glm-5.3"
+}

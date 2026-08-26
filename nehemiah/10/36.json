@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "jeung mawa ⟨את⟩ buah munggaran taneuh urang, jeung buah munggaran sagala bungbuahan sagala tangkal, taun ka taun, ka imah Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "jeung mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buah munggaran taneuh urang"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "buah munggaran"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "taneuh urang"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "jeung buah munggaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bungbuahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tangkal"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka taun"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:02:20.872270414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Maranéhna nyiar kalalayan; ⟨geus sampurna⟩ panyumputan nu dipigon; jeung jero haté jalma, jeung atina, jero pisan.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "maranéhna nyiar"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kalalayan"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "⟨geus sampurna⟩"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "panyumputan"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "nu dipigon"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "jeung jero haté"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "jeung atina"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "jero pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:43.397200097Z",
+  "model": "glm-5.3"
+}

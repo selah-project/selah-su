@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Nu jahat nempo jeungsaru sosongare, huntu-huntuna digérétyéng, jeung laleur; kahayang nu jahat bakal musnah.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Nu jahat"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "jeung saru sosongare"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "huntu-huntuna"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "digérétyéng"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "jeung laleur"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kahayang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bakal musnah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:53.930548837Z",
+  "model": "glm-5.3"
+}

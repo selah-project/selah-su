@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Yahwe, simeunan doa abdi, sarta sautanana abdi datang ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "simeunan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa abdi"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "sarta sautanana abdi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "datang"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:20.583407079Z",
+  "model": "glm-5.3"
+}

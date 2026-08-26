@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Nu jadi sababar - kecap Yahwe ka Yirmyahu nabi, ka Pelishti, méméh Paroh ngabeledugkeun ⟨את⟩ Azzah.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu jadi sababar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "méméh"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ngabeledugkeun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    }
+  ],
+  "timestamp": "2026-08-26T13:39:43.610402084Z",
+  "model": "glm-5.3"
+}

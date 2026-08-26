@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 16:22",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "jeung sarua ⟨את⟩ sagala rinuhung anjeun jeung zinah anjeun, anjeun teu nganingali ⟨את⟩ poé-poé rumaja anjeun, sabot anjeun bulig jeung telengjang, aya dina getih anjeun keur digili.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung sarua ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "rinuhung anjeun"
+    },
+    {
+      "surface": "ותזנתיך",
+      "gloss": "jeung zinah anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "nganingali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poé-poé rumaja anjeun"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "rumaja anjeun"
+    },
+    {
+      "surface": "בהיותך",
+      "gloss": "sabot anjeun"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "bulig"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "jeung telengjang"
+    },
+    {
+      "surface": "מתבוססת",
+      "gloss": "keur digili"
+    },
+    {
+      "surface": "בדמך",
+      "gloss": "dina getih anjeun"
+    },
+    {
+      "surface": "היית",
+      "gloss": "anjeun aya"
+    }
+  ],
+  "timestamp": "2026-08-26T13:47:05.535446011Z",
+  "model": "glm-5.3"
+}

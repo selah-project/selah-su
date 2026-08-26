@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Tingali, urang ngadengeuna dina Efrata, urang manggihanana di tegalan-traah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "urang ngadengeuna"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "dina Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "urang manggihanana"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "di tegalan"
+    },
+    {
+      "surface": "יער",
+      "gloss": "traah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:25.195321758Z",
+  "model": "glm-5.3"
+}

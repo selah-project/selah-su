@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun, déngkeunkeun kecap Yahwe, hai sadaya nu kaintunan, nu kuring ngirim ti Yerushalaim ka Bavel.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Jeung anjeun"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "déngkeunkeun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "nu kaintunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "kuring ngirim"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ti Yerushalaim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ka Bavel"
+    }
+  ],
+  "timestamp": "2026-08-26T13:32:47.816404885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Suku ngacak-acak ⟨את⟩ awakna, suku-suku nu cacag, léngkah-léngkah nu lolongod.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "ngacak-acak"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "suku"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu cacag"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "léngkah-léngkah"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "nu lolongod"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:19.159713124Z",
+  "model": "glm-5.3"
+}

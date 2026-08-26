@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Pukulan nu nyegir, jeung nu lalém baris jadi nyangsaga; jeung béré ombongan ka nu bingung, anjeunna baris ngarti kana kaweruh.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "nu nyegir"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "pukulan"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "jeung nu lalém"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "jadi nyangsaga"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "jeung béré ombongan"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "ka nu bingung"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaweruh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:00:24.921926655Z",
+  "model": "glm-5.3"
+}

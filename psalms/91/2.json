@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Abdi ngomongkeun ka Yahwe: ⟨⟨Anjeuna⟩⟩ palabuhan abdi jeung bénténg abdi, Elohim abdi, ka Anjeuna abdi percaya.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Abdi ngomongkeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "palabuhan abdi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "jeung bénténg abdi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim abdi"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "abdi percaya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka Anjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:51.055471277Z",
+  "model": "glm-5.3"
+}

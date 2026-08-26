@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 63,
+  "translation": "Kitu ogé di tempat suci kuring geus nempo Anjeun, pikeun nempo kakuatan Anjeun jeung kamulyaan Anjeun.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tempat suci"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "kuring geus nempo Anjeun"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuatan Anjeun"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "jeung kamulyaan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:54.496350386Z",
+  "model": "glm-5.3"
+}

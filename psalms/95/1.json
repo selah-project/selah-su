@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 95,
+  "translation": "Hayu urang rarayay ka Yahwe, urang sora kacida ka Batu kajadian urang.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "hayu"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "urang rarayay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "urang sora kacida"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ka Batu"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "kajadian urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:15.951473808Z",
+  "model": "glm-5.3"
+}

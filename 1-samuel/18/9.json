@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Teras Shaul ngadeudeul sumawis ⟨את⟩ Dawid, ti poé harita jeung ka hareupna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ngadeudeul sumawis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ti poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "jeung ka hareupna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:01.248570632Z",
+  "model": "glm-5.3"
+}

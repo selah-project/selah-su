@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Eta ngirimkeun dahan-dahanna nepi ka lautan, jeung tunas-tunasna nepi ka walungan.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "eta ngirimkeun"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "dahan-dahana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lautan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "tunas-tunasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:33.196017690Z",
+  "model": "glm-5.3"
+}

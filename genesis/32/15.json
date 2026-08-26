@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "embéan awéwé dua ratus, méndél jalu dua puluh, domba béakti dua ratus, sarta mamang dua puluh",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "embéan awéwé"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "méndél jalu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "domba béakti"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "mamang"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:38:15.591133613Z",
+  "model": "glm-5.3"
+}

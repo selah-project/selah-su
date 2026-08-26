@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Sabab manehna ngomong, jadi ⟨henteu aya⟩; manehna maréntah, jadi kaadeg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi ⟨henteu aya⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "jadi kaadeg"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:59.037122034Z",
+  "model": "glm-5.3"
+}

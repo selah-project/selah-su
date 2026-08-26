@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Kawas kalangkang nalika ngalebok kuring geus indit, kuring digugujer kawas belalang.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "kawas kalangkang"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "nalika ngalebok"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "kuring geus indit"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "kuring digugujer"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kawas belalang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:50.974492072Z",
+  "model": "glm-5.3"
+}

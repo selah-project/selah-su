@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung leuwih hadé ti duanana ⟨את⟩ nu nepi ka ayeuna can kungsi aya, nu can nempo ⟨את⟩ gawé goréng nu dilakukeun di handapeun panonpoé.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "jeung leuwih hadé"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ti duanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu nepi ka ayeuna can kungsi aya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "nepi ka ayeuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "can"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kungsi aya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "can"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawé goréng"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "goréng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dilakukeun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:19.497884322Z",
+  "model": "glm-5.3"
+}

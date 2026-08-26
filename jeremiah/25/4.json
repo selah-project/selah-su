@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sarta Yahwe geus ngutus ka anjeun ⟨את⟩ sadaya abdi-abdina, sang nabi-nabi, ngayakeun jeung ngutus, tapi anjeun teu ngadangu, moal ngarikih ceuli pikeun ngadangu.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "sarta geus ngutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya abdi-abdina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "sang nabi-nabi"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ngayakeun (gancang-isuk)"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "jeung ngutus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "anjeun ngadangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "ngarikih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceuli"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ceuli (anjeun)"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pikeun ngadangu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:02:05.591759362Z",
+  "model": "glm-5.3"
+}

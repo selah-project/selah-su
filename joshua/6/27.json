@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jadi Yahwe ⟨את⟩ Yehosua — Yahwe jeung Yehosua; sarta kacarita kawentarana di sakuliah bumi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kacarita kawentarana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sakuliah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:55:24.519235468Z",
+  "model": "glm-5.3"
+}

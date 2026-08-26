@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sarta manéhna ngondjolkeun ⟨את⟩ haté sakabéh jalma Yehuda saperti jalma hiji, sarta maranehna ngirim ka raja: Balik, anjeun jeung sakabéh paturay anjeun.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "sarta manéhna ngondjolkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haté"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "saperti jalma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "sarta maranehna ngirim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "paturay anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:59.435399208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Sanggeus éta Yahwe nyarita ka Moshe, maxHeight nyarita:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita:"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:22.877575714Z",
+  "model": "glm-5.3"
+}

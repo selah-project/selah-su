@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "putra Zerakhyah, putra Uzi, putra Bukhi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerakhyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukhi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:52:25.471179883Z",
+  "model": "glm-5.3"
+}

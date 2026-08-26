@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jalan ka kidul sarta muter ka kalér; muter muter jalan angin, sarta luhureun puteranana balik angin.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "kidul"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "sarta muter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kalér"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "muter"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "muter"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sarta luhureun"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "puteranana"
+    },
+    {
+      "surface": "שב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:44.092674077Z",
+  "model": "glm-5.3"
+}

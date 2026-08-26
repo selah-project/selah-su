@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung anjeunna asik ka bapana, sarta ngomong: Bapa! Sarta bapana ngomong: Ayeuna abdi ulah; saha anjeun, anak kuring?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "jeung anjeunna asik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Bapa!"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ayeuna abdi ulah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:12.200577240Z",
+  "model": "glm-5.3"
+}

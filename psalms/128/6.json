@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 128,
+  "translation": "Punah nempo incu-incu anjeun; katengtreman pinuh di Israél!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "punah nempo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "incu-incu"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "anja pinuh di"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "katengtreman"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:46.834549836Z",
+  "model": "glm-5.3"
+}

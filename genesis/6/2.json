@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "mangka putra-putra Elohim nempo ⟨את⟩ putri-putri manusa, bédas pisan maranéhna, sarta maranéhna nyandik awéwé ti sakabéh nu dipilihna.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putri manusa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bédas"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "nyandik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sakabéh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "dipilihna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:55.340345754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Teras Yosef ngimpi sahunggal impi, sarta nyaritakeun ka sadulur-sadulurna, sarta maranehna nambah deui kanggo benci ka manehna.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "ngimpi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "saunggal impi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ka sadulur-sadulurna"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "nambah deui"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kanggo"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "benci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:53.237803011Z",
+  "model": "glm-5.3"
+}

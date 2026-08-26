@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ku leungeun anu kuat sarta ku leungeun-lambeun anu dijurulengkeun, sabab ka salawasna kanyaah-satia-Na.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Ku leungeun"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "anu kuat"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "sarta ku leungeun-lambeun"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "anu dijurulengkeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.357792764Z",
+  "model": "glm-5.3"
+}

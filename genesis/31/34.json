@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Rachel geus nyandak ⟨את⟩ sanghyang teraphim sarta nempatkeunana dina palana unta, terus diuk luhureuna; Lavan ngusap-ngusap ⟨את⟩ sadaya kemah, tapi teu manggihan.",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "jeung Rachel"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanghyang teraphim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "sanghyang teraphim"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "nempatkeunana"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "dina palana"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "unta"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "luhureuna"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "ngusap-ngusap"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kemah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "manggihan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:37:54.823335049Z",
+  "model": "glm-5.3"
+}

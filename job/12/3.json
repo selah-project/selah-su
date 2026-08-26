@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ogé ka abdi ⟨aya⟩ ati sapertos ka ararinyo; henteu ragrag abdi ti palayaran ararinyo; jeung ⟨את⟩ saha nu euweuh sapertos ieu?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ogé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka-abdi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "sapertos-ka-ararinyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ti-ararinyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sapertos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T15:08:15.533847436Z",
+  "model": "glm-5.3"
+}

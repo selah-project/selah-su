@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Póhara ti abdi, sarta abdi méré anjeun bangsa-bangsa jadi warisan anjeun, sarta wates-wates bumi jadi kabeungkeutan anjeun.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "póhara"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "sarta abdi méré"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "warisan anjeun"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "sarta kabeungkeutan anjeun"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "wates-wates"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:48.238496322Z",
+  "model": "glm-5.3"
+}

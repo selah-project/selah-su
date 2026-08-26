@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Pikeun pangantisip, pikumpulan putra-putra Korach, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun pangantisip"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikeun putra-putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:30.429863401Z",
+  "model": "glm-5.3"
+}

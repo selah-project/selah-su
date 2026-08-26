@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta anjeu bakal nyaho jeung hate anjeu, yén saperti jalma ngadisiplinkeun putrana, Yahwe Elohim anjeu ngadisiplinkeun anjeu.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "anjeu bakal nyaho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hate anjeu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "ngadisiplinkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeu"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "ngadisiplinkeun anjeu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:25.032683595Z",
+  "model": "glm-5.3"
+}

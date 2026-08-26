@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Teras Yaakov ngeroong ka putrana, sarta nyarita: Ngariung jeung kuring, mun geus kitu kuring bakal ngomongkeun ⟨את⟩ nu bakal patandang jeung aranjeun dina ahir waktu poé-poé.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ngeroong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "ngariung"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "mun geus kitu kuring bakal ngomongkeun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jeung aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu bakal patandang jeung aranjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bakal patandang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jeung aranjeun",
+      "marks": "anjeun, putra-putra Yaakov"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "dina ahir waktu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé-poé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:38.969800195Z",
+  "model": "glm-5.3"
+}

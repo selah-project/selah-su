@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Maranéhna ngarebutan ⟨את⟩ sagala wates ha-Emori, ti Arnon nepi ka Yabok, jeung ti gurun nepi ka Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "ngarebutan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala wates ha-Emori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "ti Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jeung ti"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-26T12:08:11.960157600Z",
+  "model": "glm-5.3"
+}

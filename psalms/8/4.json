@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sabab kuring nempo langit-Mu, karya-jari Anjeun; bulan jeung bentang-bintang nu Anjeun nangtukeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langit-Mu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karya"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "jari Anjeun"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "jeung bentang-bintang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "Anjeun nangtukeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:58.557531966Z",
+  "model": "glm-5.3"
+}

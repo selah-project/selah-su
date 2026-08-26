@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jadi Daud mulihkeun ⟨את⟩ sadaya nu dicandak ku Amalek, jeung ⟨את⟩ dua pamajikanana dibébaskeun Daud.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "mulihkeun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya nu dicandak ku Amalek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ku Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dua pamajikanana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "dibébaskeun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:00.028125362Z",
+  "model": "glm-5.3"
+}

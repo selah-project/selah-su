@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung manehna nempo ⟨את⟩ Amalek, sarta ngangkat perumpamaanana, jeung ngomong: Pangmimiti bangsa-bangsa Amalek, jeung tungtungna binasa salawasna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "perumpamaanana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Pangmimiti"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "jeung tungtungna"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "binasa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:33:23.530927195Z",
+  "model": "glm-5.3"
+}

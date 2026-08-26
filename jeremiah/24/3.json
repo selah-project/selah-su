@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 24:3",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung Yahwe ngomong ka abdi: Naon anu anjeun nempo, Yirmeyahu? Jeung abdi ngomong: Ara-ara — ara-ara ⟨nu⟩ hadé, hadé pisan, jeung ⟨nu⟩ goréng, goréng pisan, nu teu bisa didahar kagorénganna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Naon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Jeung abdi ngomong"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "Ara-ara"
+    },
+    {
+      "surface": "התאנים",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "nu hadé"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "jeung nu goréng"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "goréng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "bisa didahar"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kagorénganna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:30:42.521252640Z",
+  "model": "glm-5.3"
+}

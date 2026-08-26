@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Kanyaahkeun kuring, Yahwe, sabab kuring lalemas; cageurkeun kuring, Yahwe, sabab tulang-tulang kuring gupuh.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "kanyaahkeun kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "lalemas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "cageurkeun kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "gupuh"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang-tulang kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:44.996501948Z",
+  "model": "glm-5.3"
+}

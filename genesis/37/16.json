@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna nyarita: ⟨את⟩ saderek-saderek abdi nu dipilari abdi; cecekelan punten ka abdi, di mana maranehna ngangon?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saderek-saderek abdi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saderek-saderek abdi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "dipilari"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "cecekelan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ngangon"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:07.744519654Z",
+  "model": "glm-5.3"
+}

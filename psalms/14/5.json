@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Dinya ⟨aranjeuna⟩ kaduhung pisan kaduhung, sabab Elohim ⟨aya⟩ dina angkatan ⟨nu⟩ bener.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "kaduhung"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kaduhung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dina angkatan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bener"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:45.206892327Z",
+  "model": "glm-5.3"
+}

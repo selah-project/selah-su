@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Muliakan ⟨את⟩ Yahwe tina harta anjeun, jeung tina bagian munggaran tina sagala hasil kajeunteungan anjeun.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Muliakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "tina harta anjeun"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "jeung tina bagian munggaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tina sagala"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "hasil kajeunteungan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:56.640117203Z",
+  "model": "glm-5.3"
+}

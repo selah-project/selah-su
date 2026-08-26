@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Bakal mawa gunung-gunung shalom ka ⟨um⟩at, sarta pasir-pasir ku kajujuran.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "bakal mawa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ka ⟨um⟩at"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "sarta pasir-pasir"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ku kajujuran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:27.838578958Z",
+  "model": "glm-5.3"
+}

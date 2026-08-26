@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung Manehna nempo kasesahteur maranehna, nalika ngadangu ⟨את⟩ jeritna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "kasesahteur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "nalika ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeritna"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "jeritna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:54.687728148Z",
+  "model": "glm-5.3"
+}

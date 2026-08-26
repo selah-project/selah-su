@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Bari can anggeus maranéhna ngobrol jeung anjeunna, sésaris-sésaris raja geus datang, tuluy gancang mawa ⟨את⟩ Haman ka pist nu geus diayakeun ku Ester.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "bari can anggeus"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ngobrol"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung anjeunna"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "sésaris-sésaris"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "geus datang"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "tuluy gancang"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "pist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "geus diayakeun"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ku Ester"
+    }
+  ],
+  "timestamp": "2026-08-26T15:39:10.616096785Z",
+  "model": "glm-5.3"
+}

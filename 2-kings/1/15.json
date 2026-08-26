@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Malékat Yahwe ngomong ka Elia: Turun ⟨את⟩ jeung anjeunna; ulah sieun ka manéhna. Jadi manéhna ngadeg sarta turun ⟨את⟩ jeung anjeunna ka ⟨sang⟩ raja.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malékat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "רד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ jeung anjeunna",
+      "marks": "jeung anjeunna (utusan kaptilu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ jeung anjeunna",
+      "marks": "jeung anjeunna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-26T16:56:31.543270622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Anjeun ngahiliwir ku angin anjeun, laut nutupan maranehna; maranehna tilelep kawas timah di cai-cai nu maha kawasa.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Anjeun ngahiliwir"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ku angin anjeun"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "nutupan maranehna"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "maranehna tilelep"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "kawas timah"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di cai-cai"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "nu maha kawasa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:31.817371644Z",
+  "model": "glm-5.3"
+}

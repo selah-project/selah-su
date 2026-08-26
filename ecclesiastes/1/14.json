@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Kuring nempo ⟨את⟩ sadaya pagawéan nu dijieun sahandapeun panonpoé, jeung tingali, sadaya ⟨is⟩ kasia-sia jeung ngahuntal angin.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya pagawéan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "nu dijieun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tingali"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kasia-sia"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "jeung ngahuntal"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:00.189634117Z",
+  "model": "glm-5.3"
+}

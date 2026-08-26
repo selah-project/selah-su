@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Kamana kuring mundur ti roh Anjeun? Sarta kamana kuring kabur ti payun Anjeun?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kamana"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuring mundur"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ti roh Anjeun"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "sarta kamana"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ti payun Anjeun"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "kuring kabur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:10.600730212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Keurkeun bagian ka tujuh, ogé ka dalapan, sabab anjeun moal nyaho naon bakal kajadi, musibat, ka luhureun ⟨the⟩ taneuh.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Keurkeun"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ka tujuh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ka dalapan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal kajadi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "musibat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:14.587167515Z",
+  "model": "glm-5.3"
+}

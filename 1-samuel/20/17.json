@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung Yonatan nambah nyumpahkeun ⟨את⟩ Daud ku kanyaah ka anjeunna, sabab ku kanyaah ⟨את⟩ jiwa-na sorangan manéhna nyaah ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "jeung-nambah"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "nyumpahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ku-kanyaah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka anjeunna",
+      "marks": "anjeunna (Daud)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "ku-kanyaah"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwa-na"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "manéhna-nyaah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:10.716004725Z",
+  "model": "glm-5.3"
+}

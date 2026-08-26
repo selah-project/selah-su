@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung anjeunna ngungkulan dosa ⟨את⟩ imah ku getih manuk jeung ku cai hirup, jeung ku manuk hirup, jeung ku kai sarasah, jeung ku janggotan, jeung ku beureum binih tatombak.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "jeung anjeunna ngungkulan dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ku getih"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "jeung ku cai"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "jeung ku manuk"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "jeung ku kai"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "sarasah"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "jeung ku janggotan"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "jeung ku beureum binih"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "tatombak"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:56.677502877Z",
+  "model": "glm-5.3"
+}

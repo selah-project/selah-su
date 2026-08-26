@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Sangkan maranéhna nannyagaan katangtuan-katangtuan-Na sarta taurat-taurat-Na dipiara. Puji-an sia Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "maranéhna nannyagaan"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "katangtuan-katangtuan-Na"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "sarta taurat-taurat-Na"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "dipiara"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Puji-an sia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:05.775372485Z",
+  "model": "glm-5.3"
+}

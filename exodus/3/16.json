@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Manggah, kumpulkeun ⟨את⟩ sesepuh Yisrael, sarta anjeun nyarita ka maranehna: Yahwe, Elohim karuhun anjeuneun, geus katémbong ka abdi — Elohim Avraham, Yitsxak, jeung Yaakov — nyarita: Nginget-inget kungsi kuinget ⟨אתכם⟩, jeung ⟨את⟩ nu dipigawé ka anjeuneun di Misrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "manggah"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "jeung-anjeun-kumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesepuh Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jeung-anjeun-nyarita"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka-maranehna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "karuhun-anjeuneun"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "geus-katémbong"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka-abdi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "jeung-Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nginget-inget"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "kuinget"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "anjeuneun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu dipigawé ka anjeuneun"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "nu-dipigawé"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka-anjeuneun"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di-Misrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:35.399320865Z",
+  "model": "glm-5.3"
+}

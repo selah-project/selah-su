@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Sakundang anu ngajelegkeun bapana, jeung ⟨את⟩ indungna teu dipapait.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "sakundang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ngajelegkeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indungna"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "dipapait"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:39.697674571Z",
+  "model": "glm-5.3"
+}

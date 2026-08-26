@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ⟨את⟩ Chesbon jeung ⟨את⟩ padangna, jeung ⟨את⟩ Yazér jeung ⟨את⟩ padangna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Chesbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chesbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padangna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padangna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yazér"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yazér"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padangna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padangna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:50.964207293Z",
+  "model": "glm-5.3"
+}

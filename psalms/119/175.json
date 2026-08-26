@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Muga nefesh abdi hirup sarta muji ka anjeun, jeung putusan anjeun nulungan abdi.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "muga … hirup"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "sarta muji ka anjeun"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "jeung putusan anjeun"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "nulungan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:42.398857917Z",
+  "model": "glm-5.3"
+}

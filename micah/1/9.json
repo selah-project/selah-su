@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sabab tatuna teu bisa cageur deui; sabab ⟨geus⟩ datang nepi ka Yehudah, geus antep nepi ka panto bangsa kuring, nepi ka Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "teu bisa cageur"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "tatuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "באה",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "antep"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "panto"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangsa kuring"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:44.144188273Z",
+  "model": "glm-5.3"
+}

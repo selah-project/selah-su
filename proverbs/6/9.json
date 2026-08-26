@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Nepi ka iraha, hé nu malas, anjeul saré? Iraha anjeul bangun tina saréré?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraaha"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "nu malas"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "anjeul saré"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "anjeul bangun"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "tina saréré anjeul"
+    }
+  ],
+  "timestamp": "2026-08-26T14:56:57.008512021Z",
+  "model": "glm-5.3"
+}

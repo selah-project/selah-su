@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Beungeut ka beungeut Yahwe ngomong jeung aranjeun di gunung, tina tengah seuneu.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "ka beungeut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "jeung aranjeun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "tina tengah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:33.115091938Z",
+  "model": "glm-5.3"
+}

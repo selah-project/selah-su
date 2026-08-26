@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 127,
+  "translation": "Kawas panah dina leungeun jawara, kitu ogé putra-putra mangsa ngora.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "kawas panah"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dina leungeun"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jawara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "mangsa ngora"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:24.534271715Z",
+  "model": "glm-5.3"
+}

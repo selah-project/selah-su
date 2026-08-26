@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Taneuh nu dipapaitan ku Yahwe, Elohim anjeun, mata-elok Yahwe, Elohim anjeun, ka dinya terus-terusan, ti mimiti taun nepi ka tungtung taun.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "dipapaitan ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dipapaitan (objek: nagara)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-terusan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata-elok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka dinya"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "ti mimiti"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:39.467125785Z",
+  "model": "glm-5.3"
+}

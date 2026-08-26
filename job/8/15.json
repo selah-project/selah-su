@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Manehna nyangga ka imahna, tapi ⟨moal⟩ nangtung; ngawengku ku eta, tapi ⟨moal⟩ ngadeg.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "nyangga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "ngawengku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku eta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:17.399921933Z",
+  "model": "glm-5.3"
+}

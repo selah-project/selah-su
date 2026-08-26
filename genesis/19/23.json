@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Matahari geus méak di luhureun bumi, jeung Lot asup ka Tsoar.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "méak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di-luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "jeung-Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ka-Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:58.916886859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung Pelishtim ngudag rapat Shaul jeung putra-putrana, sarta Pelishtim ngabunuh ⟨את⟩ Yehonatan jeung ⟨את⟩ Avinadav jeung ⟨את⟩ Malkishua, putra-putra Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ngudag rapat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sarta ngabunuh"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:36.705540851Z",
+  "model": "glm-5.3"
+}

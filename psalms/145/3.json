@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Agung Yahwe tur sangat layak dipuji, jeung ka kagungan-Na euweuh nu ngukur.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "tur dipuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "jeung ka kagungan-Na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "nu ngukur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:20.923848424Z",
+  "model": "glm-5.3"
+}

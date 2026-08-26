@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Sabab harta moal ⟨aya⟩ salawasna, jeung mahkota moal lumaku kana angkatan ka angkatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "harta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kana angkatan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ka angkatan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:17:16.169609573Z",
+  "model": "glm-5.3"
+}

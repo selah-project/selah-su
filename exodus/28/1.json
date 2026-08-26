@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Sarta anjeun, deukeutkeun ka anjeun ⟨את⟩ Aharon dulur anjeun jeung ⟨את⟩ putra-putrana babareangan jeung anjeun, ti tengah-tengah putra-putra Yisrael, pikeun ngimah ka Kuring: Aharon, Nadab jeung Avihu, Elazar jeung Itamar, putra-putra Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sarta anjeun"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "deukeutkeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dulur anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ babareangan"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ti tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "pikeun ngimah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Kuring"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "jeung Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "jeung Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:56.472684280Z",
+  "model": "glm-5.3"
+}

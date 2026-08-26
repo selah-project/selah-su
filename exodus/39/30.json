@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Jeung maranehna nyieun ⟨את⟩ piring kameumeut makuta suci, emas murni, sarta maranehna nulis luhureunana tulisan ukiran siget: 'Suci pikeun Yahwe.'",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "jeung maranehna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piring kameumeut makuta suci"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "piring kameumeut"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "makuta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "jeung maranehna nulis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "luhureunana"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "tulisan"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ukiran"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "siget"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:43.078696371Z",
+  "model": "glm-5.3"
+}

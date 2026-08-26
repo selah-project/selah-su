@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Leuwih hadé roh nu handap babareangan ⟨את⟩ nu miskin batan ngabagi rampasan jeung ⟨את⟩ nu arogan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "leuwih hadé"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "nu handap"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu miskin"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "ngabagi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu arogan"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "nu arogan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:00:07.933128196Z",
+  "model": "glm-5.3"
+}

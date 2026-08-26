@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeunna mawa ⟨את⟩ ⟨the⟩ petiana kana imah-kemah, jeung nangtungkeun ⟨את⟩ tirai pangbabungbias, jeung mungkus luhureun petian kasaksian, kumaha Yahwe paréntahkeun ka ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petiana"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "petiana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "imah-kemah"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nangtungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirai pangbabungbias"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "pangbabungbias"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "mungkus"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petian"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kasaksian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paréntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:11.046197212Z",
+  "model": "glm-5.3"
+}

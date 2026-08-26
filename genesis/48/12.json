@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Sarta Yosef ngaluarkeun ⟨את⟩ aranjeunna tina antara suku-sukuna, sarta anjeunna sujud ku beungeutna ka taneuh.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Sarta ngaluarkeun"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "tina antara"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "suku-sukuna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sarta anjeunna sujud"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ku beungeutna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:52.767011186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ka Nu ngapuk raja-raja nu ageung, sabab nepi ka salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Ka Nu ngapuk"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nu ageung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nepi ka salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:11.070154858Z",
+  "model": "glm-5.3"
+}

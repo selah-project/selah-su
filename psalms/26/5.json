@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Kuring benci kana kumpulan jalma-jalma nu nyieun karusakan, jeung jeung jalma-jalma jahat moal kuring diuk.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "kuring benci"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "jalma-jalma nu nyieun karusakan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung jeung"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "kuring diuk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:13.552963733Z",
+  "model": "glm-5.3"
+}

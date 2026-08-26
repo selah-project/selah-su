@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Saeutik baé abdi anjeun ngan meuntas ⟨את⟩ Yarden jeung ⟨את⟩ raja; naha raja maleukeun kabasa ka abdi kalawan ganjaran kawas ieu?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "saeutik baé"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "meuntas"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "maleukeun kabasa ka abdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "ganjaran"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:56.294853668Z",
+  "model": "glm-5.3"
+}

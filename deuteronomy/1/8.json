@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tingali, kuring geus nempatkeun ⟨את⟩ tanah saméméh aranjeun; sumpangna jeung kabawaanana ⟨את⟩ tanah nu diaji ku Yahwe ka bapa-bapa aranjeun, ka Avraham, ka Yitsxak, jeung ka Yaakov, méré ka maranehna jeung ka turunanna sanggeus maranehna.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring geus nempatkeun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "saméméh aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sumpangna"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "jeung kabawaanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "diaji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ka bapa-bapa aranjeun"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ka Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ka Yitsxak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "jeung ka Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "méré"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "jeung ka turunanna"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sanggeus maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:43.674388392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Sarta Anjeunana mawa kaluar umatna kalawan suka cita, kalawan sorak-sorai ⟨את⟩ nu dipilihna.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mawa kaluar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatna"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "kalawan suka cita"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "kalawan sorak-sorai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipilihna"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "nu dipilihna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:32.666113661Z",
+  "model": "glm-5.3"
+}

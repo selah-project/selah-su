@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Anjeunna nyabangkeun batu-batu di padang pasir, sarta méré inum sapertos sagara raya nu ngarawah.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "nyabangkeun"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang pasir"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "méré inum"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "sapertos sagara raya"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ngarawah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:44.740988096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung anjeun bakal migawé ⟨את⟩ eta salaku kaduktusan rangkep, karya nu ngarangkep, uyahan, beresih, suci.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Jeung anjeun bakal migawé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kaduktusan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kaduktusan"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "rangkep"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "nu ngarangkep"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "uyahan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "beresih"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:44.352513603Z",
+  "model": "glm-5.3"
+}

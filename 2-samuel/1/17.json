@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Dawid ngaduka ku elégan ieu alatan Sha-ul jeung alatan Yehonatan anakna.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ngaduka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elégan"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "elégan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung alatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:53.211125739Z",
+  "model": "glm-5.3"
+}

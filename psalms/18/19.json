@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Aranjeunna nyambar abdi dina poé kaékrem abdi, tapi Yahwe jadi pangrojong pikeun abdi.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "nyambar abdi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "kaékrem abdi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tapi jadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "pangrojong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:15.484037105Z",
+  "model": "glm-5.3"
+}

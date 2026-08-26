@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Nyanyian keur manéhna, sinding keur manéhna, ujeulkeun sagala kagumanna nu nyongcolang.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur manéhna"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "sinding"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keur manéhna"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ujeulkeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "kagumanna nu nyongcolang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:25.668300176Z",
+  "model": "glm-5.3"
+}

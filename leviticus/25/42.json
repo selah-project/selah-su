@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sabab abdi-abdi Ku ⟨aranehna⟩, nu Ku mawa kaluar ⟨את⟩ maranehna ti tanah Mitsrayim; ulah dijual ku jualan abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi Ku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aranehna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Ku mawa kaluar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "dijual"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ku jualan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:42.545411331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Ti sadaya nu ngawurukan kuring kuring meunang kawartuan, sabab kasaksian-Mu sieuk keur kuring.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "nu ngawurukan kuring"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "kuring meunang kawartuan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "kasaksian-Mu"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "sieuk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:28.091063793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung ⟨את⟩ nu kadua dijieun kurban bakar luyu jeung katangtuan; jeung imam nyucikeun anjeunna tina dosana anu dipigawé, jeung dihampura ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu kadua"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nu kadua"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "luyu jeung katangtuan"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "jeung nyucikeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "tina dosana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "jeung dihampura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:04.531333534Z",
+  "model": "glm-5.3"
+}

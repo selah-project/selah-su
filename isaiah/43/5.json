@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Ulah sieun, sabab ⟨את⟩-jeung-anjeun aya abdi; ti wétan abdi mawa siki anjeun, sarta ti kulon abdi ngumpulkeun anjeun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-jeung-anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ti wétan"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "abdi mawa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siki anjeun"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "sarta ti kulon"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "abdi ngumpulkeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:27.141539416Z",
+  "model": "glm-5.3"
+}

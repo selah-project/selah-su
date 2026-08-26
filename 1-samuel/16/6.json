@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jadi lamun aranjeun sumping, anjeunna nempo ⟨את⟩ Eliab, jeung ngomong: Sanés baé, di payuneun Yahwe ⟨aya⟩ Nu Dilisahan-Na.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "lamun aranje sumping"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sanés baé"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Nu Dilisahan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:33.737635001Z",
+  "model": "glm-5.3"
+}

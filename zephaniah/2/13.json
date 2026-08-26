@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta Anjeunna ngunjalkeun leungeun-Na ka kalér, jeung mupus ⟨את⟩ Ashur, sarta nempatkeun ⟨את⟩ Nineve jadi karusakan, garing jiga padang belang.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ngunjalkeun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeun-Na"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kalér"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "mupus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "jadi karusakan"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "garing"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "jiga padang belang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:15.405827527Z",
+  "model": "glm-5.3"
+}

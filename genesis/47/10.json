@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Teras Yaakov ngaberkahan ⟨את⟩ Firaun, teras kaluar ti payuneun Firaun.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "teras ngaberkahan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Firaun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "teras kaluar"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:29.714008552Z",
+  "model": "glm-5.3"
+}

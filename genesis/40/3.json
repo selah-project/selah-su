@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Sarta manéhna nempatkeun ⟨את⟩ maranéhna dina tahanan, di imam pangulu nu nyembelih, ka imam panjara, tempat Yosef dikurung di dinya.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "dina tahanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imam"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "nu nyembelih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "panjara"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "dikurung"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:19.321912590Z",
+  "model": "glm-5.3"
+}

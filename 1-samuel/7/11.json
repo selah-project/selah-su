@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Lalu kaluar jalma-jalma Israil ti haMitzpah, sarta ngudag ⟨את⟩ urang Pelesyet, sarta ngagulingkeun maranehna tepi ka sahandapeun Bet-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "lalu kaluar"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "haMitzpah ⟨eta⟩"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "sarta ngudag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Pelesyet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "urang Pelesyet"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "sarta ngagulingkeun maranehna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tepi ka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:54.526902867Z",
+  "model": "glm-5.3"
+}

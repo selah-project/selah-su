@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Teras Moshe turun ti gunung ka ⟨ka⟩ balaréa, sarta nyucikeun ⟨את⟩ balaréa, sarta maranehna ngumbah papakéanana.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "teras turun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "sarta nyucikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balaréa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "sarta ngumbah"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "papakéanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:21.632693056Z",
+  "model": "glm-5.3"
+}

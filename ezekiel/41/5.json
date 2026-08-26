@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Jeung anjeunna ngukur dinding ⟨imah⟩ éta: genep hasta, jeung lébar sisi-ruang ⟨imah⟩ éta opat hasta, sakurilingeun, sakurilingeun ka ⟨imah⟩ éta, sakurilingeun.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "jeung-ngukur"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dinding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "שש",
+      "gloss": "genep"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "jeung-lébar"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "sisi-ruang"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakurilingeun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakurilingeun"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka-imah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakurilingeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:59:10.822716954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Pokjenna jalma nu nyieun Yahwe jadi panyalindunganana, jeung nu teu ngahuleng ka nu sombong, atawa ka nu nyimpang ka bohong.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "pokjenna"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "panyalindunganana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ngahuleng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "nu sombong"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "atawa nu nyimpang"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "bohong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:56.972555275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sabab ti jero ompat leungit ⟨⟨⟩⟩ anjeunna kaluar jadi raja; sabab ogé dina karajaanana dirina dilahirkeun miskin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti jero"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "ompat leungit"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "dina karajaanana"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "dilahirkeun"
+    },
+    {
+      "surface": "רש",
+      "gloss": "miskin"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:50.843906961Z",
+  "model": "glm-5.3"
+}

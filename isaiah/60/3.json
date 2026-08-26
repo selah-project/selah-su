@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Jeung bangsa-bangsa bakal lalampahan ka cahaya anjeun, jeung raja-raja ka caangna meleték anjeun.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Jeung bakal lalampahan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ka cahaya anjeun"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "jeung raja-raja"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ka caangna"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "meleték anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:18:38.101547872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sarta ratu Swaba nempo ⟨את⟩ kawijaksanaan Shelomoh jeung ⟨bait⟩ nu diwangunna.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Swaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawijaksanaan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kawijaksanaan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "jeung bait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "diwangunna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:13.298914797Z",
+  "model": "glm-5.3"
+}

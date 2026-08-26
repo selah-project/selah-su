@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Yehoyakim saré jeung bapak-bapakna, tur Yehoyakin putrana jadi raja ngaganti manehna.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapakna"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ngaganti manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:46.047405352Z",
+  "model": "glm-5.3"
+}

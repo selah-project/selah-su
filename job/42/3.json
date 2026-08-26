@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Saha ⟨ieu⟩ nu nyumputkeun nasihat tanpa pangaweruh? Ku lantaran éta kuring geus ngomong, tapi moal ngartos; hal-hal nu ngahéjokeun mulai ti kuring, jeung moal nyaho.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ieu⟩"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "nyumputkeun"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ku lantaran éta"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "kuring geus ngomong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ngartos"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "hal-hal nu ngahéjokeun"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mulai ti kuring"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T15:22:48.309356032Z",
+  "model": "glm-5.3"
+}

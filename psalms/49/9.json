@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "jeung mahal pisan tebusan jiwa ⟨maranehna⟩, jeung eureuing salawasna",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "jeung mahal pisan"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "tebusan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jiwa maranehna"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "jeung eureuing"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:50.574058213Z",
+  "model": "glm-5.3"
+}

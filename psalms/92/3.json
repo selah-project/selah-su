@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Pikeun ngabejaan kanyaah satia perjangjian-Mu di énjing-énjing, jeung kasatiaan-Mu di wengi-wengi.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "pikeun ngabejaan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di énjing-énjing"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia perjangjian-Mu"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "jeung kasatiaan-Mu"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "di wengi-wengi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:53.984223213Z",
+  "model": "glm-5.3"
+}

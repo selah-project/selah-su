@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung sagala minchahna imam kudu sagemblengna ⟨jadi⟩; ulah didahar.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchahna"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "sagemblengna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kudu jadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "didahar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:11.751533973Z",
+  "model": "glm-5.3"
+}

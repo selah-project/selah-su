@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung bangkong-bangkong bakal naék ka anjeun, jeung ka umat anjeun, jeung ka sakumna palayan-palayan anjeun.",
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "jeung ka anjeun"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "jeung ka umat anjeun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "jeung ka sakumna"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palayan-palayan anjeun"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bakal naék"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bangkong-bangkong"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:57.899233462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Upama Anjeun maéhan, ⟨si⟩ Eloah, jalma jahat — mangka hé, lalaki-lalaki getihan, piliang ti abdi!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "Anjeun maéhan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma jahat"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "jeung lalaki-lalaki"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getihan"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "piliang"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ti abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:11.156289127Z",
+  "model": "glm-5.3"
+}

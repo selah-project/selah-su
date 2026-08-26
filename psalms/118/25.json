@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Mugi, Yahwe, mushukeun ayeuna; mugi, Yahwe, bagéakeun ayeuna.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "mushukeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "bagéakeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ayeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:15.407529722Z",
+  "model": "glm-5.3"
+}

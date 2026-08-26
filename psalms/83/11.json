@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Anu musnah di En-Dor, jadi tai pikeun ⟨את⟩ taneuh.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "musnah"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "di En"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "tai"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "pikeun taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:33.667462890Z",
+  "model": "glm-5.3"
+}

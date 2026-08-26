@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung putrana nu bungsu Avdon, jeung Tzur, jeung Kish, jeung Baal, jeung Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "jeung putrana"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nu bungsu"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "jeung Tzur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "jeung Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "jeung Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "jeung Nadav"
+    }
+  ],
+  "timestamp": "2026-08-26T16:08:13.351561973Z",
+  "model": "glm-5.3"
+}

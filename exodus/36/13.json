@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung anjeunna nyieun lima puluh kukupu emas, jeung anjeunna nyambungkeun ⟨את⟩ lain-lain kain héja ⟨the⟩ hiji ka hiji ku kukupu-kukupu, jadi ⟨is⟩ ⟨the⟩ kemah ngahiji.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anjeunna nyieun"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kukupu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "anjeunna nyambungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lain-lain kain héja"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "lain-lain kain héja"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "ku kukupu-kukupu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ngahiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:57.595300896Z",
+  "model": "glm-5.3"
+}

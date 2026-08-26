@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sabab ujul datang ku lobana kagiatan, sarta sora nu bodas ku lobana kecap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ujul"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ku lobana"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "kagiatan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sarta sora"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nu bodas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ku lobana"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kecap"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:07.569540005Z",
+  "model": "glm-5.3"
+}

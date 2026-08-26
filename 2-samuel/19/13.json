@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sadulur-dulur abdi anjeun, tulang abdi jeung daging abdi anjeun, naha anjeun jadi nu pangtungtungna mawa balik ⟨את⟩ raja?",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "sadulur-dulur abdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang abdi"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "jeung daging abdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "anjeun jadi"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "nu pangtungtungna"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "mawa balik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:59.434958935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Tatapkeun abdi leumpang dina jalan parentah-parentah-Mu, sabab dina eta abdi bungah.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Tatapkeun abdi leumpang"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentah-parentah-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina eta"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "abdi bungah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:33.708533831Z",
+  "model": "glm-5.3"
+}

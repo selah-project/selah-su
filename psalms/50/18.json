@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Mun anjeun nempo maling, anjeun lumpat sarenganana, jeung bagéan anjeun ngahiji jeung jalma-jalma zina.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "maling"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "lumpat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sarenganana"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "jalma-jalma zina"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "bagéan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:57.286696964Z",
+  "model": "glm-5.3"
+}

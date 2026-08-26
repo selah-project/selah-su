@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Yahwe ngutus ⟨את⟩ Yerubaal, jeung ⟨את⟩ Bedan, jeung ⟨את⟩ Yiftax, jeung ⟨את⟩ Shemuel, sarta ngalampeskeun aranjeun ti leungeun musuh aranjeun nu ngurilingan, sarta aranjeun dumuk kaayaan aman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Jeung... ngutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yiftax"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "sarta ngalampeskeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh aranjeun"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "nu ngurilingan"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "sarta aranjeun dumuk"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "kaayaan aman"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:59.343654460Z",
+  "model": "glm-5.3"
+}

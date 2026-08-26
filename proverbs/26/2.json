@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Salaku manuk nu ngahiyang, salaku walangit nu ngahiber, kitu kutukan nu tanpa alesan moal tadah.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "salaku manuk"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "nu ngahiyang"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "salaku walangit"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "nu ngahiber"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "kutukan"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nu tanpa alesan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tadah"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:33.432932024Z",
+  "model": "glm-5.3"
+}

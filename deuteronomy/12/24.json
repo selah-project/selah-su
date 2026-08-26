@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ulah anjeun ngadaharna; ka luhureun taneuh anjeun eophkeunana saperti cai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "anjeun ngadaharna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "anjeun eophkeunana"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "saperti cai"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:14.002520325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 128,
+  "translation": "Kagungan tinuju leungeun anjeun bakal dipapait, karaharjaan anjeun, sarta hadé ka anjeun.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Kagungan tinuju"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bakal"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dipapait"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "karaharjaan anjeun"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "sarta hadé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:47.786916721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "ku sakabéh ati abdi abdi milampah manggihan Anjeun; ulah ulah mawa abdi nyimpang ti parentah-parentah-Mu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ku sakabéh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati abdi"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "abdi milampah manggihan Anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "mawa abdi nyimpang"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "ti parentah-parentah-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:10.012431998Z",
+  "model": "glm-5.3"
+}

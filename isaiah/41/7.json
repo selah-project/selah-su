@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Tukang kai nguatkeun ⟨את⟩ tukang ngaleleut emas, nu ngalembutkeun maké palu ⟨את⟩ nu ngabeukpalu dina ânvil, nyarita ka nu ngabeungkeut: Alus kénéh; sarta manéhna ngawetkeunana ku paku-paku sangkan henteu oyag.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nguatkeun"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tukang kai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukang ngaleleut emas"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "tukang ngaleleut emas"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "nu ngalembutkeun"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "palu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ngabeukpalu dina ânvil"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "nu ngabeukpalu"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "dina ânvil"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "ka nu ngabeungkeut"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kénéh"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "ngawetkeunana"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "ku paku-paku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "oyag"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:00.985504441Z",
+  "model": "glm-5.3"
+}

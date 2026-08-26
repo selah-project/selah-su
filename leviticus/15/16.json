@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung lamun ti saurang lalaki kaluar tina manéhna cipatatan bibit, mangka manéhna mandi dina cai ⟨את⟩ sakuliah dagingna, sarta teu suci nepi ka soré.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jeung saurang lalaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tina manéhna"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "cipatatan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bibit"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mangka manéhna mandi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dina cai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakuliah dagingna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakuliah"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "sarta teu suci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soré"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:07.502474195Z",
+  "model": "glm-5.3"
+}

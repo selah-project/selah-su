@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "ka Hetzron, ka kulawargana ⟨ka⟩ Ha-Hetzroni; ka Karmi, ka kulawargana ⟨ka⟩ Ha-Karmi.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "ka Hetzron"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawargana"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "Ha-Hetzroni"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ka Karmi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawargana"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "Ha-Karmi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:33:24.587432422Z",
+  "model": "glm-5.3"
+}

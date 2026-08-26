@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Ka nu mibanda xesed Anjeun nembongkeun xesed; ka jalma nu sampurna Anjeun nembongkeun kasampurnaan.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "nu mibanda xesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "Anjeun nembongkeun xesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nu sampurna"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "Anjeun nembongkeun kasampurnaan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:36.203618687Z",
+  "model": "glm-5.3"
+}

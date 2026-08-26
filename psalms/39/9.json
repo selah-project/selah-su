@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Ti sadaya palangku_lampah kuring, paluntreumkeun kuring; euweuh budi baraya nu nyilakakeun (henteu kuring jadi harepanna) leungeun-lipirna jalmi nu miskin.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "palangku_lampah kuring"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "paluntreumkeun kuring"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "euweuh budi baraya nu nyilakakeun"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "jalmi nu miskin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "nyieun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:30.761157464Z",
+  "model": "glm-5.3"
+}

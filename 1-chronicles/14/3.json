@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung David nyandak deui awéwé di Yerushalaim, jeung David babar deui putra jeung putri.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "babar"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jeung putri"
+    }
+  ],
+  "timestamp": "2026-08-26T16:10:20.043037103Z",
+  "model": "glm-5.3"
+}

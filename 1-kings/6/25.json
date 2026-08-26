@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung sapuluh déngkal ⟨⟨the⟩⟩ kerub kadua — ukuran hiji jeung wangun hiji pikeun dua kerub éta.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "jeung sapuluh"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "déngkal"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ukuran"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "jeung wangun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "pikeun dua"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerub-kerub"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:26.066063953Z",
+  "model": "glm-5.3"
+}

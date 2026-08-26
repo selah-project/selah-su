@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Dina jalan kasaksian-kasaksian Anjeun abdi bungah, sakumaha bungahna kana sakabéh harta.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "kasaksian-kasaksian Anjeun"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "abdi bungah"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "sakumaha bungahna kana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הון",
+      "gloss": "harta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:07.627841714Z",
+  "model": "glm-5.3"
+}

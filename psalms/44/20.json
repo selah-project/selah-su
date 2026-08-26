@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Sanajan Anjeun geus ngancurkeun kami di tempat jakal, jeung nutupan kami ku kaheureuyan pati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sanajan"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "Anjeun geus ngancurkeun kami"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "jakal"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "jeung nutupan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ku kaheureuyan pati"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:07.378336782Z",
+  "model": "glm-5.3"
+}

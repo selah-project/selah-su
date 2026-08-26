@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Anjeun ngirim roh anjeun, aranjeuna dijieun, jeung anjeun ngamutahirkeun palembeu taneuh.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "anjeun ngirim"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "roh anjeun"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "aranjeuna dijieun"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "jeung anjeun ngamutahirkeun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palembeu"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.801563858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Ku sabab kuring geus nyarita: xesed bakal diwangun ka salawasna; di langit-langit Anjeun ngadirikeun kasatiaan-Mu di dinya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kuring geus nyarita"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka salawasna"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bakal diwangun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "Anjeun ngadirikeun"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kasatiaan-Mu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:05.003672759Z",
+  "model": "glm-5.3"
+}

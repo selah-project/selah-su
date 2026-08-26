@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jadi kajadian, nalika sakabéh Yisrael ngadéngé yén Yarovam balik, aranjeunna ngirim sarta nyaur ⟨את⟩ manehna ka kumpulan balarea, sarta ngajantenkeun ⟨את⟩ manehna raja di luhur sakabéh Yisrael; euweuh nu nuturkeun imah Dawid, iwal ti suku Yehuda wungkul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nalika ngadéngé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "שב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "nyaur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manehna",
+      "marks": "Yarovam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kumpulan balarea"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ngajantenkeun raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manehna",
+      "marks": "Yarovam"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nuturkeun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "iwal ti"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wungkul"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:43.500212965Z",
+  "model": "glm-5.3"
+}

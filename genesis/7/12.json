@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung kajadian hujan ⟨ éta ⟩ turun di luhureun ⟨the⟩ bumi opat puluh poé jeung opat puluh peuting.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jeung kajadian"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "jeung opat puluh"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "peuting"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:32.875053035Z",
+  "model": "glm-5.3"
+}

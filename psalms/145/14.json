@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Yahwe ngadukung ka sagala nu keur ragrag, jeung ngajegitkeun ka sagala nu tunduk boga.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "ngadukung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sagala"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "nu keur ragrag"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "jeung ngajegitkeun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sagala"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "nu tunduk boga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:40.797722807Z",
+  "model": "glm-5.3"
+}

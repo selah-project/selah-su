@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sarta kuring nyandak ⟨את⟩ buku meuli-pajualan, ⟨את⟩ nu kasegel — parentah jeung katangtuan — jeung ⟨את⟩ nu kabuka.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "sarta kuring nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buku meuli-pajualan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "meuli-pajualan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu kasegel"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "nu kasegel"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "jeung katangtuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu kabuka"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "nu kabuka"
+    }
+  ],
+  "timestamp": "2026-08-26T13:34:49.639288360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jadi sakabéh bumi ⟨ngagaduhan⟩ hiji basa, jeung kecap-kecap nu sarua.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "jeung kecap-kecap"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "nu sarua"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:17.676966574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Avram ngaliwatan ⟨the⟩ tanah nepi ka tempat Sikhem, nepi ka taru More; sarta ⟨the⟩ Kenaanita harita aya di ⟨the⟩ tanah.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikhem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "taru"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "More"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "jeung Kenaanita"
+    },
+    {
+      "surface": "אז",
+      "gloss": "harita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:49.183945439Z",
+  "model": "glm-5.3"
+}

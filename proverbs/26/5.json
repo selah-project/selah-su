@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jawab ⟨את⟩ keusi luyu jeung kabejadanana, supaya ulah manehna jadi pinter dina panonna sorangan.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "jawab"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "keusi"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "luyu-jeung-kabejadanana"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya-ulah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "pinter"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dina-panonna-sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:44.223277166Z",
+  "model": "glm-5.3"
+}

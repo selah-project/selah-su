@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta anjeunna nangtungkeun ⟨את⟩ rarayna tetep, nepi ka manéhna malu; sarta jalma Elohim nangis.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sarta nangtungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rarayna"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rarayna"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "sarta nangtung tetep"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בש",
+      "gloss": "malu"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "sarta nangis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:52:53.978500444Z",
+  "model": "glm-5.3"
+}

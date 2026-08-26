@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sabab umat anjeun jeung warisan anjeun maranjeunna, nu anjeun kaluarkeun ti Mesir, ti tengah tungku beusi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat anjeun"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "jeung warisan anjeun"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranjeunna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "kaluarkeun"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mesir"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ti tengah"
+    },
+    {
+      "surface": "כור",
+      "gloss": "tungku"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "beusi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:23.117763269Z",
+  "model": "glm-5.3"
+}

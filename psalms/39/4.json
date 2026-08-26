@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Panas haté kuring di jero diri kuring; basa kuring keur nuruntas, seuneu ngabeledug; lajeng kuring nyarita ku lilih kuring.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "panas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté kuring"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di jero diri kuring"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "basa kuring keur nuruntas"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ngabeledug"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kuring nyarita"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ku lilih kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:26.891381522Z",
+  "model": "glm-5.3"
+}

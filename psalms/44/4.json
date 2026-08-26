@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Sabab lain ku pedang maranehna maranehna jadi ngawasaan ⟨i⟩ tanah, jeung leungeun maranehna teu nyalametkeun maranehna; tapi leungeun katuhu Anjeun, jeung leungeun Anjeun, jeung cahaya beungeut Anjeun — sabab Anjeun kanyaah ka maranehna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "ku pedang maranehna"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "maranehna jadi ngawasaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "jeung leungeun maranehna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "nyalametkeun"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ka maranehana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "leungeun katuhu Anjeun"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "jeung leungeun Anjeun"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "jeung cahaya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "beungeut Anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "Anjeun kanyaah ka maranehana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:52.900310310Z",
+  "model": "glm-5.3"
+}

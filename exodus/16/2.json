@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sadayana jamaah putra-putra Yisrael ngarungkun ka Moshe jeung ka Aharon di gurun.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "ngarungkun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:40.788787009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Tuluy kuring sumping sarta mawa ⟨את⟩ aranjeun ka hiji tanah sarua jeung tanah aranjeun, tanah jagong jeung anggur anyar, tanah roti jeung kebon anggur.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tuluy"
+    },
+    {
+      "surface": "באי",
+      "gloss": "kuring sumping"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "sarta mawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hiji tanah"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "sarua jeung tanah aranjeun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "jagong"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "jeung anggur anyar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "jeung kebon anggur"
+    }
+  ],
+  "timestamp": "2026-08-26T13:11:34.209984210Z",
+  "model": "glm-5.3"
+}

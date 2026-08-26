@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Naon untungna ⟨pikeun⟩ nu ngagawé dina hal anu dipararénta ku manéhna?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "untung"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "nu ngagawé"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "dina hal anu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ngagawé sapararénta"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:37.100859446Z",
+  "model": "glm-5.3"
+}

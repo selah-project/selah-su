@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Lajeng imam nu dilisahan mawa sabagé tina getih éta lembu jago ka jero khemah pateemon.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Lajeng mawa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "nu dilisahan"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "tina getih"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "éta lembu jago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka jero"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pateemon"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:29.442952222Z",
+  "model": "glm-5.3"
+}

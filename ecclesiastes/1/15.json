@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Nu bengkol teu bisa diowaneun, jeung nu kurang teu bisa diitung.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "nu bengkol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "diowaneun"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "jeung nu kurang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "diitung"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:00.189760855Z",
+  "model": "glm-5.3"
+}

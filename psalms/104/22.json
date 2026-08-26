@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Mun panonpoé bijil, maranéhna pabalik, jeung dina liang-liangna maranéhna baringking.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "bijil"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "maranéhna pabalik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "liang-liangna"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "maranéhna baringking"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:42.424721388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Euweuh jalma nempo ⟨את⟩ sakadangna, jeung euweuh nu nyanghak tina tempatna tilu poé; tapi ka sakabéh barudak Yisrael aya cahaya di tempat cicingna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Euweuh"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakadangna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sakadangna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nu nyanghak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "tina tempatna"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "tapi ka sakabéh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "di tempat cicingna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:03.357107090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "⟨Seuneu⟩ lampu pikeun suku abdi kecap-Mu, jeung cahya pikeun jalan abdi.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "pikeun suku abdi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kecap-Mu"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "jeung cahya"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "pikeun jalan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:25.387662172Z",
+  "model": "glm-5.3"
+}

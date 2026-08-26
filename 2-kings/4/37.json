@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Manéhna asup, sujud kana suku anjeunna, jeung besujud ka lemah, teras ngangkat ⟨את⟩ putrana, sarta kaluar.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "sujud kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sukuna"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "besujud"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka lemah"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrana"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "kaluar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:43.864826308Z",
+  "model": "glm-5.3"
+}

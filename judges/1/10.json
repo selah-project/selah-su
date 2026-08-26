@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lajeng Yehuda indit ka Kanaan nu nyicingan Xevron — ngaran Xevron baheula Kiryat-Arba — tuluy aranjeunna ngagulingkeun ⟨את⟩ Sheshay, jeung ⟨את⟩ Aximan, jeung ⟨את⟩ Talmay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lajeng indit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nu nyicingan"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Xevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "baheula"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ngagulingkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aximan"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Aximan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Talmay"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmay"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:27.776993879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Gaung jero Anjeunna tutupan siga papakéan; di luhur gunung-gunung cai nangtung.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "gaung jero"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "siga papakéan"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "Anjeunna tutupan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:35.536867664Z",
+  "model": "glm-5.3"
+}

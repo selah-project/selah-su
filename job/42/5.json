@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Ku ngadéngé ceuli kuring ngadéngé Anjeun, ayeuna panon kuring nempo Anjeun.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ku ngadéngé"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ceuli"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "kuring ngadéngé Anjeun"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "nempo Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:23:23.900769686Z",
+  "model": "glm-5.3"
+}

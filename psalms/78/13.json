@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Anjeunna nyabangkeun laut, sarta ngabalukarkeun maranéhna ngaliwat, sarta ngadegkeun cai ngadeg sapertos tumpukan.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "nyabangkeun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ngabalukarkeun maranéhna ngaliwat"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sapertos"
+    },
+    {
+      "surface": "נד",
+      "gloss": "tumpukan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:44.740623656Z",
+  "model": "glm-5.3"
+}

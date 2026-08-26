@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Naha singa ngagorowok di leuweung, samentawis mangsana euweuh? Naha anak singa mair sora ti panyiramanana, upama teu nangkep naon-naon?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "naha ngagorowok"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "di leuweung"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "samentawis mangsana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "naha mair"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sora"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "ti panyiramanana"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "upama teu"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לכד",
+      "gloss": "nangkep naon-naon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:08:31.262745494Z",
+  "model": "glm-5.3"
+}

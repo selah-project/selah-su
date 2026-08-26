@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Maka pibanda-Na miangan imah-diami di Shilo, khemah nu dipasang-Na di antara manusa.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "miangan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "imah-diami"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "dipasang-diami"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "di antara manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:39.008197601Z",
+  "model": "glm-5.3"
+}

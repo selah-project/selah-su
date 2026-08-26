@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung El Shadday (El Nu Maha Kawasa) ngaberkahan ⟨את⟩ anjeun, jeung ngajadikeun anjeun subur, jeung ngabantetkeun anjeun, sangkan anjeun jadi kumpulan bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Jeung El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ngaberkahan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "jeung ngajadikeun subur"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "jeung ngabantetkeun"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "sangkan anjeun jadi"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:47.972011604Z",
+  "model": "glm-5.3"
+}

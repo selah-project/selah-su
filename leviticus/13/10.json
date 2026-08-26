@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung imam ngaliwat, jeung widi, aya bareuh bodas dina kulit, jeung éta geus ngarobah buuk jadi bodas, jeung aya hirup daging urup dina bareuh éta.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "jeung ngaliwat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung widi"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "bareuh"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "bodas"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dina kulit"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "jeung éta"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "geus ngarobah"
+    },
+    {
+      "surface": "שער",
+      "gloss": "buuk"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "jadi bodas"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "jeung aya hirup"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urup"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "dina bareuh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:34.235019888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jalan-jalan anjeun, Yahwe, béjorka ka kuring; jalur-jalur anjeun ajarkeun ka kuring.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-jalan anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "béjorka ka kuring"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "jalur-jalur anjeun"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarkeun ka kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:40.435025568Z",
+  "model": "glm-5.3"
+}

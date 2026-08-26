@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 84,
+  "translation": "Maranéhna leumpang ti kakuatan ka kakuatan, katempo ⟨di payuneun⟩ Elohim di Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Maranéhna leumpang"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "ti kakuatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "katempo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:30.114285285Z",
+  "model": "glm-5.3"
+}

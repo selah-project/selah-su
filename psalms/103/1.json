@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Kanggo Dawid. Ngaberkahan, jiwa kuring, ⟨את⟩ Yahwe, jeung sadaya jeroan kuring ⟨את⟩ jenengan suci-Na.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kanggo Dawid"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ngaberkahan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "jeroan kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenengan suci-Na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jenengan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suci-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:29.403338286Z",
+  "model": "glm-5.3"
+}

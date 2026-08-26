@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Yahwe ngomong ka Moshe: panganjawab jantung Paroh, nolik méré kalangan ka ⟨את⟩ balaréa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "panganjawab"
+    },
+    {
+      "surface": "לב",
+      "gloss": "jantung"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nolik"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "méré kalangan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:25.442863784Z",
+  "model": "glm-5.3"
+}

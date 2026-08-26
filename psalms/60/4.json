@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Anjeun geus ngageterkeun ⟨the⟩ bumi, geus nyagak éta; cageur riunganana, sabab goyang.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Anjeun geus ngageterkeun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "geus nyagak éta"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "cageur"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "riunganana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "goyang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:51.337706222Z",
+  "model": "glm-5.3"
+}

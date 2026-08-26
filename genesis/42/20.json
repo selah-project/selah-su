@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "jeung ⟨את⟩ dulur aranjeun nu pangawakna broughtkeun ka abdi, sangkan omongan aranjeun dipercaya, jeung aranjeun moal paéh. Jeung maranehna ngalakukeun kitu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dulur aranjeun nu pangawakna"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "dulur aranjeun"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nu pangawakna"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "broughtkeun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "dipercaya"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "omongan aranjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:39:23.691059836Z",
+  "model": "glm-5.3"
+}

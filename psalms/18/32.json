@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sabalikna, saha Eloah salian ti Yahwe? Sarta saha batu sagetan salian ti Elohim kami?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabalikna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "salian ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Sarta saha"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu sagetan"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "salian ti"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:11.665975569Z",
+  "model": "glm-5.3"
+}

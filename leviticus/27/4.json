@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung upama awéwé éta, jadi tatagan anjeun tilu puluh syikel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung upama"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "tatagan anjeun"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syikel"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:56.108748830Z",
+  "model": "glm-5.3"
+}

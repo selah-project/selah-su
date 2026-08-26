@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Piwawatos Yahwe ⟨nyaéta⟩ lempeng, ngahibur ati; paréntah Yahwe beresih, marentéangan panon.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "piwawatos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "lempeng"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ngahibur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "paréntah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "beresih"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "marentéangan"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "panon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:20.309153025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Najan kalawan kalalayan aranjeunna ngaleupaskeun diri? Dina kaambek anjeun, turunkeun ⟨את⟩ bangsa-bangsa, ya Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalalayan"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ngaleupaskeun diri"
+    },
+    {
+      "surface": "למו",
+      "gloss": "aranneunna"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dina kaambek"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "turunkeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:05.000401301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jadi dina poé éta Esav balik deui sachiruyna ka Seir.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sachiruyna"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "ka Seir"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:10.998994950Z",
+  "model": "glm-5.3"
+}

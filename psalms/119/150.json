@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Geus nyampeunnan nu ngudag maksad jahat; tina torat-Mu maranéhna geus jauh.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "geus nyampeunnan"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "nu ngudag"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "maksad jahat"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "tina torat-Mu"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "geus jauh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:48.695940052Z",
+  "model": "glm-5.3"
+}

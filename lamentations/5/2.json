@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Warisan kami geus jadi milik ⟨⟩ jalma deungeun, imah-imah kami milik jalma nu teu kanyahoan.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "warisan kami"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "geus jadi"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "milik jalma deungeun"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "imah-imah kami"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "milik jalma nu teu kanyahoan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:30:37.382437746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 149,
+  "translation": "Muji ngaran-Na ku ibing, ku tamburin jeung kecapi ngawih muji ka Anjeunna.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Muji"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaran-Na"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ku ibing"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ku tamburin"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "jeung kecapi"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ngawih muji"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:11.133223583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Laju Hanok jalan babarengan jeung ⟨את⟩ Elohin, terus anjeunna teu aya deui, sabab Elohin ngala ⟨את⟩ anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "jalan babarengan"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "teu aya deui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ngala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "anjeunna (Hanok)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohin"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:32.041075447Z",
+  "model": "glm-5.3"
+}

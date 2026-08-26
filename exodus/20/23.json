@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Ulah anjeun ngagawe jeung ⟨את⟩ kuring allah tina pérak, jeung allah tina emas, ulah anjeun ngagawe pikeun anjeun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "anjeun ngagawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "jeung ⟨את⟩ kuring",
+      "marks": "kuring"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allah"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "jeung allah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "anjeun ngagawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:16.057238397Z",
+  "model": "glm-5.3"
+}

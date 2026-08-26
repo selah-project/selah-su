@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung abdi baris nyerenkeun ⟨את⟩ Mitsrajim kana leungeun pangawasa-pangawasa nu keujeuh, jeung raja nu kuat baris maréntah maraneuhna — lajuning Adon Yahwe Tzevaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "Jeung abdi baris nyerenkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kana leungeun"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "pangawasa-pangawasa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nu keujeuh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nu kuat"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "baris maréntah"
+    },
+    {
+      "surface": "בם",
+      "gloss": "maraneuhna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lajuning"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:11.100019887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Kitu timbalan Yahwe: upama anjeun ngabolaykeun ⟨את⟩ perjangjian Kami jeung poé ieu jeung ⟨את⟩ perjangjian Kami jeung peuting ieu, nepi ka euweuh deui beulah jeung peuting mangsa-tina-mangsana.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "timbalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "anjeun ngabolaykeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian Kami jeung poé ieu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian Kami"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "perjangjian Kami jeung peuting ieu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian Kami"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "peuting ieu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "nepi ka euweuh deui"
+    },
+    {
+      "surface": "היות",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "beulah"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jeung peuting"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "mangsa-tina-mangsana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:34:48.349281832Z",
+  "model": "glm-5.3"
+}

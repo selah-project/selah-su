@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Naha nu taya raosna bisa didahar tanpa uyah? atanapi aya raos dina kelet sidawang?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "naha-didahar"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "nu-taya-raosna"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "uyah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atanapi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "raos"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "kelet"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "sidawang"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:38.547714947Z",
+  "model": "glm-5.3"
+}

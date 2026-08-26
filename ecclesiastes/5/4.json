@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Hadé mun anjeun henteu nazarkeun, tibatan mun nazar tapi henteu mayar.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "anjeun nazarkeun"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "tibatan mun nazar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "mayar"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:07.570003834Z",
+  "model": "glm-5.3"
+}

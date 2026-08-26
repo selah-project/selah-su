@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Pujilah Yah, carcatkeun syukur ka Yahwe, sabab ⟨anjeunna⟩ saé, sabab kanyaah-satia-Na tetep salawasna.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "carcatkeun syukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "saé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah-satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:39.417743550Z",
+  "model": "glm-5.3"
+}

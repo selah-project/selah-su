@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung Yahwe ngomong ka Moshe: saurang pangulu sapoé, saurang pangulu sapoé, masrahkeun ⟨את⟩ kurban maranéhna pikeun péndidian ⟨the⟩ altan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "saurang pangulu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sapoé"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "saurang pangulu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sapoé"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "masrahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban maranéhna"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "kurban maranéhna"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "pikeun péndidian"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:25:38.952877139Z",
+  "model": "glm-5.3"
+}

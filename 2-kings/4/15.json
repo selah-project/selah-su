@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung anjeunna nyarios: Sing gero anjeunna. Jadi anjeunna ngagero anjeunna, jeung anjeunna nangtung di panto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna nyarios"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sing gero"
+    },
+    {
+      "surface": "לה",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "jadi anjeunna ngagero"
+    },
+    {
+      "surface": "לה",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "jeung anjeunna nangtung"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "di panto"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:22.300998644Z",
+  "model": "glm-5.3"
+}

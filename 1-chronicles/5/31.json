@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Avishua nurunkeun ⟨את⟩ Bukki, jeung Bukki nurunkeun ⟨את⟩ Uzzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "jeung Avishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "jeung Bukki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:12.352487523Z",
+  "model": "glm-5.3"
+}

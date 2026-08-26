@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sarta peti Elohim dicekel, sarta dua putra Ely, Xopfni jeung Pinxes, maot.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "dicekel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ely"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maot"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Xopfni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "Pinxes"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:03.960513385Z",
+  "model": "glm-5.3"
+}

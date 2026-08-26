@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Abdi bakal ngirim ⟨את⟩ nyiruan sahareupan anjeun, sarta manéhna ngusir ⟨את⟩ urang Hivi, ⟨את⟩ urang Kenaan, jeung ⟨את⟩ urang Het ti hareup anjeun.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "jeung Abdi bakal ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyiruan"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nyiruan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sahareupan anjeun"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "sarta manéhna ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "urang Hivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urang Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kenaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Het"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "urang Het"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ti hareup anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:56.234073712Z",
+  "model": "glm-5.3"
+}

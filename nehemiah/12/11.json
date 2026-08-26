@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Yoyada ngalahirkeun ⟨את⟩ Yonatan, jeung Yonatan ngalahirkeun ⟨את⟩ Yaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Jeung Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "jeung Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaddua"
+    }
+  ],
+  "timestamp": "2026-08-26T16:02:16.200174843Z",
+  "model": "glm-5.3"
+}

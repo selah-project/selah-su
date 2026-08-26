@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Yisrael nyingkahkeun nu hade; musuh bakal ngudag anjeunna.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "nsingkahkeun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nu hade"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "bakal ngudag anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:56.204917663Z",
+  "model": "glm-5.3"
+}

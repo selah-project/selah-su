@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Dipuji ⟨waduh⟩ Adonay, poe-étah-poe anjeunna mawa beban urang; ⟨anjeunna⟩ El nu jadi salametan urang. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dipuji"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "étah-poe"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "mawa beban"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "urang"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "nu jadi salametan urang"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:08.981211342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung manehna ngalakukeun kawanian, sarta ngapuk ⟨את⟩ Amalek, sarta ngabébaskeun ⟨את⟩ Israél tina leungeun nu ngarampogna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung ngalakukeun"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kawanian\/kakuatan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sarta ngapuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "sarta ngabébaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "nu ngarampogna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:17:26.824395206Z",
+  "model": "glm-5.3"
+}

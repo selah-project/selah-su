@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kabenci ngahaja ngabalukarkeun paséa, tapi kaasih nutupan sadaya palanggaran.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "Kabenci"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "ngahaja ngabalukarkeun"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "paséa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "tapi ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "palanggaran"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "nutupan"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kaasih"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:54.058206659Z",
+  "model": "glm-5.3"
+}

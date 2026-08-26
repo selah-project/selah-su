@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Tempo, poé-poé datang, naas Yahwe, jeung kuring baris ngaseukan ⟨את⟩ imah Yisrael jeung ⟨את⟩ imah Yehudah, kecut manusa jeung kecut sato.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "באים",
+      "gloss": "datang"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "naas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "jeung kuring baris ngaseukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imah Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kecut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "jeung kecut"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sato"
+    }
+  ],
+  "timestamp": "2026-08-26T13:33:34.347882924Z",
+  "model": "glm-5.3"
+}

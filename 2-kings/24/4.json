@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung ogé getih nu tanpa dosa anu diéléhkeunana, sabab manéhna ngeusian ⟨את⟩ Yerushalaim ku getih nu tanpa dosa, sarta Yahwe henteu mikahoyong ngahampura.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "nu tanpa dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "diéléhkeunana"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ngeusian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "tanpa dosa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mikahoyong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "ngahampura"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:25.598991682Z",
+  "model": "glm-5.3"
+}

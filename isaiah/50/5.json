@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Adonay Yahwe muka ceuli kuring, jeung kuring teu ngalawan, ka tukang kuring teu malik deui.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ceuli"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka tukang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "malik deui"
+    }
+  ],
+  "timestamp": "2026-08-26T13:16:54.649095384Z",
+  "model": "glm-5.3"
+}

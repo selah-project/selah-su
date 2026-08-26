@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Anjeunna ngomong dina haténa: «Kuring moal génér, turunan ka turunan moal kana cilaka.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dina haténa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "génér"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "turunan ka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "turunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kana cilaka"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:23.451781338Z",
+  "model": "glm-5.3"
+}

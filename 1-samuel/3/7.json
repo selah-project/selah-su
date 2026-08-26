@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Ari Shemuel can acan nyaho ⟨את⟩ Yahwe, jeung can acan kecap Yahwe dipaparin ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ari Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "can acan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "jeung can acan"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "dipaparin kaluar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:43.370418632Z",
+  "model": "glm-5.3"
+}

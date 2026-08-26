@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Geri nyampeurkeun marikéa dinya, nyeri, saperti awéwé nu ngalahirkeun.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "nyampeurkeun marikéa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nyeri"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "saperti awéwé nu ngalahirkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:26.736037707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Tali-tali nu jahat geus ngeusi ku ngurilingan abdi, Taurat-Mo teu kungsi poho.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "ngeusi ku ngurilingan abdi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Taurat-Mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kungsi poho"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:30.456403943Z",
+  "model": "glm-5.3"
+}

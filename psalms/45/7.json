@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Kadipaténan anjeun, ya Elohim, ⟨nya⟩ tilkal mangsa jeung salawasna; tungkat kabanaran ⟨nya⟩ tungkat karajaan anjeun.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "kadipaténan anjeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tilkal mangsa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung salawasna"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tungkat"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tungkat"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "karajaan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:34.862177498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Anu ngandegkeun panonpoé sarta euweuh (nyinar) — jeung mungkus bitang-bitangina ku cék.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ngandegkeun"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "(nyinar)"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "jeung mungkus ku"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "bitang-bitang"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "cék"
+    }
+  ],
+  "timestamp": "2026-08-26T15:06:56.549443766Z",
+  "model": "glm-5.3"
+}

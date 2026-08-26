@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Anjeunna ngabeat ⟨את⟩ Moab, jadi urang Moab jadi palayan-palayan Djawid, mawa ajén bebungahan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ngabeat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "palayan-palayan"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Djawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ajén bebungahan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:12:44.159172117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Ka Mitsrajim kami ngenclengkeun leungeun, ka Ashur, sangkan wareg ku roti.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ngenclengkeun"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sangkan wareg"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ku roti"
+    }
+  ],
+  "timestamp": "2026-08-26T15:30:54.092217100Z",
+  "model": "glm-5.3"
+}

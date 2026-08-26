@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Nyarlo sukuna ti ⟨the⟩ pangrot, kitu ogé parabel di baham keusi-keusi.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "nyarlo"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "sukuna"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "ti-pangrot"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "kitu-ogé-parabel"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di-baham"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "keusi-keusi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:44.223678697Z",
+  "model": "glm-5.3"
+}

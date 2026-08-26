@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Keur Yahwe ⟨⟩ sang pertulungan ⟨the⟩; luhureun ⟨the⟩ balayantos-Nya biraspati-Nya. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Keur Yahwe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "sang pertulungan"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "balayantos-Nya"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "biraspati-Nya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:52.143279989Z",
+  "model": "glm-5.3"
+}

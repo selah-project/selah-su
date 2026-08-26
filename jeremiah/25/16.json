@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung aranjeunana baris nginum, jeung goyowas, jeung ngagorowok di hareupeun pedang nu kuring kirim di antawis aranjeunana.",
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "jeung-baris-nginum"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "jeung-goyowas"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "jeung-ngagorowok"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di-hareupeun"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kirim"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "di-antawis-aranjeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:30:47.184668385Z",
+  "model": "glm-5.3"
+}

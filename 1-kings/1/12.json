@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ayeuna, kadieu, hayu sim kuring méré nasihat ka anjeun, bisi anjeun nyalametkeun ⟨את⟩ nyawa anjeun jeung ⟨את⟩ nyawa putra anjeun Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jeung ayeuna"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kadieu"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "hayu sim kuring méré nasihat ka anjeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "bisi anjeun nyalametkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa anjeun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa putra anjeun"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:02.114668151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Elohim nyirikeun nu ngonjai cicing ⟨ dina ⟩ imah, mairkeun tawanan kaluar kana kamulyaan; ngan nu mintuluur cicing di tempar garing.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "nyirikeun cicing"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "nu ngonjai"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "dina imah"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "mairkeun kaluar"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "kana kamulyaan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "nu mintuluur"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "di tempar garing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:12.761091797Z",
+  "model": "glm-5.3"
+}

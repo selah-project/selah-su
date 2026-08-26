@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung Aharon jeung putra-putrana bakal ngahakan ⟨את⟩ daging domba jantan éta jeung ⟨את⟩ roti nu aya dina kěrigi, di panto Kémah Papanggihan.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "jeung bakal ngahakan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jeung putra-putrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "dina kěrigi"
+    },
+    {
+      "surface": "фתח",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kémah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Papanggihan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:04.527940880Z",
+  "model": "glm-5.3"
+}

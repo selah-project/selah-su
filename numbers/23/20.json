@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Euweuh, mberokna kuring geus panampa, sarta geus dimberokan; sarta moal kuring balikeun deui.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "mberok"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "kuring geus panampa"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "sarta dimberokan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "kuring balikeun deui"
+    }
+  ],
+  "timestamp": "2026-08-26T11:34:12.550115266Z",
+  "model": "glm-5.3"
+}

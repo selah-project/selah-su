@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung anjeun nyieun kapporet emas murni: dua hasta jeung satengah panjangna, jeung sahasta jeung satengah lébarna.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "anjeun nyieun"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dua hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jeung satengah"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "jeung sahasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "jeung satengah"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lébarna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:00.948881997Z",
+  "model": "glm-5.3"
+}

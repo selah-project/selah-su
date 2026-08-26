@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung anjeun nyucikeun ⟨את⟩ maranehna, jeung maranehna bakal jadi suci anu paling suci; saha waé anu nyambar ka maranehna bakal suci.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "jeung anjeun nyucikeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jeung maranehna bakal jadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "anu paling suci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saha waé"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "anu nyambar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "bakal suci"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:01.476177416Z",
+  "model": "glm-5.3"
+}

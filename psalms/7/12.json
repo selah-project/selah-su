@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Elohim hakim nu bener, sarta El nu ngamuk unggal poé.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu-bener"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sarta-El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ngamuk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:59.584461006Z",
+  "model": "glm-5.3"
+}

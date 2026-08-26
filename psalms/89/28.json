@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Ka dieu Kuring ogé ngajadikeun anjeunna bakal-katurunan-munggaran, pangluhurna tina raja-rajana bumi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ka dieu ogé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Kuring"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bakal-katurunan-munggaran"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ngajadikeun anjeunna"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "pangluhurna"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "tina raja-rajana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:20.791960926Z",
+  "model": "glm-5.3"
+}

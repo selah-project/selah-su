@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 14:2",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sarta Shaul diuk di tungtung Gibea, di handap rimunnun nu di Migron; jeung jalma nu jeung manehna kira-kira genep ratus jalma.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "sarta Shaul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "di tungtung"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handap"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "rimunnun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "di Migron"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "jeung jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung manehna"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "kira-kira genep"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:50.742399403Z",
+  "model": "glm-5.3"
+}

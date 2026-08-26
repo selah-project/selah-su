@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Kaluar tina kapal éta — anjeun, pamajikan anjeun, putra-putra anjeun, jeung pamajikan putra-putra anjeun ⟨את⟩ anjeun.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kapal éta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "pamajikan anjeun"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "putra-putra anjeun"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "jeung pamajikan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "putra-putra anjeun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:19.160361023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Pikeun nu mingpayu, kalawan alat senar, mashil ku Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun nu mingpayu"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "kalawan alat senar"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashil (sajak pangatikan)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:24.638499907Z",
+  "model": "glm-5.3"
+}

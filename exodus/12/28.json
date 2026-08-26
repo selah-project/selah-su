@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Tuluy barbarang Yisrael indit sarta ngalakukeun, saperti anu Yahwe maréntahkeun ⟨את⟩ Moshe sarta Aharon; kitu maranehna ngalakukeun.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barbarang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sarta Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ngalakukeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:30.143531417Z",
+  "model": "glm-5.3"
+}

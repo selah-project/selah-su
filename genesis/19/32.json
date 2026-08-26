@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Mah, hayu urang mikeun ⟨את⟩ bapa urang inuman anggur, terus urang saré jeung manehna, supaya urang ngahirupkeun turunan ti bapa urang.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "mah, hayu"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "urang mikeun inuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa urang"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapa urang"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "terus urang saré"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung manehna"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "supaya urang ngahirupkeun"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "ti bapa urang"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turunan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:53.031404685Z",
+  "model": "glm-5.3"
+}

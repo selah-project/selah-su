@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sabab euweuh nu leres dina sunguna; jero manéhna pinuh ku bedaya, térieungna kuburan nu muka, latina mariké ngalembut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "dina sunguna"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "nu leres"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "jero manéhna"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "pinuh ku bedaya"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kuburan"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "nu muka"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "térieungna"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "latina"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "mariké ngalembut"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:07.605427691Z",
+  "model": "glm-5.3"
+}

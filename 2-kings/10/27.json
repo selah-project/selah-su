@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lajeng aranjeunna ngaruntagkeun ⟨את⟩ tihang Baal sarta ngaruntagkeun ⟨את⟩ imah Baal, sarta ngajadikeunana jadi loték nepi ka poé ieu.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ngaruntagkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tihang"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tihang"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ngaruntagkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ngajadikeunana"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "jadi loték"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:17.485671417Z",
+  "model": "glm-5.3"
+}

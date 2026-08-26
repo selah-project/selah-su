@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung aranjeun kudu ngajaga parentah abdi sarta ngalaksanakeun ⟨את⟩ aranjeunna; abdi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "anjeun kudu ngajaga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah abdi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "sarta ngalaksanakeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "parentah abdi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:17.750960640Z",
+  "model": "glm-5.3"
+}

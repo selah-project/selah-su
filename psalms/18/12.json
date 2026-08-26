@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Manéhna nempatkeun ⟨את⟩ kagelapan salaku sumputanana, sakuriling manéhna adeganana — kagelatan cai, gumpalan manda-manda awan.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "manéhna nempatkeun"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kagelapan"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "sumputanana"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "sakuriling manéhna"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "adeganana"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "kagelatan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "gumpalan manda"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan langit"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:32.345985636Z",
+  "model": "glm-5.3"
+}

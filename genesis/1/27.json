@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Elohim nyiptakeun ⟨את⟩ adam dina tuladan-Na; dina tuladan Elohim nyiptakeun ⟨את⟩ manéhna; lalaki jeung awéwé nyiptakeun ⟨את⟩ maranéhanana.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Jeung nyiptakeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "dina tuladan-Na"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dina tuladan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nyiptakeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "jeung awéwé"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nyiptakeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:45.195821431Z",
+  "model": "glm-5.3"
+}

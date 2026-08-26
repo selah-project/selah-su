@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Sheol jeung Avaddon teu kenyueun, jeung panon jalma ogé teu kenyueun.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "jeung Avaddon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "kenyueun"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "jeung panon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "kenyueun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:54.540492062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Terus aranjeuna nyarita: Getih ieu! Para raja tutuluyan digegerkeun, maranehna silih papanas unggal jalma ⟨את⟩ baturana; ari ayeuna, Moab, mu ka jarahan!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tutuluyan digegerkeun"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "digegerkeun"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ngangeukeuh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baturana"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "baturana"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ari ayeuna"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "mu ka jarahan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:49.361784777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sarta mawa ⟨את⟩ barang-barang suci ramana jeung barang sucina sorangan ka bumi Yahwe: pérak, emas, sarta parabot.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang-barang suci"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "barang-barang suci"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "barang sucina sorangan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "parabot"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:19.372563399Z",
+  "model": "glm-5.3"
+}

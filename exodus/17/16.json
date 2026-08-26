@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "sarta anjeunna ngandika: Sabab leungeun ⟨nya⟩ luhureun tahta Yah — perang ⟨pikeun⟩ Yahwe ngalawan Amalek, ti katurunan ka katurunan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta anjeunna ngandika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "כס",
+      "gloss": "tahta"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "ngalawan Amalek"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "ti katurunan"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ka katurunan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:39:12.088472205Z",
+  "model": "glm-5.3"
+}

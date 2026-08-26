@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Efrayim geus ditampa, akarna garing, buah moal dihasilkeunana; sanajan ogé maranehna ngalahirkeun, Kami baris ngaala ⟨את⟩ nu dipikacinta tina irungpaña.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "geus ditampa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "akarna"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "dihasilkeunana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sanajan"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "Kami baris ngaala"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "nu dipikacinta"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "irungpaña"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:16.373930681Z",
+  "model": "glm-5.3"
+}

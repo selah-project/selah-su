@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Mun ⟨manéhna⟩ henteu balik, pedangna dicikung; busurna ditarik, sarta disiapkeunana.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangna"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "dicikung"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "busurna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ditarik"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "sarta disiapkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:49.796215771Z",
+  "model": "glm-5.3"
+}

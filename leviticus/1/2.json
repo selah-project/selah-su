@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Saur ka putra-putra Yisrael, sarta anjeun nyarios ka aranjeunna: jalma, lamun ti aranjeun aya nu midangkeun korban pikeun Yahwe — ti ⟨ingon-ingon⟩, ti ⟨sapi⟩ jeung ti ⟨domba⟩ — anjeun sadaya kudu midangkeun ⟨את⟩ korban aranjeun.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "saur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "sarta anjeun nyarios"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "midangkeun"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ti aranjeun"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jeung ti"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "anjeun sadaya kudu midangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban aranjeun"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "korban aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:19.903629672Z",
+  "model": "glm-5.3"
+}

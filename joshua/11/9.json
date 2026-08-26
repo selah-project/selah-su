@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Teras Yehosua migawe ka maranehna saperti anu dikomandokeun Yahwe ka anjeunna: ⟨את⟩ kuda-kuda maranehna dicacag sukuna, jeung ⟨את⟩ kareta-kareta maranehna diduruk ku seuneu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "migawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dikomandokeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuda-kuda maranehna"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kuda-kuda maranehna"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "dicacag sukuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kareta-kareta maranehna"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "kareta-kareta maranehna"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "diduruk"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:57:06.307796218Z",
+  "model": "glm-5.3"
+}

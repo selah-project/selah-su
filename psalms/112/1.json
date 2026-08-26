@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Puji kang Yah! Beugjeun ah ⟨⟨⟩⟩ jalma nu mikasieuneun ⟨את⟩ Yahwe, dina parentah-Na gumbira pisan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Puji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Beugjeun ah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nu mikasieuneun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "dina parentah-Na"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gumbira"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:08.443347849Z",
+  "model": "glm-5.3"
+}

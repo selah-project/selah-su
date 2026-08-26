@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Tuluy raja ngaleupaskeun ⟨את⟩ cincin studna nu geus dipasihan ti Haman, sarta dipasihan éta ka Mordekhay; Ester ogé nempatkeun Mordekhay di luhur imah Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Tuluy ngaleupaskeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cincin studna"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "cincin studna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "geus dipasihan ti"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "sarta dipasihan éta"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ka Mordekhay"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ogé nempatkeun"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-08-26T15:39:20.953436047Z",
+  "model": "glm-5.3"
+}

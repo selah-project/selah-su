@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung nu mayar jahat pikeun ngaganti alus, maréké ngarugrug kuring, sabab kuring ngudag ⟨nu⟩ alus.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "Jeung nu mayar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pikeun ngaganti"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "alus"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "maréké ngarugrug kuring"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "kuring ngudag"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:51.915095217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 7:9",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung kuring aya jeung anjeun di sagala tempat nu anjeun lampahkeun, jeung kuring motong ⟨את⟩ kabéh musuh anjeun ti payun anjeun, jeung kuring mawi pikeun anjeun ngaran ageung, saperti ngaran nu-ageung nu aya di bumi.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "jeung kuring aya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagala tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "anjeun lampahkeun"
+    },
+    {
+      "surface": "ואכרתה",
+      "gloss": "jeung kuring motong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabéh musuh anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabéh"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh anjeun"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ti payun anjeun"
+    },
+    {
+      "surface": "ועשתי",
+      "gloss": "jeung kuring mawi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ageung"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "saperti ngaran"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "nu-ageung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:44.412699731Z",
+  "model": "glm-5.3"
+}

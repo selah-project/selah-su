@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung bangsa éta henteu balik ka nu ngapukna, jeung ⟨את⟩ Yahwe Tzevaot henteu maranéhanana sungsuh.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "jeung bangsa éta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "nu ngapukna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tzevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "maranéhanana sungsuh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:36.876593559Z",
+  "model": "glm-5.3"
+}

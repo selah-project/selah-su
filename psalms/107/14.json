@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Manéhna matalankeun aranjeunna tina kaieunan jeung kanyaieun-paéh, jeung tali-iketna aranjeunna dibeulah.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "manéhna matalankeun aranjeunna"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "tina kaieunan"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "jeung kanyaieun-paéh"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "jeung tali-iketna aranjeunna"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "dibeulah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:09.639632562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung maranehna nyandak manéhna, sarta munggelkeun ⟨את⟩ manéhna ka jero sumur — sarta sumur éta kosong, euweuh cai di jerona.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "nyandak manéhna"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "munggelkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ka jero sumur"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "sarta sumur éta"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:15.406611316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Anjeunna ogé ngirim ⟨את⟩ japati ti gigireunana, pikeun nempo naha cai geus nyirorot ti luhureun beungeut taneuh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ogé ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "japati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "japati"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ti ⟨את⟩-na"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nempo"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "naha geus nyirorot"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhureun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:16.728503120Z",
+  "model": "glm-5.3"
+}

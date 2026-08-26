@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Pujilah Yah, sabab Yahwe ⟨⟩ hadé; zamarlah ka ngaran-Na, sabab ⟨eta⟩ ngalawanah.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zamarlah"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ka ngaran-Na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ngalawanah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:46.538409905Z",
+  "model": "glm-5.3"
+}

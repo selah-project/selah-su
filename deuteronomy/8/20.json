@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Kawas bangsa-bangsa nu Yahwe mimitbinasakeun ti payun aranjeun, kitu ogé aranjeun bakal binasa, alatan teu ngadangkeun sora Yahwe Elohim aranjeun.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "kawas bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "mimitbinasakeun"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ti payun aranjeun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "anjeun bakal binasa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "ngadangkeun"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:34.347915181Z",
+  "model": "glm-5.3"
+}

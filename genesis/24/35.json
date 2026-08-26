@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Tur Yahwe ngaberkahan ⟨את⟩ adul abdi pisan, jeung anjeunna jadi gedé; jeung anjeunna maparin manéhna domba, sapi, pérak, emas, budak lalaki, budak awéwé, unta, jeung kalendi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ngaberkahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adul abdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "adul abdi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "anjeunna jadi gedé"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anjeunna maparin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "budak lalaki"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "budak awéwé"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "unta"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "kalendi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:15.401019670Z",
+  "model": "glm-5.3"
+}

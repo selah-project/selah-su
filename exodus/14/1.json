@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung Yahwe ngandung ka Moshe, sangkan ngomong:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:20.058393457Z",
+  "model": "glm-5.3"
+}

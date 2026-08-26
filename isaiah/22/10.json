@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung ⟨את⟩ imah-imah Yerushalaim maraneh ngitung, jeung maraneh ngancurkeun ⟨the⟩ imah-imah pikeun ngaheureuyan kubeng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "imah-imah Yerushalaim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "maraneh ngitung"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "jeung maraneh ngancurkeun"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "pikeun ngaheureuyan"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "kubeng"
+    }
+  ],
+  "timestamp": "2026-08-26T13:07:03.516166997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung maranehna nginggakeun ditu ⟨את⟩ patung-patungna, terus Daud jeung jalma-jalmana mawa ⟨את⟩ éta.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Jeung maranehna nginggakeun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ditu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patung-patungna"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "patung-patungna"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "terus mawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "jeung jalma-jalmana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:28:13.202692883Z",
+  "model": "glm-5.3"
+}

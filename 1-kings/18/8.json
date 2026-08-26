@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung anjeunna ngomong ka anjeunna: Abdi; anggeus, nyaritakeun ka tuan anjeun: pilah, Elijah aya di dieu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anggeus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyaritakeun"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ka tuan anjeun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pilah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:54:54.550127650Z",
+  "model": "glm-5.3"
+}

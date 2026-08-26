@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Naon anu abdi balikeun ka Yahwe, pikeun sakabéh pangbungah-Na ka abdi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "abdi balikeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "pangbungah-Na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:32.318064924Z",
+  "model": "glm-5.3"
+}

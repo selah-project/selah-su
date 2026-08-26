@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Maranéhna nalingakeun tapi euweuh nu nyalametkeun; ka Yahwe, tapi Teu ngawales maranéhna.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "maranéhna nalingakeun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi euweuh"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "nu nyalametkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ngawales maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:32.249401748Z",
+  "model": "glm-5.3"
+}

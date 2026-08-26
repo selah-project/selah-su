@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung masarakat ngomog ka Yéhoshua: ⟨את⟩ Yahwe, Elohim urang, kami layan, jeung sora-Na kami eunteu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung aranjeunna ngomog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "masarakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Elohim urang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "kami layan"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "jeung sora-Na"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kami eunteu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:53.471400047Z",
+  "model": "glm-5.3"
+}

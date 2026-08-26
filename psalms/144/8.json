@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Nu bicarana nyarita sia-sia, sarta leungeun katuhu maranjeunna ⟨⟩ leungeun katuhu nipu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bicarana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "sarta leungeun katuhu maranjeunna"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "leungeun katuhu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nipu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:36.349375189Z",
+  "model": "glm-5.3"
+}

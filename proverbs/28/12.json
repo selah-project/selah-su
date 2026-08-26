@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Dina bubungah jalma-jalma adil, kacida agung kamulyan; tapi nalika jalma-jalma jahat ngadeg, manusa nyumput.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "dina bubungah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "jalma-jalma adil"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kacida agung"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "tapi nalika ngadeg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma jahat"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "nyumput"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:37.669517440Z",
+  "model": "glm-5.3"
+}

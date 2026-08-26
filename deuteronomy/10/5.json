@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teras abdi mulang tur turun ti ⟨ti gunung⟩ éta, jeung abdi nempatkeun ⟨את⟩ luluhu dina peti nu geus abdijieun, sarta aya di dinya éta, saperti paréntah Yahwe ka abdi.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "teras abdi mulang"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "tur turun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "jeung abdi nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luluhu"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "luluhu"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "dina peti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "geus abdijieun"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sarta aya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "paréntah ka abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:51.778427707Z",
+  "model": "glm-5.3"
+}

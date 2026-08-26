@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Malah anjeun mulangkeun tajamna pedangna, sarta teu ngadegkeun anjeunna dina perang.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "mulangkeun"
+    },
+    {
+      "surface": "צור",
+      "gloss": "tajamna"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "ngadegkeun anjeunna"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dina perang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:35.333332697Z",
+  "model": "glm-5.3"
+}

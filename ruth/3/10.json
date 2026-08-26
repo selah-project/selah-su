@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anjeunna nyarita, \"Dipaparin berkah ⟨את⟩ sia ku Yahwe, éntog abdi; kanyaah satia anjeun nu pengker leuwih hébat batan nu munggaran, sabab teu midulang nuturkeun barudak ngora, entah nu miskin entah nu beunghar.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "dipaparin berkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ku Yahwe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "éntog abdi"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "ngalakonan leuwih hébat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia anjeun"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "nu pengker"
+    },
+    {
+      "surface": "מן",
+      "gloss": "batan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nu munggaran"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "teu"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "midulang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nuturkeun"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "barudak ngora"
+    },
+    {
+      "surface": "אם",
+      "gloss": "entah"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "entah mun"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "beunghar"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:57.107797252Z",
+  "model": "glm-5.3"
+}

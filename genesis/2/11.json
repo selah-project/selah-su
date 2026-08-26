@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Ngaran ⟨anu⟩ munggaran ⟨ nyaéta ⟩ Pishon; éta ⟨nu⟩ ngurilingan ⟨את⟩ sakabéh taneuh Haḥavilah, tempat emas aya di dinya.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Ngaran"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨anu⟩ munggaran"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "⟨nu⟩ ngurilingan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh taneuh Haḥavilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Haḥavilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:22.518969848Z",
+  "model": "glm-5.3"
+}

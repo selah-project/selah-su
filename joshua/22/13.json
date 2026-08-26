@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 22:13",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung putra-putra Yisrael ngutus ⟨את⟩ Pinehas putra Elazar imam ka putra-putra Reuven, ka putra-putra Gad, jeung ka satengah suku Menashé, ka tanah Giléad.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ngutus jeung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giléad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinehas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:40.158200318Z",
+  "model": "glm-5.3"
+}

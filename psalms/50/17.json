@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Jeung anjeun mibanda benci ka pangerem, sarta miceun kecap-kecap Abdi ka tukangeun anjeun.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "benci"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pangerem"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "miceun"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap Abdi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ka tukangeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:57.286369434Z",
+  "model": "glm-5.3"
+}

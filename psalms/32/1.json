@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Karya Dawed, sajak pangaweruh. Talatah bagja ⟨jeung⟩ anu diangkat dosa pangbarontakanna, anu ditutupan kalakuan salahna.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Karya Dawed"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sajak pangaweruh"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "talatah bagja"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "diangkat"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "dosa pangbarontakan"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "ditutupan"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "kalakuan salah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:07.079955894Z",
+  "model": "glm-5.3"
+}

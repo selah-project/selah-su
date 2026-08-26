@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Upami urang poho kana ngaran Elohim urang, sarta ngalebarkan tapak leungeun urang ka El nu asing,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "urang poho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "sarta ngalebarkan"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "tapak leungeun urang"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ka El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "nu asing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:31:57.025009610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Anjeunana ngajadikeun walungan jadi padang tunggangaran, sarta sumber cai jadi taneuh Hana Karasa",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "ngajadikeun"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "jadi padang tunggangaran"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "sarta sumber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "jadi taneuh angek hana cai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:28.796050192Z",
+  "model": "glm-5.3"
+}

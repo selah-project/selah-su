@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Anjeunna tangtu bakal ngahukum ⟨את⟩ anjeun, upama anjeun nyamahan beungeut sacara disumputkeun.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ngahukum"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "tangtu bakal ngahukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sacara disumputkeun"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "anjeun nyamahan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:09:06.601134947Z",
+  "model": "glm-5.3"
+}

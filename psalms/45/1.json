@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Kaparabon, luhureun Shoshanim, pikeun putra-putra Korach, mashkil, sindir kaanyaahan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kaparabon"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshanim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikeun putra-putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashkil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sindir"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "kaanyaahan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:24.450831584Z",
+  "model": "glm-5.3"
+}

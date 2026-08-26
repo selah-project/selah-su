@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Anu nempatkeun nefesh kami dina kahirupan, sarta teu ngantep suku kami pasesed.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Anu nempatkeun"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefesh kami"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "dina kahirupan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ngantep"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "pasesed"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "suku kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:56.306037948Z",
+  "model": "glm-5.3"
+}

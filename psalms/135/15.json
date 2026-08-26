@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Berhala-berhala ⟨para⟩ bangsa-bangsa perak jeung emas, karya leungeun-leungeun manusa.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Berhala-berhala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨para⟩ bangsa-bangsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jeung emas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun-leungeun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.390180440Z",
+  "model": "glm-5.3"
+}

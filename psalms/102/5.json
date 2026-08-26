@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Kakasarukeun saperti jukut, garing haté kuring, sabab kuring poho dahar roti kuring.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "kakasarukeun"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "saperti jukut"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kuring poho"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "roti kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:55.673453887Z",
+  "model": "glm-5.3"
+}

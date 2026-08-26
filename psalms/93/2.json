@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 93,
+  "translation": "Teguh takhta-Meu ti mimiti, ti bereumur-ereumur Anjeun ⟨aya⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "teguh"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "takhta-Meu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ti mimiti"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ti bereumur-ereumur"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:47.570010579Z",
+  "model": "glm-5.3"
+}

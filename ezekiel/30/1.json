@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jadi aya kecap Yahwe ka abdi, sangkan ngendika:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngendika"
+    }
+  ],
+  "timestamp": "2026-08-26T13:53:03.981360509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sarta ⟨anjeunna⟩ nyarita: \\u201cPigi, sarta siring anjeun ka bangsa ieu: Ngadangu bayah-bayah, tapi ulah ngartos; nempo bayah-bayah, tapi ulah nyaho.\\u201d",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pigi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "sarta siring"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ka bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "bayah-bayah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tapi ulah"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "ngartos"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "sarta nempo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bayah-bayah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tapi ulah"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:00.270010778Z",
+  "model": "glm-5.3"
+}

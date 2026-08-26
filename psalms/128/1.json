@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 128,
+  "translation": "Kawih tarajé-nanjung. Berkahna unggal nu sieun ka Yahwe, nu leumpang dina jalma-na.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kawih"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé-nanjung"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Berkahna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nu sieun ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nu leumpang"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "dina jalma-na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:47.786685489Z",
+  "model": "glm-5.3"
+}

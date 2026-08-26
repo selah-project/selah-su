@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Berokahan ka Yahwe, sadayana balad-Na, para palayan-Na nu ngalaksanakeun kahayang-Na.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Berokahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "balad-Na"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "para palayan-Na"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nu ngalaksanakeun"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "kahayang-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:42.705373011Z",
+  "model": "glm-5.3"
+}

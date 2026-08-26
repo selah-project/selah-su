@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Gulungkeun ka Yahwe — Manéhna ngabébaskeun anjeuna, Manéhna ngamaluykeun anjeuna, sabab kareueus ka anjeuna.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Gulungkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "ngabébaskeun-anjeuna"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "ngamaluykeun-anjeuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kareueus"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka-anjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:16.831219969Z",
+  "model": "glm-5.3"
+}

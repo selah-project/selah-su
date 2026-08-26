@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung kuring nyarita ka malaékat nu ngomong ka kuring: naon ieu? Jeung anjeunna nyarita ka kuring: ieu ⟨the⟩ tanduk-tanduk nu ngasebarkeun ⟨את⟩ Yehuda, ⟨את⟩ Yisrael, jeung Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jeung kuring nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaékat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nu ngomong"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna nyarita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "tanduk-tanduk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ngasebarkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jeung Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:18:19.752988314Z",
+  "model": "glm-5.3"
+}

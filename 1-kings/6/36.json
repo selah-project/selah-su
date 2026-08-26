@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung anjeunna ngawangun ⟨את⟩ ⟨the⟩ palataran jero tilu barisan batu kaihan, jeung sabarisan balok tarangtu-si kahiang.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "jeung ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palataran jero"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "palataran"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "jero"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "barisan"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu kaihan"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "jeung sabarisan"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "kahiang"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "balok tarangtu-si"
+    }
+  ],
+  "timestamp": "2026-08-26T16:54:29.436073196Z",
+  "model": "glm-5.3"
+}

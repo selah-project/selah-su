@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Beungbeuratan Bavel, nu ditempo ku Yesyayahu putra Amots.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "beungbeuratan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ditempo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesyayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:55.887514258Z",
+  "model": "glm-5.3"
+}

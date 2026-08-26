@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Sabab Iyub geus ngomong: kuring bener, tapi El ngalebokkeun kaputusan kuring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "geus ngomong"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "kuring bener"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tapi El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ngalebokkeun"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kaputusan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T15:16:59.466919609Z",
+  "model": "glm-5.3"
+}

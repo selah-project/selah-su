@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 22:2",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "sarta ngomong ka aranjeun: aranjeun geus ngajaga ⟨את⟩ sadaya nu diparentahkeun ka aranjeun ku Musa, abdi Yahwe, jeung aranjeun geus ngadangu kana sora abdi, kana sadaya nu kaulah parentahkeun ka aranjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "geus ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka aranjeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ku Musa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשמעו",
+      "gloss": "jeung aranjeun geus ngadangu"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "kana sora abdi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kana sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kaulah parentahkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:29.107538100Z",
+  "model": "glm-5.3"
+}

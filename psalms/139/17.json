@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Sarta pikeun abdi, ⟨nyaéta⟩ naon anu miik-na pikir-pikir Anjeun, Él; naon anu lobana jumlah maranehna!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "sarta pikeun abdi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יקercaro",
+      "gloss": ""
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "pikir-pikir Anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Él"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "lobana"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "jumlah maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:11.155887953Z",
+  "model": "glm-5.3"
+}

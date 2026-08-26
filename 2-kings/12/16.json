@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "jeung moal ngahitung ⟨את⟩ jalma-jalma nu méré ⟨את⟩ duit kasebut ka leungeunana pikeun méré ka nu migawé gawé kasebut, sabab ku kajujuran ⟨they⟩ migawé.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ngahitung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma-jalma"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duit kasebut"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "duit kasebut"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pikeun méré"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ka nu migawé"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "gawé kasebut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "ku kajujuran"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aranjeunna"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "migawé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:13.740412179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Sedengkeun ⟨את⟩ Binyamin, dulur Yoséf, teu dikirim Yaakov jeung ⟨את⟩ dulur-dulurna, sabab anjeunna ngomong: Bisi kajarana musibat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dulur"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dikirim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dulur-dulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulur-dulurna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "kajarana"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "musibat"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:51.303012324Z",
+  "model": "glm-5.3"
+}

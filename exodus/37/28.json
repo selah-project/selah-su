@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung aranjeunna nyieun ⟨את⟩ galang-galang éta tina kai akasia, jeung aranjeunna nalunganan ⟨את⟩ aranjeunna ku emas",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Jeung aranjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galang-galang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "galang-galang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "jeung aranjeunna nalunganan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ku emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:07.149853940Z",
+  "model": "glm-5.3"
+}

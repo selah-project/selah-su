@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Putra manusa, kata ka manéh: ⟨את⟩ manéh taneuh nu teu meunang diseuseuh, manéh tara kujitan hujan dina poé kamurkaan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka manéh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manéh taneuh (ér)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "meunang diseuseuh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "manéh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "kujitan hujan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "kamurkaan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:51:14.112493514Z",
+  "model": "glm-5.3"
+}

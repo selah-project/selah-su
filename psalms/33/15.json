@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Nu ngawangun sagaligi ati maranéhna, Nu ngartos ka sakabéh pagawéan maranéhna.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Nu ngawangun"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sagaligi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati maranéhna"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "Nu ngartos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "pagawéan maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:05.960547915Z",
+  "model": "glm-5.3"
+}

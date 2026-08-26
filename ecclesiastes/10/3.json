@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ogé dina jalan, waktu nu bodo jalan, akalna kurang, sarta nyarita ka sakumna ⟨urang⟩ yén manehna bodo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "waktu nu bodo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "akalna"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sakumna"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "bodo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:50.724995876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Puji ⟨את⟩ Yahwe ti bumi, para sato laut raksasa jeung sagala lubuk jero.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "puji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "para sato laut raksasa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "lubuk jero"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:06.022641096Z",
+  "model": "glm-5.3"
+}

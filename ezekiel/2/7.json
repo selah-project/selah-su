@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung anjeun bakal nyaritakeun ⟨את⟩ kecap-kecap Kami ka maranéhna — upama maranéhna ngadéngé, jeung upama maranéhna teu malirang — sabab bangsa tangkah maranéhna.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Jeung anjeun bakal nyaritakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap Kami"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap Kami"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung upama"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "teu malirang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "bangsa tangkah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:43:39.231076183Z",
+  "model": "glm-5.3"
+}

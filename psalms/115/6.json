@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Ceuli-ceuli pikeun maranéhna sarta teu ngadéngé, irung pikeun maranéhna sarta teu ngambeu.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ceuli-ceuli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pikeun maranéhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "אף",
+      "gloss": "irung"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pikeun maranéhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ngambeu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:24.717031555Z",
+  "model": "glm-5.3"
+}

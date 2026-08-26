@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ieu bangsa-bangsa nu Yahwe ngantepkeun tetep, pikeun nguji ku maranehna ⟨את⟩ Yisrael — ⟨את⟩ kabeh nu teu nyaho ⟨את⟩ kabeh perang-perang Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ngantepkeun tetep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "pikeun nguji"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku maranehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh nu teu nyaho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh perang-perang Kenaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "perang-perang"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:17.678528590Z",
+  "model": "glm-5.3"
+}

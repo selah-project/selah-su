@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeunna nanya ⟨את⟩ para abdi Paroh nu aya ⟨את⟩ jeung anjeunna dina panjara imen tuanna, nyarita: Naha payuneun aranjeunna bangir ayeuna?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Jeung anjeunna nanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para abdi Paroh"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeung anjeunna"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "dina panjara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imen"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuanna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Naha"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "payuneun aranjeunna"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "bangir"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:34.339308676Z",
+  "model": "glm-5.3"
+}

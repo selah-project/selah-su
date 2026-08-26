@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta manéhna ngabéhéikeun ⟨את⟩ anak ⟨the⟩ sapi di payuneun Yahwe; sarta putra-putra Aharon, para imam, mawa ⟨את⟩ getihna, sarta nyéprétkeun ⟨את⟩ getih kana ⟨the⟩ mézbah sacara ngurilingan, nu aya di lawang kang tenda patempatan.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "sarta ngabéhéikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak sapi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "sarta mawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "sarta nyéprétkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patempatan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:52.465115417Z",
+  "model": "glm-5.3"
+}

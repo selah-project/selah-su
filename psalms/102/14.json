@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Anjeun bakal ngadeg, balas-kasih ka Tsiyon, sabab geus tina waktos-nganjang rahayu ka manéhna, sabab geus datang waktu nu dipantium.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "balas-kasih"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ka Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktos"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "nganjang rahayu ka manéhna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geus datang"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waktu nu dipantium"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:38.762198246Z",
+  "model": "glm-5.3"
+}

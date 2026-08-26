@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 49:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Majuting barudak ti kamaotan anjeun nyarita dina ceuli anjeun: sesek keur abdi tempat ieu; deukeutan ka abdi sangkan abdi nyicingan.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "majuting"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "dina ceuli anjeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "שכליך",
+      "gloss": "ti kamaotan anjeun"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sesek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur abdi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat ieu"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "deukeutan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "sangkan abdi nyicingan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:16:23.139182781Z",
+  "model": "glm-5.3"
+}

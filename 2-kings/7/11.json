@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Laun para penjaga gerbang nyauran, laun iberkeun ka jero imah raja.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Laun nyauran"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "para penjaga gerbang"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "laun iberkeun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ka jero"
+    }
+  ],
+  "timestamp": "2026-08-26T12:54:40.790787672Z",
+  "model": "glm-5.3"
+}

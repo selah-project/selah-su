@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "jangkung perang, ditambah hakim, nabi, nu niten nasib, jeung nu kolot.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "jangkung"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ditambah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "nu niten nasib"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "nu kolot"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:34.690825207Z",
+  "model": "glm-5.3"
+}

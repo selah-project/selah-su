@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Yahwe nyarita ka Moshe jeung ka Aharon, cenah:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "cenah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:23.784834914Z",
+  "model": "glm-5.3"
+}

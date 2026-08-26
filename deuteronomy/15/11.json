@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sabab nu miskin moal eureus ti tengah bumi; alatan éta abdi maréntah anjeun, nyebutkeun: buka, buka sungguh ⟨את⟩ leungeun anjeun ka sadulur anjeun, ka nu papaés anjeun, jeung ka nu miskin anjeun, di bumi anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "eureus"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ti tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ku kitu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "maréntah anjeun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "buka"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "buka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun anjeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ka sadulur anjeun"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "ka nu papaés anjeun"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "jeung ka nu miskin anjeun"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di bumi anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:57.358242400Z",
+  "model": "glm-5.3"
+}

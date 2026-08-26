@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 110,
+  "translation": "Anjeunna ngahukum di antara bangsa-bangsa, ngeusian ku mayit-mayit, ngancurkeun sirah di luhur taneuh nu lega.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "anjeunna ngahukum"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ngeusian"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "mayit-mayit"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nu lega"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:49.840566116Z",
+  "model": "glm-5.3"
+}

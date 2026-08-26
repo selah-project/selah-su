@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Hé putra manusa, nepi ka iraha kamulyaan kuring dijieun cidra? Sadaya aranjeun bobogohan kana kasoa, milari dusta. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyaan kuring"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "dijieun cidra"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "anjeun bobogohan"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kana kasoa"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "milari"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:25.373048079Z",
+  "model": "glm-5.3"
+}

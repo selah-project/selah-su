@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Kitu rarajik aranjeunna ku ribut anjeun, sarta ku badai anjeun géro ku aranjeunna.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "rarajik aranjeunna"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ku ribut anjeun"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ku badai anjeun"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "géro ku aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:17.752966227Z",
+  "model": "glm-5.3"
+}

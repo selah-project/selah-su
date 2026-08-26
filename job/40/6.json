@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Teras Yahwe ngajawab ⟨את⟩ Ayub tina badai angin, sarta nyarita:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Teras ngajawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "tina"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai angin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:19.384945575Z",
+  "model": "glm-5.3"
+}

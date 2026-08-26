@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Anjeunna nempo, tuluy ngadeg sarta indit ka mana nyawana mawa, sarta sumping di Beer-Sheba nu ka Yehuda, sarta mairkeun ⟨את⟩ pangawulana di dinya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawana"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sumingping"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ka Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "mairkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangawulana"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "pangawulana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T16:56:01.095753053Z",
+  "model": "glm-5.3"
+}

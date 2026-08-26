@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Teras nu ngatikkeun nyarita: Teu kawilakeun abdi milihara duit tebus pikeun diri abdi, bisi ngancurkeun ⟨את⟩ warisan abdi sorangan — pilihara ku anjeun wungkul duit tebus kuring, sabab teu kawilakeun abdi milihara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "teras nyarita"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "nu ngatikkeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kawilakeun"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "milihara duit tebus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisan abdi"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "warisan abdi"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "pilihara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku anjeun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duit tebus kuring"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "duit tebus kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kawilakeun"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "milihara"
+    }
+  ],
+  "timestamp": "2026-08-26T15:26:45.628675328Z",
+  "model": "glm-5.3"
+}

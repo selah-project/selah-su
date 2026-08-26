@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Yahwe, Elohim abdi, abdi ngaruksak ka anjeun, sareng anjeun nyageurkeun abdi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim abdi"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "abdi ngaruksak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "sareng anjeun nyageurkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:54.142489888Z",
+  "model": "glm-5.3"
+}

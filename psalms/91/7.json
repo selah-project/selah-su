@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Sarébu bakal ragrag di gigir anjeun, jeung sapuluh rébu di leungeun katuhu anjeun; ka anjeun moal ⟨ia⟩ ngadeukeut.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "bakal ragrag"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "di gigir anjeun"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sarébu"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "jeung sapuluh rébu"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "di leungeun katuhu anjeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ngadeukeut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:57.365841122Z",
+  "model": "glm-5.3"
+}

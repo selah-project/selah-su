@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Sarta raja Mitsrayim ngajadikeun ⟨את⟩ Elyakim sadulurna raja di Yehuda jeung Yerushalaim, sarta ngaganti ⟨את⟩ ngaranna jadi Yehoyakim; sarta ⟨את⟩ Yoaxaz sadulurna dicandak Nekho, dibawana ka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "sarta ngajadikeun raja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulurna"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "jeung Yerushalaim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "sarta ngaganti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoaxaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulurna"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Nekho"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "dibawana"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:34:25.149621233Z",
+  "model": "glm-5.3"
+}

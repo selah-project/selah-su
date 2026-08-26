@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Lajeng Moshe nyandak ⟨את⟩ minyak jaminesan, jeung ngaminesan ⟨את⟩ kemah sarta ⟨את⟩ sadayana nu aya di jerona, sarta ngakuduskeun ⟨את⟩ aranjeuna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lajeng nyandak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak jaminesan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "jaminesan"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "jeung ngaminesan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana nu aya di jerona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "jeung ngakuduskeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:56.146332277Z",
+  "model": "glm-5.3"
+}

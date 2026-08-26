@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung keur ⟨the⟩ sisi ⟨the⟩ kemah ⟨the⟩ kadua, ka sisi beulah kaler, dua puluh papan.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "jeung keur ⟨the⟩ sisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨the⟩ kemah"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "⟨the⟩ kadua"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka sisi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "beulah kaler"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "papan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:24.789123708Z",
+  "model": "glm-5.3"
+}

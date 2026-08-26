@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Jeung Yehudah ngirim ⟨את⟩ anak embé ⟨ embé ⟩ éta ku leungeun babaturanna urang Adulam, pikeun nyandak jaminan ti leungeun awéwé éta, tapi teu manggihan ⟨ awéwé ⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "jeung ngirim"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak embé"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "anak embé"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "⟨ embé ⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku leungeun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "babaturanna"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "urang Adulam"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pikeun nyandak"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "jaminan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé éta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "manggihan ⟨ awéwé ⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:02.192847232Z",
+  "model": "glm-5.3"
+}

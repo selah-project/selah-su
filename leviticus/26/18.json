@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung upama nepi ka sadayana ieu anjeun teu ngadangu ka abdi, mangka abdi baris nambahan ngahukum ⟨את⟩ anjeun tujuh kali lantaran dosa-dosa anjeun.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung upama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sadayana ieu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "mangka abdi baris nambahan"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "ngahukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh kali"
+    },
+    {
+      "surface": "על",
+      "gloss": "lantaran"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosa-dosa anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:33.008158203Z",
+  "model": "glm-5.3"
+}

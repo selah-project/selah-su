@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jadi kajadian, sabab paran-paran kalahir ngarasa sieun ka ⟨את⟩ Elohim, mangka ⟨Ia⟩ nyieun bari imah pikeun aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi kajadian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ngarasa sieun"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "paran-paran kalahir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pikeun aranjeunna"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "imah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:38.115241583Z",
+  "model": "glm-5.3"
+}

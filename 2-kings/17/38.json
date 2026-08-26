@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung perjangjian nu Kuring motong jeung ⟨את⟩ anjeun, ulah poho; jeung ulah sieun ka allah-allah nu séjén.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "jeung perjangjian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "Kuring motong"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "poho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nu séjén"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:14.365681222Z",
+  "model": "glm-5.3"
+}

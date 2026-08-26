@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Malah panonpoé tacan kungsi ditempo ogé, tacan kungsi dipikawanoh; ieu boga kanyenyeuang leuwih ti éta.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ditempo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ogé teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dipikawanoh"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kanyenyeuang"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ka ieu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ti éta"
+    }
+  ],
+  "timestamp": "2026-08-26T15:33:24.500662826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Eli nyauran ⟨את⟩ Shemuel, sarta nyarios: Shemuel, anak kuring. Jeung anjeunna nyarios: Di dieu kuring.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "jeung nyauran"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarios"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak kuring"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarios"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Di dieu kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:51.240008199Z",
+  "model": "glm-5.3"
+}

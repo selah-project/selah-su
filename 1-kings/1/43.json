@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lajeng Yonatan ngajawab jeung nyarita ka Adoniyahu: Mémang, pangdikan urang, raja David, geus ngajantenkeun ⟨את⟩ Shelomo raja.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lajeng ngajawab"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ka Adoniyahu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "mémang"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "pangdikan urang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "ngajantenkeun raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:47.003880749Z",
+  "model": "glm-5.3"
+}

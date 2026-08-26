@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Dina awalna Elohim nyiptakeun ⟨את⟩ langit-langit jeung ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Dina awalna"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nyiptakeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit-langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:35:13.662383179Z",
+  "model": "glm-5.3"
+}

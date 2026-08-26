@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 46,
+  "translation": "Datang, tengok pancakarya Yahwe, nu mipanga karusakan-karusakan di bumi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "tengok"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "pancakarya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mipanga"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "karusakan-karusakan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:01.435508058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sabab Ezra geus nyiapkeun haténa pikeun nalungtik ⟨את⟩ Taurat Yahwe, pikeun ngalaksanakeunana, sarta pikeun ngajarkeun ka Israil katangtu jeung putusan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "geus nyiapkeun"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "haténa"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "pikeun nalungtik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taurat"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "sarta pikeun ngalaksanakeunana"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "sarta pikeun ngajarkeun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ka Israil"
+    },
+    {
+      "surface": "חק",
+      "gloss": "katangtu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jeung putusan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:52:24.581963411Z",
+  "model": "glm-5.3"
+}

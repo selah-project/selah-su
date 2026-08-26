@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "jeung ⟨את⟩ seuseupuan bereum, jeung ⟨את⟩ bango ganggem, jeung ⟨את⟩ heulang bangkay,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "seuseupuan bereum"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "seuseupuan bereum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bango ganggem"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "bango ganggem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "heulang bangkay"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "heulang bangkay"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:17.897571506Z",
+  "model": "glm-5.3"
+}

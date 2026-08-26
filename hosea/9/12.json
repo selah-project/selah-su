@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sabab upama maranehna ngagedékeun ⟨את⟩ budak-budakna, kuring ogé ngaramaseun maranehna tina anter-anterning jalma; sabab ogé aduhai ka maranehna mun kuring mundur ti maranehna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upama"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "maranehna ngagedékeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak-budakna"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "budak-budakna"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "kuring ngaramaseun maranehna"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "tina jalma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "aduhai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "mun kuring mundur"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ti maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:01.182926469Z",
+  "model": "glm-5.3"
+}

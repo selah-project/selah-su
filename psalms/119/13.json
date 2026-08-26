@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Dina biwir abdi abdi geus nyaritakeun sadaya putusan-putusan caang Anjeun.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "dina biwir abdi"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "abdi geus nyaritakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-putusan"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "caang Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:07.627608999Z",
+  "model": "glm-5.3"
+}

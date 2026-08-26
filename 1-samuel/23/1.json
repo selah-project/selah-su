@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung karandeyka ka David, nyarios: Punten, Palisti keur perang di Keila, jeung maranéhna ngarampok ⟨את⟩ ⟨the⟩ lantéan-lantéan pamaratan.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "jeung karandeyka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "punten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palisti"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "di Keila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "jeung maranéhna"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ngarampok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lantéan-lantéan pamaratan"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "lantéan-lantéan pamaratan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:07.206051065Z",
+  "model": "glm-5.3"
+}

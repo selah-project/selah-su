@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung imam ngahaseupan ⟨את⟩ bagéan-eling-na, tina binih-na jeung tina minyak-na, sarta sakabéh kemenyan-na; kurban seuneu kanggo Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "jeung ngahaseupan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagéan-eling-na"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "bagéan-eling-na"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tina binih-na"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "jeung tina minyak-na"
+    },
+    {
+      "surface": "על",
+      "gloss": "sarta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "kemenyan-na"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kurban seuneu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:15.195048986Z",
+  "model": "glm-5.3"
+}

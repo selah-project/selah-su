@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 5:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Maranéhna ngintun sarta ngumpulkeun ⟨את⟩ sagala sarénéi Palistin ka maranéhna, sarta maranéhna nyarita: naon anu urang pigawé kana peti Elohim-na Israil? Sarta maranéhna nyarika: ka Gat kpaksa dipundut pindah peti Elohim-na Israil; sarta maranéhna mawa ⟨את⟩ peti Elohim-na Israil.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "maranéhna ngintun"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "sarta ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala sarénéi Palistin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarénéi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palistin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta maranéhna nyarita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "anu urang pigawé"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "kana peti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta maranéhna nyarika"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "kpaksa dipundut pindah"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "sarta maranéhna mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Elohim-na Israil"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:18.129144895Z",
+  "model": "glm-5.3"
+}

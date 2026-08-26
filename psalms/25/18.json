@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Tempo karandapan kuring jeung kasesah kuring, jeung bawa sakabéh dosa-dosa kuring.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "karandapan kuring"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "jeung kasesah kuring"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "jeung bawa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "dosa-dosa kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:45.866746030Z",
+  "model": "glm-5.3"
+}

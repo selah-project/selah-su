@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sapeuri sim kuring geus ngapak ⟨את⟩ anak-anak maraneh; pangaweruh maraneh moal narima. Péso maraneh geus ngahakan nabi-nabi maraneh, siga singa nu ngancurkeun.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "sapeuri"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "sim kuring geus ngapak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak maraneh"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak maraneh"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "narima"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "geus ngahakan"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "péso maraneh"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "nabi-nabi maraneh"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "siga singa"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "nu ngancurkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:21:47.317394722Z",
+  "model": "glm-5.3"
+}

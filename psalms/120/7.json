@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 120,
+  "translation": "Abdi ⟨ieu⟩ damai; tapi nalika abdi nyarita, maranehna ⟨siap⟩ pikeun perang.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "tapi nalika"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "abdi nyarita"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pikeun perang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:34.401853199Z",
+  "model": "glm-5.3"
+}

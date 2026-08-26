@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sabab ku anjeun kuring ngajarang kana pasukan; jeung ku Elohim kuring kaulas-aulas témbok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku anjeun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kuring ngajarang"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "kana pasukan"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "jeung ku Elohim kuring"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "kaulas-aulas"
+    },
+    {
+      "surface": "שור",
+      "gloss": "témbok"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:13.063521397Z",
+  "model": "glm-5.3"
+}

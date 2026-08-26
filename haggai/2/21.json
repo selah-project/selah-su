@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Omongkeun ka Zerubbabel, panguwu Yehuda, sangkan ngomong: Aku ngaguncang ⟨את⟩ langit-langit jeung ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "omongkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "panguwu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngomong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ngaguncang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit-langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:17:24.572866175Z",
+  "model": "glm-5.3"
+}

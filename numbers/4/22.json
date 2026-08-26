@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Angkat ⟨את⟩ sirah putra-putra Gershon ogé maranéhna, kana imah bapa-bapana, kana kulawarga-kulawargana.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Angkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirah"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kana imah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa-bapana"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kana kulawarga-kulawargana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:38.899943112Z",
+  "model": "glm-5.3"
+}

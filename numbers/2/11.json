@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung balana, jeung nu diitung-itungna: genep jeung opat puluh rébu, lima ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Jeung balana"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "jeung nu diitung-itungna"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "genep"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:22.387772780Z",
+  "model": "glm-5.3"
+}

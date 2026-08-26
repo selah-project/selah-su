@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Mikal nyulukeun ⟨את⟩ Dawid turun ngaliwatan jandéla, tuluy manéha calindapti sarta salamet.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "nyulukeun turun"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jandéla"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "calindapti"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ngarulag"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "salamet"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:47.468913734Z",
+  "model": "glm-5.3"
+}

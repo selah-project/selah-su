@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Mahalaleel hirup lima taun jeung genep puluh taun, teras nyitakeun ⟨את⟩ Yered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "genep puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nyitakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:18.941171756Z",
+  "model": "glm-5.3"
+}

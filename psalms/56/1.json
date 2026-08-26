@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Kapanganteuning; ngeunaan 'merpati ti diam, nu ti jauh'; mazmur ku Dawid, mikhtam, waktu Pelishti nangkep ⟨את⟩ manéhna di Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kapanganteuning"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "merpati ti diam"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "diam"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "nu ti jauh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "waktu nangkep"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "di Gat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:48.426817589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Elohim nyebut rékia Shamayim; jadih sonten, jadih énjing — poé kadua.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "teras nyebut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rékia"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Shamayim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadih"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sonten"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadih"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "énjing"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kadua"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:23.408407432Z",
+  "model": "glm-5.3"
+}

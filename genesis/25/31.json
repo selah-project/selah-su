@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung Yaakov ngomong: “Jual ayeuna ⟨את⟩ hak anak kabungsuan anjeun ka abdi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Jual"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hak anak kabungsuan anjeun"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "hak anak kabungsuan anjeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:31.688188526Z",
+  "model": "glm-5.3"
+}

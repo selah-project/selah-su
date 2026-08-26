@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun panonpoé geus surup jeung manehna geus beresih, sanggeus éta manehna tuang tina ⟨the⟩ hal-hal suci, sabab eta kadaharanana.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "geus surup"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "jeung geus beresih"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sanggeus éta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tuang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "hal-hal suci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "kadaharanana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:41.088619712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ngeunaan éta caritakeun ka anak-anak aranjeun, anak-anak aranjeun ka anak-anak maranéhna, jeung anak-anak maranéhna ka bangsa nu saterusna.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "ngeunaan éta"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "ka anak-anak aranjeun"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "jeung anak-anak aranjeun"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ka anak-anak maranéhna"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "jeung anak-anak maranéhna"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ka bangsa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nu saterusna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:08:11.490173198Z",
+  "model": "glm-5.3"
+}

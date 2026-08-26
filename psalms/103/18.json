@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Ka nu miara perjangjian-Na jeung ka nu nginget parentah-parentah-Na sangkan ngalaksanakeunana.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "ka nu miara"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjangjian-Na"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "jeung ka nu nginget"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "parentah-parentah-Na"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "sangkan ngalaksanakeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:42.546565134Z",
+  "model": "glm-5.3"
+}

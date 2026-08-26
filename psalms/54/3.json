@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Elohim, ku ngaran-Mu sing nyalametkeun abdi, jeung ku kakuatan-Mu sing ngadilan abdi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ku ngaran-Mu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sing nyalametkeun abdi"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "jeung ku kakuatan-Mu"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "sing ngadilan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:17.587076032Z",
+  "model": "glm-5.3"
+}

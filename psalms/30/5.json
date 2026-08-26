@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Zamirkeun ka Yahwe, éta nu miski ka anjeunna, jeung salametkeun pangéna ka émutan kasucian-Na.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Zamirkeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "nu miski ka anjeunna"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "jeung salametkeun pangéna"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ka émutan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasucian-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:29.174052238Z",
+  "model": "glm-5.3"
+}

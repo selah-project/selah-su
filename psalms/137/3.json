@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Sabab dinya nu mawa urang tawanan nanya ka urang kecap-kecap kawih, jeung nu nyiksa urang ⟨ménta⟩ bungah, nyebut: “Kawihkeun ka urang ti kawih Tsiyon.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "nanya ka urang"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "nu mawa urang tawanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kawih"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "jeung nu nyiksa urang"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kawihkeun"
+    },
+    {
+      "surface": "לנeu",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "ti kawih"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:35.236963846Z",
+  "model": "glm-5.3"
+}

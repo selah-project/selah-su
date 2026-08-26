@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Abdi badé muji Anjeun di antara ⟨את⟩ bangsa-bangsa, wahai Adonay; abdi badé nyantrik pituin pikeun Anjeun di antara ⟨את⟩ kumpulan-kumpulan bangsa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "abdi badé muji Anjeun"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "wahai Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "abdi badé nyantrik pituin pikeun Anjeun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di antara kumpulan-kumpulan bangsa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:03.452247940Z",
+  "model": "glm-5.3"
+}

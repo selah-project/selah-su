@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sabab pikeun Kami anak-anak Israél ⟨mangrupakeun⟩ abdi-abdi; abdi-abdi Kami maranehna, nu Kami mimalaskeun ⟨את⟩ maranehna tina tanah Mitsrayim; Kami ⟨ nyaeta ⟩ Yahwe, Elohim Anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Kami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi Kami"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Kami mimalaskeun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:12.962082310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Ulah binih cai ngahiliwir ngalelepkeun kuring, ulah biih ngeleg kuring, jeung ulah sumur nutup bahuna luhureun kuring.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ngahiliwir ngalelepkeun kuring"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "binih"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ngeleg kuring"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "biih"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "nutup"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "luhureun kuring"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bahuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:31.747303279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Dina waktu éta, ucapan Yahwe: kuring bakal jadi Elohim pikeun sadaya kulawarga Israél, sarta maranéhna bakal jadi umat pikeun Kuring.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "kuring bakal jadi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pikeun Elohim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pikeun sadaya"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "sarta maranéhna"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Kuring"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pikeun umat"
+    }
+  ],
+  "timestamp": "2026-08-26T17:02:47.521064449Z",
+  "model": "glm-5.3"
+}

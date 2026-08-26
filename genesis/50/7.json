@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Sarta Yosef naék pikeun nguburkeun ⟨את⟩ bapana, sarta naék jeung anjeunna sagala abdi Fir'aun, para sesepuh imahna, jeung sagala sesepuh tanah Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sarta naék"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "pikeun nguburkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sarta aranjeunna naék"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jeung ⟨את⟩ anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'aun"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:22.207867884Z",
+  "model": "glm-5.3"
+}

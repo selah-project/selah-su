@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung maranéhna ngajaga ⟨את⟩ tugas-jagana, jeung ⟨את⟩ tugas-jaga sadaya jamaah, di payuneun Khemah Patepung, pikeun ngalaksanakeun ⟨את⟩ palayanan Padéwan Kemah.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Jeung maranéhna ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugas-jagana"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "tugas-jagana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tugas-jaga sadaya jamaah"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas-jaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patepung"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pikeun ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palayanan Padéwan Kemah"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "palayanan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Padéwan Kemah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:55.766120074Z",
+  "model": "glm-5.3"
+}

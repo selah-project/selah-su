@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Jeung ka Og, raja Bashan, sabab nepi ka salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "Jeung ka Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nepi ka salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:11.070626871Z",
+  "model": "glm-5.3"
+}

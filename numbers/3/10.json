@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ⟨את⟩ Aharon jeung ⟨את⟩ anak-anakna anjeun nandingkeun, sarta maranehna ngajaga ⟨את⟩ imamat maranehna; nu deungeun nu ngadeukeutan bakal dipaéhan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "anak-anakna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "anjeun nandingkeun"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "sarta maranehna ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imamat maranehna"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "imamat maranehna"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "jeung nu deungeun"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nu ngadeukeutan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bakal dipaéhan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:56.310597768Z",
+  "model": "glm-5.3"
+}

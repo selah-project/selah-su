@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Saeutik ceuli, hé langit-langit, barih abdi nyarita, jeung moyan anjeun, hé bumi, omong-omongan tina biang sorangan.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Saeutik ceuli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hé langit-langit"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "barih abdi nyarita"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "jeung moyan anjeun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hé bumi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "omong-omongan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tina biang sorangan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:58.075509400Z",
+  "model": "glm-5.3"
+}

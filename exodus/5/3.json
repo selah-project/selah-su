@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 5:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung maranéhna nyarita: Elohim-na urang Ibrani geus papanggih jeung urang; hayu urang, mangga, indit tilu poé lumampah ka gurun, sangkan urang ngikeun korban ka Yahwe, Elohim urang, supaya ulah anjeunna ngabaradab urang ku wabah penyakit atawa ku pedang.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung maranéhna nyarita"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "urang Ibrani"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "geus papanggih"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "jeung urang"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "hayu urang indit"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lumampah"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ka gurun"
+    },
+    {
+      "surface": "ונזבחה",
+      "gloss": "sangkan urang ngikeun korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ulah"
+    },
+    {
+      "surface": "יפגענו",
+      "gloss": "anjeunna ngabaradab urang"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ku wabah penyakit"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:40.106686120Z",
+  "model": "glm-5.3"
+}

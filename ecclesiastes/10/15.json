@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kasusah nu keur ngabeurangan bakal nyangsara, sabab anjeunna teu nyaho jalan ka ⟨⟨the⟩⟩ kota.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "nu keur ngabeurangan"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "bakal nyangsara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "lologlo",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:59.484403950Z",
+  "model": "glm-5.3"
+}

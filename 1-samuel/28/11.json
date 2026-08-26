@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung awéwé éta ngomong: ⟨את⟩ saha anu naékkeun ka anjeun? Jeung anjeunna ngomong: ⟨את⟩ Shemuel — sing naékkeun ka abdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "anu naékkeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "sing naékkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:40.061771710Z",
+  "model": "glm-5.3"
+}

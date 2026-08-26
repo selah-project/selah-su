@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 93,
+  "translation": "Yahwe jumeneng raja, kamulyaan dimaké, Yahwe maké kakuatan, nyengkeutkeun ⟨dirina⟩; ogé bumi diadegkeun, moal goyang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jumeneng raja"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "dimaké"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "maké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "nyengkeutkeun"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "diadegkeun"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "goyang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:47.569782494Z",
+  "model": "glm-5.3"
+}

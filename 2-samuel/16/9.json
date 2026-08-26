@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 16:9",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Avishai putra Tserujah nyarita ka ⟨raja⟩: naha ⟨anjing⟩ ⟨paéh⟩ ieu ngutuk tuanku ⟨raja⟩? Hayu kuring ngaliwat, punten, jeung mupus ⟨את⟩ mastakana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨raja⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ngutuk"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "⟨anjing⟩"
+    },
+    {
+      "surface": "המת",
+      "gloss": "⟨paéh⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuanku ⟨raja⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨raja⟩"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "hayu kuring ngaliwat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "jeung mupus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mastakana"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mastakana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:17.393433842Z",
+  "model": "glm-5.3"
+}

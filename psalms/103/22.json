@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Berokahan ka Yahwe, sadayana pagawéan-Na, di sadayana tempat pamaréntahan-Na; berokahan, éh jiwangku, ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Berokahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "pagawéan-Na"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sadayana"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "pamaréntahan-Na"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "berokahan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "éh jiwangku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:42.705641647Z",
+  "model": "glm-5.3"
+}

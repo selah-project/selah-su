@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Ayeuna, jeung ka, séréh ⟨את⟩ Amalek, jeung paremkeun ⟨את⟩ sakabéh nu dipibogaana, ulah miraah ka manéhna; paéhkeun ti lalaki nepi ka awéwé, ti barudak leutik nepi ka nu nyuseu, ti munding nepi ka domba, ti onta nepi ka kadalu.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "jeung séréh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "jeung paremkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh nu dipibogaana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nu dipibogaana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "miraah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "jeung paéhkeun"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "ti barudak leutik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "nu nyuseu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ti munding"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "ti onta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kadalu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:07.957793635Z",
+  "model": "glm-5.3"
+}

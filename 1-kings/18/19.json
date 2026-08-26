@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Mangka ayeuna kirim, kumpulkeun ka abdi ⟨את⟩ sadaya Yisrael ka gunung Karmel, jeung ⟨את⟩ nabi-nabi Baal opat ratus lima puluh, sarta nabi-nabi Asherah opat ratus, nu dahar di méja Izebel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mangka ayeuna"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kirim"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "kumpulkeun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi Baal"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "jeung lima puluh"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "sarta nabi-nabi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "nu dahar"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "di méja"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:47.868578081Z",
+  "model": "glm-5.3"
+}

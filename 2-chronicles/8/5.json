@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung anjeunna ngawangun ⟨את⟩ Beit Khoron ⟨nu⟩ luhur jeung ⟨את⟩ Beit Khoron ⟨nu⟩ handap, kota-kota bénténg, bari mibanda pinding, panto, jeung gerendél.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit Khoron nu luhur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Beit Khoron nu handap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "handap"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "bénténg"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "pinding"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "panto"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "gerendél"
+    }
+  ],
+  "timestamp": "2026-08-26T16:21:26.139183768Z",
+  "model": "glm-5.3"
+}

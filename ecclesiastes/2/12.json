@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta kuring muter kuring pikeun nénjo hikmah sarta kanyaruan jeung kamemékan, sabab naon ⟨את⟩ nu bisa dipigawé ku manusa nu datang sanggeus raja — nu geus baé dipigawé ku maranehna.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "sarta kuring muter kuring"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pikeun nénjo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "sarta kanyaruan"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "jeung kamemékan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ku manusa"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "nu datang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu (nu bisa dipigawé)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "geus baé"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "dipigawé ku maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:18.677409085Z",
+  "model": "glm-5.3"
+}

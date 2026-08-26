@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Sabab anjeun geus mawa kabungah ka abdi, Yahwe, ku pagawéan Anjeun; ku pagawéan leungeun-leungeun Anjeun abdi baris ngahaleuang soré.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "anjeun geus mawa kabungah ka abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ku pagawéan Anjeun"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ku pagawéan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "leungeun-leungeun Anjeun"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "abdi baris ngahaleuang soré"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:14.404483087Z",
+  "model": "glm-5.3"
+}

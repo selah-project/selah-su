@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Maka Dawud ngirim taluk mata-mata, teras nyaho yén Shaul temen datang ka Nachon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim taluk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nachon"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:29.934748598Z",
+  "model": "glm-5.3"
+}

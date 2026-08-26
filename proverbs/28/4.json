@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Nu ngingkekeun Taurat muji jalma nu jahat, tapi nu ngajaga Taurat ngelawan aranjeunna.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "nu ngingkekeun"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "muji"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jalma nu jahat"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "tapi nu ngajaga"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "ngelawan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:07.530805031Z",
+  "model": "glm-5.3"
+}

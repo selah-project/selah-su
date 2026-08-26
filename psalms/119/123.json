@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Panon-panon kuring yasa tuntas nganti ka kasalametan-Mu jeung ka ucapan kabeneran-Mu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "panon-panon kuring"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yasa tuntas"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "nganti ka kasalametan-Mu"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "jeung ka ucapan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kabeneran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:42.467987879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 128,
+  "translation": "Tingali! Sabab kitsulelah jalma nu sieun ka Yahwe meunang berkah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tingali!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitsulelah"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "meunang berkah"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nu sieun ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:47.787163774Z",
+  "model": "glm-5.3"
+}

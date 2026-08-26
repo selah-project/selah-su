@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Lajeng ⟨⟨ manéhna ⟩⟩ lalimpungan ku jalan séjén, sarta teu balik deui dina jalan anu dipaké datang ka Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lajeng lalimpungan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ku jalan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "séjén"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:31.297206099Z",
+  "model": "glm-5.3"
+}

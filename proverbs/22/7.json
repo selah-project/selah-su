@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Nu beunghar marentasan ka nu papa; jeung nu nyicing duit jadi abdi ka nu mairih.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "nu beunghar"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "ka nu papa"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "marentasan"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "jadi abdi"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "nu nyicing duit"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "nu mairih"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:15.356437172Z",
+  "model": "glm-5.3"
+}

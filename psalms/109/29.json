@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Sangkan munsuh-munsuh kuring dibungbuan ku kahinaan, sarta maranéhna meungkeut karohanana saperti jubah.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "sangkan ... dibungbuan"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "munsuh-munsuh kuring"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ku kahinaan"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "sarta maranéhna meungkeut"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "saperti jubah"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "karohanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:59.341473139Z",
+  "model": "glm-5.3"
+}

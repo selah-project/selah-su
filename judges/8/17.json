@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung munara Penuel diancurkeunana, sarta manéhna maéhan ⟨את⟩ jalma-jalma ti ⟨the⟩ kota.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "munara Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "munara"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "diancurkeun"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "sarta maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma-jalma"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jalma-jalma ti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-26T12:04:37.299559646Z",
+  "model": "glm-5.3"
+}

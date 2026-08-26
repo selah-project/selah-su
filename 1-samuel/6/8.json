@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung aranjeun ngala ⟨את⟩ petironan Yahwe, jeung aranjeun nempatkeun manehna kana gerobak éta, jeung ⟨את⟩ parabot-parabot emas nu aranjeun balikeun ka manehna salaku denda sala, aranjeun nempatkeun dina kotak di sisianna, teras aranjeun ngapiiskeun manehna, jeung manehna indit.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "jeung aranjeun ngala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petironan Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petironan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "anjeun nempatkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "gerobak éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "parabot-parabot emas"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot-parabot"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "anjeun balikeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manehna"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "salaku denda sala"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "anjeun nempatkeun"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "dina kotak"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "di sisianna"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "teras anjeun ngapiiskeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manehna"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "jeung manehna indit"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:14.161932476Z",
+  "model": "glm-5.3"
+}

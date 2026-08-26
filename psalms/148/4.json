@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Pamuji-pamuji ka Anjeunna, langit-langit ⟨the⟩ luhur, jeung cai-cai anu di luhureun langit-langit.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pamuji-pamuji ka Anjeunna"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨the⟩ luhur"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "jeung cai-cai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:41.019856527Z",
+  "model": "glm-5.3"
+}

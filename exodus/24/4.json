@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Tuluy Moshe nuliskeun ⟨את⟩ sadaya kecap-kecap Yahwe, sarta milang isuk-isuk, ngawangun hiji altar sahandapeun gunung, jeung dua belas tihang pikeun dua belas suku Israél.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nuliskeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "sarta milang"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "tihang"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "pikeun dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:28.110060772Z",
+  "model": "glm-5.3"
+}

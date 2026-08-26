@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 3:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Terus Yahwe nambahan nyaur deui Shemuel, ari Shemuel bangun, indit ka Eli, sarta ngomong: Ieu abdi, sabab anjeun nyaur abdi. Tapi Eli ngomong: Abdi henteu nyaur, bujang kuring; balik, bobo.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nambahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nyaur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ieu abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "anjeun nyaur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "abdi nyaur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bujang kuring"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "bobo"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:43.370268066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Tapi Yahwe nguatkeun ⟨את⟩ ati Firaun, sarta manehna teu мега ngaleupaskeun ⟨את⟩ barbara Israyil.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "tapi nguatkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati Firaun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    },
+    {
+      "surface": "וילא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barbara Israyil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barbara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyil"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:53.890809827Z",
+  "model": "glm-5.3"
+}

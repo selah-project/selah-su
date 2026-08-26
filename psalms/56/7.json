@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Aranjeunna ngumpul, aranjeunna nyumput, aranjeunna ngawasakeun tukang suku kuring, nalika aranjeunna nganti-anti nyawa kuring.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "arana ngumpul"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "arana nyumput"
+    },
+    {
+      "surface": "המה",
+      "gloss": "aranjeunna"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "tukang suku kuring"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "arana ngawasakeun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "arana nganti-anti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:05.000249395Z",
+  "model": "glm-5.3"
+}

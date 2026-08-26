@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung abdi badé nyieun ⟨את⟩ siki anjeweng sarua jeung keusik ⟨the⟩ tanah; nu lamun saha-saha bisa ngitung ⟨את⟩ keusik ⟨the⟩ tanah, mangka siki anjeweng ogé bisa diitung.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Jeung abdi badé nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siki anjeweng"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siki anjeweng"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "sarua jeung keusik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saha-saha"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "ngitung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keusik tanah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "keusik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siki anjeweng"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "bisa diitung"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:19.360664100Z",
+  "model": "glm-5.3"
+}

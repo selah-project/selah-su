@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Lajeng Yosef ngandika ka Paroh: ngimpi Paroh ⟨eta⟩ hiji; ⟨את⟩ nu dipigawé Elohim geus diwartakeun ka Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lajeng ngandika"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ngimpi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨eta⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipigawé Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "geus diwartakeun"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ka Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:21.146803511Z",
+  "model": "glm-5.3"
+}

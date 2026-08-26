@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 149,
+  "translation": "Pikeun ngaiket raja-rajana ku ranté, sarta nu mulya-mulya ti maranéhna ku beungbeurangan beusi.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "pikeun ngaiket"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "raja-rajana"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ku ranté"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "sarta nu mulya-mulya ti maranéhna"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ku beungbeurangan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "beusi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:48.971091822Z",
+  "model": "glm-5.3"
+}

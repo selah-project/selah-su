@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "jeung ku kameumeusan hasil surya, jeung ku kameumeusan nu dipiceun ku bulan-bulan;",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "jeung ku kameumeusan"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "surya"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "jeung ku kameumeusan"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "nu dipiceun"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "bulan-bulan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:52:47.673934572Z",
+  "model": "glm-5.3"
+}

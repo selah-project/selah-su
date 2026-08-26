@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Ulah ngiceukeun budak kawula ka Adonay-na, pamali manehna ngajelegkeun anjeun, sarta anjeun jadi boga dosa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "ngiceukeun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "budak kawula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "_adנו",
+      "gloss": "Adonay-na"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pamali"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "ngajelegkeun anjeun"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "sarta jadi boga dosa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:39.697486651Z",
+  "model": "glm-5.3"
+}

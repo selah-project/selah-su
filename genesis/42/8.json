@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung Yosef mikawanoh ⟨את⟩ dulur-dulurna, tapi maranéhna teu mikawanoh ⟨manéhna⟩.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "mikawanoh"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dulur-dulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulur-dulurna"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tapi maranéhna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mikawanoh manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:06.700777800Z",
+  "model": "glm-5.3"
+}

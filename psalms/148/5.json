@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Bérie aranjeuna puji ⟨את⟩ ngaran Yahwe, sabab manehna maréntah sarta aranjeuna dijieun.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "bérie aranjeuna puji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "sarta dijieun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:06.022201987Z",
+  "model": "glm-5.3"
+}

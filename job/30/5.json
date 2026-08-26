@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Ti tengah ⟨manusa⟩ ⟨maranéhna⟩ diusir; ⟨maranéhna⟩ ngateri ngalawan maranéhna salaku maling.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גו",
+      "gloss": "tengah"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "diusir"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "ngateri"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ngalawan maranéhna"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "salaku maling"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:03.953161798Z",
+  "model": "glm-5.3"
+}

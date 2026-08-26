@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng saurang lalaki ti kulawargi Levi indit, sarta mawa ⟨את⟩ saurang awéwé ti Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti kulawargi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "sarta mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saurang awéwé ti Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "saurang awéwé"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:39:12.763951289Z",
+  "model": "glm-5.3"
+}

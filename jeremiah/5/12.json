@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Maranéhna ngahianatan ka Yahwe sarta nyebut, 'Euweuh ⟨manehna⟩; jeung moal datang ka kami sangsara, pedang jeung kalap moal katempo.'",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "ngahianatan-kecap"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka-Yahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta-nyebut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung-moal"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka-kami"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "jeung-kalap"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "katempo"
+    }
+  ],
+  "timestamp": "2026-08-26T13:23:32.574518084Z",
+  "model": "glm-5.3"
+}

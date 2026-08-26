@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Lolobana kumbah abdi tina kaluputan abdi, jeung tina dosa abdi sucikeun abdi.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "lolobana"
+    },
+    {
+      "surface": "כבסנy",
+      "gloss": "kumbah abdi"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "tina kaluputan abdi"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "jeung tina dosa abdi"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "sucikeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:28.328030305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Sabab kuring geus jadi siga karét kulit dina haseup, katangtuan-Mu teu kuring poho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kuring geus jadi"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "siga karét kulit"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "dina haseup"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katangtuan-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kuring poho"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:52.994250393Z",
+  "model": "glm-5.3"
+}

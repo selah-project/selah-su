@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Diberkahan buah tikahareupan anjeun, buah taneuh anjeun, buah sato ingon-anjeun — anak-anak sapi gaduh anjeun jeung anak-anak domba anjeun.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "diberkahan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "tikahareupan anjeun"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "jeung buah"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "taneuh anjeun"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "jeung buah"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "sato ingon anjeun"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "anak-anak sapi"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "gaduh anjeun"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "jeung anak-anak domba"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "domba anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:21.149737929Z",
+  "model": "glm-5.3"
+}

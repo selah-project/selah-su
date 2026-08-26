@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Anu méré hampura ka sadaya kaluputan anjeun, Anu nyageurkeun ka sadaya panyakit anjeun.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Anu méré hampura"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadaya"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "kaluputan anjeun"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "Anu nyageurkeun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadaya"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "panyakit anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:29.403724189Z",
+  "model": "glm-5.3"
+}

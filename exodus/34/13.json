@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Sabab altar maranéhanana aranjeun bolaykeun, jeung tihang-tihang maranéhanana aranjeun pekukeun, jeung ⟨את⟩ Asherah-na aranjeun potongkeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar maranéhanana"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "altar maranéhanana"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "bolaykeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tihang-tihang maranéhanana"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tihang-tihang maranéhanana"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "pekukeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Asherah-na"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Asherah-na"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "potongkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:25.677160393Z",
+  "model": "glm-5.3"
+}

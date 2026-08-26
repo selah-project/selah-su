@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Teras Moshe nyaritakeun ⟨את⟩-na — waktu-waktu pawangun Yahwe — ka barudak Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Teras nyaritakeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waktu-waktu pawangun Yahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "waktu-waktu pawangun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:40.036818257Z",
+  "model": "glm-5.3"
+}

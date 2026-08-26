@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Abdi kasusah jeung keur tayawa ti ngora kénéh; abdi nanggung kagét-na Anjeun, abdi jadi aralieu.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "jeung keur tayawa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ti nora kénéh"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "abdi nanggung"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "kagét-na Anjeun"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "jadi aralieu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:19.833914921Z",
+  "model": "glm-5.3"
+}

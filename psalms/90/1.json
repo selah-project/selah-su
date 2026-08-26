@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Doa ti Moshe, jelema ⟨the⟩ Elohim. Adonay, tempat cicing Anjeun geus jadi pikeun kami, ti katurunan ka katurunan.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ti Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jelema"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩ Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tempat cicing"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "היית",
+      "gloss": "geus jadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun kami"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "ti katurunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ka katurunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:53.000737642Z",
+  "model": "glm-5.3"
+}

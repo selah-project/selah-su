@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Adeukeutkeun ⟨את⟩ margasatwa Lewi, jeung ancepkeun ⟨את⟩ manéhna di payuneun Aharon sang imam, sangkan maranéhna ngalayanan ⟨את⟩ manéhna.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Adeukeutkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "margasatwa Lewi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "margasatwa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "jeung ancepkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "di payuneun Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "sangkan maranéhna ngalayanan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "manéhna (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:55.765943539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 67,
+  "translation": "Sangkan kanyahoan di bumi jalan-Mu, di sagala bangsa kasalametan-Mu.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "sangkan kanyahoan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "kasalametan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:12.293668045Z",
+  "model": "glm-5.3"
+}

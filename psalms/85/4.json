@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Anjeun ngumpulkeun sadaya murka Anjeun; Anjeun balik deui tina kaheura kaambek Anjeun.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Anjeun ngumpulkeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "murka Anjeun"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "Anjeun balik deui"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "kaheura"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kaambek Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:14.731001471Z",
+  "model": "glm-5.3"
+}

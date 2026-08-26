@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung Yahwe ngomong: Saha nu daé ngabukbak ⟨את⟩ Ahab sangkan ngabetot tur ragrag di Ramot-Gilad? Jeung hiji ngomong ku cara kieu, jeung nu hiji ngomong ku cara kieu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "nu daé ngabukbak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sangkan ngabetot"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "tur ragrag"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "di Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ku cara kieu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jeung nu hiji"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ku cara kieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:32.994274079Z",
+  "model": "glm-5.3"
+}

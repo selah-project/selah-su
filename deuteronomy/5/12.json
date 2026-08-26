@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Awasi ⟨את⟩ poé poé-sabat pikeun nyucikeun éta, saperti geus dititah ka anjeun ku Yahwe, Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "awasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poé"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "poé-sabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pikeun nyucikeun éta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "geus dititah ka anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:32.568132019Z",
+  "model": "glm-5.3"
+}

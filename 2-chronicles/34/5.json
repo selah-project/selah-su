@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Tuluy tulang-tulang para imam ditunu di luhureun méhéb-méhéb maranéhna, sarta anjeunna nyucikeun ⟨את⟩ Yehuda jeung ⟨את⟩ Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "jeung tulang-tulang"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ditunu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "méhéb-méhéb maranéhna"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "sarta anjeunna nyucikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T16:33:56.790246828Z",
+  "model": "glm-5.3"
+}

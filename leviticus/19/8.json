@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung nu daharna mawa kalalayanna, sabab ⟨את⟩ kasucian Yahwe geus dicemar, jeung nefesh éta dipungkas ti bangsana.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "jeung nu daharna"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kalalayanna"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasucian Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "dicemar"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "jeung dipungkas"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh éta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ti bangsana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:54.494315772Z",
+  "model": "glm-5.3"
+}

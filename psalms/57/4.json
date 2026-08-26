@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Anjeunna ngirim tina langit-langit sarta nyalametkeun abdi; ⟨Elohim⟩ ngahina nu ngangap-ngap moro abdi. Selah. Elohim ngirim xesed-Na jeung katubeuratiann-Na.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Anjeunna ngirim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "tina langit-langit"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "sarta nyalametkeun abdi"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ngahina"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "nu ngangap-ngap moro abdi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesed-Na"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "jeung katubeuratiann-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:13.077761666Z",
+  "model": "glm-5.3"
+}

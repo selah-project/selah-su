@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung Yehoasy saré jeung bapak-bapakna, jeung dikubur di Somron jeung raja-raja Israél; jeung Yarobéam putrana jadi raja minangka gagantina.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoasy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapakna"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubur"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Somron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobéam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "minangka gagantina"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:55.075741076Z",
+  "model": "glm-5.3"
+}

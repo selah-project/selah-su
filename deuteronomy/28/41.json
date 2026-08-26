@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Putra jeung putri anjeun barrengkeun, tapi aranjeunna moal aya pikeun anjeun, sabab aranjeunna bakal ka angkat ka pangbunnyan.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "jeung putri"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "anjeun barrengkeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "baris aya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "arua baris ka angkat"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ka pangbunnyan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:25.084302860Z",
+  "model": "glm-5.3"
+}

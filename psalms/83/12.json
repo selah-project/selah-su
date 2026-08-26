@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Jadikeun pangranina siga Oreb jeung siga Zeeb, sarta siga Zebah jeung siga Tzalmona sadaya nu dipancegna.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Jadikeun"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "pangranina"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "siga Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "jeung siga Zeeb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "sarta siga Zebah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "jeung siga Tzalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "nu dipancegna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:33.667575520Z",
+  "model": "glm-5.3"
+}

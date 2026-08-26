@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "sabab manéhna bakal malikeun ⟨את⟩ putra anjeun tina nuturkeun Kuring, sarta maranéhna bakal ngabaktosan allah-allah lian, sarta hilapna bebenden Yahwe muru kana anjeun, sarta méméh pieuneun anjeun dibinemkeunana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "bakal malikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra anjeun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putra anjeun"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "tina nuturkeun"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "sarta bakal ngabaktosan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lian"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "sarta muru"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hilapna bebenden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kana anjeun"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "sarta dibinemkeunana anjeun"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "méméh pieuneun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:15.190654434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Manehna ngirim ka maranehna geger nu ngahakan maranehna, jeung bangkong nu ngancurkeun maranehna.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "geger"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "nu ngahakan maranehna"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "jeung bangkong"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "nu ngancurkeun maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:15.628812630Z",
+  "model": "glm-5.3"
+}

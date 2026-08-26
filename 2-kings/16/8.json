@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Tuluy Ahaz nyandak ⟨את⟩ pérak jeung ⟨את⟩ emas nu kapanggih di imah Yahwe jeung di gudang-gudang imah raja, sarta ngirim ka raja Ashur salaku suap.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Tuluy ... nyandak"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pérak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nu kapanggih"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "jeung di gudang-gudang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "santa ngirim"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-08-26T12:57:02.402668650Z",
+  "model": "glm-5.3"
+}

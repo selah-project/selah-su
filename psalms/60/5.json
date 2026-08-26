@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Anjeun nembongkeun ka jalma-Mu katambah nu beurat; Anjeun mawi urang nginum anggur nu ngabalukarkeun oyag.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Anjeun nembongkeun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ka jalma-Mu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "katambah nu beurat"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "Anjeun mawi urang nginum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "nu ngabalukarkeun oyag"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:47.943690519Z",
+  "model": "glm-5.3"
+}

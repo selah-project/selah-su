@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Adonay Yahwe sumpah dina kasucianana: paturay, poé-poé bakal datang ka anjeun, sarta aranjeun bakal diangkat ku cucuk, jeung nu titinggal aranjeun ku kail lauk.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dina kasucianana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paturay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "paturay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "بאים",
+      "gloss": "bakal datang"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "bakal diangkat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "ku cucuk"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "jeung nu titinggal aranjeun"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "kail lauk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:08:34.199142616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jadi Yehosua nyieun pikeun manéhna siit-siit batu, terus disunat ⟨את⟩ budak-budak Yisrael di Gumuk Heulanan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Jadi nyieun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manéhna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "siit-siit"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "disunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak-budak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "budak-budak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gumuk"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Heulanan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:27.854737949Z",
+  "model": "glm-5.3"
+}

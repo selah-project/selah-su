@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Tingali, Elohim ⟨nyaéta⟩ pangulon kuring; Adonay ⟨nyaéta⟩ jeung nu ngarojong nyawa kuring.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tingali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ngulon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "jeung nu ngarojong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:36.928035416Z",
+  "model": "glm-5.3"
+}

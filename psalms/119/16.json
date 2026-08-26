@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Dina katangtuan-katangtuan Anjeun abdi ngahaja kagum, teu waka poho ka kecap Anjeun.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "dina katangtuan-katangtuan Anjeun"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "abdi ngahaja kagum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "waka poho"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kecap Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:07.628141230Z",
+  "model": "glm-5.3"
+}

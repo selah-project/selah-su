@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Ulah ngamulyakeun diri dina poé isuk, sabab anjeun teu nyaho naon nu bakal dibabarkeun ku hiji poé.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ngamulyakeun diri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "isuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dibabarkeun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hiji poé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:20.395217452Z",
+  "model": "glm-5.3"
+}

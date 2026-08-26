@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ⟨את⟩ sapi jantan jeung ⟨את⟩ kulitna jeung ⟨את⟩ dagingna jeung ⟨את⟩ taihna dibakar dina seuneu, di luar kemah, saperti nu diparéntahkeun ku Yahwe ka ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sapi jantan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi jantan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kulitna"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kulitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "dagingna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taihna"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "taihna"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dina seuneu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:24.118393825Z",
+  "model": "glm-5.3"
+}

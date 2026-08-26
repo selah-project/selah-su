@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Tapi mun aranjeun teu ngadangu ka sora Yahwe, tapi ngalawan ⟨את⟩ biantara Yahwe, mangka leungeun Yahwe bakal nimpa aranjeun jeung karuhun aranjeun.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tapi mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka sora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biantara Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "biantara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mangka bakal nimpa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "arajeun"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "jeung karuhun aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:50:52.597611959Z",
+  "model": "glm-5.3"
+}

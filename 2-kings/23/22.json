@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Sabab teu acan diayakeun Pésakh sapertos ieu ti mangsa para hakim anu ngahakiman ⟨את⟩ Yisrael, jeung sapanjang poé-poé raja-raja Yisrael jeung raja-raja Yehuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu acan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "diayakeun"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "sapertos Pésakh"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ti mangsa"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "para hakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ngahakiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sapanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "jeung raja-raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:11.882420489Z",
+  "model": "glm-5.3"
+}

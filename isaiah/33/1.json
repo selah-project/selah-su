@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Hore, anjeun nu ngarampog padahal can dirampog, jeung nu khianat padahal can dihianatan! Nalika anjeun anggeus ngarampog, anjeun bakal dirampog; nalika anjeun anggeus ngahianatan, aranjeunna bakal ngahianatan ka anjeun.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hore"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "nu ngarampog"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "can"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "dirampog"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "jeung nu khianat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung can"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "dihianatan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "nalika anjeun anggeus"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ngarampog"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "anjeun bakal dirampog"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "nalika anjeun anggeus"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "ngahianatan"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "aranjeunna bakal ngahianatan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:41.795160169Z",
+  "model": "glm-5.3"
+}

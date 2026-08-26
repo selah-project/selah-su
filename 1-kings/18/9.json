@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Lajeng anjeunna nyarita: Naon dosa abdi, sabab anjeung masihan ⟨את⟩ abdi-eungeun anjeung kana leungeun Ahab pikeun maéhan abdi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng anjeunna nyarita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosa abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeung"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "masihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-eungeun anjeung"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-eungeun anjeung"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kana leungeun"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "pikeun maéhan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:37.185340915Z",
+  "model": "glm-5.3"
+}

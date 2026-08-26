@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Tapi éta lalaki-lalaki ngalejerkeun leungeun maranehna, jeung mawa ⟨את⟩ Lot ka aranjeunna, ka jero imah, jeung ⟨את⟩ panto ditutup.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ngalejerkeun"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "éta lalaki-lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun maranehna"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "leungeun maranehna"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "jeung mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ka jero imah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panto"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "panto"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ditutup"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:20.161514094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 40:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Ka gunung anu luhur naékkeun manéh, hé nu mawa berita wilujeng ka Tsiyon; angkat kalawan kakuatan sora anjeun, hé nu mawa berita wilujeng ka Yerushalaim; angkat, ulah sieun; ceurik ka kota-kota Yehuda: Tempo, Elohim anjeun!",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "naékkeun manéh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hé"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "nu mawa berita wilujeng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "kalawan kakuatan"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sora anjeun"
+    },
+    {
+      "surface": "מבשרת",
+      "gloss": "nu mawa berita wilujeng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הרימי",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ceurik"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "ka kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tempo"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:44.192267945Z",
+  "model": "glm-5.3"
+}

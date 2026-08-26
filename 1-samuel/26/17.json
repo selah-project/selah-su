@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung Shaúl ngakonan ⟨את⟩ sora David, lajeng anjeunna nyarita: 'Naha ieu sora anjeun, putra kuring David?' Jeung David nyarita: 'Sora kuring, Adonay ⟨the⟩ raja.'",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ngakonan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "sora anjeun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra kuring"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora kuring"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:07.830902316Z",
+  "model": "glm-5.3"
+}

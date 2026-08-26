@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Lajeng Aharon ngalunggaiekeun ⟨את⟩ leungeunana ka luhureun cai Mitsrayim, lajeng bangkong ngaredét sukan sarta nutupan ⟨את⟩ taneuh Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Lajeng ngalunggaiekeun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeunana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "cai"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "lajeng ngaredét sukan"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "bangkong"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "sarta nutupan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:18.982875213Z",
+  "model": "glm-5.3"
+}

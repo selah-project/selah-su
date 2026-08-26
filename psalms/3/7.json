@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teu kabini abdi tina liluunan jalma nu ngurilingan nangtung ngalawan ⟨abdi⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "abdi kabini"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "tina liluunan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nangtung ngalawan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:41.271406556Z",
+  "model": "glm-5.3"
+}

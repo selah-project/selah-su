@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Manusa sarupa jeung hawa eusi, poé-poéna karasaumpingan nu ngaliwat.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "jeung hawa eusi"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "sarupa"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "poé-poéna"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "karasaumpingan"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "nu ngaliwat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:49.953049092Z",
+  "model": "glm-5.3"
+}

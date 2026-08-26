@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Syalum nurunkan ⟨את⟩ Xilqijah, sarta Xilqijah nurunkan ⟨את⟩ Azarjah;",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Jeung Syalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xilqijah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Xilqijah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "sarta Xilqijah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:13.229952986Z",
+  "model": "glm-5.3"
+}

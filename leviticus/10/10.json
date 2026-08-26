@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "jeung pikeun misahkeun antara ⟨nu⟩ suci jeung antara ⟨nu⟩ biasa, jeung antara ⟨nu⟩ teu beresih jeung antara ⟨nu⟩ beresih,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "jeung pikeun misahkeun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨nu⟩ suci"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "החל",
+      "gloss": "⟨nu⟩ biasa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "⟨nu⟩ teu beresih"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "⟨nu⟩ beresih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:28.946506082Z",
+  "model": "glm-5.3"
+}

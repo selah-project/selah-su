@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 99,
+  "translation": "Yahwe Elohim urang, Anjeun ngawales maranéhna; El nu ngahampura Anjeun jadi keur maranéhna, jeung nu meales kana pigawé-mararéhan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "ngawales maranéhna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nu ngahampura"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Anjeun jadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "keur maranéhna"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "jeung nu meales"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "pigawé-mararéhan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:33.587051921Z",
+  "model": "glm-5.3"
+}

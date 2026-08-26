@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung urang Palisti éta nyarita: kuring geus ngahina ⟨את⟩ barisan perang Israyel ayeuna ieu; bérékeun ka kuring saurang lalaki, sarta urang perang babarengan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "urang Palisti éta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "geus ngahina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barisan perang Israyel"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "barisan perang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bérékeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "jeung urang perang"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:20.008349190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung tatangkalan ngomong ka ara: Pek anjeun jalan, jadi raja luhureun kami.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung maranehna ngomong"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "tatangkalan"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "ka ara"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pek anjeun jalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "jadi raja"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "luhureun kami"
+    }
+  ],
+  "timestamp": "2026-08-26T12:05:31.399899421Z",
+  "model": "glm-5.3"
+}

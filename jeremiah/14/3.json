@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 14:3",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung para lubukna ngintun budak-budakna ka cai; maranehna datang ka sumur-sumur, teu manggih cai; balik wadah-wadahna kosong; eleh jeung ruksak pisan, maranehna nutup sirahna.",
+  "tokens": [
+    {
+      "surface": "ואדריהם",
+      "gloss": "jeung para lubukna"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ngintun"
+    },
+    {
+      "surface": "צעוריהם",
+      "gloss": "budak-budakna"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ka cai"
+    },
+    {
+      "surface": "באו",
+      "gloss": "maranehna datang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "sumur-sumur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "manggih"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "balik"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "wadah-wadahna"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "eleh"
+    },
+    {
+      "surface": "והכלמו",
+      "gloss": "jeung ruksak pisan"
+    },
+    {
+      "surface": "וחפו",
+      "gloss": "maranehna nutup"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "sirahna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:26:38.830920875Z",
+  "model": "glm-5.3"
+}

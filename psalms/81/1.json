@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Kepada pangpingpin musik, dina iringan Gittith, ku Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ka pangpingpin musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "iringan Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ku Asaf"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:52.428980488Z",
+  "model": "glm-5.3"
+}

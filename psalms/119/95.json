@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Ka abdi nu jahat ngarahap pikeun mupus abdi; kasaksian-Mu abdi sireungeun.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ngarahap"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "pikeun mupus abdi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kasaksian-Mu"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "abdi sireungeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:22.540929691Z",
+  "model": "glm-5.3"
+}

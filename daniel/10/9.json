@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teras kuring ngadangu ⟨את⟩ sora kecap-kecapna, sareng nalika ngadangu ⟨את⟩ sora kecap-kecapna, kuring jadi sarat bobo dina beungeut kuring, sareng beungeut kuring nyanghareupan taneuh.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "teras kuring ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kecap-kecapna"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "sareng nalika ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kecap-kecapna"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sareng kuring"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "sarat bobo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut kuring"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "sareng beungeut kuring"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nyanghareupan taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T17:22:24.685516699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Lamun hiji jalma ngajual ⟨את⟩ putrina jadi budak awéwé, moal anjeunna kaluar kawas kaluarna budak-budak lalaki.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ngajual"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiji jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "putrina"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "jadi budak awéwé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "anjeunna kaluar"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "kawas kaluarna"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "budak-budak lalaki"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:28.282203165Z",
+  "model": "glm-5.3"
+}

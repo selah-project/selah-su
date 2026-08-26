@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Ieu nu miskin saterusna nyeri, jeung Yahwe ngadangu, jeung tina sagala kasedihana manéhna ngamalikeunana.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "saterusna nyeri"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "jeung Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "jeung tina sagala"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "kasedihana"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "manéhna ngamalikeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:58.117571778Z",
+  "model": "glm-5.3"
+}

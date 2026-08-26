@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Naha lain kawas susu anu ngéjérkeun abdi, jeung kawas keju anu ngentepkeun abdi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Naha lain"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "kawas susu"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "anu ngéjérkeun abdi"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "jeung kawas keju"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "ngentepkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:50.932759938Z",
+  "model": "glm-5.3"
+}

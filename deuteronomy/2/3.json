@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Cukup lilana aranjeun nguriling ⟨את⟩ gunung ieu; piling aranjeun ka kalér.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "cukup lilana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aranjeun"
+    },
+    {
+      "surface": "סב",
+      "gloss": "nguriling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung ieu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "piling"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aranjeun"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ka kalér"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:19.526092695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung ⟨anjina⟩ nyarita ka majikanana: mangka adina di harepan nabi éta nu di Shomron, mangka harita manéhna ngaleungitkeun ⟨את⟩ dirina tina kustana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "majikanana"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "adina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di harepan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi éta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "mangka harita"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "manéhna ngaleungitkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dirina tina kustana"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "tina kustana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:37.577643149Z",
+  "model": "glm-5.3"
+}

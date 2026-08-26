@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 2:3",
+  "book": "haggai",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Saha di antara anjeun nu nyésa anu geus nempo ⟨את⟩ ieu ruma dina kamulyaanana nu munggaran? Jeung naon anu anjeun nempo ⟨את⟩ ayeuna? Naha lain jiga euweuh di panon anjeun?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "di antara anjeun"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "nu nyésa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "geus nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieu ruma"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ruma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "dina kamulyaanana"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nu munggaran"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jeung naon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ayeuna (ieu ruma)"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "naha lain"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "jiga"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "di panon anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:17:23.990391664Z",
+  "model": "glm-5.3"
+}

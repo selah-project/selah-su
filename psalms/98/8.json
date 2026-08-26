@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 98,
+  "translation": "Sungai papasang leungeun, babarengan gunung-gunung sorak-sorai gumbira.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Sungai"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "papasang leungeun"
+    },
+    {
+      "surface": "כף",
+      "gloss": "leungeun (bekakak)"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sorak-sorai gumbira"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:52.470393257Z",
+  "model": "glm-5.3"
+}

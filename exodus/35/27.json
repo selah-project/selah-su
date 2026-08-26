@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung para pangpingpin mawa ⟨את⟩ batu-batu shoham jeung ⟨את⟩ batu-batu papaés pikeun efod jeung pikeun dada-cupat.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "jeung para pangpingpin"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "batu-batu papaés"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "papaés (batu nyusupan)"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "pikeun efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "jeung pikeun dada-cupat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:19.979229320Z",
+  "model": "glm-5.3"
+}

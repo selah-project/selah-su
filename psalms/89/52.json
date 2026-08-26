@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Nu musuh-musuh-Mu ngahina, Yahwe; nu maranéhna ngahina tapak-leunggeu Mashiax-Mu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ngahina"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "musuh-musuh-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ngahina"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "tapak-leunggeu"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiax-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:03.710515977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sarta manéhna miceun ⟨את⟩ gemburna jeung eusina, sarta ngabaligchirkeun ⟨את⟩ eta gigireun mézbéah ka sisi wétan, ka tempat abu.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "miceun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gemburna"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "gemburna"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "jeung eusina"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ngabaligchirkeun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "eta"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "gigireun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbéah"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ka sisi wétan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:38.489325756Z",
+  "model": "glm-5.3"
+}

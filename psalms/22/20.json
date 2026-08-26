@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung Anjeun, Yahwe, ulah jauh; kakuatan kuring, gancang ka pitulung kuring.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "jeung Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "kakuatan kuring"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ka pitulung kuring"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "gancang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:55.217208247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Abdi badé ngabalikeun kecap-kecap ka anjeun, sareng ⟨את⟩ babaturan anjeun babarengan jeung anjeun",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "badé ngabalikeun ka anjeun"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "babaturan anjeun"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "babaturan anjeun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "babarengan jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:17:02.169136036Z",
+  "model": "glm-5.3"
+}

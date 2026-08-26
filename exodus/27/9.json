@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung anjeun nyieun ⟨את⟩ buruan Misbaka; pikeun sisi kidul, ka kidul, pamarikéh pikeun ⟨the⟩ buruan — linen bengrok dipilin, saratus dina ami panjangna, pikeun sisi ⟨the⟩ hiji.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung-anjeun-nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buruan Misbaka"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "buruan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misbaka"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pikeun-sisi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kidul"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ka-kidul"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "pamarikéh"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "pikeun-buruan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen-bengrok"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dipilin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "dina-ami"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "pikeun-sisi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:31.688672835Z",
+  "model": "glm-5.3"
+}

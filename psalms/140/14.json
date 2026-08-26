@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Saéstuna nu bener bakal muji ngaran-Mu; nu lempeng bakal ngicing ⟨את⟩ payuneun Anjeun.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Saéstuna"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "bakal muji"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ngaran-Mu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bakal ngicing"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payuneun Anjeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "payuneun Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:51.456770281Z",
+  "model": "glm-5.3"
+}

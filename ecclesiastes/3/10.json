@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Kuring nempo ⟨את⟩ éséan-gawé anu dipapaskeun ku Elohim ka anak-anak manusa, pikeun digawé dina éta.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "éséan-gawé"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "éséan-gawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipapaskeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "pikeun digawé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina éta"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:37.101102302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung kuring ngumpulkeun ⟨את⟩ manéh, sarta kuring ngitiungan ka luhur manéh seuneu kamaéhan kuring, jeung manéh bakal lééh di jerona.",
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "jeung kuring ngumpulkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ manéh",
+      "marks": "manéh (kamu)"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "sarta kuring ngitiungan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka luhur manéh"
+    },
+    {
+      "surface": "באש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "kamaéhan kuring"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "jeung manéh bakal lééh"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T13:51:14.111968286Z",
+  "model": "glm-5.3"
+}

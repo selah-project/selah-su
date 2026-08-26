@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sadaya nu gemuk dina bumi bakal dahar jeung sujud; sadaya nu turun ka keusik bakal lungkunyuk saméméh Anjeunna, jeung jiwa-na teu bisa ngahirupkeun dirina.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "bakal dahar"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "jeung sujud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "nu gemuk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "saméméh Anjeunna"
+    },
+    {
+      "surface": "יכרעu",
+      "gloss": "bakal lungkunyuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "nu turun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ka keusik"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "jeung jiwa-na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "bisa ngahirupkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:12.493805293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung anjeun nyieun dua kerubim tina emas; karya tinjah anjeun nyieun ⟨את⟩ aranjeunna, dina dua tungtung kapporet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "anjeun nyieun"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "karya tinjah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun nyieun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna (kerubim)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "dina dua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:00.949093008Z",
+  "model": "glm-5.3"
+}

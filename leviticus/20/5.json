@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Moal kuring nangtukeun muka kuring ka jalma eta jeung ka kulawargana, sarta moal kuring mupus anjeunna jeung ⟨את⟩ sagala nu mesum sanggeus anjeunna, pikeun mesum sanggeus Molekh, ti tengah bangsana.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "moal kuring nangtukeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muka kuring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka kuring"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ka jalma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "jeung ka kulawargana"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "sarta moal kuring mupus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anjeunna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sagala nu mesum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "nu mesum"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sanggeus anjeunna"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "pikeun mesum"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molekh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ti tengah"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bangsana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:15.561712415Z",
+  "model": "glm-5.3"
+}

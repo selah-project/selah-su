@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung Kami baris nyingkah ka ararinyana, jeung mimaludkeun ⟨את⟩ ararinyana, jeung ngarobaan ⟨את⟩ ararinyana, jeung ngadegkeun ⟨את⟩ perjangjian Kami ⟨את⟩ jeung ararinyana.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "jeung Kami baris nyingkah ka"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ararinyana"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "jeung mimaludkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ararinyana",
+      "marks": "mimaludkeun"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "jeung ngarobaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ararinyana",
+      "marks": "ngarobaan"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "jeung ngadegkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian Kami"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian Kami"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jeung ararinyana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:56.975924414Z",
+  "model": "glm-5.3"
+}

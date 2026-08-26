@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Sabab alatan Anjeun urang dipaéhan sapoe-sapoe; urang dianggap sakadaging pameuncitan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "alatan Anjeun"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "urang dipaéhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapoe-sapoe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "urang dianggap"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sakadaging"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "pameuncitan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:31:57.025407664Z",
+  "model": "glm-5.3"
+}

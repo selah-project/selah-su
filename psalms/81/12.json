@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Tapi umat Kami teu ngadangu ka sora Kami, sarta Yisrael teu daék barariring ka Kami.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Tapi teu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Kami"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "ka sora Kami"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "sarta Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "daék barariring"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:01.324705385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Pasangkeun ceuli ka abdi sarta walesanan abdi; abdi ngarambling dina sahut abdi jeung ngarenghap- renghap.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "pasangkeun ceuli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "sarta walesanan abdi"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "abdi ngarambling"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "dina sahut abdi"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "jeung ngarenghap-renghap"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:24.638825521Z",
+  "model": "glm-5.3"
+}

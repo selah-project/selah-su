@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 143,
+  "translation": "Gancang walesan kuring, Yahwe; ruas kuring geus kaleuleuwihan; ulah singumpulkeun beungeut-Mu tina kuring, bisi kuring jadi sarua jeung nu turun ka liang.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "walesan-kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "geus-kaleuleuwihan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruas-kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "singumpulkeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "beungeut-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tina-kuring"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "bisi-kuring-jadi-sarua-jeung"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "nu-turun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ka-liang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:45.028369896Z",
+  "model": "glm-5.3"
+}

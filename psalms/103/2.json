@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Ngaberkahan, jiwa kuring, ⟨את⟩ Yahwe, jeung ulah poho ka sadaya kahadéan-Na.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ngaberkahan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "poho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "kahadéan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:29.403560460Z",
+  "model": "glm-5.3"
+}

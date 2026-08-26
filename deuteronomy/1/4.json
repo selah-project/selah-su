@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "sanggeus ngéléhkeunana ⟨את⟩ Sihon, raja ka Emori, nu cicing di Heshbon, jeung ⟨את⟩ Og, raja ka Basan, nu cicing di Asytarot di Edrei",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "ngéléhkeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ka Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ka Basan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "di Asytarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "di Edrei"
+    }
+  ],
+  "timestamp": "2026-08-26T16:46:22.429683117Z",
+  "model": "glm-5.3"
+}

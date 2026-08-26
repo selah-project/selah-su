@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sarta ⟨manéhna⟩ bakal ngahukum ⟨את⟩ tibal dunya dina kabeneran, mihak ka bangsa-bangsa dina kajujuran.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "sarta manéhna"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ngahukum"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tibal dunya"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dina kabeneran"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "mihak"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ka bangsa-bangsa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "dina kajujuran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:13.895094965Z",
+  "model": "glm-5.3"
+}

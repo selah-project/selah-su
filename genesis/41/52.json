@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Jeung ⟨את⟩ ngaran nu kadua ditaréhan Efrayim, sabab Elohim ngajadikeun buah ka abdi di taneuh karunya abdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ngaran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ditaréhan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "ngajadikeun buah ka abdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "karunya abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:01.770217099Z",
+  "model": "glm-5.3"
+}

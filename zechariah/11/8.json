@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Teras kuring mupus ⟨את⟩ tilu tukang ngangon éta dina sa bulan; sarta jiwa kuring ceped ku aranjeunna, jeung jiwa maranéhna ogé kagets ku kuring.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "teras kuring mupus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilu tukang ngangon"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "tukang ngangon"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "dina sa bulan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "sarta ceped"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku aranjeunna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jiwa maranéhna"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "kagets"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ku kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:20:06.345188241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Pireungeuneun, éh boru, jeung tingali, jeung condongkeun ceuli anjeun; jeung poho bangsa anjeun jeung imah bapa anjeun.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "pireungeuneun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "éh boru"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "jeung tingali"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "jeung condongkeun"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ceuli anjeun"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "jeung poho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsa anjeun"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "jeung imah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:05.117657651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Jeung kajadianna abdi kakeunaan penderitaan sapanjang poé, jeung pomahan abdi kabawa unggal isuk-isuk.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "jeung kajadianna abdi"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "kakeunaan penderitaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "jeung pomahan abdi"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "unggal isuk-isuk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:13.772968256Z",
+  "model": "glm-5.3"
+}

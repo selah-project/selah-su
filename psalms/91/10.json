@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Teu bakal nyampeur ka manéh kabencatan, sarta wabar teu bakal ngadeukeutan ka hempe manéh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Teu"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "bakal nyampeur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka manéh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kabencatan"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "sarta wabar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "bakal ngadeukeutan"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ka hempe manéh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:44.713538010Z",
+  "model": "glm-5.3"
+}

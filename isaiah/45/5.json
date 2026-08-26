@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Abdi Yahwe, sareng teu aya deui; salian ti Abdi euweuh Elohim; Abdi ngapingit anjeun, padahal anjeun teu apal ka Abdi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sareng teu aya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "salian ti Abdi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ngapingit anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "padahal teu"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "apal ka Abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:58.474083104Z",
+  "model": "glm-5.3"
+}

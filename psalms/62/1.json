@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Kepada pangawina musik, keur Yedutun; mazmur keur Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pangawina musik"
+    },
+    {
+      "surface": "על",
+      "gloss": "keur"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "keur Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:15.260039516Z",
+  "model": "glm-5.3"
+}

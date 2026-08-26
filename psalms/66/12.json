@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Anjeun mawa manusa numpak di luhur sirah kami; kami asup kana seuneu jeung kana cai, tapi anjeun mawa kami kaluar ka kacukangan.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "anjeun mawa numpak"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "di luhur sirah kami"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "kami asup"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kana seuneu"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "jeung kana cai"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "anjeun mawa kami kaluar"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "ka kacukangan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:56.306623158Z",
+  "model": "glm-5.3"
+}

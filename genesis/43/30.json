@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Jeung Yusuf gancang pisan, sabab jeroeun atina geus pupuhu ka lanceuk-na, sarta anjeunna milari tempat bari; sarta anjeunna asup ka kamar eta, sarta oloh di dinya.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "gancang pisan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "geus pupuhu"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "jeroeun atina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "lanceuk-na"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "anjeunna milari"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "bari"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "anjeunna asup"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "ka kamar eta"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "anjeunna oloh"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:08.545896506Z",
+  "model": "glm-5.3"
+}

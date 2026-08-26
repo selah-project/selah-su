@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Poharana kuring mikeun diri kabur, tina angin nu ngahurinareun, tina badai.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "poharana kuring"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun diri kuring"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "tina angin"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "nu ngahurinareun"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "tina badai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:24.531393670Z",
+  "model": "glm-5.3"
+}

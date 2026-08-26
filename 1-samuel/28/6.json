@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Teras Shaul nanya ka Yahwe, tapi Yahwe henteu ngajawab anjeunna — lain dina impian, lain ku Urim, lain ogé ku para nabi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Teras nanya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ngajawab anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lain"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "dina impian"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lain"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "ku Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lain ogé"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "ku para nabi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:04.226877438Z",
+  "model": "glm-5.3"
+}

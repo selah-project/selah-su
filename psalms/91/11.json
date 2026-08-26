@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Sabab malaikat-malaikat-Na bakal diperentahkeun ka manéh, pikeun ngajaga manéh dina sakabéh jalan manéh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaikat-malaikat-Na"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "bakal diperentahkeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka manéh"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "pikeun ngajaga manéh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sakabéh"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan manéh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:44.713688674Z",
+  "model": "glm-5.3"
+}

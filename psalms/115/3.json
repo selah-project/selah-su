@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Ari Elohim kami ⟨mah⟩ di langit-langit, sagala nu dipikahoyong-Na ⟨geus⟩ dipigawé.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "ari Elohim kami"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit-langit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dipikahoyong-Na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:29.253731584Z",
+  "model": "glm-5.3"
+}

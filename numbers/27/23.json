@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung ngaleretkeun ⟨את⟩ leungeun-leungeunna ka luhureunana, sarta maréntah anjeunna, sagaligana anu diomongkeun Yahwe ku leungeun Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "jeung ngaleretkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun-leungeunna"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "leungeun-leungeunna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka luhureunana"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "jeung maréntah anjeunna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sagaligana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku leungeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:35:30.565043346Z",
+  "model": "glm-5.3"
+}

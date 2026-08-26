@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 143,
+  "translation": "Jeung taya budi kuring ka luhur suma-suma, jero dina jero kuring ati kuring jadi kataraké.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "taya budi ka luhur suma-suma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka luhureun kuring"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roh kuring"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "jero dina jero kuring"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "jadi kataraké"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:42.150296780Z",
+  "model": "glm-5.3"
+}

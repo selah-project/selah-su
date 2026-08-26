@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Paroh nyarita, Tisirep, ayeuna loba ⟨⟨és⟩⟩ bangsa nagara, jeung anjeun mawa aranjeunna eureun tina beban-bebanana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Tisirep"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "jeung anjeun mawa eureun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "tina beban-bebanana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:35.929456268Z",
+  "model": "glm-5.3"
+}

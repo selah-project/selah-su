@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Saha nu ngalakukeun jeung ngaridoskeunana, nu nyauran angkatan-angkatan ti mimiti? Abdi, Yahwe, Nu Munggaran, jeung ⟨את⟩ nu-nu ahir abdi ogé Anjeuna.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jeung ngaridoskeunana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nyauran"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "angkatan-angkatan"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ti mimiti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "Nu Munggaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu-nu ahir"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "nu-nu ahir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Anjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:13:11.940335993Z",
+  "model": "glm-5.3"
+}

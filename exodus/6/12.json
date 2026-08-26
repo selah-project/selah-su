@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Teras Moshe ngomong di payuneun Yahwe, ninjang: Ih, barudak Yisrael ogé henteu ngadangu ka abdi, kumaha deui Paroh hayang ngadangu ka abdi, padahal abdi bibirna can disunat.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninjang"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kumaha deui"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "ngadangu ka abdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "padahal abdi"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "can disunat"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibir"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:19.581563203Z",
+  "model": "glm-5.3"
+}

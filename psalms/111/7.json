@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Gawé leungeun-Na ⟨nyaeta⟩ bener jeung adil; sadaya parentah-Na bisa dipercaya.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "leungeun-Na"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bener"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jeung adil"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "bisa dipercaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "parentah-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:16.445765501Z",
+  "model": "glm-5.3"
+}

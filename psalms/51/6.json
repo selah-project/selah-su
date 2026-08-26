@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Ka Anjeun, ka Anjeun wungkul abdi ngadosa, jeung nu goreng dina panon Anjeun abdi pigawe, sangkan Anjeun dibeneran dina omong Anjeun, bebas salah dina puteran Anjeun.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ka Anjeun"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ka Anjeun wungkul"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "abdi ngadosa"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "jeung nu goreng"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "dina panon Anjeun"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "abdi pigawe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "Anjeun dibeneran"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "dina omong Anjeun"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "bebas salah"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "dina puteran Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:44.409448772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Kuring miringkeun ati kuring pikeun ngalaksanakeun ukum-ukum Anjeun salawasna, tepi ka tungtung.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "kuring miringkeun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun ngalaksanakeun"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ukum-ukum Anjeun"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tepi ka tungtung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:51.545341294Z",
+  "model": "glm-5.3"
+}

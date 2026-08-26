@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung ⟨את⟩ sadaya raja-raja ieu jeung ⟨את⟩ taneuh maranjeunana pibanda Yehoshua sakaligus, sabab Yahwe, Elohimna Israél, nu perang pikeun Israél.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya raja-raja ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh maranjeunana"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "taneuh maranjeunana"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "pibanda"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kali"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sakaligus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pikeun Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:35.806731028Z",
+  "model": "glm-5.3"
+}

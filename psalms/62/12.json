@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Sakalieun Elohim geus nyarita; dua kali ieu kuring ngadenge — yén kakuatan ⟨is⟩ pikeun Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "sakalieun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua kali"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuring ngadenge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuatan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pikeun Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:40.615851647Z",
+  "model": "glm-5.3"
+}

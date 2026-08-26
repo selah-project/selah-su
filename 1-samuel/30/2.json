@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Maranéhna mawa tawanan ⟨את⟩ awéwé-awéwé nu aya di dinya, ti nu leutik nepi ka nu gedé; maranéhna teu maéhan saurangeun ogé, tapi mawa maranéhna indit sajangkunganna.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "mawa tawanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awéwé-awéwé"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "awéwé-awéwé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ti nu leutik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nu gedé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "maéhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurangeun"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "mawa maranéhna"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "sajangkunganna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:02.388051945Z",
+  "model": "glm-5.3"
+}

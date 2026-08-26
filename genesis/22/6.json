@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung Avraham nyandak ⟨את⟩ kai-kai kurban bakar, dipasang kana Yitsxak putrana; jeung anjeunna nyandak dina leungeunana ⟨את⟩ seuneu jeung ⟨את⟩ bedil; duanana leumpang babarengan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kai-kai kurban bakar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai-kai"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "jeung masang"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dina leungeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seuneu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bedil"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "bedil"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jeung leumpang"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duanana"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:04.430763905Z",
+  "model": "glm-5.3"
+}

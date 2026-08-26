@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ieu ⟨are⟩ pasamoan-waktos Yahwe, pasamoan suci, nu aranjeunna seruan ⟨את⟩ maranéhna dina waktosna-masing-masing.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "pasamoan-waktos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "pasamoan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "aranjeunna seruan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "dina waktosna-masing-masing"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:34.712467664Z",
+  "model": "glm-5.3"
+}

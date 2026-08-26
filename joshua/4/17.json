@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Teras Yéhoshua maréntahkeun ⟨את⟩ ⟨para⟩ imam, sangkan nyarita: Tambahan ti Yarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "teras maréntahkeun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Tambahan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:48.701172317Z",
+  "model": "glm-5.3"
+}

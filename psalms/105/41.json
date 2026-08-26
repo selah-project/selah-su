@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Anjeunana muka ⟨את⟩ batu sarta cai ngocor, ngocor di tempat-tempat garing jadi walungan.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ngocor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ngocor\/berjalan"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "di tempat-tempat garing"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "walungan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:32.665737957Z",
+  "model": "glm-5.3"
+}

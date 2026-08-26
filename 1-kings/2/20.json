@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung katanya: Hiji pamundut leutik anu abdi puntaseun ti ⟨⟨את⟩⟩ anjeun, ulah pulihkeun ⟨את⟩ beungeut abdi. Jeung katanya raja ka anjeunna: Puntaseun, indung abdi, sabab abdi moal pulihkeun ⟨את⟩ beungeut anjeun.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "jeung katanya"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "pamundut"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "leutik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "puntaseun"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ti ⟨את⟩ anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "pulihkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beungeut abdi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut abdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung katanya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "puntaseun"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "indung abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "abdi pulihkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beungeut anjeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "beungeut anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:29.479986740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Nalika jama jahat nambah, palanggaran ngaronjat; tapi nu-nu adil nempo kana karuntukanana.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "nalika nambah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jama jahat"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ngaronjat"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "palanggaran"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "tapi nu-nu adil"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "ka karuntukanana"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nempo"
+    }
+  ],
+  "timestamp": "2026-08-26T15:04:08.264717655Z",
+  "model": "glm-5.3"
+}

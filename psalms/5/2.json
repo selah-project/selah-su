@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Kecap-kecap abdi, sarakolanana, wahé Yahwe; paososana ranji-ranji abdi.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "kecap-kecap abdi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "sarakolanana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "paososana"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "ranji-ranji abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:37.124178176Z",
+  "model": "glm-5.3"
+}

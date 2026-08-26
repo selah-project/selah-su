@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ⟨את⟩ raja Aj aranjeunna nyekel hirup-hirup, terus aranjeunna mawa ⟨את⟩ anjeunna ka Yéhoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "raja Aj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aj"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "nyekel"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup-hirup"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "terus aranjeunna mawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "Yéhoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhoshua"
+    }
+  ],
+  "timestamp": "2026-08-26T11:55:42.443290028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Sadaya jalan-jalan Yahwe ⟨nya⟩ xesed jeung bener, pikeun nu ngajaga perjangjian-Na jeung pasaksian-Na.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sadaya"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jeung bener"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "pikeun nu ngajaga"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjangjian-Na"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "jeung pasaksian-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:46.247147208Z",
+  "model": "glm-5.3"
+}

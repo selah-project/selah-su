@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Adonay nyarita: Ti Bashan abdi bawa balik, abdi bawa balik tina jero-jero laut.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Ti Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "abdi bawa balik"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "abdi bawa balik"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "tina jero-jero"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:02.168989213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung baris méré rahmat ka anjeun, jeung baris welas ka ⟨את⟩ anjeun, jeung baris mulangkeun ⟨את⟩ anjeun ka taneuh anjeun.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Jeung baris méré"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rahmat"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "jeung baris welas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "jeung baris mulangkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "taneuh anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:38:43.054408791Z",
+  "model": "glm-5.3"
+}

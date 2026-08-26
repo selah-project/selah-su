@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Ciptakeun ati suci pikeun kuring, wahai Elohim, tur roh nu ajeg anyarkeun di jero awak kuring.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ciptakeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun kuring"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "tur roh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nu ajeg"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyarkeun"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di jero awak kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:19.687156015Z",
+  "model": "glm-5.3"
+}

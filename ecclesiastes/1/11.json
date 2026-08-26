@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Euweuh émut ka nu baheula, jeung ogé ka nu bakal datang moal aya émut keur aranjeuna bareng jeung nu bakal aya ti mimiti.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "émut"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "ka nu baheula"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "ka nu bakal datang"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "nu bakal aya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "keur aranjeuna"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "émut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng jeung"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "nu bakal aya"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "nu ti mimiti"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:10.320683192Z",
+  "model": "glm-5.3"
+}

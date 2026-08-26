@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Leuleuyan bumisareng sadaya nu nyicingananana, abdi nyalira nangtungkeun tihang-tihangna. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "leuleuyan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sareng sadaya"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "nu nyicingananana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi nyalira"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "nangtungkeun"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "tihang-tihangna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:44.562002170Z",
+  "model": "glm-5.3"
+}

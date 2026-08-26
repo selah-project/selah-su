@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Nu ngadangukeun(doa), ka Anjeun sakabéh daging bakal datang.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nu ngadangukeun"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakal datang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:38.883787155Z",
+  "model": "glm-5.3"
+}

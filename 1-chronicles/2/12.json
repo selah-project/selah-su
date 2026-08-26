@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Boaz marengkeun ⟨את⟩ Oved, jeung Oved marengkeun ⟨את⟩ Yishai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "jeung Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "marengkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "jeung Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "marengkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:52.992267296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung anjeun teu nyeserkeun abdi ka leungeun musuh; anjeun ngadegkeun suku abdi di tempat lega.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung-teu"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "nyeserkeun-abdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka-leungeun"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ngadegkeun"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "di-tempat-lega"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "suku-abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:39.206528666Z",
+  "model": "glm-5.3"
+}

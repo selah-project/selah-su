@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Tuluy Yahwe nempatkeun kecap dina sungut Bilam, sarta ⟨manehna⟩ ngomong: Balik deui ka Balak, sarta kitu anjeun ngomong.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Tuluy nempatkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dina sungut"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Balik deui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "sarta kitu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "anjeun ngomong"
+    }
+  ],
+  "timestamp": "2026-08-26T11:33:35.872490988Z",
+  "model": "glm-5.3"
+}

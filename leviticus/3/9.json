@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 3:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung manéhna mawa ti kurban shelamim hiji persembahan seuneu pikeun Yahwe: lemakna, buntut gendut anu lengkep, gigireun buku tonggong manéhna miceunnana, jeung ⟨את⟩ lemak nu mungkus ⟨את⟩ jerohan, jeung ⟨את⟩ sakabéh lemak nu aya luhureun jerohanana.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "jeung mawa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan seuneu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "lemakna"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "buntut gendut"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "anu lengkep"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "gigireun"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "buku tonggong"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "manéhna miceunnana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nu mungkus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jerohan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "jerohan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "jerohanana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:22.902832734Z",
+  "model": "glm-5.3"
+}

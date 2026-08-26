@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Nalika maranehna nangtung, ieu ogé nangtung; sareng nalika maranehna ngangkat, ieu ogé ngangkat ⟨את⟩ maranehna; sabab ruach nu hirup aya di jerona.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "nalika maranehna nangtung"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ieu ogé nangtung"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "sareng nalika maranehna ngangkat"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ieu ogé ngangkat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ maranehna",
+      "marks": "roda-roda nu diangkat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di jerona"
+    }
+  ],
+  "timestamp": "2026-08-26T13:46:07.191176595Z",
+  "model": "glm-5.3"
+}

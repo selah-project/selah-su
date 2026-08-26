@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Lajeng dibejakeun ka Sha-ul yén Dawid asup ka Keila; sarta Sha-ul nyauran: Elohim geus ngahuleng ⟨את⟩ manéhna kana leungeun abdi, sabab geus kaéjebkeun asup kana kota nu mibanda panto jeung palang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dibejakeun"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka Sha-ul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "בא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyauran"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ngahuleng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "kana leungeun abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "kaéjebkeun"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kana kota"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "panto"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "jeung palang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:29.103795434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Anjeun nolak perjangjian abdi-Mu, Anjeun nanajiskeun tutuwuhanna ka taneuh.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "nolak"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "nanajiskeun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ka taneuh"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "tutuwuhanna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:45.544896200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Atalya, indungna Axya, nempo yen maot putrana, tuluy manehna ngadeg sarta ngancurkeun ⟨את⟩ sadayana katurunan ⟨the⟩ karajaan.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Jeung Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Axya"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana katurunan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "katurunan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:57:41.418566725Z",
+  "model": "glm-5.3"
+}

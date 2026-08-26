@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Yahwe Elohum nyaur ⟨את⟩ manusa éta, sarta Nyarita ka anjeunna, Dupi anjeun aya di mana?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nyaur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta Nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "di mana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:43.002402865Z",
+  "model": "glm-5.3"
+}

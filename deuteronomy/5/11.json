@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Ulah ngangkat ⟨את⟩ ngaran Yahwe, Elohim anjeun, jadi sia-sia; sabab Yahwe moal méré bébas ka saha nu ngangkat ⟨את⟩ ngaran-Na jadi sia-sia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "jadi sia-sia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "méré bébas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ngangkat ngaran-Na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran-Na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaran-Na"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "jadi sia-sia"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:32.568003206Z",
+  "model": "glm-5.3"
+}

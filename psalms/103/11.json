@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Sabab sabanding luhurna langit-langit di luhur bumi, kanyaah satia perjangjian-Na nyatus ngaleuwihan anu biji ka Anjeunna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sabanding luhurna"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nyatus ngaleuwihan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia perjangjian-Na"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaleuwihan (di luhur)"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "anu biji ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:49.714566845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Pangbébasan manéhna kirim ka umat-Na; manéhna maréntahkeun salawasna perjangjian-Na; suci jeung ngagirisi jenengan-Na.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "pangbébasan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kirim"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ka umat-Na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjangjian-Na"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "jeung ngagirisi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenengan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:50.457008398Z",
+  "model": "glm-5.3"
+}

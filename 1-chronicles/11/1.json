@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Tuluy sakabéh Yisrael ngumpul ka David ka Hevron, nyarita: Pandang, tulang anjeun jeung daging anjeun, kami mah.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ngumpul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ka Hevron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pandang"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "tulang anjeun"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "jeung daging anjeun"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-08-26T16:09:37.890446813Z",
+  "model": "glm-5.3"
+}

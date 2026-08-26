@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Teras Avraham ngadeg sarta sujud ka bangsa tanah, ka putra-putra Het.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "teras ngadeg"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sarta sujud"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ka bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka putra-putra"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:00.339076144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahwe Tzevaot, Anjeunna aranjeun nyucikeun; sarta Anjeunna jadi kabeurian aranjeun, sarta Anjeunna jadi kairieuyan aranjeun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tzevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Anjeunna"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "aranjeun nyucikeun"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sarta Anjeunna"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "jadi kabeurian aranjeun"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sarta Anjeunna"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "jadi kairieuyan aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:27.194969341Z",
+  "model": "glm-5.3"
+}

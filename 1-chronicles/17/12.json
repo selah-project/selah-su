@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Manéhna bakal ngawangun pikeun kuring imah, jeung kuring bakal ngukuhkeun ⟨את⟩ tahtana nepi ka salawasna.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bakal ngawangun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun kuring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "jeung kuring bakal ngukuhkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahtana"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tahtana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:13:29.550259247Z",
+  "model": "glm-5.3"
+}

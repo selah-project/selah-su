@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Yahwe Elohim Tzevaot, nepi ka maha lilana anjeun ngahaseutan uap ka doa bangsa anjeun?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "maha lilana"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "ngahaseutan uap"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "ka doa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsa anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:15.198824955Z",
+  "model": "glm-5.3"
+}

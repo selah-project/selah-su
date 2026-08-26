@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Nepi ka kuring asup kana tempat sucina El, kuring ngartos ka ahir maranéhanana.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kuring asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "tempat sucina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "kuring ngartos"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ka ahir maranéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:24.916638209Z",
+  "model": "glm-5.3"
+}

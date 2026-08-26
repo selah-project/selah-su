@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ieu ⟨the⟩ kecap-kecap nu diomongkeun ku Moshe ka sakumuruhan Yisrael, di seberangeun Yarden, di gurun, di Arabah, paturay jeung Suf, antawis Paran jeung Tofel, jeung Lavan, jeung Xatserot, jeung Di-Zahav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨the⟩ kecap-kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumuruhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di seberangeun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di Arabah"
+    },
+    {
+      "surface": "מול",
+      "gloss": "paturay jeung"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antawis"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antawis"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "jeung Lavan"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "jeung Xatserot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "jeung Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    }
+  ],
+  "timestamp": "2026-08-26T16:45:54.337577640Z",
+  "model": "glm-5.3"
+}

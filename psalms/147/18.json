@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Ngintunkeun kecap-Na sarta ngaleleuhkeun ⟨aranjeuna⟩; mairkeun angin-Na, cai ngocor.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ngintunkeun"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kecap-Na"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ngaleleuhkeun"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mairkeun"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "angin-Na"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ngocor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:43.495048353Z",
+  "model": "glm-5.3"
+}

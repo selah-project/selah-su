@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 128,
+  "translation": "Pamajikan anjeun ⟨kawas⟩ ── jiga ── anggur buah di sagiger imah anjeun; putra-putra anjeun ── jiga ── tatangkalan zaitun nguriling méja anjeun.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Pamajikan anjeun"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "jiga anggur"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "di sagiger"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imah anjeun"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "putra-putra anjeun"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "jiga tatangkalan"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nguriling"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "méja anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:47.787058748Z",
+  "model": "glm-5.3"
+}

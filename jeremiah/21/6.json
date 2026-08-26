@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung abdi baris ngagebug ⟨את⟩ pangeusi kota ieu, jeung ⟨את⟩ manusa, jeung ⟨את⟩ sasatoan; ku wabah nu agung maranehna baris paéh.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "baris ngagebug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangeusi kota ieu"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "pangeusi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manusa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sasatoan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sasatoan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ku wabah"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nu agung"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "baris paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:30:06.497792511Z",
+  "model": "glm-5.3"
+}

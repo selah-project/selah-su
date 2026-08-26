@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Jadi dina poé ⟨the⟩ kadua sanggeus maéhan ⟨את⟩ Gedalyahu, saurang ogé teu nyaho.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pikeun maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung saurang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T17:04:23.496973689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Kecap Yahwe nu kajadi ka Yoel, putra Ptuel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kajadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Ptuel"
+    }
+  ],
+  "timestamp": "2026-08-26T17:07:52.002464048Z",
+  "model": "glm-5.3"
+}

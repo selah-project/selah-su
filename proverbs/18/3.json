@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Dina datangna nu jahat, datang ogé kahinaan, jeung bareng jeung aib, kacacidean.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "dina datangna"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kahinaan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "bareng jeung"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "aib"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kacacidean"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:41.659456293Z",
+  "model": "glm-5.3"
+}

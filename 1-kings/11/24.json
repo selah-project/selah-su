@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung anjeunna ngumpulkeun ka dirina sababaraha lalaki, sarta jadi panglima rombongan waktu Dawid maéhan ⟨את⟩ maranehna; lajeng maranehna angkat ka Damasyik, sarta dumuk di dinya, sarta maréntah di Damasyik.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ngumpulkeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka dirina"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "rombongan"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "waktu maéhan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lajeng angkat"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasyik"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "sarta dumuk"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "sarta maréntah"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "di Damasyik"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:01.034968275Z",
+  "model": "glm-5.3"
+}

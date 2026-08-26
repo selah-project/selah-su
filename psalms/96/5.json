@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 96,
+  "translation": "Sabab sadaya allah-allah ⟨ka⟩ bangsa-bangsa teh eling (idola), tapi Yahwe nu nyieun ⟨את⟩ langit-langit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "eling (idola)"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "tapi Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit-langit",
+      "marks": null
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyieun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:36.458316335Z",
+  "model": "glm-5.3"
+}

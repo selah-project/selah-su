@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Anjeunna ngitung aranjeunna di Vezek, sarta putra-putra Yisrael jadi tilu ratus rebu, sarta lalaki Yehuda tilu puluh rebu.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Anjeunna ngitung aranjeunna"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Vezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rebu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sarta lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rebu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:17:02.076463397Z",
+  "model": "glm-5.3"
+}

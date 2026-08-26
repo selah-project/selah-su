@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Tungtun ⟨the⟩ bobotohan, sakabéh geus kadangu: hariwang ka Elohim, sarta awas-awas ⟨את⟩ paréntah-Na, sabab ieu ⟨is⟩ sadayana manusa.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "tungtun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bobotohan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hariwang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "paréntah-Na"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "paréntah-Na"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "awas-awas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:35:36.596019718Z",
+  "model": "glm-5.3"
+}

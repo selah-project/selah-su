@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Sarta imam ngicikkeun ⟨את⟩ getih kana altar Yahwe di panto kemah patempatan, sarta ngaduruk ⟨the⟩ gajih jadi seungit nu mere kanyenyeuh keur Yahwe.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "sarta ngicikkeun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patempatan"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "sarta ngaduruk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gajih"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "jadi seungit"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nu mere kanyenyeuh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "keur Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:12.493183542Z",
+  "model": "glm-5.3"
+}

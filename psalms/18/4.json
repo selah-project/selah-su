@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Nu Kaluhur-puji, kuring nyaur Yahwe, sarta ti musuh-musuh kuring kuring bakal salamet.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Nu Kaluhur-puji"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kuring nyaur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "sarta ti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuh kuring"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "kuring bakal salamet"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:17.070696198Z",
+  "model": "glm-5.3"
+}

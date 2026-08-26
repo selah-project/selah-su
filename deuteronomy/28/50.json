@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Bangsa tarangkées raray, nu teu mairih raray ka nu kolot, jeung ka nu ngora teu mikaasihan.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tarangkées"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "raray"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mairih"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "raray"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ka nu kolot"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "jeung ka nu ngora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "mikaasihan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:53.034287611Z",
+  "model": "glm-5.3"
+}

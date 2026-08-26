@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Sakali Kami geus sumpah ku kakudusan-Kami: lamun ka David Kami bakal ngarugikeun.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "sakali"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Kami geus sumpah"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "ku kakudusan-Kami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "Kami bakal ngarugikeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:32.208378455Z",
+  "model": "glm-5.3"
+}

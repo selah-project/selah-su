@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jalan-jalanana ngawur sagala waktu; hukum-hukum Anjeun luhur pisan ti payuneunana; sagala lawan-lawanna dibelbelanana.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "ngawur"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalan-jalanana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "luhur pisan"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum Anjeun"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "ti payuneunana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "lawan-lawanna"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "dibelbelanana"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:23.451571427Z",
+  "model": "glm-5.3"
+}

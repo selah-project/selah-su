@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 110,
+  "translation": "Bangsa anjeun salila-suka dina poé kakuatan anjeun, dina kameumeutan suci; ti beling wancina fajar, bogana anjeun nya éta ciseeus kateuna ngora anjeun.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "bangsa anjeun"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "salila-suka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "kakuatan anjeun"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "dina kameumeutan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ti beling"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "wancina fajar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bogana anjeun"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ciseeus"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "kateuna ngora anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:01.666992783Z",
+  "model": "glm-5.3"
+}

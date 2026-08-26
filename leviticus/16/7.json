@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung manéhna nyandak ⟨את⟩ dua domba jalu embun éta, sarta nangtungkeun aranjeunna di payuneun Yahwe, di panto ténda papanggihan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "jeung manéhna nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua domba jalu embun éta"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "domba jalu embun éta"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "sarta nangtungkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "dua domba jalu embun éta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ténda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "papanggihan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:47.666268482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Tuluy abdi nempatkeun di dinya ⟨את⟩ tabut, nu di jerona perjangjian Yahwe, nu geus dipotong jeung putra-putra Israél.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "abdi nempatkeun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di jerona"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:58.248998445Z",
+  "model": "glm-5.3"
+}

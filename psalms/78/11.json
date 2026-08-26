@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Sarta maranéhna poho kana pagawéan-Na jeung hal-hal éndah-Na nu diténjokeun-Na ka maranéhna.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "sarta maranéhna poho"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "kana pagawéan-Na"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "jeung hal-hal éndah-Na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "diténjokeun-Na ka maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:56.284851781Z",
+  "model": "glm-5.3"
+}

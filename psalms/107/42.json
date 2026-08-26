@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Nu lempeng niténan jeung bungah, jeung sagala kalalayan ngeupeulkeun sungutna.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "niténan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "jeung bungah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sagala"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kalalayan"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ngeupeulkeun"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sungutna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:14.381073356Z",
+  "model": "glm-5.3"
+}

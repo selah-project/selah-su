@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Anjeunna ngarégap: teu ⟨aya⟩ sora ngarérég kameungan, sarta teu ⟨aya⟩ sora ngarérég kasoran; sora ngarérég kuring nu ngadangu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngarégap"
+    },
+    {
+      "surface": "אין",
+      "gloss": "teu aya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ngarérég"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "kameungan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sarta teu aya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ngarérég"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "kasoran"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ngarérég"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nu ngadangu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:05.884946731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Ti ⟨את⟩ anak-anak gumanti munggaran bani Israyel anjeunna nyandak ⟨את⟩ pituduh-pituduh: lima jeung genep puluh jeung tilu ratus jeung saréwu, ku syékel suci;",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak gumanti munggaran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anjeunna nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pituduh-pituduh"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pituduh-pituduh"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "jeung genep puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "jeung saréwu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ku syékel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:07.768840356Z",
+  "model": "glm-5.3"
+}

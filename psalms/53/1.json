@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 53,
+  "translation": "Pikeun dirigen, nurutkeun Machalat, panguleman ti Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun dirigen"
+    },
+    {
+      "surface": "על",
+      "gloss": "nurutkeun"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "panguleman"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:39.366682953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Sadayana geus milampah, babarengan geus karacut, euweuh nu migawe hadé, euweuh, malah hiji.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Sadayana"
+    },
+    {
+      "surface": "סר",
+      "gloss": "geus milampah"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "geus karacut"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu migawe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:06.511000364Z",
+  "model": "glm-5.3"
+}

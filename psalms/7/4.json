@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Yahwe, Elohim kuring, upami kuring ngalakonan ieu, upami aya kaluputan dina dampal leungeun kuring.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kuring ngalakonan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "יש",
+      "gloss": "aya"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "dina dampal leungeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:44.646260138Z",
+  "model": "glm-5.3"
+}

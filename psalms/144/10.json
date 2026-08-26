@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Anjeunnana nu méré ka pareungan ka raja-raj, nu ngabébaskeun ⟨את⟩ Dawid abdina tina pedang jaah.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "nu méré"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ka pareungan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ka raja-raj"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "nu ngabébaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdina"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "tina pedang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jaah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:34.253681652Z",
+  "model": "glm-5.3"
+}

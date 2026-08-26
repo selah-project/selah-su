@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kawas ti baturuttu, karajinan papaakeun, maranéhna; jeung teu nyarita; kudu dibawa sabab teu leumpang. Ulah sieun ka maranéhna, sabab teu bisa ngaruksak, ogokana mawa hadé euweuh ⟨di⟩ maranéhna.",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "kawas ti baturuttu"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "karajinan papaakeun"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "kudu dibawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ngaruksak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogokana"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "mawa hadé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:25:44.160752309Z",
+  "model": "glm-5.3"
+}

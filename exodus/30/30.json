@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung ⟨את⟩ Aharon jeung ⟨את⟩ putra-putrana anjeun ngaminyakan, jeung anjeun nyucikeun ⟨את⟩ maranehna jadi imam pikeun Kaula.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "anjeun ngaminyakan"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jeung anjeun nyucikeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "jadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Kaula"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:01.476512300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Bageur Yahwe jeung adil, jeung Elohim urang mika rahayu.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Bageur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "jeung adil"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "jeung Elohim urang"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mika rahayu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.462684277Z",
+  "model": "glm-5.3"
+}

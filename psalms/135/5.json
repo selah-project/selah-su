@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Sabab abdi terang yén Yahwe ⟨is⟩ agung, jeung Adonay urang langkung luhur ti sadaya allah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "terang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "jeung Adonay urang"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "langkung luhur ti sadaya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:52.748276177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung sanggeus aranjeuna asup ka kampo Israél, Israél bangkit sarta ngangeukeuh ⟨את⟩ Moab, jeung maranehna kabur ti payun maranehna; terus aranjeuna asup ka dinya, ngangeukeuhan ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ngangeukeuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "kabur"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ti payun maranehna"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "asup"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka dinya"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "ngangeukeuhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-26T12:50:49.361920071Z",
+  "model": "glm-5.3"
+}

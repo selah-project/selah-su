@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Sabab pangawasa-na geus aya di Tsoan, jeung utusan-na nepi ka Khanés.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "היו",
+      "gloss": "geus aya"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "di Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "pangawasa-na"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "jeung utusan-na"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "ka Khanés"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "nepi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:22.771847846Z",
+  "model": "glm-5.3"
+}

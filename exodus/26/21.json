@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "jeung opat puluh panungtunganana ⟨כסף⟩: dua panungtungan sahandapeun papan ⟨את⟩ nu hiji, jeung dua panungtungan sahandapeun papan ⟨את⟩ nu hiji;",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "jeung opat puluh"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "panungtunganana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "panungtungan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "panungtungan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sahandapeun"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:52.591883872Z",
+  "model": "glm-5.3"
+}

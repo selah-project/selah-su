@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Péso na teu dibikeun ka riba, jeung suap lawan ka nu teu dosa teu dicandak; nu migawé ieu moal goyah salawasna.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "péso-na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ka riba"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "jeung suap"
+    },
+    {
+      "surface": "על",
+      "gloss": "lawan"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nu teu dosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "migawé"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "goyah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:21.019777340Z",
+  "model": "glm-5.3"
+}

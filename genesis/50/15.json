@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Saudara-saudara Yosef nempo yén bapana geus maot, sarta maranéhna nyarita, Mugia Yosef ulah ngaheimeran kami, mugia manéhna mayar balik ka kami ⟨את⟩ sagala kajahatan nu kami pigawé ka ⟨את⟩ manéhna.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "מת",
+      "gloss": "geus maot"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta maranéhna nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mugia"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "ulah ngaheimeran kami"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "mugia mayar balik"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mayar balik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala kajahatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "kami pigawé"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(ka manéhna)"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:08.283159963Z",
+  "model": "glm-5.3"
+}

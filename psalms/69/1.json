@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Pikeun nu mingpin, luhureun Shoshannim, mila Daud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun nu mingpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mila Daud"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:49.526510037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung ⟨את⟩ ieu kudu kahieunan ku manéh di antara manuk-manuk: teu kudu didahar, kabeuratan maranéhna: ⟨את⟩ elang, jeung ⟨את⟩ elang janggut, jeung ⟨את⟩ elang lauk.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ieu (manuk-manuk)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kudu kahieunan ku manéh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manuk-manuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kudu didahar"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kabeuratan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elang"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "elang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elang janggut"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "elang janggut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elang lauk"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "elang lauk"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:29.635453928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Émut ⟨את⟩ poé poé-istirahat pikeun nyucikeun éta.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Émut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poé poé-istirahat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "poé-istirahat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pikeun nyucikeun éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:20.616687274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Wawar nu ti pamberontakan ka nu jahat, di jero atining abdi: euweuh kasieun ka Elohim di payuneun panonna.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "wawar"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pamberontakan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ka nu jahat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di jero"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ating abdi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kasieun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "panonna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:23.386475309Z",
+  "model": "glm-5.3"
+}

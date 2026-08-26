@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Meh ngarandasa abdi maranehna di bumi, tapi abdi teu nyingkeung pidandi-pidandi-Mu.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "meh"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "ngarandasa abdi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tapi abdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "nyingkeung"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pidandi-pidandi-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:19.197414308Z",
+  "model": "glm-5.3"
+}

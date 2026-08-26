@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Anjeunna milih ⟨את⟩ warisan urang, ⟨את⟩ kamulyaan Yaakov nu dipikanyaah-Na. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "milih"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warisan urang"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "warisan urang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyaan Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dipikanyaah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:19.284611078Z",
+  "model": "glm-5.3"
+}

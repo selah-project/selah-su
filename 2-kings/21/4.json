@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung anjeunna ngawangun mézbéah-mézbéah di bumi Yahwe, nu ceuk Yahwe: di Yerushalaim kuring nempatkeun ⟨את⟩ ngaran-Ku.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "jeung anjeunna ngawangun"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "mézbéah-mézbéah"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "kuring nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran-Ku"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ngaran-Ku"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:56.072344076Z",
+  "model": "glm-5.3"
+}

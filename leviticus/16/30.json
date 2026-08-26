@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sebab dina poé ieu ⟨dijieun⟩ ngabirui pikeun aranjeun, pikeun nyucikeun ⟨את⟩ aranjeun tina sagala dosa aranjeun; di payun Yahwe aranjeun sucia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ngabirui"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pikeun aranjeun"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "pikeun nyucikeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tina sagala"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosa aranjeun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "aranjeun sucia"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:13.928831554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Naha bakal dijieun ku manusa elohim pikeun dirina, padahal maranehna lain elohim?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "naha bakal dijieun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun dirina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ku manusa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "padahal maranehna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T17:00:59.701433368Z",
+  "model": "glm-5.3"
+}

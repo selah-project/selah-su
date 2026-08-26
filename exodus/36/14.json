@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung anjeunna nyieun lain-lain kain bulu embé pikeun taruntuh di luhureun ⟨the⟩ kemah: Geneplikasabelas lain-lain kain dijieun ⟨את⟩ aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anjeunna nyieun"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "lain-lain kain"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "embé"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "pikeun taruntuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "-likasabelas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "genep-likasabelas"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "lain-lain kain"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "aranjeunna (genep-likasabelas lain-lain kain)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:57.595537317Z",
+  "model": "glm-5.3"
+}

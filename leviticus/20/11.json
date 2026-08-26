@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung jalma nu saré jeung ⟨את⟩ pamajikan bapana, kalayan telenginger bapana dibuka, paéh dipaéhan duanana; getih maranéhna aya dina maranéhna.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jeung jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikan bapana"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "telenginger"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "dibuka"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "dipaéhan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duanana"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "getih maranéhna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dina maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:24.366118466Z",
+  "model": "glm-5.3"
+}

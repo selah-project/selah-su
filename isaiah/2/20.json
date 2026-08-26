@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Dina poé eta manusa bakal miceun ⟨את⟩ berhala-berhala pérakna jeung ⟨את⟩ berhala-berhala emasna, nu dijieun ku maranehna pikeun sujud, ka celeng-celeng jeung ka kokojo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "bakal miceun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhala-berhala pérakna"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "berhala-berhala"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "pérakna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "berhala-berhala emasna"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "berhala-berhala"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "emasna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dijieun ku maranehna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manéhna"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "pikeun sujud"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "ka celeng-celeng"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "(nu nyieun liang)"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "jeung ka kokojo"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:40.338868789Z",
+  "model": "glm-5.3"
+}

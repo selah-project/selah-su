@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Sabab manehna ngahampelas dirina sorangan dina panonna sorangan, nepi ka katimana kalalawanna pikeun dibenci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "ngahampelas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dirina"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dina panonna sorangan"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "nepi ka katimana"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kalalawanna"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "pikeun dibenci"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:23.386636084Z",
+  "model": "glm-5.3"
+}

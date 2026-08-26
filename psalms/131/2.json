@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 131,
+  "translation": "Sungguh, abdi geus nyaruntinkeun jeung ngeundeukikeun nefesh abdi, saperti budak nyusu anu disapih ku indungna; saperti budak anu disapih, kitu nefesh abdi ka abdi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "abdi geus nyaruntinkeun"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "jeung ngeundeukikeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "saperti budak nyusu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "saperti budak anu disapih"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:29.556061735Z",
+  "model": "glm-5.3"
+}

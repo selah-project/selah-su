@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Yahwe ngandik ka Moshe: Ombil ka Aharon: Lejerkeun ⟨את⟩ tongkat anjeun, jeung pukul ⟨את⟩ keusik ⟨the⟩ bumi, jadi manjing kinim di sakabéh taneuh Misir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-ngandik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ombil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "lejerkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat anjeun"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tongkat-anjeun"
+    },
+    {
+      "surface": "והך",
+      "gloss": "jeung-pukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keusik"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "keusik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "jadi-manjing"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "kinim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di-sakabéh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misir"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:43.018335764Z",
+  "model": "glm-5.3"
+}

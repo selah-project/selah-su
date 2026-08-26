@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ⟨את⟩ ladang ⟨the⟩ kota jeung ⟨את⟩ pakaranganana méré ka Kalev putra Yefuneh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "ladang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "pakaranganana"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "pakaranganana"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ka Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:07:03.049294808Z",
+  "model": "glm-5.3"
+}

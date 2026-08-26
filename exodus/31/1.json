@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung Yahwe ngomong ka Moshe, cék:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "cék"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:34.825035295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 142,
+  "translation": "Abdi ngucurkeun sasambat abdi di payuneun-Na; hariber abdi di payuneun-Na abdi wartakeun.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "abdi ngucurkeun"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di payuneun-Na"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "sasambat abdi"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "hariber abdi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di payuneun-Na"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "abdi wartakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:34.691971237Z",
+  "model": "glm-5.3"
+}

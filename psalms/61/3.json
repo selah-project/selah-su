@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 61,
+  "translation": "Ti tungtung ⟨the⟩ bumi ka Anjeun abdi njeri, nalika haté abdi kabungbang; ka batu nu luhur ti abdi ano Anjeun mungpangkeun abdi.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Ti tungtung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ bumi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "abdi njeri"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "nalika kabungbang"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté abdi"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ka batu"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "nu luhur"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "Anjeun mungpangkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:28.201735861Z",
+  "model": "glm-5.3"
+}

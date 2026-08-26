@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Teras Avraham indit ti dinya ka tanah Negev, sarta cicing di antara Kadesh jeung Shur, sarta ngumum di Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "indit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka tanah"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ngumum"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "di Gerar"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:38.709396060Z",
+  "model": "glm-5.3"
+}

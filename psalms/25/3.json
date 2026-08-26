@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Ogé sadaya nu ngarep ka anjeun moal malu; nu khianat moal nanaon — kosong.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "nu ngarep ka anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "malu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "moal nanaon"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "nu khianat"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kosong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:40.434902247Z",
+  "model": "glm-5.3"
+}

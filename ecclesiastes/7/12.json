@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sabab dina kalindungan ⟨ieu⟩ hikmah, dina kalindungan ⟨ieu⟩ perak; tapi leuwihna pangaweruh téh — hikmah ngahirupkeun nu miboga ⟨arwapna⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "dina kalindungan"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "dina kalindungan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "tapi leuwihna"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ngahirupkeun"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "nu miboga arwapna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:20:57.924116502Z",
+  "model": "glm-5.3"
+}

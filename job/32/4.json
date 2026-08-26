@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Elihu nungguan ⟨את⟩ Iyob ku kecap-kecap, sabab maranehna kolot, leuwih kolot batan manéhna mun disigana waktu.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "nungguan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ku kecap-kecap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "batan manéhna"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "mun disigana waktu"
+    }
+  ],
+  "timestamp": "2026-08-26T15:16:18.120298562Z",
+  "model": "glm-5.3"
+}

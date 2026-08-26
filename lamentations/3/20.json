@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Pasti kuring terus-terusan kainget, sarta jiwa kuring tunduh ka jero diri kuring.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "pasti kainget"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "terus-terusan kainget"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "sarta tunduh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka jero diri kuring"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:49.686240227Z",
+  "model": "glm-5.3"
+}

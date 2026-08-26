@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Dua hal kuring panta ⟨ti⟩ ⟨את⟩ Anjeun; ulah ditahan ti kuring saméméh kuring maot.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Dua hal"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kuring panta"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩",
+      "marks": "Anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ditahan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti kuring"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kuring maot"
+    }
+  ],
+  "timestamp": "2026-08-26T15:04:28.272482193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Mangka maranehna mere ka Yaakov ⟨את⟩ sadaya allah-allah deungeun nu aya dina leungeunana, jeung ⟨את⟩ anting-anting nu aya ceuli-ceulina; lajeng Yaakov nyumputkeunana di handapeun taru nu aya gigireun Shekem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya allah-allah deungeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "deungeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "dina leungeunana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anting-anting"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "anting-anting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "dina ceuli-ceulina"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "nyumputkeunana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna (nu dibikeun)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "taru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu aya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gigireun"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:14.685242561Z",
+  "model": "glm-5.3"
+}

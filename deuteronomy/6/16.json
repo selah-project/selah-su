@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Ulah ngapoé ⟨את⟩ Yahwe Elohim-maraneh, sakumaha maraneh geus ngapoé di Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ngapoé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim-maraneh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-maraneh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakumaha"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "geus ngapoé"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "di Massah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:39.820711175Z",
+  "model": "glm-5.3"
+}

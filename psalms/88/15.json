@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Naha, Yahwe, Anjeun nyingkirkeun hirup-hurip abdi? Naha Anjeun nyumputkeun beungeut Anjeun ti abdi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "Anjeun nyingkirkeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hirup-hurip abdi"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Anjeun nyumputkeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "beungeut Anjeun"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:19.833764598Z",
+  "model": "glm-5.3"
+}

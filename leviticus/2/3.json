@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung nu nyésa tina minchah éta keur Aharon jeung keur putra-putrana; ⟨⟨itu⟩⟩ suci pangsuacina, tina kurban-kurban api Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Jeung nu nyésa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah éta"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "keur Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "jeung keur putra-putrana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pangsuacina"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tina kurban-kurban api"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:18.035198820Z",
+  "model": "glm-5.3"
+}

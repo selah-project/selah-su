@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Harta jeung kabeungharan di imahna, sarta kabeneranna nangtung salawasna.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Harta"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "jeung kabeungharan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di imahna"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "sarta kabeneranna"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:08.443845201Z",
+  "model": "glm-5.3"
+}

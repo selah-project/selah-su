@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Kaning sanggian pikeun pamimpin musik; ku putra-putra Korach; maskil — sisindiran nu ngawuruk.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun pamimpin musik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku putra-putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil — sisindiran nu ngawuruk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:52.899780873Z",
+  "model": "glm-5.3"
+}

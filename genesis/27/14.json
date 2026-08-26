@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jadi anjeunna indit, sarta mawa, sarta mawa ka indungna; jeung indungna nyieun papais saperti nu dipikacanda ku bapana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mawa ka"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "ka indungna"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "papais"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti nu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dipikacanda ku"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:14.731022524Z",
+  "model": "glm-5.3"
+}

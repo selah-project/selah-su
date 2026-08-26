@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Ulah ngangkat ⟨את⟩ ngaran Yahwe, Elohim anjeun, kalayan sia-sia, sabab Yahwe moal méré bebas budi ka saha nu ngangkat ⟨את⟩ ngaran-Na kalayan sia-sia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kalayan sia-sia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "méré bebas budi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu ngangkat ngaran-Na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran-Na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaran-Na"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kalayan sia-sia"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:20.616554143Z",
+  "model": "glm-5.3"
+}

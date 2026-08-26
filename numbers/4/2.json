@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Angkat ⟨את⟩ sirah putra-putra Kehat ti tengah-tengah putra-putra Lewi, nurutkeun kulawarga-kulawargana, nurutkeun imah bapa-bapana:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirah putra-putra Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ti tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nurutkeun kulawarga-kulawargana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nurutkeun imah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa-bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:43.591308654Z",
+  "model": "glm-5.3"
+}

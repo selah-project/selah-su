@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "‘Jeung tina walungan eta anjeun bakal nginum, jeung ⟨את⟩ manuk-gagak geus kuring parentahkeun méré dahar anjeun di dinya.’",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Jeung bakal jadi"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "tina walungan eta"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "anjeun bakal nginum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manuk-gagak"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "manuk-gagak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "geus kuring parentahkeun"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "méré dahar anjeun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:16.303020907Z",
+  "model": "glm-5.3"
+}

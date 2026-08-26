@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung anjeunna nyerat dinya, dina batu-batu éta, ⟨את⟩ salinan gembleng Taurat Moshe, nu ditulis di hareupeun putra-putra Israil.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Jeung anjeunna nyerat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salinan gembleng Taurat Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "salinan gembleng"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ditulis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hareupeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:12.882263111Z",
+  "model": "glm-5.3"
+}

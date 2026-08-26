@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Pecahkeun ⟨את⟩ leungeun si jahat jeung si ruksak; susul jahatna — moal kapanggih deui.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "pecahkeun"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "si jahat"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "jeung si ruksak"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "susul"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "jahatna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kapanggih"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:49.218813044Z",
+  "model": "glm-5.3"
+}

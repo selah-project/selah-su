@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Dina waktu anjeunna perang ngalawan Aram-Naharayim jeung ngalawan ⟨את⟩ Aram-Tsoba, terus balik Yoab sarta ngapuk ⟨את⟩ Edom di Lembah Uyah — dua belas rébu.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "dina waktu anjeunna perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "terus balik"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sarta ngapuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di Lembah"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Uyah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:51.337358986Z",
+  "model": "glm-5.3"
+}

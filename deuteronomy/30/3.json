@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "mangka Yahwe, Elohim anjeun, mulangkeun ⟨את⟩ kaayaan patingpindah anjeun, sarta nyaah ka anjeun, sarta manehna balik deui sarta ngumpulkeun anjeun ti sadaya bangsa-bangsa nu Yahwe, Elohim anjeun, nyebarken anjeun ka ditu.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "mangka balik deui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaayaan patingpindah anjeun"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "kaayaan patingpindah anjeun"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "sarta nyaah ka anjeun"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "sarta balik deui"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "sarta ngumpulkeun anjeun"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "nyebarken anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka ditu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:58.546269647Z",
+  "model": "glm-5.3"
+}

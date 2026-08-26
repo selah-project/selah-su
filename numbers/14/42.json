@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Ulah naék, sabab Yahwe euweuh di tengah-tengah anjeun, supaya anjeun moal gugur di payuneun musuh-musuh anjeun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "naék"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di tengah-tengah anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya moal"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "gugur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuh anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:45:50.180598407Z",
+  "model": "glm-5.3"
+}

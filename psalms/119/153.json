@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Tempo ka kasusah kuring, jeung salametkeun kuring, sabab kuring teu poho ka toret Anjeun.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tempo ka"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kasusah kuring"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "jeung salametkeun kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "toret Anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "poho kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:23.405979935Z",
+  "model": "glm-5.3"
+}

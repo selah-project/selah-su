@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Ti balai karajaan-Mu di luhureun Yerushalaim, ka Anjeun raja-raja bakal mawa hadiah.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "ti balai karajaan-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bakal mawa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "שי",
+      "gloss": "hadiah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:14.035475080Z",
+  "model": "glm-5.3"
+}

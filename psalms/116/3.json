@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Tali-tali paéh ngurilingan kuring, jeung kasempetan Sheol manggihan kuring; kasusah jeung kasedih kuring panggih.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ngurilingan kuring"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "jeung kasempetan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "manggihan kuring"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "jeung kasedih"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "kuring panggih"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:38.286897257Z",
+  "model": "glm-5.3"
+}

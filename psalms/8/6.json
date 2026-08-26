@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Anjeun nyieun manéhna kurang saeutik ti Elohim, jeung ku kamulyaan jeung kaendahan Anjeun makékan mahkota ka manéhna.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Anjeun nyieun manéhna kurang"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "jeung kamulyaan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "jeung kaendahan"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "Anjeun makékan mahkota ka manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:24.935123840Z",
+  "model": "glm-5.3"
+}

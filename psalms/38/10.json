@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Adonay, sagala kahayang kuring aya di payuneun-Mu, jeung ngareungeuy kuring ti Anjeun teu disumputkeun.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di payuneun-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "kahayang kuring"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "jeung ngareungeuy kuring"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti Anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "disumputkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:36.645058841Z",
+  "model": "glm-5.3"
+}

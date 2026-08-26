@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Mulangkeun ka abdi kabungahan kajolotan-Mu, jeung roh nu kawelasan moga nangtayungan abdi.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "mulangkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kabungahan"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "kajolotan-Mu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "jeung roh"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "nu kawelasan"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "moga nangtayungan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:25.329007840Z",
+  "model": "glm-5.3"
+}

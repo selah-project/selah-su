@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung nyalametkeun maranehna ti leungeun nu mibenci, sarta ngabébaskeun maranehna ti leungeun musuh.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "nyalametkeun maranehna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nu mibenci"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "ngabébaskeun maranehna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:40.028966530Z",
+  "model": "glm-5.3"
+}

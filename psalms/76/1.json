@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Keur pupuhu musisi, kalawan pakakas senar; mizmor milik Asaf; lagu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "keur pupuhu musisi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "kalawan pakakas senar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "milik Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:02.499566794Z",
+  "model": "glm-5.3"
+}

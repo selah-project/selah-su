@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung Yusuf ngariung ⟨את⟩ maranéhna kana panjangan tilu poé.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Jeung Yusuf ngariung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "panjangan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T16:38:45.942020655Z",
+  "model": "glm-5.3"
+}

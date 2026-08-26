@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "jeung anjeun nyembelih ⟨את⟩ anak-anak anjeun, jeung mikeun aranjeunna pikeun ngaliwatkeun ⟨את⟩ aranjeunna ka maranehna.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "jeung anjeun nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak anjeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak anjeun"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "jeung mikeun aranjeunna"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "pikeun ngaliwatkeun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:47:05.534987764Z",
+  "model": "glm-5.3"
+}

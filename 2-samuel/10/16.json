@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Hadadezer meser, mairi ⟨את⟩ Aram nu di sahandeliseun walungan, sarta aranjeuna datang ka Kheyelam; sarta Shovakh, pangulu balantikara Hadadezer, di payuneunana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "jeung meser"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mairi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di sahandeliseun"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "⟨aweuh⟩ walungan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "sarta aranjeuna datang"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ka Kheyelam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "sarta Shovakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "balantikara"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di payuneunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:39.982364791Z",
+  "model": "glm-5.3"
+}

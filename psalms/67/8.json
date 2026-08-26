@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 67,
+  "translation": "Mugia Élohím mberkahatan urang, sarta sadaya wates-wates bumi nampan kana ⟨את⟩ Anjeu.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "mugia mberkahatan urang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohím"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sarta nampan kana Anjeu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya wates-wates bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "wates-wates"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:09.502813628Z",
+  "model": "glm-5.3"
+}

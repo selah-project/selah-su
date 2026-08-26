@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Béré ka kami panyalamet ti ka nu ngarugikeun, jeung sia-sia pitulung manusa.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Béré"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "panyalamet"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ti ka nu ngarugikeun"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "jeung sia-sia"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "pitulung"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:05.495632537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ulah anjeun ngajieun perjangjian jeung maranehna jeung jeung allah-allah maranehna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "anjeun ngajieun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jeung maranehna"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "jeung jeung allah-allah maranehna"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:55.649097115Z",
+  "model": "glm-5.3"
+}

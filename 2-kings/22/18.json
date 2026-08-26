@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 22:18",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sedengkeun ka raja Yehuda, nu ngirim ⟨את⟩anjeun pikeun mimitina nanya ka Yahwe — kitu ku aranjeun omong ka anjeunna: Kitu dawuh Yahwe, Elohimna Israil: ngeunaan kecap-kecap nu geus kadangu ku anjeun,",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "sedengkeun ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "nu ngirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩anjeun",
+      "marks": "anjeun (objék daria)"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "pikeun mimitina nanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ku aranjeun omong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dawuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kadangu ku anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:58:20.014184073Z",
+  "model": "glm-5.3"
+}

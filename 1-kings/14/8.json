@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "jeung kuring ngasianan ⟨את⟩ karajaan ti imah Dawud, jeung kuring méré ka anjeun; tapi anjeun teu jadi saperti abdi kuring Dawid, nu miara parentah kuring, jeung nu lulus nuturkeun kuring ku sakabeh hate-na, ngan ngalakukeun nu bener dina panon kuring;",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "jeung kuring ngasianan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajaan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "jeung kuring méré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi anjeun teu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "saperti abdi kuring"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "miara"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah kuring"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung nu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lulus nuturkeun"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nuturkeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku sakabéh"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "haténa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:15.888259717Z",
+  "model": "glm-5.3"
+}

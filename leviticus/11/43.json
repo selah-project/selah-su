@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Ulah aranjeun ngajadikeun-najis ⟨את⟩ diri-nyawa-arajeun dina sagala nu ngarambat nu ngarambat, jeung ulah aranjeun ka-tajisan ku aranjeunna, supaya ulah aranjeun ka-tajisan ku maranehna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ngajadikeun-najis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri-nyawa-arajeun"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "diri-nyawa-arajeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sagala"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nu ngarambat"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nu ngarambat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ka-tajisan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku aranjeunna"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "supaya ulah ka-tajisan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:50.359714012Z",
+  "model": "glm-5.3"
+}

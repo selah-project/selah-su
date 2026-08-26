@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Tapi urang bakal ngamuliakeun Yah, ti ayeuna nepi ka salawasna. Muji na Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "tapi urang"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "bakal ngamuliakeun"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ti ayeuna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Muji na"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:15.713230346Z",
+  "model": "glm-5.3"
+}

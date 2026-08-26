@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung haté Paroh jadi tarurat, sarta manehna moal ngaleupaskeun ⟨את⟩ putra-putra Yisrael, persis saperti anu geus diomongkeun ku Yahwe ngaliwatan leungeun Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "jadi tarurat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "persis saperti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngaliwatan leungeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:13.159815928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sieun ka Yahwe murni, nangtung salawasna; putusan-putusan Yahwe ⟨nyaéta⟩ kanyataan, mareuming sadayana.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "sieun ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "murni"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-putusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kanyataan"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "mareuming"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sadayana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:20.309387915Z",
+  "model": "glm-5.3"
+}

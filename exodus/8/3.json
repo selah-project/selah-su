@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Para tukang sihir ogé ngalakukeun kitu ku sulap-sulap maranéhanana, sarta maranéhaná ngingankeun ⟨את⟩ bangkong ka luhureun taneuh Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngalakukeun kitu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ogé kitu"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "para tukang sihir"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ku sulap-sulap maranéhanana"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sarta ngingankeun sukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkong"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bangkong"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:18.983026119Z",
+  "model": "glm-5.3"
+}

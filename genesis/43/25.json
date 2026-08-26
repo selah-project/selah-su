@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Jeung maranehna nyiapkeun ⟨את⟩ sangu-hadiah nepi ka datangna Yosef dina tengah poé, sabab maranehna ngadengeun yen di dinya maranehna bakal neda roti.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "nyiapkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sangu-hadiah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sangu-hadiah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datangna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "dina tengah poé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadengeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "neda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:49.154199257Z",
+  "model": "glm-5.3"
+}

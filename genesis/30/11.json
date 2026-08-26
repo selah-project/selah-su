@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Lalu Lea nyarita, \"Bakat\" — jeung manehna ngawarangan ⟨את〉 ngaranna Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu manehna nyarita"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "\"Bakat\""
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "jeung manehna ngawarangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:47.768247391Z",
+  "model": "glm-5.3"
+}

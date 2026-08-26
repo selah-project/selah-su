@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Tapi Omri ngalakukeun ⟨את⟩ nu jahat dina panon Yahwe, sarta ngalakukeun nu leuwih jahat ti sadaya nu saméméhna.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dina panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ngalakukeun nu leuwih jahat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "saméméhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:00.133800443Z",
+  "model": "glm-5.3"
+}

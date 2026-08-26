@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung ngaran walungan kadua ⟨⟨the⟩⟩ Gichon, ⟨nya⟩-éta nu ngurilingan ⟨את⟩ sadaya tana Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nya-éta"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "nu ngurilingan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya tana Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tana"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:12.648359325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung kuring baris nyangga ⟨את⟩ boriyah Ahab saperti borinyah Yarovam putra Nevat, jeung saperti borinyah Baasa putra Axiyah.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jeung kuring baris nyangga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boriyah Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "boriyah"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "saperti borinyah"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "jeung saperti borinyah"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiyah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:36.771257203Z",
+  "model": "glm-5.3"
+}

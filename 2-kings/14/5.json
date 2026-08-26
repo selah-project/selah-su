@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Teras jadi, nalika karajaan geus kuat dina leungeunana, manéhna maéhan ⟨את⟩ abdi-abdina, nu ngabeungharkeun raja bapakna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras jadi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "geus kuat"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dina leungeunana"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "manéhna maéhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdina"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdina"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "nu ngabeungharkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:01.981165291Z",
+  "model": "glm-5.3"
+}

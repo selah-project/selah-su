@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta kuring bakal ngabeungbeuratan ⟨את⟩ hate Parao, sarta ngalobaan ⟨את⟩ tanda-tanda kuring sarta ⟨את⟩ mujijat-mujijat kuring di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "sarta kuring"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "bakal ngabeungbeuratan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hate Parao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hate"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "sarta ngalobaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanda-tanda kuring"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tanda-tanda kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "mujijat-mujijat kuring"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mujijat-mujijat kuring"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:54.221037950Z",
+  "model": "glm-5.3"
+}

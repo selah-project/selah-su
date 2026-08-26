@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Khemah-khemah Edom jeung Ismaelit, Moab jeung ⟨את⟩ Hagri",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "khemah-khemah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "jeung Ismaelit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "jeung Hagri"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:57.437530506Z",
+  "model": "glm-5.3"
+}

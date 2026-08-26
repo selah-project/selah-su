@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Sarta kalolobaanana dieusi papan sédar ti luhur, di luhureun séndé-séndé anu aya di luhureun ⟨the⟩ pilar-pilar: opat puluh lima, lima-welas unggal barisan.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "dieusi papan"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ku sédar"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "séndé-séndé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pilar-pilar"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "welas"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "barisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:08.952729692Z",
+  "model": "glm-5.3"
+}

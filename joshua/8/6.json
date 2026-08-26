@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Maranehna bakal kaluar nuturkeun urang nepi ka urang micu ⟨את⟩ maranehna ti ⟨the⟩ kota, sabab maranehna bakal ngomong: 'Maranehna keur kabur ti payun urang saperti di munggaran'; urang kabur ti payun maranehna.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "maranehna bakal kaluar"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "nuturkeun urang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "urang micu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ maranehna",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ kota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "maranehana bakal ngomong"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "keur kabur"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ti payun urang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "di munggaran"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "urang kabur"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ti payun maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:03.683130575Z",
+  "model": "glm-5.3"
+}

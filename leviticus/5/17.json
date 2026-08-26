@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Lamun hiji nefesh geus ngahianat, sarta ngalakukeun salah sahiji tina sadaya parentah Yahwe nu teu kudu dilakukeun, tapi anjeunna teu nyaho, anjeunna geus salah sarta bakal mawa kalalayanna.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "–"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ngahianat"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "sarta ngalakukeun"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "salah sahiji"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tina sadaya"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu kudu"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "dilakukeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "geus salah"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "bakal mawa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kalalayanna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:07.264539365Z",
+  "model": "glm-5.3"
+}

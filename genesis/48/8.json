@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Terus Yisrael nempo ⟨את⟩ putra-putra Yusup, terus nyarita: Saha ⟨aranjeunna⟩?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "terus nempo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yusup"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusup"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "terus nyarita"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨aranjeunna⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:31.313210480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Leungeun nu gawe hariwis bakal maréntah, tapi nu malas bakal jadi nu ngabayar pajeg maksa.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "nu gawe hariwis"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "bakal maréntah"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "tapi nu malas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "nu ngabayar pajeg maksa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:53.749232590Z",
+  "model": "glm-5.3"
+}

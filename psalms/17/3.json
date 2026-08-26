@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Anjeun ngariksa haté abdi, nganjang ka abdi peuting, ngaleleutur abdi — teu manggihan ari pikir jahat abdi moal ngaliwatan biwir abdi.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "ngariksa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté abdi"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "nganjang"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "ngaleleutur abdi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "manggihan"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "pikir jahat abdi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal teu"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "biwir abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:54.930117136Z",
+  "model": "glm-5.3"
+}

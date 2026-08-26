@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung abdi migawé pangwales dina kaambekan jeung dina kahagétonan ka ⟨את⟩ bangsa-bangsa nu henteu daek ngadangu.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "jeung abdi migawé"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dina kaambekan"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "jeung dina kahagétonan"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pangwales"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "daek ngadangu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:05.378693606Z",
+  "model": "glm-5.3"
+}

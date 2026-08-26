@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 144,
+  "translation": "Berkahna ⟨⟨aya⟩⟩ pikeun bangsa nu kitu kaayaanna; berkahna bangsa nu Yahwe Elohim-na.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "berkahna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "kitu kaayaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manéhna"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "berkahna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:24.790490885Z",
+  "model": "glm-5.3"
+}

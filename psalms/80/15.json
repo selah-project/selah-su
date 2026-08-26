@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Elohim Tsabaot, balik deui kahoyong, tingali ti langit sarta lohor, sarta tongtoon anggur ieu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kahoyong"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "sarta lohor"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "sarta tongtoon"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:28.689681821Z",
+  "model": "glm-5.3"
+}

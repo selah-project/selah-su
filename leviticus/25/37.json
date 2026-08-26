@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "⟨את⟩ perak anjeun ulah anjeun pasihan ka anjeunna ku bunga, jeung ku bungaeun teu anjeun pasihan kadaharan anjeun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak anjeun"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "perak anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anjeun pasihan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ku bunga"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "jeung ku bungaeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anjeun pasihan"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "kadaharan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:32.509575848Z",
+  "model": "glm-5.3"
+}

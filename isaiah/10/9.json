@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Naha teu saperti Karkemis Kalno? Naha teu saperti Arpad Hamat? Naha teu saperti Damaskes Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "naha teu"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "saperti Karkemis"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "saperti Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "saperti Damaskes"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:58.488419451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung keusik balik deui ka taneuh, saperti ⟨mimitina⟩, jeung roh balik deui ka Elohin nu mikeunana.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "jeung balik deui"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "keusik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "saperti mimitina"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "jeung roh"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "mikeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:36:32.886963525Z",
+  "model": "glm-5.3"
+}

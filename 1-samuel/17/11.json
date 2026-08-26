@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung Shaul jeung sakabéh Israyel ngadangu ⟨את⟩ kecap-kecap urang Palisti éta, jeung aranjeunna kasesa haté jeung sieun pisan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "jeung ngadangu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap urang Palisti éta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "urang Palisti éta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "jeung kasesa haté"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "jeung sieun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:20.008507460Z",
+  "model": "glm-5.3"
+}

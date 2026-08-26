@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Barih muruul saperti hujan pangaweruh abdi, ngatetesan saparti embun omongan abdi, saparti kadés déweu kana taʼun ngora, jeung saparti komara kana jukut.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "muruul"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "saparti hujan"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "pangaweruh abdi"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "ngatetesan"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "saparti embun"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "omongan abdi"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "saparti kadés déweu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "taʼun ngora"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "jeung saparti komara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "jukut"
+    }
+  ],
+  "timestamp": "2026-08-26T11:51:58.075792605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Teteg haté kuring, hai Elohim; kuring baris nyanyi, sumawios kuring baris main mazmur, ogé kamulyaan kuring.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "teteg"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "haté kuring"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuring baris nyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "sumawios kuring baris main mazmur"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyaan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:15.419237794Z",
+  "model": "glm-5.3"
+}

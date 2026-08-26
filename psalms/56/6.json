@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Sadaya poé kecap-kecap kuring ku aranjeunna disiksa; ka kuring sadana pikiran-pikiranana pikeun kajahatan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap kuring"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "arana disiksa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadana"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "pikiran-pikiranana"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pikeun kajahatan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:05.000078983Z",
+  "model": "glm-5.3"
+}

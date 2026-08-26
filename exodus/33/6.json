@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung putra-putra Yisrael ngaleungitkeun ⟨את⟩ perhiasan maranehná ti gunung Xorev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Jeung ... ngaleungitkeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perhiasan maranehná"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "perhiasan maranehná"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ti gunung"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Xorev"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:30.382811736Z",
+  "model": "glm-5.3"
+}

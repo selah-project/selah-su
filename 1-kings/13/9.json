@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Sebab kitu diperéntahkeun ka abdi ku dabar Yahwe, sangkan: ulah dahar roti, ulah inum cai, jeung ulah balik deui dina jalan anu kungsi dilalimpungan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperéntahkeun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ka abdi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ku dabar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "inum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "kungsi dilalimpungan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:31.296969415Z",
+  "model": "glm-5.3"
+}

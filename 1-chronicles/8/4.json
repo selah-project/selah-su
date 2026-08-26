@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Avishua, jeung Naaman, jeung Achoach.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Jeung Avishua"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "jeung Naaman"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "jeung Achoach"
+    }
+  ],
+  "timestamp": "2026-08-26T16:07:49.700099773Z",
+  "model": "glm-5.3"
+}

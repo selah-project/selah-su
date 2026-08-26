@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Kanggo pangatik. Ulah Musnahkeun. Miktam ti David, basa manéhna kabur tina hareup Shaol, ka jero guha.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangatik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ulah"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Musnahkeun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "basa manéhna kabur"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tina hareup"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ka jero guha"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:13.077239849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Lamun altár batu anjeung buatkeun keur abdi, ulah anjeung ngawangun ⟨את⟩ éta ku batu gugunturan, sabab péso anjeung anjeung ayunkeun luhureunana sarta anjeung geus najeung éta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altár"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buatkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur abdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "batu gugunturan"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu gugunturan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "péso anjeung"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "ayunkeun"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "luhureunana"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "sarta anjeung geus najeung éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:50.908961244Z",
+  "model": "glm-5.3"
+}

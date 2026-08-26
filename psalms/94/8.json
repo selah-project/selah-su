@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Pahamikeun, hé nu picik édan di antara bangsa, jeung nu keuheul, iraha-katuhu aranjeunna baris ngarti?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "pahamikeun"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "nu picik édan"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "di antara bangsa"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "jeung nu keuheul"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha-katuhu"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "baris ngarti"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:43.896344416Z",
+  "model": "glm-5.3"
+}

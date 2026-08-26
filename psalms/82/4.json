@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 82,
+  "translation": "Palayakeun ⟨את⟩ nu leutik jeung nu butuh, tina leungeun nu jahat sangketa aranjeunna.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Palayakeun"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nu leutik"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jeung nu butuh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "sangketa aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:35.268060772Z",
+  "model": "glm-5.3"
+}

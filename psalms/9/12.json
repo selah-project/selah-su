@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Ampingan ka Yahwe nu dumuk di Tzion, caritakeun di antara bangsa-bangsa paripolah-Na.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ampingan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nu dumuk"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "caritakeun"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "paripolah-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:13.895514507Z",
+  "model": "glm-5.3"
+}

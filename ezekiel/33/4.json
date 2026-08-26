@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "jeung nu ngadangu ngadangu ⟨את⟩ sora sangkakala tapi henteu mairan, jeung datang pedang sarta nyandak anjeunna — getihna dina sirahna sorangan bakal jadi.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "jeung ngadangu"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "nu ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mairan"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "jeung datang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "sarta nyandak anjeunna"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "dina sirahna sorangan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:55:04.274283808Z",
+  "model": "glm-5.3"
+}

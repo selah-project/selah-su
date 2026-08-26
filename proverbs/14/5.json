@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Saksi nu dipercaya moal ngabohong, sedengkeun anu ngahiliwir kabohongan mah saksi dusta.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "nu dipercaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "ngabohong"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "sedengkeun anu ngahiliwir"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "kabohongan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:52.561375460Z",
+  "model": "glm-5.3"
+}

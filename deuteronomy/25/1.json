@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Lamun aya paséa antara jalma-jalma, terus aranjeunna ngadeukeutan ka ⟨the⟩ pangadilan, teras aranjeunna ngadilan, sareng ngabenerkeun ⟨את⟩ nu bener sareng ngagelokeun ⟨את⟩ nu jahat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "paséa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "terus aranjeunna ngadeukeutan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "⟨the⟩ pangadilan"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "teras aranjeunna ngadilan"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "sareng ngabenerkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu bener"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "sareng ngagelokeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu jahat"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "nu jahat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:49:00.522050779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Teras lumangsung, sanggeus karajaan Rehavam ngakukuh jeung manahna ngageuing, manéhna ninggalkeun ⟨את⟩ Taurat Yahwe, sarta sakabéh Yisrael jeung manéhna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "teras lumangsung"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "sanggeus ngakukuh"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "jeung manahna ngageuing"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ninggalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taurat"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Taurat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:29.702795701Z",
+  "model": "glm-5.3"
+}

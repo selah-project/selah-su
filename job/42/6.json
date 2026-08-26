@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Ku sabab kitu kuring ngarandeuhan ⟨diri⟩ jeung nyesal dina keusik jeung abu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "kuring ngarandeuhan"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "jeung nyesal"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "keusik"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "jeung abu"
+    }
+  ],
+  "timestamp": "2026-08-26T15:23:23.901000538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sarta maranéhna papanggih ⟨את⟩ Moshe jeung ⟨את⟩ Aharon nu nangtung nyanghareupan maranéhna, basa maranéhna kaluar ti ⟨את⟩ paijan Paroh.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "sarta maranéhna papanggih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "nu nangtung"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "nyanghareupan maranéhna"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "basa maranéhna kaluar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:39.678992408Z",
+  "model": "glm-5.3"
+}

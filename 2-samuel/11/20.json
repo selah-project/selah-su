@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 11:20",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "tah mun naék muruuk raja, jeung anjeunna nyarita ka anjeun: naha anjeun nyarumpaghan ka ⟨si kota⟩ pikeun perang? naha anjeun teu nyaho ⟨את⟩ nu maranehna ngagedor ti luhureun ⟨pagar tembok⟩?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "tah mun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "muruuk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "naha"
+    },
+    {
+      "surface": "נגשתם",
+      "gloss": "anjeun nyarumpaghan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨si kota⟩"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "pikeun perang"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "naha teu"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "anjeun nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu maranehna ngagedor ti luhureun pagar tembok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירו",
+      "gloss": "maranehna ngagedor"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhureun"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "⟨pagar tembok⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:13.282065444Z",
+  "model": "glm-5.3"
+}

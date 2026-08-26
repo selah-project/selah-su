@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Musuh-musuh abdi ngomongkeun goreng ka abdi: iraha ⟨manehna⟩ paéh, jeung ngaranna musnah?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuh abdi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "goreng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "jeung musnah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:44.848364531Z",
+  "model": "glm-5.3"
+}

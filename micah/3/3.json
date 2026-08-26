@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anu ogé ngahakan daging umat abdi, sarta kulitna mariké ngakulit ti luhureunana, sarta ⟨את⟩ tulang-tulangna mariké mecah, sarta mariké nandeun kawas dina kawah, sarta kawas daging di tengah-tengah kenci.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "anu ogé"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat abdi"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "sarta kulitna"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ti luhureunana"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "mariké ngakulit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulangna"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "tulang-tulangna"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "mariké mecah"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "sarta mariké nandeun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "dina kawah"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "sarta kawas daging"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kenci"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:46.835561547Z",
+  "model": "glm-5.3"
+}

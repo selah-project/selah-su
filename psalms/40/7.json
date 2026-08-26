@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Korban sasembahan jeung sajian persembahan teu karesep Anjeun; ceuli-ceuli kuring Anjeun ngadinya; korban bakar jeung korban dosa teu dipenta Anjeun.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "korban sasembahan"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "jeung sajian persembahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "karesep"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ceuli-ceuli"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ngadinya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "korban bakar"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "jeung korban dosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "dipenta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:56.972995168Z",
+  "model": "glm-5.3"
+}

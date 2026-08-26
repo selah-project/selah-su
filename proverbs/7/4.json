@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ucapkeun ka Hikmah: 'Saderek awéwé abdi ⟨anjeung⟩'; jeung kanyahuan ka Pamanggih ngageroan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ucapkeun"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ka Hikmah"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saderek awéwé abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "anjeung"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "jeung kanyahuan"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ka Pamanggih"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ngageroan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:16:26.458780345Z",
+  "model": "glm-5.3"
+}

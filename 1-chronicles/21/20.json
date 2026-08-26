@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Arnán balik arah, arémbang nempo ⟨את⟩ ⟨the⟩ malaékat, jeung opat putrana babarengan jeung anjeunna keur nyumput; jeung Arnán ngagogodo gandum.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "jeung balik arah"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnán"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "jeung arémbang nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaékat"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaékat"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "jeung opat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarengan jeung anjeunna"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "keur nyumput"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "jeung Arnán"
+    },
+    {
+      "surface": "דש",
+      "gloss": "ngagogodo"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    }
+  ],
+  "timestamp": "2026-08-26T16:14:15.724360579Z",
+  "model": "glm-5.3"
+}

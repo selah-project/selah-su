@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Sabab kitu Yahwe ngandika: malahan tawanan nu gagah bakal dicandak, jeung rampasan nu rajap bakal dibébaskeun; jeung ⟨את⟩ nu jadi lawan adu anjeun abdi nu bagea adu, jeung ⟨את⟩ anak-anak anjeun abdi bakunyin nyalametkeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malahan"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "nu gagah"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "jeung rampasan"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "nu rajap"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "dibébaskeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu jadi lawan adu anjeun"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "nu jadi lawan adu anjeun"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "bagea adu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "anak-anak anjeun"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anak anjeun"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "nyalametkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:16:26.574433986Z",
+  "model": "glm-5.3"
+}

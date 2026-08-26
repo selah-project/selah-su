@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jaga manéh, ulah nepi ka poho ka ⟨את⟩ Yahwe, Elohim anjeun, sangkan teu mariksa paréntah-paréntah-Na, hukum-hukum-Na, jeung katangtuan-katangtuan-Na, nu abdi maréntahkeun ka anjeun poé ieu.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "jaga manéh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ulah nepi ka"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "poho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Elohim anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sangkan teu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mariksa"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "paréntah-paréntah-Na"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "jeung hukum-hukum-Na"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "jeung katangtuan-katangtuan-Na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "maréntahkeun ka anjeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:46:31.772204269Z",
+  "model": "glm-5.3"
+}

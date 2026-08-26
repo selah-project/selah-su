@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Wangun! naha Anjeun saré, Adonay? Gedér! ulah nyingkahiran urang salawasna.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Wangun!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "Anjeun saré"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Gedér!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "nyingkahiran"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:31:57.025561473Z",
+  "model": "glm-5.3"
+}

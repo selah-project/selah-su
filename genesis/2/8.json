@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tuluy Yahwe Elohim nanamkeun kebon di Éden, di wétan, sarta nempatkeun dinya ⟨את⟩ jalma nu geus diwangunna.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "tuluy nanamkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "kebon"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "di Éden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "di wétan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "sarta nempatkeun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "geus diwangunna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:23.748810158Z",
+  "model": "glm-5.3"
+}

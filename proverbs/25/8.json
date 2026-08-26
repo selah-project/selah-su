@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Ulah kaluar gancang mareungkeulkeun, bisi anjeun teu nyaho naon nu dipigawé di tungtungna, nalika babaturan anjeun ngahéamkeun ⟨את⟩ anjeun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mareungkeulkeun"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "di tungtungna"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "nalika ngahéamkeun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "babaturan anjeun"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "babaturan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:58.015735581Z",
+  "model": "glm-5.3"
+}

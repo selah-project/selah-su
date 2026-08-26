@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Naha alatan ieu-anjeun nahan diri, Yahwe? Naha anjeun ngangguk jeung nyiksa kami kalawan tarik pisan?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "naha alatan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "anjeun nahan diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "anjeun ngangguk"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "jeung nyiksa kami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kalawan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tarik pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:20:17.022688218Z",
+  "model": "glm-5.3"
+}

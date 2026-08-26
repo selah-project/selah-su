@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Naha anjeun ngaribut ka ⟨Anjeunna⟩, padahal sadaya kalimah-Na henteu diwaler?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Naha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "ריבות",
+      "gloss": "anjeun ngaribut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "padahal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kalimah-Na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "diwaler"
+    }
+  ],
+  "timestamp": "2026-08-26T15:17:10.769071621Z",
+  "model": "glm-5.3"
+}

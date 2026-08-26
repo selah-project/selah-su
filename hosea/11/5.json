@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Moal balik deui ka tanah Mitzrayim, sarta Ashur — manéh raja-na, sabab maranéhna nolak balik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "sarta-Ashur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéh"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "raja-na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "maranéhna-nolak"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "balik"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:49.538055480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Dina hancau-hancau di tengah-tengahna kami ngagantung ⟨את⟩ kacapi-kacapi urang.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "hancau-hancau"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "di tengah-tengahna"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "kami ngagantung"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kacapi-kacapi urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:35.236823391Z",
+  "model": "glm-5.3"
+}

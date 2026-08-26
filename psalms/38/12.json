@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Nu dipikanyaah abdi jeung babaturan abdi tina panyampeur cacar abdi ngadeg, jeung nu padeukeut abdi ti kajauhan ngadeg.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "nu dipikanyaah abdi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "jeung babaturan abdi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "tina panyampeur"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "cacar abdi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "jeung nu padeukeut abdi"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ti kajauhan"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:18.713385085Z",
+  "model": "glm-5.3"
+}

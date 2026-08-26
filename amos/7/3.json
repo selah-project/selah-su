@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Yahwe nanyaah kana ieu; moal jadi, ceuk Yahwe.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "nanyaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:10:28.603748802Z",
+  "model": "glm-5.3"
+}

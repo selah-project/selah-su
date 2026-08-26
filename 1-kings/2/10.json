@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Teras David saré jeung karuhun-na, sarta dikubur di kota David.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "teras saré"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "karuhun-na"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "sarta dikubur"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:26.988873094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Sagala pangulat jeung sagala bangsa bungah, maranéhna mawa asup jeung ngalungkeun ka kotak nepi ka tuntas",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "pangulat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung-sagala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mawa-asup"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ngalungkeun"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ka-kotak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi-ka"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "tuntas"
+    }
+  ],
+  "timestamp": "2026-08-26T17:27:22.726814470Z",
+  "model": "glm-5.3"
+}

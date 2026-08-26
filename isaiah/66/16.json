@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Sabab ku seuneu Yahwe ngadilan, jeung ku pedangna ⟨את⟩ sagala daging; jeung loba nu tatas ku Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ngadilan"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "jeung ku pedangna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala daging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "jeung loba"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "nu tatas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ku Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:20:25.320651452Z",
+  "model": "glm-5.3"
+}

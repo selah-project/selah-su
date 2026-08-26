@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Sarta jeung ⟨את⟩ lalaki ulah anjeun saré saperti saréna jeung awéwé; kauji ⟨éta⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "lalaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "saperti saréna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "jeung awéwé"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kauji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨éta⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:54.976441833Z",
+  "model": "glm-5.3"
+}

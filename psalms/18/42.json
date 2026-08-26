@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Maranehna ngajejerit tapi euweuh nu nyalametkeun, ka Yahwe, tapi Anjeunna henteu ngawales aranjeunna.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "anjeunna ngajejerit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tapi euweuh"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "nu nyalametkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ngawales aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:33.657163854Z",
+  "model": "glm-5.3"
+}

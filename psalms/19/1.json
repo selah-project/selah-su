@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Kapusirkeun caturna. Mizmor ti Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kapusirkeun caturna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:30.682724295Z",
+  "model": "glm-5.3"
+}

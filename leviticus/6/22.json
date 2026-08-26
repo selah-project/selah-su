@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sagala lalaki di antara para imam bakal ngadahar ⟨את⟩ éta; suci pangcasucina ⟨eta⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "di antara para imam"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bakal ngadahar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "éta (persembahan éta)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pangcasucina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨eta⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T11:13:11.497126803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Ku sabab éta saurang lalaki bakal ninggalkeun ⟨את⟩ bapana jeung ⟨את⟩ indungna, sarta ngahiji jeung pamajikanana, lajeng maranéhna bakal jadi sa-daging.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ku sabab éta"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "bakal ninggalkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "indungna"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ngahiji"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "jeung pamajikanana"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "sa-daging"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:49.207436014Z",
+  "model": "glm-5.3"
+}

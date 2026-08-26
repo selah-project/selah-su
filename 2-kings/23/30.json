@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Tur palangan-palanganna mawa manehna geus paéh ti Megido kana kandaraan, tur mawa anjeunna ka Yerushalaim, tur ngurebkeunana di kuburanana; tur bangsa ⟨the⟩ taneuh milih ⟨את⟩ Yehoaxaz putra YoashiYahu, tur ngalisihan ⟨את⟩ anjeunna, tur jadikeun ⟨את⟩ anjeunna raja gaganti bapana.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "tur mawa manehna kana kandaraan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palangan-palanganna"
+    },
+    {
+      "surface": "מת",
+      "gloss": "geus paéh"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "ti Megido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "tur mawa anjeunna ka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "tur ngurebkeunana"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "di kuburanana"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "tur milih"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoaxaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "YoashiYahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "tur ngalisihan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna (Yehoaxaz)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "tur jadikeun raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna (Yehoaxaz)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "gaganti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:39.785304384Z",
+  "model": "glm-5.3"
+}

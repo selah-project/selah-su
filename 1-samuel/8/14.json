@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung ⟨את⟩ sawah-sawah anjeun jeung ⟨את⟩ kebon anggur anjeun jeung zaitun-zaitun anjeun nu alus bakal dicandak, jeung dipasihkeun ka abdi-abdina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sawah-sawah anjeun"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "sawah-sawah anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kebon anggur anjeun"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "kebon anggur anjeun"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "jeung zaitun-zaitun anjeun"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "nu alus"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bakal dicandak"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "jeung dipasihkeun"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "ka abdi-abdina"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:35.781757454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "maranjeunna pikeun méré nyaho ka ⟨את⟩ anak-anak maranjeunna, sangkan nyarita: di darat garing Yisrael ngaliwatan ⟨את⟩ Yarden ieu.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "pikeun méré nyaho ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak maranjeunna"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak maranjeunna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "di darat garing"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden ieu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:31:43.248261198Z",
+  "model": "glm-5.3"
+}

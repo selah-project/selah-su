@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Nu turun ka laut dina parahu, nu ngalaksanakeun pagawéan dina cai nu lolobana.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "nu turun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ka laut"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "dina parahu"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nu ngalaksanakeun"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dina cai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nu lolobana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:50.572413034Z",
+  "model": "glm-5.3"
+}

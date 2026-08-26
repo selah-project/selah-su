@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung Yosef ngomong ka maranehna: Ieu ⟨is⟩ nu kuring omongkeun ka aranjeun, nyarios: mata-mata aranjeun ⟨are⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna ngomong"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kuring ngomongkeun"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:25.840402323Z",
+  "model": "glm-5.3"
+}

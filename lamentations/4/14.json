@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Wangu-wanguan marinteu buta di jalan-jalanan, maranéhna polot ku getih, sahingga ⟨jelema⟩ teu sanggup ngantap pakean-pakean maranéhna.",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "wangu-wanguan"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "buta"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "di jalan-jalanan"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "polot"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ku getih"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "ngantap"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "pakean-pakean maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:29:57.991098113Z",
+  "model": "glm-5.3"
+}

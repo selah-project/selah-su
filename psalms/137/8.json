@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Hei putri Babel, nu karuntagkeun; wiréh anu baris mayar ka anjeun ⟨את⟩ balas anu anjeun pigunakeun ka abdi sadaya!",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "nu karuntagkeun"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "wiréh anu"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "baris mayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balas"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "balas anjeun"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "anu anjeun pigunakeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka abdi sadaya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:30.245606252Z",
+  "model": "glm-5.3"
+}

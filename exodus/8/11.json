@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Tapi nalika Paroh nempo yén geus aya karingasan, manéhna ngabeungbeuratan ⟨את⟩ haténa sarta teu ngadangu ka maranehna, saperti anu geus diomongkeun ku Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "tapi-nalika-nempo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "geus-aya"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "karingasan"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "sarta-ngabeungbeuratan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haténa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "haténa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta-teu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka-maranehna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti-anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:43.018187323Z",
+  "model": "glm-5.3"
+}

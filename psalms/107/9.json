@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Sabab Yahwe geus ngabusikeun ⟨⟨⟩> nefesh nu ngahauseun, sarta nefesh nu kalaparan geus dieusian ku nu hadé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "geus ngabusikeun"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "nu ngahauseun"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "sarta nefesh"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "nu kalaparan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "geus dieusian"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ku nu hadé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:01.516865365Z",
+  "model": "glm-5.3"
+}

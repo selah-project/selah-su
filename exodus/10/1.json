@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teras Yahwe ngomong ka Moshe: sumping ka Paroh, sabab abdi geus nyieun beurat ⟨את⟩ hatena jeung ⟨את⟩ haté bala-bantina, sangkan abdi nempatkeun tanda-tanda abdi ieu di antawisna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Teras ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sumping"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "geus nyieun beurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatena"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "haté bala-bantina"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bala-bantina"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tanda-tanda abdi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di antawisna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:49.288037992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Dina taun datangna Tartan ka Ashdod, waktu Sargon raja Ashur ngutus ⟨את⟩ anjeunna, jiwar perang ngalawan Ashdod sarta ngawasaanana.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "dina taun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datangna"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ka Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "waktu ngutus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anjeunna",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "jiwar perang"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "ngalawan Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ngawasaanana"
+    }
+  ],
+  "timestamp": "2026-08-26T16:59:10.470060110Z",
+  "model": "glm-5.3"
+}

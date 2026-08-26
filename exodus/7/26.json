@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Teras Yahwe ngomong ka Moshe: «Panggih ka Paroh sarta sampaikeun ka anjeunna: Saperti kieu katawi Yahwe: Lepaskeun ⟨את⟩ umat Kami, sangkan maranehna ngawula ka Kami.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "panggih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ו אמרת",
+      "gloss": "sampaikeun"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saperti kieu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katawi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lepaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat Kami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat Kami"
+    },
+    {
+      "surface": "ו יעבדני",
+      "gloss": "ngawula ka Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:11.327345702Z",
+  "model": "glm-5.3"
+}

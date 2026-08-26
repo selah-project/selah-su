@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 23:4",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Tingali! Kuring geus nyirikeun ka aranjeun ⟨את⟩ bangsa-bangsa nu nyésa ieu jadi warisan pikeun suku-suku aranjeun, ti Yarden jeung sakabéh bangsa nu kuring parengkeut, nepi ka laut nu badag, daeur panonpoé.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Tingali!"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "geus nyirikeun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa nu nyésa ieu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "nu nyésa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "jadi warisan"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "pikeun suku-suku aranjeun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "kuring parengkeut"
+    },
+    {
+      "surface": "והים",
+      "gloss": "sarta laut"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nu badag"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "daeur"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    }
+  ],
+  "timestamp": "2026-08-26T12:01:38.689596795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Tuluy putra-putra Israél ngarérét ka Yahwe, nyarios: Geus dosa kami ka Anjeun, sabab geus kami tinggalkeun ⟨את⟩ Elohim kami sarta kami ngawulakeun ⟨את⟩ ka Baal-baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "tuluy ngarérét"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "geus dosa kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "geus kami tinggalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim kami"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "sarta kami ngawulakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka Baal-baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ka Baal-baal"
+    }
+  ],
+  "timestamp": "2026-08-26T12:06:23.019075453Z",
+  "model": "glm-5.3"
+}

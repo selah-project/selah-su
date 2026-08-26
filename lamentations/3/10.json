@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Manéhna jadi biruang nu ngindeung ka abdi, singa dina tempat sumput.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "biruang"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ngindeung"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "dina tempat sumput"
+    }
+  ],
+  "timestamp": "2026-08-26T15:27:04.972211046Z",
+  "model": "glm-5.3"
+}

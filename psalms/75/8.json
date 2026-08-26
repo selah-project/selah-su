@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Sebab Elohim nu ngahukum: ieu ⟨manéhna⟩ dihandapkeun, sarta ieu ⟨manéhna⟩ dilonjatkeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "nu ngahukum"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "dihandapkeun"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "sarta ieu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "dilonjatkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:52.109316055Z",
+  "model": "glm-5.3"
+}

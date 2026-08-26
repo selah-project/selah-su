@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Ka Nu nyieun hal-hal ajaib anu agung, ku ⟨Na⟩ sorangan, sabab salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ka Nu nyieun"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "hal-hal ajaib"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "anu agung"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ku ⟨Na⟩ sorangan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.148619691Z",
+  "model": "glm-5.3"
+}

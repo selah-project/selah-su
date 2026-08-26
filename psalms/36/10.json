@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Sabab jeung Anjeun ⟨aya⟩ sumber hirup, dina caaya-Mi urang nempo caaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung Anjeun"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "sumber"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "dina caaya-Mi"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "urang nempo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "caaya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:45.172246556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Puisi pangaweruh, ku Eitan ⟨sang⟩ Ezrahite.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Puisi pangaweruh"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ku Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "⟨sang⟩ Ezrahite"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:14.276322673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Kuring tilelep dina hawar jero, jeung euweuh jejakinceuhan; kuring asup kana jerona cai, sarta arus ngalelepkeun kuring.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "tilelep"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "dina hawar"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "jero"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "jejakinceuhan"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "asup kana"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "jerona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "sarta arus"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "ngalelepkeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:18.202211332Z",
+  "model": "glm-5.3"
+}

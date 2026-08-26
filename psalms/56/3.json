@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 56,
+  "translation": "Nu mungsuhan abdi ngahakan abdi sapanjang poé, sabab loba nu perang ngalawan abdi, ⟨nu Maha Luhur⟩.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ngahakan abdi"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "nu mungsuhan abdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "nu perang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngalawan abdi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨nu Maha Luhur⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:48.427173742Z",
+  "model": "glm-5.3"
+}

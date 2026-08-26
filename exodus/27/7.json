@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "sarta ⟨את⟩ tutungkulanana diasupkeun kana geulang-gelang, sarta tutungkulan-tutungkulan aya dina dua sisi mihrab dina mawa eta.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "diasupkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutungkulanana"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tutungkulanana"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "kana geulang-gelang"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tutungkulan-tutungkulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mihrab"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "dina mawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eta (mihrab)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:29.650015867Z",
+  "model": "glm-5.3"
+}

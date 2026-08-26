@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ⟨את⟩ Qedemot jeung ⟨את⟩ taneuh buruanana, jeung ⟨את⟩ Meypaat jeung ⟨את⟩ taneuh buruanana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Qedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh buruanana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "taneuh buruanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Meypaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meypaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh buruanana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "taneuh buruanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:24:38.572561905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 2:17",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung ⟨lalaki⟩-na ngomong ka anjeunna: Kami bebas tina sumpah anjeun ieu nu anjeun geus sumpahkeun ka kami.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨lalaki⟩-na"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "bebas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "tina sumpah anjeun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "anjeun sumpahkeun ka kami"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:39.483391883Z",
+  "model": "glm-5.3"
+}

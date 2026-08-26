@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tapi ⟨את》 gandum jeung ⟨את⟩ jewawut teu ditakol, sabab karak di mana瓜 Godéng.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "jewawut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ditakol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "karak di mana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Godéng"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:10.271798429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Teras Dawid nyarita ka Yehonatan, Saha nu bakal nyaritakeun ka abdi, atawa naon upama bapa anjeun ngajawab anjeun kalawan pareng?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "teras nyarita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bakal nyaritakeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "ngajawab anjeun"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "pareng"
+    }
+  ],
+  "timestamp": "2026-08-26T17:32:33.937471693Z",
+  "model": "glm-5.3"
+}

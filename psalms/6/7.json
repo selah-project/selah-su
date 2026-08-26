@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Cape abdi ku harewosan abdi; sadapan wengi kamar abdi kumieutan; ajang abdi kacairen ku cipanon abdi.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "cape abdi"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ku harewosan abdi"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "kumieutan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sadapan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "kamar abdi"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ku cipanon abdi"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ajang abdi"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "kacairen"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:41.772406215Z",
+  "model": "glm-5.3"
+}

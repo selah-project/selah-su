@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Musawarah Yahwe ka salawasna bakal ngadeg, rarancang hate-Na turun-tumurun.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Musawarah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka salawasna"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "rarancang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hate-Na"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ka turunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jeung turunan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:59.037463573Z",
+  "model": "glm-5.3"
+}

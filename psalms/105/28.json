@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Ngirim-Na kadungkeman sarta mica poék, tapi maranéhna teu ngalawan ⟨את⟩ kecap-Na.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ngirim-Na"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadungkeman"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "sarta mica poék"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ngalawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-Na"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "kecap-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:43.244933813Z",
+  "model": "glm-5.3"
+}

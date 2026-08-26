@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 82,
+  "translation": "Bangkit, Elohim, adili ⟨את⟩ bumi, sabab Anjeu nu baris mibanda warisan sadaya bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "adili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeu"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "baris mibanda warisan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:49.721111146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "jeung ⟨את⟩ Gat jeung ⟨את⟩ Maresha jeung ⟨את⟩ Zip,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Maresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Zip"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zip"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:03.720260307Z",
+  "model": "glm-5.3"
+}

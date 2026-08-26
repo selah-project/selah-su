@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Anjeunna ngomong: Sabab abdi bakal aya jeung anjeun, jeung ieu bakal jadi tumangan pikeun anjeun yén abdi nu ngirim anjeun: nalika anjeun mawa kaluar ⟨את⟩ bangsa ti Midzrayim, aranjeunna bakal ngabdi ⟨את⟩ Elohim di gunung ieu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anjeunna ngomong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "abdi bakal aya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "האות",
+      "gloss": "tumangan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "nu ngirim anjeun"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "nalika anjeun mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Midzrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "aranjeunna bakal ngabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:30.116626441Z",
+  "model": "glm-5.3"
+}

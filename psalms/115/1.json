@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Lain ka kami, Yahwe, lain ka kami, tapi ka ngaran-Mu pasa kamulyaan, lantaran kanyaah-Mu, lantaran kajujuran-Mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ka ngaran-Mu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "lantaran"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "lantaran"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kajujuran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:29.253375828Z",
+  "model": "glm-5.3"
+}

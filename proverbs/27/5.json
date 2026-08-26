@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Leuwih hadé teguran nu muka tinimbang kanyaah nu nyumput.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "leuwih hadé"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "nu muka"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "tinimbang kanyaah"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "nu nyumput"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:35.330956546Z",
+  "model": "glm-5.3"
+}

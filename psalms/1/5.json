@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ku sabab eta nu jalma-rasiah moal tangtung dina pancaran, jeung nu padados moal ⟨di⟩ dewan paadilan-adilan nu bener.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sabab eta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "tangtung"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jalma-rasiah"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dina pancaran"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "jeung nu padados"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "dina dewan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "paadilan-adilan nu bener"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:16.748090721Z",
+  "model": "glm-5.3"
+}

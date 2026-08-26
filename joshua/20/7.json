@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Maranjeuna ngasak-sakrakeun ⟨את⟩ Kedesh di Galil, di gunung Naftali, jeung ⟨את⟩ Shekhem di gunung Efrayim, jeung ⟨את⟩ Kiryat-Arba — éta téh Hevron — di gunung Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "ngasak-sakrakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "di Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "éta téh"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:06.328218960Z",
+  "model": "glm-5.3"
+}

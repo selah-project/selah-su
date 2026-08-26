@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung abdi nanti, sabab maranehna henteu nyarita, sabab maranehna ngadeg cicing, henteu mairan deui.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "jeung abdi geus nanti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "maranehna nyarita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "maranehna ngadeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "mairan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T15:16:33.879692314Z",
+  "model": "glm-5.3"
+}

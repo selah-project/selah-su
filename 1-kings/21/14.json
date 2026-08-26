@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Tuluy maranéhna ngirim béja ka Izebel nyarita: Geus diginten Navot, jeung geus maot.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "tuluy-marantosan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "geus-diginten"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jeung-geus-maot"
+    }
+  ],
+  "timestamp": "2026-08-26T12:47:23.703210877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Nu bari soh anjeun ulah diwedelan cai, jeung ti nu lapar anjeun nahan roti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "nu bari soh"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "diwedelan"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "jeung ti nu lapar"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "nahan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-26T15:10:48.432328149Z",
+  "model": "glm-5.3"
+}

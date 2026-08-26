@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung Avraham ngomong: Abdi badé sumpah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "badé sumpah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:07.269471383Z",
+  "model": "glm-5.3"
+}

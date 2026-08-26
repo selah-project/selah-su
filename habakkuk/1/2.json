@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sabaraha lilana, Yahwe, abdi ngagero, ari Anjeun teu ngadenge? Abdi ngarandeur ka Anjeun ngeunaan karusakan, ari Anjeun teu ngalampahkeun palegut?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sabaraha lilana"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "sabaraha lilana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "abdi ngagero"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ngadenge"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "abdi ngarandeur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "karusakan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ngalampahkeun palegut"
+    }
+  ],
+  "timestamp": "2026-08-26T14:15:10.961074777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Di sabeulikeun Yarden, di tanah Moab, Moshe mimiti marengkeun ⟨את⟩ torat ieu, sangkan nyarita:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "di sabeulikeun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "mimiti marengkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "marengkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torat ieu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "torat"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:43.673846377Z",
+  "model": "glm-5.3"
+}

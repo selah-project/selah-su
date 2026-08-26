@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Dina poé eta kudu didahar, ulah aranjeun nyésakeun naon-naon tina nepi ka ésuk isuk; abdi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kudu didahar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "anjeun nyésakeun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ésuk isuk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:17.750830405Z",
+  "model": "glm-5.3"
+}

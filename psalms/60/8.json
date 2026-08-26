@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Elohim nyarita dina kasuciannana: kuring baris bagja, kuring baris ngabagi Shekhem, jeung léngkob Sukot kuring ukur.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dina kasuciannana"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "kuring baris bagja"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "kuring baris ngabagi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "jeung léngkob"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "kuring ukur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:47.944221423Z",
+  "model": "glm-5.3"
+}

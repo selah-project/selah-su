@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Ayeuna anjeun nyarita: Leumpang, sérakeun ka Adonay-anjeung: Tingali, Eliyahu aya di dieu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sérakeun"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ka Adonay-anjeung"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:45:37.185787291Z",
+  "model": "glm-5.3"
+}

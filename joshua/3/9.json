@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Yehosua nyarita ka putra-putra Yisrael: Datang ka dieu, jeung garah ⟨את⟩ kecap-kecap Yahwe, Elohim aranjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ka dieu"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "jeung garah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecap-kecap"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:54:10.929874774Z",
+  "model": "glm-5.3"
+}

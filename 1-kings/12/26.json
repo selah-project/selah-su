@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Teras Yarobam ngomong dina atina: «Ayeuna karajaan ieu balik deui ka bapanana Dawid.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dina atina"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka bapanana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:39.142013916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Mun anjeun balik, hé Israél, aperan Yahwe, ka abdi anjeun kudu balik; jeung mun anjeun miceun tinjo-geulis anjeun ti payun abdi, anjeun moal gagger.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Mun"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "anjeun balik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "aperan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "anjeun balik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung mun"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "anjeun miceun"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "tinjo-geulis anjeun"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "anjeun gagger"
+    }
+  ],
+  "timestamp": "2026-08-26T13:22:53.390017459Z",
+  "model": "glm-5.3"
+}

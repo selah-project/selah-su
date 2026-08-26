@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Saeutikna — sia-sia kénéh abdi nyucikeun ati abdi, jeung abdi ngumbah leungeun abdi dina kaayaan tanpa salah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "saeutikna"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "abdi nyucikeun"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ati abdi"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "jeung abdi ngumbah"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "dina kaayaan tanpa salah"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "leungeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:13.772750591Z",
+  "model": "glm-5.3"
+}

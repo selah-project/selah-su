@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung anjeunna ngomong: balikeun leungeun anjeun ka sajéro dada anjeun; lajeng manehna nuluykeun balik leungeunna ka sajéro dadana, terus ngaluarkeunana tina sajéro dadana, jeung tuluy, rait, geus balik deui sapertos dagingna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung anjeunna ngomong"
+    },
+    {
+      "surface": "השב",
+      "gloss": "balikeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "sajéro dada anjeun"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lajeng manehna nuluykeun balik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "sajéro dadana"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "terus ngaluarkeunana"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "tina sajéro dadana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tuluy, rait"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "geus balik deui"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "sapertos dagingna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:36.722357710Z",
+  "model": "glm-5.3"
+}

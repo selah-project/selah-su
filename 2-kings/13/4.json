@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Laju Yehoachaz ngalembuah ⟨את⟩ beungeut Yahwe, sarta Yahwe ngadangu ka anjeunna, sabab manéhna nempo ⟨את⟩ kasusahna Israél, sabab raja Aram geus nyingsalujeungkeun maranéhna.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ngalembuah"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beungeut Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "sarta ngadangu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "manéhna nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahna Israél"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nyingsalujeungkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:06.095418804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Abdi badé resep jeung aria dina anjeun; abdi badé nyingkeulkeun Jenengan-Mu, Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "abdi badé resep"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "jeung aria"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dina anjeun"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "abdi badé nyingkeulkeun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Jenengan-Mu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:06.906881858Z",
+  "model": "glm-5.3"
+}

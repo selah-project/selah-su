@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Sagala bangsa-bangsa, tepukkeun leungeun; sorakeun ka Elohim ku sora kagumbiraan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "tepukkeun"
+    },
+    {
+      "surface": "כף",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "sorakeun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ku sora"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kagumbiraan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:12.422130338Z",
+  "model": "glm-5.3"
+}

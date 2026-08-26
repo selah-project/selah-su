@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Sabab kanyaah satia perjangjian-Mu aya di payuneun panon kuring, sarta aku lalampahan dina bener-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia perjangjian-Mu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "sarta aku lalampahan"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dina bener-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:06.689971724Z",
+  "model": "glm-5.3"
+}

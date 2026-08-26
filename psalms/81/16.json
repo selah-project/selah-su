@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Nu-ngabenci-nu Yahwe nyamar satia ka Anjeunna, sarta jadi waktu maranehna salawasna.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Nu ngabenci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "nyamar satia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "waktu maranehna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:20.982810206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Yahwe nangtukeun waktu patepung, nyarieun: Isukan Yahwe bakal ngalaksanakeun kecap ieu di bumi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nangtukeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waktu patepung"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarieun"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "isukan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakal ngalaksanakeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:15.942060050Z",
+  "model": "glm-5.3"
+}

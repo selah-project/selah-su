@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung raja Mesir nyarita ka para paraji awéwé Ibrani — nu ngaran nu hijina Shifrah, jeung ngaran nu kadua Puah —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ka para paraji"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "awéwé Ibrani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nu hiji"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nu kadua"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:54.248318905Z",
+  "model": "glm-5.3"
+}

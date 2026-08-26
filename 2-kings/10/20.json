@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Sarta saur Yéhu: Sing sucikeun sidang raya pikeun Baal. Lajeng maranéhna ngabéwarakeunana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta saur"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yéhu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sing sucikeun"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "sidang raya"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "pikeun Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "lajeng maranéhna ngabéwarakeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:02.758058993Z",
+  "model": "glm-5.3"
+}

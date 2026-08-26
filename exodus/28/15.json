@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 28:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung anjeun bakal nyieun héshan pamutus, gawé nu dirarancang; sarua jeung gawé épod anjeun bakal nyieun ⟨את⟩ ina: tina emas, binih bulao, binih beureum kolot, jeung binih beureum cacing, jeunggoto binih éncér kanyaman, anjeun bakal nyieun ⟨את⟩ ina.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun bakal nyieun"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "héshan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pamutus"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nu dirarancang"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sarua jeung gawé"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "épod"
+    },
+    {
+      "surface": "תעשנו",
+      "gloss": "anjeun bakal nyieun ina"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "binih bulao"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "jeung binih beureum kolot"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "jeung cacing"
+    },
+    {
+      "surface": "שני",
+      "gloss": "beureum cacing"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeunggoto binih éncér"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kanyaman"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun bakal nyieun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ina (héshan)"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:42.656510750Z",
+  "model": "glm-5.3"
+}

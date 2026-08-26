@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta jadi lamun anjeun geus nyepeng ⟨את⟩ ⟨the⟩ kota, anjeun ngaduruk ⟨את⟩ ⟨the⟩ kota ku seuneu; luyu jeung kecap Yahwe anjeun pigawé. Tempo, abdi geus maréntah ⟨את⟩ anjeun.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "lamun anjeun geus nyepeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ kota"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "anjeun ngaduruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ kota"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "luyu jeung kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "anjeun pigawé"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "abdi geus maréntah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:03.683465131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung ulah ngarugikeun hiji jalma ⟨את⟩ babaturanana, tapi anjeun kedah sieun ka Elohim anjeun, sabab abi Yahwe, Elohim anjeun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ngarugikeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiji jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babaturanana"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "tapi anjeun kedah sieun"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ka Elohim anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:17.149160410Z",
+  "model": "glm-5.3"
+}

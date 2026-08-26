@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung deui kuring nempo di sahandapeun panonpoé: di tempat pangadilan, di ditu aja kadzaliman; jeung di tempat kabeneran, di ditu aja kadzaliman.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "jeung deui"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kuring nempo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dina sahandapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di ditu"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kadzaliman"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "jeung tempat"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di ditu"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kadzaliman"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:15.225284143Z",
+  "model": "glm-5.3"
+}

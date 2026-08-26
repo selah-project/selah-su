@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Anjeun méré panci ka nu sieun ka Anjeun, pikeun diangkat sabab ⟨itu mangrupa⟩ kabeneran. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Anjeun méré"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ka nu sieun ka Anjeun"
+    },
+    {
+      "surface": "נס",
+      "gloss": "panci"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "pikeun diangkat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:47.943914245Z",
+  "model": "glm-5.3"
+}

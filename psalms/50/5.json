@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Kumpulkeun ka daku nu milu kanyaah satia perjangjian-Ku, nu mimiti perjangjian ku kurban.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Kumpulkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka daku"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "nu milu kanyaah satia perjangjian-Ku"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "nu mimiti"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian-Ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:53.531132659Z",
+  "model": "glm-5.3"
+}

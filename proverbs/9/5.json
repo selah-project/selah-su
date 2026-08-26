@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Piheulaan datang, tuang roti kuring, sarta inum anggur nu kuring geus nyampurkeun.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "piheulaan datang"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "tuang"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "roti kuring"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "sarta inum"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nu kuring geus nyampurkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:33.924269021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Anjeun nganggap enteng sakabeh nu nyimpang ti aturan-aturan Anjeun, sabab dusta bae tipu-daya maranehna.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Anjeun nganggap enteng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabeh"
+    },
+    {
+      "surface": "shogim",
+      "gloss": "nu nyimpang"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "ti aturan-aturan Anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta bae"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "tipu-daya maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:57.393246582Z",
+  "model": "glm-5.3"
+}

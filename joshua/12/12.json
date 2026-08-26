@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Raja Eglon, hiji; raja Gezer, hiji;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:42.684146826Z",
+  "model": "glm-5.3"
+}

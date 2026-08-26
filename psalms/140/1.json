@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 140,
+  "translation": "Kanggo pangatik, mazmur ti Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangatik"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:04.057646255Z",
+  "model": "glm-5.3"
+}

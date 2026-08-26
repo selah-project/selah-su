@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 114,
+  "translation": "Anu ngabalikeun ⟨the⟩ batu jadi balong cai, batu kere jadi sumber cai —",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Anu ngabalikeun"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "balong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "batu kere"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "jadi sumber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:17.398278686Z",
+  "model": "glm-5.3"
+}

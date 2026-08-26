@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung anjeunna nanjatkeun ⟨את⟩ persembahanna ka Eglon, raja Moab; ari Eglon teh lalaki gemuk pisan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nanjatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahanna"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahanna"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "ka Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "ari Eglon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "gemuk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:58.460826427Z",
+  "model": "glm-5.3"
+}

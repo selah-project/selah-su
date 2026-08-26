@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Nalika anjeun lumpat, ⟨את⟩ inyana mungbakeun anjeun; nalika anjeun saré, inyana ngajaga anjeun; sareng nalika anjeun hudang, inyana nyarita jeung anjeun.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Nalika anjeun lumpat"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "inyana mungbakeun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "nalika anjeun saré"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "inyana ngajaga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "sareng nalika anjeun hudang"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inyana"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "nyarita jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:52.191277156Z",
+  "model": "glm-5.3"
+}

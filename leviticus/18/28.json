@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Supaya tanah henteu ngamuntahkeun aranjeun dina nganajiskeunana, kawas geus ngamuntahkeun ⟨את⟩ bangsa nu saméméh aranjeun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "supaya henteu"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "ngamuntahkeun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "dina nganajiskeunana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "geus ngamuntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "saméméh aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:34.905729844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung urang ngabeuleum ⟨את⟩ sapi éta di hareupeunana; ⟨את⟩ kulitna jeung ⟨את⟩ dagingna jeung ⟨את⟩ getihna, babarengan jeung taihna, di\tbeuleum.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "jeung-urang-ngabeuleum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi-éta"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "sapi-éta"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "di-hareupeunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulitna"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "kulitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "dagingna"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung-⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "על",
+      "gloss": "babarengan-jeung"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "taihna"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "di\tbeuleum"
+    }
+  ],
+  "timestamp": "2026-08-26T11:31:30.257730679Z",
+  "model": "glm-5.3"
+}

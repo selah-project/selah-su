@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung lamun aya lalaki nu nyandak ⟨את⟩ pamajikan dulurna, éta ⟨is⟩ noda; kateuleung dulurna geus dibuka; moal boga anak maranéhna jadi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jeung-lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikan dulurna"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulurna"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "noda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kateuleung"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulurna"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "dibuka"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "moal-boga-anak"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maranéhna-jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:52.447495214Z",
+  "model": "glm-5.3"
+}

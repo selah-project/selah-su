@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Ulah babaturan jeung ⟨את⟩ nu boga amarah, jeung ⟨את⟩ jelema paneuy ulah padeukeut.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "babaturan jeung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu boga amarah"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "nu boga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "amarah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jelema"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "paneuy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "padeukeut"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:08.778723919Z",
+  "model": "glm-5.3"
+}

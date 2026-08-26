@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Anu dipisihan leungeun kuring bakal ajeg sarengana, ogé leungeun-siku kuring bakal nguatkeunana.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun kuring"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "bakal ajeg"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sarengana"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "leungeun-siku kuring"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "nguatkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:38:17.763759461Z",
+  "model": "glm-5.3"
+}

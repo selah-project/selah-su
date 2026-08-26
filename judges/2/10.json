@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung ogé sagala angkatan harita geus kana pisanna ka bapana-bapana; lajeng jadi angkatan séjén sabada maranéhna, nu teu nyaho ⟨את⟩ Yahwe jeung ogé ⟨את⟩ pagawéan nu geus dipigawé pikeun Yisrael.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "geus kana pisanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "bapana-bapana"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lajeng jadi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "séjén"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sabada maranéhna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagawéan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "pagawéan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pikeun Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:41.185607866Z",
+  "model": "glm-5.3"
+}

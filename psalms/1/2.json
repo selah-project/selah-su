@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Tapi kana Torat Yahwe kahayang-na, jeung dina Torat-Na anjeunna ngareungeuy peupeusan beurang jeung peuting.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "kana Torat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "kahayang-na"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "jeung dina Torat-Na"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ngareungeuy"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "peupeusan beurang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jeung peuting"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:41.997371913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Yahwe, Elohim balad-balad perang, saha nu kawas Anjeun — nu kawasa, Yah? jeung kasetiaan Anjeun ngurilingan Anjeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "balad-balad perang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nu kawas Anjeun"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "nu kawasa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "jeung kasetiaan Anjeun"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "ngurilingan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:13.598062663Z",
+  "model": "glm-5.3"
+}

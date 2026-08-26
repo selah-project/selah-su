@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung raja Koresh mawa kaluar ⟨את⟩ parabot bumi Yahwe, nu geus dipawa kaluar ku Nevukhadnetsar ti Yerushalaim, jeung geus dipariksa dina bumi allah-allahna.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parabot"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "parabot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "dipawa kaluar"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ti Yerushalaim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "jeung dipariksa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dina bumi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "allah-allahna"
+    }
+  ],
+  "timestamp": "2026-08-26T15:51:42.938464005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 52:15",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Jeung ti nu miskin jalma-jalma, jeung ⟨את⟩ sésa jalma-jalma nu tapis di kota, jeung ⟨את⟩ nu murag-murag nu murag ka raja Bavel, jeung ⟨את⟩ sésa karaméan — kabéh dijauhan ku Nevuzaradan, pangawasa para panémbéh.",
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "jeung ti nu miskin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sésa jalma-jalma nu tapis di kota"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sésa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "nu tapis"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu murag-murag nu murag ka raja Bavel"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "nu murag-murag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "murag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sésa karaméan"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sésa"
+    },
+    {
+      "surface": "האמון",
+      "gloss": "karaméan"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "dijauhan"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para panémbéh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:42:46.591036111Z",
+  "model": "glm-5.3"
+}

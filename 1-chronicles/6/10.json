@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung putra-putra Elkanah: Amashay jeung Ahimot.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Amashay"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "jeung Ahimot"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:27.294255843Z",
+  "model": "glm-5.3"
+}

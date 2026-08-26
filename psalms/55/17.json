@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Abdi ka Elohim nyaur, sarta Yahwe nyalametkeun abdi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nyaur"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "sarta Yahwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "nyalametkeun abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:37.654963253Z",
+  "model": "glm-5.3"
+}

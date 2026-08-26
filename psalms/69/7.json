@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Ulah sia-sia nu ngaharepan ka anjeun sabab abdi, Adonay, Yahwe Tzevaot; ulah sieun nu ngudag anjeun sabab abdi, Elohim-na Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sabab abdi"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "nu ngaharepan ka anjeun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sabab abdi"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "nu ngudag anjeun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:43.992352285Z",
+  "model": "glm-5.3"
+}

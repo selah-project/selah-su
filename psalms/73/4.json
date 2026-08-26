@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Sabab euweuh beubeuleutan dina paéhna, sarta awakna gancang kacukang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "beubeuleutan"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "dina paéhna"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "sarta gancang kacukang"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "awakna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:22.734396048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Kuring milarian ⟨את⟩ Yahwe, jeung manéhna ngajawab kuring, jeung tina sagala kasesieun kuring manéhna ngabébaskeun kuring.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "kuring milarian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "jeung manéhna ngajawab kuring"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "jeung tina sagala"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "kasesieun kuring"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "manéhna ngabébaskeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:58.117155512Z",
+  "model": "glm-5.3"
+}

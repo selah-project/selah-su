@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung anjeunna méré ⟨את⟩ aranjeunna pikeun kasieungan-dunya di payuneun sadaya nu mawa aranjeunna dipiara",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anjeunna méré"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "pikeun kasieungan-dunya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "nu mawa aranjeunna dipiara"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:56.160317675Z",
+  "model": "glm-5.3"
+}

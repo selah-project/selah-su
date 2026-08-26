@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Mun kuring asup kana kajang imah kuring, mun kuring naék kana dipiran saré kuring —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Mun"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "kana kajang"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "imah kuring"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "dipiran"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "saré kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:28.697634706Z",
+  "model": "glm-5.3"
+}

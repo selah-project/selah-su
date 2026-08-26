@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung Yehonatan ngajawab ⟨את⟩ Sha-ul: nyuhun-nyuhun Dawid ka abdi, ulah ka Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jeung ngajawab"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha-ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "nyuhun"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "nyuhun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:40.942214717Z",
+  "model": "glm-5.3"
+}

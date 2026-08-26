@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Bilang ⟨את⟩ putra-putra Léwi luyu jeung imah bapak-bapakna, luyu jeung kulawargana masing-masing; sakabéh lalaki ti umur sabulan ka luhureunana anjeun kudu ngabilang aranjeunna.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Léwi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léwi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "luyu jeung imah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapak-bapakna"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "luyu jeung kulawargana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ti umur"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sabulan"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ka luhureunana"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "anjeun ngabilang aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:06.498662933Z",
+  "model": "glm-5.3"
+}

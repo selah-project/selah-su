@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Nyarita Yoséf ka sadulur-sadulurna: Abdi Yoséf; naha bapa abdi masih hirup? Tapi henteu sanggup sadulur-sadulurna ngajawab ⟨את⟩ anjeunna, sabab kagét pisan aranjeunna ka hareupeunana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "naha masih"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa abdi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi henteu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "kagét pisan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ka hareupeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:29:44.426823706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Salaku salju dina usum panas, jeung salaku hujan dina mangsa panén, kitu kamuliaan teu pantes pikeun nu bebalong.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "salaku salju"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "dina usum panas"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "jeung salaku hujan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "dina mangsa panén"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pantes"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "pikeun nu bebalong"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamuliaan"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:33.432624127Z",
+  "model": "glm-5.3"
+}

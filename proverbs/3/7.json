@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Ulah jadi pinter dina panon anjeun sorangan; takut ka ⟨את⟩ Yahwe jeung palingkah ti kaonéan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "pinter"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "dina panon anjeun sorangan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takut ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "jeung palingkah"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ti kaonéan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:48.839312229Z",
+  "model": "glm-5.3"
+}

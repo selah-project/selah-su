@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Manehna nyieun ⟨את⟩ imah di tempat luhur, sarta nyieun imam ti tungtung-tungtung jalma-jamana, nu lain ti barung-barung Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung-manehna-nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "במות",
+      "gloss": "di tempat luhur"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "sarta-nyieun"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "ti tungtung-tungtung"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma-jalma éta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mangrupa"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ti barung-barung"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:16.949837341Z",
+  "model": "glm-5.3"
+}

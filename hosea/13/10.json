@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Teteh raja anjeun ayeuna, sangkan mawa taliti ka anjeun dina sadaya kota-kota anjeun? Jeung para hakim anjeun, nu ku anjeun diomongkeun: «Anteur ka abdi raja jeung pamingpin!»",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "teteh (di mana)"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "raja anjeun"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "sangkan mawa taliti ka anjeun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sadaya"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "kota-kota anjeun"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "jeung para hakim anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ku anjeun diomongkeun"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "anteur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "jeung pamingpin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:08.612476891Z",
+  "model": "glm-5.3"
+}

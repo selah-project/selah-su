@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Sebab dina ⟨Anjeunna⟩ haté urang bubungah, sabab dina Jenengan-Na anu kudus urang percaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina ⟨Anjeunna⟩"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bubungah"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "haté urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dina Jenengan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "anu kudus-Na"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "urang percaya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:36.363356338Z",
+  "model": "glm-5.3"
+}

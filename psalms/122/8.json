@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 122,
+  "translation": "Demi sadulur-sadulur kuring jeung babaturan kuring, abdi nyarios: tulung, shalom di anjeun.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sadulur-sadulur kuring"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "jeung babaturan kuring"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "abdi nyarios"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tulung"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:33.594421517Z",
+  "model": "glm-5.3"
+}

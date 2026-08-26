@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Kecapna dina atina: 'El geus poho, nyumputkeun raray-Na, moal nempo salawasna.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kecapna"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dina-atina"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "geus-poho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "nyumputkeun"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "raray-Na"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:18.892512062Z",
+  "model": "glm-5.3"
+}

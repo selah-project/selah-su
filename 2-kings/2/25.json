@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng anjeunna indit ti dinya ka gunung Karmel, ti dinya ogé anjeunna balik deui ka Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anjeunna indit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ti dinya ogé"
+    },
+    {
+      "surface": "שב",
+      "gloss": "anjeunna balik deui"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-26T12:48:44.450047780Z",
+  "model": "glm-5.3"
+}

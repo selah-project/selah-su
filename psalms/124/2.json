@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 124,
+  "translation": "upama lain Yahwe nu jadi pikeun urang, nalika manusa ngadeg ngalawan urang,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "upama lain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nu jadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun urang"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "nalika ngadeg"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ngalawan urang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:06.669648894Z",
+  "model": "glm-5.3"
+}

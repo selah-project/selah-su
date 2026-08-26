@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Maranéhna geus ngomong: «Pindah, hayu urang museuhkeun ⟨את⟩ maranéhna tina jadi bangsa, sangkan teu dieuingan de ngaran Israel.»",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pindah"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "jeung hayu urang museuhkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "tina jadi bangsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sangkan teu"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "dieuingan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:48.908794794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung anjeun ngomong ka anjeuna: Yahwe, Elohim urang Ibrani, ngirim aku ka anjeun, nyarios:_LAYER kalapan ⟨את⟩ balaréa abdi, supaya aranjeun ngawuran abdi di gurun; sarta tingali, tepi ka ayeuna anjeun teu ngadangu.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "anjeun ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "urang Ibrani"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ngirim aku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kalapan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balaréa abdi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "balaréa abdi"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "arun ngawuran abdi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sarta tingali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tepi ka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ayeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:25.443182127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Jeung anjeunna nyauran kalaparan ka luhur taneuh, sadaya tojosan roti anjeunna mebek.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "jeung anjeunna nyauran"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kalaparan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tojosan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "anjeunna mebek"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:20.066299994Z",
+  "model": "glm-5.3"
+}

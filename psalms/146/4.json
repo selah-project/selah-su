@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 146,
+  "translation": "Kaluar rohna, manéhna balik deui ka taneuhna; dina poé éta sorangan pupus rancangan-rancanganana.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rohna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ka taneuhna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta sorangan"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "pupus"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "rancangan-rancanganana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:44.913656849Z",
+  "model": "glm-5.3"
+}

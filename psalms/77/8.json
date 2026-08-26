@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Naha salawasna Adonay baris nyingkeunkeun, jeung teu baris nambah reueus deui?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "naha salawasna"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "baris nyingkeunkeun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "baris nambah"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "reueus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:35.821818546Z",
+  "model": "glm-5.3"
+}

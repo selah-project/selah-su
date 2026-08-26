@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Turun mibarakeun ka anjeunna ⟨את⟩ Zimran jeung ⟨את⟩ Yokshan jeung ⟨את⟩ Medan jeung ⟨את⟩ Midyan jeung ⟨את⟩ Yisbak jeung ⟨את⟩ Suax.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "mibarakeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yisbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Suax"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Suax"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:23.691366636Z",
+  "model": "glm-5.3"
+}

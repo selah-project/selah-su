@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Nu cerdas nempo kahadean sarta nyumput, tapi nu laloom terus ngaliwat sarta meunang uksup.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "nu cerdas"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kahadean"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "sarta nyumput"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "tapi nu laloom"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "terus ngaliwat"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "sarta meunang uksup"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:24.026536214Z",
+  "model": "glm-5.3"
+}

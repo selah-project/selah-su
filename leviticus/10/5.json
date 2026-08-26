@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jelema-jelema éta ngadeukeutan sarta mawa ⟨maranéhna⟩ make ijan-ijanna ka luar ka luar kampo, saperti anu dipedar ku Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ngadeukeutan"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "mawa ⟨maranéhna⟩"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "make ijan-ijanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ka kampo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dipedar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:53.213853876Z",
+  "model": "glm-5.3"
+}

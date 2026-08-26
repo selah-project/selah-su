@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "jeung Azaryah ngalahirkeun ⟨את⟩ xelets, jeung xelets ngalahirkeun ⟨את⟩ Elasah.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "jeung Azaryah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "xelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "jeung xelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:49.331110413Z",
+  "model": "glm-5.3"
+}

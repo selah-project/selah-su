@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 5:10",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Ratu alatan kecap-kecap ⟨the⟩ raja jeung para pangulina asup ka imah kadang; Ratu ngajawab jeung ngomong ka raja: Wa raja, hirup salawasna; ulah pikiran anjeun ngagétékan manah, jeung cahaya beungeut anjeun ulah robah.",
+  "tokens": [
+    {
+      "surface": "מלכתא",
+      "gloss": "Ratu"
+    },
+    {
+      "surface": "לקבל",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "jeung para pangulina"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka imah"
+    },
+    {
+      "surface": "משתיא",
+      "gloss": "kadang"
+    },
+    {
+      "surface": "עללת",
+      "gloss": "asup"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "מלכתא",
+      "gloss": "Ratu"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יבהלוך",
+      "gloss": "ngagétékan anjeun"
+    },
+    {
+      "surface": "רעיונך",
+      "gloss": "pikiran anjeun"
+    },
+    {
+      "surface": "וזיויך",
+      "gloss": "jeung cahaya beungeut anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "ישתנו",
+      "gloss": "robah"
+    }
+  ],
+  "timestamp": "2026-08-26T17:21:31.513333183Z",
+  "model": "glm-5.3"
+}

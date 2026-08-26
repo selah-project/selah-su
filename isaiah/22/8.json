@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung inyana muka ⟨את⟩ tutup Yehudah, jeung anjeun nempo dina poé éta ka pakarang Béit HaYaar.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Jeung inyana muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutup"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tutup"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "jeung anjeun nempo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "pakarang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Béit"
+    },
+    {
+      "surface": "היער",
+      "gloss": "HaYaar"
+    }
+  ],
+  "timestamp": "2026-08-26T13:07:02.047974886Z",
+  "model": "glm-5.3"
+}

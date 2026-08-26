@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Lamun aranjeun ngajual barang dagang ka babaturanana, atawa meuli ti leungeun babaturanana, ulah ngahesekeun, hiji jalma ⟨את⟩ sadulurna.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "anjeun ngajual"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "barang dagang"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "ka babaturanana"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "meuli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ti leungeun"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ngahesekeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hiji jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulurna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:12.204809634Z",
+  "model": "glm-5.3"
+}

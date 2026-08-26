@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Sabab angin ngaliwat ka manéhna, mangka manéhanna euweuh, jeung tempatna moal mikawanoh deui manéhna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ngaliwat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mangka manéhanna euweuh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "mikawanoh deui"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tempatna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:25.818984958Z",
+  "model": "glm-5.3"
+}

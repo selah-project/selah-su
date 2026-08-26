@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Kusabab Daod abdi-Mu, ulah malikkeun deui raray Mashiax-Mu.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "kusabab"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daod"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "malikkeun deui"
+    },
+    {
+      "surface": "פני",
+      "gloss": "raray"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiax-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:42.437951385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Miktam Dawid. Jaga abdi, El, sabab abdi nyalindung ka Anjeun.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "jaga abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "abdi nyalindung"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:48.472907864Z",
+  "model": "glm-5.3"
+}

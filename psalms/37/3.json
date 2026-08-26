@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Percaya ka Yahwe jeung pigawé NU HADÉ; cicing dina ⟨את⟩ tanah, sarta angon kasetiaan.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "jeung pigawé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "NU HADÉ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dina ⟨את⟩ tanah"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "sarta angon"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kasetiaan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:24.038487973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 9:17",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sabab jahat geus ngahurung saperti seuneu; kaduri jeung sisiakan dihamplateunana, jeung hurung jadi seuneu dina leuweung kacampuh, tuluy ngaberbuluk kaluhur jadi haseup.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ngahurung"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "saperti seuneu"
+    },
+    {
+      "surface": "רשעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "kaduri"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "jeung sisiakan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dihamplateunana"
+    },
+    {
+      "surface": "ותצת",
+      "gloss": "jeung hurung"
+    },
+    {
+      "surface": "בסבכי",
+      "gloss": "dina kacampuh"
+    },
+    {
+      "surface": "היער",
+      "gloss": "leuweung"
+    },
+    {
+      "surface": "ויתאבכו",
+      "gloss": "tuluy ngaberbuluk"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kaluhur"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "haseup"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:51.667416930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Kagungan Anjeun ⟨the⟩ langit, ogé kagungan Anjeun bumi; dunya jeung sapuuhan eusina — Anjeun nu ngadegkeun aranjeunna.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kagungan Anjeun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kagungan Anjeun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunya"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "jeung sapuuhan eusina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "nu ngadegkeun aranjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:13.598570034Z",
+  "model": "glm-5.3"
+}

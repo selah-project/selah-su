@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Kanggo nu mingpin, dumasar 'Susyan Edut', miktam ti Dawid, pikeun ngajarkeun.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo nu mingpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dumasar kana"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Susyan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "pikeun ngajarkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:51.337057869Z",
+  "model": "glm-5.3"
+}

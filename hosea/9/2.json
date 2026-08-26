@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Lantéy meunameun jeung pangracik anggur moal ngahakanan maranehna, sarta anggur anyar bakal ngahiya ⟨ka⟩ manéhna.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "lantéy meunameun"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "jeung pangracik anggur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ngahakanan maranehna"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "sarta anggur anyar"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "bakal ngahiya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:40.959098702Z",
+  "model": "glm-5.3"
+}

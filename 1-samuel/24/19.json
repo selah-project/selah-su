@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung anjeun geus ngébrehkeun poé ieu ⟨את⟩ nu mana anjeun geus migawé ka ⟨את⟩ kuring kabaktian — ⟨את⟩ nu mana Yahwe ngeusi kuring kana leungeun anjeun, tapi anjeun moal maéhan kuring.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "geus ngébrehkeun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé ieu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu mana"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "anjeun geus migawé"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ka ⟨את⟩"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kabaktian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu mana"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "ngeusi kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "kana leungeun anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "maéhan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:10.671923584Z",
+  "model": "glm-5.3"
+}

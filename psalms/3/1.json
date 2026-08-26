@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Mizmor ti Dawid, nalika manéhna kabur tina harepan Avshalom putrana.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "nalika manéhna kabur"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tina hareapan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:18.991117270Z",
+  "model": "glm-5.3"
+}

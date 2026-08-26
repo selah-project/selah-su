@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Jeung mawa Yisrael ngaliwatan tengah-tengahna, sabab salawasna kanyaah satia-Na.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Jeung mawa ngaliwatan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "tengah-tengahna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:09.725124732Z",
+  "model": "glm-5.3"
+}

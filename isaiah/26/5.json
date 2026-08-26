@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Sabab manéhna ngeukeuhkeun ⟨те⟩ padumuk di luhur, kota nu ngajengkar; manéhna ngalempinkeun, ngalempinkeun nepi ka bumi, mawa nepi ka bubuk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ngeukeuhkeun"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "padumuk"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "nu ngajengkar"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "ngalempinkeun"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "ngalempinkeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bubuk"
+    }
+  ],
+  "timestamp": "2026-08-26T13:08:19.159420461Z",
+  "model": "glm-5.3"
+}

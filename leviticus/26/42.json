@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Sarta kuring bakal nginget ⟨את⟩ perjangjian kuring jeung Yaakov, ogé ⟨את⟩ perjangjian kuring jeung Yitsxak, ogé ⟨את⟩ perjangjian kuring jeung Avraham kuring-inginget, sarta ⟨eta⟩ bumi kuring-inginget.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "sarta kuring bakal nginget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian kuring jeung Yaakov"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian kuring"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian kuring jeung Yitsxak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian kuring"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian kuring jeung Avraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian kuring"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "kuring-inginget"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "sarta ⟨eta⟩ bumi"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "kuring-inginget"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:02.248566700Z",
+  "model": "glm-5.3"
+}

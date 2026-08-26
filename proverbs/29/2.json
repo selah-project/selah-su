@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Nalika nu bener maharna réa, ⟨⟨rakyat⟩⟩ kagumbira; tapi nalika nu jahat meréntah, rakyat ngajeungdeung.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "nalika maharna réa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kagumbira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "tapi nalika meréntah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "ngajeungdeung"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:47.515741379Z",
+  "model": "glm-5.3"
+}

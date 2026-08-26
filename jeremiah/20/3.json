@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 20:3",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jadi dinà isuk-isuk Pashkhur mimalukeun Yirmeyahu ⟨את⟩ ti balarak, lajeng Yirmeyahu ngomong ka anjeunna: lain Pashkhur ngaranan Yahwe ngaran anje, lain kitu tapi Magor Misabib.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "dinà isuk-isuk"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mimalukeun"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashkhur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "balarak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashkhur"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ngaranan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngaran anje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lain kitu tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מגור",
+      "gloss": "Magor"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "Misabib"
+    }
+  ],
+  "timestamp": "2026-08-26T13:29:10.127465042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Sakumaha sadayana nu diparentahkeun Yahwe ka ⟨את⟩ Moshe, pon kitu ogé putra-putra Yisrael ngalaksanakeun ⟨את⟩ sakabéh pagawéan éta.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sakumaha sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pon kitu ogé"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh pagawéan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pagawéan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:24.331819166Z",
+  "model": "glm-5.3"
+}

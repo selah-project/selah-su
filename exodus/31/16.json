@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung putra-putra Yisrael baris ngajaga ⟨את⟩ Sabbat éta, pikeun ngalaksanakeun ⟨את⟩ Sabbat éta pikeun katurunanana, perjangjian salawasna.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "jeung baris ngajaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabbat éta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabbat éta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabbat éta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabbat éta"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "pikeun katurunanana"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:34.342068617Z",
+  "model": "glm-5.3"
+}

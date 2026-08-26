@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Ulah nepi ka aranjeunna ngomong dina haté maranehna: Héhé, hayu urang! Ulah nepi ka aranjeunna ngomong: Urang geus ngeleg ⟨את⟩ manehna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dina haté maranehna"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Héhé"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "hayu urang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "geus ngeleg ⟨את⟩ manehna",
+      "marks": "manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:00.051861204Z",
+  "model": "glm-5.3"
+}

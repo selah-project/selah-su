@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung bapa kami ngomong: Balik deui, meulikeun urang saeutik dahareun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapa kami"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "meulikeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "keur urang"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahareun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:40.237100125Z",
+  "model": "glm-5.3"
+}

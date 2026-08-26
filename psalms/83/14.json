@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "Elohai, jadikeun aranjeunna saperti gulungan-gulungan, saperti jarami méméh angin.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "jadikeun aranjeunna"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "saperti gulungan-gulungan"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "saperti jarami"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "méméh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:17.752663867Z",
+  "model": "glm-5.3"
+}

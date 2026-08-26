@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Raja Aram geus maréntahkeun ⟨את⟩ panglima-panglima kareta anu aya jeung anjeunna, nganimbangkeun: “Ulah perang jeung ⟨את⟩ nu leutik atawa jeung ⟨את⟩ nu badag, iwal ti jeung ⟨את⟩ raja Israél wungkul.”",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Sadatkén raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panglima-panglima kareta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panglima-panglima"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jeung anjeunna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nganimbangkeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu leutik"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nu leutik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu badag"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nu badag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iwal ti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja Israél"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wungkul"
+    }
+  ],
+  "timestamp": "2026-08-26T16:25:30.216967210Z",
+  "model": "glm-5.3"
+}

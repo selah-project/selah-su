@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Jeung sadaya awéwé nu wijaksana haténa mungkel ku leungeunna sorangan, sarta mawa aranjeunna benang nu kaungkel: ⟨את⟩ benang biru-témpél, jeung ⟨את⟩ bungur, ⟨את⟩ beureum tinu sian-getah, jeung ⟨את⟩ linen beunang ngungkel.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wijaksana"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ku leungeunna sorangan"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "mungkel"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "sarta mawa aranjeunna"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "benang nu kaungkel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benang biru-témpél"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "biru-témpél"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bungur"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "bungur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beureum tinu sian-getah"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "sian-getah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "beureum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "linen"
+    },
+    {
+      "surface": "השש",
+      "gloss": "linen"
+    }
+  ],
+  "timestamp": "2026-08-26T11:09:19.978872002Z",
+  "model": "glm-5.3"
+}

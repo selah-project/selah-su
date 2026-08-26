@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 142,
+  "translation": "Pohakeun ka gigir katuhu jeung tempo, jeung euweuh nu mikawanoh kana abdi; geus leungit kalampahan ti abdi, euweuh nu naros kana nyawa abdi.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "pohakeun"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "katuhu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "jeung tempo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kana abdi"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "nu mikawanoh"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "geus leungit"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "kalampahan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti abdi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "nu naros"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kana nyawa abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:41.164339428Z",
+  "model": "glm-5.3"
+}

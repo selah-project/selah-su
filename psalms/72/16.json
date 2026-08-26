@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Muga aya lilana pare di bumi, di punclut gunung-gunung ngageterig siga Libanon buahna, jeung sirungan ti kota siga jukut di bumi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "muga aya"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "lilana"
+    },
+    {
+      "surface": "בר",
+      "gloss": "pare"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di punclut"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ngageterig"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "siga Libanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahna"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "jeung sirungan"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ti kota"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "siga jukut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:50.245959942Z",
+  "model": "glm-5.3"
+}

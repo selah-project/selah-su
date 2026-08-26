@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung kuring badé cicing di tengah-tengah baris Yisrael, jeung moal nginggalkeun ⟨את⟩ umat kuring Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "jeung kuring badé cicing"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "baris"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "nginggalkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat kuring Yisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat kuring"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:54.312818230Z",
+  "model": "glm-5.3"
+}

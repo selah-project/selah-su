@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 21:9",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Tapi maranéhna teu ngadangu, sarta Menashsheh nimbulkeun maranéhna nyasar pikeun ngalakukeun ⟨את⟩ kajahatan, ngaleuwihan bangsa-bangsa nu dimeunkeun batur nu geus dirumpakkeun ku Yahwe ti payuneun putra-putra Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "nimbulkeun maranéhna nyasar"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun ngalakukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kajahatan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa nu dimeunkeun batur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "dirumpakkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:33.593227622Z",
+  "model": "glm-5.3"
+}

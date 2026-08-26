@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Umur tujuh taun Yehoash dina jadi ratana.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "dina jadi ratana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:30.692075500Z",
+  "model": "glm-5.3"
+}

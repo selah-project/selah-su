@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Sing saha nu geus di[bébas]keun ku Yahwe nyarakeunana — nu geus dibébaskeun tina leungeun musuh.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "nyarakeunana"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "nu dibébaskeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "dibébaskeun maranehna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:02.195501698Z",
+  "model": "glm-5.3"
+}

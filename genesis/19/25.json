@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung manéhna ngaruntagkeun ⟨את⟩ kota-kota éta, jeung ⟨את⟩ sakulawiah dataran éta, jeung ⟨את⟩ sakabéh pangeusi kota-kota éta, jeung tutuwuhan taneuh.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "jeung manéhna ngaruntagkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota éta"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "האל",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakulawiah dataran éta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakulawiah"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "dataran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sakabéh pangeusi kota-kota éta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "pangeusi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "jeung tutuwuhan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:19.209930471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Cicing jeung kuring; ulah sieun, sabab nu milari ⟨את⟩ nyawa kuring bakal milari ogé ⟨את⟩ nyawa anjeun; sabab anjeun ⟨is⟩ jagaan di gigireun kuring.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "milari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa kuring"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa kuring"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "bakal milari ogé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa anjeun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "jagaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "di gigireun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:06.126541814Z",
+  "model": "glm-5.3"
+}

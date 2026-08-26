@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Dina parentah-parentah Anjeun abdi badé ngengetken, sarta abdi badé nempo jalan-jalan Anjeun.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "dina parentah-parentah Anjeun"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "abdi badé ngengetken"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "sarta abdi badé nempo"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "jalan-jalan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:07.627992639Z",
+  "model": "glm-5.3"
+}

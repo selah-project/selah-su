@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Berbahagia anu baris nyandak jeung ngabetot ⟨את⟩ orok-orok anjeun ka luhureun batu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagia"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "anu baris nyandak"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "jeung ngabetot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orok-orok anjeun"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "orok-orok anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "batu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:54.786300511Z",
+  "model": "glm-5.3"
+}

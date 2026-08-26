@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Asepuluh-an ⟨anjing⟩ ⟨anjeun⟩ asepuluh-keun ⟨את⟩ sagala hasil siki anjeun, nu kaluar ti tegalan, taun ka taun.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "asepuluh-an"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "asepuluh-keun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala hasil siki anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siki anjeun"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "nu kaluar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti tegalan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka taun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:46:29.523148073Z",
+  "model": "glm-5.3"
+}

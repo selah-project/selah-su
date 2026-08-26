@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 37:28",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung bangsa-bangsa bakal terang yén kuring, Yahwe, nu ngasépkeun ⟨את⟩ Israil, nalika tempat suci kuring aya di tengah-tengah maranéhna, salawasna.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "jeung bakal terang"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "nu ngasépkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "nalika aya"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "tempat suci kuring"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di tengah-tengah maranéhna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:57:10.077944417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Shemuel ngomong ka tukang masak: Anteurkeun ⟨את⟩ babagan nu kuring bagikeun ka anjeun, nu kuring omongkeun ka anjeun: Simpen ⟨את⟩ éta babagan jeung anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ka tukang masak"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "anteurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babagan"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "babagan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring bagikeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kuring omongkeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "שים",
+      "gloss": "simpen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jeung anjeun"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jeung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:17:03.463901330Z",
+  "model": "glm-5.3"
+}

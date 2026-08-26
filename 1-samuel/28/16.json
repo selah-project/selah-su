@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung Samuel nyarita: teras naha anjeun nanya ka kuring, sawatara Yahwe geus palastra ti anjeun sarta jadi musuh anjeun?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "teras naha"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "anjeun nanya ka kuring"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "sawatara Yahwe"
+    },
+    {
+      "surface": "סר",
+      "gloss": "geus palastra"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ti anjeun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "musuh anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:51.324610581Z",
+  "model": "glm-5.3"
+}

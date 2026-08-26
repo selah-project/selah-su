@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Jeung manéhna nyambungkeun ⟨את⟩ lima ténda-saliket hiji ka hiji, jeung lima ténda-saliket disambungkeunana hiji ka hiji.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "jeung nyambungkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima ténda-saliket"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ténda-saliket"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "jeung lima"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ténda-saliket"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "disambungkeunana"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:26.082322363Z",
+  "model": "glm-5.3"
+}

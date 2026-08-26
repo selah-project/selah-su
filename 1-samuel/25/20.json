@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung kajadian: manéhna ngamuk kana kabaya, tur nurun dina_sumputna gunung, jeung sumuhun — David jeung jalma-jalmana keur nurun patepung jeung anjeunna; jeung anjeunna patepung ⟨את⟩ maranéhna.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "jeung kajadian"
+    },
+    {
+      "surface": "היא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "ngamuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "kabaya"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "tur nurun"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dina sumputna"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung sumuhun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "jeung jalma-jalmana"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "keur nurun"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "patepung jeung anjeunna"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "jeung patepung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna (David jeung jalma-jalmana)"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:06.365906694Z",
+  "model": "glm-5.3"
+}

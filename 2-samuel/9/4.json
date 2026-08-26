@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung raja ngomong ka anjeunna: Di mana anjeunna? Jeung Tsiba ngomong ka raja: Tempat, anjeunna di imah Makhir budak Ammiel, di Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anjeunna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "budak"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "di Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:29:14.607749809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung ⟨את⟩ si domba-jalu ⟨nu⟩ hiji maneh ngala, jeung Aharon jeung putra-putrana naruhkeun ⟨את⟩ leungeun maranehna kana sirah si domba-jalu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "si domba-jalu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "si domba-jalu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨nu⟩ hiji"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "maneh ngala"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "jeung naruhkeun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jeung putra-putrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun maranehna"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leungeun maranehna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "si domba-jalu"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:37.922184911Z",
+  "model": "glm-5.3"
+}

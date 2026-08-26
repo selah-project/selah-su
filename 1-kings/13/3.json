@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Sarta manéhna méré hiji tandang dina poé éta, ngomong: Ieu tandang anu dipedar Yahwe: Pinding, méja batu korban bakal sukwak, sarta abu nu aya di luhureunana bakal ngocor.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "sarta manéhna méré"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dina poé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "hiji tandang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "tandang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dipedar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pinding"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "méja batu korban"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "bakal sukwak"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "sarta bakal ngocor"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di luhureunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:04.079677285Z",
+  "model": "glm-5.3"
+}

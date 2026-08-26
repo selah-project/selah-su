@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 75,
+  "translation": "Sebab lain ti wétan atawa ti kulon, jeung lain ti gurun ⟨kana kaluhuran⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "ti wétan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ataka ti kulon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung lain"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ti gurun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kaluhuran"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:52.109174298Z",
+  "model": "glm-5.3"
+}

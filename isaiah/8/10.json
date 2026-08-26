@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Ngusahakeun sapatara, jeung ⟨galowor⟩; ngomongkeun kecap, jeung moal ngadeg, sabab El jeung urang.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "ngusahakeun"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sapatara"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "jeung galowor"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "jeung urang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:32.606787537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Yosef ngajawab ⟨את⟩ Paroh, nyebutkeun: Tanpa kuring — Elohim nu baris ngajawab ⟨את⟩ kasejahteraan Paroh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "baris ngajawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasejahteraan Paroh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kasejahteraan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:50:12.839366022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 98,
+  "translation": "Ku sora trompét jeung sora shofar, sora tarik saméméh Raja Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "ku sora trompét"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "jeung sora"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "sora tarik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:52.470117248Z",
+  "model": "glm-5.3"
+}

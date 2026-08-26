@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Dina sungutan nu lodo aya tunggul kaagungan, tapi bihas-si pinter ngajaga maranehna.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "dina sungutan"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nu lodo"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "tunggul"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kaagungan"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "tapi bihas-si"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "pinter"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "ngajaga maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:58:50.551743210Z",
+  "model": "glm-5.3"
+}

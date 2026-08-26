@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Wiréh ⟨את⟩ Yahwe, ieu budak, jeung raja; jeung nu ngarobah-robah ulah paur.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "wiréh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ieu budak"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "jeung raja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "nu ngarobah-robah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "paur"
+    }
+  ],
+  "timestamp": "2026-08-26T15:02:59.561674360Z",
+  "model": "glm-5.3"
+}

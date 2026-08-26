@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Jeung Paroh nyarita ka sadulur-sadulurna, \"Naha pagawéan ararinyog?\" Jadi ararinyog ngajawab ka Paroh, \"Ingon-ingon domba ⟨ nya eta abdi-abdi anjeun ⟩, kami ogé, sarta bapak-bapak kami ogé.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "pagawéan ararinyog"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ararinyog ngajawab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ingon-ingon"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdi anjeun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapak-bapak kami"
+    }
+  ],
+  "timestamp": "2026-08-26T16:39:37.084015935Z",
+  "model": "glm-5.3"
+}

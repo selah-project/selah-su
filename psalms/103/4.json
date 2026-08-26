@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Anu ngabébaskeun hirup anjeun tina liang karuksakan, Anu ngarajakeun anjeun ku xesed jeung kasayang.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Anu ngabébaskeun"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "tina liang karuksakan"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "hirup anjeun"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "Anu ngarajakeun anjeun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "jeung kasayang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:29.403860546Z",
+  "model": "glm-5.3"
+}

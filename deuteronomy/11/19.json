@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sarta sing ngajarkeun ⟨את⟩ ⟨aranjeunna⟩ ka ⟨את⟩ anak-anak aranjeun, pikeun nyarita ngeunaan ⟨aranjeunna⟩ — mun anjeun diuk dina imah anjeun, jeung mun anjeun leumpang dina jalan, jeung mun anjeun saré, jeung mun anjeun bangun.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "sarta sing ngajarkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak aranjeun"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak aranjeun"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pikeun nyarita"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngeunaan aranjeunna"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "mun anjeun diuk"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "dina imah anjeun"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "jeung mun anjeun leumpang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dina jalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "jeung mun anjeun saré"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "jeung mun anjeun bangun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:36.754363708Z",
+  "model": "glm-5.3"
+}

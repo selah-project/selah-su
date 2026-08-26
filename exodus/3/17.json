@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung kuring ngomong: kuring baris mawa ⟨את⟩ aranjeun kaluar tina sangsara Mitsrajim, ka tanah urang Kenaan, jeung urang Het, jeung urang Emori, jeung urang Perizi, jeung urang Hiwi, jeung urang Yebus, ka tanah nu ngocorkeun susu jeung madu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "jeung kuring ngomong"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "kuring baris mawa kaluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "tina sangsara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "urang Kenaan"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "jeung urang Het"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "jeung urang Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "jeung urang Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "jeung urang Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jeung urang Yebus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "nu ngocorkeun"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jeung madu"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:55.604789874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Salametkeun nefesh kuring tina pedang, tina leungeun asu ⟨את⟩ nu hiji-hiji kuring.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "salametkeun"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "tina pedang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tina leungeun"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "asu"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "nu hiji-hiji kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:23.774697419Z",
+  "model": "glm-5.3"
+}

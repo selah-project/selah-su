@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "sarta yén Yaakov ngadangu ka indung bapakna ogé ka indungna, tuluy jauh ka Padan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "indung bapakna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ogé ka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-26T10:44:54.483668218Z",
+  "model": "glm-5.3"
+}

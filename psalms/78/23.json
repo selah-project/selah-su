@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Jeung Anjeunna maréntahkeun ⟨the⟩ awan-awan ti luhur, jeung panto-panto ⟨the⟩ langit dibuka,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "jeung panto-panto"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dibuka"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:51.639869838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Yahwe nu bener ⟨dia⟩ diuji, jeung nu jahat jeung nu mikacinta kalakayan kasar, jiwa-Na mahamuci.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "diuji"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "jeung nu jahat"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "jeung nu mikacinta"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kalakayan kasar"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "mahamuci"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwa-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:01.984123496Z",
+  "model": "glm-5.3"
+}

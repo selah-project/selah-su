@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 143,
+  "translation": "Mizmor pikeun Dawid. Yahwe, sagueulkeun kadangu tatapa kuring, ceukeuleun kadangu pangembaraan kuring; dina satia-Mu jawab kuring, dina kabeneran-Mu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sagueulkeun kadangu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tatapa kuring"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ceukeuleun kadangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pangembaraan kuring"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "dina satia-Mu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawab kuring"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dina kabeneran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:42.149708310Z",
+  "model": "glm-5.3"
+}

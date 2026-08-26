@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sarta ieu pangulu-pangulu anu bogana: Azaryahu putra Tsadok, imam éta.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "sarta ieu"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "pangulu-pangulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bogana"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-08-26T16:53:27.182607329Z",
+  "model": "glm-5.3"
+}

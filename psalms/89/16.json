@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Beja untung ⟨keur⟩ bangu nu nyaho sorak-sorai Yahwe; dina caang beungeut-Mu aranjeuna ngajalankeun.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "beja untung"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "nu nyaho"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "dina caang"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "beungeut-Mu"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ngajalankeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:05.544714027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung muruik Yahwe dibetah deui pikeun ngahudang ka Yisrael, sarta manéhna ngageserkeun ⟨את⟩ David ngalawan maranehna, nyarita: Mangkat, pondokkeun ⟨את⟩ Yisrael jeung ⟨את⟩ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "dibetah deui"
+    },
+    {
+      "surface": "אף",
+      "gloss": "muruik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "pikeun ngahudang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ka Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ngageserkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngalawan maranehna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mangkat"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "pondokkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T12:36:55.851108734Z",
+  "model": "glm-5.3"
+}

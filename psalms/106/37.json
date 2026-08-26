@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung aranjeunna ngorbankeun ⟨את⟩ putra-putrana jeung ⟨את⟩ putri-putrina ka shedim (roh-roh jahat).",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ngorbankeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putrana"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putrina"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "putri-putrina"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ka shedim"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:07.149444956Z",
+  "model": "glm-5.3"
+}

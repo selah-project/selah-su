@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Tuluy asup ka anjeunna Izebel, pamajikanana, sarta nyarita ka anjeunna: Naon ieu — semangat anjeun murungkul, jeung anjeun teu dahar roti?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "tuluy asup"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "semangat anjeun"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "murungkul"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "jeung anjeun teu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-26T12:47:23.728710264Z",
+  "model": "glm-5.3"
+}

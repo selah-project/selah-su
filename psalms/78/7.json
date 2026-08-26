@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "jeung maranehna nyimpen percaya-na ka Elohim, moal pisan hilap awas kana pagawéan-pagawéan El, jeung paréntah-paréntah-Na dijaga.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "nyimpen"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "percaya-na (tihang harepan)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal pisan"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "hilap awas"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "kana pagawéan-pagawéan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "jeung paréntah-paréntah-Na"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "dijaga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:53.787847819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung moal deui ⟨את⟩ nami anjeun disebut Avram, tapi nami anjeun bakal jadi Avraham, sabab bapa hahayaeun bangsa-bangsa kuring geus ngajadikeun anjeun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "disebut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nami anjeun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nami anjeun"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "tapi bakal jadi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nami anjeun"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "hahayaeun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "kuring geus ngajadikeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:23.874833483Z",
+  "model": "glm-5.3"
+}

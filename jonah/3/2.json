@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Bangkit, indit ka Nineve, ⟨the⟩ kota ⟨the⟩ gedé, sarta seru ka manéhna ⟨את⟩ seruan nu abdi ⟨nu⟩ keur nyaritakeun ka anjeun.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "gedé"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "sarta seru"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seruan"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "seruan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "keur nyaritakeun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:12:06.049455064Z",
+  "model": "glm-5.3"
+}

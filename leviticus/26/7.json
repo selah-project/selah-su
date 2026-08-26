@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung anjeun bakal ngudag ⟨את⟩ musuh-musuh anjeun, sarta aranjeunna bakal ragrag saméméh beungeut-anjeun ku pedang.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "anjeun bakal ngudag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuh anjeun"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "sarta aranjeunna bakal ragrag"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "saméméh beungeut-anjeun"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ku pedang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:40.624072467Z",
+  "model": "glm-5.3"
+}

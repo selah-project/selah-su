@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 141,
+  "translation": "Baña nu bener ngageunggeul abdi — kanyaah satia perjangjian; jeung nganjeujeutkeun abdi — minyak sirah; ulah mundut sirah abdi; sabab masih sarta tatapa abdi dina kaoncan maranéhna.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ngageunggeul abdi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kanyaah satia perjangjian"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "jeung nganjeujeutkeun abdi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יני",
+      "gloss": "mundut"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirah abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "sarta tatapa abdi"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "dina kaoncan maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:11.221114909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Ngan saeutik abdi ngaliwat ti maranehna, nepi ka abdi papanggih ⟨את⟩ nu dipikanyaah ku jiwa abdi; abdi ngeupeung mannana moal ngaleupaskeun, nepi ka abdi mawa mannana ka imah indung abdi, jeung ka kamar nu ngandung abdi.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ngan saeutik"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "abdi ngaliwat"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ti maranehna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "abdi papanggih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipikanyaah ku jiwa abdi"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "nu dipikanyaah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa abdi"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "abdi ngeupeung mannana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "ngaleupaskeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "abdi mawa mannana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "indung abdi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "nu ngandung abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T17:19:44.060418779Z",
+  "model": "glm-5.3"
+}

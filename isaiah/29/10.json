@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Sabab Yahwe geus ngucurkeun ka anjeun roh saré-ngeuheuy, sarta geus ngukung ⟨את⟩ panon anjeun — ⟨את⟩ para nabi, jeung ⟨את⟩ sirah anjeun, para nu nempo wahyu, geus ditutupan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "geus ngucurkeun"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "saré-ngeuheuy"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "sarta geus ngukung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panon anjeun"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "panon anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sirah anjeun"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "sirah anjeun"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "para nu nempo wahyu"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "geus ditutupan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:03.966030257Z",
+  "model": "glm-5.3"
+}

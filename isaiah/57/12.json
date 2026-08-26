@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Kuring bakal ngabéjakeun kabeneran anjeun jeung ⟨את⟩ pagawéan anjeun — moal miguna ka anjeun.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bakal ngabéjakeun"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kabeneran anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pagawéan anjeun"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "pagawéan anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "miguna ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:47.200784163Z",
+  "model": "glm-5.3"
+}

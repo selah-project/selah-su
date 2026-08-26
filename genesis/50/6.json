@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 50,
+  "translation": "Sarta Fir'aun nyarita: Naék, sarta nguburkeun ⟨את⟩ bapa anjeun, saperti anjeunna mimiti sumpah ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'aun"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "sarta nguburkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa anjeun"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "mimiti sumpah ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:22.207735796Z",
+  "model": "glm-5.3"
+}

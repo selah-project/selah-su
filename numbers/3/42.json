@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lajeng Moshe ngitung, saperti nu diparéntahkeun Yahwe ka anjeunna, ⟨את⟩ sadaya anak kandungan di antara putra-putra Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "lajeng ngitung"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka anjeunna",
+      "marks": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya anak kandungan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "anak kandungan"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di antara putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:47.674275228Z",
+  "model": "glm-5.3"
+}

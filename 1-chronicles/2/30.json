@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung putra-putrana Nadab: Seled jeung Appayim; jeung Seled paéh tanpa putra.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putrana"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "jeung Appayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "jeung paéh"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:45.123948339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung katutup panto-panto di ∙pasar, nalika nyirer lentik sora panggiling, jeus bangun di sora manuk, jeung ateur sadaya putri-putri kawih.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "Jeung katutup"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "panto-panto"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "di pasar"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "nalika nyirer lentik"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "panggiling"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "jeung bangun"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "di sora"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "jeung ateur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "kawih"
+    }
+  ],
+  "timestamp": "2026-08-26T15:37:06.790908338Z",
+  "model": "glm-5.3"
+}

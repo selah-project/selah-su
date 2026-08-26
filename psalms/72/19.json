@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 72,
+  "translation": "Jeung berkah nami kamulyaan-Na nepi ka salawasna, jeung mugi kamulyaan-Na ngeusian ⟨את⟩ sadaya bumi; amin, jeung amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "jeung berkah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nami"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamulyaan-Na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nepi ka salawasna"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "jeung mugi ngeusian"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamulyaan-Na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "jeung amin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:51.705841742Z",
+  "model": "glm-5.3"
+}

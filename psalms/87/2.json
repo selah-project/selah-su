@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 87,
+  "translation": "Yahwe nanyaah素 gerbang-gerbang Tsiyon, leuwih ti sadaya tempat-tempat cicingna Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "nanyaahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "gerbang-gerbang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "leuwih ti sadaya"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "tempat-tempat cicingna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:47.840345222Z",
+  "model": "glm-5.3"
+}

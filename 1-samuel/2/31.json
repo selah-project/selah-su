@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tempo, poé-poé datang, kuring bakal megat ⟨את⟩ leungeun anjeun jeung ⟨את⟩ leungeun imah bapa anjeun, nepi ka euweuh nu kolot di imah anjeun.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "באים",
+      "gloss": "datang"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "jeung-kuring-bakal-megat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun anjeun"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "leungeun-anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun imah bapa anjeun"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa-anjeun"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "tina-aya"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "kolot"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di-imah-anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:11.626225521Z",
+  "model": "glm-5.3"
+}

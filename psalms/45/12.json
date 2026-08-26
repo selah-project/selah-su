@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Sangkan raja mikahayang ka kaendahan anjeun, sabab manéhna adon anjeun — jeung sujud ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "sangkan… mikahayang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ka kaendahan anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "adon anjeun"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "jeung sujud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:05.117795579Z",
+  "model": "glm-5.3"
+}

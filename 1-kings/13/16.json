@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung anjeunna nyarita: ‘Teu tiasa abdi balik jeung ⟨את⟩ anjeun, sarta asup jeung ⟨את⟩ anjeun; jeung moal dahar roti, jeung moal nginum cai jeung ⟨את⟩ anjeun di tempat ieu.’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna nyarita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tiasa"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jeung anjeun"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "sarta asup"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jeung anjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "nginum"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jeung anjeun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:36.925083555Z",
+  "model": "glm-5.3"
+}

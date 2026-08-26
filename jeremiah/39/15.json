@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Sarta ka Yirmejahu datang kecap Yahwe, sabot manéhna keur dikuruung di buruan panjara, nyarios:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "sarta ka"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmejahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "datang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "sabot manéhna keur"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "dikuruung"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di buruan"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "panjara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    }
+  ],
+  "timestamp": "2026-08-26T13:38:02.297578771Z",
+  "model": "glm-5.3"
+}

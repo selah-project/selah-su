@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Waktos mihirping, jeung waktos paéh; waktos nanceubkeun tutuwuhan, jeung waktos nyabut nu katanceub.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktos"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "mihirping"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktos"
+    },
+    {
+      "surface": "למות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktos"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "nanceubkeun tutuwuhan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktos"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "nyabut"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "nu katanceub"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:35.926986244Z",
+  "model": "glm-5.3"
+}

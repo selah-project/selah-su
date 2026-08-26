@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung Yahwe ngomong ka Yaakov: Balik ka nagri bapa-bapa anjeun jeung ka tempat kalahiran anjeun, jeung abdi bakal sarteung anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Balik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nagri"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "bapa-bapa anjeun"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "jeung ka tempat kalahiran anjeun"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "jeung abdi bakal"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sarteung anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:01.833403738Z",
+  "model": "glm-5.3"
+}

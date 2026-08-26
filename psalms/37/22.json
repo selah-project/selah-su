@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sabab nu dipaparin berkah-Na bakal ngawariskeun ⟨את⟩ tanah, sedengkeun nu dikutuk-Na bakal dimeungkeul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "nu dipaparin berkah-Na"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bakal ngawariskeun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "sedengkeun nu dikutuk-Na"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bakal dimeungkeul"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:09.907954021Z",
+  "model": "glm-5.3"
+}

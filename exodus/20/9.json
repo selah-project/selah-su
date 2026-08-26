@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Genep poé anjeun bakal gawé jeung bakal ngalaksanakeun sadaya pagawéan anjeun.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "genep"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "anjeun bakal gawé"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jeung bakal ngalaksanakeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "pagawéan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:45.266080390Z",
+  "model": "glm-5.3"
+}

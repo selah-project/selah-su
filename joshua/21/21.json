@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Laun maranéhna masihan ka aranjeunna ⟨את⟩ kota perlindungan pangeunas, ⟨את⟩ Shkhem jeung ⟨את⟩ padang kalolonganna, di pagunungan Efrayim, jeung ⟨את⟩ Gezer jeung ⟨את⟩ padang kalolonganna.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "laun maranéhna masihan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota perlindungan pangeunas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pangeunas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shkhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang kalolonganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang kalolonganna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pagunungan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang kalolonganna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang kalolonganna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:59:58.476368124Z",
+  "model": "glm-5.3"
+}

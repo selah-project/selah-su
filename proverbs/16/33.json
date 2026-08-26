@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Kana boboongan dipacok ⟨את⟩ undian, tapi ti Yahwe sagala putusanana.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "kana boboongan"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "dipacok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "undian"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "undian"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "tapi ti Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "putusanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:59:11.625194236Z",
+  "model": "glm-5.3"
+}

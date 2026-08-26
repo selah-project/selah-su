@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Lajeng Yahwe ngomong ka Moshe di gurun Sinai, sangkan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lajeng ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:06.498533761Z",
+  "model": "glm-5.3"
+}

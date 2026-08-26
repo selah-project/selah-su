@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 85,
+  "translation": "Balikkeun urang, Elohim kasalametan urang, sarta bolaykeun kasaruran-Mu ka urang.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "balikkeun urang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "kasalametan urang"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "sarta bolaykeun"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "kasaruran-Mu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ka urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:45.949846629Z",
+  "model": "glm-5.3"
+}

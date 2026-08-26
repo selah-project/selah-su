@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jadi mimiti karajaanana ⟨nyaéta⟩ Bavel, Erek, Akad, jeung Kalneh, di tanah Shinár.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Jadi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mimiti"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "karajaanana"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "jeung Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "jeung Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "jeung Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinár"
+    }
+  ],
+  "timestamp": "2026-08-26T16:36:02.361764994Z",
+  "model": "glm-5.3"
+}

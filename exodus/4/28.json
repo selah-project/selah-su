@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Moshe nyaritakeun ka Aharon ⟨את⟩ sadaya kecap-kecap Yahwe nu malsu anjeuna, jeung ⟨את⟩ sadaya tanda-tanda nu diparéntahkeun ka anjeuna.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "jeung nyaritakeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ka Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "malsu anjeuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya tanda-tanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tanda-tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diparéntahkeun ka anjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:55:41.516184742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Ari Axyah nyampeurkeun salémah anyar nu aya dina awakna, lajeng mancarkeunana jadi dua belas suku.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "nyampeurkeun"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axyah"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "salémah"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aya dina awakna"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "mancarkeunana"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "suku"
+    }
+  ],
+  "timestamp": "2026-08-26T12:42:24.936008224Z",
+  "model": "glm-5.3"
+}

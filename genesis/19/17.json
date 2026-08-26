@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 19:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jadi kawas maranehna ngahoyongkeun ⟨את⟩ maranehna ka luar, anjeunna ngomong: Kaburlah pikeun nyawa anjeun, ulah nempo ka tukang anjeun, jeung ulah nangtung di sakabéh kikisakan; ka gunung kaburlah, bisi anjeun tina-anco.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Jadi kawas"
+    },
+    {
+      "surface": "כהוציאם",
+      "gloss": "maranehna ngahoyongkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna (ka luar)"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ka luar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anjeunna ngomong"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "kaburlah"
+    },
+    {
+      "surface": "על",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawa anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ka tukang anjeun"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sakabéh"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "kikisakan"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ka gunung"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "kaburlah"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "anjeun tina-anco"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:15.790886535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung Yahwe nempo yén Lea kabenci, jeung anjeunna muka ⟨את⟩ bobojongna, ari Rachel mah mandul.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "kabenci"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "jeung muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bobojongna"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "bobojongna"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ari Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mandul"
+    }
+  ],
+  "timestamp": "2026-08-26T10:46:06.935603408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Sarta anjeunna nyieun ⟨את⟩ palang nu tengah pikeun nembus ti tengah-tengah papan-papan, ti ujung ⟨hingga⟩ ka ujung.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sarta anjeunna nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang nu tengah"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "palang"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "nu tengah"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "pikeun nembus"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tina tengah-tengah"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ujung"
+    }
+  ],
+  "timestamp": "2026-08-26T16:41:56.724835824Z",
+  "model": "glm-5.3"
+}

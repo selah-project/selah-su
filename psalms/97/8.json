@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Zion ngadenge sarta bagéa, jeung putri-putri Yehuda reja kusabab putusan anjeun, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ngadenge"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "jeung bagéa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "jeung reja"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kusabab"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "putusan anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:44.286023969Z",
+  "model": "glm-5.3"
+}

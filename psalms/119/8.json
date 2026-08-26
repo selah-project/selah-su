@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "⟨את⟩ katangtuan-katangtuan anjeun kuring jaga; ulah tapi antep kuring nepi ka tungtung.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katangtuan-katangtuan anjeun"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katangtuan-katangtuan anjeun"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "kuring jaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tapi antep kuring"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tungtung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:51.881805282Z",
+  "model": "glm-5.3"
+}

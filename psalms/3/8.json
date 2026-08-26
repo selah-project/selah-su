@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Bangun, Yahwe! Ngalaunan abdi, Elohim abdi, sabab anjeun geus ngampar ⟨את⟩ sadaya musuh abdi dina pia; huntu nu jahat anjeun geus ngabeureuheuy.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Ngalaunas abdi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "geus ngampar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya musuh abdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh abdi"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "pia"
+    },
+    {
+      "surface": "שני",
+      "gloss": "huntu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "geus ngabeureuheuy"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:41.271544676Z",
+  "model": "glm-5.3"
+}

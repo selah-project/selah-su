@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Achimaats di Naftali; ogé manéhna nyandak ⟨את⟩ Bosmat, putri Salomo, jadi pamajikan.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "di Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi pamajikan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:54:18.541398792Z",
+  "model": "glm-5.3"
+}

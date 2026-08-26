@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung anjeun nyandak ⟨את⟩ putra-putra-anjeun jeung ⟨את⟩ putri-putri-anjeun nu anjeun babarkeun pikeun Kuring, sarta anjeun ngakorbankeunana ka maranehna pikeun didahar. Naha cilaka, ku sabab zina-anjeun?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "jeung anjeun nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra-anjeun"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "putra-putra-anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putri-anjeun"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "putri-putri-anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "anjeun babarkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun Kuring"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "sarta anjeun ngakorbankeunana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "pikeun didahar"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "naha cilaka"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "ku sabab zina-anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:47:14.424938558Z",
+  "model": "glm-5.3"
+}

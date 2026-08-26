@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Manehna bakal nampi berkah ti ⟨את⟩ Yahwe, jeung kabeneran ti Elohim, kaamasanana.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "bakal nampi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "jeung kabeneran"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "kaamasanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:56.545819866Z",
+  "model": "glm-5.3"
+}

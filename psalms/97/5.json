@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 97,
+  "translation": "Gunung-gunung lir waxing nyair di payune Yahwe, di payune Adonay sakabeh bumi.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "lir waxing"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "nyair"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di payune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di payune"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:44.285172997Z",
+  "model": "glm-5.3"
+}

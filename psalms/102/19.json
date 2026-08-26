@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Ieu kudu ditulis pikeun katurunan nu heyog, sarta bangsa nu dijieun nyanggakeun puji-syukur ka Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "kudu ditulis"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pikeun katurunan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "nu heyog"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "sarta bangsa"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "nu dijieun"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "nyanggakeun puji-syukur"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:16.393205033Z",
+  "model": "glm-5.3"
+}

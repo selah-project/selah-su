@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "„Kecap Belial dituangkeun ka manéhna; satuluyna nu tiarang moal nambahan deui pikeun ngadeg.”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "dituangkeun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "satuluyna nu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "tiarang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nambahan deui"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:30.119943795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Abdi, Kohelet, jadi raja di Yisrael di Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:10.320819880Z",
+  "model": "glm-5.3"
+}

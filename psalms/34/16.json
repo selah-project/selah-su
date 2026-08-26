@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Panon Yahwe ⟨nyaéta⟩ ka nu bener, sarta ceulina ka sautanana.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ceulina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "sautanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:51.785337925Z",
+  "model": "glm-5.3"
+}

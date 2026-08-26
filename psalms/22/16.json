@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Garing kawas taneuh beuleum kahéjoan kakuatan kuring, jeung létah kuring napel dina rahang kuring, jeung ka keusik maot Anjeun nempatkeun kuring.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kawas taneuh beuleum"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuatan kuring"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "jeung létah kuring"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "napel"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "dina rahang kuring"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "jeung ka keusik"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maot"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "Anjeun nempatkeun kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:12.822186061Z",
+  "model": "glm-5.3"
+}

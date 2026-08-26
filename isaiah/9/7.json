@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Saur ngirim Adonay ka Yaakov, sarta ragrag di Israél.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "saur"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ka Yaakov"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "sarta ragrag"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:33.419507278Z",
+  "model": "glm-5.3"
+}

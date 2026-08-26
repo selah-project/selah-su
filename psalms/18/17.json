@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Anjeunna ngirim ti luhur, njoplokkeun abdi, narik abdi kaluar tina cai nu loba.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "njoplokkeun abdi"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "narik abdi kaluar"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "tina cai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nu loba"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:15.483601863Z",
+  "model": "glm-5.3"
+}

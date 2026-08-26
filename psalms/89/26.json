@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Kuring nangtungkeun leungeunana dina sagara, jeung leungeun katuhuna dina walungan-walungan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "jeung Kuring nangtungkeun"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dina sagara"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunna"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "jeung dina walungan-walungan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "leungeun katuhuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:20.791568941Z",
+  "model": "glm-5.3"
+}

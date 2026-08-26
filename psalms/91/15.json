@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Inyana bakal ngerojeung Kami, sarta Kami bakal ngajawab ⟨dirina⟩; Kami jeung ⟨dirina⟩ aya dina kasusah; Kami bakal ngabélaan ⟨dirina⟩ sarta ngamulyakeun ⟨dirina⟩.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Inyana bakal ngerojeung Kami"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "sarta Kami bakal ngajawab dirina"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeung dirina"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Kami"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "dina kasusah"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Kami bakal ngabélaan dirina"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "sarta ngamulyakeun dirina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:54.920678224Z",
+  "model": "glm-5.3"
+}

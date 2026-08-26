@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Dawid ngutus utusan ka Ish-Boshet putra Shaul, nyarios: Pasihan isteri abdi, ⟨את⟩ Mikal, anu ku abdi dilamar ka abdi ku saratus kulup kulantan Peleshet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "jeung ngutus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "pasihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri abdi"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "isteri abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "ku abdi dilamar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ku saratus"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "kulup kulantan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshet"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:27.335435823Z",
+  "model": "glm-5.3"
+}

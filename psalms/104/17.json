@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "di dinya manuk-manuk ngarieut sayang; sidaptur, kai siprés ⟨mah⟩ bumina.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "manuk-manuk"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "ngarieut sayang"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "sidaptur"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "kai siprés"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "bumina"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:06.030926064Z",
+  "model": "glm-5.3"
+}

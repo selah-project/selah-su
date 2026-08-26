@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Pagawekeun ka abdi-Mu luyu jeung xesed-Mu, jeung ajarkeun kuring katangtuhan-Mu.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "pagawekeun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "luyu jeung xesed-Mu"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "jeung katangtuhan-Mu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajaran kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:42.468118665Z",
+  "model": "glm-5.3"
+}

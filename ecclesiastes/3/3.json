@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Waktos maéhan, jeung waktos ngubaran; waktos ngancurkeun, jeung waktos ngawangun.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktos"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "maéhan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktos"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "ngubaran"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktos"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "jeung waktos"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ngawangun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:35.927133352Z",
+  "model": "glm-5.3"
+}

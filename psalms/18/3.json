@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Yahwe ⟨is⟩ batu kuring, bénténg kuring, jeung nu nyalametkeun kuring; El kuring, karang kuring, ka Anjeun kuring ngameungkeun; perisai kuring jeung tanduk salamet kuring, bénténg luhur kuring.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu kuring"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "jeung bénténg kuring"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "jeung nu nyalametkeun kuring"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El kuring"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "karang kuring"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "kuring ngameungkeun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "perisai kuring"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "jeung tanduk"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "salamet kuring"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "bénténg luhur kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:17.070563559Z",
+  "model": "glm-5.3"
+}

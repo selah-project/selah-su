@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Téhoma ngagero ka téhoma ku sora curug-curug Anjeun; sadaya galura ombak Anjeun jeung gelombang Anjeun geus ngaliwat ka luhur abdi.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Téhoma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "téhoma"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ngagero"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ku sora"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "curug-curug Anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "galura ombak Anjeun"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "jeung gelombang Anjeun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka luhur abdi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "geus ngaliwat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:26.703483429Z",
+  "model": "glm-5.3"
+}

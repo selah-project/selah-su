@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung indit David ti dinya ka Mitspeh Moab, jeung nyarita ka raja Moab: Tuluy, bisi kaluar bapa kuring jeung indung kuring ⟨את⟩ jeung anjeun, nepi ka abdi terang naon nu Elohim bakal pigawe ka abdi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "jeung indit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "ka Mitspeh"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "jeung indung kuring"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jeung anjeun",
+      "marks": "jeung anjeun (raja Moab)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "abdi terang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakal pigawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:13.779042248Z",
+  "model": "glm-5.3"
+}

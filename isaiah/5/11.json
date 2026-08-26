@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Cilaka maranéhna nu lisung isuk-isuk ngudang minuman kawasa, nu ngantep nepis ka nénggang peuting, anggur nu marahéna!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "nu lisung isuk-isuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman kawasa"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ngudang"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "nu ngantep nepis"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "nepis ka nénggang peuting"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "nu marahéna (ngabeuleumna)"
+    }
+  ],
+  "timestamp": "2026-08-26T13:02:29.739156464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 111,
+  "translation": "Ditagakkeun nepi ka tumenggung sarta salawasna, dijieun dina bener jeung jujur.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "ditagakkeun"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nepi ka tumenggung"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sarta salawasna"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "dina bener"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "jeung jujur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:16.445910785Z",
+  "model": "glm-5.3"
+}

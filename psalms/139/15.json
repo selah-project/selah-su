@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 139,
+  "translation": "Tulang-tulang kuring moal nyumput ti anjeun, waktu kuring dijieun dina tempat nyumput, kuring ditenun dina wuwungan handap bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "nyumput"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang-tulang kuring"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kuring dijieun"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dina tempat nyumput"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "kuring ditenun"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "dina wuwungan handap"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:37.206872103Z",
+  "model": "glm-5.3"
+}

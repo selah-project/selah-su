@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Nurungan kuring sapi jalu loba, nu beurat ti Bashan ngurilingan kuring.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "ngurilingan kuring"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "sapi jalu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "nu beurat"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "nurungan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:12.821543632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung nu ngahina bapana atawa indungna, paeh barang paeh.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Jeung nu ngahina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "atawa indungna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paeh"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "barang paeh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:50.322913028Z",
+  "model": "glm-5.3"
+}

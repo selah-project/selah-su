@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 1:11",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Naha keur kuring lobana kurban sampeuran? kenget Yahwe; kuring wareg ku kurban bakar domba jalu jeung gajih sapi ingon, jeung getih munding, domba ngora jeung embing jalu — lain kuring karesep.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Naha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur kuring"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lobana"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "kurban sampeuran"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kenget"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבעתי",
+      "gloss": "kuring wareg"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "domba jalu"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "jeung gajih"
+    },
+    {
+      "surface": "מריאים",
+      "gloss": "sapi ingon"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "jeung getih"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "munding"
+    },
+    {
+      "surface": "וכבשים",
+      "gloss": "domba ngora"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "jeung embing jalu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kuring karesep"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:29.487265723Z",
+  "model": "glm-5.3"
+}

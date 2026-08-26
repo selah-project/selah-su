@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Sarta Yahwe ngomong ka Moshe: Nakcik ka ieu gunung Avarim, sarta nempo ⟨את⟩ ⟨the⟩ tanéh nu kuring geus masihan ka bani Israil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta ... ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Nakcik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Avarim"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "sarta nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanéh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanéh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuring geus masihan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-26T11:35:01.759235882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Ku sora ngahelaan kuring, tulang kuring napel kana daging kuring.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ku sora"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ngahelaan kuring"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "napel"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang kuring"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "kana daging kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:55.673751799Z",
+  "model": "glm-5.3"
+}

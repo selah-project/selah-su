@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung lamun anjeunna teu ngawaraskeun ⟨את⟩ sawah, atawa lamun anjeunna ngajual ⟨את⟩ sawah ka jalma séjén, moal diwaraskeun deui.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Jeung lamun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ngawaraskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sawah"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atawa lamun"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ngajual"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sawah"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka jalma"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "séjén"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "diwaraskeun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:09.164264743Z",
+  "model": "glm-5.3"
+}

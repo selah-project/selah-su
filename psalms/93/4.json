@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 93,
+  "translation": "Liwat sora-sora cai loba, nu agung ombak-ombak laut, Yahwe di luhur agung.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "liwat sora-sora"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "agung"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ombak-ombak"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "agung"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:47.570352387Z",
+  "model": "glm-5.3"
+}

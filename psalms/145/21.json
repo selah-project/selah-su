@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Puji-pujian ka Yahwe bakal diucapkeun ku cacapet abdi, jeung ⟨hendakna⟩ sagala daging ngamuji ⟨kana⟩ Ngaran sucina, salawasna jeung tuluy-tumulis.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakal diucapkeun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ku cacapet abdi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "jeung hendakna ngamuji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ngaran"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jeung tuluy-tumulis"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:00.642113181Z",
+  "model": "glm-5.3"
+}

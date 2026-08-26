@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 32:22",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung Anjeun masihan aranjeuna ⟨את⟩ tanah ieu, nu Anjeun sumpahkeun ka bapak-bapak maranjeuna pikeun méré ka aranjeuna: tanah anu ngocora susu jeung madu.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "masihan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka aranjeuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah ieu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "sumpahkeun"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ka bapak-bapak maranjeuna"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pikeun méré"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka aranjeuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "anu ngocora"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "jeung madu"
+    }
+  ],
+  "timestamp": "2026-08-26T13:35:13.590633722Z",
+  "model": "glm-5.3"
+}

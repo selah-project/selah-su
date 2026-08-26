@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 141,
+  "translation": "Dicecebkeun di sisi batu karang ⟨téh⟩ pamingpin maranéhna, jeung maranéhna ngadangu omong abdi, sabab mair.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "dicecebkeun"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "pamingpin maranéhna"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "jeung maranéhna ngadangu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "omong abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "mair"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:11.221343126Z",
+  "model": "glm-5.3"
+}

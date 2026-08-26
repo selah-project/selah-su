@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "⟨את⟩ aron jeung ⟨את⟩ baléharna, ⟨את⟩ kapporet, jeung ⟨את⟩ paroket ha-masakh —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "baléharna"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "baléharna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "paroket ha-masakh"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ha-masakh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:54.062289006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Hampa sakahampa-hampaanana, kata Kohelet; hampa sakahampa-hampaanana, sadayana ⟨is⟩ hampa.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "hampa"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "sakahampa-hampaanana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hampa"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "sakahampa-hampaanana"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hampa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:30:49.080235562Z",
+  "model": "glm-5.3"
+}

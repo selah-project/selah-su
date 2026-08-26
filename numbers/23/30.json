@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Balak ngalaksanakeun sakumaha anu diparentahkeun Bilam, sarta mawa naék ⟨את⟩ hiji lembu jeung ⟨את⟩ hiji domba jalu dina unggal mézbéax.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakumaha anu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mawa naék"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "jeung domba jalu"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "dina mézbéax"
+    }
+  ],
+  "timestamp": "2026-08-26T11:32:47.416974295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Talatah bagja manusa ⟨kana⟩ anu teu diitung ku Yahwe kalolobaanna, jeung teu aya dina rohna tipu-daya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "talatah bagja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "diitung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kana anu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalolobaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung teu aya"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "dina rohna"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tipu-daya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:07.080188219Z",
+  "model": "glm-5.3"
+}

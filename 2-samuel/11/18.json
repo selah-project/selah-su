@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Lajeng Yoab ngirim sarta ngabejaan ka Dawid ⟨את⟩ sadayana kalakuan perang.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ngabejaan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana kalakuan perang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalakuan-kalakuan"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:13.281750617Z",
+  "model": "glm-5.3"
+}

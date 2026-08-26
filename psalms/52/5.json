@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 52,
+  "translation": "Anjeun mikacinta jahat tinimbang hadé, dusta tinimbang nyaritakeun kabeneran. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Anjeun mikacinta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "tinimbang hadé"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tinimbang nyaritakeun"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:23.228826501Z",
+  "model": "glm-5.3"
+}

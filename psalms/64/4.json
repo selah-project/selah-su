@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 64,
+  "translation": "Nu ngasahan jiga pedang létah maranéhna, muni panah maranéhna — kecap pait.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "ngasahan"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "jiga pedang"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "létah maranéhna"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "muni"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "panah maranéhna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pait"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:53.009848201Z",
+  "model": "glm-5.3"
+}

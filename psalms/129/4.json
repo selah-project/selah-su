@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 129,
+  "translation": "Yahwe nu bener, anu ngeusian tali-tali jalma jahat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ngeusian"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma jahat"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:31.032543076Z",
+  "model": "glm-5.3"
+}

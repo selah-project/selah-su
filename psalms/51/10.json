@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Pajieunkeun kuring ngadenge kagumbiraan jeung suka-suka, bari tulang-tulang nu diturih ⟨ku Anjeun⟩ bungah deui.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "pajieunkeun kuring ngadenge"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kagumbiraan"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "jeung suka-suka"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "bungah deui"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "nu diturih"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:19.686837375Z",
+  "model": "glm-5.3"
+}

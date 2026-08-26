@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Ningali palawan-senjatana yén Shaul geus maot, mending manéh ogé ragrag kana pedangna, jadi maot babarengan jeung manéhna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ningali"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "palawan-senjatana"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ragrag"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "babarengan jeung manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:23.182313899Z",
+  "model": "glm-5.3"
+}

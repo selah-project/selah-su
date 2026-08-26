@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung saurang lalaki nu méré saré-cumbuna ka binatang, maot tangtu dibunuh; jeung ⟨את⟩ binatang éta ku aranjeun bunuh.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jeung saurang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "saré-cumbuna"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ka binatang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maot"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "binatang éta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang éta"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "ku aranjeun bunuh"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:50.126355197Z",
+  "model": "glm-5.3"
+}

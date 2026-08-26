@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 96,
+  "translation": "Bagikeun ka Yahwe kamuliaan ngaran-Na; angkat ⟨את⟩ sesajén, sarta asup ka pager-pager buruanana.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "bagikeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamuliaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaran-Na"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sesajén"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "sarta asup"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "ka pager-pager buruanana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:36.458813856Z",
+  "model": "glm-5.3"
+}

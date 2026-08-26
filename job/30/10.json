@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Maranéhna ngarandeuhan kuring, ngajauhan kuring, jeung teu nahan ciduh di payuneun kuring.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "maranéhna ngarandeuhan kuring"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ngajauhan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ti kuring"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "jeung ti payuneun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "nahan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ciduh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:15:50.711862629Z",
+  "model": "glm-5.3"
+}

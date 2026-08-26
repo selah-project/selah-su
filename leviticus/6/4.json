@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Sarta anjeunna kudu ngaleupaskeun ⟨את⟩ papakéanna, terus ngagem papakéan séjén, sarta mawa kaluar ⟨את⟩ lebu ka luar kampong, ka tempat beresih.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "kudu ngaleupaskeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papakéanna"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "papakéanna"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "terus ngagem"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "papakéan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "séjén"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "sarta mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "lebu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "beresih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:16.664692200Z",
+  "model": "glm-5.3"
+}

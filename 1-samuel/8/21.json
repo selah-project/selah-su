@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Shemuél ngadangu ⟨את⟩ sadaya kecap-kecap ⟨the⟩ batur-balad, teras nyaritakeunana kana ceuli Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "jeung ngadangu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kecap-kecap batur-balad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batur-balad"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "teras nyaritakeunana"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kana ceuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:14:04.659135775Z",
+  "model": "glm-5.3"
+}

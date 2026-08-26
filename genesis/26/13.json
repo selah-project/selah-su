@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung lalaki jadi ngabadagan, terus lunga makin ka hareup, makin badag nepi ka jadi badag pisan,",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "jadi ngabadagan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "terus lunga"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "makin ka hareup"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "makin badag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "jadi badag"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:51.511767740Z",
+  "model": "glm-5.3"
+}

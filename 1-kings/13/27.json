@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Sarta anjeunna nyarita ka putra-putrana, sangkan: pelapeleankeun keur abdi ⟨את⟩ kabau; sarta maranéhna ngapapanana.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anjeunna nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "pelapeleankeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "keur abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabau"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "kabau"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "maranéhana ngapapanana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:43:36.083094631Z",
+  "model": "glm-5.3"
+}

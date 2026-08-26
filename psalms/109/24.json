@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 109,
+  "translation": "Taktak kuring téjong balukar tina puasa, sarta daging kuring leungit tina lemak.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "taktak kuring"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "téjong"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "tina puasa"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "sarta daging kuring"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "leungit"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "tina lemak"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:50.974612227Z",
+  "model": "glm-5.3"
+}

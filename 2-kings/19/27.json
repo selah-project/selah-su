@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung dudukan anjeun, jeung kaluar anjeun, jeung asup anjeun, kuring nyaho; jeung ⟨את⟩ kamurkaan anjeun ka Kami.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "jeung dudukan anjeun"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "jeung kaluar anjeun"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "jeung asup anjeun"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuring nyaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kamurkaan anjeun"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "kamurkaan anjeun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:37.944182407Z",
+  "model": "glm-5.3"
+}

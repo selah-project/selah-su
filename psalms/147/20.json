@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 147,
+  "translation": "Henteu dipigawé kitu ka sagala bangsa, jeung hukum-hukum moal kahayu ku maranehna. Puji-an Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sagala"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "kahayu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "puji-an"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:43.495287671Z",
+  "model": "glm-5.3"
+}

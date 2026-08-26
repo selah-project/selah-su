@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Singgarakeun, mangga, jeung kuring bakal ngomong; kuring badé nanya ka anjeun, jeung pasihan kuring nyaho.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "singgarakeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "bakal ngomong"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "kuring badé nanya ka anjeun"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "jeung pasihan kuring nyaho"
+    }
+  ],
+  "timestamp": "2026-08-26T15:22:48.309556174Z",
+  "model": "glm-5.3"
+}

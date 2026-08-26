@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Kapara dirigen, ka ⟨él⟩ Shoshanim, édut ka Asaf, mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kapara dirigen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ⟨él⟩"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshanim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "édut"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:22.858388835Z",
+  "model": "glm-5.3"
+}

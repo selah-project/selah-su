@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung Lavan méré ka anjeunna ⟨את⟩ Zilpa, budak awéwéna, pikeun Lea putrina, jadi budak awéwé.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "jeung méré"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "budak awéwéna"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "pikeun Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "putrina"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "budak awéwé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:35.400554676Z",
+  "model": "glm-5.3"
+}

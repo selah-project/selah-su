@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta Yahwe ngandika ka ha-Satan: La, manéh aya dina leungeun anjeun; ngan ⟨את⟩ nyawaana anu dijaga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta ... ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "La, manéh"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "dina leungeun anjeun"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawaana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawaana"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "dijaga"
+    }
+  ],
+  "timestamp": "2026-08-26T15:05:51.509129767Z",
+  "model": "glm-5.3"
+}

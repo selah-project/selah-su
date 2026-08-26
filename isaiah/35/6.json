@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Harita nu pincang bakal ngaluncat saperti menjangan, sarta lisan nu bisu bakal tarik sora; sabab geus meleték cai di padang belantara, sarta wahangan di taneuh garing.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "harita"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "bakal ngaluncat"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "saperti menjangan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "nu pincang"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "sarta bakal tarik sora"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lisan"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "nu bisu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "geus meleték"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang belantara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "sarta wahangan"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di taneuh garing"
+    }
+  ],
+  "timestamp": "2026-08-26T13:11:27.717952148Z",
+  "model": "glm-5.3"
+}

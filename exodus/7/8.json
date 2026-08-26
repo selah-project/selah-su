@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Tuluy Yahwe ngomong ka Moshe jeung ka Aharon, nyarios.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Tuluy ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    }
+  ],
+  "timestamp": "2026-08-26T10:56:03.733420924Z",
+  "model": "glm-5.3"
+}

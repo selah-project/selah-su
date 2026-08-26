@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 132,
+  "translation": "Béasnana kulantun abdi berkahan, jeung kaum miskinna kangenapan ku roti.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Béasnana"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "(kulantun)"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "abdi berkahan"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "kaum miskinna"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "kangenapan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ku roti"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:36.457470548Z",
+  "model": "glm-5.3"
+}

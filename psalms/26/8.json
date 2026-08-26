@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Yahwe, kuring bogoh kana tempat cicing imah Anjeun, jeung tempat kadiukan kamulyaan Anjeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kuring bogoh"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tempat cicing"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imah Anjeun"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "jeung tempat"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "kadiukan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamulyaan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:13.553511666Z",
+  "model": "glm-5.3"
+}

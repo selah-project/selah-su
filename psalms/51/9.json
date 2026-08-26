@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Sinci aku ku ⟨את⟩ ezob tur aku bakal suci; sageuh aku, tur ti salju aku bakal leuwih bodas.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "sinci aku"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ku ezob"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "tur aku bakal suci"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "sageuh aku"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "tur ti salju"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "aku bakal leuwih bodas"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:19.686652996Z",
+  "model": "glm-5.3"
+}

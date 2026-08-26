@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Bencana datang ka anjeunna-aru, tanpa nyaho; sarta jaring anjeunna nu disumputkeun nawangkel anjeunna; kana bencana eta anjeunna ragrag ka jero eta.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "datang ka anjeunna"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "bencana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "sarta jaring anjeunna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "disumputkeun"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "nawangkel anjeunna"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "kana bencana"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "anjeunna ragrag"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka jero eta"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:51.942715598Z",
+  "model": "glm-5.3"
+}

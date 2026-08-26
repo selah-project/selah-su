@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung aranjeunna nyandak ⟨את⟩ Yonah jeung ngalungkeun manéhna ka laut, jeung laut eurenti tina kaliguranna.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ngalungkeun manéhna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "eurenti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "tina kaliguranna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:50.718516458Z",
+  "model": "glm-5.3"
+}

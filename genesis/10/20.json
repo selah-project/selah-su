@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Ieu ⟨mangrupa⟩ anak-anak Ham, numutkeun kulawarga-kulawargana, numutkeun basa-basana, di nagara-nagarana, di bangsa-bangsana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "numutkeun kulawarga-kulawargana"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "numutkeun basa-basana"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di nagara-nagarana"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "di bangsa-bangsana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:02.963559971Z",
+  "model": "glm-5.3"
+}

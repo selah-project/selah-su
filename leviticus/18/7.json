@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Aurat bapa anjeun jeung aurat indung anjeun, ulah anjeun buka; indung anjeun ⟨eta⟩ inya — ulah anjeun buka auratna.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "aurat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "jeung aurat"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "indung anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "anjeun buka"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "indung anjeun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "inya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "anjeun buka"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "auratna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:37.313103907Z",
+  "model": "glm-5.3"
+}

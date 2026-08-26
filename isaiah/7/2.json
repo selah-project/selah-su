@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung dikabarkeun ka umputra David, euyeub: Aram reureuh di luhureun Efrayim; lajeng hate manéhna jeung hate balad-na oyag saperti oyagna kai-kai leuweung ku sabab angin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Jeung dikabarkeun"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka umputra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "euyeub"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "reureuh"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "lajeng oyag"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "haté-na"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "jeung haté"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "balad-na"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "saperti oyagna"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai-kai"
+    },
+    {
+      "surface": "יער",
+      "gloss": "leuweung"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:10.635985429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 120,
+  "translation": "Lila teuing geus cicing nefesh kuring jeung nu ngamuci damai.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "lila teuing"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "geus cicing"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh kuring"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nu ngamuci"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:34.401735699Z",
+  "model": "glm-5.3"
+}

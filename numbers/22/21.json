@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Bilam hudang isuk-isuk, masang kandar ka ⟨את⟩ rebana, lajeng indit jeung para sér Moab.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "hudang"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "masang kandar ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rebana"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "rebana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para sér"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-26T11:32:29.973201079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung anjeun ⟨ananu⟩ suci, nu nempatan puji-pujian Israil.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Jeung anjeun"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nu nempatan"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:42.095548179Z",
+  "model": "glm-5.3"
+}

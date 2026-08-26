@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung anjeun bakal nyieun ⟨את⟩na minyak minyakan nu kudus, campuran sarwa-wangunan, karya tukang ngawangun; minyak minyakan nu kudus ⟨eta⟩ jadi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun bakal nyieun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩na",
+      "marks": "minyak minyakan nu kudus"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "minyakan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nu kudus"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "campuran"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "sarwa-wangunan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "tukang ngawangun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "minyakan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nu kudus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:55.078620701Z",
+  "model": "glm-5.3"
+}

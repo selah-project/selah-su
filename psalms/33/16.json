@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Teu aya raja nu salamet ku loba saradatu; jawara teu kabébasan ku loba kakuatan.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Teu aya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "salamet"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ku loba"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "saradatu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jawara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "kabébasan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ku loba"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kakuatan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:05.960724922Z",
+  "model": "glm-5.3"
+}

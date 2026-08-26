@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung dina bulan kadua, poé ka-tujuh-dua-puluh bulan éta, bumi jemlé garing.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "jeung dina bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ka-tujuh"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jeung dua-puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan éta"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "jemlé garing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:19.160098618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Anjeunna ngomongkeun tilu rébu pepatah, sarta lagu-laguna ⟨jadi⟩ lima jeung sarébu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pepatah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sarta jadi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "lagu-laguna"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "jeung sarébu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:02.710646010Z",
+  "model": "glm-5.3"
+}

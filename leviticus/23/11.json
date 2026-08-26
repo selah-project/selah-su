@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung manéhna ngajungkelkeun ⟨את⟩ ⟨éta⟩ omer di payuneun Yahwe, pikeun ditarima pikeun aranjeun; ti isukan sanggeus ⟨éta⟩ sabat, ⟨éta⟩ imam ngajungkelkeunana.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Jeung manéhna ngajungkelkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨éta⟩ omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "⟨éta⟩ omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "pikeun ditarima pikeun aranjeun"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ti isukan sanggeus"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨éta⟩ sabat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "ngajungkelkeunana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨éta⟩ imam"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:44.888182409Z",
+  "model": "glm-5.3"
+}

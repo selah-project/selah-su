@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Sabab Yah geus milih Yaakov pikeun diri-Na, Israél jadi banda khusus-Na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "geus milih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun diri-Na"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "jadi banda khusus-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:46.538521964Z",
+  "model": "glm-5.3"
+}

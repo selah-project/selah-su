@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung ⟨את⟩ dua putrana, nu ngaran nu hijina Gershom, sabab anjeunna nyarita: jadi batur cicing kuring di tanah nu asing.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "dua putrana"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nu hijina"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "גר",
+      "gloss": "batur cicing"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jadi kuring"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "nu asing"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:56.607784653Z",
+  "model": "glm-5.3"
+}

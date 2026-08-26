@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Teras Paroh maréntahkeun sababaraha jalma ngeunaan anjeunna, sarta maranéhna nganteurkeun kaluar ⟨את⟩ anjeunna jeung ⟨את⟩ pamajikanana jeung ⟨את⟩ sagala nu dipibogana.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngeunaan anjeunna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "sababaraha jalma"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "maranéhna nganteurkeun kaluar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikanana"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagala nu dipibogana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dipibogana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:19.933322687Z",
+  "model": "glm-5.3"
+}

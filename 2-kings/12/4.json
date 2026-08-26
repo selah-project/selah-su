@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ngan baal-baal tempat luhur teu ngiles; masih kénéh bangsa nanjeur nyembelih korban jeung ngahaseupan dupa di tempat-tempat luhur.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngan baal-baal"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "tempat-tempat luhur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ngiles"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih kénéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nyembelih korban"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "jeung ngahaseupan dupa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di tempat-tempat luhur"
+    }
+  ],
+  "timestamp": "2026-08-26T12:55:30.692689809Z",
+  "model": "glm-5.3"
+}

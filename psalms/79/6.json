@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 79,
+  "translation": "Tuangkeun amarah anjeun ka ⟨the⟩ bangsa-bangsa nu teu mikanyaho anjeun, sarta ka karajaan-karajaan nu dina Jenengan anjeun teu nyerandung.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Tuangkeun"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "amarah anjeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "mikanyaho anjeun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sarta ka"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajaan-karajaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "dina Jenengan anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nyerandung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:54.540857574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "⟨את⟩ menora nu murni, ⟨את⟩ lampu-lampuna, lampu-lampu nu ditata baris, sareng ⟨את⟩ sadaya parabotna, sareng ⟨את⟩ minyak pikeun nu mere cahaya",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora nu murni"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nu murni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampuna"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampuna"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "lampu-lampu"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "nu ditata baris"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sareng ⟨את⟩",
+      "marks": "sadaya parabotna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sareng ⟨את⟩",
+      "marks": "minyak pikeun nu mere cahaya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "pikeun nu mere cahaya"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:34.529345834Z",
+  "model": "glm-5.3"
+}

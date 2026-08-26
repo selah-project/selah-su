@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 81,
+  "translation": "Tiup shofar dina bulan anyar, dina waktu nu ditangtukeun, keur poé raya urang.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "tiup"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dina bulan anyar"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "dina waktu nu ditangtukeun"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "keur poé"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "raya urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:52.429566952Z",
+  "model": "glm-5.3"
+}

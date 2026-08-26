@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sebab siga jukut buruan aranjeuna géndéng daria, siga lauk-hejo rumput aranjeuna layu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "siga jukut buruan"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "géndéng"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "daria"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "siga lauk-hejo"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "layu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:24.038317018Z",
+  "model": "glm-5.3"
+}

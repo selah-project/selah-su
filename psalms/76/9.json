@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 76,
+  "translation": "Ti langit Anjeun ngahéjokeun putusan; bumi hariwang, jeung cicing.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "Anjeun ngahéjokeun"
+    },
+    {
+      "surface": "דין",
+      "gloss": "putusan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hariwang"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "jeung cicing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:14.416387179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Ulah nempo ⟨את⟩ anggur sabot maneh daria, sabot méré warnana dina cangkirna, sabot ngaliliir kaayeunana",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anggur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabot"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "daria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabot"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "dina cangkirna"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "warnana"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ngaliliir"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "kaayeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:17:02.513454873Z",
+  "model": "glm-5.3"
+}

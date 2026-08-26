@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 53,
+  "translation": "Sadayana geus mundur, babarengan jadi beuki ruksak; euweuh nu migawe hadé, euweuh, malah saparantos.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "סג",
+      "gloss": "geus mundur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "jadi beuki ruksak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nu migawe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "saparantos"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:39.367298301Z",
+  "model": "glm-5.3"
+}

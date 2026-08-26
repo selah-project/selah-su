@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 143,
+  "translation": "Jeung ulah asup ka pangujian ku ⟨את⟩ abdi-Mu, sabab moal bener di payuneun-Mu sagala nu hirup.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka pangujian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-Mu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "bener"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di payuneun-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nu hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:42.150006072Z",
+  "model": "glm-5.3"
+}

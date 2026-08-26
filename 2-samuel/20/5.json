@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Lajeng Amasa indit pikeun ngagero ⟨את⟩ Yehuda, tapi telat leuwih ti wanci nu geus dijanjikeun ka manéhna.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "pikeun ngagero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "tapi telat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "leuwih ti"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "wanci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "dijanjikeun ka manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:34:05.916139018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 137,
+  "translation": "Dina sisi walungan Bavel, dinya kami cicing, ogé kami nierang, sabot mikir ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dina sisi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "walungan-walungan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "kami cicing"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "kami nierang"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "sabantun mikir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:35.236609824Z",
+  "model": "glm-5.3"
+}

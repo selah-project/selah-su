@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Mangka Yahwe ngabalikeun ka abdi saluyu jeung kabeneran abdi, saluyu jeung kasucian leungeun-leungeun abdi di payuneun panon-panonna.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mangka ngabalikeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "saluyu jeung kabeneran abdi"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "saluyu jeung kasucian"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun-leungeun abdi"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "panon-panonna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:24:36.203411Z",
+  "model": "glm-5.3"
+}

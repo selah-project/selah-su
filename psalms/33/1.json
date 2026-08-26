@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Rénok soréng, hé nu bener, ka Yahwe; pikeun nu lempeng pantes mupa pujian.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "rénok soréng"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "pikeun nu lempeng"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pantes"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:53.836179466Z",
+  "model": "glm-5.3"
+}

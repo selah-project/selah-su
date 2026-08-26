@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 77,
+  "translation": "Anjeun ngawasaan jaga panon kuring; kuring kageter nepi ka teu bisa nyarita.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Anjeun ngawasaan"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "jaga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon kuring"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "kuring kageter"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T17:13:34.835969536Z",
+  "model": "glm-5.3"
+}

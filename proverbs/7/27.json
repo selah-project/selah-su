@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jalan ka Sheol ⟨is⟩ imahna, nurun ka kamar-kamar maot.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "nurun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "kamar-kamar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maot"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:07.558061692Z",
+  "model": "glm-5.3"
+}

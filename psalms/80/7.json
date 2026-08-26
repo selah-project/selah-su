@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Anjeun nempatkeun kami jadi pasaliahan pikeun tatangga kami, jeung musuh kami seuri ngahina ka kami.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Anjeun nempatkeun kami"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "pasaliahan"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "pikeun tatangga kami"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "jeung musuh kami"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "seuri ngahina"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ka kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:15.199232641Z",
+  "model": "glm-5.3"
+}

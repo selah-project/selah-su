@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sarta Shafan juru-tulis ngabejaan ka raja, ceuk: Hiji buku dipasrahkeun ka abdi ku Khilkiyah imam; sarta dibacakeun ku Shafan eta buku di payuneun raja.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "sarta ngabejaan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "juru-tulis"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ka raja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "hiji buku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipasrahkeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ku Khilkiyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "sarta dibacakeun eta"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ku Shafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:59:37.052362492Z",
+  "model": "glm-5.3"
+}

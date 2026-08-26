@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Ngunjungan Yahwe ⟨את⟩ sakur nu bogoh ka anjeunna, tapi ⟨את⟩ sakur nu jahat灾害 miwarang musnah.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Ngunjungan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakur nu bogoh ka anjeunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakur"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "nu bogoh ka anjeunna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakur nu jahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakur"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "miwarang musnah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:25.876111249Z",
+  "model": "glm-5.3"
+}

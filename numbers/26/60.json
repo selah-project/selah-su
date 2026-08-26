@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung ka Aharon lahir ⟨את⟩ Nadab jeung ⟨את⟩ Avihu, ⟨את⟩ Elazar jeung ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "jeung lahir"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ka Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:34:58.332665627Z",
+  "model": "glm-5.3"
+}

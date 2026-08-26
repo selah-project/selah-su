@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung di énjing-énjing aranjeun bakal nempo ⟨את⟩ kamulyaan Yahwe, dina Ia ngadangu ⟨את⟩ rungkun pamadung anjeun ka Yahwe; jeung saha urang, bilih anjeun madung ka urang?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "di énjing-énjing"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "aranjeun bakal nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyaan Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "dina Ia ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rungkun pamadung anjeun"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "rungkun pamadung anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "jeung urang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "saha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilih"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "anjeun madung"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka urang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:00.415746820Z",
+  "model": "glm-5.3"
+}

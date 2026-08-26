@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Malahan babaturan kuring sorangan, nu dipercaya ku kuring, nu ngahakan ⟨את⟩ roti kuring, ngagedékeun tackleuh ka hareupen kuring.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "malahan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "babaturan kuring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "dipercaya ku kuring"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nu ngahakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roti kuring"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "roti kuring"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ngagedékeun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka hareupen kuring"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tackleuh"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:30.120210426Z",
+  "model": "glm-5.3"
+}

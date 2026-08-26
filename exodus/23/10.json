@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung genep taun anjeun bogné ⟨את⟩ taneuh anjeun, jeung anjeun ngumpulkeun ⟨את⟩ hasilna.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "jeung genep"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "anjeun bogné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh anjeun"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "taneuh anjeun"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "jeung anjeun ngumpulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilna"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:04:00.504176184Z",
+  "model": "glm-5.3"
+}

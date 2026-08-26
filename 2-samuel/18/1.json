@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Teras Dawid ngitung ⟨את⟩ ⟨the⟩ bala nu sarengjeungna, teras manehna netepkeun luhureun maranehna pangawasa sarébu jeung pangawasa saratus.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ngitung"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-sarengjeungna"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "teras-netepkeun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "luhureun-maranehna"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sarébu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "jeung-pangawasa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "saratus"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:34.264766093Z",
+  "model": "glm-5.3"
+}

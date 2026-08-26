@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung maranehna nyarios ka anjeunna: Dimana Sarah pamajikan anjeun? Jeung anjeunna nyarios: Tingali, di kemah.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung maranehna nyarios"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dimana"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "pamajikan anjeun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna nyarios"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tingali"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di kemah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:02.274946302Z",
+  "model": "glm-5.3"
+}

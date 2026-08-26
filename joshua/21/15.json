@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung ⟨את⟩ Kholon jeung ⟨את⟩ taneuh angonna, jeung ⟨את⟩ Devir jeung ⟨את⟩ taneuh angonna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Kholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuh angonna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "taneuh angonna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:00:06.429459969Z",
+  "model": "glm-5.3"
+}

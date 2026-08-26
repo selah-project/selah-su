@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Ngan ka Elohim waé, hé nyawa kuring, anteng cicing; sabab ti Anjeunna pangharepan kuring.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim waé"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "anteng cicing"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hé nyawa kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti Anjeunna"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "pangharepan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:25.545096190Z",
+  "model": "glm-5.3"
+}

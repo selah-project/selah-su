@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Hideung kuring, tapi geulis, hé putri-putri Yerushalaim, sarupa khemah-khemah Kedar, sarupa layar-layar Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "hideung"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "tapi geulis"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "sarupa khemah-khemah"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "sarupa layar-layar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:23:10.927427772Z",
+  "model": "glm-5.3"
+}

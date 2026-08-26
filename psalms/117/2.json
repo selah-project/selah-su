@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 117,
+  "translation": "Sabab xesed-Na kawasa ngaleuwihan kami, jeung pibakeuneang Yahwe tetep salawasna; pupujian ka Yah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kawasa ngaleuwihan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesed-Na"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "jeung pibakeuneang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pupujian ka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:42.029830616Z",
+  "model": "glm-5.3"
+}

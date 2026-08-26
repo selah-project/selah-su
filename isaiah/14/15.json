@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Ngan ka Sheol anjeun dirumbandirkeun, ka juru-juru liang.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "anjeun dirumbandirkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "juru-juru"
+    },
+    {
+      "surface": "בור",
+      "gloss": "liang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:09.396512874Z",
+  "model": "glm-5.3"
+}

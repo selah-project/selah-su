@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Geura ngoma ananjeun ka nu somsongong, nu sumpah dilaknat, nu nyimpang ti parentah-parentah Anjeun.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "geura ngoma"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "nu somsongong"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "nu dilaknat"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "nu nyimpang"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "ti parentah-parentah Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:56.945470104Z",
+  "model": "glm-5.3"
+}

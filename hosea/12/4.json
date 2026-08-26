@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Dina bateung nyingkungan ⟨את⟩ dulurna, jeung dina kakuatan mangsana perang ngalawan ⟨את⟩ Elohim;",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "dina bateung"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nyingkungan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulurna"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "jeung dina kakuatan mangsana"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "perang ngalawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:06:21.060050423Z",
+  "model": "glm-5.3"
+}

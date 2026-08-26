@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Lajeng aranjeunna ngagero ka Lot sarta ngomong ka anjeunna: Di mana ⟨the⟩ lalaki-lalaki nu asup ka anjeunna peuting ieu? Kaluarkan maranehna ka kami, sangkan urang ngahartikeun ⟨את⟩ maranehna.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ngagero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lalaki-lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "peuting ieu"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "kaluarkan maranehna"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ka kami"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "sangkan urang ngahartikeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:41:29.999108203Z",
+  "model": "glm-5.3"
+}

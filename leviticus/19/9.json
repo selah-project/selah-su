@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sarta lamun aranjeun ngarikian ⟨את⟩ panén tina tanah aranjeun, ulah anjeun ngarikian pinuh tungtung lapak aranjeun, sarta nu ragrag tina panén aranjeun ulah dikumpulkeun.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "sarta lamun aranjeun ngarikian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panén"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panén"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tanah aranjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ngarikian pinuh"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "lapak aranjeun"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "ngarikian"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "sarta nu ragrag"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "panén aranjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "dikumpulkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:18:58.617029736Z",
+  "model": "glm-5.3"
+}

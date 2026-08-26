@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Shemuel saré nepi ka ésuk, sarta muka ⟨את⟩ panto-panto imah Yahwe; jeung Shemuel sieun mawarakeun ⟨את⟩ paningal ka Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "jeung saré"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "jeung muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panto-panto"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "panto-panto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "jeung Shemuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "mawarakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paningal"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "paningal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-26T12:13:51.239884355Z",
+  "model": "glm-5.3"
+}

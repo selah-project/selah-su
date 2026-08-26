@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 122,
+  "translation": "Yerushalaim, ⟨nu⟩ diwangun, saperti kota nu silih sambung jadi hiji ka dirina.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "diwangun"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "saperti kota"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "silih sambung"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka dirina"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "jadi hiji"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:10.735281777Z",
+  "model": "glm-5.3"
+}

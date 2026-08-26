@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Mageri, jeung isuk-isuk, jeung tengah poe abdi ngamimit jeung ngadegud, sarta Anjeunna ngadéngé sora abdi.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "mageri"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "jeung isuk-isuk"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "jeung tengah poe"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "abdi ngamimit"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "jeung ngadegud"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "sarta Anjeunna ngadéngé"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:37.655177070Z",
+  "model": "glm-5.3"
+}

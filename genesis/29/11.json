@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Teras Yaakov nyiuman Rahel, teras ngangkat ⟨את⟩ soraana sarta eusi.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "nyiuman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soraana"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "soraana"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "eusi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:19.359486988Z",
+  "model": "glm-5.3"
+}

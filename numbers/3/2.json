@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung ieu ngaran-ngaran putra Aharon: nu bungsu-suci ⟨nyaéta⟩ Nadab kabungsu, jeung Avihu, Elazar, jeung Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Jeung ieu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "kabungsu"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "jeung Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "jeung Itamar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:24:11.459163327Z",
+  "model": "glm-5.3"
+}

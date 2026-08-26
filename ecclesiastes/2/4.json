@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Kuring ngagédérkeun gawé-gawé kuring: kuring ngawangun imah-imah pikeun diri kuring, kuring nanem kebon anggur pikeun diri kuring.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "kuring ngagédérkeun"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "gawé-gawé kuring"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "kuring ngawangun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun diri kuring"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "kuring nanem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun diri kuring"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kebon anggur"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:26.652344232Z",
+  "model": "glm-5.3"
+}

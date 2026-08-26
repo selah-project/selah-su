@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "\"Hayu urang sobrahan ⟨את⟩ ranté-ranté maranéhna, sarta buang ti urang tali-tali maranéhna!\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "hayu urang sobrahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranté-ranté maranéhna"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ranté-ranté maranéhna"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "sarta hayu urang buang"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti urang"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "tali-tali maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:55.526531540Z",
+  "model": "glm-5.3"
+}

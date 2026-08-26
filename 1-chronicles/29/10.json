@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Tuluy Dawid ngamukeun ⟨את⟩ Yahwe di payuneun sadaya kumpulan, sarta Dawid nyarios: Anjeun diberkahan, wahai Yahwe, Elohim-na Israél, bapa urang, ti mimiti kajaman nepi ka kajaman.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ngamukeun"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarios"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "diberkahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapa urang"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ti mimiti kajaman"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kajaman"
+    }
+  ],
+  "timestamp": "2026-08-26T16:17:41.931076548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ sapuluh papan dampal tina tambaga: opat hasta panjang papan dampal anu hiji, jeung opat hasta lébarna, jeung tilu hasta jangkungna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapuluh papan dampal"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "papan-papan dampal"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "opat"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "papan dampal"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "anu hiji"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "jeung opat"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lébarna"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "jangkungna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:15.400988851Z",
+  "model": "glm-5.3"
+}

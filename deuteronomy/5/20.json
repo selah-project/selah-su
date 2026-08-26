@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung ulah ngajawab ngalawan tatangga anjeun saksi palsu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ngajawab"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ngalawan tatangga anjeun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "palsu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:50.364085267Z",
+  "model": "glm-5.3"
+}

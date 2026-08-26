@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Dosa-dosa mangsa ngora kuring jeung pangedaan-pangedaan kuring ulah Ku-inget; luyu jeung kanyaah satia-Mu, inget ka abdi, Anjeun, pikeun kabungahan-Mu, Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "mangsa ngora kuring"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "jeung pangedaan-pangedaan kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "Ku-inget"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "luyu jeung kanyaah satia-Mu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "inget"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pikeun"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kabungahan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:49.983022875Z",
+  "model": "glm-5.3"
+}

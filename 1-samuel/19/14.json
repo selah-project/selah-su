@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Teras Saul ngintipkeun utusan-utusan pikeun nyandak ⟨את⟩ Dawid, tapi Mikal nyarita: 'Anjeunna gering.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngintipkeun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pikeun nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "gering"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:38.600376937Z",
+  "model": "glm-5.3"
+}

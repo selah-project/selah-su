@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung maranehna nyangkalut ka Baal Peor, jeung ngahakan kurban-kurban nu paéh.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "jeung maranehna nyangkalut"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ka Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "jeung ngahakan"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurban-kurban"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "nu paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:52.854334744Z",
+  "model": "glm-5.3"
+}

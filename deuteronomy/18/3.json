@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung ieu ⟨bakal jadi⟩ katangtuan hak para imam ti ⟨את⟩ balaréa: ti ⟨את⟩ maranéhna nu nyembelih kurban, embé munding atawa embé domba — béré ka imam éta sukuan, dua pihei, jeung burih.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "jeung ieu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bakal jadi⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katangtuan hak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "balaréa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balaréa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna nu nyembelih kurban"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "nu nyembelih"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "אם",
+      "gloss": "embé"
+    },
+    {
+      "surface": "שור",
+      "gloss": "munding"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atawa embé"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "béré"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ka imam"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "sukuan"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "dua pihei"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "burih"
+    }
+  ],
+  "timestamp": "2026-08-26T11:46:48.273275346Z",
+  "model": "glm-5.3"
+}

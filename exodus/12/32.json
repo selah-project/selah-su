@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Ogé embon anjeun, ogé sapi anjeun, pibawa, kumaha anu ku aranjeun dicaturkeun, lajeng mia; jeung aranjeun ngaberokahan ogé ⟨את⟩ akuring.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "embon anjeun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "sapi anjeun"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "pibawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kumaha"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "anu dicaturkeun"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mia"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ngaberokahan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ akuring",
+      "marks": "akuring (Paroh)"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:44.370490662Z",
+  "model": "glm-5.3"
+}

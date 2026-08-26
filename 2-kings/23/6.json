@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung manéhna mawa kaluar ⟨את⟩ Ashéra ti imah Yahwe, ka luar ti Yerushalaim, ka walungan Kidron, jeung ngaduruk ⟨את⟩-na di walungan Kidron, jeung ngagilingkeun jadi lebu, sarta ngalemparkeun ⟨את⟩ lebuna kana kuburan putra-putra ⟨rakyat⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "jeung manéhna mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashéra"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashéra"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka luar"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ti Yerushalaim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "jeung ngaduruk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-na",
+      "marks": "di walungan Kidron"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di walungan"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "jeung ngagilingkeun"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "jadi lebu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "sarta ngalemparkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebuna"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "lebuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kuburan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:21.426268907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Nepi ka iraha Kuring kudu nempo ⟨את⟩ bendéra, ngadéngé ⟨את⟩ sora shofar?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "Kuring kudu nempo"
+    },
+    {
+      "surface": "נס",
+      "gloss": "⟨את⟩ bendéra",
+      "marks": "bendéra"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-08-26T13:22:51.048732009Z",
+  "model": "glm-5.3"
+}

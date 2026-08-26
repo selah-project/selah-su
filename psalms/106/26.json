@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jadi anjeunna ngangkat leungeun-Na ka maranehna, pikeun ngaruntagkeun ⟨את⟩ maranehna di padang pasir.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "jadi anjeunna ngangkat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeun-Na"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "pikeun ngaruntagkeun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna di padang pasir"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang pasir"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:52.854088723Z",
+  "model": "glm-5.3"
+}

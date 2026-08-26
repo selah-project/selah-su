@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Yahwe ngomong ka kuring: Témbongkeun, kuring mimiti masrahkeun payuneun anjeun ⟨את⟩ Sichon jeung ⟨את⟩ taneuhna; mimitian mibanda, pikeun ngawasa ⟨את⟩ taneuhna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "témbongkeun"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "kuring mimiti"
+    },
+    {
+      "surface": "תת",
+      "gloss": "masrahkeun"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "payuneun anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "taneuhna"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "taneuhna"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mimitian"
+    },
+    {
+      "surface": "רש",
+      "gloss": "mibanda"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "pikeun ngawasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuhna"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "taneuhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:31.172128250Z",
+  "model": "glm-5.3"
+}

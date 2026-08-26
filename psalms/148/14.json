@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 148,
+  "translation": "Jeung Anjeunna ngaronjatkeun tanduk pikeun umat-Na, papujian pikeun sadaya nu satia-kanyaah ka Anjeunna, pikeun barbarisan Yisrael, umat nu deukeut ka Anjeunna. Puji-an Yah!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Jeung ngaronjatkeun"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tanduk"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "pikeun umat-Na"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "papujian"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pikeun sadaya"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "nu satia-kanyaah ka Anjeunna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikeun barbarisan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nu deukeut ka Anjeunna"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Puji-an"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:11.750895698Z",
+  "model": "glm-5.3"
+}

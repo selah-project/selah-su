@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Ka awéwé ngandika: Ngalobaan kuring baris ngalobaan kasusahan anjeun jeung kakandungan anjeun; dina kasusahan anjeun baris midaku barudak; sareng ka salaki anjeun kahayang anjeun, sarta manéhna baris ngawasa ka anjeun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Ngalobaan"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "kuring baris ngalobaan"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "kasusahan anjeun"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "jeung kakandungan anjeun"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "dina kasusahan"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "anjeun baris midaku"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sareng ka"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "salaki anjeun"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "kahayang anjeun"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sarta manéhna"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "baris ngawasa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:18.568769902Z",
+  "model": "glm-5.3"
+}

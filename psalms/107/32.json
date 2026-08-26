@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Jeung bade ngaluhurkeun anjeunna dina kumpulan ⟨ηη⟩ jalma réa, jeung dina tempat diuk para sepuh memuji anjeunna.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "jeung bade ngaluhurkeun anjeunna"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dina kumpulan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma réa"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "jeung dina tempat diuk"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "para sepuh"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "memuji anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:46.268135509Z",
+  "model": "glm-5.3"
+}

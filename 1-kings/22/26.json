@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung raja Israél nyarita: Candak ⟨את⟩ Mikayahu, mulangkeun anjeunna ka Amon pupuhu kota jeung ka Yoas putra raja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "קח",
+      "gloss": "candak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "mulangkeun anjeunna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pupuhu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:06.090443795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Isuk-isuk mancarkeun kembang jeung ngaliwat; muggaríng diketok jeung garing.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "isuk-isuk"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "mancarkeun kembang"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "jeung ngaliwat"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "muggaríng"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "diketok"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "jeung garing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:20.526097622Z",
+  "model": "glm-5.3"
+}

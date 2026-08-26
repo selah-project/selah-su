@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Gunung-gunung ⟨nu⟩ luhur pikeun embé-embé leuweung; batu-batu karang tempat nyumput pikeun bajing batu.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "pikeun embé-embé leuweung"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "batu-batu karang"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "tempat nyumput"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "pikeun bajing batu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:43:06.031264735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ogá kana sagala kecap-kecap nu diucapkeun ulah méré haté anjeun, sangkan anjeun moal ngadenge ⟨את⟩ palayan anjeun ngahiwaran anjeun.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ogá"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kana sagala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "diucapkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "haté anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ngadenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palayan anjeun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palayan anjeun"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "ngahiwaran anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:15.322717800Z",
+  "model": "glm-5.3"
+}

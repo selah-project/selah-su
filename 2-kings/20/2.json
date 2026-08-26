@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sarta anjeunna ngabalikkeun sowan ka témbok, sarta ngadua ka Yahwe, sarta nyarios",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "sarta ngabalikkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sowan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sowan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "témbok"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "sarta ngadua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sarta nyarios"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:34.864804902Z",
+  "model": "glm-5.3"
+}

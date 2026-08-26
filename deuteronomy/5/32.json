@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Tur maranéha kudu ngajaga pikeun ngalakukeun saperti nu diparentahkeun ku Yahwe, Elohim maranéha, ⟨את⟩ ka maranéha; ulah mento ka katuhu jeung ka kénca.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "tur maranéha kudu ngajaga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pikeun ngalakukeun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti nu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diparentahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim maranéha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka maranéha",
+      "marks": "diparentahkeun ka maranéha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "mento"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "katuhu"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "jeung kénca"
+    }
+  ],
+  "timestamp": "2026-08-26T11:41:10.785144187Z",
+  "model": "glm-5.3"
+}

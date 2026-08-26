@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung kuring bakal ngalobaan ⟨את⟩ anjeun pisan-pisan, jeung kuring bakal méré anjeun jadi bangsa-bangsa, jeung raja-raja ti anjeun bakal kaluar.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "jeung kuring bakal ngalobaan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "jeung kuring bakal méré anjeun"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "jadi bangsa-bangsa"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "jeung raja-raja"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti anjeun"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bakal kaluar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:23.875066470Z",
+  "model": "glm-5.3"
+}

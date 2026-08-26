@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 105,
+  "translation": "Sarta manéhna ngagertak ⟨את⟩ kebon anggur maranéhna jeung ⟨את⟩ tinja maranéhna, sarta ngarempag ⟨את⟩ tatangkalan di wates-wates maranéhna.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ngagertak"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "kebon anggur maranéhna"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "tinja maranéhna"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ngarempag"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tatangkalan"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "wates-wates maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.542546320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 2:5",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Pamali mun abdi ngomalkeun maneh sahareupeun batur nepi ka telanjang, tur abdi nembongkeun maneh saperti poé lahirna, tur abdi nempatkeun maneh saperti gurun, tur abdi nempatkeun maneh saperti taneuh gering, tur abdi mawa maot ka maneh ku sabab haus.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "pamali mun"
+    },
+    {
+      "surface": "אפשיטנה",
+      "gloss": "abdi ngomalkeun maneh"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "והצגתיה",
+      "gloss": "tur abdi nembongkeun maneh"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "saperti poé"
+    },
+    {
+      "surface": "הולדה",
+      "gloss": "lahirna"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "tur abdi nempatkeun maneh"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "saperti gurun"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "tur abdi nempatkeun maneh"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "saperti taneuh"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "gering"
+    },
+    {
+      "surface": "והמתיה",
+      "gloss": "tur abdi mawa maot ka maneh"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ku sabab haus"
+    }
+  ],
+  "timestamp": "2026-08-26T14:03:17.296943880Z",
+  "model": "glm-5.3"
+}

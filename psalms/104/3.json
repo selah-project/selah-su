@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Nu ngajieun balok lantéy luhureun-Na di cai, Nu nyieun ⟨את⟩ awan-awan jadi kareta-Na, Nu leumpang dina jangjang angin.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Nu ngajieun balok"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di cai"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "lantéy luhureun-Na"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Nu nyieun"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "jadi kareta-Na"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "Nu leumpang"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "jangjang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:41.780503119Z",
+  "model": "glm-5.3"
+}

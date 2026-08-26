@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung Yahwe Elohim ngusir anjeunna ti Kebon Eden sangkan ngagarap ⟨את⟩ taneuh anu manehna dicandak ti dinya.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "jeung ngusir anjeunna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ti kebon"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sangkan ngagarap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dicandak"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:16.321241785Z",
+  "model": "glm-5.3"
+}

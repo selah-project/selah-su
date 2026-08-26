@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung kajadian, jiga datangna ⟨the⟩ surat ka maranehna, aranjeunna ngala ⟨את⟩ putra-putra ⟨the⟩ raja, jeung meuncit tujuh puluh jalma, jeung nempatkeun ⟨את⟩ sirah-sirah maraneunna dina kembangan, jeung ngirim ka anjeunna ka Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jeung kajadian"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "jiga datangna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "aranjeunna ngala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra raja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "jeung meuncit"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "jeung nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirah-sirah maraneunna"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "sirah-sirah maraneunna"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "dina kembangan"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "jeung ngirim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "ka Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:33.738726946Z",
+  "model": "glm-5.3"
+}

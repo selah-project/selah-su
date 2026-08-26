@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Kush nga-anakkeun ⟨את⟩ Nimrod; manehna mimiti jadi jago di ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Jeung Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nga-anakkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mimiti"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "jago"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:45.670860846Z",
+  "model": "glm-5.3"
+}

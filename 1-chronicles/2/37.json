@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "jeung Zabad ngalahirkeun ⟨את⟩ Eflal, jeung Eflal ngalahirkeun ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "jeung Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "jeung Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:49.330741851Z",
+  "model": "glm-5.3"
+}

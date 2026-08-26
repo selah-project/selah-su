@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung Adonay méré ka anjeun roti kakariungan jeung cai kasusahan, tapi moal deui pangaping anjeun nyumput, mangka panon anjeun bakal nempo ⟨את⟩ pangaping anjeun.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Jeung ... méré"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kakariungan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "jeung cai"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi moal"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "nyumput"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "pangaping anjeun"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "panon anjeun"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangaping anjeun"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "pangaping anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:01.955759833Z",
+  "model": "glm-5.3"
+}

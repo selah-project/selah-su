@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Lamun ia ngajanjikeun ⟨את⟩ manéhna pikeun putrana, sakumaha katangturan putri-putri, mangka ia ngalakukeun ka anjeunna.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pikeun putrana"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "ngajanjikeun anjeunna"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sakumaha katangturan"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:02:56.554790702Z",
+  "model": "glm-5.3"
+}

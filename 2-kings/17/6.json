@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Dina taun ka-sangcame Hoshea, raja Ashur naklukkeun ⟨את⟩ Shomeron, sarta mawa ⟨את⟩ Yisrael ka Ashur, sarta nyicingan ⟨את⟩ maranehna di Halah, di Habor, walungan Gozan, jeung di kota-kota Maday.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "dina-taun"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "ka-sangcame"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "naklukkeun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "sarta-mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ka-Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sarta-nyicingan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna (di Halah)"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "di-Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "di-Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "walungan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "jeung-kota-kota"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maday"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:55.509780545Z",
+  "model": "glm-5.3"
+}

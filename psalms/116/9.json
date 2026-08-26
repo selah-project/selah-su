@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 116,
+  "translation": "Abdi bakal jalan saméméh Yahwe, di bumi-bumi nu hirup.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "abdi bakal jalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di bumi-bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nu hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:32.317460192Z",
+  "model": "glm-5.3"
+}

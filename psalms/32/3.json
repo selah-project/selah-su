@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sabab lamun kuring ngantep bisu, tulang kuring ngarandapan ruksak, ku sora ngékék kuring sadinten lilana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ngantep bisu"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ngarandapan ruksak"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang kuring"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ku sora ngékék kuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadenten"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dinten"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:07.080355006Z",
+  "model": "glm-5.3"
+}

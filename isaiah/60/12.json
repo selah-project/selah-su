@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 60,
+  "translation": "Sabab bangsa jeung karajaan nu henteu melayani anjeun bakal binasa, jeung bangsa-bangsa bakal tumpur garing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "jeung karajaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "melayani anjeun"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bakal binasa"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "jeung bangsa-bangsa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "garing"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "bakal tumpur"
+    }
+  ],
+  "timestamp": "2026-08-26T13:19:26.064648861Z",
+  "model": "glm-5.3"
+}

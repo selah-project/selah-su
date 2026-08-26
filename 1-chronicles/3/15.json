@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung putra-putra Yoshiahu: nu kahiji Yoḥanan, nu kadua Yehoyakim, nu katilu Tsidkiyahu, nu kaopat Syalum.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nu kahiji"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yoḥanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nu kadua"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "nu katilu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "nu kaopat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Syalum"
+    }
+  ],
+  "timestamp": "2026-08-26T17:24:48.560253517Z",
+  "model": "glm-5.3"
+}

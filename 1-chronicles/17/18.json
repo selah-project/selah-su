@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Naon deui anu tiasa ditambih Dewi ka Anjeun pikeun kamulyaan hamba Anjeun? Sawatosna Anjeun nyanggi ⟨את⟩ hamba Anjeun.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "tiasa ditambih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dewi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "pikeun kamulyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba Anjeun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba Anjeun"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sawatosna Anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba Anjeun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba Anjeun"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nyanggi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:13:09.582396866Z",
+  "model": "glm-5.3"
+}

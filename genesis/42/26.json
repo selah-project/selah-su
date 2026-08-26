@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Jeung aranjeunna mawa ⟨את⟩ paré maranehna luhureun kalodi-kalodina, jeung indit ti dinya.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Jeung mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paré maranehna"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "paré maranehna"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kalodi-kalodina"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jeung indit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ti dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:40.486004638Z",
+  "model": "glm-5.3"
+}

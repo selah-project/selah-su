@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung Abdi jadikeun ⟨את]] kota-kota aranjeun rumaja, sarta Abdi ngancurkeun ⟨את⟩ tempat suci aranjeun, sarta Abdi moal nyium bau seungit kanyenyeumaneun aranjeun.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jeung Abdi jadikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota aranjeun"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kota-kota aranjeun"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "rumaja"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "sarta Abdi ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat suci aranjeun"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "tempat suci aranjeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta moal"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "nyium"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "seungit kanyenyeumaneun aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:43.899241046Z",
+  "model": "glm-5.3"
+}

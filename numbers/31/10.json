@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung ⟨את⟩ sadaya kota-kota maranéhna di tempat cicingna maranéhna, jeung ⟨את⟩ sadaya bénténg-bénténgna, di béakeun ku seuneu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kota-kota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kota-kota maranéhna"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "di tempat cicingna maranéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya bénténg-bénténgna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "bénténg-bénténgna"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "di béakeun"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:36:07.264227381Z",
+  "model": "glm-5.3"
+}

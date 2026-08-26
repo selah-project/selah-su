@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung Lavan nyarios: leuwih hadé kuring méré ⟨את⟩ manéhna ka anjeun batan kuring méré ⟨את⟩ manéhna ka hiji lalaki séjén; cicing jeung abdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarios"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "leuwih hadé"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "kuring méré"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "batan kuring méré"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka hiji lalaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "séjén"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "cicing"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jeung abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:45:34.609546851Z",
+  "model": "glm-5.3"
+}

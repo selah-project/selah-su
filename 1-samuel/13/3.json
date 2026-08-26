@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung Yonatan ngaparang ⟨את⟩ pos perwira Pelishti nu aya di Geba; tuluy Pelishti ngadéngé kana éta, sarta Syaul méntaletik sangkaléta di sakuliah ⟨the⟩ tanah, bari nyarios: Sanggakeun urang Ibrani ngadéngé.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ngaparang"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pos perwira Pelishti"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pos perwira"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "di Geba"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "tuluy ngadéngé"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "jeung Syaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "méntaletik"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "sangkaléta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sakuliah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bari nyarios"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "urang Ibrani"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:10.786168155Z",
+  "model": "glm-5.3"
+}

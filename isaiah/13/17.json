@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Tempo, kuring ngarorék ngalawan maranéhna ⟨את⟩ Madai, nu pérak teu ngahargaan jeung emas teu dipikahoyong ku manéhna.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "tempo, kuring"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ngarorék"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ngalawan maranéhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madai"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ngahargaan"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "jeung emas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "dipikahoyong"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:31.424942088Z",
+  "model": "glm-5.3"
+}

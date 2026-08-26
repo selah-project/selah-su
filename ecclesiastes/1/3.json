@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Naon kauntunganana keur manusa dina sagala capekna nu dipigawéna di handapeun panonpoé?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kauntunganana"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "keur manusa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dina sagala"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "capekna"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "nu dipigawéna"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handapeun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    }
+  ],
+  "timestamp": "2026-08-26T15:30:49.080391848Z",
+  "model": "glm-5.3"
+}

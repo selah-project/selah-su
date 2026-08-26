@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Abdi badé asup ka bumi Anjeun kalawan kurban duruk, abdi mayar ka Anjeun sumpah-sumpah abdi.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "abdi badé asup"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ka bumi Anjeun"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "kurban duruk"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "abdi mayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "sumpah-sumpah abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:19.163250319Z",
+  "model": "glm-5.3"
+}

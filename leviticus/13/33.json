@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "jeung anjeunna jeguguran buuk, tapi ⟨את⟩ neték teu diparin-arin, sarta imam ngasingkeun ⟨את⟩ neték kudu tujuh poé deui;",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "anjeunna jeguguran buuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neték"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neték"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "diparin-arin"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ngasingkeun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neték"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neték"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "poé"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "deui"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:54.024620265Z",
+  "model": "glm-5.3"
+}

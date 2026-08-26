@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Cilaka ka nu ngaruntah jeung nu kotor, kota nu panganiaya!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "nu ngaruntah"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "jeung nu kotor"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "nu panganiaya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:25.321859251Z",
+  "model": "glm-5.3"
+}

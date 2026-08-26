@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "jeung miceun ⟨את⟩ allah maranehna kana seuneu, sabab lain Elohom maranehna, lain ngan waé karya leungeun manusa, kai jeung batu, jeung maranehna ngancurkeunana.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "jeung miceun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allah maranehna"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah maranehna"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kana seuneu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohom"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngan waé"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "jeung batu"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "jeung maranehna ngancurkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:58:31.648725677Z",
+  "model": "glm-5.3"
+}

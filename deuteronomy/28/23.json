@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung langit anjeun nu di luhur sirah anjeun ⟨jadi⟩ tambaga, jeung ⟨הארץ⟩ taneuh nu di handap anjeun ⟨jadi⟩ beusi.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langit anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "sirah anjeun"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "jeung taneuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "di handap anjeun"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "beusi"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:04.964091343Z",
+  "model": "glm-5.3"
+}

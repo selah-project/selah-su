@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Naha anjeun tumunduh, jiwa abdi, jeung naha anjeun ribut ka luhur abdi? Ngadagoan ka Elohim, sabab masih kénéh abdi muji ka Anjeunna, pon dimuka-Na nu jadi kasalametan.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "anjeun tumunduh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa abdi"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "jeung anjeun ribut"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka luhur abdi"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "ngadagoan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih kénéh"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "abdi muji ka Anjeunna"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kasalametan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pon dimuka-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:26.703227593Z",
+  "model": "glm-5.3"
+}

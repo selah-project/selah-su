@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Jeung Shelomoh ngawangun ⟨את⟩ Gezer jeung ⟨את⟩ Beit-Khoron nu handap.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "nu handap"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:03.984855736Z",
+  "model": "glm-5.3"
+}

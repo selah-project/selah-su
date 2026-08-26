@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ieu ngaran-ngaran lalaki nu bakal nangtung ⟨את⟩ sareng anjeun: pikeun Reuven, Elitsur putra Shedeur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bakal nangtung"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sareng anjeun",
+      "marks": "sareng anjeun"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "pikeun Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeur"
+    }
+  ],
+  "timestamp": "2026-08-26T11:23:22.876406709Z",
+  "model": "glm-5.3"
+}

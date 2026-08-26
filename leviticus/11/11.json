@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung jadi nu peknyana maranehna bakal, pikeun maraneh; tina dagingna ulah maraneh dahar, jeung ⟨את} bangkéna maraneh pekna.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "jeung nu peknyana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maranehna bakal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun maraneh"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "tina dagingna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "maraneh dahar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bangkéna"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "bangkéna"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "maraneh pekna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:15:16.265329720Z",
+  "model": "glm-5.3"
+}

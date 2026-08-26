@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sarta manéhna sumping ka indung saréana, sarta ⟨indungna⟩ ngandika: saha anjeun, bogoh abdi? Sarta manéhna nyaritakeun ka anjeunna ⟨את⟩ sadayana nu dipigawé ku lalaki éta ka manéhna.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "sarta manéhna sumping"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "indung saréana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sarta ngandika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "את",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "bogoh abdi"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "sarta manéhna nyaritakeun"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadayana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki éta"
+    }
+  ],
+  "timestamp": "2026-08-26T15:27:03.179786491Z",
+  "model": "glm-5.3"
+}

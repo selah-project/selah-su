@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Zina jeung anggur jeung anggur anyar nyandak haté.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "zina"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "jeung anggur"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "jeung anggur anyar"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:06.022642361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 125,
+  "translation": "Kidung tarajé. Nu arandel ka Yahwe bakal jadi kawas gunung Tsiyon, moal goyang, salawasna cicing.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Nu arandel"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "kawas gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "goyang"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "cicing"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:11.123172383Z",
+  "model": "glm-5.3"
+}

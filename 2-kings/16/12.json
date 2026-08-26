@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Tuluy raja datang ti Damesyek, raja nempo ⟨את⟩ mézbah éta, raja ngadeukeutan ka mézbah, sarta naék ka dinya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ti Damesyek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mézbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ngadeukeutan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naék"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:59.608760971Z",
+  "model": "glm-5.3"
+}

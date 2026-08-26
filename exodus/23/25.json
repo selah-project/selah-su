@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung aranjeun bakal ngawula ka ⟨את⟩ Yahwe, Elohim aranjeun, sarta Anjeunna bakal mberkahati ⟨את⟩ roti anjeun jeung ⟨את⟩ cai anjeun, sarta Abdi bakal ngapupus panyakit ti tengah-tengah anjeun.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "jeung aranjeun bakal ngawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "sarta mberkahati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roti anjeun"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "roti anjeun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cai anjeun"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "cai anjeun"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "sarta Abdi bakal ngapupus"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "panyakit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ti tengah-tengah anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:56.233552668Z",
+  "model": "glm-5.3"
+}

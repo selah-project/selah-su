@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 127,
+  "translation": "Bagjana jalma nu ngeusian ⟨את⟩ wadah panahna ku maranehna; moal maranehna malu, sabab maranehna ngomong ⟨את⟩ jeung musuh-musuh di gerbang.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bagjana"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ngeusian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadah panahna"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "wadah panahna"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ku maranehna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "malu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "maranehna ngomong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeung musuh-musuh"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "musuh-musuh"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gerbang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:48.232705067Z",
+  "model": "glm-5.3"
+}

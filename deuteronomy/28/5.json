@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Pinuji keranjang anjeun jeung tempat adonan anjeun.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "keranjang anjeun"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "jeung tempat adonan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:50:16.952540876Z",
+  "model": "glm-5.3"
+}

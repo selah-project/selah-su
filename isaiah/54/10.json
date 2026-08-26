@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 54,
+  "translation": "Sabab gunung-gunung bisa pindah sarta pasir-pasir bisa oyag, tapi kanyaah satia perjangjian kuring moal luntur ti ⟨את⟩ anjeun, sarta perjangjian katengtreman kuring moal oyag, ceuk Yahwe, Nu Mikanyaah ka anjeun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "pindah"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "sarta pasir-pasir"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "oyag"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "sarta kanyaah satia perjangjian-kuring"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩-ti anjeun",
+      "marks": "anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "luntur"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "sarta perjangjian"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "katengtreman-kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "oyag"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "Nu Mikanyaah ka anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:18:31.583999246Z",
+  "model": "glm-5.3"
+}

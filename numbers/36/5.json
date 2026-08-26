@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Teras Moshe maréntahkeun ka ⟨את⟩ putra-putra Yisrael dumasar kana sangucapan Yahwe, nyarita: Leres kitu kacaritakeun ku suku putra-putra Yosef.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra-putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "dumasar kana"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sangucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "leres kitu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kacaritakeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:31.745716101Z",
+  "model": "glm-5.3"
+}

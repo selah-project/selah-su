@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung ka imah karaméan moal anjeun asup pikeun luncat jeung ⟨את⟩ maranehna, pikeun dahar jeung pikeun nginum.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "jeung ka imah"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "karaméan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "anjeun asup"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pikeun luncat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pikeun dahar"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "jeung pikeun nginum"
+    }
+  ],
+  "timestamp": "2026-08-26T13:27:47.770744090Z",
+  "model": "glm-5.3"
+}

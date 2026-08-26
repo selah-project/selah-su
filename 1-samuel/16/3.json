@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Sarta anjeun ngagero Yishay ka ⟨?⟩ kasanghian, sarta abdi badé ngiberkeun ka anjeun naon anu kudu anjeun pigawé, sarta anjeun ngaminyakan pikeun abdi ⟨את⟩ saha nu abdi sebut ka anjeun.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "sarta anjeun ngagero"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ka kasanghian"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "sarta abdi"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "badé ngiberkeun ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naon anu kudu anjeun pigawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "anjeun pigawé"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "sarta anjeun ngaminyakan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pikeun abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saha nu abdi sebut ka anjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "abdi sebut"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:55.262339570Z",
+  "model": "glm-5.3"
+}

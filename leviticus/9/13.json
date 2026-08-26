@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Tuluy aranjeunna mawa ⟨את⟩ kurban bakaran ka anjeunna, potongan-demi-potongan jeung ⟨את⟩ huluna, lajeng anjeunna ngahanggun ⟨dina⟩ luhur mézbah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "mawa ka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "potongan-demi-potongan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "huluna"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "huluna"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ngahanggun"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mézbah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:33.670703136Z",
+  "model": "glm-5.3"
+}

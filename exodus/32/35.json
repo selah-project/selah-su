@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sarta Yahwe ngajempra ⟨את⟩ ⟨ieu⟩ bangsa alatan aranjeunan nyieun ⟨את⟩ ⟨ieu⟩ anak sapi, nu Aharon nyieun.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "sarta ngajempra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ieu⟩ bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ieu⟩ bangsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "aranjeunan nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ieu⟩ anak sapi"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "⟨ieu⟩ anak sapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:36.239716707Z",
+  "model": "glm-5.3"
+}

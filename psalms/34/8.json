@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Malaékat Yahwe ngeureunan sabudeureun anu sieun ka manéhna, jeung manéhna ngabébaskeun aranjeuna.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "ngeureunan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaékat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureun"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "anu sieun ka manéhna"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "jeung manéhna ngabébaskeun aranjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:58.117732753Z",
+  "model": "glm-5.3"
+}

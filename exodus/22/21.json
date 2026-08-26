@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sagala randa jeung yatim teu ulah ditindas.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "randa"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "jeung yatim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu ulah"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ditindas"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:33.756330919Z",
+  "model": "glm-5.3"
+}

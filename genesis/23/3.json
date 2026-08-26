@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Teras Avraham ngadeg tina payune mayitna, sarta nyarita ka putra-putra Khet, taréné:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tina"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payune"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mayitna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "taréné"
+    }
+  ],
+  "timestamp": "2026-08-26T10:42:42.655253397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 98,
+  "translation": "Yahwe geus masihan kaweruh ngeunaan kasalametanna; di payuneun bangsa-bangsa geus dibuka kabeneranna.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "geus masihan kaweruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "kasalametanna"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "geus dibuka"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kabeneranna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:33.388508943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 35,
+  "translation": "Kawas réncang, kawas dulur ka abdi, abdi ngaliwat; kawas nu milu duka ka indung, poék sukuh abdi nyarandé.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "kawas réncang"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kawas dulur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "abdi ngaliwat"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "kawas nu milu duka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ka indung"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "poék sukuh"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "abdi nyarandé"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:48.249172907Z",
+  "model": "glm-5.3"
+}

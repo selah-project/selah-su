@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zephaniah 3:20",
+  "book": "zephaniah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Dina waktu harita kuring mawa ⟨את⟩ aranjeun balik, jeung dina waktu kuring ngumpulkeun ⟨את⟩ aranjeun; sabab kuring méré ⟨את⟩ aranjeun jadi ngaran hadi jeung papuji di antara sagala bangsa bumi, nalika kuring malikkeun ⟨את⟩ kasaring anjeun méméh panon aranjeun, kitu lebetna Yahwe.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "dina waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "harita"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "kuring mawa balik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "jeung dina waktu"
+    },
+    {
+      "surface": "קבצי",
+      "gloss": "kuring ngumpulkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kuring méré"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "jadi ngaran hadi"
+    },
+    {
+      "surface": "ולתהלה",
+      "gloss": "jeung papuji"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di antara sagala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "nalika kuring malikkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasaring anjeun"
+    },
+    {
+      "surface": "שבותיכם",
+      "gloss": "kasaring anjeun"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "méméh panon aranjeun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kitu lebetna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:49.458388781Z",
+  "model": "glm-5.3"
+}

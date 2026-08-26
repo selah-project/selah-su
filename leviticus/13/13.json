@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung nempo imam, jeung katanya, upami tsara'at geus nutupan ⟨את⟩ sadaya dagingna, mangka anjeunna nyatakeun beresih ⟨את⟩ munaraka; saréréana geus robah jadi bodas — beresih anjeunna.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung katanya"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "geus nutupan"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya dagingna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "mangka nyatakeun beresih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munaraka"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "munaraka"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "saréréana"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "geus robah"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "jadi bodas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "beresih"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:16:32.413441717Z",
+  "model": "glm-5.3"
+}

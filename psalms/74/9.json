@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 74,
+  "translation": "Tanda-tanda kami moal katingali; euweuh deui nabi, jeung euweuh jeung ⟨את⟩-kami nu nyaho nepi ka iraha.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "tanda-tanda kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "katingali"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iraha"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:34.410321177Z",
+  "model": "glm-5.3"
+}

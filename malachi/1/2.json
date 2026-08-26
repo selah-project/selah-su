@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Kuring geus mikanyaah anjeun, ceuk Yahwe, tapi anjeun nyarita: Naon anu Dipikanyaah kami? Naha Esau lain sadulur ti Yaakov? kecap Yahwe; tapi Kuring mikanyaah ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Kuring geus mikanyaah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anjeun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "anjeun nyarita"
+    },
+    {
+      "surface": "במה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "Dipikanyaah kami"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "naha... lain"
+    },
+    {
+      "surface": "אח",
+      "gloss": "sadulur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ti Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "tapi Kuring mikanyaah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T17:10:04.850826366Z",
+  "model": "glm-5.3"
+}

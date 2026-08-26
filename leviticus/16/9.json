@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Aharon mawa deukeut ⟨את⟩ kambing nu datang kana ⟨eta⟩ goréal pikeun Yahwe, laju ngajadikeun eta kurban dosa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "mawa deukeut"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goréal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "ngajadikeun eta"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban dosa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:17:57.288042980Z",
+  "model": "glm-5.3"
+}

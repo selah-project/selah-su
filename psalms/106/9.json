@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Jeung mantianinges ka laut Suf, laas garing, sarta mawa maranehna ngaliwat ka jero lubuk jero sakumaha gurun.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "mantianinges"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ka laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "garing"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "mawa maranehna"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "ka jero lubuk jero"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sakumaha gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:40.028748574Z",
+  "model": "glm-5.3"
+}

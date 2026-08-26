@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 80,
+  "translation": "Yahwe, Elohim Tzvaot, balikkeun kami; caangkeun kaungbulan-Mu, mangka kami salamet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "balikkeun kami"
+    },
+    {
+      "surface": "האר",
+      "gloss": "caangkeun"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kaungbulan-Mu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "mangka kami salamet"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:06.727313075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Dina ieu kuring nyaho yén anjeunnganamurahan ka kuring, sabab musuh kuring moal sora ngajerit ngalawan kuring.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "dina ieu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuring nyaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "anjeunnganamurahan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "sora ngajerit"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh kuring"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngalawan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:37:59.413076411Z",
+  "model": "glm-5.3"
+}

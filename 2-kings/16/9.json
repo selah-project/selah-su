@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Tuluy raja Ashur ngadangu ka anjeunna, sarta raja Ashur naék ka Damesyek, nyandak kota éta, ngabawa urangna ka Kir, jeung ⟨את⟩ Rezin dipaéhan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadangu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naék"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesyek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "nyandak kota éta"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ngabawa ka"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rezin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Rezin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "dipaéhan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:56:59.607966840Z",
+  "model": "glm-5.3"
+}

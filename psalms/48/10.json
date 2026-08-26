@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 48,
+  "translation": "Kami ngeunteung kanyaah-Mu, ya Elohim, di jero luhuring balé-Mu.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "kami ngeunteung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah-Mu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di jero"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "luhuring balé-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:39.235518963Z",
+  "model": "glm-5.3"
+}

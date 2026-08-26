@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 61,
+  "translation": "Hayu abdi dumuk dina khemah-Mu salawasna, hayu abdi nyalindung dina panyumputan sayap-Mu. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "hayu abdi dumuk"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "dina khemah-Mu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "hayu abdi nyalindung"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dina panyumputan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sayap-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:50.357131246Z",
+  "model": "glm-5.3"
+}

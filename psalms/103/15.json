@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Manusa — poé-poéna lir jukut; lir kembang di tegalan, mangka manéhna mekar.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "lir jukut"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "poé-poéna"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "lir kembang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di tegalan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "mekar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:25.818855936Z",
+  "model": "glm-5.3"
+}

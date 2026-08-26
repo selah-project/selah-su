@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Turun Yahwe dina tiang méga, sarta nangtung di panto ⟨the⟩ tenda, sarta nyauran Aharon jeung Miryam, sarta maranéhna duaan kaluar.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "dina tiang"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "méga"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sarta nangtung"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di panto"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta nyauran"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "jeung Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "sarta kaluar"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "maranéhna duaan"
+    }
+  ],
+  "timestamp": "2026-08-26T16:45:13.721417149Z",
+  "model": "glm-5.3"
+}

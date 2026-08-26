@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Dina taun katilu kakawasaan Yehoyakim, raja Yehudah, Nebukadnetsar raja Bavel datang ka Yerushalaim sarta ngepung ⟨ieu kota⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "dina taun"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "katilu"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "kakawasaan"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ka Yerushalaim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "sarta ngepung"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨ieu kota⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T17:21:58.840018979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 92,
+  "translation": "Jeung anjeun, Yahwe, ⟨allah⟩ di luhur salawasna.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Jeung anjeun"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di luhur"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:57.020627266Z",
+  "model": "glm-5.3"
+}

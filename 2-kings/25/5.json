@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Angkatan perang Kasdim ngudag sanggeus raja éta, jeung ngahontal ⟨את⟩ anjeunna di daratan Yerikho; jeung sakabéh pasukanna papeureuyweuy mimitina.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "ngudag"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "angkatan perang"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja éta"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "ngahontal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna (di daratan Yerikho)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "di daratan"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "pasukanna"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "papeureuyweuy"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "mimitina"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:31.961890047Z",
+  "model": "glm-5.3"
+}

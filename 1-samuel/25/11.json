@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung kuduna kuring nyandak ⟨את⟩ roti kuring jeung ⟨את⟩ cai kuring jeung ⟨את⟩ daging sembelihan kuring, nu kuring peuncit pikeun nu ngagunting bulu, lajeng mikeun ka jalma-jalma nu teu kuring apal ti mana maranéhna?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roti kuring"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "roti kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cai kuring"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "cai kuring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daging sembelihan kuring"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "daging sembelihan kuring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "kuring peuncit"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "pikeun nu ngagunting bulu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "lajeng mikeun"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "ka jalma-jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuring apal"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ti mana"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:24.846429071Z",
+  "model": "glm-5.3"
+}

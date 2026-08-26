@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Moshe, abdi abdi, geus maot; ayeuna minggangan, meuntasan ⟨את⟩ ieu Yarden, anjeun jeung sakabéh bangsa ieu, ka tanah nu keur abdi méré ka maranehna, nyaéta ka putra-putra Israél.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi abdi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "geus maot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "קום",
+      "gloss": "minggangan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "meuntasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieu Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:09.590460586Z",
+  "model": "glm-5.3"
+}

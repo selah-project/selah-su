@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 107,
+  "translation": "Sabab manéhna ngancurkeun panto-panto tambaga, jeung palang-palang beusi dipotong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "panto-panto"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "jeung palang-palang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "beusi"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "dipotong"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:09.639889705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung haté nu gegencéran baris ngarti kana pangaweruh, jeung ilat nu gagap baris gancang nyarita béres-caang.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Jeung haté"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "nu gegencéran"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kana pangaweruh"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "jeung ilat"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "nu gagap"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "béres-caang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:10:12.073277669Z",
+  "model": "glm-5.3"
+}

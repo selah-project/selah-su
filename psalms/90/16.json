@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 90,
+  "translation": "Katingalkeun ka abdi-abdi-Mu ⟨⟨⟩⟩karya-Mu, jeung hadar-Mu luhureun putra-putra maranéhna.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Katingalkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdi-Mu"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "karya-Mu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "jeung hadar-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "putra-putra maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:15.780172012Z",
+  "model": "glm-5.3"
+}

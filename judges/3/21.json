@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Tuluy Ehud manjangkeun ⟨את⟩ leungeun kenca-na, lajeng nyandak ⟨את⟩ ⟨the⟩ pedang ti luhur pingping katuhu-na, lajeng ngatojos-na kana beuteung-na.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "manjangkeun"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "kenca-na"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedang"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti luhur"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "pingping"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "katuhu-na"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "ngatojos-na"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "kana beuteung-na"
+    }
+  ],
+  "timestamp": "2026-08-26T12:02:55.445086080Z",
+  "model": "glm-5.3"
+}

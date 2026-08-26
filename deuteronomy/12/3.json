@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung aranjeun baris ngaruntagkeun ⟨את⟩ altar maranehna, jeung aranjeun baris ngancurkeun ⟨את⟩ tugu-tugu maranehna, jeung Ashéra maranehna aranjeun bakar ku seuneu, jeung patung-patung allah maranehna aranjeun unggeuk, jeung aranjeun baris ngaleungitkeun ⟨את⟩ ngaran maranehna ti tempat éta.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "jeung aranjeun baris ngaruntagkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar maranehna"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "altar maranehna"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "jeung aranjeun baris ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu maranehna"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tugu-tugu maranehna"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "jeung Ashéra maranehna"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "anjeun bakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "jeung patung-patung"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah maranehna"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "anjeun unggeuk"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "jeung aranjeun baris ngaleungitkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaran maranehna"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ngaran maranehna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:06.100497158Z",
+  "model": "glm-5.3"
+}

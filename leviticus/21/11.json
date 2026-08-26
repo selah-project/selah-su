@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung ka unggal jiwa nu maot ulah asup; pikeun bapana jeung pikeun indungna ulah jadi najis.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unggal"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nu maot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "pikeun bapana"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "jeung pikeun indungna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "jadi najis"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:29.558300607Z",
+  "model": "glm-5.3"
+}

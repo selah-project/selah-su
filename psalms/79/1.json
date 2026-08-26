@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 79,
+  "translation": "Mizmor pikeun Asaf. Elohim, bangsa-bangsa geus asup ka warisan-Mu, aranjeunna geus ngaruak ⟨את⟩ Balé Kasucian-Mu, aranjeunna geus ngajadikeun ⟨את⟩ Yerushalaim tumpukan pawon.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pikeun Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geus asup"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ka warisan-Mu"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "arujuan geus ngaruak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balé Kasucian-Mu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Balé"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Kasucian-Mu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "arujuan geus ngajadikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "tumpukan pawon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:58.587438730Z",
+  "model": "glm-5.3"
+}

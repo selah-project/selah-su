@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 86,
+  "translation": "Pamiaseupan, Yahwe, du'a kuring, sarta sangkan malikeun ceuli kana sora panghampura kuring.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "pamiaseupan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "du'a kuring"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "sangkan malikeun ceuli"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kana sora"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "panghampura kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:44.462348509Z",
+  "model": "glm-5.3"
+}

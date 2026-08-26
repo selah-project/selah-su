@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Teras kajadian sanggeus éta, ati Dawid nyikut ⟨ה⟩ manéhna, sabab geus motong ⟨את⟩ sisi nu kagungan Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Teras kajadian"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nyikut"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "motong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisi"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kagungan Shaul"
+    }
+  ],
+  "timestamp": "2026-08-26T16:52:28.374948246Z",
+  "model": "glm-5.3"
+}

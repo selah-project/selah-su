@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Kanggo pangatik, dumasar kana ⟨eusi⟩ Nechilot, mizmor kanggo Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangatik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dumasar kana"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nechilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:22:37.123972834Z",
+  "model": "glm-5.3"
+}

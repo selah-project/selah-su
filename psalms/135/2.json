@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Anu cicing di imah Yahwe, di balong-balong imah Elohim urang.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "anu cicing"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di balong-balong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:46.538258839Z",
+  "model": "glm-5.3"
+}

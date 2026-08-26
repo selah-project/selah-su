@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung paciwa pisan kuring, sabot kuring ngadangu ⟨את⟩ sautan maranéhna jeung ⟨את⟩ omong-omong ieu.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "jeung paciwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sabot"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuring ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sautan maranéhna"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "sautan maranéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "omong-omong ieu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "omong-omong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T15:59:03.028513837Z",
+  "model": "glm-5.3"
+}

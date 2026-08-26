@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung poé-poé anu David maréntah ka Israél ⟨is⟩ opat puluh taun: di Xevron maréntah tujuh taun, jeung di Yerushalaim maréntah tilu puluh jeung tilu taun.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "jeung poé-poé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "opat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Xevron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "jeung di Yerushalaim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tilu puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "jeung tilu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:37:26.989061704Z",
+  "model": "glm-5.3"
+}

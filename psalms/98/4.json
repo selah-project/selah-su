@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 98,
+  "translation": "Sorakeun keur Yahwe, sadaya bumi; sora gumbira jeung raragéngan, jeung ujudkeun mimitan.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Sorakeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "keur Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "sora gumbira"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "jeung raragéngan"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "jeung ujudkeun mimitan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:33.388854468Z",
+  "model": "glm-5.3"
+}

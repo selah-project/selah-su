@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 104,
+  "translation": "Muga kabungaheun Yahwe tetep salawasna; Yahwe bagja dina pagawéan-Na.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "muga tetep jadi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabungaheun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bagja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "dina pagawéan-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:18.801717008Z",
+  "model": "glm-5.3"
+}

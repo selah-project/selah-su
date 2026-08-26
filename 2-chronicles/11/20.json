@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung sanggeusna anjeunna nyandak ⟨את⟩ Maakha awéwé Avshalom, jeung manéhna ngalahirkeun pikeun anjeunna ⟨את⟩ Aviya, ⟨את⟩ jeung Atai, ⟨את⟩ jeung Ziza, ⟨את⟩ jeung Shelomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "sanggeusna"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun anjeunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Atai"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Atai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "Shelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    }
+  ],
+  "timestamp": "2026-08-26T16:22:41.334161375Z",
+  "model": "glm-5.3"
+}

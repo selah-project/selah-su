@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung aya perang antara Asa jeung antara Baasa raja Israil sapanjang poé-poé maranehna.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "jeung perang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "jeung antara"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "poé-poé maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:39.804042064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Kuring ngomong ka haté kuring: sok hayu, kuring bade nyobaan ku sukacita sarta nempo nu alus — lah, komo eta ogé hebel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "kuring ngomong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ka haté kuring"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "sok hayu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hayu"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "kuring bade nyobaan"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ku sukacita"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "sarta nempo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "nu alus"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:26.651765348Z",
+  "model": "glm-5.3"
+}

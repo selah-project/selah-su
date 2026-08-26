@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Anjeun mawa kami kana jaring, anjeun nunda sesek dina pingping kami.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "anjeun mawa kami"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "kana jaring"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "anjeun nunda"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "sesek"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "dina pingping kami"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:56.306467444Z",
+  "model": "glm-5.3"
+}

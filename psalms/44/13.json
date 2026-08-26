@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Anjeun ngajual umat-Mu tanpa kabeungharan, jeung moal ngaronjatkeun ku harga-harga maranéhna.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "ngajual"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kabeungharan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ngaronjatkeun"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "ku harga-harga maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:04.097097384Z",
+  "model": "glm-5.3"
+}

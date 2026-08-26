@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Tuluy manéhna ngawulkeunana sarta mawa ka indungna, jeung budak eta diuk dina pingpingna tepi ka beurang, tuluy paéh.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ngawulkeunana"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "pingpingna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tepi ka"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "beurang"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:49:54.185203286Z",
+  "model": "glm-5.3"
+}

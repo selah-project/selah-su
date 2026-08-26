@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Anjeun muka ⟨את⟩ leungeun anjeun, jeung ngacukupan ku kahoyonganana ka sagala nu hirup.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun anjeun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "jeung ngacukupan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sagala"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nu hirup"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ku kahoyonganana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:40.798010058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Bener Anjeu Yahwe, jeung luyu ⟨⟨adil⟩> kabutusan-kabutusan Anjeu.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "bener"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "jeung luyu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "kabutusan-kabutusan Anjeu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:15.244682270Z",
+  "model": "glm-5.3"
+}

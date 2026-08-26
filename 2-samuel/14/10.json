@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung raja ngomong: saha nu ngomong ka anjeun, beulah inget dibawa ka abdi, moal nambah deui keur antel ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "nu ngomong"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "beulah inget dibawa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "keur antel"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:31:43.280057959Z",
+  "model": "glm-5.3"
+}

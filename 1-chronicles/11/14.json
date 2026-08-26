@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 11:14",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung aranjeunna ngadeg di tengah-tengah potongan ⟨eta⟩, jeung ngabébaskeun ⟨éta⟩, jeung ngataras ⟨את⟩ Pelesyet, jeung Yahwe nyalametkeun ku kabalamtaran nu ageung.",
+  "tokens": [
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "potongan ⟨eta⟩"
+    },
+    {
+      "surface": "ויצילוה",
+      "gloss": "ngabébaskeun ⟨éta⟩"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ngataras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesyet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "nyalametkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kabalamtaran"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ageung"
+    }
+  ],
+  "timestamp": "2026-08-26T16:09:54.120360051Z",
+  "model": "glm-5.3"
+}

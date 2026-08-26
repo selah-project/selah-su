@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Sabab abdi anjeun geus jadi pananggung ⟨את⟩ budak éta ka bapa kuring, nyarita: Upami kuring teu mawa manéhna balik ka anjeun, mangka kuring bakar dosa ka bapa kuring sadami-dami poé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi anjeun"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "geus jadi pananggung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak éta"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "budak éta"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa kuring"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אם",
+      "gloss": "upami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "kuring mawa manéhna balik"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "mangka kuring bakar dosa"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ka bapa kuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadami-dami"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:19.095711523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Teu kuring diuk jeung jalma-jalma sipaeuh, sarta jeung nu nyumput benerna moal kuring asup.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Teu"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kuring diuk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sipaeuh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "sarta jeung"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "nu nyumput benerna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kuring asup"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:06.690081149Z",
+  "model": "glm-5.3"
+}

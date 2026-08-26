@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Elixférf jeung Axiya, putra-putra Sxisa, jadi juru tulis; Yehosafat putra Axilud, jadi nu nyatet.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elixférf"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "jeung Axiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Sxisa"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "jadi juru tulis"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Axilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "jadi nu nyatet"
+    }
+  ],
+  "timestamp": "2026-08-26T16:53:30.259078235Z",
+  "model": "glm-5.3"
+}

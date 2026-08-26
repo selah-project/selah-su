@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Bahas boga arina teu nyarita; panon dua boga arina teu nempo.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Bahas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "boga arina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ari teu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "panon dua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "boga arina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ari teu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nempo"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.390288151Z",
+  "model": "glm-5.3"
+}

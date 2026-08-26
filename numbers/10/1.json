@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Jeung Yahwe ngomong ka Moshe, kunanya",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kunanya"
+    }
+  ],
+  "timestamp": "2026-08-26T11:27:31.202280297Z",
+  "model": "glm-5.3"
+}

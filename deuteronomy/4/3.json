@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Panon arinyana nu nempo ⟨את⟩ nu dipigawé Yahwe ka Baal-Peór, sabab tiap lalaki nu leumpang nuturkeun Baal-Peór, Yahwe Elohim arinyana ngancurkeun manéhna ti tengah-tengah arinyana.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "panon arinyana"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "nu nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipigawé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ka Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peór"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tiap"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nuturkeun"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peór"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ngancurkeun manéhna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim arinyana"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ti tengah-tengah arinyana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:40:31.981786744Z",
+  "model": "glm-5.3"
+}

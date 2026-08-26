@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Yusup maot, jeung sadaya dulurna, jeung sadaya angkatan éta.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "teras maot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusup"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dulurna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    }
+  ],
+  "timestamp": "2026-08-26T10:54:18.547666708Z",
+  "model": "glm-5.3"
+}

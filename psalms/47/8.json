@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Sabab Raja sadaya bumi ⟨nyaéta⟩ Elohim; zamarkeun kalayan kaharti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zamarkeun"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kalayan kaharti"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:19.285235112Z",
+  "model": "glm-5.3"
+}

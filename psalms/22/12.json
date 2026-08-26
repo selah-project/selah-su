@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Ulah jauh ti abdi, sabab kasusah geus deukeut, sabab euweuh nu nulung.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti-abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusah"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "deukeut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "nu-nulung"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:16.831661044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Upami anjeun kabodasan dina ngangkat diri, jeung upami anjeun ngarancang jahat — pelakkeun leungeun kana baham!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Upami"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "anjeun kabodasan"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "dina ngangkat diri"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung upami"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "anjeun ngarancang jahat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "kana baham"
+    }
+  ],
+  "timestamp": "2026-08-26T15:04:04.065291276Z",
+  "model": "glm-5.3"
+}

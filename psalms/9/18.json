@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Balik deui nu jahat ka Sheol, sagala bangsa nu poho ka Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Balik deui"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "ka Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "nu poho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:21.345459025Z",
+  "model": "glm-5.3"
+}

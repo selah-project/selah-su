@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Sarta mun manéhna jalma miskin, ulah saré jeung sésana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sarta mun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "jeung sésana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:48:47.772177582Z",
+  "model": "glm-5.3"
+}

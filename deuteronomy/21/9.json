@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Anjeun mugari mupus ⟨getih⟩ nu henteu boga dosa ti tengah anjeun, sabab anjeun ngalakukeun nu lempeng di panon Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mupus"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "nu henteu boga dosa"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ti tengah anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "nu lempeng"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:47:25.152430314Z",
+  "model": "glm-5.3"
+}

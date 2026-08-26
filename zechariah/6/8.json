@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung anjeunna ngagero ⟨את⟩abdi sarta ngobrol ka abdi, nyarita: Tempo, nu kaluar ka tanah kalér geus méré kényang ⟨את⟩ roh abdi di tanah kalér.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "ngagero"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩abdi",
+      "marks": "abdi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ngobrol"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "nu kaluar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kalér"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "geus méré kényang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roh abdi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roh abdi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kalér"
+    }
+  ],
+  "timestamp": "2026-08-26T14:19:10.632138477Z",
+  "model": "glm-5.3"
+}

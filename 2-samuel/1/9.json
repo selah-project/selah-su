@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lajeng anjeunna nyarita ka abdi: Nangtung, punten, kana abdi jeung pareuman abdi, sabab puyeng nyangkaol ka abdi, sabab sakabéh nefesh abdi cancan aya di jero abdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kana abdi"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "jeung pareuman abdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "nyangkaol abdi"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "puyeng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "cancan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh abdi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di jero abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T12:27:17.145743586Z",
+  "model": "glm-5.3"
+}

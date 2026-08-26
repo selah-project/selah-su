@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 58,
+  "translation": "Saméméh panci-panci aranjeun ngarti rungttur, kalawan atah kawas seuneu murka ngabilukkeunana.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "saméméh"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "panci-panci aranjeun"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "rungtur"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kawas"
+    },
+    {
+      "surface": "חי",
+      "gloss": "atah"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kalawan"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "seuneu murka"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "ngabilukkeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:21.067982238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Nu bener nyaho rarajaan nu leutik-pangawasa; nu jahat moal ngarti kana pangaweruh.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "דין",
+      "gloss": "rarajaan"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "nu leutik-pangawasa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    }
+  ],
+  "timestamp": "2026-08-26T15:03:47.053669281Z",
+  "model": "glm-5.3"
+}

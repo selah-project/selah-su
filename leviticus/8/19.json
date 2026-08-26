@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Laju dipotong peusanna, sarta Moshe ngaseupan ⟨את》 getihna ka luhureun altar sajurung sabudeureunana.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "dipotong peusanna"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ngaseupan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:24.118872501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ⟨את⟩ nu sujud di luhureun hateup ka balantika langit, jeung ⟨את⟩ nu sujud nu sumpah kalawan Yahwe sarta nu sumpah ku Malkam",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ jeung",
+      "marks": "nu sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "nu sujud"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "hatéup"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ka balantika"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "nu sujud nu sumpah"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "nu sujud"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "nu sumpah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kalawan Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "sarta nu sumpah"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ku Malkam"
+    }
+  ],
+  "timestamp": "2026-08-26T14:16:14.654144151Z",
+  "model": "glm-5.3"
+}

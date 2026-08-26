@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "Di dinoa ular panah ngahieuman sarta malik sarta megar sarta ngariung sahandapeun kalangkangna; ngan di dinoa falcon kumpul, bikang jeung papantenna.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "di dinoa"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "ngahieuman"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "ular panah"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "sarta malik"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "sarta megar"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "sarta ngariung"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "sahandapeun kalangkangna"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinoa"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "kumpul"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "falcon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bikang"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "papantenna"
+    }
+  ],
+  "timestamp": "2026-08-26T13:11:36.743103209Z",
+  "model": "glm-5.3"
+}

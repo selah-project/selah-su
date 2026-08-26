@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Aku Yahwe geus maturan anjeun dina kabeneran, sarta kaeupeulkeun leungeun anjeun, sarta ngajaga anjeun, sarta masrahkeun anjeun jadi perjangjian bangsa, jadi cahya pikeun golongan-golongan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "geus maturan anjeun"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dina kabeneran"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "sarta kaeupeulkeun"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "leungeun anjeun"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "sarta ngajaga anjeun"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "sarta masrahkeun anjeun"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "jadi perjangjian"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "jadi cahya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "pikeun golongan-golongan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:03.349911926Z",
+  "model": "glm-5.3"
+}

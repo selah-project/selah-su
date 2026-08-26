@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Arpakhshad nimbulkeun ⟨את⟩ Shalakh, jeung Shalakh nimbulkeun ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Jeung Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nimbulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shalakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "jeung Shalakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nimbulkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:48.182131595Z",
+  "model": "glm-5.3"
+}

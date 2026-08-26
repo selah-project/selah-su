@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Lajeng aranjeungna indit ti Sukkot, sarta ngadeg kemah di Etam, nu di wates ⟨ulah – euweuh artikel⟩ padang gurun.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "ti Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ngadeg kemah"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "di Etam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "di wates"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:45:33.298939159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Naha pipamiranganMU nyumput, ngaleungitkeun kasusah urang jeung pangancur urang?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pipamiranganMU"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "nyumput"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ngaleungitkeun"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "kasusah urang"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "jeung pangancur urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:31:54.506960136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 83,
+  "translation": "nu nyarita: \"Hayu urang reapkeun pikeun baturanna ⟨את⟩ tegal-ngangonan Elohim.\"",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "hayu urang reapkeun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pikeun baturanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tegal-ngangonan"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "tegal-ngangonan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:17.752374241Z",
+  "model": "glm-5.3"
+}

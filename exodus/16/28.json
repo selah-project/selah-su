@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Yahwe ngomong ka Moshe: Nepi ka iraha aranjeun nolik mereskeun parentah Kami jeung toréh Kami?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung Yahwe ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Nepi ka"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "iraha"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "aranjeun nolik"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ngabersihan parentah"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah Kami"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "jeung toréh Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T11:00:17.028158708Z",
+  "model": "glm-5.3"
+}

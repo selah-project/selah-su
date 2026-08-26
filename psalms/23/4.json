@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Bisaa kitu, lamun kuring ngajalankeun lebak kalimnuhan ku poek maot, kuring moal sieun ka kagoréngan, sabab anjeun aya jeung kuring; péso anjeun jeung tungtung anjeun, maranéhna nu ngahibi kuring.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisaa kitu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuring ngajalankeun"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "lebak"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "kalimnuhan ku poek maot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ka kagoréngan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "aya jeung kuring"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "péso anjeun"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "jeung tungtung anjeun"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranéhna"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "nu ngahibi kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:08.992269944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Pérak anjeun jadi ampas; tuak anjeun diéncérkeun ku cai.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "pérak anjeun"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "ampas"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "tuak anjeun"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "diéncérkeun"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ku cai"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:05.516959056Z",
+  "model": "glm-5.3"
+}

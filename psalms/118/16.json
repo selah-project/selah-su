@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Leungeun katuhu Yahwe luhung, leungeun katuhu Yahwe migawé kalawan wawanen.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "leungeun katuhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "luhung"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "leungeun katuhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "migawé"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kalawan wawanen"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:36.116524282Z",
+  "model": "glm-5.3"
+}

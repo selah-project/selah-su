@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Kasaruan ⟨harti-na⟩ kuda pikeun kalametan; ku lobana tanagana moal nyalametkeun.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "kasaruan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "pikeun kalametan"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ku lobana"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "tanagana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "nyalametkeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:56.290420896Z",
+  "model": "glm-5.3"
+}

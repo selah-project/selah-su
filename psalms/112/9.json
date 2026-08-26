@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 112,
+  "translation": "Nyebarkeun, dibikeun ka ⟨את⟩ nu pangmerénkeun — sadakahna nangtung salawasna; tandukna bakal dicandak kalawan kamulyaan.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Nyebarkeun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ka nu pangmerénkeun"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sadakahna"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "tandukna"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "bakal dicandak"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "kalawan kamulyaan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:53.930289079Z",
+  "model": "glm-5.3"
+}

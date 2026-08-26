@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 127,
+  "translation": "Kidung tarajé, pikeun Shelomo: mun Yahwe teu ngawangun ⟨iye⟩ imah, sajahana pangawangunna mesakkeun awak ka dinya; mun Yahwe teu miara ⟨iye⟩ kota, sajahana penjagana jaga peuting.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "pikeun Shelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sajahana"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mesakkeun awak"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "pangawangunna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka dinya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "miara"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sajahana"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "jaga peuting"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "penjaga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:24.533795484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Tapi Yahwe nguatkeun ⟨את⟩ haté Paroh, jeung manehna moal daek mawa aranjeunna kaluar.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nguatkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haté"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "daek"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "mawa aranjeunna kaluar"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:15.626561883Z",
+  "model": "glm-5.3"
+}

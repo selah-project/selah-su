@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 65,
+  "translation": "Perkara-perkara kalakuan salah ngeueung ngaleuwihan abdi; durhaka kami — Anjeun nu bakal nutup(ngahampura)ana.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "kalakuan salah"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ngeueung ngaleuwihan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ngaleuwihan abdi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "durhaka kami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "bakal nutupana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:38.883933580Z",
+  "model": "glm-5.3"
+}

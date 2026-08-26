@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Saprana maranehna iman ka omong-omong-Na, maranehna ngahaleuang puji-puji ka Anjeunna.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "iman"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "ka omong-omong-Na"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ngahaleuang"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "puji-puji ka Anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:40.029212821Z",
+  "model": "glm-5.3"
+}

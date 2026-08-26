@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ altar tambaga, dua puluh hasta panjangna, jeung dua puluh hasta lébarna, jeung sapuluh hasta jangkungna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anjeunna nyieun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jeung dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lébarna"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "jeung sapuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "jangkungna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:33.169681847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 101,
+  "translation": "Karya Dawid, mizmor. Kanyaah satia perjangjian jeung katangtu hukum abdi pikeun nyingkeun; ka Anjeun, Yahwe, abdi badé ngaméméran pakakas seni.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Karya Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kanyaah satia perjangjian"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "jeung katangtu hukum"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "abdi pikeun nyingkeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "abdi badé ngaméméran pakakas seni"
+    }
+  ],
+  "timestamp": "2026-08-26T17:38:39.575747768Z",
+  "model": "glm-5.3"
+}

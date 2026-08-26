@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 5:5",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sabab sunat sababaraha baé ⟨telah⟩ kajadian: sadayana ⟨rakyat⟩ nu kaluar geus disunat, tapi sadayana ⟨rakyat⟩ nu babar di padang pasir, di jalan, nalika aranjeunna kaluar ti Mesir, tacan disunat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "disunat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "geus kajadian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨rakyat⟩"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "nu kaluar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tapi sadayana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨rakyat⟩"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "nu babar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang pasir"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "nalika kaluarna maranehna"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mesir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "disunat"
+    }
+  ],
+  "timestamp": "2026-08-26T11:53:44.553125198Z",
+  "model": "glm-5.3"
+}

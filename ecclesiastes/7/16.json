@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 7,
+  "translation": "Ulah jadi nu bener kalabihan, jeung ulah ngahaja bijak teuing; naha anjeun hayang ngancurkeun diri?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nu bener"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kalabihan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ulah"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ngahaja bijak"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "teuing"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "hayang ngancurkeun diri"
+    }
+  ],
+  "timestamp": "2026-08-26T15:34:08.523810612Z",
+  "model": "glm-5.3"
+}

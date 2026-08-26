@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Jeung anjeun bakal mengkuan Aharon ⟨את⟩ — baju-baju suci, jeung anjeun ngalisihan anjeunna jeung ngasih anjeunna, jeung anjeunna mimitadi ka Kami.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "jeung anjeun bakal mengkuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baju-baju suci"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "baju-baju"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "jeung anjeun ngalisihan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "jeung ngasih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "jeung mimitadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka Kami"
+    }
+  ],
+  "timestamp": "2026-08-26T11:11:48.718750676Z",
+  "model": "glm-5.3"
+}

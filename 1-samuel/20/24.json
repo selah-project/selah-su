@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Tuluy David nyumput di padang, jadi bulan anyar ⟨datang⟩, raja diuk dina kadaharan pikeun dahar.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "Tuluy nyumput"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan anyar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "diuk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "kadaharan"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "pikeun dahar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:20:30.318597106Z",
+  "model": "glm-5.3"
+}

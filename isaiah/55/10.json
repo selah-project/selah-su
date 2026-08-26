@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 55,
+  "translation": "Sabab saperti hujan turun jeung salju ti langit-langit, moal balik deui ka ditu, tapi mawa kanyamanan ka ⟨את⟩ bumi, mimitian melak jeung nyieun sirungan, masihan bibit ka nu melak jeung jąngan ka nu dahar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "jeung salju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ka ditu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lamun teu"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "mawa kanyamanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "mimitian melak"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "jeung nyieun sirungan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "masihan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bibit"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ka nu melak"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "jeung jąngan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ka nu dahar"
+    }
+  ],
+  "timestamp": "2026-08-26T13:17:44.327970398Z",
+  "model": "glm-5.3"
+}

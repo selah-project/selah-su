@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "jeung dua bagéan ti aranjeun, sadaya nu kaluar dina Sabat, jeung maranjeunna ngajaga ⟨את⟩ jagaan bumi Yahwe ngeunaan ⟨the⟩ raja.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "bagéan"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ti aranjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "nu kaluar"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dina Sabat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "jeung maranjeunna ngajaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jagaan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "jagaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-26T12:54:05.654660939Z",
+  "model": "glm-5.3"
+}

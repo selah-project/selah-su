@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta kuring, kuring miceun haté ka ⟨את⟩ sakabéh susah payah kuring nu kuring ngarandosan di handap panonpoé, sabab kuring baris nginggalkeunana ka jalma nu bakal aya saangeus kuring.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "kuring miceun haté ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh susah payah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "susah payah kuring"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "nu kuring"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ngarandosan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di handap"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "panonpoé"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "kuring baris nginggalkeunana"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ka jalma"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nu bakal aya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "saangeus kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T15:31:54.481670176Z",
+  "model": "glm-5.3"
+}

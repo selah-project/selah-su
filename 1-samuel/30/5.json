@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung dua istri David ditarik jadi tawanan, Akhinoam ti Yizreel, jeung Avigayil istri Naval ti Karmel.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "istri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ditarik jadi tawanan"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akhinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "ti Yizreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "jeung Avigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "istri"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ti Karmel"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:52.925962716Z",
+  "model": "glm-5.3"
+}

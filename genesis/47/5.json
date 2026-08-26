@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 47,
+  "translation": "Lajeng Paroh nyarita ka Yosef,.songsong: bapa anjeun jeung sadaya dulur-dulur anjeun geus datang ka anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lajeng nyarita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "songsong"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "jeung dulur-dulur anjeun"
+    },
+    {
+      "surface": "באו",
+      "gloss": "geus datang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T10:53:19.817971210Z",
+  "model": "glm-5.3"
+}

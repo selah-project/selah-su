@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Teras raja nyabut ⟨את⟩ cincin lumpangna ti leungeunna, jeung méré éta ka Haman putra Hamdata sang Agagi, musuh urang Yahudi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Teras nyabut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cincin lumpangna"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "cincin lumpangna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "leungeunna"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "jeung méré éta"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ka Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "sang Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "urang Yahudi"
+    }
+  ],
+  "timestamp": "2026-08-26T15:38:35.932627894Z",
+  "model": "glm-5.3"
+}

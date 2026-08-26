@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Teras Hiram ngirim ka Shelomoh, nyebutkeun: Kuring geus ngadangu ⟨את⟩ anu anjeun kirim ka abdi; abdi baris ngalaksanakeun ⟨את⟩ sagala karesep anjeun, ku kai séda jeung ku kai juniper.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebutkeun"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuring geus ngadangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anu anjeun kirim ka abdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "anjeun kirim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "baris ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagala karesep anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "karesep anjeun"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ku kai"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "séda"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "jeung ku kai"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "juniper"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:33.004650375Z",
+  "model": "glm-5.3"
+}

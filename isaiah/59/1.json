@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Tempo, teu pondok leungeun Yahwe tina nyalametkeun, sarta teu beurat ceuli-Na tina ngadéngé.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tempo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "pondok"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leungeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "tina nyalametkeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ceuli-Na"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "tina ngadéngé"
+    }
+  ],
+  "timestamp": "2026-08-26T13:18:39.901381075Z",
+  "model": "glm-5.3"
+}

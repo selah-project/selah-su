@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Naha panon daging anjeun gaduh, atawa naha siga nempo manusa fana anjeun nempo?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "panon"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjeun gaduh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atawa naha"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "siga nempo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa fana"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "anjeun nempo"
+    }
+  ],
+  "timestamp": "2026-08-26T15:07:32.110247878Z",
+  "model": "glm-5.3"
+}

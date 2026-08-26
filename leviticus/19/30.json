@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "⟨את⟩ sabat-sabat abdi tetep dijaga, jeung tempat suci abdi dibéré hormat; abdi Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabat-sabat abdi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabat-sabat abdi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tetep dijaga"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "jeung tempat suci abdi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "dibéré hormat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:54.239534250Z",
+  "model": "glm-5.3"
+}

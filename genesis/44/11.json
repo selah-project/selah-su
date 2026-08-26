@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Jeung aranjeun ngagancangan, jeung unggal jalma nurunkeun ⟨את⟩ kantongna ka taneuh, jeung unggal jalma muka kantongna.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ngagancangan"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "jeung nurunkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kantongna"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "kantongna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka taneuh"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "jeung muka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "unggal jalma"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "kantongna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:56.064436200Z",
+  "model": "glm-5.3"
+}

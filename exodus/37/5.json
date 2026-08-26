@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Jeung anjeunna ngasupkeun ⟨את⟩ bétang-bétang kana cincin-cincin, di sisi-sisi peti éta, pikeun mawa ⟨את⟩ peti éta.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "jeung anjeunna ngasupkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bétang-bétang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bétang-bétang"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "kana cincin-cincin"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sisi-sisi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pikeun mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti"
+    }
+  ],
+  "timestamp": "2026-08-26T11:10:11.328989050Z",
+  "model": "glm-5.3"
+}

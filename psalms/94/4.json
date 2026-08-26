@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Maranéhna ngocorkeun omong, ngomongkeun kawani; sadaya nu migawé kalanturan ngadeg ngajanggan.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "ngocorkeun"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "kawani"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "ngadeg ngajanggan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nu migawé"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalanturan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:22.118747914Z",
+  "model": "glm-5.3"
+}

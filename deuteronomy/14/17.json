@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "jeung ⟨את⟩ pelikan, jeung ⟨את⟩ ra’hama, jeung ⟨את⟩ ka’ah;",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "jeung ka’ah (pelikan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ra’hama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ra’hama (manuk ra’hama)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ka’ah"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ka’ah (cormorant)"
+    }
+  ],
+  "timestamp": "2026-08-26T16:46:12.998904961Z",
+  "model": "glm-5.3"
+}

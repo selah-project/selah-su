@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Sareng méré aranjeunna dina dahar kuring racun, sareng ku hanaang kuring aranjeunna méré inum acan cuka.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "sareng méré aranjeunna"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "dina dahar kuring"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "racun"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "sareng ku hanaang kuring"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "anjeunna méré inum kauring"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "cuka"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:20.292801444Z",
+  "model": "glm-5.3"
+}

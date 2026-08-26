@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jadi aya rebahan, jadi aya isuk, poé kalima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "rebahan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "isuk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "kalima"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:33.389653728Z",
+  "model": "glm-5.3"
+}

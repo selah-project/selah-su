@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun bakal nempatkeun sorban dina sirahna, jeung nempatkeun ⟨את⟩ tajug kasucian dina sorban.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "jeung anjeun bakal nempatkeun"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "sorban"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahna"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "jeung nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tajug kasucian"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "tajug"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucian"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "sorban"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:50.321776292Z",
+  "model": "glm-5.3"
+}

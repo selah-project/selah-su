@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Lajeng Yahwe Elohim ngawangun ⟨את⟩ iga nu dicokot-Na tina sang manusa jadi awéwé, lajeng mawa anjeunna ka sang manusa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iga"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "iga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dicokot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manusa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi awéwé"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "mawa anjeunna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:49.207115565Z",
+  "model": "glm-5.3"
+}

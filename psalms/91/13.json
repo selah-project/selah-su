@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Dina luhureun singa jeung oray pétnén anjeun bakal ngainjak; anak singa jeung naga anjeun bakal nginjak-nginjak.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dina luhureun"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singa"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "jeung oray pétnén"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "anjeun bakal ngainjak"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "anjeun bakal nginjak-nginjak"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "jeung naga"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:54.920244868Z",
+  "model": "glm-5.3"
+}

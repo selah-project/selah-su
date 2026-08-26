@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lajeng Yéhu ngumpulkeun ⟨את⟩ sakabéh jalma-rakyat, sarta saurna ka maranéhna: Ajab ngawula ka ⟨את⟩ Baal saeutik; Yéhu bakal ngawula ka manéhna loba pisan.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "lajeng ngumpulkeun"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yéhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh jalma-rakyat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma-rakyat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta saurna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranéhna"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ngawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yéhu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "bakal ngawula ka manéhna"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "loba pisan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:53:02.757524480Z",
+  "model": "glm-5.3"
+}

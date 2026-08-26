@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung Noach bapak tilu urang anak: ⟨את⟩ Shem, ⟨את⟩ Cham, jeung ⟨את⟩ Yéfet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "jeung bapak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yéfet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yéfet"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:55.500430092Z",
+  "model": "glm-5.3"
+}

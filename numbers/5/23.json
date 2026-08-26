@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Sang imam bakal nulis ⟨את⟩ kutukan-kutukan ieu dina buku, lajeng mupusana kana cai pait éta.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "nulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutukan-kutukan ieu"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "kutukan-kutukan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dina buku"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "lajeng mupus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cai"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "pait éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:26:05.960385507Z",
+  "model": "glm-5.3"
+}

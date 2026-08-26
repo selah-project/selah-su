@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung kajadian tina hampangna zina-na, anjeunna nyieun najis ⟨את⟩ tanah, jeung zina jeung ⟨את⟩ batu jeung ⟨את⟩ kai.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Jeung kajadian"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "tina hampangna"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "zina-na"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "anjeunna nyieun najis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "jeung zina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kai"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kai"
+    }
+  ],
+  "timestamp": "2026-08-26T13:22:18.124692822Z",
+  "model": "glm-5.3"
+}

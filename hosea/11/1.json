@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Sabab Israél ngora kénéh, abdi mikacinta ka anjeunna, jeung ti Mesir abdi nyaur putra abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngora kénéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "abdi mikacinta ka anjeunna"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "jeung ti Mesir"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "abdi nyaur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "putra abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:05:37.884906207Z",
+  "model": "glm-5.3"
+}

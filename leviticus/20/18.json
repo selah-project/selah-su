@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sarta lamun aya lalaki nu saré jeung ⟨את⟩ awéwé nu keur gering-edanan, sarta muka ⟨את⟩ kalumujanana, ⟨את⟩ sumberna geus dihenteuan, sarta anjeunna muka ⟨את⟩ sumber getihna; duanana kudu dipungkas ti tengah-tengah bangsana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "sarta lamun aya lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "saré jeung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awéwé nu keur gering-edanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "nu keur gering-edanan"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "sarta muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalumujanana"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "kalumujanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumberna"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "sumberna"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "geus dihenteuan"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "sarta anjeunna"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "muka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumber getihna"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "sumber"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "duanana kudu dipungkas"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duanana"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ti tengah-tengah"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bangsana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:51.424181608Z",
+  "model": "glm-5.3"
+}

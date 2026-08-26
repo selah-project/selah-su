@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Cukung-laka manahna ⟨the⟩ jalma nu teu leumpang dina bujanana jalma-jalma rwak, jeung euweuh dina jalan jalma-jalma dosa manjong, jeung euweuh dina kadiukan jalma-jalma nyelek teu diuk.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "cukung-laka manahna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨the⟩ jalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "leumpang"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "dina bujana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jalma-jalma rwak"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "jeung euweuh dina jalan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "jalma-jalma dosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "manjong"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "jeung euweuh dina kadiukan"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "jalma-jalma nyelek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diuk"
+    }
+  ],
+  "timestamp": "2026-08-26T14:21:41.997135500Z",
+  "model": "glm-5.3"
+}

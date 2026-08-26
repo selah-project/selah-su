@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 115,
+  "translation": "Yahwe émut ka urang; ⟨manehna⟩ mberkah, mberkah ⟨את⟩ bumi Israél, mberkah ⟨את⟩ bumi Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "émut ka urang"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "mberkah"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "mberkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi Israél"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "mberkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:53.674802833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Teu mariksa perjangjian Elohim, jeung dina Toret-Na nolak leumpang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mariksa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "jeung dina Toret-Na"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nolak"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "leumpang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:56.284691469Z",
+  "model": "glm-5.3"
+}

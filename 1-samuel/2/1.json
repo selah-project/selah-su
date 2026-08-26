@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Teras Hannah shalat sarta ngomongkeun: ati kuring bungah di Yahwe, sungut kuring ngajangkar ka luhur di Yahwe, bangun lega caina ti luhureun musuh-musuh kuring, sabab kuring bungah dina pangbéréan Anjeun.",
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "shalat"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hannah"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ngajangkar ka luhur"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "sungut kuring"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bangun lega"
+    },
+    {
+      "surface": "פי",
+      "gloss": "caina"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti luhureun"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuh kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "kuring bungah"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "dina pangbéréan Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:12:34.048773808Z",
+  "model": "glm-5.3"
+}

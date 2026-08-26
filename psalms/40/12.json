@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Anjeun, Yahwe, ulah nahan kasihan-Mu ti kuring; kanyaah satia-Mu jeung kajujuran-Mu tetep ngajaga kuring.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "nahan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "kasihan-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ti kuring"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah satia-Mu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "jeung kajujuran-Mu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tetep"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ngajaga kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:15.068917299Z",
+  "model": "glm-5.3"
+}

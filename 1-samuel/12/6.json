@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung Shemuel nyarita ka ⟨rakyat⟩: Yahwe nu nyieun ⟨את⟩ Moshe jeung ⟨את⟩ Aharon, jeung nu mawa kaluar bapak-bapak aranjeun ti taneuh Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung Shemuel nyarita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨rakyat⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung nu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapak-bapak aranjeun"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bapak-bapak aranjeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti taneuh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T12:16:56.217577786Z",
+  "model": "glm-5.3"
+}

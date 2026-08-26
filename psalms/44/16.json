@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Sadayana poé aib kuring di payuneun kuring, jeung kamaluan muka kuring nyumputi kuring.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "aib kuring"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di payuneun kuring"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "jeung kamaluan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "nyumputi kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:04.097682652Z",
+  "model": "glm-5.3"
+}

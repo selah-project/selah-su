@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 84,
+  "translation": "Kepala musisi; dumasar kana Gittith; pikeun putra-putra Korach; mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepala musiki"
+    },
+    {
+      "surface": "על",
+      "gloss": "dumasar kana"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikeun putra-putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:59.356497423Z",
+  "model": "glm-5.3"
+}

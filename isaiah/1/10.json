@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Denge kecap Yahwe, para pingpinan Sdom; siker-siker kana Torah ti Elohim urang, bangsa Amora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Denge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "para pingpinan"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sdom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "siker-siker kana"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-08-26T13:01:29.487086703Z",
+  "model": "glm-5.3"
+}

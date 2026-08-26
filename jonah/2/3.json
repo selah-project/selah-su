@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Sarta anjeunna nyarita: Kuring ngaragarung sumawuning karunsing kuring ka Yahwe, sarta Anjeunna ngajawab kuring; tina beuteung Sheol kuring ngagogero, Anjeun ngadangu sora kuring.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta anjeunna nyarita"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Kuring ngaragarung"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "sumawuning karunsing"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "sarta Anjeunna ngajawab kuring"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "tina beuteung"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kuring ngagogero"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Anjeun ngadangu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sora kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:11:44.245176436Z",
+  "model": "glm-5.3"
+}

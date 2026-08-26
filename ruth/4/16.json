@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Sarta Naomi nyandak ⟨את⟩ budak éta, ararimbay kana ampingna, sarta jadi inyana parawatna.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budak éta"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "budak éta"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "ararimbay"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "kana ampingna"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "jadi inyana jadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun manéhna"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "parawat"
+    }
+  ],
+  "timestamp": "2026-08-26T15:27:02.080024486Z",
+  "model": "glm-5.3"
+}

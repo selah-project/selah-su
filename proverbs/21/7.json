@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Kakerasan nu jahat bakal nyeret aranjeunnana, sabab maranehna nampik ngalaksanakeun kabeneran.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "kakerasan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "bakal nyeret aranjeunnana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "maranehna nampik"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngalaksanakeun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-26T15:01:42.203643278Z",
+  "model": "glm-5.3"
+}

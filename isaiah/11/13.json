@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Turun sariwu Éfrayim, jeung nu ngaharib ka Yéhuda bakal diteukteuk; Éfrayim moal sariwu ⟨את⟩ Yéhuda, sarta Yéhuda moal ngaharib ⟨את⟩ Éfrayim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "turun\/sariwu"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "iri\/sariwu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éfrayim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "nu ngaharib"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "diteukteuk"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éfrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "sariwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yéhuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "sarta Yéhuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ngaharib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Éfrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éfrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T13:04:46.245802833Z",
+  "model": "glm-5.3"
+}

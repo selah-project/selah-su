@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 34,
+  "translation": "⟨את⟩ gajih ku aranjeunna didahar jeung ⟨את⟩ bulu domba aranjeunna baruang, anu kénéh gagah aranjeunna seuncit, ⟨the⟩ domba aranjeunna henteu angonan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gajih"
+    },
+    {
+      "surface": "החלeb",
+      "gloss": "gajih",
+      "note": ""
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ku aranjeunna didahar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "bulu domba"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "bulu domba"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "baruang"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "anu kénéh gagah"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "seuncit"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "angonan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:55:39.934891837Z",
+  "model": "glm-5.3"
+}

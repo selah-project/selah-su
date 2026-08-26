@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung jadi bungah ati imam, sarta anjeunna nyandak ⟨את⟩ efod jeung ⟨את⟩ terafim jeung ⟨את⟩ patung ukiran, sarta asup di tengah-tengah jalma rahayat.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "jadi bungah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "patung ukiran"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "patung ukiran"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma rahayat"
+    }
+  ],
+  "timestamp": "2026-08-26T12:11:26.654010790Z",
+  "model": "glm-5.3"
+}

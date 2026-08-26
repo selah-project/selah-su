@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 143,
+  "translation": "Kuring ngajangkarkeun leungeun-leungeun kuring ka Anjeun; nefesh kuring siga taneuh nu ngoncil ku haus, sanggeus ka Anjeun. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "kuring-ngajangkarkeun"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "leungeun-leungeun-kuring"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka-Anjeun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh-kuring"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "siga-taneuh"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "nu-ngoncil-ku-haus"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sanggeus-ka-Anjeun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:51:45.028199102Z",
+  "model": "glm-5.3"
+}

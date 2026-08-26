@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Anjeunna ngadilan ⟨את⟩ Israil dua puluh tilu taun, laju anjeunna maot sarta dikubur di Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ngadilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maot"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikubur"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "di Shamir"
+    }
+  ],
+  "timestamp": "2026-08-26T12:06:18.577456881Z",
+  "model": "glm-5.3"
+}

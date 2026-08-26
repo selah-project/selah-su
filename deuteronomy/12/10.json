@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Jeung aranjeun ngaliwatan ⟨את⟩ Yarden, jeung aranjeun cicing di ⟨the⟩ tanah nu Yahwe Elohim aranjeun mibikeun warisan ⟨את⟩-ka aranjeun, jeung Manéh méré kanyenyeuhakeun ka aranjeun ti sadaya musuh aranjeun sabudeureun, jeung aranjeun cicing kalawan aman.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "jeung aranjeun ngaliwatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "jeung aranjeun cicing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di ⟨the⟩ tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim aranjeun"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "mibikeun warisan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-ka aranjeun"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "jeung méré kanyenyeuhakeun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sadaya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh aranjeun"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sabudeureun"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "jeung aranjeun cicing"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "kalawan aman"
+    }
+  ],
+  "timestamp": "2026-08-26T11:43:59.607475484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung Atai ngabibitkeun ⟨את⟩ Natan, jeung Natan ngabibitkeun ⟨את⟩ Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "jeung Atai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ngabibitkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "jeung Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngabibitkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    }
+  ],
+  "timestamp": "2026-08-26T16:04:53.121929590Z",
+  "model": "glm-5.3"
+}

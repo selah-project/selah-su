@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Ka manéh, hé para lalaki, kuring sária, sarta sora kuring ka anak-anak manusa.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "ka manéh"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "para lalaki"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kuring sária"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "sarta sora kuring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:21.997226777Z",
+  "model": "glm-5.3"
+}

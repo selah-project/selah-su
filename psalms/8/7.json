@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Anjeun mibogakeun manéhna maréntah kana karya leungeun Anjeun, sadayana Anjeun nempatkeun dina sahandap suku manéhna.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Anjeun mibogakeun manéhna maréntah"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "kana karya"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "leungeun Anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "Anjeun nempatkeun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dina sahandap"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "suku manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:24.935282190Z",
+  "model": "glm-5.3"
+}

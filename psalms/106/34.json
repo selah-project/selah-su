@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 106,
+  "translation": "Maranéhna teu ngamusnahkeun ⟨את⟩ bangsa-bangsa nu diparéntahkeun Yahwe ka maranéhna",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ngamusnahkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diparéntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:45:44.725975273Z",
+  "model": "glm-5.3"
+}

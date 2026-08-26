@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Kajin nyaho ⟨את⟩ pamajikanana, mangka ⟨anjeunna⟩ ngandung sarta ngalahirkeun ⟨את⟩ Khanokh; sarta kajadian anjeuna jadi nu ngawangun hiji kota, sarta anjeuna nyebut ngaran kota éta sarua jeung ngaran putrana, Khanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamajikanana"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "pamajikanana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ngandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ngalahirkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kajadian"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nyebut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota éta"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "sarua jeung ngaran"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:37:07.252247219Z",
+  "model": "glm-5.3"
+}

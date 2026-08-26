@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Inget nuang cai tina sumur anjeun sorangan, jeung nu ngocorkeun tina tengah taneuan anjeun.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "nuang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "tina sumur anjeun"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "jeung nu ngocorkeun"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "tina tengah"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "taneuan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:53:53.264582513Z",
+  "model": "glm-5.3"
+}

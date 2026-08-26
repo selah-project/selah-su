@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung putra-putra Kalet putra Yefune: Iru, Elah, jeung Naam; jeung putra-putra Elah: Kenaz.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "jeung Naam"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "jeung putra-putra"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Kenaz"
+    }
+  ],
+  "timestamp": "2026-08-26T17:24:18.234862247Z",
+  "model": "glm-5.3"
+}

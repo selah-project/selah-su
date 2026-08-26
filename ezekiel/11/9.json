@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung kuring mairé kaluar ⟨את⟩ aranjeun ti tengahna, jeung kuring nempatkeun ⟨את⟩ aranjeun dina leungeun jalma-jalma deungeun, jeung kuring milaksanakeun hukum-hukum ka aranjeun.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "jeung kuring mairé kaluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "ti tengahna"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "jeung kuring nempatkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dina leungeun"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "jalma-jalma deungeun"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "jeung kuring milaksanakeun"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukum-hukum"
+    }
+  ],
+  "timestamp": "2026-08-26T13:46:09.562385412Z",
+  "model": "glm-5.3"
+}

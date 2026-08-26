@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Bapana ka anak-anak yatim, jeung panguji ka randa-randa, ⟨nyaéta⟩ Elohim di tempat cicing suci-Nana.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Bapana"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ka anak-anak yatim"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "jeung panguji"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ka randa-randa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "di tempat cicing"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suci-Nana"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:12.760938328Z",
+  "model": "glm-5.3"
+}

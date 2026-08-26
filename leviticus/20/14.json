@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Jeung lalaki nu nyandak ⟨את⟩ awéwé sarta ⟨את⟩ indungna, kahyangan karunya éta ⟨is⟩; ku seuneu maranéhna ngadurug ⟨את⟩ manéhna jeung ⟨את⟩ aranjeunna, sangkan euweuh kahyangan karunya di tengah-tengah anjeun.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "jeung lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awéwé"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "indungna"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kahyangan karunya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ku seuneu"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "maranéhna ngadurug"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "aranjeunna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sangkan euweuh"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jadi aya"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kahyangan karunya"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tengah-tengah anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:44.808510355Z",
+  "model": "glm-5.3"
+}

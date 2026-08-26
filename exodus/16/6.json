@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Moshe jeung Aharun ngomong ka sakabéh bani Yisraél: Wiréh, aranjeun bakal terang yén Yahwe ngaluarkeun ⟨את⟩ aranjeun ti tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "jeung Aharun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wiréh"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "aranjeun bakal terang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ngaluarkeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:00.415579552Z",
+  "model": "glm-5.3"
+}

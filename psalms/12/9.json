@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sabudeureunana nu jahat sok bari uleuih-alingkah, sabab lencir kaceluk dipikeun luhur ku anak-anak manusa.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "sabudeureunana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "uleuih-alingkah"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "sabab kaceluk"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "lencir"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:17.491130965Z",
+  "model": "glm-5.3"
+}

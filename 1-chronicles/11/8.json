@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung anjeunna ngawangun ⟨the⟩ kota sabudeureunana, ti Millo nepi ka sabudeureun; jeung Yoab ngahirupkeun ⟨את⟩ sésa ⟨the⟩ kota.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "jeung anjeunna ngawangun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sabudeureunana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "sabudeureun"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "jeung Yoab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ngahirupkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sésa kota"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sésa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-08-26T16:09:27.646525341Z",
+  "model": "glm-5.3"
+}

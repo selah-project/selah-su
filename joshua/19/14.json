@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Sarta wates éta ngurilingan ti kalér ka Khanaton, sarta pangkalna di Lembah Yiftax-El.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wates éta"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ti kalér"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "Khanaton"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "sarta pangkalna"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "pangkalna"
+    },
+    {
+      "surface": "גי",
+      "gloss": "Lembah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftax"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T11:58:40.716152021Z",
+  "model": "glm-5.3"
+}

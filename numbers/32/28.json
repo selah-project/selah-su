@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Jeung Moshe maréntahkeun ka maranehna ⟨את⟩ Elazar imam, jeung ⟨את⟩ Yehosua anak Nun, jeung ⟨את⟩ kapala-kapala bapa-bapa suku-suku anak-anak Israél.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "jeung maréntahkeun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar imam"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Yehosua anak Nun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "kapala-kapala bapa-bapa suku-suku"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kapala-kapala"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bapa-bapa"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:37:00.308876854Z",
+  "model": "glm-5.3"
+}

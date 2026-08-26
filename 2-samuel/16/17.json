@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Jeung Avshalom nyarita ka Khushai: Ieu kanyaah satia anjeun ka ⟨את⟩ babaturan anjeun? Naha anjeun teu ngajalankeun diri jeung ⟨את⟩ babaturan anjeun?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Khushai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kanyaah-satia-anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babaturan anjeun"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "babaturan-anjeun"
+    },
+    {
+      "surface": "למה",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "anjun-ngajalankeun-diri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babaturan anjeun"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "babaturan-anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:33:08.707795188Z",
+  "model": "glm-5.3"
+}

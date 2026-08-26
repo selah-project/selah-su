@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Teu mangpaat arta kaburuhan, tapi kabanaran ngabébaskeun tina maot.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "mangpaat"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "arta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kaburuhan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tapi kabanaran"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ngabébaskeun"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "tina maot"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:49.019226950Z",
+  "model": "glm-5.3"
+}

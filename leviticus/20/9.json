@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sabab jalma saha-saha nu ngahiwar ⟨את⟩ bapana jeung ⟨את⟩ indungna, paéh dipaéhan: bapana jeung indungna geus dihiwar, getihna aya dina manéhna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saha-saha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ngahiwar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "indungna"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dipaéhan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "jeung indungna"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "dihiwar"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:19:24.365749485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Nefes kuring aya terus-terusan dina leungeun kuring, jeung Taurat Anjeun teu kalingaling kuring.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefes kuring"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "dina dampal kuring"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-terusan"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "jeung Taurat Anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kalingaling kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:51.544858800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Geus ngabeunghar, geus méréyos ranjang-rajang kuring, alatan kokodo kuring.",
+  "tokens": [
+    {
+      "surface": "הבאישׁוּ",
+      "gloss": "geus ngabeunghar"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "geus méréyos"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "ranjang-rajang kuring"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "kokodo kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:28:04.444145320Z",
+  "model": "glm-5.3"
+}

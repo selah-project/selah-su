@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 136,
+  "translation": "Nu méré dahareun ka sadaya daging: sabab kanyaah satia-Na langgeng salawasna.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Nu méré"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dahareun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka sadaya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:57.133768605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Sarta anjeun nyandak ⟨את⟩ dua batu shoham, sarta anjeun ngukir luhureunana ngaran-ngaran putra-putra Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "sarta anjeun nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua batu shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "sarta anjeun ngukir"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "luhureunana"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T16:40:52.070954500Z",
+  "model": "glm-5.3"
+}

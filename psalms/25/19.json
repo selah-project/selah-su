@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Tempo musuh-musuh kuring, sabab aranjeunna loba, jeung ku sungsut nu kejam maranu ngahaat kuring.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuh kuring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "aranjeunna loba"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "jeung ku sungsut"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nu kejam"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "maranu ngahaat kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:25:45.866905532Z",
+  "model": "glm-5.3"
+}

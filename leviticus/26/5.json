@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 26,
+  "translation": "Jeung miheulaanana ngahontal ka anjeun, waktu ngagebugkeun jagung ngahontal ⟨את⟩ mangsa ngawiniskeun anggur, sarta mangsa ngawiniskeun anggur ngahontal ⟨את⟩ waktu multiplekar; lajeng anjeun bakal dahar ⟨the⟩ tuang-anjeun nepi ka wareg, sarta cicing kalawan aman di nagari-anjeun.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "ngahontal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "waktu ngagebugkeun jagung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mangsa ngawiniskeun anggur"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "mangsa ngawiniskeun anggur"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "sarta mangsa ngawiniskeun anggur"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "ngahontal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waktu multiplekar"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "waktu multiplekar"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "anjeun bakal dahar"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "tuang-anjeun"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "nepi ka wareg"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "anjeun cicing"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kalawan aman"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di nagari-anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:21:40.623524675Z",
+  "model": "glm-5.3"
+}

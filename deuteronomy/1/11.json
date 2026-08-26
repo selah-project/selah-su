@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Mugi Yahwe, Elohim para bapak aranjeun, nambahkeun ka aranjeun saprapat aranjeun sarébu kali, jeung mugi ⟨dia⟩ miberkahikeun ⟨את⟩ aranjeun saperti anu geus diomongkeun ka aranjeun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "para bapak aranjeun"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "nambahkeun"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "saprapat aranjeun"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sarébu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "jeung mugi miberkahikeun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geus diomongkeun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka aranjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:39.242066768Z",
+  "model": "glm-5.3"
+}

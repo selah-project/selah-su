@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Reu hirup dua jeung tilu puluh taun, sarta mibarakeun ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "jeung tilu puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sarta mibarakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-08-26T10:39:09.111787750Z",
+  "model": "glm-5.3"
+}

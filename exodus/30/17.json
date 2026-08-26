@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Jeung Yahwe ngomong ka Moshe, sangkan ngendah:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan ngendah"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:11.690013358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Tapi tacan lilana deui, jeung nu jahat ⟨is⟩ euweuh; mun anjeun ngaliungkeun kana tempatna, ⟨is⟩ manéhna geus euweuh.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "tapi deui"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "tacan lilana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "mun anjeun ngaliungkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tempatna"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "manéhna geus euweuh"
+    }
+  ],
+  "timestamp": "2026-08-26T17:11:39.940959936Z",
+  "model": "glm-5.3"
+}

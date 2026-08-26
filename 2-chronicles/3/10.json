@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung anjeunna nyieun di ⟨éta⟩ Bait Kadés-kadésan dua kerub, maher karya ukiran, jeung maranéhna ngalapisan ⟨את⟩ maranéna ku salaka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung anjeunna nyieun"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Bait"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadés"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadésan"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "maher karya"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "ukiran"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ngalapisan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "salaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "salaka"
+    }
+  ],
+  "timestamp": "2026-08-26T16:19:08.505106049Z",
+  "model": "glm-5.3"
+}

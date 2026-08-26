@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Saha-saha nu kapanggih bakal ditusuk, jeung saha-saha nu kacekel bakal ragrag ku péso.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saha-saha"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nu kapanggih"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "bakal ditusuk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung saha-saha"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "nu kacekel"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bakal ragrag"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku péso"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:01.866470378Z",
+  "model": "glm-5.3"
+}

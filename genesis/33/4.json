@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung Esau lumpat papanggih jeunganana, sarta ngadeukeutan, sarta murag kana beuheungna, sarta nyium anjeunna, sarta aranjeuna duanana ceurik.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "lumpat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "papanggih jeunganana"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "ngadeukeutan"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "murag"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "beuheungna"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "nyium anjeunna"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ceurik"
+    }
+  ],
+  "timestamp": "2026-08-26T10:47:14.406257450Z",
+  "model": "glm-5.3"
+}

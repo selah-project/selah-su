@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Dina lébar ḍinding buruan, jalur ka arah wétan, ngahadep ka tempat anu dipisahkeun sarta ngahadep ka wangunan — aya bilik-bilik.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "dina lébar"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ḍinding"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "buruan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalur"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ka arah wétan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngahadep"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "tempat anu dipisahkeun"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sarta ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngahadep"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "wangunan"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "bilik-bilik"
+    }
+  ],
+  "timestamp": "2026-08-26T13:59:09.651995636Z",
+  "model": "glm-5.3"
+}

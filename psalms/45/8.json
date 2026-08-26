@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Anjeun bogoh kana kabanaran jeung mungsuh kana kajahatan; ku sabab éta Elohim, Elohim anjeun, ngaanjuk anjeun ⟨ku⟩ minyak kagumbiraan langkung ti batur-batur anjeun.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "anjeun bogoh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabanaran"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "jeung mungsuh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "alatan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ku sabab éta"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ngaanjuk anjeun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kagumbiraan"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "langkung ti batur-batur anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:34.862318062Z",
+  "model": "glm-5.3"
+}

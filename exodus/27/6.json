@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "jeung anjeun bakal nyieun tutungkulan pikeun mihrab, tutungkulan tina kai akasia, jeung anjeun bakal ngalapisan ⟨את⟩ aranjeunna ku tambaga.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "anjeun bakal nyieun"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "tutungkulan"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pikeun mihrab"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "tutungkulan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "anjeun bakal ngalapisan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna (tutungkulan)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    }
+  ],
+  "timestamp": "2026-08-26T11:05:29.649842900Z",
+  "model": "glm-5.3"
+}

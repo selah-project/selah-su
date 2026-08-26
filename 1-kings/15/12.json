@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung ⟨he⟩ ngusir para palayan kultus ti ⟨the⟩ bumi, jeung ⟨he⟩ miceun ⟨את⟩ sakabéh berhala-berhala nu dijieun ku bapa-bapana.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "jeung ngusir"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "para palayan kultus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ bumi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "jeung miceun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh berhala-berhala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "berhala-berhala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ku bapa-bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:10.123713641Z",
+  "model": "glm-5.3"
+}

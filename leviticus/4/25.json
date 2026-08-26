@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung imam éta nyandak tina getih kurban dosa ku ramona, sarta nempatkeunana kana tanduk mézbah kurban bakaran, jeung ⟨את⟩ getihna diciciskeun ka sisimur mézbah kurban bakaran.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "jeung nyandak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam éta"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "tina getih"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ku ramona"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "sarta nempatkeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "tanduk"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "diciciskeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "sisimur"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mézbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:52.756909897Z",
+  "model": "glm-5.3"
+}

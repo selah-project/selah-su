@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta Yahwe ngomong ka Moshe, ninndang:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninndang"
+    }
+  ],
+  "timestamp": "2026-08-26T16:44:46.232516877Z",
+  "model": "glm-5.3"
+}

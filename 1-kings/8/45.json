@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "mangka anjeun ngadangu di langit ⟨את⟩ dongeng aranjeunna jeung ⟨את⟩ pamundut aranjeunna, jeung anjeun ngalaksanakeun kabeneran mararéhanana.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mangka anjeun ngadangu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dongeng aranjeunna"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "dongeng aranjeunna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "pamundut aranjeunna"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "pamundut aranjeunna"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "jeung anjeun ngalaksanakeun"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "kabeneran mararéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:41:58.394393226Z",
+  "model": "glm-5.3"
+}

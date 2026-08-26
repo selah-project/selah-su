@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 40,
+  "translation": "Sora ngomong: Sing sora! Jeung ⟨anjena⟩ ngomong: Naon kuring sing soraan? Sadaya daging mah jukut, jeung sadaya kanyaahna kawas kembang ⟨di⟩ lapangan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sora"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sing sora"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "jeung ngomong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kuring sing soraan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "jukut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadaya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaahna"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kawas kembang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lapangan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:12:54.175036333Z",
+  "model": "glm-5.3"
+}

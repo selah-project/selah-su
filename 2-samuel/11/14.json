@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jadi mangsa isuk-isuk, Dawid nulis surat ka Yoav, terus ngirimkeunana ku leungeun Uria.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangsa isuk-isuk"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "nulis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngirimkeun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku leungeun"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    }
+  ],
+  "timestamp": "2026-08-26T12:30:29.797136327Z",
+  "model": "glm-5.3"
+}

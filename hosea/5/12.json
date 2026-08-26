@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung Kuring saparti ngengat ka Efrayim, jeung saparti pangruntah ka beuteung Yehudah.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Jeung Kuring"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "saparti ngengat"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ka Efrayim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "jeung saparti pangruntah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka beuteung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:04.032232172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ti sulih Gad, ⟨את⟩ Raamot di Giléad jeung ⟨את⟩ padangna, jeung ⟨את⟩ Machanayim jeung ⟨את⟩ padangna.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "jeung ti sulih"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "di Giléad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padangna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padangna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Machanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padangna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padangna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:06:50.963991822Z",
+  "model": "glm-5.3"
+}

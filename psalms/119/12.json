@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Anjeun diberkahan, hai Yahwe; ajarkeun abdi katangtuan-katangtuan-Mu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "diberkahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarkeun abdi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katangtuan-katangtuan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-26T14:48:10.012699852Z",
+  "model": "glm-5.3"
+}

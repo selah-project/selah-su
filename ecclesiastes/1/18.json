@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Sabab dina lobana kawijaksanaan lobana ogé kasedih, jeung nu nambahan pangaweruh nambahan ogé kasakit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dina lobana"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kawijaksanaan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lobana"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kasedih"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "jeung nu nambahan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pangaweruh"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nambahan"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kasakit"
+    }
+  ],
+  "timestamp": "2026-08-26T15:30:31.468006580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung manehna ngalelepkeun tina minyak jaminesan kana sirah Aharon, sarta ngaminesan ⟨את⟩ anjeunna pikeun ngakuduskeunana.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "jeung ngalelepkeun"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "tina minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "jaminesan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "jeung ngaminesan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pikeun ngakuduskeunana"
+    }
+  ],
+  "timestamp": "2026-08-26T11:14:56.146694445Z",
+  "model": "glm-5.3"
+}

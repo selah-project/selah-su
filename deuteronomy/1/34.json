@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Lajeng Yahwe ngadangu ⟨את⟩ sora omongan anjeun, lajeng murka sarta lajeng sumpah, nyarita:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lajeng ngadangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sora"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "omongan anjeun"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "lajeng murka"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "lajend sumpah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    }
+  ],
+  "timestamp": "2026-08-26T11:38:54.156644450Z",
+  "model": "glm-5.3"
+}

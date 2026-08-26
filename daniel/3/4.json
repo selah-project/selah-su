@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Jeung juru seru ngagero kalawan keras: ka aranjeun dibejaan, hé bangsa-bangsa, umat-umat, jeung basa-basa;",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "Jeung juru seru"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ngagero"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "kalawan keras"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "dibejaan"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "jeung basa-basa"
+    }
+  ],
+  "timestamp": "2026-08-26T15:43:11.315883567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 98,
+  "translation": "Bungetkeun keur Yahwe ku kinor; ku kinor sarta sora sindingan.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Bungetkeun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "keur Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ku kinor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ku kinor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sarta sora"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "sindingan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:52.469916266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Salajengna anjeunna ngawangun ⟨את⟩ bumi eta tur ngaréngsékeunana, tur ngaturupan ⟨את⟩ bumi eta ku balok-balok jeung lapisan kai sarusuksuk.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ngawangun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi eta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi eta"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ngaréngsékeunana"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "ngaturupan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi eta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi eta"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "balok-balok"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "jeung lapisan"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "ku kai sarusuksuk"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:55.161540513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Jeung kaula mawa ⟨את⟩ minchah nu dijieun tina ieu bungkeusan ka Yahwe, lajeng marengkeun eta ka imaam, lajeng ngadeukeutkeun éta ka altar.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "jeung kaula mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dijieun"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "tina ieu bungkeusan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "lajeng marengkeun eta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imaam"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "lajeng ngadeukeutkeun éta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-26T11:12:09.082107115Z",
+  "model": "glm-5.3"
+}

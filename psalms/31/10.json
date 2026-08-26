@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Muja ka abdi, Yahwe, sabab kahemeng mapat ka abdi; panon abdi, nyawa abdi, jeung beuteung abdi kurisan ku gundah.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "muja-ka-abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kahemeng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka-abdi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "kurisan"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "ku-gundah"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "panon-abdi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa-abdi"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "jeung-beuteung-abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:39.206811049Z",
+  "model": "glm-5.3"
+}

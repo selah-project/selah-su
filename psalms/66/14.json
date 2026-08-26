@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "nu dibuka ku biwir abdi, jeung ditaranjang ku bahiran abdi dina kasusah abdi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "geus muka (dibuka)"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "biwir abdi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "jeung nyaritakeun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bahiran abdi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dina kasusah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:19.163484495Z",
+  "model": "glm-5.3"
+}

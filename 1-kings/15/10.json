@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung opat-puluh-salahiji taun ⟨he⟩ maréntah di Yerushalaim; jeung ngaran indungna Maakha, putri Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "jeung opat-puluh"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "sahiji"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jeung ngaran"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "indungna"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-26T12:44:10.123399946Z",
+  "model": "glm-5.3"
+}

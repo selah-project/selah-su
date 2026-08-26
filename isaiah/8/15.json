@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta lolobana di antara aranjeunna kasasar, sarta ragrag, sarta megat, sarta kapasetrém, sarta katangkap.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "sarta kasasar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di antara aranjeunna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lolobana"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "sarta ragrag"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "sarta megat"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "sarta kapasetrém"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "sarta katangkap"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:27.195335066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jeung Mikhal putri Shaul bogoh ka ⟨את⟩ David, jeung maranéhna ngabejaan ka Shaul, sarta hal éta katingali hadé di panonna.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "jeung-bogoh"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "jeung-maranehna-ngabejaan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka-Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "sarta-katingali-hade"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hal-eta"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di-panonna"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:22.358182793Z",
+  "model": "glm-5.3"
+}

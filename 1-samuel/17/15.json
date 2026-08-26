@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung Dawid indit-balik ti Sanggeus Shaul pikeun ngangonan ⟨את⟩ domba bapana di Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Jeung Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ti-sanggeus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "pikeun ngangonan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba bapana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-26T12:18:48.786854650Z",
+  "model": "glm-5.3"
+}

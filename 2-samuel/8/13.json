@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Dawid nyieun ngaran basa mulang ti ngéléhkeun ⟨את⟩ Aram di léngkob uyah — dalapan belas rébu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nyieun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngaran"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "basa mulang"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "ti ngéléhkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di léngkob"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "uyah"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "dalapan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:28:55.566164809Z",
+  "model": "glm-5.3"
+}

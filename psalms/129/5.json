@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 129,
+  "translation": "Bugaria sarta mundur ka tukang, sadaya nu ngabenci Tsiyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bugaria"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "sarta mundur ka tukang"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka tukang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nu ngabenci"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:50.305054566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 84,
+  "translation": "Yahwe Elohim Tzevaot, dongengkeun pareumping abdi; simeu, waé Elohim-na Yaakov. Selah",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dongengkeun"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pareumping abdi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "simeu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "waé Elohim-na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:39:58.708378299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 145,
+  "translation": "Émét kanyaah anjeun nu loba aranjeunna bakal ngucapkeun kaluar, jeung kabeneran anjeun aranjeunna bakal kumbah.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "émét"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nu loba"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kanyaah anjeun"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "aranjeunna bakal ngucapkeun kaluar"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "jeung kabeneran anjeun"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "aranjeunna bakal kumbah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:52:18.035940623Z",
+  "model": "glm-5.3"
+}

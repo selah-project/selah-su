@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Sagala nu ngarambat nu hirup, pikeun anjeun éta bakal jadi papasakan; kawas ⟨eta⟩ tutuwuhan hipu, Kami masrahkeun ka anjeun ⟨את⟩ sagalana.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sagala"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nu ngarambat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eta"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hirup"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pikeun anjeun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal jadi"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "papasakan"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "kawas tutuwuhan hipu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "sayuran"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Kami masrahkeun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagalana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sagalana"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:27.587751825Z",
+  "model": "glm-5.3"
+}

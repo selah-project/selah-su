@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Anjeunna nyandak ⟨את⟩ ⟨the⟩ anak sapi nu maranehna geus nyieun, ngabeuleum dina seuneu, ngagiling nepi ka bubuk, nyebarkeunana di luhureun beungeut cai, sarta méré inum ⟨את⟩ putrana Israél.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak sapi"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "anak sapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maranehna nyieun"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ngabeuleum"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dina seuneu"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "ngagiling"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "דק",
+      "gloss": "bubuk\/lemes"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "nyebarkeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "méré inum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:05.885283077Z",
+  "model": "glm-5.3"
+}

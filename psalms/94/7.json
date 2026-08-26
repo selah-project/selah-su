@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 94,
+  "translation": "Terus maranéhna ngomong: “Yah moal nempo, jeung Elohim-na Yaakov moal ngarti.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "terus maranéhna ngomong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T14:41:43.896182731Z",
+  "model": "glm-5.3"
+}

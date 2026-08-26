@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Teras Balak nyarita ka Bilam: ulah ngutuk manehna, malah ngalaan manehna ogé ulah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ngutuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "manehna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ngalaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ogé ulah"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "manehna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:32:58.584642895Z",
+  "model": "glm-5.3"
+}

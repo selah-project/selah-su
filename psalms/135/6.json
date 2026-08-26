@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 135,
+  "translation": "Sadayana nu dipikahoyong Yahwe geus diwangunna di langit-langit jeung di bumi, di laut jeung di sagala jero nu ngarandas.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dipikahoyong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geus diwangunna"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit-langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "jeung di bumi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung di sagala"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "jero nu ngarandas"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:52.748485266Z",
+  "model": "glm-5.3"
+}

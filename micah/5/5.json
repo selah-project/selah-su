@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung maranehna ngancurkeun ⟨את⟩ tanah Ashur ku pedang, jeung ⟨את⟩ tanah Nimrod di panto-pantona; jeung manehna bakal nyalametkeun urang ti Ashur, sabot manehna asup ka tanah urang, jeung sabot manehna nincak kana wates urang.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "di panto-pantona"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "jeung nyalametkeun"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabot"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ka tanah urang"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "jeung sabot"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "nincak"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "ka wates urang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:13:21.420446624Z",
+  "model": "glm-5.3"
+}

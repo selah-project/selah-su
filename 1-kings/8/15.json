@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Sarta anjeunna ngomong: Pinuh berkahna Yahwe, Elohimna Israél, nu ngomong ku sunguna ka Dawid ramana, sarta ku leungeunna ngarinpakeun, nyarios:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta anjeunna ngomong"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "pinuh berkahna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ku sunguna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid ramana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ramana"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "sarta ku leungeunna"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ngarinpakeun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    }
+  ],
+  "timestamp": "2026-08-26T12:40:56.999096043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung kuring jadikeun ⟨את⟩ taneuh ⟨eta⟩ tandang, sabab maranehna ngalakukeun panghianatan — cecekelan Adonay Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "jeung-kuring-jadikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh-⟨the⟩"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tandang"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "maranehna-ngalakukeun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "panghianatan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "cecekelan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:47:47.941812636Z",
+  "model": "glm-5.3"
+}

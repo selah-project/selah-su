@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 20,
+  "translation": "Sarta milampah kanyaah perjangjian ka rebu katurunan, ka nu mikacinta Ka abdi jeung ka nu ngajaga parentah-abdinga.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "sarta milampah"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kanyaah perjangjian"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ka rebu katurunan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ka nu mikacinta Ka abdi"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "jeung ka nu ngajaga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentah-abdinga"
+    }
+  ],
+  "timestamp": "2026-08-26T11:01:20.616404209Z",
+  "model": "glm-5.3"
+}

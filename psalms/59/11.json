@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 59,
+  "translation": "Elohim kanyaah satia perjangjian-Na baris ngamimitian ka kuring; Elohim baris mintonkeun ka kuring ⟨את⟩ musuh-musuh kuring.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyaah satia perjangjian-Na"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "baris ngamimitian ka kuring"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "baris mintonkeun ka kuring"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "⟨את⟩ musuh-musuh kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:38.179165339Z",
+  "model": "glm-5.3"
+}

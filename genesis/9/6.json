@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Nu ngocéskeun getih manusa, ku manusa getih-na bakal diocéskeun, sabab dina gambar Elohim ⟨את⟩ manusa dijieun-Na.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ngocéskeun"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ku manusa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getih-na"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "bakal diocéskeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dina gambar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dijieun-Na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T10:38:13.747637455Z",
+  "model": "glm-5.3"
+}

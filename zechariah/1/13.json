@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Yahwe ngajawab ⟨את⟩ malaékat nu ngomong dina diri abdi ku kecap-kecap alus, kecap-kecap panglipur.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Jeung ngajawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaékat"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaékat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nu ngomong"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dina diri abdi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "alus"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kecap-kecap"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "panglipur"
+    }
+  ],
+  "timestamp": "2026-08-26T17:09:47.872190344Z",
+  "model": "glm-5.3"
+}

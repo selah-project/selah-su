@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Ulah sieun ka aranjeunna, sabab jeung anjeun ⟨את⟩ aya kuring, pikeun ngabébaskeun anjeun, dawuh Yahwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ka aranjeunna (kana irung-irungna)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jeung anjeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "pikeun ngabébaskeun anjeun"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "dawuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T13:21:08.315958145Z",
+  "model": "glm-5.3"
+}

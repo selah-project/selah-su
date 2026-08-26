@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 29:41",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung ⟨את⟩ anak-domba ⟨anu⟩ kadua sok ara dipigawé antara两种-malam sarua jeung sajian beubeurang, jeung sarua jeung caaranana sok dipigawé pikeunana, jadi seungit nu ngahibur, kurban kahuruan pikeun Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-domba kadua"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak-domba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dua-malam (ba'da Isy)"
+    },
+    {
+      "surface": "כמנחת",
+      "gloss": "sarua jeung sajian"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "beubeurang"
+    },
+    {
+      "surface": "וכנסכה",
+      "gloss": "jeung sarua jeung caaranana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pikeunana"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "jadi seungit"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nu ngahibur"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kurban kahuruan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T11:07:31.887270766Z",
+  "model": "glm-5.3"
+}

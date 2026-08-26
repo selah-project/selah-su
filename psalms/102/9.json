@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 102,
+  "translation": "Sapanjang ⟨poé⟩ musuh-musuh abdi ngahina abdi; nu ngamuk ngalawan abdi sumpah ngalawan abdi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sapanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨poé⟩"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ngahina abdi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuh abdi"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "nu ngamuk"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngalawan abdi"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "sumpah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:17.034878729Z",
+  "model": "glm-5.3"
+}

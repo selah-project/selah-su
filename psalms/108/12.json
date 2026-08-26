@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 108,
+  "translation": "Naha lain Elohim anu nolak kami, jeung lain nyalira kaluar, ya Elohim, jeung tantémi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Naha lain"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "anu nolak kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung lain"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kaluar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "jeung tantémi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:22.370672228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung abdi ngarandapkeun ka dunya jahat, jeung ka nu jahat kalalayana, jeung abdi mungkas kamonésan nu somongkolak, jeung kagumeurseun nu nyiksa abdi andap-asor.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Jeung abdi ngarandapkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kalalayana"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "jeung abdi mungkas"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamonésan"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "nu somongkolak"
+    },
+    {
+      "surface": "וגאות",
+      "gloss": "jeung kagumeurseun"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "nu nyiksa"
+    },
+    {
+      "surface": "אשפיל",
+      "gloss": "abdi andap-asor"
+    }
+  ],
+  "timestamp": "2026-08-26T13:05:06.215383370Z",
+  "model": "glm-5.3"
+}

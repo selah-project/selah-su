@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Ngamomorach jantung kuring ⟨⟨⟩→⟩ kecap anu alus, kuring ngomongkeun pagawéan kuring ngeunaan raja; létah kuring péna panulis anu gancang.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ngamomorach"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "jantung kuring"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "anu alus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngomongkeun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kuring"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "pagawéan kuring"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngeunaan raja"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "létah kuring"
+    },
+    {
+      "surface": "עט",
+      "gloss": "péna"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "panulis"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "anu gancang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:24.451124634Z",
+  "model": "glm-5.3"
+}

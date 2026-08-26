@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Sabab jerit geus ngurilingan ⟨את⟩ wates Moab; nepi ka Eglayim ogolokanana, jeung nepi ka Beer-Elim ogolokanana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "geus ngurilingan"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "jerit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wates Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglayim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "ogolokanana"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "jeung ka Beer"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "ogolokanana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:38.069387396Z",
+  "model": "glm-5.3"
+}

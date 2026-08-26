@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Nu geus aya, geus lila éta; jeung nu rék aya, geus lila geus aya — sarta Elohim néangan ⟨את⟩ nu diudag.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "geus aya"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "geus lama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "jeung nu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "rék aya"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "geus lama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "geus aya"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "sarta Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "néangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu diudag"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "nu diudag"
+    }
+  ],
+  "timestamp": "2026-08-26T15:32:15.225118198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Perumpamaan Salomo: anak nu wijaksana ngahontal bapa, tapi anak nu belo ⟨ayana⟩ katungkul ku indungna.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "perumpamaan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nu wijaksana"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ngahontal"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "tapi anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nu belo"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "katungkul"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ku indungna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:57:49.018911924Z",
+  "model": "glm-5.3"
+}

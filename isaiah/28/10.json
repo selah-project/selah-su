@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Sabab parentah lapis parentah, parentah lapis parentah; garem ukur lapis garem ukur, garem ukur lapis garem ukur; saeutik di dieu, saeutik di dinya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "צו",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "lapis parentah"
+    },
+    {
+      "surface": "צו",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "lapis parentah"
+    },
+    {
+      "surface": "קו",
+      "gloss": "garem ukur"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "lapis garem ukur"
+    },
+    {
+      "surface": "קו",
+      "gloss": "garem ukur"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "lapis garem ukur"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dieu"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "saeutik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:08.757081771Z",
+  "model": "glm-5.3"
+}

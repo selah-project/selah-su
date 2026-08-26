@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 57,
+  "translation": "Abdi baris boga seru ka Elohim Elyon, ka El nu ngaranggep ⟨pagawéan-Na⟩ ngeunaan abdi.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Abdi baris boga seru"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ka El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "nu ngaranggep"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngeunaan abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:34:13.077621172Z",
+  "model": "glm-5.3"
+}

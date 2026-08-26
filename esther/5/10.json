@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Tapi Haman ngawadawan manah, asup ka imahna, sarta matak ngajak ⟨את⟩ babaturanana jeung ⟨את⟩ Zeresh pamajikanana.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "ngawadawan manah"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "matak (ngutus)"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ngajak datang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babaturanana"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "babaturanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "pamajikanana"
+    }
+  ],
+  "timestamp": "2026-08-26T15:38:58.719962833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Ingét-ingét ⟨את⟩ nu dipigawé Yahwe Elohim anjeun ka Miryam, di jalan, basa anjeun kaluar ti Mesir.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ingét-ingét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu dipigawé ka Miryam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "ka Miryam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "basa anjeun kaluar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ti Mesir"
+    }
+  ],
+  "timestamp": "2026-08-26T11:48:47.771547437Z",
+  "model": "glm-5.3"
+}

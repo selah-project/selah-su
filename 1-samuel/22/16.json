@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Sarta raja ngomong: Paéh tangtu paéh, Akhimelekh, anjeun jeung sakabéh kulawarga bapa anjeun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngomong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מות",
+      "gloss": "paéh"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "tangtu paéh"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapa anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:16.018522907Z",
+  "model": "glm-5.3"
+}

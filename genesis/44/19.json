@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 44,
+  "translation": "Adon-abi natanya ⟨את⟩ para abdina, nyebatkeun: Naha aya bapa atawa dulur ka anjeun?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "adon-abi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para abdina"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdina"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyebatkeun"
+    },
+    {
+      "surface": "היש",
+      "gloss": "naha aya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "או",
+      "gloss": "atanapi"
+    },
+    {
+      "surface": "אח",
+      "gloss": "dulur"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:28.254393421Z",
+  "model": "glm-5.3"
+}

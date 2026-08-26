@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Anu panénna didahar ku nu lapar, jeung ti cucuk-cucukan dibawa kaluar, sarta nu haus nyorot kakayaan maranéhna.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "anu"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "panénna"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nu lapar"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "didahar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ti"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "cucuk-cucukan"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "dibawa kaluar"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "sarta nyorot"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "nu haus"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kakayaan maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T17:17:36.456010652Z",
+  "model": "glm-5.3"
+}

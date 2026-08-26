@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 27,
+  "translation": "Jeung Akhisy nyarita, Naha aranjeun maéhan para pragér ayeuna? Jeung Dawud nyarita, Ka beulah kidul Yéhuda, ka beulah kidul Yerakhméeli, jeung ka beulah kidul Kayni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhisy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naha"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "anjeun maéhan para pragér"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka beulah kidul"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "beulah kidul"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ka beulah kidul"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "beulah kidul"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerakhméeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "beulah kidul"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Kayni"
+    }
+  ],
+  "timestamp": "2026-08-26T12:24:44.606816317Z",
+  "model": "glm-5.3"
+}

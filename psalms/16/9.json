@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 16,
+  "translation": "Lantaran kitu ati kuring bubungah, sarta kamulyaan kuring wirang-suka; daging kuring ogé nyicingan kalawan aman.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "lantaran kitu"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "bubungah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ati kuring"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "sarta wirang-suka"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyaan kuring"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "daging kuring"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "nyicingan"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kalawan aman"
+    }
+  ],
+  "timestamp": "2026-08-26T14:23:52.789137301Z",
+  "model": "glm-5.3"
+}

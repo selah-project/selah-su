@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "sarta hayu urang mulangkeun ⟨את⟩ papan panyimpenan Elohim urang ka urang, sabab urang teu napon-apon arwana dina mangsa Shaol.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "hayu mulangkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan panyimpenan Elohim urang"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "papan panyimpenan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim urang"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ka urang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "napon-apon arwana"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dina mangsa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    }
+  ],
+  "timestamp": "2026-08-26T16:11:13.812089291Z",
+  "model": "glm-5.3"
+}

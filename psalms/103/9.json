@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 103,
+  "translation": "Moal salawasna манá nyrékéléng, jeung moal salawasna Nora simpen kaambekna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "nyrékéléng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung moal"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Nora simpen (kaambekna)"
+    }
+  ],
+  "timestamp": "2026-08-26T14:42:49.714196933Z",
+  "model": "glm-5.3"
+}

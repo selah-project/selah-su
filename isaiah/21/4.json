@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Ati abdi nyasar, kanyeri-kanyeri ngajejed abdi; ⟨את⟩ nyénjona karesep abdi geus dijadikeun bagi abdi jadi kaeuri-euri sieun.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "nyasar"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ati abdi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kanyeri-kanyeri"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "ngajejed abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyénjona karesep abdi"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "nyénjo"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "karesep abdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "geus dijadikeun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi abdi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "jadi kaeuri-euri sieun"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:59.142768938Z",
+  "model": "glm-5.3"
+}

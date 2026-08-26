@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Lamun perak dipinjamen ⟨את⟩ ka bangsa Kami, ⟨את⟩ ka nu miskin gigireun anjeun, ulah jadi kaporohanana nu ngapiun; ulah nempatkeun luhureun inyana bunga hutang.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "dipinjamen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka bangsa Kami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bangsa Kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka nu miskin"
+    },
+    {
+      "surface": "העני",
+      "gloss": "nu miskin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gigireun anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaporohanana"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "nu ngapiun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "luhureun inyana"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga hutang"
+    }
+  ],
+  "timestamp": "2026-08-26T11:03:33.756958711Z",
+  "model": "glm-5.3"
+}

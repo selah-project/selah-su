@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 118,
+  "translation": "Hadé ngahusup ka Yahwe tibatan percaya ka manusa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hadé"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ngahusup ka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "tibatan percaya ka"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T17:15:13.373042115Z",
+  "model": "glm-5.3"
+}

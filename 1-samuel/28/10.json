@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 28,
+  "translation": "Jeung Shaul sumpah ka anjeunna ku Yahwe, sangkan: 'Dumuk Yahwe, moal nimu anjeun dosa kana perkara ieu.'",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Jeung sumpah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ku Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Dumuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moal"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "nimu anjeun"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kana perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:40.061602048Z",
+  "model": "glm-5.3"
+}

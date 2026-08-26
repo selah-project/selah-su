@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 69,
+  "translation": "Sabab sabab anjeun abdi nanggung écéh; kanu ka karonyok beungeut abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sabab anjeun"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "abdi nanggung"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "écéh"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "kanu ka"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "karonyok"
+    },
+    {
+      "surface": "פני",
+      "gloss": "beungeut abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T14:36:43.992491196Z",
+  "model": "glm-5.3"
+}

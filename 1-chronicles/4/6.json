@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung Naarah ngalahirkeun pikeun anjeunna ⟨את⟩ Axfuzzam, jeung ⟨את⟩ Chefer, jeung ⟨את⟩ Temeni, jeung ⟨את⟩ Axfasxtari; ieu putra-putra Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "jeung ngalahirkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pikeun anjeunna"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axfuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Axfuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Chefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Axfasxtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Axfasxtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-26T16:05:21.055226846Z",
+  "model": "glm-5.3"
+}

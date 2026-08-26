@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung maranéhna ngomong: sing geroan ka ngorana, jeung urang nanya ⟨את⟩ sungutna.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung maranéhna ngomong"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "sing geroan"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ka ngorana"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "jeung urang nanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungutna"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sungutna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:43:33.749172327Z",
+  "model": "glm-5.3"
+}

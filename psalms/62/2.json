@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 62,
+  "translation": "Ngan ka Elohim awéhna nyepi ⟨nefesh⟩ kuring; ti Anjeunna datang kasalametan kuring.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "awéh nyepi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨nefesh⟩ kuring"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti Anjeunna"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kasalametan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:15.260358468Z",
+  "model": "glm-5.3"
+}

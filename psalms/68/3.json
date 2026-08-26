@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 68,
+  "translation": "Sigana haseup diuapkeun, ku kitu diuapkeun; sigana lilin lééh ku seuneu, ku kitu nu jahat leungit ti payuneun Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "sigana diuapkeun"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "haseup"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "diuapkeun"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "sigana lééh"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "lilin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אש",
+      "gloss": "seuneu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "leungit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nu jahat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:34.067621702Z",
+  "model": "glm-5.3"
+}

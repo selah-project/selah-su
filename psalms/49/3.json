@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 49,
+  "translation": "Ogé putra-putra manusa, ogé putra-putra lalaki, babarengan nu beunghar jeung nu kurang.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "nu beunghar"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "jeung nu kurang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:32:30.430287647Z",
+  "model": "glm-5.3"
+}

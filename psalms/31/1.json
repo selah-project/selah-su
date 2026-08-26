@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Pikeun nu mingpin, mazmur ku Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pikeun nu mingpin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku Dawid"
+    }
+  ],
+  "timestamp": "2026-08-26T14:26:16.312767981Z",
+  "model": "glm-5.3"
+}

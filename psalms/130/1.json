@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 130,
+  "translation": "Kidung tarajé. Ti jero ka jeroan kuring mimiti, kuring nyaur Anjeun, wahai Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tarajé"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Ti jero ka jeroan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "kuring nyaur Anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T14:50:48.299996620Z",
+  "model": "glm-5.3"
+}

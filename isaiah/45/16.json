@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 45:16",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Maranéhna kaemieun, jeung ogé kapeuriw, maranéhna sadaya; babarengan maranéha leumpang dina kaemieuan, nu ngukir patung-patung.",
+  "tokens": [
+    {
+      "surface": "בושו",
+      "gloss": "maranéhna kaemieun"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "jeung ogé"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "kapeuriw"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "maranéhna sadaya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "babarengan"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "maranéha leumpang"
+    },
+    {
+      "surface": "בכלמה",
+      "gloss": "dina kaemieuan"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "nu ngukir"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "patung-patung"
+    }
+  ],
+  "timestamp": "2026-08-26T13:14:54.028751808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 36,
+  "translation": "Ieu ⟨téh⟩ ngaran-ngaran putra Esav: Elifaz, putra Adah, pamajikan Esav; Reuel, putra Basyamat, pamajikan Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ngaran-ngaran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basyamat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "pamajikan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-26T10:48:37.523088279Z",
+  "model": "glm-5.3"
+}

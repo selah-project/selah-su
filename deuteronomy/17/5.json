@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Mangka anjeun mawa kaluar ⟨את⟩ lalaki éta atawa ⟨את⟩ awéwé éta, nu geus ngalakukeun ⟨את⟩ perkara jahat ieu, ka gerbang-gerbang anjeun — ⟨את⟩ lalaki éta atawa ⟨את⟩ awéwé éta — teras anjeun ngarajang maranéhna ku batu, mangka maranéhna paéh.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "anjeun mawa kaluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki éta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awéwé éta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "éta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ngalakukeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "gerbang-gerbang anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awéwé"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "anjeun ngarajang"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ku batu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "mangka maranéhna paéh"
+    }
+  ],
+  "timestamp": "2026-08-26T11:46:53.830818529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 38,
+  "translation": "Manéhna ngandung, sarta midangkeun saurang putra; sarta anjeunna nyebut ⟨את⟩ ngaranna Er.",
+  "tokens": [
+    {
+      "surface": "וותהר",
+      "gloss": "ngandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "midangkeun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "saurang putra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaranna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-26T10:49:04.962209149Z",
+  "model": "glm-5.3"
+}

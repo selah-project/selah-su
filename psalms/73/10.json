@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 73,
+  "translation": "Ku sabab éta umat-Na balik deui ka dieu, sarta cai nu pinuh dit色彩的 dipanasan keur maranéhna.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ku sabab éta"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "balik deui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Na"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ka dieu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "sarta cai"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nu pinuh"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "dipanasan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "keur maranéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:09.370936756Z",
+  "model": "glm-5.3"
+}

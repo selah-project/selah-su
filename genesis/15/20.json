@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Jeung ⟨את⟩ urang Heti, jeung ⟨את⟩ urang Perizi, jeung ⟨את⟩ urang Refaim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "urang Heti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "urang Heti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "urang Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "urang Perizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "urang Refaim"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "urang Refaim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:11.854772669Z",
+  "model": "glm-5.3"
+}

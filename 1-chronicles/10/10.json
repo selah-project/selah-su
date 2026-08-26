@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Maranéhna nempatkeun ⟨את⟩ parabotna di imah allah-allah maranéhna, jeung ⟨את⟩ tangkorakna dipaku di imah Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "nempatkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parabotna"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "parabotna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah-allah maranéhna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tangkorakna"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "tangkorakna"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "dipaku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-26T17:25:26.085521457Z",
+  "model": "glm-5.3"
+}

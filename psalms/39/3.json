@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 39,
+  "translation": "Kuring jadi cicing satinggang, kuring ngeung nanaon, tapi najan ti nu hade; sarta nyeri kuring bagét kaganggu.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "jadi cicing"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "satinggang"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ngeung nanaon"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "najan ti nu hade"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "sarta nyeri kuring"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "bagét kaganggu"
+    }
+  ],
+  "timestamp": "2026-08-26T17:12:26.891161262Z",
+  "model": "glm-5.3"
+}

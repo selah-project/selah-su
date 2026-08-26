@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 18,
+  "translation": "Jadi kajadian, mangsa baé rék méré ⟨את⟩ Merab putri Shaul ka David, manéhna mah dibikeun ka Adriel ti Mechola jadi pamajikan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi-kajadian"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "תת",
+      "gloss": "rék-méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka-David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dibikeun"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "ka-Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "ti-Mechola"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "jadi-pamajikan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:19:22.358031356Z",
+  "model": "glm-5.3"
+}

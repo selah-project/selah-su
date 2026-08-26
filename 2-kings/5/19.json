@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 5,
+  "translation": "Jeung manéhna nyarita ka anjeunna, Indit mawa damai. Jadi anjeunna indit ti ⟨את⟩ anjeunna sajarak saeutik taneuh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung-nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka-anjeunna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "indit"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mawa-damai"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "jadi-indit"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ti-⟨את⟩-anjeunna",
+      "marks": "anjeunna (Elisa)"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "sajarak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "taneuh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:52:30.597980387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 22,
+  "translation": "Jeung Ebyathar ngabejaan ka David yén Saul geus maéhan ⟨את⟩ imam-imam Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ngabejaan"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ka David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "geus maéhan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imam-imam Yahwe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:06.126016874Z",
+  "model": "glm-5.3"
+}

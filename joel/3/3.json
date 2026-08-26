@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Tur kuring bakal masangkeun tanda-tanda anéh di langit jeung di bumi: getih, seuneu, jeung pilar-pilar haseup.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "tur kuring bakal masangkeun"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "tanda-tanda anéh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "jeung di bumi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "jeung seuneu"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "jeung pilar-pilar"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "haseup"
+    }
+  ],
+  "timestamp": "2026-08-26T17:08:32.817348967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 45,
+  "translation": "Teras nganteur ⟨את⟩ sadulur-sadulurna, jeung maranjeunna indit, jeung anjeunna nyarita ka aranjeunna: ulah ceuil-balai di jalan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Teras nganteur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulur-sadulurna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jeung maranjeunna indit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung anjeunna nyarita"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka aranjeunna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "ceuil-balai"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:52:33.560751024Z",
+  "model": "glm-5.3"
+}

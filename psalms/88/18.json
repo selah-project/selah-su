@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 88,
+  "translation": "Nurungkun abdi saperti cai sadidin poé; ngurilingan kana abdi babarengan.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "nurungkun abdi"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "saperti cai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadidin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "ngurilingan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kana abdi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "babarengan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:17.345940651Z",
+  "model": "glm-5.3"
+}

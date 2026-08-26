@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung Samuel nyarita ka ⟨rakyat⟩: Rai, hayu urang ka Gilgal, jeung hayu urang ngamimitian deui dinya karajaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨rakyat⟩"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Rai"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "hayu urang ka"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "hayu urang ngamimitian deui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinya"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karajaan"
+    }
+  ],
+  "timestamp": "2026-08-26T12:15:10.288511236Z",
+  "model": "glm-5.3"
+}

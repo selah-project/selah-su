@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Teras Dawid nyarita ka anjeunna: Ti mana anjeunna datang? Anjeunna nyarios ka manéhna: Ti kempalan Israél kuring ngalafran.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka anjeunna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ti mana"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "(ti dieu)"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka manéhna"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "ti kempalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "kuring ngalafran"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:59.166362275Z",
+  "model": "glm-5.3"
+}

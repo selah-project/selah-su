@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "Jeung sakumna Israyel ngadéngé nyarios: Syaul geus ngaparang ⟨את⟩ pos perwira Pelishti, ogé Israyel geus jadi bau nyengar ka Pelishti; tuluy bala balad ngarérégol sanggeus Syaul ka Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakumna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarios"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geus ngaparang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pos perwira Pelishti"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pos perwira"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "jadi bau nyengar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "ka Pelishti"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "tuluy ngarérégol"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bala balad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sanggeus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ka Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-26T16:51:10.786440777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Nepi ka Yahwe nyelang tur nitingali ti langit-langit.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "nyelang"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "tur nitingali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ti langit-langit"
+    }
+  ],
+  "timestamp": "2026-08-26T15:28:59.979061130Z",
+  "model": "glm-5.3"
+}

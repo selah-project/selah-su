@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 4,
+  "translation": "Jeung ⟨את⟩ kulit sapi jantan éta, jeung ⟨את⟩ sakabéh dagingna, jeung sirahna, jeung dua sukuna, jeung jeroannana, jeung taihna —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kulit"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi jantan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh dagingna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingna"
+    },
+    {
+      "surface": "על",
+      "gloss": "jeung (dina)"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung (dina)"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "dua sukuna"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "jeroannana"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "taihna"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:03.870008454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Ka Torah jeung ka kasaksian! Naha maranehna henteu baris ngomong saluyu jeung kecap ieu, nu euweuh tanjona-caangna?",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "Ka Torah"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "jeung ka kasaksian"
+    },
+    {
+      "surface": "אם",
+      "gloss": "naha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "maranehna baris ngomong"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "saluyu jeung kecap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mibana"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tanjo-caang"
+    }
+  ],
+  "timestamp": "2026-08-26T13:03:47.744594536Z",
+  "model": "glm-5.3"
+}

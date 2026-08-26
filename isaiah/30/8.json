@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "Ayeuna sumping, tuliskeunana dina tablet ⟨את⟩ jeung dina buku ukiranna, sangkan jadi pikeun poé panungtungan, salawasna nepi ka salamana.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ayeuna"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "sumping"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "tuliskeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tablet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tablet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung dina"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ukiranna"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "sangkan jadi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pikeun poé"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "panungtungan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamana"
+    }
+  ],
+  "timestamp": "2026-08-26T13:09:54.414252484Z",
+  "model": "glm-5.3"
+}

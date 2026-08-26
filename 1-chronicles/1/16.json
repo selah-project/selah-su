@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung ⟨את⟩ urang Arwadi, jeung ⟨את⟩ urang Tzemari, jeung ⟨את⟩ urang Hamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "urang Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Tzemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "urang Tzemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urang Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "urang Hamati"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:51.987091334Z",
+  "model": "glm-5.3"
+}

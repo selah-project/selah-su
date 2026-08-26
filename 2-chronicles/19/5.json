@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "su",
+  "chapter": 19,
+  "translation": "Jeung manéhna nangtukeun hakim-hakim di nagara, di sagala kota-kota Yehudah nu kabenteng, kota demi kota.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "jeung manéhna nangtukeun"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hakim-hakim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di nagara"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di sagala"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "nu kabenteng"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "demi kota"
+    }
+  ],
+  "timestamp": "2026-08-26T16:26:00.117299199Z",
+  "model": "glm-5.3"
+}

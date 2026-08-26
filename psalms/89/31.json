@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 89,
+  "translation": "Lamun anak-anakna ngantepkeun Taurat abdi, jeung dina hukum-hukum abdi moal maranéhna lalampahan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "maranéhna ngantepkeun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anakna"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Taurat abdi"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "jeung dina hukum-hukum abdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "maranéhna lalampahan"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:34.568938319Z",
+  "model": "glm-5.3"
+}

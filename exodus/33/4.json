@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 33,
+  "translation": "Jeung bangsa ngadenge ⟨את⟩ talatah nu goréng ieu, sarta maraneunna kasedih, jeung euweuh jelema maké perhiasanana.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngadenge"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talatah nu goréng ieu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "talatah"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nu goréng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "kasedih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "maké"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jelema"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "perhiasanana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dina awakna"
+    }
+  ],
+  "timestamp": "2026-08-26T11:08:21.398734139Z",
+  "model": "glm-5.3"
+}

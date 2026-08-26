@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung Yahwe ngalaksanakeun luyu jeung kecap Moshe; lajeng bangkong-bangkong paéh tina ⟨the⟩ imah-imah, tina ⟨the⟩ pakarangan, jeung tina ⟨the⟩ sawah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung-ngalaksanakeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "luyu-jeung-kecap"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "lajeng-paéh"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bangkong-bangkong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "imah-imah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tina"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "pakarangan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "jeung-tina"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "sawah"
+    }
+  ],
+  "timestamp": "2026-08-26T10:57:43.017854030Z",
+  "model": "glm-5.3"
+}

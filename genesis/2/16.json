@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 2,
+  "translation": "Tuluy Yahwe Elohum maréntahkeun ka manusa, nyarita: Tina unggal tangkal kebon, cadang pikasedieun dipapait.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tina unggal"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tangkal"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "kebon"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pikasedieun"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dipapait"
+    }
+  ],
+  "timestamp": "2026-08-26T10:36:12.648983349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 113,
+  "translation": "Nu mawa ⟨awéwé⟩ mandul pikeun cicing di imah, jadi indung ka anak-anak nu bungah — pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Nu mawa cicing"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "awéwé mandul"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di imah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indung"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T14:46:49.767468532Z",
+  "model": "glm-5.3"
+}

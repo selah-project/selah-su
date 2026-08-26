@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 25,
+  "translation": "Jeung anjeun ngalaksanakeun ⟨את⟩ katangtuan-katangtuan abi, jeung ⟨את⟩ putusan-putusan abi anjeun jaga sarta ngalaksanakeunana, tuluy anjeun cicing di luhureun ⟨the⟩ tanah kalawan aman.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Jeung anjeun ngalaksanakeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katangtuan-katangtuan abi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "katangtuan-katangtuan abi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "putusan-putusan abi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-putusan abi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "anjeun jaga"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "sarta ngalaksanakeunana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "putusan-putusan abi"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "tuluy anjeun cicing"
+    },
+    {
+      "surface": "על",
+      "gloss": "di luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kalawan aman"
+    }
+  ],
+  "timestamp": "2026-08-26T11:22:17.149413775Z",
+  "model": "glm-5.3"
+}

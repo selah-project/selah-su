@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Jeung anjeun bakal ngadeg tina pangendapan, sarta ngawasaan ⟨את⟩ ⟨the⟩ kota; jeung Yahwe, Elohim anjeun, masrahkeun eta kana leungeun anjeun.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "jeung anjeun"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "tina pangendapan"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "sarta ngawasaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ kota"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "jeung masrahkeun eta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "kana leungeun anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T11:56:03.683303775Z",
+  "model": "glm-5.3"
+}

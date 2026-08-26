@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 12,
+  "translation": "Sungkeun ka sakumpulan Isroél, ceuk: Dina sapuluh ⟨dina⟩ bulan ieu, jeung manehna nyokot pikeun dirina saurang domba sa-daging bapa-bapa, domba sa-borjong",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "sungkeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakumpulan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroél"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "dina sapuluh"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "jeung nyokot"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pikeun dirina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saurang"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa-daging"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "bapa-bapa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa-borjong"
+    }
+  ],
+  "timestamp": "2026-08-26T10:58:05.973764354Z",
+  "model": "glm-5.3"
+}

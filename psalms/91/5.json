@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 91,
+  "translation": "Moal anjeun sieun ku kagoréngan peuting, ku panah nu ngabeurayang beurang;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sieun"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ku kagoréngan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "peuting"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "panah"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ngabeurayang"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "beurang"
+    }
+  ],
+  "timestamp": "2026-08-26T14:40:57.365307150Z",
+  "model": "glm-5.3"
+}

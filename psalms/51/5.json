@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 51,
+  "translation": "Sabab pangbarontakan abdi abdi nyaho, jeung dosa abdi tetep aya saméméh abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pangbarontakan abdi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "jeung dosa abdi"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "saméméh abdi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tetep aya"
+    }
+  ],
+  "timestamp": "2026-08-26T14:33:44.409190430Z",
+  "model": "glm-5.3"
+}

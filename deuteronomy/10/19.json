@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Mikacintaanan ku aranjeun ⟨את⟩ nu nyicingan batur, sabab aranjeun ogé kungsi jadi nu nyicingan batur di tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "mikacintaanan ku aranjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nu nyicingan batur"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nu nyicingan batur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "nu nyicingan batur"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kungsi jadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T11:42:09.798451681Z",
+  "model": "glm-5.3"
+}

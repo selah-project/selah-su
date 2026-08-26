@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 24,
+  "translation": "Jeung nu ngampak nyawa sato kudu mayar; nyawa gaganti nyawa.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Jeung nu ngampak"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sato"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "kudu mayar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "gaganti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:53.779207472Z",
+  "model": "glm-5.3"
+}

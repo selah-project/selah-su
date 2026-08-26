@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 30,
+  "translation": "jeung ka nu di Xorma, jeung ka nu di Bor-Asan, jeung ka nu di Atakh.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "jeung ka nu"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "di Xorma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "jeung ka nu"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "di Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Asan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "jeung ka nu"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "di Atakh"
+    }
+  ],
+  "timestamp": "2026-08-26T12:25:30.387682052Z",
+  "model": "glm-5.3"
+}

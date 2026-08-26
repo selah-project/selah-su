@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "su",
+  "chapter": 9,
+  "translation": "Kami geus dosa, geus nyieun kalalawora, geus ngalakukeun kajahatan, geus barontak, jeung malik ti parentah Anjeun jeung ti hukum Anjeun.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "kami geus dosa"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "geus nyieun kalalawora"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "geus ngalakukeun kajahatan"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "geus barontak"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "jeung malik"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "ti parentah Anjeun"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "jeung ti hukum Anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T15:48:10.930063149Z",
+  "model": "glm-5.3"
+}

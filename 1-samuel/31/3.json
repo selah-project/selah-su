@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 31,
+  "translation": "Jeung perang beurat ka Shaul, sarta nu ngapanah — jalma-jalma make panah — manggihan anjeunna, tuluy anjeunna ngarandapan nyeri pisan ku sabab nu ngapanah.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "beurat"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "manggihan anjeunna"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "nu ngapanah"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "jalma-jalma"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "make panah"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ngarandapan nyeri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pisan"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "ku sabab nu ngapanah"
+    }
+  ],
+  "timestamp": "2026-08-26T12:26:36.705712889Z",
+  "model": "glm-5.3"
+}

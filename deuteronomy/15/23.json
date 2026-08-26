@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 15,
+  "translation": "Ngan getihna ulah dahar ku anjeun; ka luhureun ⟨the⟩ taneuh tuang ku anjeun kawas cai.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihna"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulah"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dahar ku anjeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka luhureun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "tuang ku anjeun"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kawas cai"
+    }
+  ],
+  "timestamp": "2026-08-26T11:44:05.614261499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung Yahwe ngomong ka Moshe, nyarita kitu:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Jeung ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nyarita kitu"
+    }
+  ],
+  "timestamp": "2026-08-26T11:20:44.887798308Z",
+  "model": "glm-5.3"
+}

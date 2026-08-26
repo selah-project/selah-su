@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 119,
+  "translation": "Abdi nyasar saperti domba nu angeun, migawakeun abdi, épalaksanakeunana abdi moal melang miturut paréntah anjeun moal hilap.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "abdi nyasar"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "sapesti domba"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nu angeun"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "migawakeun"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi anjeun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "paréntah anjeun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "hilap"
+    }
+  ],
+  "timestamp": "2026-08-26T14:49:42.399007509Z",
+  "model": "glm-5.3"
+}

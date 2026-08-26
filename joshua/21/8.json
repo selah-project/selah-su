@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 21,
+  "translation": "Jeung putra-putra Yisrael masihan ka urang Lewi ⟨את⟩ kota-kota ieu jeung ⟨את⟩ padang-padang rumputna, sakumaha nu dititah ku Yahwe ngaliwatan leungeun Moshe, ku undian.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "jeung masihan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ka urang Lewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota ieu"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "padang-padang rumputna"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "padang-padang rumputna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sakumaha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nu dititah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngaliwatan leungeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ku undian"
+    }
+  ],
+  "timestamp": "2026-08-26T11:59:56.056885834Z",
+  "model": "glm-5.3"
+}

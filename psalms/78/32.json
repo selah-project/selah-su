@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 78,
+  "translation": "Ngan sanajan kitu aranjeunna kénéh dosa, sarta teu percaya kana hal-hal anéhna-Na.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ngan sanajan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "aranjeunna dosa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kénéh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta teu"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "kana hal-hal anéhna-Na"
+    }
+  ],
+  "timestamp": "2026-08-26T14:38:27.530451083Z",
+  "model": "glm-5.3"
+}

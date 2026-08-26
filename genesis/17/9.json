@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Jeung Elohim nyarita ka Avraham: Ari anjeun, anjeun kudu ngajaga ⟨את⟩ perjangjian kuring, anjeun jeung bakti anjeun sanggeus anjeun, ka turunan-turunan maranehna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ari anjeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjangjian kuring"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian kuring"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "anjeun kudu ngajaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "jeung bakti anjeun"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sanggeus anjeun"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ka turunan-turunan maranehna"
+    }
+  ],
+  "timestamp": "2026-08-26T10:40:50.703135321Z",
+  "model": "glm-5.3"
+}

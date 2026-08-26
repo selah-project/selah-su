@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 114,
+  "translation": "Ti payuneun Adonay, gemeter, hai bumi; ti payuneun Eloah-na Yaakov —",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Ti payuneun"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "gemeter"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai bumi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ti payuneun"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T14:47:17.398105197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "su",
+  "chapter": 41,
+  "translation": "Laju anjeunna ngukur ⟨את⟩ panjangna dua puluh asta, jeung lébar dua puluh asta, ka payuneun heikal; jeung anjeunna nyarita ka abdi: Ieu mah kados-kadosan.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "laju ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panjangna"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "jeung lébar"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "payuneun"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kados"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kados-kadosan"
+    }
+  ],
+  "timestamp": "2026-08-26T13:58:33.299635845Z",
+  "model": "glm-5.3"
+}

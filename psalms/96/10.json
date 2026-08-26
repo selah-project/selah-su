@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 96,
+  "translation": "Katakun di antara bangsa-bangsa: Yahwe ngaraja; ogé ⟨the⟩ daratan kawangun-tembong, moal goyah; Anjeunna bakal ngahakim ⟨the⟩ bangsa-bangsa dina kaadilan.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "katakun"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ngaraja"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "kawangun-tembong"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "daratan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "goyah"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "bakal ngahakim"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "dina kaadilan"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:20.075914061Z",
+  "model": "glm-5.3"
+}

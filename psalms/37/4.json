@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 37,
+  "translation": "Sarta bibih ka Yahwe, sarta Manehna bakal méré ka anjeun paménta haté anjeun.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Sarta bibih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "sarta bakal méré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "paménta"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "haté anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:27:24.038606646Z",
+  "model": "glm-5.3"
+}

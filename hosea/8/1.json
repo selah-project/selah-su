@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "su",
+  "chapter": 8,
+  "translation": "Ka biwir anjeun — sangkakala; siga heulang ngawang-wang luhur imah Yahwe: sabab aranjeunna ngaliwatan perjangjian Kami, jeung ngalawan Torah Kami maranehna ngalanggar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "biwir anjeun"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "siga heulang"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ngaliwatan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjangjian Kami"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung ngalawan"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah Kami"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "maranehna ngalanggar"
+    }
+  ],
+  "timestamp": "2026-08-26T14:04:56.204462260Z",
+  "model": "glm-5.3"
+}

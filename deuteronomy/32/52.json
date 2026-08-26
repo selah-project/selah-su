@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 32,
+  "translation": "Sabab ti pameuntas anjeun bakal nempo ⟨את⟩ tana éta, tapi anjeun moal asup ka tana nu abdi méré ka putra-putra Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ti pameuntas"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "anjeun bakal nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tana éta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tana éta"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "tapi ka ditu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "anjeun asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T11:52:26.592516775Z",
+  "model": "glm-5.3"
+}

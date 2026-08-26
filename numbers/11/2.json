@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "su",
+  "chapter": 11,
+  "translation": "Jeung jalma-jalma éta jerit ka Moshe, jeung Moshe nyampayakeun ka Yahwe, sarta seuneu éta pareum.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Jeung jerit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma-jalma éta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "jeung nyampayakeun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "sarta pareum"
+    },
+    {
+      "surface": "האש",
+      "gloss": "seuneu éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:28:13.835055333Z",
+  "model": "glm-5.3"
+}

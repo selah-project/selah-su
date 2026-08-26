@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Jeung anjeunna ngancurkeun ⟨את⟩ tugu-tugu, motongan ⟨את⟩ Asherim-asherim, sarta ngeusian ⟨את⟩ tempat-tempatna ku tulang manusa.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Jeung ngancurkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tugu-tugu"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "motongan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherim-asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherim-asherim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "sarta ngeusian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat-tempatna"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "tempat-tempatna"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    }
+  ],
+  "timestamp": "2026-08-26T13:00:02.751614951Z",
+  "model": "glm-5.3"
+}

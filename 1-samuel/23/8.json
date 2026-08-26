@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "su",
+  "chapter": 23,
+  "translation": "Lajeng Sha-ul ngagero ⟨את⟩ sakabéh ⟨rakyat⟩ pikeun perang, pikeun turun ka Keila, pikeun ngurung Dawid jeung jalmana.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngagero (mabeurakan)"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh rakyat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pikeun perang"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "pikeun turun"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "pikeun ngurung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jalmana"
+    }
+  ],
+  "timestamp": "2026-08-26T12:23:29.103944647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "su",
+  "chapter": 13,
+  "translation": "jeung Beit Peor, jeung lamping-lamping ha-Pisgah, jeung Beit ha-Yeshimot,",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "jeung Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "jeung lamping-lamping"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ha-Pisgah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "jeung Beit"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "ha-Yeshimot"
+    }
+  ],
+  "timestamp": "2026-08-26T11:57:47.678725602Z",
+  "model": "glm-5.3"
+}

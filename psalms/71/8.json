@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 71,
+  "translation": "Kaeusi bocah abdi ku puji-pujian ka anjeun, sadaya poé ku kamulyaan anjeun.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "kaeusi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bocah abdi"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "puji-pujian ka anjeun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "kamulyaan anjeun"
+    }
+  ],
+  "timestamp": "2026-08-26T14:37:04.165768790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 10,
+  "translation": "Lain kitu; indit, iyo, ku para lalaki baé, jeung layaskeun abdi ka ⟨את⟩ Yahwe, sabab ⟨את⟩ éta nu anjeun pikahoyong. Jeung manéhna ngusir maranehna ti ⟨את⟩ harepan Paroh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lain"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "indit"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "para lalaki"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "jeung layaskeun abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "anu anjeun pikahoyong"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anjeun"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "pikahoyong"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harepan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:59:00.189149167Z",
+  "model": "glm-5.3"
+}

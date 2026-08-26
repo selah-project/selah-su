@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "su",
+  "chapter": 29,
+  "translation": "Jeung anjeun ngabiluk ⟨את⟩ domba jantan kadua éta, sarta Aharon jeung putra-putrana naruntaskeun ⟨את⟩ leungeun-leungeunana kana hulu domba jantan éta.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "jeung anjeun ngabiluk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan kadua éta"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan éta"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "sarta naruntaskeun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jeung putra-putrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leungeun-leungeunana"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leungeun-leungeunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan éta"
+    }
+  ],
+  "timestamp": "2026-08-26T11:06:27.430376403Z",
+  "model": "glm-5.3"
+}

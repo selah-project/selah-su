@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "su",
+  "chapter": 17,
+  "translation": "Beungbeuratan Damaskus. Tempo, Damaskus dipiceun tina jadi ⟨⟨hiji⟩⟩ kota, tur jadi tumpukan runtuh.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "beungbeuratan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "dipiceun"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "tina kota"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "tur jadi"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "tumpukan"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "runtuh"
+    }
+  ],
+  "timestamp": "2026-08-26T13:06:29.309575569Z",
+  "model": "glm-5.3"
+}

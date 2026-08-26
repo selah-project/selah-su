@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 42,
+  "translation": "Beulah poé Yahwe maréntahkeun xesed-Na, jeung dina peuting lagu ⟨⟨ na aya jeung kuring — donga ka El kahirupan kuring.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "beulah poé"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "maréntahkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesed-Na"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "jeung dina peuting"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jeung kuring"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "donga"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ka El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kahirupan kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:29:29.640748317Z",
+  "model": "glm-5.3"
+}

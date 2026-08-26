@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 66,
+  "translation": "Dipuji Elohim nu moal muka sambatan kuring, moal ogé kanyaahna ti gigireun ⟨את⟩ kuring.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dipuji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "muka"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sambatan kuring"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "kanyaahna"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "ti gigireun ⟨את⟩ kuring",
+      "marks": "kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T14:35:10.960253401Z",
+  "model": "glm-5.3"
+}

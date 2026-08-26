@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "su",
+  "chapter": 1,
+  "translation": "Jeung Kus ngabantarkeun ⟨את⟩ Nimrod; manéhna mimiti jadi jawara di ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "jeung Kus"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ngabantarkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mimiti"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jawara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T16:03:58.283676454Z",
+  "model": "glm-5.3"
+}

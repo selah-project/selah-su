@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "su",
+  "chapter": 3,
+  "translation": "Sadayana kota-kota dataran, jeung sadayana Giléad, jeung sadayana Basan nepi ka Salkah jeung Edrei, kota-kota karajaan Og di Basan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sadayana"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "dataran"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadayana"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giléad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadayana"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "jeung Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "karajaan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "di Basan"
+    }
+  ],
+  "timestamp": "2026-08-26T11:39:43.252565073Z",
+  "model": "glm-5.3"
+}

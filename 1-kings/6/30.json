@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "su",
+  "chapter": 6,
+  "translation": "Jeung ⟨את⟩ lantay bumi éta dilapisan emas, ka rohangan jero jeung ka luar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "lantay bumi éta"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "lantay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi éta"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "dilapisan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ka rohangan jero"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "jeung ka luar"
+    }
+  ],
+  "timestamp": "2026-08-26T12:39:31.483033182Z",
+  "model": "glm-5.3"
+}

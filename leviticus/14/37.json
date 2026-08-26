@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 14:37",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Lajeng anu imam nempo ⟨את⟩ panyakit éta, jeung tingali, upama panyakit éta aya dina dingding-dingding ⟨את⟩ imah — léang-léang karékan héjo-héjoan atawa beureum-beureuman, jeung katingalina leuwih handap batan dingding.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "nempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panyakit éta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "panyakit éta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "jeung tingali"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "panyakit éta"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "dina dingding-dingding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "שקערורת",
+      "gloss": "léang-léang"
+    },
+    {
+      "surface": "ירקרקת",
+      "gloss": "karékan héjo-héjoan"
+    },
+    {
+      "surface": "או",
+      "gloss": "atawa"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "beureum-beureuman"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "jeung katingalina"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "leuwih handap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "batan"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dingding"
+    }
+  ],
+  "timestamp": "2026-08-26T16:43:29.492122224Z",
+  "model": "glm-5.3"
+}

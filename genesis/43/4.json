@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "su",
+  "chapter": 43,
+  "translation": "Lamun anjeun ngutusan ⟨את⟩ raka urang babarengan jeung urang, urang bakal turun sarta meuli keur anjeun kadaharan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "anjeun (bade)"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ngutusan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raka urang"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "raka urang"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ babarengan jeung urang",
+      "marks": "babarengan jeung urang"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "urang bakal turun"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "sarta meuli gandung"
+    },
+    {
+      "surface": "לך",
+      "gloss": "keur anjeun"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kadaharan"
+    }
+  ],
+  "timestamp": "2026-08-26T10:51:14.378973080Z",
+  "model": "glm-5.3"
+}

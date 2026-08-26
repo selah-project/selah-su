@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "su",
+  "chapter": 96,
+  "translation": "Hayu ⟨si⟩ langit-langit bogah bungah, jeung ⟨si⟩ bumi kagumbiraan; hayu laut ngageroek jeung kaayaan nu nyieunanana.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "hayu … bungah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit-langit"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "jeung … kagumbiraan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ngageroek"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "jeung kaayaan nu nyieunanana"
+    }
+  ],
+  "timestamp": "2026-08-26T17:14:42.145607626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "su",
+  "chapter": 14,
+  "translation": "Jeung imam ngala ⟨את⟩ domba nu pikeun kurban salah jeung ⟨את⟩ log minyak, jeung imam ngagoyangkeun ⟨את⟩ aranjeunna salaku kurban goyang di payuneun Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "jeung ngala"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba nu pikeun kurban salah"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "domba"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "nu pikeun kurban salah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "log minyak"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "jeung ngagoyangkeun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aranjeunna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "salaku kurban goyang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di payuneun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T16:42:48.816851227Z",
+  "model": "glm-5.3"
+}
