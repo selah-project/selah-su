@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 45,
-  "translation": "Sarta cogotkeun bapa aranjeun jeung ⟨את⟩ imah-imah aranjeun, sarta sumpang ka abdi, bari abdi badé masihan ka anjeun ⟨את⟩ nu panghadéna tina tana Mitsrayim, sarta anjeun bakal ngahakan ⟨את⟩ kagoriannana tina ⟨the⟩ taneuh.",
+  "translation": "Sarta pokona, pundut ⟨את⟩ bapa aranjeun jeung ⟨את⟩ rumah tangga aranjeun, sarta sumping ka abdi, mangka abdi badé masihan ka aranjeun ⟨את⟩ kaayaan hadé tina tanah Mitsrajim, sarta aranjeun bakal ngonsumsi ⟨את⟩ bagian nu pangngembrungna tina tanah éta.",
   "tokens": [
     {
       "surface": "וקחו",
-      "gloss": "cogotkeun"
+      "gloss": "sarta pokona pundut"
     },
     {
       "surface": "את",
@@ -22,16 +22,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "imah-imah aranjeun"
+      "gloss": "jeung ⟨את⟩",
+      "marks": "rumah tangga aranjeun"
     },
     {
       "surface": "בתיכם",
-      "gloss": "imah-imah aranjeun"
+      "gloss": "rumah tangga aranjeun"
     },
     {
       "surface": "ובאו",
-      "gloss": "sumpang"
+      "gloss": "sarta sumping"
     },
     {
       "surface": "אלי",
@@ -39,47 +39,47 @@
     },
     {
       "surface": "ואתנה",
-      "gloss": "badé masihan"
+      "gloss": "mangka abdi badé masihan"
     },
     {
       "surface": "לכם",
-      "gloss": "ka anjeun"
+      "gloss": "ka aranjeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nu panghadéna"
+      "marks": "kaayaan hadé tina tanah Mitsrajim"
     },
     {
       "surface": "טוב",
-      "gloss": "nu panghadéna"
+      "gloss": "kaayaan hadé"
     },
     {
       "surface": "ארץ",
-      "gloss": "tana"
+      "gloss": "tanah"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsrajim"
     },
     {
-      "surface": "ואכלו",
-      "gloss": "bakal ngahakan"
+      "surface": "ואכלu",
+      "gloss": "sarta aranjeun bakal ngonsumsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kagoriannana"
+      "marks": "bagian nu pangngembrungna tina tanah éta"
     },
     {
       "surface": "חלeb",
-      "gloss": "kagoriannana"
+      "gloss": "bagian nu pangngembrungna"
     },
     {
       "surface": "הארץ",
-      "gloss": "taneuh"
+      "gloss": "tanah éta"
     }
   ],
-  "timestamp": "2026-08-26T19:00:02.503195946Z",
+  "timestamp": "2026-08-26T19:21:54.216498853Z",
   "model": "glm-5.3"
 }

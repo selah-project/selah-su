@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 27,
-  "translation": "Nu kaopat, pikeun bulan kaopat, Asahel dulur Yoab, jeung Zevadyah putrana sanggeus manéhna, jeung dina babagianna dua puluh jeung opat réwu.",
+  "translation": "Nu kaopat pikeun bulan kaopat ⟨eta⟩ Asael, dulur Yoav, jeung Zvadyah putrana sanggeusna, jeung dina pasukanana dua puluh opat réwu.",
   "tokens": [
     {
       "surface": "הרביעי",
@@ -21,7 +21,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Asahel"
+      "gloss": "⟨eta⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
     },
     {
       "surface": "אחי",
@@ -29,11 +33,11 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Yoab"
+      "gloss": "Yoav"
     },
     {
       "surface": "וזבדיה",
-      "gloss": "jeung Zevadyah"
+      "gloss": "jeung Zvadyah"
     },
     {
       "surface": "בנו",
@@ -41,7 +45,7 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "sanggeus manéhna"
+      "gloss": "sanggeusna"
     },
     {
       "surface": "ועל",
@@ -49,7 +53,7 @@
     },
     {
       "surface": "מחלקתו",
-      "gloss": "babagianna"
+      "gloss": "pasukanana"
     },
     {
       "surface": "עשרים",
@@ -64,6 +68,6 @@
       "gloss": "réwu"
     }
   ],
-  "timestamp": "2026-08-26T19:07:11.893809944Z",
+  "timestamp": "2026-08-26T19:25:53.030001484Z",
   "model": "glm-5.3"
 }

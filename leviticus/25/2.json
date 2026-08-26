@@ -5,8 +5,81 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 25,
-  "translation": "Ngomongkeun ka bāṁ-bāṁ Yitsrael, ⹜ München‹ jeung ⹜kāta‹ ka maranéhna: ⹜nalika‹ maranéhna asup ka ⹜ḡi‹ tanah nu abdi méré ka maranéhna, jeung ⹜uninja‹ tanah ⹜raʾat Sabbāt‹ ka Yahwe.",
-  "tokens": [],
-  "timestamp": "2026-08-26T19:01:20.016019866Z",
+  "translation": "Sanggakeun ka putra-putra Yisrael, sarta kata ka maranehna: Lamun aranjeun asup ka tanah nu abdi méré ka aranjeun, mangka tanah kudu ngarayakeun Sabat pikeun Yahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Sanggakeun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "sarta kata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ka maranehna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Lamun"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "aranjeun asup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "méré"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka aranjeun"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "mangka tanah kudu ngarayakeun Sabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tanah⟩"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pikeun Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T19:22:07.059116181Z",
   "model": "glm-5.3"
 }

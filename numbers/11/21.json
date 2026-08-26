@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 11,
-  "translation": "Teras Moshe ngandika:ngenep ratus rébu jalma nu leumpang di antara bangsa nu pribadi kuring aya di tengah-tengahna, sarta anjeun geus ngandika:yakin kuring badé méré ⟨את⟩ daging ka maranéhna, sarta maranéhna bakal dahar sasasiwulan lilana.",
+  "translation": "Teras Moshe ngandika: genep ratus réwu jalma leumpang aya di antara ⟨ieu⟩ bangsa, anu abdi aya di tengah-tengahna; sarta Anjeun geus ngandika: daging abdi béré ka maranehna, jeung maranehna bakal dahar sapoé ⟨sabulan⟩-lamina.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Teras ngandika"
+      "gloss": "teras-nyarios"
     },
     {
       "surface": "משה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אלף",
-      "gloss": "rébu"
+      "gloss": "réwu"
     },
     {
       "surface": "רגלי",
-      "gloss": "jalma nu leumpang"
+      "gloss": "jalma leumpang"
     },
     {
       "surface": "העם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nu"
+      "gloss": "anu"
     },
     {
       "surface": "אנכי",
-      "gloss": "pribadi kuring"
+      "gloss": "abdi"
     },
     {
       "surface": "בקרבו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "sarta anjeun"
+      "gloss": "sarta Anjeun"
     },
     {
       "surface": "אמרת",
@@ -61,26 +61,25 @@
     },
     {
       "surface": "אתן",
-      "gloss": "badé méré"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "daging"
+      "gloss": "abdi béré"
     },
     {
       "surface": "להם",
-      "gloss": "ka maranéhna"
+      "gloss": "ka maranehna"
     },
     {
-      "surface": "ו אכלו",
-      "gloss": "sarta maranéhna bakal dahar"
+      "surface": "ואכלו",
+      "gloss": "jeung maranehna bakal dahar"
     },
     {
-      "surface": "חדש ימים",
-      "gloss": "sasasiwulan lilana"
+      "surface": "חדש",
+      "gloss": "sabulan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sapoé-lamina"
     }
   ],
-  "timestamp": "2026-08-26T19:01:21.598323311Z",
+  "timestamp": "2026-08-26T19:26:33.227773309Z",
   "model": "glm-5.3"
 }
