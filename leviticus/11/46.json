@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 11,
-  "translation": "Ieu téh taurat ⟨the⟩ héwam jeung manuk, jeung sagala nu hirup nu ngagerak dina cai, jeung sagala nu hirup nu ngarayap di luhureun taneuh.",
+  "translation": "Ieu téh taurat (pituduh) ngeunaan ⟨את⟩ sato ingon, ⟨את⟩ manuk, jeung ti unggal mahluk hirup nu ngagerak dina cai, sarta ti unggal mahluk nu ngarambat di luhur taneuh.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "Ieu"
+      "gloss": "ieu téh"
     },
     {
       "surface": "תורת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "héwam"
+      "gloss": "sato ingon"
     },
     {
       "surface": "והעוף",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "jeung sagala"
+      "gloss": "jeung ti unggal"
     },
     {
       "surface": "נפש",
-      "gloss": "nu hirup"
+      "gloss": "mahluk hirup"
     },
     {
       "surface": "החיה",
-      "gloss": "nu nyawa"
+      "gloss": "nu hirup"
     },
     {
       "surface": "הרמשת",
@@ -45,25 +45,25 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "jeung sagala"
+      "gloss": "sarta ti unggal"
     },
     {
       "surface": "נפש",
-      "gloss": "nu hirup"
+      "gloss": "mahluk"
     },
     {
       "surface": "השרצת",
-      "gloss": "nu ngarayap"
+      "gloss": "nu ngarambat"
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "di luhur"
     },
     {
       "surface": "הארץ",
       "gloss": "taneuh"
     }
   ],
-  "timestamp": "2026-08-26T11:15:35.904421379Z",
+  "timestamp": "2026-08-26T18:06:28.421289154Z",
   "model": "glm-5.3"
 }

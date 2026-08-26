@@ -5,31 +5,32 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 52,
-  "translation": "Sarta jatah-na, jatah anu terus-terusan, dibikeun ka ⟨דia⟩ ti ⟨את⟩anu bogana, raja Bavel, urusan sapoé dina poé-na masing-masing, nepi ka poé maotna, sadaya poé hirupna.",
+  "translation": "Jeung béasna —béas tuluy-tinulu— dipasihkeun ka manéhna ti ⟨את⟩ raja Babel, bab unwah poé dina poéna, nepi ka poé maotna, sadaya poé hirupna.",
   "tokens": [
     {
       "surface": "וארחתו",
-      "gloss": "sarta jatahna"
+      "gloss": "jeung béasna"
     },
     {
       "surface": "ארחת",
-      "gloss": "jatah"
+      "gloss": "béas"
     },
     {
       "surface": "תמיד",
-      "gloss": "terus-terusan"
+      "gloss": "tuluy-tinulu"
     },
     {
       "surface": "נתנה",
-      "gloss": "dibikeun"
+      "gloss": "dipasihkeun"
     },
     {
       "surface": "לו",
-      "gloss": "ka anjeunna"
+      "gloss": "ka manéhna"
     },
     {
       "surface": "מאת",
-      "gloss": "ti ⟨את⟩"
+      "gloss": "ti ⟨את⟩",
+      "marks": "raja Babel"
     },
     {
       "surface": "מלך",
@@ -37,19 +38,19 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "דבר",
-      "gloss": "urusan"
+      "gloss": "bab"
     },
     {
       "surface": "יום",
-      "gloss": "sapoé"
+      "gloss": "poé"
     },
     {
       "surface": "ביומו",
-      "gloss": "dina poéna masing-masing"
+      "gloss": "dina poéna"
     },
     {
       "surface": "עד",
@@ -69,13 +70,13 @@
     },
     {
       "surface": "ימי",
-      "gloss": "poé-"
+      "gloss": "poé"
     },
     {
       "surface": "חייו",
       "gloss": "hirupna"
     }
   ],
-  "timestamp": "2026-08-26T13:42:32.100908237Z",
+  "timestamp": "2026-08-26T18:26:20.518177839Z",
   "model": "glm-5.3"
 }

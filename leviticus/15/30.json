@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 15,
-  "translation": "Jeung imam ngalakonan ⟨את⟩ ⟨the⟩ nu hiji kurban dosa, jeung ⟨את⟩ ⟨the⟩ nu hiji kurban bakaran; sarta imam mierapi manéhna di payuneun Yahwe lantaran kaluaran kakotoranana.",
+  "translation": "Sang imam bakal ngalaksanakeun ⟨את⟩ nu hiji salaku kurban dosa jeung ⟨את⟩ nu hiji deui salaku kurban bakar, sarta sang imam bakal ngadamel paneungeutan dosa pikeun manéhna di payuneun Yahwe, alatan kaluaran henteu murnina manéhna.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "jeung ngalakonan"
+      "gloss": "bakal ngalaksanakeun"
     },
     {
       "surface": "הכהן",
-      "gloss": "imam"
+      "gloss": "sang imam"
     },
     {
       "surface": "את",
@@ -30,28 +30,28 @@
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "nu hiji"
+      "gloss": "⟨את⟩",
+      "marks": "nu hiji deui"
     },
     {
       "surface": "האחד",
-      "gloss": "nu hiji"
+      "gloss": "nu hiji deui"
     },
     {
       "surface": "עלה",
-      "gloss": "kurban bakaran"
+      "gloss": "kurban bakar"
     },
     {
       "surface": "וכפר",
-      "gloss": "sarta mierapi"
+      "gloss": "bakal ngadamel paneungeutan dosa"
     },
     {
       "surface": "עליה",
-      "gloss": "pihak ka manéhna"
+      "gloss": "pikeun manéhna"
     },
     {
       "surface": "הכהן",
-      "gloss": "imam"
+      "gloss": "sang imam"
     },
     {
       "surface": "לפני",
@@ -63,13 +63,13 @@
     },
     {
       "surface": "מזוב",
-      "gloss": "lantaran kaluaran"
+      "gloss": "alatan kaluaran"
     },
     {
       "surface": "טמאתה",
-      "gloss": "kakotoranana"
+      "gloss": "henteu murnina manéhna"
     }
   ],
-  "timestamp": "2026-08-26T11:17:56.104795344Z",
+  "timestamp": "2026-08-26T18:07:14.301877911Z",
   "model": "glm-5.3"
 }

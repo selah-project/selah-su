@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 13,
-  "translation": "jeung sakabéh kota-kota di dataran, jeung sakabéh karajaan Sichon raja bansa Emori, nu maréntah di Cheshbon, nu dipukuluk ku Moshe — manéhna jeung ⟨את⟩ para pangawasa Midian: ⟨את⟩ Evi, ⟨את⟩ Rekem, ⟨את⟩ Tsur, ⟨את⟩ Chur, jeung ⟨את⟩ Reba, para pangéran Sichon, nu nyicingan ⟨the⟩ tanah éta.",
+  "translation": "jeung sadaya kota-kota di dataran, jeung sakabéh karajaan Sihon raja urang Emori, nu ngawasa di Heshbon, nu ditelasan ku Moshe saréhérés jeung para pangawasa Midian: ⟨את⟩ Evi jeung ⟨את⟩ Rekem jeung ⟨את⟩ Tsur jeung ⟨את⟩ Hhur jeung ⟨את⟩ Reba, para bangsawan Sihon, nu cicing di ⟨the⟩ tanah.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "jeung sakabéh"
+      "gloss": "jeung sadaya"
     },
     {
       "surface": "ערי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "סיחון",
-      "gloss": "Sichon"
+      "gloss": "Sihon"
     },
     {
       "surface": "מלך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "bansa Emori"
+      "gloss": "urang Emori"
     },
     {
       "surface": "אשר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "maréntah"
+      "gloss": "ngawasa"
     },
     {
       "surface": "בחשבון",
-      "gloss": "di Cheshbon"
+      "gloss": "di Heshbon"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "dipukuluk"
+      "gloss": "ditelasan"
     },
     {
       "surface": "משה",
@@ -65,12 +65,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ manéhna",
-      "marks": "Sichon"
+      "gloss": "⟨את⟩ inyana",
+      "marks": "Sihon"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
+      "gloss": "⟨את⟩ jeung",
       "marks": "para pangawasa Midian"
     },
     {
@@ -111,11 +111,11 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "Chur"
+      "marks": "Hhur"
     },
     {
       "surface": "חור",
-      "gloss": "Chur"
+      "gloss": "Hhur"
     },
     {
       "surface": "ואת",
@@ -128,21 +128,21 @@
     },
     {
       "surface": "נסיכי",
-      "gloss": "para pangéran"
+      "gloss": "para bangsawan"
     },
     {
       "surface": "סיחון",
-      "gloss": "Sichon"
+      "gloss": "Sihon"
     },
     {
       "surface": "ישבי",
-      "gloss": "nu nyicingan"
+      "gloss": "nu cicing"
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
+      "gloss": "di tanah"
     }
   ],
-  "timestamp": "2026-08-26T11:58:12.207853379Z",
+  "timestamp": "2026-08-26T19:02:36.128182490Z",
   "model": "glm-5.3"
 }

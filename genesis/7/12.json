@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 7,
-  "translation": "Jeung kajadian hujan ⟨ éta ⟩ turun di luhureun ⟨the⟩ bumi opat puluh poé jeung opat puluh peuting.",
+  "translation": "Teras hujan turun ka bumi opat poé jeung opat peuting.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "jeung kajadian"
+      "gloss": "teras"
     },
     {
       "surface": "הגשם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "ka"
     },
     {
       "surface": "הארץ",
@@ -40,6 +40,6 @@
       "gloss": "peuting"
     }
   ],
-  "timestamp": "2026-08-26T10:37:32.875053035Z",
+  "timestamp": "2026-08-26T17:59:45.047600509Z",
   "model": "glm-5.3"
 }

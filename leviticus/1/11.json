@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 1,
-  "translation": "Jeung diseuseuhna ⟨את⟩ manehna di sisi altar beulah kalér, di payuneun Yahwe; laju putra-putra Aharon, para imam, nyikeunan ⟨את }} getihna ka luhureun altar sapurulung.",
+  "translation": "Jeung manéhna nyembelih ⟨את⟩ na di sisi ⟨את⟩ mezbah, beulah kalér, di payuneun Yahwe; jeung putra-putra Aharon, para imam, ngacirkeun ⟨את⟩ getihna ka luhur mezbah, sabudeureunana.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "jeung diseuseuhna"
+      "gloss": "jeung nyembelih"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "manehna"
+      "gloss": "⟨את⟩ na",
+      "marks": "dirina (bakal kurban)"
     },
     {
       "surface": "על",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altar"
+      "gloss": "mezbah"
     },
     {
       "surface": "צפנה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "laju nyikeunan"
+      "gloss": "jeung ngacirkeun"
     },
     {
       "surface": "בני",
@@ -67,17 +67,17 @@
     },
     {
       "surface": "על",
-      "gloss": "ka luhureun"
+      "gloss": "ka luhur"
     },
     {
       "surface": "המזבח",
-      "gloss": "altar"
+      "gloss": "mezbah"
     },
     {
       "surface": "סביב",
-      "gloss": "sapurulung"
+      "gloss": "sabudeureunana"
     }
   ],
-  "timestamp": "2026-08-26T11:11:48.298810890Z",
+  "timestamp": "2026-08-26T18:06:50.482143825Z",
   "model": "glm-5.3"
 }

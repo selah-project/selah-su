@@ -5,8 +5,89 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 65,
-  "translation": "Ku kituna kitu kataji Adonay Yahwe: Tempo, abdi-abdi kuring bakal nyatu, tapi aranjeun bakal kalaparan; tempo, abdi-abdi kuring bakal nginum, tapi aranjeun bakag haus; tempo, abdi-abdi kuring bakag bungah, tapi aranjeun bakal sieun.",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:21:10.835768980Z",
+  "translation": "Mangka kitu katara Adonay Yahwe: Pohara, abdi-abdi kuring bakal dahar jeung manéh bakal lapar; pohara, abdi-abdi kuring bakal nginum jeung manéh bakal haus; pohara, abdi-abdi kuring bakal gumbira jeung manéh bakal kaembaran.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mangka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katara"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pohara"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi kuring"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal dahar"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jeung manéh"
+    },
+    {
+      "surface": "תרעבו",
+      "gloss": "bakal lapar"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pohara"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi kuring"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "bakal nginum"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jeung manéh"
+    },
+    {
+      "surface": "תצמאו",
+      "gloss": "bakal haus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pohara"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdi kuring"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bakal gumbira"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jeung manéh"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "bakal kaembaran"
+    }
+  ],
+  "timestamp": "2026-08-26T18:24:29.756399610Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 11,
-  "translation": "Jeung Atalya, indungna Axya, nempo yen maot putrana, tuluy manehna ngadeg sarta ngancurkeun ⟨את⟩ sadayana katurunan ⟨the⟩ karajaan.",
+  "translation": "Atalyah, indungna Axyahu, nempo yén putrana geus maot, tuluy manéh ngadeg sarta musnahkeun ⟨את⟩ sakulawarga katurunan karajaan.",
   "tokens": [
     {
       "surface": "ועתליה",
-      "gloss": "Jeung Atalya"
+      "gloss": "Atalyah"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Axya"
+      "gloss": "Axyahu"
     },
     {
       "surface": "וראתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "yen"
+      "gloss": "yén"
     },
     {
       "surface": "מת",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "ותאבד",
-      "gloss": "ngancurkeun"
+      "gloss": "musnahkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadayana katurunan"
+      "marks": "sakulawarga katurunan karajaan"
     },
     {
       "surface": "כל",
-      "gloss": "sadayana"
+      "gloss": "sakulawarga"
     },
     {
       "surface": "זרע",
@@ -61,6 +61,6 @@
       "gloss": "karajaan"
     }
   ],
-  "timestamp": "2026-08-26T16:57:41.418566725Z",
+  "timestamp": "2026-08-26T18:20:36.028172883Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 45,
-  "translation": "Ti mega ti bapak-bapak anjeun, anak-anak anjeun jadi pangganti; anjeun baris nempatkeun aranjeunna jadi pangéran di sadayana ⟨את⟩ lemah — catet: di sakuliah bumi.",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:31:44.741433538Z",
+  "translation": "Tina tempat bapak-bapak anjeun putra-putra anjeun ⟨mantun⟩ aya; anje ngajadikeun aranjeuna pangawasa di saalam <ieu> bumi.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "tina tempat"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bapak-bapak anjeun"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨mantun⟩ aya"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "putra-putra anjeun"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "anje ngajadikeun aranjeuna"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "pangawasa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di saalam"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-26T19:06:14.580690712Z",
   "model": "glm-5.3"
 }

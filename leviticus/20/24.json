@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 20,
-  "translation": "Tapi Abdi nyarita ka aranjeun: aranjeun baris nempatan ⟨את⟩ taneuh maranéhna, jeung Abdi méré éta ka aranjeun pikeun dipimilik — tanah nu ngocoran susu jeung madu; Abdi ⟨is⟩ Yahwe, Elohim aranjeun, nu geus misahkeun aranjeun tina ⟨the⟩ bangsa-bangsa.",
+  "translation": "Jeung kuring ngomong ka aranjeun: aranjeun bakal ngarogaan ⟨את⟩ taneuh maranehna, jeung kuring méré ⟨i⟩ ka aranjeun pikeun dipimilik, ⟨את⟩-ieu tanah nu ngocorkeun susu jeung madu; kuring Yahwe, Elohim aranjeun, nu misahkeun aranjeun tina ⟨i⟩ bangsa-bangsa.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "tapi-Abdi-nyarita"
+      "gloss": "jeung kuring ngomong"
     },
     {
       "surface": "לכם",
-      "gloss": "ka-aranjeun"
+      "gloss": "ka aranjeun"
     },
     {
       "surface": "אתם",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "תירשו",
-      "gloss": "baris-nempatan"
+      "gloss": "bakal ngarogaan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taneuh maranéhna"
+      "marks": "taneuh maranehna"
     },
     {
       "surface": "אדמתם",
-      "gloss": "taneuh-maranehna"
+      "gloss": "taneuh maranehna"
     },
     {
       "surface": "ואני",
-      "gloss": "jeung-Abdi"
+      "gloss": "jeung kuring"
     },
     {
       "surface": "אתננה",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "לכם",
-      "gloss": "ka-aranjeun"
+      "gloss": "ka aranjeun"
     },
     {
       "surface": "לרשת",
-      "gloss": "pikeun-dipimilik"
+      "gloss": "pikeun dipimilik"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "éta (tanah)"
+      "marks": "ieu tanah"
     },
     {
       "surface": "ארץ",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "ngocoran"
+      "gloss": "nu ngocorkeun"
     },
     {
       "surface": "חלב",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "ודבש",
-      "gloss": "jeung-madu"
+      "gloss": "jeung madu"
     },
     {
       "surface": "אני",
-      "gloss": "Abdi"
+      "gloss": "kuring"
     },
     {
       "surface": "יהוה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim-aranjeun"
+      "gloss": "Elohim aranjeun"
     },
     {
       "surface": "אשר",
@@ -87,12 +87,11 @@
     },
     {
       "surface": "הבדלתי",
-      "gloss": "geus-misahkeun"
+      "gloss": "misahkeun"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "aranjeun"
+      "gloss": "⟨את⟩ aranjeun"
     },
     {
       "surface": "מן",
@@ -103,6 +102,6 @@
       "gloss": "bangsa-bangsa"
     }
   ],
-  "timestamp": "2026-08-26T11:19:52.448149083Z",
+  "timestamp": "2026-08-26T18:54:25.291218747Z",
   "model": "glm-5.3"
 }

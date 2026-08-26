@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "su",
   "chapter": 29,
-  "translation": "Jeung anjeunna nyarita ka maranehna: Reungeus ku abdi, hai Lewi; ayeuna sakuduna anjeun suci sarta sucikeun ⟨את⟩ imah Yahwe, Elohim karuhun anjeun, sarta kaluarkeun ⟨את⟩ nu kaoléskeun tina ⟨the⟩ tempat suci.",
+  "translation": "Jeung anjeunna ngomong ka maranehna: Sing aheng ka abdi, hai Lalévi; ayeuna sangsakeun diri aranjeun, jeung sangsakeun ⟨את⟩ imah Yahwe, Elohim karuhun aranjeun, jeung kaluarkan ⟨את⟩ nu teu murni tina tempat suci.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jeung nyarita"
+      "gloss": "Jeung anjeunna ngomong"
     },
     {
       "surface": "להם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שמעוני",
-      "gloss": "reungeus ku abdi"
+      "gloss": "Sing aheng ka abdi"
     },
     {
       "surface": "הלוים",
-      "gloss": "hai Lewi"
+      "gloss": "hai Lalévi"
     },
     {
       "surface": "עתה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "התקדשו",
-      "gloss": "sakuduna anjeun suci"
+      "gloss": "sangsakeun diri aranjeun"
     },
     {
       "surface": "וקדשו",
-      "gloss": "sarta sucikeun"
+      "gloss": "jeung sangsakeun"
     },
     {
       "surface": "את",
@@ -54,20 +54,20 @@
     },
     {
       "surface": "אבתיכם",
-      "gloss": "karuhun anjeun"
+      "gloss": "karuhun aranjeun"
     },
     {
       "surface": "והוציאו",
-      "gloss": "sarta kaluarkeun"
+      "gloss": "jeung kaluarkan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nu kaoléskeun"
+      "marks": "nu teu murni"
     },
     {
       "surface": "הנדה",
-      "gloss": "nu kaoléskeun"
+      "gloss": "nu teu murni"
     },
     {
       "surface": "מן",
@@ -78,6 +78,6 @@
       "gloss": "tempat suci"
     }
   ],
-  "timestamp": "2026-08-26T16:29:53.937284438Z",
+  "timestamp": "2026-08-26T18:38:45.422422939Z",
   "model": "glm-5.3"
 }

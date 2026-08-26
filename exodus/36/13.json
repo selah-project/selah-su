@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 36,
-  "translation": "Jeung anjeunna nyieun lima puluh kukupu emas, jeung anjeunna nyambungkeun ⟨את⟩ lain-lain kain héja ⟨the⟩ hiji ka hiji ku kukupu-kukupu, jadi ⟨is⟩ ⟨the⟩ kemah ngahiji.",
+  "translation": "Jeung manéhna nyieun lima puluh kanchana emas, sarta manéhna nyambungkeun ⟨את⟩ kelambu-kelambu eta, hiji ka hiji, ku kanchana; jadi kemah eta jadi hiji.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "anjeunna nyieun"
+      "gloss": "jeung manéhna nyieun"
     },
     {
       "surface": "חמשים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "קרסי",
-      "gloss": "kukupu"
+      "gloss": "kanchana"
     },
     {
       "surface": "זהב",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ויחבר",
-      "gloss": "anjeunna nyambungkeun"
+      "gloss": "sarta manéhna nyambungkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lain-lain kain héja"
+      "marks": "kelambu-kelambu eta"
     },
     {
-      "surface": "היריעת",
-      "gloss": "lain-lain kain héja"
+      "surface": "הירעת",
+      "gloss": "kelambu-kelambu eta"
     },
     {
       "surface": "אחת",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בקרסים",
-      "gloss": "ku kukupu-kukupu"
+      "gloss": "ku kanchana"
     },
     {
       "surface": "ויהי",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "kemah"
+      "gloss": "kemah eta"
     },
     {
       "surface": "אחד",
-      "gloss": "ngahiji"
+      "gloss": "hiji"
     }
   ],
-  "timestamp": "2026-08-26T11:09:57.595300896Z",
+  "timestamp": "2026-08-26T19:00:35.830403335Z",
   "model": "glm-5.3"
 }

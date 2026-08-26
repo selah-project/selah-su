@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 2,
-  "translation": "Saperti nu dipigawé keur putra-putra Esav nu cicing di Seir, nalika ⟨⟨ה⟩⟩ ngamusnahkeun ⟨את⟩ bangsa Hori ti payuneunana, sarta aranjeunna ngarebut nagrina sarta cicing dina tempatna nepi ka poé ieu.",
+  "translation": "Saperti nu dipigawé pikeun putra-putra Esav, nu dumuk di Seir, sabot manéhna ngancurkeun ⟨את⟩ kaom Hori ti payuneunana; sarta maranéhna ngarogih maranéhna sarta dumuk di tempatna nepi ka poé ieu.",
   "tokens": [
     {
       "surface": "כאשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "keur putra-putra"
+      "gloss": "pikeun putra-putra"
     },
     {
       "surface": "עשו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הישבים",
-      "gloss": "nu cicing"
+      "gloss": "nu dumuk"
     },
     {
       "surface": "בשעיר",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nalika"
+      "gloss": "sabot"
     },
     {
       "surface": "השמיד",
-      "gloss": "ngamusnahkeun"
+      "gloss": "ngancurkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bangsa Hori"
+      "marks": "kaom Hori"
     },
     {
       "surface": "החרי",
-      "gloss": "bangsa Hori"
+      "gloss": "kaom Hori"
     },
     {
       "surface": "מפניהם",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "ויירשם",
-      "gloss": "sarta aranjeunna ngarebut nagrina"
+      "gloss": "sarta ngarogih maranéhna"
     },
     {
       "surface": "וישבו",
-      "gloss": "sarta aranjeunna cicing"
+      "gloss": "sarta dumuk"
     },
     {
       "surface": "תחתם",
-      "gloss": "dina tempatna"
+      "gloss": "di tempatna"
     },
     {
       "surface": "עד",
@@ -77,6 +77,6 @@
       "gloss": "ieu"
     }
   ],
-  "timestamp": "2026-08-26T11:38:49.015620754Z",
+  "timestamp": "2026-08-26T19:01:51.049953568Z",
   "model": "glm-5.3"
 }

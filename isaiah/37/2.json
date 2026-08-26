@@ -5,8 +5,88 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 37,
-  "translation": "Sarta anjeunna ngirim ⟨את⟩ Elyakim nu ⟨⟨ménagement⟩⟩ lucu ta ✗ — kacilaka—",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:11:26.721355556Z",
+  "translation": "Lajeng anjeunna ngintunkeun ⟨את⟩ Elyakim nu (mageuhan) luhureun ⟨the⟩ imah, jeung ⟨את⟩ Shevna juru-tulis, jeung ⟨את⟩ para sesepuh imam, aranjeunna malikut kain karung, ka Yeshayahu putra Amots, sang nabi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngintunkeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "על",
+      "gloss": "luhureun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Shevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "juru-tulis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "para sesepuh imam"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "malikut"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "kain karung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    }
+  ],
+  "timestamp": "2026-08-26T19:04:32.884210755Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "su",
   "chapter": 4,
-  "translation": "Sadaya abdi ⟨the⟩ raja jeung batur-batur wewengkon raja terang yen saha waé lalaki atawa awéwé nu asup ka raja, ka pelataran jero nu teu dipuletan, aya hukum hiji ti pihaknaana sangkan dipaéhan, iwal ti batur nu dipajangkeunana raja ⟨את⟩ tungkat emas, sangkan hirup; ari abdi mah teu dipuletan asup ka raja, ieu geus tilu puluh poé.",
+  "translation": "Sadaya abdi raja jeung rakyat propinsi-propinsi raja nyaho yén saha waé, lalaki atawa awéwé, nu asup ka raja ka pangbina jero nu teu dip dating — hiji hukum-na pikeun maéhan, iwal ti nu dipasihan raja ngajangkungkeun ⟨את⟩ tongkat emas, jeung ⟨ieu⟩ hirup; sedengkeun kuring teu dip dating asup ka raja ieu tilu puluh poé.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "abdi"
+      "gloss": "abdi-abdi"
     },
     {
       "surface": "המלך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ועם",
-      "gloss": "jeung batur-batur"
+      "gloss": "jeung rakyat"
     },
     {
       "surface": "מדינות",
-      "gloss": "wewengkon"
+      "gloss": "propinsi-propinsi"
     },
     {
       "surface": "המלך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יודעים",
-      "gloss": "terang"
+      "gloss": "nyaho"
     },
     {
       "surface": "אשר",
-      "gloss": "yen"
+      "gloss": "yén"
     },
     {
       "surface": "כל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ואשה",
-      "gloss": "atawa awéwé"
+      "gloss": "jeung awéwé"
     },
     {
       "surface": "אשר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "pelataran"
+      "gloss": "pangbina"
     },
     {
       "surface": "הפנימית",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "יקרא",
-      "gloss": "dipuletan"
+      "gloss": "dip dating"
     },
     {
       "surface": "אחת",
@@ -97,23 +97,23 @@
     },
     {
       "surface": "דתו",
-      "gloss": "hukum"
+      "gloss": "hukum-na"
     },
     {
       "surface": "להמית",
-      "gloss": "sangkan dipaéhan"
+      "gloss": "pikeun maéhan"
     },
     {
       "surface": "לבד",
-      "gloss": "iwal"
+      "gloss": "ukur"
     },
     {
       "surface": "מאשר",
-      "gloss": "ti"
+      "gloss": "iwal ti nu"
     },
     {
       "surface": "יושיט",
-      "gloss": "dipajangkeun"
+      "gloss": "ngajangkungkeun"
     },
     {
       "surface": "לו",
@@ -126,11 +126,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tungkat emas"
+      "marks": "tongkat emas"
     },
     {
       "surface": "שרביט",
-      "gloss": "tungkat"
+      "gloss": "tongkat"
     },
     {
       "surface": "הזהב",
@@ -138,11 +138,11 @@
     },
     {
       "surface": "וחיה",
-      "gloss": "sangkan hirup"
+      "gloss": "jeung hirup"
     },
     {
       "surface": "ואני",
-      "gloss": "ari abdi mah"
+      "gloss": "sedengkeun kuring"
     },
     {
       "surface": "לא",
@@ -150,7 +150,7 @@
     },
     {
       "surface": "נקראתי",
-      "gloss": "dipuletan"
+      "gloss": "dip dating"
     },
     {
       "surface": "לבוא",
@@ -177,6 +177,6 @@
       "gloss": "poé"
     }
   ],
-  "timestamp": "2026-08-26T15:37:48.778512971Z",
+  "timestamp": "2026-08-26T18:50:20.896651859Z",
   "model": "glm-5.3"
 }

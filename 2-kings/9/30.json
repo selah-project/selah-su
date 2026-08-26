@@ -5,11 +5,43 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 9,
-  "translation": "Tuluy Yehu asup ka Yizreel, sarta Izebel ngadéngé éta, lajeng manehna ngagunakeun paksá panon, mariksa sirahna, teras nénjo kaluar ngaliwatan jandéla.",
+  "translation": "Laju Yehu asup ka Yizreel, sarta Izebel ngadéngé hal éta, tuluy nyieunan panonna ku celak, meresikeun sirahna, laju ngintip ti tukangeun jandéla.",
   "tokens": [
     {
+      "surface": "ויבוא",
+      "gloss": "laju asup"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "ka Yizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "sarta Izebel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ngadéngé"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "lalu nyieunan"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "ku celak"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "panonna"
+    },
+    {
       "surface": "ותיטב",
-      "gloss": "mariksa"
+      "gloss": "meresikeun"
     },
     {
       "surface": "את",
@@ -17,18 +49,22 @@
       "marks": "sirahna"
     },
     {
+      "surface": "ראשה",
+      "gloss": "sirahna"
+    },
+    {
       "surface": "ותשקף",
-      "gloss": "nénjo kaluar"
+      "gloss": "ngintip"
     },
     {
       "surface": "בעד",
-      "gloss": "ngaliwatan"
+      "gloss": "ti tukangeun"
     },
     {
       "surface": "החלון",
       "gloss": "jandéla"
     }
   ],
-  "timestamp": "2026-08-26T16:57:22.323040568Z",
+  "timestamp": "2026-08-26T18:21:15.961251620Z",
   "model": "glm-5.3"
 }

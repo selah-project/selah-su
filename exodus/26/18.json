@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 26,
-  "translation": "Jeung anjeun ngalakonan ⟨את⟩ ⟨the⟩ papan-papan keur ⟨the⟩ kemah: dua puluh papan ka sisi beulah kidul, arah kidul.",
+  "translation": "Jeung ku anjeun dipieun ⟨את⟩ ⟨the⟩ papan-papan pikeun ⟨the⟩ Kemah: dua puluh papan ka sisi beulah kidul, ka beulah tengah-daya.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "jeung anjeun ngalakonan"
+      "gloss": "jeung ku anjeun dipieun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ papan-papan"
+      "marks": "papan-papan (the boards)"
     },
     {
       "surface": "הקרשים",
-      "gloss": "⟨the⟩ papan-papan"
+      "gloss": "papan-papan"
     },
     {
       "surface": "למשכן",
-      "gloss": "keur ⟨the⟩ kemah"
+      "gloss": "pikeun Kemah"
     },
     {
       "surface": "עשרים",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "תימנה",
-      "gloss": "arah kidul"
+      "gloss": "ka beulah tengah-daya"
     }
   ],
-  "timestamp": "2026-08-26T11:05:24.788848261Z",
+  "timestamp": "2026-08-26T19:00:58.226389781Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "su",
   "chapter": 18,
-  "translation": "Jeung raja Israél nyarita: Candak Mikhayahu, mulangkeunana ka Amon, pangulu ⟨⟨the⟩⟩ kota, jeung ka Yoas, putra raja.",
+  "translation": "Jeung raja Israél nyarita: Candak ⟨את⟩ Mikhayahu, terus balikkeun manéhna ka Amon, pangawasa ⟨the⟩ kota, sarta ka Yoas, putra raja.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jeung nyarita"
+      "gloss": "Jeung nyarita"
     },
     {
       "surface": "מלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "קחו",
-      "gloss": "candak"
+      "gloss": "Candak"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והשיבהו",
-      "gloss": "mulangkeunana"
+      "gloss": "terus balikkeun manéhna"
     },
     {
       "surface": "אל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "שר",
-      "gloss": "pangulu"
+      "gloss": "pangawasa"
     },
     {
       "surface": "העיר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "jeung ka"
+      "gloss": "sarta ka"
     },
     {
       "surface": "יואש",
@@ -69,6 +69,6 @@
       "gloss": "raja"
     }
   ],
-  "timestamp": "2026-08-26T17:26:46.471737243Z",
+  "timestamp": "2026-08-26T19:07:11.799078123Z",
   "model": "glm-5.3"
 }

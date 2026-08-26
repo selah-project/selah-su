@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 52,
-  "translation": "Jeung tina ⟨the⟩ kota manéhna ngala hiji kasim nu jadi pangawasa lalakian perang, jeung tujuh lalakian ti nu ngawaskeun raray raja, nu kapanggih di kota; jeung ⟨את⟩ juru tulis panglima balad, nu ngagero balaraga; jeung genep puluh lalakian ti balaraga, nu kapanggih di tengah-tengah kota.",
+  "translation": "Jeung ti ⟨the⟩ kota manéhna nyandak saurang sapisan (eunuch) nu jadi pangawasan luhur jalma-jalma perang, jeung tujuh jalma tina nu mikawanoh wajah raja, nu kapanggih di kota, jeung ⟨את⟩ juru tulis, panglima tangtara nu ngadalangkeun ⟨את⟩ umat ⟨the⟩ taneuh, jeung genep puluh jalma tina umat ⟨the⟩ taneuh nu kapanggih di tengah-tengah ⟨the⟩ kota.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "jeung tina"
+      "gloss": "jeung ti"
     },
     {
       "surface": "העיר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "לקח",
-      "gloss": "ngala"
+      "gloss": "nyandak"
     },
     {
       "surface": "סריס",
-      "gloss": "kasim"
+      "gloss": "sapisan"
     },
     {
       "surface": "אחד",
-      "gloss": "hiji"
+      "gloss": "saurang"
     },
     {
       "surface": "אשר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "פקיד",
-      "gloss": "pangawasa"
+      "gloss": "pangawasan"
     },
     {
       "surface": "על",
-      "gloss": "lumuhur"
+      "gloss": "luhur"
     },
     {
       "surface": "אנשי",
-      "gloss": "lalakian"
+      "gloss": "jalma-jalma"
     },
     {
       "surface": "המלחמה",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "lalakian"
+      "gloss": "jalma"
     },
     {
       "surface": "מראי",
-      "gloss": "ti nu ngawaskeun"
+      "gloss": "nu mikawanoh"
     },
     {
       "surface": "פני",
-      "gloss": "raray"
+      "gloss": "wajah"
     },
     {
       "surface": "המלך",
@@ -86,7 +86,7 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "juru tulis panglima balad"
+      "marks": "juru tulis"
     },
     {
       "surface": "ספר",
@@ -98,24 +98,24 @@
     },
     {
       "surface": "הצבא",
-      "gloss": "balad"
+      "gloss": "tangtara"
     },
     {
       "surface": "המצבא",
-      "gloss": "nu ngagero"
+      "gloss": "nu ngadalangkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "balaraga"
+      "marks": "umat"
     },
     {
       "surface": "עם",
-      "gloss": "balaraga"
+      "gloss": "umat"
     },
     {
       "surface": "הארץ",
-      "gloss": "nagara"
+      "gloss": "taneuh"
     },
     {
       "surface": "וששים",
@@ -123,15 +123,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "lalakian"
+      "gloss": "jalma"
     },
     {
       "surface": "מעם",
-      "gloss": "ti balaraga"
+      "gloss": "tina umat"
     },
     {
       "surface": "הארץ",
-      "gloss": "nagara"
+      "gloss": "taneuh"
     },
     {
       "surface": "הנמצאים",
@@ -146,6 +146,6 @@
       "gloss": "kota"
     }
   ],
-  "timestamp": "2026-08-26T13:43:52.856706439Z",
+  "timestamp": "2026-08-26T19:04:48.390285988Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "su",
   "chapter": 3,
-  "translation": "Tuluy Ehud manjangkeun ⟨את⟩ leungeun kenca-na, lajeng nyandak ⟨את⟩ ⟨the⟩ pedang ti luhur pingping katuhu-na, lajeng ngatojos-na kana beuteung-na.",
+  "translation": "Ehud ngalungkeun ⟨את⟩ leungeun kénca, sarta nyandak ⟨את⟩ pedang ti luhur pingping katuhu, sarta nocokatkeunana kana beuteungna.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "manjangkeun"
+      "gloss": "ngalungkeun"
     },
     {
       "surface": "אהוד",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "leungeun"
+      "marks": "leungeun kénca"
     },
     {
       "surface": "יד",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "שמאלו",
-      "gloss": "kenca-na"
+      "gloss": "kénca"
     },
     {
       "surface": "ויקח",
-      "gloss": "nyandak"
+      "gloss": "sarta nyandak"
     },
     {
       "surface": "את",
@@ -51,17 +51,17 @@
     },
     {
       "surface": "ימינו",
-      "gloss": "katuhu-na"
+      "gloss": "katuhu"
     },
     {
       "surface": "ויתקעה",
-      "gloss": "ngatojos-na"
+      "gloss": "sarta nocokatkeunana"
     },
     {
       "surface": "בבטנו",
-      "gloss": "kana beuteung-na"
+      "gloss": "kana beuteungna"
     }
   ],
-  "timestamp": "2026-08-26T12:02:55.445086080Z",
+  "timestamp": "2026-08-26T18:14:47.392848055Z",
   "model": "glm-5.3"
 }

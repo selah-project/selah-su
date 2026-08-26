@@ -5,8 +5,77 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 10,
-  "translation": "Ku sabab eta euweuh bagéan jeung warisan pikeun Levi babarengan jeung sadérék-sadérékna; Yahwe sorangan ⟨م Marks⟩",
-  "tokens": [],
-  "timestamp": "2026-08-26T11:42:39.251167565Z",
+  "translation": "Ku sabab éta Lévi teu boga bagian jeung warisan jeung ⟨sadérék⟩-na; Yahwe sorangan ⟨mangrupa⟩ warisanna, saperti anu diomongkeun ku Yahwe, Elohim anjeun, ka manéhna.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boga"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bagian"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "jeung warisan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jeung"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadérék-na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sorangan"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "warisan-na"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti anu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diomongkeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anjeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T19:01:52.159995194Z",
   "model": "glm-5.3"
 }

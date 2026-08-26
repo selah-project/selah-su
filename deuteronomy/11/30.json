@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 11,
-  "translation": "Naha lain eta di seberangeun Yarden, tukangeun jalan majuna panonpoé, di lemah ⟨the⟩ Kenaani nu cicing di Araba, hareupeun Gilgal, deukeut taru-taru Moreh?",
+  "translation": "Naha lain ⟨aro⟩ di seberang Yarden, tukangeun jalan katutupan panonpoé, di tanah Kenaan nu cicing di Araba, ngadapel Gilgal, deukeut ka taruh elon Moreh?",
   "tokens": [
     {
       "surface": "הלא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "המה",
-      "gloss": "eta"
+      "gloss": "aro"
     },
     {
       "surface": "בעבר",
-      "gloss": "di seberangeun"
+      "gloss": "di seberang"
     },
     {
       "surface": "הירדן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מבוא",
-      "gloss": "majuna"
+      "gloss": "katutupan"
     },
     {
       "surface": "השמש",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "di lemah"
+      "gloss": "di tanah"
     },
     {
       "surface": "הכנעני",
-      "gloss": "⟨the⟩ Kenaani"
+      "gloss": "Kenaan"
     },
     {
       "surface": "הישב",
@@ -56,8 +56,8 @@
       "gloss": "di Araba"
     },
     {
-      "surface": "מול",
-      "gloss": "hareupeun"
+      "surface": "мול",
+      "gloss": "ngadapel"
     },
     {
       "surface": "הגלגל",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "אצל",
-      "gloss": "deukeut"
+      "gloss": "deukeut ka"
     },
     {
       "surface": "אלוני",
-      "gloss": "taru-taru"
+      "gloss": "taruh elon"
     },
     {
       "surface": "מרה",
       "gloss": "Moreh"
     }
   ],
-  "timestamp": "2026-08-26T11:42:50.909338548Z",
+  "timestamp": "2026-08-26T18:11:52.147079267Z",
   "model": "glm-5.3"
 }

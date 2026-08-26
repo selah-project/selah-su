@@ -5,14 +5,69 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 13,
-  "translation": "Tuluy sakabéh Yisraham ka Pelishti pikeun ngasah, sajam-sajam ⟨את⟩ paculna jeung ⟨את⟩ catél sahali jeung ⟨את⟩ balenna jeung ⟨את⟩ asek-sahalina.",
+  "translation": "Tuluy turun sakabéh Yisrael ka urang Plistim pikeun ngasahan, tiap jelema ⟨את⟩ garput réa na, ⟨את⟩ pacul na, ⟨את⟩ kapak na, jeung ⟨את⟩ cangkul na.",
   "tokens": [
     {
-      "surface": "וירדUtils",
-      "gloss": "Tuluy...turun",
-      "note": "PLACEHOLDER"
+      "surface": "וירדו",
+      "gloss": "tuluy turun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabéh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ka urang Plistim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "pikeun ngasahan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tiap jelema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garput réa na"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "garput réa na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pacul na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pacul na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kapak na"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "kapak na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cangkul na"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "cangkul na"
     }
   ],
-  "timestamp": "2026-08-26T12:16:33.002425906Z",
+  "timestamp": "2026-08-26T18:16:43.865950027Z",
   "model": "glm-5.3"
 }

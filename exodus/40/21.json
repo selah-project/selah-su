@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 40,
-  "translation": "Jeung anjeunna mawa ⟨את⟩ ⟨the⟩ petiana kana imah-kemah, jeung nangtungkeun ⟨את⟩ tirai pangbabungbias, jeung mungkus luhureun petian kasaksian, kumaha Yahwe paréntahkeun ka ⟨את⟩ Moshe.",
+  "translation": "Lajeng mawa ⟨את⟩ petirana asup ka imah-kumpul, sarta nangtungkeun ⟨את⟩ tiré paméréh sangkan nyumputkeun tungguhan kasaksian, saperti anu diparentahkeun ku Yahwe ka ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "mawa"
+      "gloss": "lajeng mawa asup"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "petiana"
+      "marks": "petirana (ha'aron)"
     },
     {
       "surface": "הארן",
-      "gloss": "petiana"
+      "gloss": "petirana"
     },
     {
       "surface": "אל",
@@ -26,36 +26,36 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "imah-kemah"
+      "gloss": "imah-kumpul"
     },
     {
       "surface": "וישם",
-      "gloss": "nangtungkeun"
+      "gloss": "sarta nangtungkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tirai pangbabungbias"
+      "marks": "tiré paméréh (parokhet hammasakh)"
     },
     {
       "surface": "פרכת",
-      "gloss": "tirai"
+      "gloss": "tiré"
     },
     {
       "surface": "המסך",
-      "gloss": "pangbabungbias"
+      "gloss": "pamréh"
     },
     {
       "surface": "ויסך",
-      "gloss": "mungkus"
+      "gloss": "sangkan nyumputkeun"
     },
     {
       "surface": "על",
-      "gloss": "luhureun"
+      "gloss": "ka luhureun"
     },
     {
       "surface": "ארון",
-      "gloss": "petian"
+      "gloss": "tungguhan"
     },
     {
       "surface": "העדות",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kumaha"
+      "gloss": "saperti anu"
     },
     {
       "surface": "צוה",
-      "gloss": "paréntahkeun"
+      "gloss": "diparentahkeun"
     },
     {
       "surface": "יהוה",
@@ -83,6 +83,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-26T11:12:11.046197212Z",
+  "timestamp": "2026-08-26T18:06:01.804682701Z",
   "model": "glm-5.3"
 }

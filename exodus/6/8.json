@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 6,
-  "translation": "Sarta kuring mawa ⟨את⟩ aranjeunna ka ⟨the⟩ tanah nu kuring angkat ⟨את⟩ leungeun kuring pikeun méré eta ka Avraham, ka Yitsxak, jeung ka Yaakov, sarta kuring méré eta ka aranjeunna jadi warisan; kuring Yahwe.",
+  "translation": "Jeung abdi mawa aranjeun ka tanah nu diangkat abdi leungeun abdi pikeun méré ⟨את⟩ eta ka Avraham, ka Yitsxak, jeung ka Yaakov; jeung abdi méré ⟨את⟩ eta ka aranjeun jadi kagungan; abdi Yahwe.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "sarta kuring mawa"
+      "gloss": "jeung abdi mawa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aranjeunna"
+      "gloss": "⟨את⟩ aranjeun"
     },
     {
       "surface": "אל",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "kuring angkat"
+      "gloss": "diangkat abdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "leungeun kuring"
+      "marks": "leungeun abdi"
     },
     {
       "surface": "ידי",
-      "gloss": "leungeun kuring"
+      "gloss": "leungeun abdi"
     },
     {
       "surface": "לתת",
@@ -46,7 +46,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ eta"
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
     },
     {
       "surface": "לאברהם",
@@ -62,29 +63,30 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "sarta kuring méré"
+      "gloss": "jeung abdi méré"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ eta"
+      "gloss": "⟨את⟩",
+      "marks": "ka aranjeun"
     },
     {
       "surface": "לכם",
-      "gloss": "ka aranjeunna"
+      "gloss": "ka aranjeun"
     },
     {
       "surface": "מורשה",
-      "gloss": "jadi warisan"
+      "gloss": "jadi kagungan"
     },
     {
       "surface": "אני",
-      "gloss": "kuring"
+      "gloss": "abdi"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T10:55:57.711577208Z",
+  "timestamp": "2026-08-26T18:02:20.067595515Z",
   "model": "glm-5.3"
 }

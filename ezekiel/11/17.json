@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 11,
-  "translation": "Mangka偿 sahenteuna, cobilos: Kitu Pok Adonay Yahwe: Sarta abdi ngumpulkeun aranjeun ti ⟨את⟩ bangsa-bangsa, sarta abdi ngariung aranjeun ti ⟨את⟩ nagara-nagara nu aranjeun pencar di jerona, sarta abdi masihan ka aranjeun ⟨את⟩ taneuh Yisrael.",
+  "translation": "Mangka nyarita: kitu kaduga Adonay Yahwe: sarta bade ngumpulkeun aranjeun ti ⟨basar-bangsa⟩ jeung bade ngumpulkeun aranjeun ti ⟨nagara-nagara⟩ anu aranjeun pape ncir ka dinya, sarta bade méré ka aranjeun ⟨את⟩ taneuh Yisrael.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "cobilos"
+      "gloss": "nyarita"
     },
     {
       "surface": "כה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "pok"
+      "gloss": "kaduga"
     },
     {
       "surface": "אדני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "sarta-Abdi ngumpulkeun"
+      "gloss": "bade ngumpulkeun"
     },
     {
       "surface": "אתכם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ואספתי",
-      "gloss": "sarta-Abdi ngariung"
+      "gloss": "bade ngumpulkeun"
     },
     {
       "surface": "אתכם",
@@ -65,28 +65,28 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nu"
+      "gloss": "anu"
     },
     {
       "surface": "נפצותם",
-      "gloss": "aranjeun-pencar"
+      "gloss": "aranjeun pape ncir"
     },
     {
       "surface": "בהם",
-      "gloss": "di-jerona"
+      "gloss": "ka dinya"
     },
     {
       "surface": "ונתתי",
-      "gloss": "sarta-Abdi masihan"
+      "gloss": "bade méré"
     },
     {
       "surface": "לכם",
-      "gloss": "ka-aranjeun"
+      "gloss": "ka aranjeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taneuh Yisrael"
+      "marks": "taneuh"
     },
     {
       "surface": "אדמת",
@@ -97,6 +97,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-26T13:46:10.627355533Z",
+  "timestamp": "2026-08-26T18:26:58.508447856Z",
   "model": "glm-5.3"
 }

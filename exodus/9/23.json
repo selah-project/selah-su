@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 9,
-  "translation": "Teras Moshe manjangkeun ⟨את】 tongkatna ka luhur langit-langit, jeung Yahwe méré sora-sora guntur jeung és-hujan, jeung seuneu ngajugjug ka taneuh, sarta Yahwe miberkeun és-hujan ka luhur tanah Mitsrayim.",
+  "translation": "Jeung Moshe ngajangjangkeun ⟨את⟩ tungtungna ka langit-langit, sarta Yahwe méré sora guntur jeung és ngaburicsara, sarta seuneu lumampah ka ⟨saeutik⟩ lemah; sarta Yahwe nguraykeun és ngaliwatan hujan ka luhur taneuh Mitsrayim.",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "teras manjangkeun"
+      "gloss": "ngajangjangkeun"
     },
     {
       "surface": "משה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tongkatna"
+      "marks": "tungtun (tongkatna)"
     },
     {
       "surface": "מטהו",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ka luhur"
+      "gloss": "ka"
     },
     {
       "surface": "השמים",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויהוה",
-      "gloss": "jeung Yahwe"
+      "gloss": "sarta Yahwe"
     },
     {
       "surface": "נתן",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "קלת",
-      "gloss": "sora-sora guntur"
+      "gloss": "sora guntur"
     },
     {
       "surface": "וברד",
-      "gloss": "jeung és-hujan"
+      "gloss": "jeung és ngaburicsara"
     },
     {
       "surface": "ותהלך",
-      "gloss": "ngajugjug"
+      "gloss": "sarta lumampah"
     },
     {
       "surface": "אש",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "ka taneuh"
+      "gloss": "ka lemah"
     },
     {
       "surface": "וימטר",
-      "gloss": "miberkeun"
+      "gloss": "sarta nguraykeun és ngaliwatan hujan"
     },
     {
       "surface": "יהוה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ברד",
-      "gloss": "és-hujan"
+      "gloss": "és ngaburicsara"
     },
     {
       "surface": "על",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "tanah"
+      "gloss": "taneuh"
     },
     {
       "surface": "מצרים",
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-26T10:57:46.392829312Z",
+  "timestamp": "2026-08-26T18:03:24.124483197Z",
   "model": "glm-5.3"
 }

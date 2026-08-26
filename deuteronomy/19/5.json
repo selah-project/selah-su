@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 19,
-  "translation": "Jeung nu mana datang jeung ⟨את⟩ babaturana ka leuweung pikeun neukteu kai, sarta leungeunna kageser ku kapak pikeun motong ⟨the⟩ kai, teras ⟨the⟩ beusi ngaleupas tina ⟨the⟩ kai sarta narolos ⟨את⟩ babaturana jeung paéh — manhna kabur ka sahiji ti kota-kota ieu jeung hirup.",
+  "translation": "Jeung lamun aya nu asup ⟨bareng jeung⟩ ⟨את⟩ babaturana ka leuweung pikeun neungkel kai, sarta anggal leungeunana ku palanang pikeun motong ⟨kai⟩, laju éta beusi léngsér ti ⟨gagangan⟩ kai sarta kanyahoan ⟨את⟩ babaturana nepi ka paéh — manéhna nyingkah ka salah sahiji ti kota-kota ieu, jeung hirup.",
   "tokens": [
     {
       "surface": "ואשר",
-      "gloss": "jeung nu mana"
+      "gloss": "jeung lamun aya nu"
     },
     {
       "surface": "יבא",
-      "gloss": "datang"
+      "gloss": "asup"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "לחטב",
-      "gloss": "pikeun neukteu"
+      "gloss": "pikeun neungkel"
     },
     {
       "surface": "עצים",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "ונדחה",
-      "gloss": "sarta kageser"
+      "gloss": "sarta anggal"
     },
     {
       "surface": "ידו",
-      "gloss": "leungeunna"
+      "gloss": "leungeunana"
     },
     {
       "surface": "בגרזן",
-      "gloss": "ku kapak"
+      "gloss": "ku palanang"
     },
     {
       "surface": "לכרת",
@@ -54,27 +54,27 @@
     },
     {
       "surface": "העץ",
-      "gloss": "⟨the⟩ kai"
+      "gloss": "kai"
     },
     {
-      "surface": "ונשל",
-      "gloss": "teras ngaleupas"
+      "surface": "וישל ונשל",
+      "gloss": "laju léngsér"
     },
     {
-      "surface": "הברזן",
-      "gloss": "⟨the⟩ beusi"
+      "surface": "הברזל",
+      "gloss": "éta beusi"
     },
     {
       "surface": "מן",
-      "gloss": "tina"
+      "gloss": "ti"
     },
     {
       "surface": "העץ",
-      "gloss": "⟨the⟩ kai"
+      "gloss": "kai"
     },
     {
       "surface": "ומצא",
-      "gloss": "sarta narolos"
+      "gloss": "sarta kanyahoan kana"
     },
     {
       "surface": "את",
@@ -87,15 +87,15 @@
     },
     {
       "surface": "ומת",
-      "gloss": "jeung paéh"
+      "gloss": "nepi ka paéh"
     },
     {
       "surface": "הוא",
-      "gloss": "manhna"
+      "gloss": "manéhna"
     },
     {
       "surface": "ינוס",
-      "gloss": "kabur"
+      "gloss": "nyingkah"
     },
     {
       "surface": "אל",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "אחת",
-      "gloss": "sahiji"
+      "gloss": "salah sahiji"
     },
     {
       "surface": "הערים",
@@ -118,6 +118,6 @@
       "gloss": "jeung hirup"
     }
   ],
-  "timestamp": "2026-08-26T11:47:27.149256032Z",
+  "timestamp": "2026-08-26T18:13:10.733889910Z",
   "model": "glm-5.3"
 }

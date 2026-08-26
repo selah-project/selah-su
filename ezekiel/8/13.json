@@ -5,8 +5,49 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 8,
-  "translation": "Jeung манна nyarita ka abdi: pajeut deui, anjeun bakal nempo kacacaran nu leuwih gedé nu maranéhna pigawé.",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:45:35.606281570Z",
+  "translation": "Jeung anjeunna ngomong ka abdi: Balik deui anjeun, anjeu nempo kajadian-kajadian najis nu GREAT deui, nu maranehna pigawé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung anjeunna ngomong"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "Balik anjeun"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "anjeu nempo"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "kajadian-kajadian najis"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "GREAT"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "pigawé"
+    }
+  ],
+  "timestamp": "2026-08-26T18:27:18.722525278Z",
   "model": "glm-5.3"
 }

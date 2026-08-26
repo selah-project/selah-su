@@ -5,27 +5,28 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 17,
-  "translation": "Jeung anjeunna nyandak tina bibit karajaan, nyieun jeung ⟨את⟩ manehna perjangjian, mawa manehna kana sumpah, jeung ⟨את⟩ para pajasa ti ⟨the⟩ bumina dicekel.",
+  "translation": "Jeung anjeunna nyandak tina bikas kulawarga karajaan, sarta nyieun jeung ⟨את⟩ manéhna perjangjian, sarta mawa ⟨את⟩ manéhna kana sumpah, jeung ⟨את⟩ para inchtanna nagara dipiceun",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "jeung anjeunna nyandak"
+      "gloss": "jeung nyandak"
     },
     {
       "surface": "מזרע",
-      "gloss": "tina bibit"
+      "gloss": "tina bikas"
     },
     {
       "surface": "המלוכה",
-      "gloss": "karajaan"
+      "gloss": "kulawarga karajaan"
     },
     {
       "surface": "ויכרת",
-      "gloss": "nyieun"
+      "gloss": "jeung nyieun"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jeung manehna"
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "manéhna"
     },
     {
       "surface": "ברית",
@@ -33,12 +34,12 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "mawa"
+      "gloss": "jeung mawa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "manehna"
+      "gloss": "⟨את⟩ manéhna",
+      "marks": "kana sumpah"
     },
     {
       "surface": "באלה",
@@ -47,21 +48,21 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "para pajasa ti bumina"
+      "marks": "para inchtanna nagara"
     },
     {
       "surface": "אילי",
-      "gloss": "para pajasa"
+      "gloss": "para inchtanna"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "nagara"
     },
     {
       "surface": "לקח",
-      "gloss": "dicekel"
+      "gloss": "dipiceun"
     }
   ],
-  "timestamp": "2026-08-26T13:48:15.884120639Z",
+  "timestamp": "2026-08-26T18:40:59.274743426Z",
   "model": "glm-5.3"
 }

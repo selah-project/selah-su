@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 22,
-  "translation": "Punten, bangsa nu kaluar ti Mesir geus nutupan panon ⟨את⟩ taneuh; ayeuna sumpahkeun ka abdi ⟨את⟩ manéhna, taya-langlang-abdi bisa perang ngalawanana sarta ngusir manéhna.",
+  "translation": "Tempo, bangsa nu kaluar ti Mitsrayim geus nutupan panon ⟨the⟩ bumi; ayeuna sumping, kutukkeun ⟨את⟩-na pikeun abdi; barangkali abdi tiasa perang ngalawan maranéhna sarta ngusir aranjeunna.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "punten"
+      "gloss": "Tempo"
     },
     {
       "surface": "העם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "ti Mesir"
+      "gloss": "ti Mitsrayim"
     },
     {
       "surface": "ויכס",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "panon taneuh"
+      "marks": "panon bumi"
     },
     {
       "surface": "עין",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "taneuh"
+      "gloss": "bumi"
     },
     {
       "surface": "עתה",
@@ -46,22 +46,42 @@
     },
     {
       "surface": "לכה",
-      "gloss": "sumpahkeun (tihang: sumpah)"
+      "gloss": "sumping"
     },
     {
       "surface": "קבה",
-      "gloss": "nganjang-sumpah (qabah)"
+      "gloss": "kutukkeun"
     },
     {
       "surface": "לי",
-      "gloss": "ka abdi"
+      "gloss": "pikeun abdi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "manéhna (bangsa)"
+      "gloss": "⟨את⟩-na",
+      "marks": "bangsa éta"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "barangkali"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "abdi tiasa"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngalawan maranéhna"
+    },
+    {
+      "surface": "וגרשתיו",
+      "gloss": "sarta ngusir aranjeunna"
     }
   ],
-  "timestamp": "2026-08-26T11:31:59.891160995Z",
+  "timestamp": "2026-08-26T19:01:37.610315616Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 14,
-  "translation": "Sheol ti handap ngageter pikeun anjeun, nyanghareup datangna anjeun; ngahudangkeun pikeun anjeun ⟨את⟩ ji-ji Rephaim, sadaya nu kawas embé jalu pinareup tina bumi; ngadegkeun tina singgasanaanna sadaya raja-raja bangsa-bangsa.",
+  "translation": "Sheol ti handap ngageter pikeun anjeun, sumping nyanghareup kadatangan anjeun; ngabangkitkeun pikeun anjeun para Rafa'im, sadaya pamingpin-pamingpin bumi; ngadegkeun tina tahtana sadaya raja-raja bangsa-bangsa.",
   "tokens": [
     {
       "surface": "שאול",
@@ -29,24 +29,19 @@
     },
     {
       "surface": "בואך",
-      "gloss": "datangna anjeun"
+      "gloss": "kadatangan anjeun"
     },
     {
       "surface": "עורר",
-      "gloss": "ngahudangkeun"
+      "gloss": "ngabangkitkeun"
     },
     {
       "surface": "לך",
       "gloss": "pikeun anjeun"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ji-ji Rephaim"
-    },
-    {
       "surface": "רפאים",
-      "gloss": "ji-ji Rephaim"
+      "gloss": "para Rafa'im"
     },
     {
       "surface": "כל",
@@ -54,7 +49,7 @@
     },
     {
       "surface": "עתודי",
-      "gloss": "nu kawas embé jalu pinareup"
+      "gloss": "pamingpin-pamingpin"
     },
     {
       "surface": "ארץ",
@@ -66,7 +61,7 @@
     },
     {
       "surface": "מכסאותם",
-      "gloss": "tina singgasanaanna"
+      "gloss": "tina tahtana"
     },
     {
       "surface": "כל",
@@ -81,6 +76,6 @@
       "gloss": "bangsa-bangsa"
     }
   ],
-  "timestamp": "2026-08-26T13:05:14.199937670Z",
+  "timestamp": "2026-08-26T18:22:48.144947325Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 7,
-  "translation": "Sabab Yahwe Elohim anjeun bakal mawa anjeun ka ⟨the⟩ tanah nu anjeun datang ka dinya pikeun ngawasaanana, sarta ⟨Ia⟩ mésérkeun bangsa-bangsa loba ti payun anjeun: ⟨the⟩ Khiti, jeung ⟨the⟩ Girgasyi, jeung ⟨the⟩ Emori, jeung ⟨the⟩ Kenaani, jeung ⟨the⟩ Perizi, jeung ⟨the⟩ Khiwi, jeung ⟨the⟩ Yevusi — tujuh bangsa, loba jeung kawasa leuwih ti anjeun.",
+  "translation": "Mun Yahwe, Elohim anjeun, mawa anjeun ka ⟨the⟩ tanah nu anjeun datang ka dinya pikeun ngawasaanana, sarta ngusir bangsa-bangsa loba ti payuneun — ⟨the⟩ Hiti, jeung ⟨the⟩ Girgasi, jeung ⟨the⟩ Emori, jeung ⟨the⟩ Kenaani, jeung ⟨the⟩ Perizi, jeung ⟨the⟩ Hiwi, jeung ⟨the⟩ Yebusi — tujuh bangsa, loba jeung kawasa leuwih ti anjeun,",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sabab"
+      "gloss": "Mun"
     },
     {
       "surface": "יביאך",
-      "gloss": "bakal mawa anjeun"
+      "gloss": "mawa anjeun"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
+      "gloss": "⟨the⟩ tanah"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ונשל",
-      "gloss": "sarta mésérkeun"
+      "gloss": "sarta ngusir"
     },
     {
       "surface": "גוים",
@@ -65,35 +65,35 @@
     },
     {
       "surface": "מפניך",
-      "gloss": "ti payun anjeun"
+      "gloss": "ti payuneun anjeun"
     },
     {
       "surface": "החתי",
-      "gloss": "Khiti"
+      "gloss": "⟨the⟩ Hiti"
     },
     {
       "surface": "והגרגשי",
-      "gloss": "jeung Girgasyi"
+      "gloss": "jeung ⟨the⟩ Girgasi"
     },
     {
       "surface": "והאמרי",
-      "gloss": "jeung Emori"
+      "gloss": "jeung ⟨the⟩ Emori"
     },
     {
       "surface": "והכנעני",
-      "gloss": "jeung Kenaani"
+      "gloss": "jeung ⟨the⟩ Kenaani"
     },
     {
       "surface": "והפרזי",
-      "gloss": "jeung Perizi"
+      "gloss": "jeung ⟨the⟩ Perizi"
     },
     {
       "surface": "והחוי",
-      "gloss": "jeung Khiwi"
+      "gloss": "jeung ⟨the⟩ Hiwi"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "jeung Yevusi"
+      "gloss": "jeung ⟨the⟩ Yebusi"
     },
     {
       "surface": "שבעה",
@@ -116,6 +116,6 @@
       "gloss": "leuwih ti anjeun"
     }
   ],
-  "timestamp": "2026-08-26T11:41:15.190101920Z",
+  "timestamp": "2026-08-26T19:01:57.629539497Z",
   "model": "glm-5.3"
 }

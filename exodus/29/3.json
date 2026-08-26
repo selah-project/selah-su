@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 29,
-  "translation": "Jeung anjeun bakal nempatkeunana kana hiji kranjang, sarta anjeun bakal mawa éta deukeut dina kranjang éta, jeung ⟨את⟩ ⟨the⟩ sapi jalu jeung ⟨את⟩ dua domba jalu.",
+  "translation": "Jeung anjeun bakal nempatkeun ⟨את⟩ maranéhna kana hiji bakul, jeung anjeun bakal mawa ⟨את⟩ maranéhna dina bakul éta, jeung ⟨את⟩ lembu jalu éta jeung ⟨את⟩ dua domba jalu éta.",
   "tokens": [
     {
       "surface": "ונתת",
@@ -13,15 +13,16 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ana"
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
     },
     {
       "surface": "על",
-      "gloss": "kana"
+      "gloss": "ka"
     },
     {
       "surface": "סל",
-      "gloss": "kranjang"
+      "gloss": "bakul"
     },
     {
       "surface": "אחד",
@@ -29,30 +30,30 @@
     },
     {
       "surface": "והקרבת",
-      "gloss": "sarta anjeun bakal mawa deukeut"
+      "gloss": "jeung anjeun bakal mawa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "dina kranjang"
+      "marks": "maranéhna"
     },
     {
       "surface": "בסל",
-      "gloss": "dina kranjang"
+      "gloss": "dina bakul"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "sapi jalu"
+      "marks": "lembu jalu éta"
     },
     {
       "surface": "הפר",
-      "gloss": "sapi jalu"
+      "gloss": "lembu jalu éta"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "dua domba jalu"
+      "marks": "dua domba jalu éta"
     },
     {
       "surface": "שני",
@@ -60,9 +61,9 @@
     },
     {
       "surface": "האילם",
-      "gloss": "domba jalu"
+      "gloss": "domba jalu éta"
     }
   ],
-  "timestamp": "2026-08-26T16:40:33.215004981Z",
+  "timestamp": "2026-08-26T18:04:03.157190916Z",
   "model": "glm-5.3"
 }

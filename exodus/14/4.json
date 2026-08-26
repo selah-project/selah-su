@@ -5,15 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 14,
-  "translation": "Jeung ⟨את⟩ abdi bakal nguatkeun ⟨את} haté Paraoh, sangkan manehna ngudag maranéhna; jeung abdi bakal dipikabunga-bunga di Paraoh jeung di sakancana balad-na, sahingga Mesir apal yén abdi ieu Yahwe.\" Jeung maranéhna ngalaksanakeun kitu.",
+  "translation": "Jeung abdi bakal ngaheseukeun ⟨את⟩ haté Paroh, sarta anjeunna bakal ngudag maranéhna; jeung abdi bakal dimulyakeun ku alatan Paroh jeung sagala pasukanana, supaya Mesir terang yén abdi téh Yahwe; sarta maranéhna ngalaksanakeunana kitu.",
   "tokens": [
     {
-      "surface": "וידבר",
-      "gloss": ""
-    },
-    {
       "surface": "וחזקתי",
-      "gloss": "⟨את⟩ abdi bakal nguatkeun"
+      "gloss": "jeung abdi bakal ngaheseukeun"
     },
     {
       "surface": "את",
@@ -26,35 +22,35 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Parao"
+      "gloss": "Paroh"
     },
     {
       "surface": "ורדף",
-      "gloss": "ngudag"
+      "gloss": "sarta anjeunna bakal ngudag"
     },
     {
       "surface": "אחריהם",
-      "gloss": "maranéhna"
+      "gloss": "sanggeus maranéhna"
     },
     {
       "surface": "ואכבדה",
-      "gloss": "dipikabunga-bunga"
+      "gloss": "jeung abdi bakal dimulyakeun"
     },
     {
       "surface": "בפרעה",
-      "gloss": "di Parao"
+      "gloss": "ku alatan Paroh"
     },
     {
       "surface": "ובכל",
-      "gloss": "jeung di sakancana"
+      "gloss": "jeung sagala"
     },
     {
       "surface": "חילו",
-      "gloss": "balad-na"
+      "gloss": "pasukanana"
     },
     {
       "surface": "וידעו",
-      "gloss": "apal"
+      "gloss": "supaya ... terang"
     },
     {
       "surface": "מצרים",
@@ -66,7 +62,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "abdi ieu"
+      "gloss": "abdi"
     },
     {
       "surface": "יהוה",
@@ -74,13 +70,13 @@
     },
     {
       "surface": "ויעשו",
-      "gloss": "maranéhna ngalaksanakeun"
+      "gloss": "sarta maranéhna ngalaksanakeun"
     },
     {
       "surface": "כן",
       "gloss": "kitu"
     }
   ],
-  "timestamp": "2026-08-26T10:59:20.059277338Z",
+  "timestamp": "2026-08-26T18:03:17.843140455Z",
   "model": "glm-5.3"
 }

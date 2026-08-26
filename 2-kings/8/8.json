@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 8,
-  "translation": "Lajeng raja nyarita ka Khazael: Cokot dina leungeun anjeun saurang hadiah, jeung indit patepung jeung jalma ⟨the⟩ Elohim, terus sungkeun ⟨את⟩ Yahwe ti manéhna, sangkan nyaritakeun: Naha kunaon abdi hirup deui tina panyakit ieu?",
+  "translation": "Mangka raja ngandika ka Xazael: Pegatkeun ku leungeun anjeun hiji sesepuhan, sareng indit patepung jeung Jalma ⟨Elohim⟩, sareng sungsi ⟨את⟩ Yahwe ⟨את⟩ ti dungenganana, sungjing: Naha abdi hirup deui tina panyakit ieu?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lajeng nyarita"
+      "gloss": "Mangka raja ngandika"
     },
     {
       "surface": "המלך",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "חזהאל",
-      "gloss": "Khazael"
+      "gloss": "Xazael"
     },
     {
       "surface": "קח",
-      "gloss": "cokot"
+      "gloss": "Pegatkeun"
     },
     {
       "surface": "בידך",
-      "gloss": "dina leungeun anjeun"
+      "gloss": "ku leungeun anjeun"
     },
     {
       "surface": "מנחה",
-      "gloss": "saurang hadiah"
+      "gloss": "sesepuhan"
     },
     {
       "surface": "ולך",
-      "gloss": "jeung indit"
+      "gloss": "sareng indit"
     },
     {
       "surface": "לקראת",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "jalma"
+      "gloss": "Jalma"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "⟨Elohim⟩"
     },
     {
       "surface": "ודרשת",
-      "gloss": "terus sungkeun"
+      "gloss": "sareng sungsi"
     },
     {
       "surface": "את",
@@ -66,16 +66,15 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "⟨את⟩ ti manéhna",
-      "marks": "sangkan nyaritakeun"
+      "gloss": "⟨את⟩ ti dungenganana"
     },
     {
       "surface": "לאמר",
-      "gloss": "sangkan nyaritakeun"
+      "gloss": "sungjing"
     },
     {
       "surface": "האחיה",
-      "gloss": "naha hirup deui"
+      "gloss": "Naha abdi hirup deui"
     },
     {
       "surface": "מחלי",
@@ -86,6 +85,6 @@
       "gloss": "ieu"
     }
   ],
-  "timestamp": "2026-08-26T12:53:15.503605148Z",
+  "timestamp": "2026-08-26T18:20:49.391775600Z",
   "model": "glm-5.3"
 }

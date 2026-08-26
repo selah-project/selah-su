@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 8,
-  "translation": "Jeung Moshe mawa asup Aharon jeung putra-putrana, tuluy nyuci ⟨anjeunna--> ⟨את⟩ aranjeunna ku cai.",
+  "translation": "Tuluy Moshe mawa ka payune ⟨את⟩ Aharon jeung ⟨את⟩ putra-putrana, lajeng anjeunna ngamandian ⟨את⟩ maranéhna ku cai.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "mawa asup"
+      "gloss": "mawa ka payune"
     },
     {
       "surface": "משה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "jeung ⟨את⟩",
       "marks": "putra-putrana"
     },
     {
@@ -35,17 +35,17 @@
     },
     {
       "surface": "וירחץ",
-      "gloss": "nyuci"
+      "gloss": "ngamandian"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ aranjeunna"
+      "gloss": "⟨את⟩ maranéhna"
     },
     {
       "surface": "במים",
       "gloss": "ku cai"
     }
   ],
-  "timestamp": "2026-08-26T11:14:46.964470296Z",
+  "timestamp": "2026-08-26T18:06:32.817502442Z",
   "model": "glm-5.3"
 }

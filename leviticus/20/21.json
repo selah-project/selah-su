@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 20,
-  "translation": "Jeung lamun aya lalaki nu nyandak ⟨את⟩ pamajikan dulurna, éta ⟨is⟩ noda; kateuleung dulurna geus dibuka; moal boga anak maranéhna jadi.",
+  "translation": "Jeung mun aya jalma nu mibanda lanceukna nyandak ⟨את⟩ pamajikan lanceukna, éta ⟨nimarang⟩ kakotoran; kateuleung djengkol—teu, kateuleungjeeun lanceukna geus dibuka; maranéhna bakal jadi tanpa incu.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "jeung-lalaki"
+      "gloss": "jeung jalma"
     },
     {
       "surface": "אשר",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pamajikan dulurna"
+      "marks": "pamajikan lanceukna"
     },
     {
       "surface": "אשת",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "dulurna"
+      "gloss": "lanceukna"
     },
     {
       "surface": "נדה",
-      "gloss": "noda"
+      "gloss": "kakotoran"
     },
     {
       "surface": "הוא",
@@ -42,25 +42,25 @@
     },
     {
       "surface": "ערות",
-      "gloss": "kateuleung"
+      "gloss": "kateuleungjeeun"
     },
     {
       "surface": "אחיו",
-      "gloss": "dulurna"
+      "gloss": "lanceukna"
     },
     {
       "surface": "גלה",
-      "gloss": "dibuka"
+      "gloss": "geus dibuka"
     },
     {
       "surface": "ערירים",
-      "gloss": "moal-boga-anak"
+      "gloss": "tanpa turunan"
     },
     {
       "surface": "יהיו",
-      "gloss": "maranéhna-jadi"
+      "gloss": "bakal jadi"
     }
   ],
-  "timestamp": "2026-08-26T11:19:52.447495214Z",
+  "timestamp": "2026-08-26T18:07:44.537612157Z",
   "model": "glm-5.3"
 }

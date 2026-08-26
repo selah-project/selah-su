@@ -5,8 +5,106 @@
   "book": "haggai",
   "lang": "su",
   "chapter": 2,
-  "translation": "Tapi ayeuna kuat haté, é Zerubavel, }",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:17:23.990642956Z",
+  "translation": "Jeung ayeuna kuat, é Zerubavel, daftar-jenengan Yahwe; jeung kuat, é Yéhoshua bin Yéhotsadak, imam nu agung; jeung kuat, é sadayana jalma taneuh, daftar-jenengan Yahwe; sarta migawé, sabab abdi ⟨את⟩ jeung aranjeun, daftar-jenengan Yahwe Tzevaot.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubavel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "daftar-jenengan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "jeung kuat"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yéhoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yéhotsadak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nu agung"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "jeung kuat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "daftar-jenengan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "sarta migawé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jeung aranjeun",
+      "marks": "anjeun (kaum nu keur dituduh)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "daftar-jenengan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-26T19:13:22.038977783Z",
   "model": "glm-5.3"
 }

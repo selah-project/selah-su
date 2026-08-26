@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 20,
-  "translation": "Jeung lalaki nu nyandak ⟨את⟩ awéwé sarta ⟨את⟩ indungna, kahyangan karunya éta ⟨is⟩; ku seuneu maranéhna ngadurug ⟨את⟩ manéhna jeung ⟨את⟩ aranjeunna, sangkan euweuh kahyangan karunya di tengah-tengah anjeun.",
+  "translation": "Jeung saha jalma nu mawa ⟨את⟩ awéwé jeung ⟨את⟩ indungna — zimah ⟨itu⟩; ku seuneu maranéhna ngadurugna ⟨את⟩ manéhna jeung ⟨את⟩ maranéhna, sangkan euweuh zimah di tengah-tengah aranjeun.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "jeung lalaki"
+      "gloss": "jeung saha jalma"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יקח",
-      "gloss": "nyandak"
+      "gloss": "mawa"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "sarta ⟨את⟩",
+      "gloss": "jeung ⟨את⟩",
       "marks": "indungna"
     },
     {
@@ -39,11 +39,11 @@
     },
     {
       "surface": "זמה",
-      "gloss": "kahyangan karunya"
+      "gloss": "zimah"
     },
     {
       "surface": "הוא",
-      "gloss": "éta"
+      "gloss": "⟨itu⟩"
     },
     {
       "surface": "באש",
@@ -51,17 +51,15 @@
     },
     {
       "surface": "ישרפו",
-      "gloss": "maranéhna ngadurug"
+      "gloss": "maranéhna ngadurugna"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "manéhna"
+      "gloss": "⟨את⟩ manéhna"
     },
     {
       "surface": "ואתהן",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "aranjeunna"
+      "gloss": "jeung ⟨את⟩ maranéhna"
     },
     {
       "surface": "ולא",
@@ -73,13 +71,13 @@
     },
     {
       "surface": "זמה",
-      "gloss": "kahyangan karunya"
+      "gloss": "zimah"
     },
     {
       "surface": "בתוככם",
-      "gloss": "di tengah-tengah anjeun"
+      "gloss": "di tengah-tengah aranjeun"
     }
   ],
-  "timestamp": "2026-08-26T16:43:44.808510355Z",
+  "timestamp": "2026-08-26T19:01:05.794478390Z",
   "model": "glm-5.3"
 }

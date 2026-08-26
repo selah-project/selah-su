@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 45,
-  "translation": "Dina rerengkang benang nu dicampurkeun dipapay ka ⟨the⟩ raja; putri-putri di tukangeunana, babaturanana, dibawa ka anjeun.",
+  "translation": "Ku sulaman dibawa ⟨ia⟩ ka raja; padmi-padmi nyusul ⟨ka⟩ <anjeun>, babaturanana, dibawa ka anjeun.",
   "tokens": [
     {
       "surface": "לרקמות",
-      "gloss": "dina rerengkang benang"
+      "gloss": "ku sulaman"
     },
     {
       "surface": "תובל",
-      "gloss": "dipapay"
+      "gloss": "dibawa"
     },
     {
       "surface": "למלך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בתולות",
-      "gloss": "putri-putri"
+      "gloss": "padmi-padmi"
     },
     {
       "surface": "אחריה",
-      "gloss": "di tukangeunana"
+      "gloss": "nyusul <anjeun>"
     },
     {
       "surface": "רעותיה",
@@ -40,6 +40,6 @@
       "gloss": "ka anjeun"
     }
   ],
-  "timestamp": "2026-08-26T14:32:07.340190389Z",
+  "timestamp": "2026-08-26T19:06:14.580328414Z",
   "model": "glm-5.3"
 }

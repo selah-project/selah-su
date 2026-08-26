@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 6,
-  "translation": "Sarta anjeun bakal migawé nu luyu jeung nu hadé dina panon Yahwe, sangkan hadé ka anjeun, sarta anjeun asup sarta nampa ⟨את⟩ ⟨the⟩ tanah nu hadé nu dipasatran Yahwe ka bapak-bapak anjeun,",
+  "translation": "Jeung anjeun bakal ngalakukeun nu bener jeung nu hadé dina panon Yahwe, sangkan hadé ka anjeun, sarta anjeun asup jeung ngawasaan ⟨את⟩ tanah nu hadé nu dipasihkeun ku sumpah Yahwe ka bapak-bapak anjeun.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "sarta anjeun bakal migawé"
+      "gloss": "anjeun bakal ngalakukeun"
     },
     {
       "surface": "הישר",
-      "gloss": "nu luyu"
+      "gloss": "nu bener"
     },
     {
       "surface": "והטוב",
-      "gloss": "sarta nu hadé"
+      "gloss": "jeung nu hadé"
     },
     {
       "surface": "בעיני",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "ובאת",
-      "gloss": "sarta anjeun asup"
+      "gloss": "anjeun asup"
     },
     {
       "surface": "וירשת",
-      "gloss": "sarta nampa"
+      "gloss": "ngawasaan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanah"
+      "marks": "tanah nu hadé"
     },
     {
       "surface": "הארץ",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "dipasatran"
+      "gloss": "masihkeun ku sumpah"
     },
     {
       "surface": "יהוה",
@@ -77,6 +77,6 @@
       "gloss": "ka bapak-bapak anjeun"
     }
   ],
-  "timestamp": "2026-08-26T11:40:53.822850435Z",
+  "timestamp": "2026-08-26T18:10:56.545846147Z",
   "model": "glm-5.3"
 }

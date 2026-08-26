@@ -5,53 +5,48 @@
   "book": "judges",
   "lang": "su",
   "chapter": 1,
-  "translation": "Jeung Yehuda nyarita ka Shim'on, sadulurna: Naék jeung ⟨את⟩ kuring kana bagian kuring, barih urang perang ngalawan urang Kanaan; jeung kuring ogé bakal indit jeung ⟨את⟩ anjeun kana bagian anjeun. Tuluy Shim'on indit jeung ⟨את⟩ anjeunna.",
+  "translation": "Tuluy Yehudah ngomong ka Shiméon, dulurna: «Ayo néréka ⟨את⟩ kuring ka wewengkon bagéan kuring, urang tarung ngalawan urang Kenaan; nya kuring ogé rék indit ⟨את⟩ anjeun ka wewengkon bagéan anjeun.» Jadi Shiméon indit ⟨את⟩ manéhna.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Jeung nyarita"
+      "gloss": "ngomong"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "לשמעון",
-      "gloss": "ka Shim'on"
+      "gloss": "ka Shiméon"
     },
     {
       "surface": "אחיו",
-      "gloss": "sadulurna"
+      "gloss": "dulurna"
     },
     {
       "surface": "עלה",
-      "gloss": "naék"
+      "gloss": "néréka"
     },
     {
       "surface": "אתי",
-      "gloss": "jeung ⟨את⟩ kuring",
-      "marks": "kuring (kalawan)"
+      "gloss": "⟨את⟩",
+      "marks": "kuring"
     },
     {
       "surface": "בגורלי",
-      "gloss": "kana bagian kuring"
-    },
-    {
-      "surface": "וְהִנֵּה",
-      "gloss": "",
-      "note": "PLACEHOLDER"
+      "gloss": "ka wewengkon bagéan kuring"
     },
     {
       "surface": "ונלחמה",
-      "gloss": "barih urang perang"
+      "gloss": "urang tarung"
     },
     {
       "surface": "בכנעני",
-      "gloss": "ngalawan urang Kanaan"
+      "gloss": "ngalawan urang Kenaan"
     },
     {
       "surface": "והלכתי",
-      "gloss": "jeung kuring bakal indit"
+      "gloss": "kuring rék indit"
     },
     {
       "surface": "גם",
@@ -59,31 +54,31 @@
     },
     {
       "surface": "אני",
-      "gloss": "⟨את⟩ kuring"
+      "gloss": "kuring"
     },
     {
       "surface": "אתך",
-      "gloss": "jeung ⟨את⟩ anjeun",
-      "marks": "anjeun (kalawan)"
+      "gloss": "⟨את⟩",
+      "marks": "anjeun"
     },
     {
       "surface": "בגורלך",
-      "gloss": "kana bagian anjeun"
+      "gloss": "ka wewengkon bagéan anjeun"
     },
     {
       "surface": "וילך",
-      "gloss": "⟨את⟩ tuluy indit"
+      "gloss": "indit"
     },
     {
       "surface": "אתו",
-      "gloss": "jeung ⟨את⟩ anjeunna",
-      "marks": "anjeunna (kalawan)"
+      "gloss": "⟨את⟩",
+      "marks": "manéhna"
     },
     {
       "surface": "שמעון",
-      "gloss": "Shim'on"
+      "gloss": "Shiméon"
     }
   ],
-  "timestamp": "2026-08-26T12:01:33.475694568Z",
+  "timestamp": "2026-08-26T18:14:49.265826507Z",
   "model": "glm-5.3"
 }

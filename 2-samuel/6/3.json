@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 6,
-  "translation": "Maranéhna nganaékkeun ⟨את⟩ tabut Elohim kana kareta anyar, mawa naék ti imah Avinadav nu di Gibeah; Uzza jeung Axyo, putra-putra Avinadav, ngamandu ⟨את⟩ kareta anyar éta.",
+  "translation": "Maranéhna nempatkeun ⟨את⟩ péti Elohim kana kareta anyar, lajeng mawa sapuloheunana ti imah Avinadav nu di Gibea; Uza jeung sadérékna, putra-putra Avinadav, nu mamaraban ⟨את⟩ kareta anyar éta.",
   "tokens": [
     {
       "surface": "וירכבו",
-      "gloss": "nganaékkeun (ngagunungkeun)"
+      "gloss": "maranéhna nempatkeun kana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tabut Elohim"
+      "marks": "péti"
     },
     {
       "surface": "ארון",
-      "gloss": "tabut"
+      "gloss": "péti"
     },
     {
       "surface": "האלהים",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ka(ana)"
+      "gloss": "ka"
     },
     {
       "surface": "עגלה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "וישאהו",
-      "gloss": "mawa naék"
+      "gloss": "lajeng mawa"
     },
     {
       "surface": "מבית",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "בגבעה",
-      "gloss": "di Gibeah"
+      "gloss": "di Gibea"
     },
     {
       "surface": "ועזא",
-      "gloss": "jeung Uzza"
+      "gloss": "Uza"
     },
     {
       "surface": "ואחיו",
@@ -74,22 +74,22 @@
     },
     {
       "surface": "נהגים",
-      "gloss": "ngamandu"
+      "gloss": "nu mamaraban"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kareta anyar"
+      "marks": "kareta"
     },
     {
       "surface": "העגלה",
-      "gloss": "⟨the⟩ kareta"
+      "gloss": "kareta"
     },
     {
       "surface": "חדשה",
       "gloss": "anyar"
     }
   ],
-  "timestamp": "2026-08-26T12:28:35.949450103Z",
+  "timestamp": "2026-08-26T18:18:27.770636821Z",
   "model": "glm-5.3"
 }

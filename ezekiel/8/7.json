@@ -5,16 +5,15 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 8,
-  "translation": "Jeung manehna mawa abdi ka payuneun panto ⟨the⟩ buruan; jeung abdi nempo, jeung tumpak, liang hiji di ⟨the⟩ djügit.",
+  "translation": "Jeung manéhna mawa kuring ka panto buruan; lajeng kuring nempo, jeung tatumba aya liang hiji di ⟨di jero⟩ dingding.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Jeung mawa"
+      "gloss": "mawa"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "abdi"
+      "gloss": "⟨את⟩ kuring"
     },
     {
       "surface": "אל",
@@ -22,19 +21,19 @@
     },
     {
       "surface": "פתח",
-      "gloss": "payuneun panto"
+      "gloss": "panto"
     },
     {
       "surface": "החצר",
-      "gloss": "⟨the⟩ buruan"
+      "gloss": "buruan"
     },
     {
       "surface": "ואראה",
-      "gloss": "jeung abdi nempo"
+      "gloss": "kuring nempo"
     },
     {
       "surface": "והנה",
-      "gloss": "jeung tumpak"
+      "gloss": "jeung tatumba"
     },
     {
       "surface": "חר",
@@ -46,9 +45,9 @@
     },
     {
       "surface": "בקיר",
-      "gloss": "di djügit"
+      "gloss": "dingding"
     }
   ],
-  "timestamp": "2026-08-26T13:44:56.309678667Z",
+  "timestamp": "2026-08-26T18:27:04.905868710Z",
   "model": "glm-5.3"
 }

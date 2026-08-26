@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 3,
-  "translation": "Jadi kajadian dina poé katilu ti ngalahirkeun kuring, lahir ogé istri ieu, jeung urang babarengan; euweuh deungeun ⟨את⟩ babarengan urang di imah, iwal ti urang dua di ⟨the⟩ imah.",
+  "translation": "Jeung jadi dina poé katilu sanggeus abdi ngalahirkeun, awéwé ieu ogé ngalahirkeun; jeung urang babarengan — euweuh deungeun ⟨את⟩ babarengan urang di imah, iwal ti dua urang urang di imah.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "jadi kajadian"
+      "gloss": "jeung jadi"
     },
     {
       "surface": "ביום",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ללדתי",
-      "gloss": "ti ngalahirkeun kuring"
+      "gloss": "sanggeus abdi ngalahirkeun"
     },
     {
       "surface": "ותלד",
-      "gloss": "lahir"
+      "gloss": "jeung ngalahirkeun"
     },
     {
       "surface": "גם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האשה",
-      "gloss": "istri"
+      "gloss": "awéwé"
     },
     {
       "surface": "הזאת",
@@ -57,7 +57,8 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ babarengan urang"
+      "gloss": "⟨את⟩",
+      "marks": "babarengan urang"
     },
     {
       "surface": "בבית",
@@ -69,7 +70,7 @@
     },
     {
       "surface": "שתים",
-      "gloss": "dua"
+      "gloss": "dua urang"
     },
     {
       "surface": "אנחנו",
@@ -80,6 +81,6 @@
       "gloss": "di imah"
     }
   ],
-  "timestamp": "2026-08-26T12:38:15.813110923Z",
+  "timestamp": "2026-08-26T18:18:55.775958124Z",
   "model": "glm-5.3"
 }

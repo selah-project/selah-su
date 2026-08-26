@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 57,
-  "translation": "Jeung ⟨את⟩ saha nu anjeun kahariwang jeung sieun, sabab anjeun bohong? Ari ⟨את kuring⟩ anjeun teu inget, teu anjeun nempatkeun kana ati anjeun. Naha sanes kuring nu ngeuyeuh sarta ti baheula? Ari ⟨את kuring⟩ anjeun teu sieun.",
+  "translation": "Jeung ⟨את⟩ saha anu ku anjeun ngahariwang sarta disieun, sabab anjeun ngapoh, jeung ⟨את⟩ aku teu diinget, teu ditaréhkeun kana hate anjeun? Naha lain aku nu ngantep cicing, ti mimiti kawit kénéh, sahingga aku ku anjeun teu disieun?",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "jeung ⟨את⟩",
       "marks": "saha"
     },
     {
@@ -18,11 +18,11 @@
     },
     {
       "surface": "דאגת",
-      "gloss": "anjeun kahariwang"
+      "gloss": "ngahariwang"
     },
     {
       "surface": "ותיראי",
-      "gloss": "jeung sieun"
+      "gloss": "sarta disieun"
     },
     {
       "surface": "כי",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "תכזבי",
-      "gloss": "anjeun bohong"
+      "gloss": "ngapoh"
     },
     {
       "surface": "ואותי",
-      "gloss": "⟨את⟩",
-      "marks": "kuring"
+      "gloss": "jeung ⟨את⟩ aku",
+      "marks": "aku"
     },
     {
       "surface": "לא",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "זכרת",
-      "gloss": "anjeun inget"
+      "gloss": "diinget"
     },
     {
       "surface": "לא",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "שמת",
-      "gloss": "anjeun nempatkeun"
+      "gloss": "ditaréhkeun"
     },
     {
       "surface": "על",
@@ -59,28 +59,28 @@
     },
     {
       "surface": "לבך",
-      "gloss": "ati anjeun"
+      "gloss": "hate anjeun"
     },
     {
       "surface": "הלא",
-      "gloss": "naha sanes"
+      "gloss": "naha lain"
     },
     {
       "surface": "אני",
-      "gloss": "kuring"
+      "gloss": "aku"
     },
     {
       "surface": "מחשה",
-      "gloss": "nu ngeuyeuh"
+      "gloss": "ngantep cicing"
     },
     {
       "surface": "ומעלם",
-      "gloss": "jeung ti baheula"
+      "gloss": "sarta ti mimiti kawit"
     },
     {
       "surface": "ואותי",
-      "gloss": "⟨את⟩",
-      "marks": "kuring"
+      "gloss": "sahingga ⟨את⟩ aku",
+      "marks": "aku"
     },
     {
       "surface": "לא",
@@ -88,9 +88,9 @@
     },
     {
       "surface": "תיראי",
-      "gloss": "anjeun sieun"
+      "gloss": "disieun"
     }
   ],
-  "timestamp": "2026-08-26T13:17:47.200634369Z",
+  "timestamp": "2026-08-26T18:23:41.365430145Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 6,
-  "translation": "Sabab dina hebel ⟨manéhna⟩ datang, sarta dina kaimeutan ⟨manéhna>> angkat, sarta dina kaimeutan ngaranna ditutupan.",
+  "translation": "Sabab dina hebel manéhna datang, sarta dina kahieumanan manéhna indit, sarta dina kahieumanan ngaranna katutupan.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בא",
-      "gloss": "datang"
+      "gloss": "manéhna datang"
     },
     {
       "surface": "ובחשך",
-      "gloss": "dina kaimeutan"
+      "gloss": "sarta dina kahieumanan"
     },
     {
       "surface": "ילך",
-      "gloss": "angkat"
+      "gloss": "manéhna indit"
     },
     {
       "surface": "ובחשך",
-      "gloss": "dina kaimeutan"
+      "gloss": "sarta dina kahieumanan"
     },
     {
       "surface": "שמו",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "יכסה",
-      "gloss": "ditutupan"
+      "gloss": "katutupan"
     }
   ],
-  "timestamp": "2026-08-26T15:33:38.296810468Z",
+  "timestamp": "2026-08-26T18:34:42.362561380Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 4,
-  "translation": "Sabab Yahwe, Elohim anjeun, ⟨is⟩ seuneu nu ngahakan, Anjeunna ⟨is⟩ El nu cemburu.",
+  "translation": "Sabab Yahwe, Elohim anjeun, ⟨manehna⟩ api nu ngahakan, El nu cemburu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sabab"
+      "gloss": "sabab"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אש",
-      "gloss": "seuneu"
+      "gloss": "api"
     },
     {
       "surface": "אכלה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "Anjeunna"
+      "gloss": "manehna"
     },
     {
       "surface": "אל",
@@ -40,6 +40,6 @@
       "gloss": "nu cemburu"
     }
   ],
-  "timestamp": "2026-08-26T11:39:59.813868052Z",
+  "timestamp": "2026-08-26T18:10:41.769336858Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,31 @@
   "book": "hosea",
   "lang": "su",
   "chapter": 13,
-  "translation": "Sangkan ayeuna maranehna nambah dosa deui, sarta nyieun pikeun dirina patung cor tina pérakna, berhala nurutkeun raosna sorangan — gawé para tukang, sadayana; ngeusi maranehna ngomong ka maranehna: 'Nu ngorangbangbang manusa, nyuhunkeun sasalamet ngahormat ku sikeut ka anak sapi!'",
+  "translation": "Jeung ayeuna maranehna nambahan deui dosa, sarta maranehna nyieun pikeun dirina aranjeunna patung tuang tina pérakna, rupi kana pangaweruhna sorangan, bernga-barungga, karya tina tukang nyieun, sadayana pikeun aranjeunna; maranehna nyarita: nu ngakorbankeun manusa, (ka) anak-anak sapi maranehna nyium.",
   "tokens": [
     {
+      "surface": "ועתה",
+      "gloss": "jeung ayeuna"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "maranehna nambahan deui"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "dosa"
+    },
+    {
       "surface": "ויעשו",
-      "gloss": "sarta nyieun"
+      "gloss": "sarta maranehna nyieun"
     },
     {
       "surface": "להם",
-      "gloss": "pikeun dirina"
+      "gloss": "pikeun dirina aranjeunna"
     },
     {
       "surface": "מסכה",
-      "gloss": "patung cor"
+      "gloss": "patung tuang"
     },
     {
       "surface": "מכספם",
@@ -25,19 +37,19 @@
     },
     {
       "surface": "כתבונם",
-      "gloss": "nurutkeun raosna sorangan"
+      "gloss": "rupi kana pangaweruhna sorangan"
     },
     {
       "surface": "עצבים",
-      "gloss": "berhala"
+      "gloss": "bernga-barungga"
     },
     {
       "surface": "מעשה",
-      "gloss": "gawé"
+      "gloss": "karya"
     },
     {
       "surface": "חרשים",
-      "gloss": "para tukang"
+      "gloss": "tukang nyieun"
     },
     {
       "surface": "כלה",
@@ -45,7 +57,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "ngeusi maranehna"
+      "gloss": "pikeun aranjeunna"
     },
     {
       "surface": "הם",
@@ -53,11 +65,11 @@
     },
     {
       "surface": "אמרים",
-      "gloss": "ngomong ka"
+      "gloss": "nyarita"
     },
     {
       "surface": "זבחי",
-      "gloss": "nu ngorangbangbang"
+      "gloss": "nu ngakorbankeun"
     },
     {
       "surface": "אדם",
@@ -65,13 +77,13 @@
     },
     {
       "surface": "עגלים",
-      "gloss": "anak sapi"
+      "gloss": "anak-anak sapi"
     },
     {
       "surface": "ישקון",
-      "gloss": "ngahormat ku sikeut"
+      "gloss": "maranehna nyium"
     }
   ],
-  "timestamp": "2026-08-26T14:06:28.509417260Z",
+  "timestamp": "2026-08-26T18:29:04.408195739Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,11 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 18,
-  "translation": "Jeung ngaliwatan ka sisi nu hareupeun ⟨the⟩ Arabah, ti kalér, tur turun ka Arabah.",
+  "translation": "Saterasna ngaliwatan ka ancloman gigireun hareup ka Arabah, sisi kalér, turun ka Arabah.",
   "tokens": [
     {
-      "surface": "וירד",
-      "gloss": "tur turun ka"
-    },
-    {
       "surface": "ועבר",
-      "gloss": "ngaliwatan"
+      "gloss": "saterasna ngaliwatan"
     },
     {
       "surface": "אל",
@@ -21,11 +17,11 @@
     },
     {
       "surface": "כתף",
-      "gloss": "sisi"
+      "gloss": "ancloman"
     },
     {
       "surface": "מול",
-      "gloss": "nu hareupeun"
+      "gloss": "gigireun hareup ka"
     },
     {
       "surface": "הערבה",
@@ -33,13 +29,17 @@
     },
     {
       "surface": "צפונה",
-      "gloss": "ti kalér"
+      "gloss": "sisi kalér"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
     },
     {
       "surface": "הערבתה",
-      "gloss": "Arabah"
+      "gloss": "ka Arabah"
     }
   ],
-  "timestamp": "2026-08-26T11:59:01.347200049Z",
+  "timestamp": "2026-08-26T18:14:10.911194921Z",
   "model": "glm-5.3"
 }

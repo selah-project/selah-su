@@ -5,8 +5,57 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 26,
-  "translation": "Jeung ⟨⟨ didampingi ku ⟩⟩... jeung réwunanana, nyaéta Éliézer: Rehavjahu putrana, jeung Yésajahu putrana, jeung Yoram putrana, jeung Zikhri putrana, jeung Selomot putrana.",
-  "tokens": [],
-  "timestamp": "2026-08-26T16:17:15.315332772Z",
+  "translation": "Jeung sadulur-sadulurna ti Eliezer: Rehxavyahu putrana, jeung Yishayahu putrana, jeung Yoram putrana, jeung Zikhri putrana, jeung Shelomit putrana.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "jeung sadulur-sadulurna"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "ti Eliezer"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Rehxavyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "וישעיהו",
+      "gloss": "jeung Yishayahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "jeung Yoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "jeung Zikhri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "jeung Shelomit"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrana"
+    }
+  ],
+  "timestamp": "2026-08-26T18:37:13.940154656Z",
   "model": "glm-5.3"
 }

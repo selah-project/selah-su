@@ -5,19 +5,20 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 6,
-  "translation": "Sarta ka ⟨את⟩ balana Yehosua maréntahkeun, sangkan ngomong: Ulah aranjeun sora-sorai, jeung ulah aranjeun ngahariwangkeun ⟨את» sora aranjeun, jeung ulah aya kecap kaluar tina baham aranjeun, nepi ka poé endah kuring ngomong ka aranjeun: Sora-sorarah! maka aranjeun sora-sorai.",
+  "translation": "Jeung ka ⟨את⟩ balé ieu Yehosua paréntah, sangkan nyarita: Ulah aranjeun sora tarik, jeung ulah aranjeun ngahaké ⟨את⟩ sora aranjeun, jeung ulah kaluar tina biang aranjeun sakecap, nepi ka poé kuuring nyarita ka aranjeun: Sora tarik! — mangka aranjeun sora tarik.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "balé"
     },
     {
       "surface": "העם",
-      "gloss": "balana"
+      "gloss": "balé"
     },
     {
       "surface": "צוה",
-      "gloss": "maréntahkeun"
+      "gloss": "paréntah"
     },
     {
       "surface": "יהושע",
@@ -25,7 +26,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sangkan ngomong"
+      "gloss": "sangkan nyarita"
     },
     {
       "surface": "לא",
@@ -33,7 +34,7 @@
     },
     {
       "surface": "תריעו",
-      "gloss": "sora-sorai"
+      "gloss": "sora tarik"
     },
     {
       "surface": "ולא",
@@ -41,11 +42,12 @@
     },
     {
       "surface": "תשמיעו",
-      "gloss": "ngahariwangkeun"
+      "gloss": "ngahaké"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "sora aranjeun"
     },
     {
       "surface": "קולכם",
@@ -61,11 +63,11 @@
     },
     {
       "surface": "מפיכם",
-      "gloss": "tina baham aranjeun"
+      "gloss": "tina biang aranjeun"
     },
     {
       "surface": "דבר",
-      "gloss": "kecap"
+      "gloss": "sakecap"
     },
     {
       "surface": "עד",
@@ -77,7 +79,7 @@
     },
     {
       "surface": "אמרי",
-      "gloss": "ngomong"
+      "gloss": "kuuring nyarita"
     },
     {
       "surface": "אליכם",
@@ -85,13 +87,13 @@
     },
     {
       "surface": "הריעו",
-      "gloss": "sora-sorarah!"
+      "gloss": "sora tarik!"
     },
     {
       "surface": "והריעתם",
-      "gloss": "maka aranjeun sora-sorai"
+      "gloss": "anjeun sora tarik"
     }
   ],
-  "timestamp": "2026-08-26T11:53:49.641688571Z",
+  "timestamp": "2026-08-26T18:14:05.048797210Z",
   "model": "glm-5.3"
 }

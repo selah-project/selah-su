@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 11,
-  "translation": "Sabab anjeun keur meuntas ⟨את⟩ Yarden pikeun asup, pikeun ngawasa ⟨את⟩ lemah nu Yahwe, Elohim anjeun, méré ka anjeun; jeung anjeun bakal ngawasaanana jeung cicing di dinya.",
+  "translation": "Sabab anjeun aranjeuna nuju meuntas ⟨את⟩ Yarden pikeun asup, pikeun ngawasa ⟨את⟩ tanah nu Yahwe Elohim aranjeuna masangkeun ka aranjeuna; aranjeuna bakal ngawasaanana jeung cicing di dinya.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "anjeun"
+      "gloss": "anjeun aranjeuna"
     },
     {
       "surface": "עברים",
-      "gloss": "keur meuntas"
+      "gloss": "nuju meuntas"
     },
     {
       "surface": "את",
@@ -39,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lemah"
+      "marks": "tanah"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ lemah"
+      "gloss": "tanah"
     },
     {
       "surface": "אשר",
@@ -55,24 +55,24 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim anjeun"
+      "gloss": "Elohim aranjeuna"
     },
     {
       "surface": "נתן",
-      "gloss": "méré"
+      "gloss": "masangkeun"
     },
     {
       "surface": "לכם",
-      "gloss": "ka anjeun"
+      "gloss": "ka aranjeuna"
     },
     {
       "surface": "וירשתם",
-      "gloss": "jeung anjeun bakal ngawasaanana"
+      "gloss": "aranjeuna bakal ngawasaanana"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ manehna",
-      "marks": "lemah"
+      "gloss": "⟨את⟩",
+      "marks": "ngawasaanana"
     },
     {
       "surface": "וישבתם",
@@ -83,6 +83,6 @@
       "gloss": "di dinya"
     }
   ],
-  "timestamp": "2026-08-26T11:42:50.909505104Z",
+  "timestamp": "2026-08-26T18:11:52.147230623Z",
   "model": "glm-5.3"
 }

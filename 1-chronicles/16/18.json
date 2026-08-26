@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 16,
-  "translation": "ngandikeun: Ka anjeun Ku abdi méré ⟨את⟩ tanah Kenaan, tali ukur warisan anjeun",
+  "translation": "Ngandika: Ka anjeun abdi méré ⟨את⟩ tanah Kenaan, tali ukur warisan anjeun.",
   "tokens": [
     {
       "surface": "לאמר",
-      "gloss": "ngandikeun"
+      "gloss": "ngandika"
     },
     {
       "surface": "לך",
@@ -17,12 +17,7 @@
     },
     {
       "surface": "אתן",
-      "gloss": "Ku abdi méré"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "tanah Kenaan"
+      "gloss": "abdi méré"
     },
     {
       "surface": "ארץ",
@@ -41,6 +36,6 @@
       "gloss": "warisan anjeun"
     }
   ],
-  "timestamp": "2026-08-26T17:41:11.079469081Z",
+  "timestamp": "2026-08-26T18:37:41.065197450Z",
   "model": "glm-5.3"
 }

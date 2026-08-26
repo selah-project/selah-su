@@ -5,8 +5,57 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 1,
-  "translation": "Jeung Elohim nyebut ka ⟨את⟩ darat ⟨tu⟩ éta — bumi; jeung ka kumpulan cai — laut. Saterusna Elohim nempo yén ⟨itu⟩ saé.",
-  "tokens": [],
-  "timestamp": "2026-08-26T10:36:26.971349950Z",
+  "translation": "Jeung Elohim nyebut ⟨את⟩ nu garing ⟨sabda⟩ bumis; jeung kana patepungna cai-cai ⟨sabda-Na⟩ nyebut laut-laut; jeung Elohim nempo yén ⟨éta⟩ alus.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nyebut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "kana nu garing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "jeung kana patepungna"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cai-cai"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nyebut"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut-laut"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "jeung nempo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alus"
+    }
+  ],
+  "timestamp": "2026-08-26T17:59:52.227149365Z",
   "model": "glm-5.3"
 }

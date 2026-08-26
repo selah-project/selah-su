@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 7,
-  "translation": "Sabab ogé kalilu-kalilu haté anjeun terang yén ogé anjeun ⟨את⟩ ngahiwar batur.",
+  "translation": "Kadang ogé loba kali haté anjeun terang yén anjeun ogé geus ngutuk ⟨את⟩ nu séjén.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sabab"
+      "gloss": "kadang ogé"
     },
     {
       "surface": "גם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "פעמים",
-      "gloss": "kalilu-kalilu"
+      "gloss": "kali"
     },
     {
       "surface": "רבות",
-      "gloss": "(mindeng pisan)"
+      "gloss": "loba"
     },
     {
       "surface": "ידע",
@@ -42,17 +42,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ngahiwar (anjeun)"
+      "marks": "nu séjén"
     },
     {
       "surface": "קללת",
-      "gloss": "ngahiwar"
+      "gloss": "geus ngutuk"
     },
     {
       "surface": "אחרים",
-      "gloss": "batur"
+      "gloss": "nu séjén"
     }
   ],
-  "timestamp": "2026-08-26T15:34:15.322917902Z",
+  "timestamp": "2026-08-26T19:06:22.359003886Z",
   "model": "glm-5.3"
 }

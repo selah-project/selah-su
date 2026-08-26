@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 13,
-  "translation": "Jeung ⟨the⟩ tanah henteu kuat mawa ⟨את⟩ maranéhna pikeun cicing babarengan, sabab harta maranéhna loba, jeung maranéhna henteu sanggup cicing babarengan.",
+  "translation": "Jeung teu sanggup ⟨את⟩ tanah éta mawa maranehna pikeun cicing babarengan, sabab harta maranehna loba pisan, jadi teu sanggup maranehna cicing babarengan.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "jeung henteu"
+      "gloss": "jeung teu"
     },
     {
       "surface": "נשא",
-      "gloss": "kuat mawa"
+      "gloss": "sanggup mawa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "maranéhna"
+      "marks": "maranehna (aya di hareupen kecap gawé, nunjuk ka 'maranehna')"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ tanah"
+      "gloss": "tanah éta"
     },
     {
       "surface": "לשבת",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "רכושם",
-      "gloss": "harta maranéhna"
+      "gloss": "harta maranehna"
     },
     {
       "surface": "רב",
-      "gloss": "loba"
+      "gloss": "loba pisan"
     },
     {
       "surface": "ולא",
-      "gloss": "jeung henteu"
+      "gloss": "jadi teu"
     },
     {
       "surface": "יכלו",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "pikeun cicing"
+      "gloss": "cicing"
     },
     {
       "surface": "יחדו",
       "gloss": "babarengan"
     }
   ],
-  "timestamp": "2026-08-26T10:39:54.809182Z",
+  "timestamp": "2026-08-26T18:00:08.824118398Z",
   "model": "glm-5.3"
 }

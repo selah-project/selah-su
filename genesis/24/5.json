@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 24,
-  "translation": "Jeung ngomong ka anjeunna hamba ⟨the⟩ éta: Jaga-jaga awéwé ⟨the⟩ moal daék milampah jéngréng kuring ka ieu tanah; naha kuring kudu mulangkeun ⟨את⟩ putra anjeun ka tanah ⟨the⟩ ti mana anjeun kaluar?",
+  "translation": "Jeung abdi ngomong ka anjeunna, kumaha mun awéwéna teu daék nuturkeun abdi ka <▶>ieu bumi; naha kudu dibalikeun deui abdi ⟨את⟩ putra anjeun ka bumi nu anjeun kaluar ti dinya?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jeung ngomong"
+      "gloss": "Jeung ngomong"
     },
     {
       "surface": "אליו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "העבד",
-      "gloss": "hamba ⟨the⟩"
+      "gloss": "abdi"
     },
     {
       "surface": "אולי",
-      "gloss": "jaga-jaga"
+      "gloss": "kumaha mun"
     },
     {
       "surface": "לא",
-      "gloss": "moal"
+      "gloss": "teu"
     },
     {
       "surface": "תאבה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "האשה",
-      "gloss": "awéwé ⟨the⟩"
+      "gloss": "awéwéna"
     },
     {
       "surface": "ללכת",
-      "gloss": "milampah"
+      "gloss": "pikeun indit"
     },
     {
       "surface": "אחרי",
-      "gloss": "jéngréng kuring"
+      "gloss": "nuturkeun"
     },
     {
       "surface": "אל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah ⟨the⟩"
+      "gloss": "bumi"
     },
     {
       "surface": "הזאת",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ההשב",
-      "gloss": "naha kudu"
+      "gloss": "naha kudu dibalikeun deui"
     },
     {
       "surface": "אשיב",
-      "gloss": "kuring mulangkeun"
+      "gloss": "abdi balikeun"
     },
     {
       "surface": "את",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah ⟨the⟩"
+      "gloss": "bumi"
     },
     {
       "surface": "אשר",
@@ -93,6 +93,6 @@
       "gloss": "ti dinya"
     }
   ],
-  "timestamp": "2026-08-26T10:42:45.714116528Z",
+  "timestamp": "2026-08-26T18:59:54.132597877Z",
   "model": "glm-5.3"
 }

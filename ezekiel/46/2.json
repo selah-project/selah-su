@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 46,
-  "translation": "Sarta pangulu éta asup ku jalan tina tarangkul ti luar, lajeng nangtung di gigir tihang panto, para imam ngalaksanakeun ⟨את⟩ kurban bakarna jeung ⟨את⟩ kurban slametna, lajeng manéhna sujud dina puhu panto, tuluy kaluar; ari ⟨the⟩ panto moal ditutup nepi ka soré.",
+  "translation": "Ari pangéran asik ti kaluar liwat tataruban panto éta, lajeng ngadeg di paku panto, jeung para imam ngalaksanakeun ⟨את⟩ kurban bakarna jeung ⟨את⟩ kurban slamétna; lajeng anjeunna sujud di ambi panto éta sarta kaluar, ari panto éta moal ditutup nepi ka surup.",
   "tokens": [
     {
       "surface": "ובא",
-      "gloss": "sarta asup"
+      "gloss": "Ari asik"
     },
     {
       "surface": "הנשיא",
-      "gloss": "pangulu éta"
+      "gloss": "pangéran"
     },
     {
       "surface": "דרך",
-      "gloss": "ku jalan"
+      "gloss": "liwat"
     },
     {
       "surface": "אולם",
-      "gloss": "tina tarangkul"
+      "gloss": "tataruban"
     },
     {
       "surface": "השער",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "ti luar"
+      "gloss": "ti kaluar"
     },
     {
       "surface": "ועמד",
-      "gloss": "lajeng nangtung"
+      "gloss": "lajeng ngadeg"
     },
     {
       "surface": "על",
-      "gloss": "di gigir"
+      "gloss": "di"
     },
     {
       "surface": "מזוזת",
-      "gloss": "tihang"
+      "gloss": "paku"
     },
     {
       "surface": "השער",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ועשו",
-      "gloss": "ngalaksanakeun"
+      "gloss": "jeung ngalaksanakeun"
     },
     {
       "surface": "הכהנים",
@@ -66,12 +66,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "kurban slametna"
+      "gloss": "⟨את⟩",
+      "marks": "kurban slamétna"
     },
     {
       "surface": "שלמיו",
-      "gloss": "kurban slametna"
+      "gloss": "kurban slamétna"
     },
     {
       "surface": "והשתחוה",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "על",
-      "gloss": "dina"
+      "gloss": "di"
     },
     {
       "surface": "מפתן",
-      "gloss": "puhu"
+      "gloss": "ambi"
     },
     {
       "surface": "השער",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "tuluy kaluar"
+      "gloss": "sarta kaluar"
     },
     {
       "surface": "והשער",
-      "gloss": "ari ⟨the⟩ panto"
+      "gloss": "ari panto éta"
     },
     {
       "surface": "לא",
@@ -111,9 +111,9 @@
     },
     {
       "surface": "הערב",
-      "gloss": "soré"
+      "gloss": "surup"
     }
   ],
-  "timestamp": "2026-08-26T17:08:07.019367946Z",
+  "timestamp": "2026-08-26T18:28:42.539816194Z",
   "model": "glm-5.3"
 }

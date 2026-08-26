@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 1,
-  "translation": "Ieu ⟨the⟩ kecap-kecap nu diomongkeun ku Moshe ka sakumuruhan Yisrael, di seberangeun Yarden, di gurun, di Arabah, paturay jeung Suf, antawis Paran jeung Tofel, jeung Lavan, jeung Xatserot, jeung Di-Zahav.",
+  "translation": "Ieu kecap-kecap nu diucapkeun ku Moshe ka sadayana Israil di seberangeun Yarden, di padang pasir, di Araba, ngadep ka Suph, antawis Paran jeung antawis Tofel, jeung Laban, jeung Xatserot, jeung Di-Zahab.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "⟨the⟩ kecap-kecap"
+      "gloss": "kecap-kecap"
     },
     {
       "surface": "אשר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "diomongkeun"
+      "gloss": "diucapkeun"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "ku Moshe"
     },
     {
       "surface": "אל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "sakumuruhan"
+      "gloss": "sadayana"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israil"
     },
     {
       "surface": "בעבר",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "di gurun"
+      "gloss": "di padang pasir"
     },
     {
       "surface": "בערבה",
-      "gloss": "di Arabah"
+      "gloss": "di Araba"
     },
     {
       "surface": "מול",
-      "gloss": "paturay jeung"
+      "gloss": "ngadep ka"
     },
     {
       "surface": "סוף",
-      "gloss": "Suf"
+      "gloss": "Suph"
     },
     {
       "surface": "בין",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "ולבן",
-      "gloss": "jeung Lavan"
+      "gloss": "jeung Laban"
     },
     {
       "surface": "וחצרת",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "זהב",
-      "gloss": "Zahav"
+      "gloss": "Zahab"
     }
   ],
-  "timestamp": "2026-08-26T16:45:54.337577640Z",
+  "timestamp": "2026-08-26T18:10:31.771093602Z",
   "model": "glm-5.3"
 }

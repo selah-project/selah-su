@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 21,
-  "translation": "Teras Navot ngomong ka Axab: Sumputkeunana abdi ti Yahwe, ⟨את⟩ méré ⟨את⟩ warisan karuhun abdi ka anjeun.",
+  "translation": "Jeung Navot nyarita ka Ahab: Sumput pisan ti Yahwe, mun abdi méré ⟨את⟩ taneuh warisan karuhun abdi ka anjeun.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ngomong"
+      "gloss": "Jeung nyarita"
     },
     {
       "surface": "נבות",
@@ -20,20 +20,16 @@
       "gloss": "ka"
     },
     {
-      "surface": "אחא布",
-      "gloss": ""
-    },
-    {
       "surface": "אחאב",
-      "gloss": "Axab"
+      "gloss": "Ahab"
     },
     {
       "surface": "חלילה",
-      "gloss": "sumputkeunana"
+      "gloss": "Sumput pisan"
     },
     {
       "surface": "לי",
-      "gloss": "abdi"
+      "gloss": "ti abdi"
     },
     {
       "surface": "מיהוה",
@@ -41,12 +37,12 @@
     },
     {
       "surface": "מתתי",
-      "gloss": "⟨את⟩ méré"
+      "gloss": "mun méré"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "warisan karuhun abdi"
+      "marks": "taneuh warisan"
     },
     {
       "surface": "נחלת",
@@ -61,6 +57,6 @@
       "gloss": "ka anjeun"
     }
   ],
-  "timestamp": "2026-08-26T12:47:33.041479018Z",
+  "timestamp": "2026-08-26T18:20:33.011603817Z",
   "model": "glm-5.3"
 }

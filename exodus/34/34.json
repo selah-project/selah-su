@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 34,
-  "translation": "Lamun asup Moshe ka payuneun Yahwe pikeun ngomong jeung ⟨את⟩-Nana, ditaringgikeunana ⟨את⟩ ⟨the⟩ maswéh nepi ka anjeunna kaluar; tuluy anjeunna kaluar sarta ngomong ka barudak Israél ⟨את⟩ sang anu diparentahkeun.",
+  "translation": "Saha Moshe asup ka payune Yahwe pikeun ngobrol jeung ⟨את⟩-Na, anjeunna ngaleupaskeun ⟨את⟩ tutup nepi ka anjeunna kaluar; sarta anjeunna kaluar sarta ngomong ka putra-putra Yisrael ⟨את⟩ nu diparentahkeun ka anjeunna.",
   "tokens": [
     {
       "surface": "ובבא",
-      "gloss": "lamun asup"
+      "gloss": "saha...asup"
     },
     {
       "surface": "משה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "ka payuneun"
+      "gloss": "ka payune"
     },
     {
       "surface": "יהוה",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "pikeun ngomong"
+      "gloss": "pikeun ngobrol"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jeung Anjeunna"
+      "gloss": "jeung ⟨את⟩-Na"
     },
     {
       "surface": "יסיר",
-      "gloss": "ditaringgikeunana"
+      "gloss": "ngaleupaskeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maswéh"
+      "marks": "tutup"
     },
     {
       "surface": "המסוה",
-      "gloss": "maswéh"
+      "gloss": "tutup"
     },
     {
       "surface": "עד",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "צאתו",
-      "gloss": "kaluarna (anjeunna)"
+      "gloss": "kaluarna"
     },
     {
       "surface": "ויצא",
-      "gloss": "terus kaluar"
+      "gloss": "sarta anjeunna kaluar"
     },
     {
       "surface": "ודבר",
@@ -66,26 +66,26 @@
     },
     {
       "surface": "בני",
-      "gloss": "barudak"
+      "gloss": "putra-putra"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israél"
+      "gloss": "Yisrael"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang anu diparentahkeun"
+      "marks": "nu diparentahkeun"
     },
     {
       "surface": "אשר",
-      "gloss": "sang anu"
+      "gloss": "nu"
     },
     {
       "surface": "יצוה",
       "gloss": "diparentahkeun"
     }
   ],
-  "timestamp": "2026-08-26T11:08:52.225893176Z",
+  "timestamp": "2026-08-26T18:05:46.212446088Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 6,
-  "translation": "Sarta Yehosua méakna énjing-isuk, sarta para imam mawa ⟨את» potongan Yahwe.",
+  "translation": "Jeung Yehosua babarangan isuk-isuk, laju imam-imam mawa ⟨את⟩ aron Yahwe.",
   "tokens": [
     {
       "surface": "וישכם",
-      "gloss": "méakna énjing-isuk"
+      "gloss": "babarangan isuk-isuk"
     },
     {
       "surface": "יהושע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "énjing"
+      "gloss": "isuk"
     },
     {
       "surface": "וישאו",
@@ -25,21 +25,22 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "para imam"
+      "gloss": "imam-imam"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "aron Yahwe"
     },
     {
       "surface": "ארון",
-      "gloss": "potongan"
+      "gloss": "aron"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T11:53:49.641950915Z",
+  "timestamp": "2026-08-26T18:14:05.049208235Z",
   "model": "glm-5.3"
 }

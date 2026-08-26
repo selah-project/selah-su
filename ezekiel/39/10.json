@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 39,
-  "translation": "Jeung maranéhna moal mawa kai ti ⟨the⟩ sawah, moal ngahakan ▢teu ▢mangpaat ti leuweung-leuweungan, sabab ku sanjata maranéhna bakal ngahurungkeun seuneu; jeung maranéhna bakal ngarampas ⟨את⟩ nu dirampas ti maranéhna, jeung ngarampok ⟨את⟩ nu dirampok ti maranéhna — naos Adonay Yahwe.",
+  "translation": "Mangka moal mawa kai ti ⟨éta⟩ lapangan, jeung moal nebang ti ⟨éta⟩ leuweung-leuweungan, sabab ku sanjata maranéhna ngahurungkeun seuneu; sarta maranéhna ngarampo ⟨את⟩ nu ngarampona, jeung ngabajak ⟨את⟩ nu ngabajakna — panyawning Adonay Yahwe.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "jeung moal"
+      "gloss": "mangka moal"
     },
     {
       "surface": "ישאו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "השדה",
-      "gloss": "⟨the⟩ sawah"
+      "gloss": "⟨éta⟩ lapangan"
     },
     {
       "surface": "ולא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יחטבו",
-      "gloss": "ngahakan"
+      "gloss": "nebang"
     },
     {
       "surface": "מן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "היערים",
-      "gloss": "leuweung-leuweungan"
+      "gloss": "⟨éta⟩ leuweung-leuweungan"
     },
     {
       "surface": "כי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "יבערו",
-      "gloss": "bakal ngahurungkeun"
+      "gloss": "ngahurungkeun"
     },
     {
       "surface": "אש",
@@ -61,33 +61,33 @@
     },
     {
       "surface": "ושללו",
-      "gloss": "jeung bakal ngarampas"
+      "gloss": "sarta maranéhna ngarampo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nu dirampas ti maranéhna"
+      "marks": "nu ngarampona"
     },
     {
       "surface": "שלליהם",
-      "gloss": "nu dirampas ti maranéhna"
+      "gloss": "nu ngarampona"
     },
     {
       "surface": "ובזזו",
-      "gloss": "jeung bakal ngarampok"
+      "gloss": "jeung ngabajak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nu dirampok ti maranéhna"
+      "marks": "nu ngabajakna"
     },
     {
       "surface": "בזזיהם",
-      "gloss": "nu dirampok ti maranéhna"
+      "gloss": "nu ngabajakna"
     },
     {
       "surface": "נאם",
-      "gloss": "naos"
+      "gloss": "panyawning"
     },
     {
       "surface": "אדני",
@@ -98,6 +98,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T17:07:38.149807741Z",
+  "timestamp": "2026-08-26T18:28:13.627901635Z",
   "model": "glm-5.3"
 }

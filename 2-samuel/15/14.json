@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 15,
-  "translation": "Teras David nyarita ka sadaya abdina nu ⟨⟨את⟩⟩ aya sarenganana di Yerushalaim: Angkat bilih urang kabur, sabab moal aya katulungan kabur pikeun urang tina payune Avshalom; gancang mios, bisi manéhna gancang sarta ngahontal urang, sarta ngabalukarkeun kabencana ka urang, ⟨את⟩ sangsara, jeung ngaguncat ⟨⟨the⟩⟩ kota ku seuseukeut pedang.",
+  "translation": "Jeung Dawid nyarita ka sadaya abdina nu ⟨את⟩ aya jeung anjeunna di Yerushalaim: Bangkit, jeung urang kabur, sabab moal aya jalan nyalamet pikeun urang tina payune Avshalom; gancang mangkat, bisi anjeunna ngagancangan sarta ngahontal urang sarta mawa ⟨את⟩ karuksakan ka urang, sarta ngabanté kota ku seukeut pedang.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "nyarita"
+      "gloss": "jeung nyarita"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "לכל",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ aya sarenganana"
+      "gloss": "⟨את⟩ jeung",
+      "marks": "anjeunna"
     },
     {
       "surface": "בירושלם",
@@ -37,11 +38,11 @@
     },
     {
       "surface": "קומו",
-      "gloss": "angkat"
+      "gloss": "bangkit"
     },
     {
       "surface": "ונברחה",
-      "gloss": "bilih urang kabur"
+      "gloss": "jeung urang kabur"
     },
     {
       "surface": "כי",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "פליטה",
-      "gloss": "katulungan kabur"
+      "gloss": "jalan nyalamet"
     },
     {
       "surface": "מפני",
@@ -73,11 +74,11 @@
     },
     {
       "surface": "מהרו",
-      "gloss": "gancang"
+      "gloss": "gancang-gancang"
     },
     {
       "surface": "ללכת",
-      "gloss": "mios"
+      "gloss": "mangkat"
     },
     {
       "surface": "פן",
@@ -85,15 +86,15 @@
     },
     {
       "surface": "ימהר",
-      "gloss": "gancang"
+      "gloss": "ngagancangan"
     },
     {
       "surface": "והשגנו",
-      "gloss": "ngahontal urang"
+      "gloss": "jeung ngahontal urang"
     },
     {
       "surface": "והדיח",
-      "gloss": "ngabalukarkeun"
+      "gloss": "jeung mawa"
     },
     {
       "surface": "עלינו",
@@ -102,15 +103,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sangsara"
+      "marks": "karuksakan"
     },
     {
       "surface": "הרעה",
-      "gloss": "sangsara"
+      "gloss": "karuksakan"
     },
     {
       "surface": "והכה",
-      "gloss": "ngaguncat"
+      "gloss": "jeung ngabanté"
     },
     {
       "surface": "העיר",
@@ -118,13 +119,13 @@
     },
     {
       "surface": "לפי",
-      "gloss": "ku seuseukeut"
+      "gloss": "ku seukeut"
     },
     {
       "surface": "חרב",
       "gloss": "pedang"
     }
   ],
-  "timestamp": "2026-08-26T12:32:31.585736983Z",
+  "timestamp": "2026-08-26T18:41:19.396810798Z",
   "model": "glm-5.3"
 }

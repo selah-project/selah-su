@@ -5,33 +5,33 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 1,
-  "translation": "Jeung dibeulah-beulahna ⟨את⟩ manehna jadi bagéan-bagéanana, jeung ⟨את⟩ huluna jeung ⟨את }} gajihna; laju imam ngaturan ⟨את⟩ sadayana di luhureun kai nu aya di luhureun seuneu, nu aya di luhureun altar.",
+  "translation": "Jeung motong ⟨את⟩ na jadi potongan-potonganana, jeung ⟨את⟩ sirahna jeung ⟨את⟩ gajihna; jeung imam nata ⟨את⟩ aranjeunna di luhur kai-kai nu di luhur seuneu nu di luhur mezbah.",
   "tokens": [
     {
       "surface": "ונתח",
-      "gloss": "jeung dibeulah-beulahna"
+      "gloss": "jeung motong"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "manehna"
+      "gloss": "⟨את⟩ na",
+      "marks": "dirina (bakal kurban)"
     },
     {
       "surface": "לנתחיו",
-      "gloss": "jadi bagéan-bagéanana"
+      "gloss": "jadi potongan-potonganana"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "huluna"
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sirahna"
     },
     {
       "surface": "ראשו",
-      "gloss": "huluna"
+      "gloss": "sirahna"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "jeung ⟨את⟩",
       "marks": "gajihna"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "surface": "וערך",
-      "gloss": "laju ngaturan"
+      "gloss": "jeung nata"
     },
     {
       "surface": "הכהן",
@@ -48,24 +48,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "sadayana"
+      "gloss": "⟨את⟩ aranjeunna",
+      "marks": "potongan-potongan, sirah, jeung gajih"
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "di luhur"
     },
     {
       "surface": "העצים",
-      "gloss": "kai"
+      "gloss": "kai-kai"
     },
     {
       "surface": "אשר",
-      "gloss": "nu aya"
+      "gloss": "nu"
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "di luhur"
     },
     {
       "surface": "האש",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nu aya"
+      "gloss": "nu"
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "di luhur"
     },
     {
       "surface": "המזבח",
-      "gloss": "altar"
+      "gloss": "mezbah"
     }
   ],
-  "timestamp": "2026-08-26T11:11:48.299010620Z",
+  "timestamp": "2026-08-26T18:06:50.482408242Z",
   "model": "glm-5.3"
 }

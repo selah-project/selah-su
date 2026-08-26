@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "su",
   "chapter": 13,
-  "translation": "Sarta bakal kajadian di sakabéh ⟨nagara⟩ — paké Yahwe: dua sapertilu di jerona bakal dibeulah, bakal maot, sarta sapertilu bakal ditantepkeun di jerona.",
+  "translation": "Jeung baris kajadian di sakabéh ⟨isi⟩ bumi — cecececan Yahwe — dua tilu ⟨bagian⟩ di dinya bakal diteukar, bakal binasa, tapi nu katilu bakal disésakeun di dinya.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "sarta bakal kajadian"
+      "gloss": "jeung baris kajadian"
     },
     {
       "surface": "בכל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "nagara"
+      "gloss": "bumi"
     },
     {
       "surface": "נאם",
-      "gloss": "paké"
+      "gloss": "cecececan"
     },
     {
       "surface": "יהוה",
@@ -29,12 +29,37 @@
     },
     {
       "surface": "פי",
-      "gloss": "dua sapertilu"
+      "gloss": ""
     },
     {
-      "surface": "שנimלהנשיים_placeholder"
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bakal diteukar"
+    },
+    {
+      "surface": "יגועו",
+      "gloss": "bakal binasa"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "tapi nu katilu"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "bakal disésakeun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dinya"
     }
   ],
-  "timestamp": "2026-08-26T14:21:14.127343094Z",
+  "timestamp": "2026-08-26T19:05:37.456985195Z",
   "model": "glm-5.3"
 }

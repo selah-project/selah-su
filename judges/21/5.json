@@ -5,8 +5,113 @@
   "book": "judges",
   "lang": "su",
   "chapter": 21,
-  "translation": "Jeung putra-putra Yisrael nyarita: Saha nu teu naék ka ⟨the⟩ pasingampon ti sakabéh suku-suku Yisrael ka Yahwe? Sabab sumpah nu gedé geus diucapkeun ka nu teu naék ka Yahwe di Mitzpah, sangkan: Paéh <…> bener-bener paéh <…>.",
-  "tokens": [],
-  "timestamp": "2026-08-26T12:12:13.675601632Z",
+  "translation": "Jeung barudak Yisrael ngomong: Saha nu teu ngahiji ka jamaah ti sakumna suku Yisrael ka Yahwe? Sabab sumpah nu gedé geus diucapkeun pikeun saha nu teu naék ka Yahwe di Mitzpah, cenah: pasti dipaéhan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "jeung barudak Yisrael ngomong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barudak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מי",
+      "gloss": "saha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ka jamaah"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sakumna"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "sumpahna"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nu gedé"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "geus diucapkeun"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "pikeun saha nu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "teu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "di Mitzpah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "cenah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti dipaéhan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dipaéhan"
+    }
+  ],
+  "timestamp": "2026-08-26T18:15:23.705920330Z",
   "model": "glm-5.3"
 }

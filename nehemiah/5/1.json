@@ -5,8 +5,41 @@
   "book": "nehemiah",
   "lang": "su",
   "chapter": 5,
-  "translation": "Jeung jadi sora tangtung ⟨⟨is⟩→⟩... ",
-  "tokens": [],
-  "timestamp": "2026-08-26T15:58:02.177792629Z",
+  "translation": "Jeung jadi jeritan ⟨balalahari⟩ jeung pamajikan-pamajikanana nu gedé ka dulur-dulurna ⟨Yahudi⟩",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "jeritan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balalahari"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "jeung pamajikan-pamajikanana"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gedé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dulur-dulurna"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudi"
+    }
+  ],
+  "timestamp": "2026-08-26T18:36:08.129957722Z",
   "model": "glm-5.3"
 }

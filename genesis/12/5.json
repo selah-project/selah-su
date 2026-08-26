@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 12,
-  "translation": "Jeung Avram nyandak ⟨את⟩ Saray pamajikanana, jeung ⟨את⟩ Lot putra adina, jeung ⟨את⟩ sagala harta maranéhanana nu geus dikumpulkeun, jeung ⟨את⟩ ⟨the⟩ jalma-jalma nu geus dijieun di Kharan; laju maranéhna kaluar pikeun jauh ka tanah Kenaan, sarta maranéhna nepi ka tanah Kenaan.",
+  "translation": "Avram mawa ⟨את⟩ Saray pamajikanana, jeung ⟨את⟩ Lot anak lanceukna, jeung ⟨את⟩ sadaya harta maranéhna nu geus dikumpulkeun, jeung ⟨את⟩ jalma-jalma nu geus dijieun di Kharan; tuluy maranéhna indit pikeun lumpat ka tanah Kenaan, sarta maranéhna nepi ka tanah Kenaan.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "nyandak"
+      "gloss": "mawa"
     },
     {
       "surface": "אברם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "jeung ⟨את⟩",
       "marks": "Lot"
     },
     {
@@ -39,24 +39,24 @@
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "anak"
     },
     {
       "surface": "אחיו",
-      "gloss": "adina"
+      "gloss": "lanceukna"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨阿ת⟩",
-      "marks": "sagala harta"
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadaya harta"
     },
     {
       "surface": "כל",
-      "gloss": "sagala"
+      "gloss": "sadaya"
     },
     {
       "surface": "רכושם",
-      "gloss": "harta maranéhanana"
+      "gloss": "harta"
     },
     {
       "surface": "אשר",
@@ -64,11 +64,11 @@
     },
     {
       "surface": "רכשו",
-      "gloss": "geus dikumpulkeun"
+      "gloss": "dikumpulkeun"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "jeung ⟨את⟩",
       "marks": "jalma-jalma"
     },
     {
@@ -81,7 +81,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "geus dijieun"
+      "gloss": "dijieun"
     },
     {
       "surface": "בחרן",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "ויצאו",
-      "gloss": "maranéhna kaluar"
+      "gloss": "maranéhna indit"
     },
     {
       "surface": "ללכת",
-      "gloss": "pikeun jauh"
+      "gloss": "pikeun lumpat"
     },
     {
       "surface": "ארצה",
@@ -116,6 +116,6 @@
       "gloss": "Kenaan"
     }
   ],
-  "timestamp": "2026-08-26T10:39:49.183567408Z",
+  "timestamp": "2026-08-26T18:00:14.134983525Z",
   "model": "glm-5.3"
 }

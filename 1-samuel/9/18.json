@@ -5,24 +5,24 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 9,
-  "translation": "Tuluy Sha-ul arék ka ⟨את⟩ Shemuél di tengah ⟨the⟩ panto, sarta anjeunna nyarita: Béré mangga abdi nyaritakeun, di mana-mana ieu ⟨the⟩ imah nu Nyaho-anu-ka-muka?",
+  "translation": "Lajeng Shaul ngadeukeutan ka ⟨את⟩ Shemuel di tengah ⟨lobo⟩ panto, sarta anjeunna nyarios: \"Mangga béjakeun ka abdi, di mana ieu imah Nu Nempo?",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "arék ka"
+      "gloss": "ngadeukeutan"
     },
     {
       "surface": "שאול",
-      "gloss": "Sha-ul"
+      "gloss": "Shaul"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shemuél"
+      "marks": "Shemuel"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuél"
+      "gloss": "Shemuel"
     },
     {
       "surface": "בתוך",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "sarta anjeunna nyarita"
+      "gloss": "sarta anjeunna nyarios"
     },
     {
       "surface": "הגידה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "béré mangga"
+      "gloss": "mangga"
     },
     {
       "surface": "לי",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "הראה",
-      "gloss": "nu Nyaho-anu-ka-muka"
+      "gloss": "Nu Nempo"
     }
   ],
-  "timestamp": "2026-08-26T12:16:34.524795258Z",
+  "timestamp": "2026-08-26T19:02:59.214276533Z",
   "model": "glm-5.3"
 }

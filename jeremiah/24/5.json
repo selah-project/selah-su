@@ -5,8 +5,94 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 24,
-  "translation": "Kitu dawuh Yahwe, Elohimna Israyel: Saperti惕<<>>, liréun kitu",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:31:16.173489562Z",
+  "translation": "Kitu ceuk Yahwe, Elohim-na Israyél: kawas taén-taén nu alus ieu, kitu ogé Abdi baris ngawanoh ⟨את⟩ pabaluktian Yéhuda, nu Abdi geus ngintun ti tempat ieu, ka nagri Kasdim, pikeun kabecikan.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kitu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ceuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyél"
+    },
+    {
+      "surface": "כתאנים",
+      "gloss": "kawas taén-taén"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "nu alus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "Abdi baris ngawanoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pabaluktian Yéhuda"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "pabaluktian"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Abdi geus ngintun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nagri"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "pikeun kabecikan"
+    }
+  ],
+  "timestamp": "2026-08-26T18:24:50.177126840Z",
   "model": "glm-5.3"
 }

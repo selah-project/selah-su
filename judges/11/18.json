@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "su",
   "chapter": 11,
-  "translation": "Manéhna jalan di gurun, ngurilingan ⟨את⟩ nagara Edom jeung ⟨את⟩ nagara Moab, sarta datang ti wétan matahari ka nagara Moab, sarta maranéhna kempal di sisi seberang Arnon, tapi moal asup kana wates Moab, sabab Arnon ⟨the⟩ wates Moab.",
+  "translation": "Lajeng maranéhna indit ngaliwatan padang gurun, ngurilingan ⟨את⟩ tanah Edom jeung ⟨את⟩ tanah Moab, sarta sumping ti wétanna panonpoé ka tanah Moab, tuluy ngadeg kémah di seberang walungan Arnon, sarta moal asup kana wates Moab, sabab Arnon ⟨is⟩ wates Moab.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "jalan"
+      "gloss": "lajeng indit"
     },
     {
       "surface": "במדבר",
-      "gloss": "di gurun"
+      "gloss": "ngaliwatan padang gurun"
     },
     {
       "surface": "ויסב",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nagara Edom"
+      "marks": "tanah Edom"
     },
     {
       "surface": "ארץ",
-      "gloss": "nagara"
+      "gloss": "tanah"
     },
     {
       "surface": "אדום",
@@ -34,12 +34,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "nagara Moab"
+      "gloss": "jeung ⟨את⟩",
+      "marks": "tanah Moab"
     },
     {
       "surface": "ארץ",
-      "gloss": "nagara"
+      "gloss": "tanah"
     },
     {
       "surface": "מואב",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "datang"
+      "gloss": "sarta sumping"
     },
     {
       "surface": "ממזרח",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "שמש",
-      "gloss": "matahari"
+      "gloss": "panonpoé"
     },
     {
       "surface": "לארץ",
-      "gloss": "ka nagara"
+      "gloss": "ka tanah"
     },
     {
       "surface": "מואב",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ויחנון",
-      "gloss": "kempal"
+      "gloss": "tuluy ngadeg kémah"
     },
     {
       "surface": "בעבר",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "tapi teu"
+      "gloss": "sarta moal"
     },
     {
       "surface": "באו",
@@ -110,6 +110,6 @@
       "gloss": "Moab"
     }
   ],
-  "timestamp": "2026-08-26T12:08:10.439715442Z",
+  "timestamp": "2026-08-26T19:02:33.627420498Z",
   "model": "glm-5.3"
 }

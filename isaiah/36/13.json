@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 36,
-  "translation": "Lajeng Ravshakeh borojo sarta nyaur kalawan sora gedé dina basa Yehuda, lajeng ngomong: Pangeunteungeun ⟨את⟩ kecap-kecap ⟨the⟩ raja nu agung, raja Ashur.",
+  "translation": "Teras Ravshakeh nangtung, sarta nyaur ku sora gede dina basa Yehuda, sarta ngomong: Pirek kecap-kecap ⟨את⟩ raja nu agung, raja Asyur.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "lajeng borojo"
+      "gloss": "teras-nangtung"
     },
     {
       "surface": "רב",
-      "gloss": "Rav"
+      "gloss": "Rav-"
     },
     {
       "surface": "שקה",
@@ -21,32 +21,32 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "sarta nyaur"
+      "gloss": "sarta-nyaur"
     },
     {
       "surface": "בקול",
-      "gloss": "kalawan sora"
+      "gloss": "ku-sora"
     },
     {
       "surface": "גדול",
-      "gloss": "gedé"
+      "gloss": "gede"
     },
     {
       "surface": "יהודית",
-      "gloss": "dina basa Yehuda"
+      "gloss": "dina-basa-Yehuda"
     },
     {
       "surface": "ויאמר",
-      "gloss": "lajeng ngomong"
+      "gloss": "sarta-ngomong"
     },
     {
       "surface": "שמעו",
-      "gloss": "pangeunteungeun"
+      "gloss": "pirek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kecap-kecap"
+      "marks": "kecap-kecap raja nu agung"
     },
     {
       "surface": "דברי",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "nu agung"
+      "gloss": "nu-agung"
     },
     {
       "surface": "מלך",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "Asyur"
     }
   ],
-  "timestamp": "2026-08-26T13:11:35.254220832Z",
+  "timestamp": "2026-08-26T18:23:20.505699040Z",
   "model": "glm-5.3"
 }

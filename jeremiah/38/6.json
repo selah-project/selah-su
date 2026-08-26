@@ -5,8 +5,116 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 38,
-  "translation": "Jadi aranjeunna nyandak ⟨את⟩ Yirmeyahu sarta m抛弃 — gabungkeun: maranehna ngalunggeukkeun manehna kana sumuran Malkiyahu putra raja, nu aya di buruan panjaga, terus maranehna nerukeun Yirmeyahu ku tali; jeung di jero sumuran euweuh cai, ngan lobang leutik jeung lumpur",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:37:12.639072533Z",
+  "translation": "Tuluy maranéhna nyandak ⟨את⟩ Yirmeiahu sarta mabalingsirkeun ⟨את⟩-na kana sumuran Malkiya bin raja, nu aya di pelataran panjara, sarta maranéhna nyirikeun ⟨את⟩ Yirmeiahu ku tali; di jero sumuran euweuh cai, ukur léngkob, sarta Yirmeiahu tilelep dina léngkob.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "tuluy maranéhna nyandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeiahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiahu"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "sarta mabalingsirkeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-na",
+      "marks": "ka kana sumuran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "sumuran"
+    },
+    {
+      "surface": "מלכיהו",
+      "gloss": "Malkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di pelataran"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "panjara"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "sarta maranéhna nyirikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeiahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "ku tali"
+    },
+    {
+      "surface": "ובבור",
+      "gloss": "di jero sumuran"
+    },
+    {
+      "surface": "אין",
+      "gloss": "euweuh"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "léngkob"
+    },
+    {
+      "surface": "ויטבע",
+      "gloss": "sarta tilelep"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiahu"
+    },
+    {
+      "surface": "בטיט",
+      "gloss": "dina léngkob"
+    }
+  ],
+  "timestamp": "2026-08-26T18:25:29.604254392Z",
   "model": "glm-5.3"
 }

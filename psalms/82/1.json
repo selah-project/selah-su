@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 82,
-  "translation": "Mizmor pikeun Asaf. Elohim nangtung di lumbung pawawohan El, di tengah-tengah para elohim ⟨ манı da⟩",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:38:55.549055969Z",
+  "translation": "Mizmor pikeun Asaf. Elohim nangtung dina pasamoan El; di tengah-tengah para allah ⟨Anjeunna⟩ ngahukum.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pikeun Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "nangtung"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "dina pasamoan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para allah"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ngahukum"
+    }
+  ],
+  "timestamp": "2026-08-26T18:31:40.442316891Z",
   "model": "glm-5.3"
 }

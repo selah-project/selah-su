@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 36,
-  "translation": "Jeung ulah matak-panunda ka aranjeun Chizkiyahu ka Yahwe, nyarita: Ngahimat pasti ngahimat kami Yahwe; moal disérén ⟨the⟩ kota ieu kana leungeun raja Ashur.",
+  "translation": "Jeung ulah campur-kieuk Chizkiyahu mawa anjeun nyarundung ka Yahwe, sangkan nyarita, Nyametkeun bakal nyametkeun kami Yahwe; moal dibikeun ieu kota kana leungeun raja Ashur.",
   "tokens": [
     {
       "surface": "ואל",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "יבטח",
-      "gloss": "matak-panunda"
+      "gloss": "nyarundung"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ aranjeun",
-      "marks": "aranjeun"
+      "gloss": "⟨את⟩ anjeun",
+      "marks": "anjeun (Chizkiyahu nu ngajakan)"
     },
     {
       "surface": "חזקיהו",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nyarita"
+      "gloss": "sangkan nyarita"
     },
     {
       "surface": "הצל",
-      "gloss": "ngahimat"
+      "gloss": "nyametkeun"
     },
     {
       "surface": "יצילנו",
-      "gloss": "pasti ngahimat kami"
+      "gloss": "bakal nyametkeun kami"
     },
     {
       "surface": "יהוה",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "disérén"
+      "gloss": "dibikeun"
     },
     {
       "surface": "העיר",
-      "gloss": "kota"
+      "gloss": "ieu kota"
     },
     {
       "surface": "הזאת",
@@ -77,6 +77,6 @@
       "gloss": "Ashur"
     }
   ],
-  "timestamp": "2026-08-26T13:11:35.254738675Z",
+  "timestamp": "2026-08-26T19:04:24.854659288Z",
   "model": "glm-5.3"
 }

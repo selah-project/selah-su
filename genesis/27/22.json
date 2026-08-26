@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 27,
-  "translation": "Teras Yaakov ngadeukeutan ka Yitsxak ramana, teras anjeunna ngarandapan ⟨זה⟩, teras ngomong: Sora ⟨ieu⟩ sora Yaakov, tapi leungeun-leungeun ⟨nya⟩ leungeun Esav.",
+  "translation": "Lajeng Yaakov ngadeukeutan ka Yitsxak, indungna, sarta Yitsxak mariksana bina ati, lajeng anjeunna nyarios: \"Sorana ⟨sorasanna⟩ Yaakov, tapi leungeun-leungeunna leungeun Esav.\"",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "teras-ngadeukeutan"
+      "gloss": "ngadeukeutan"
     },
     {
       "surface": "יעקב",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "אביו",
-      "gloss": "ramana"
+      "gloss": "indungna"
     },
     {
       "surface": "וימשהו",
-      "gloss": "teras-ngarandapan-anjeunna"
+      "gloss": "mariksana bina ati"
     },
     {
       "surface": "ויאמר",
-      "gloss": "teras-ngomong"
+      "gloss": "lajeng anjeunna nyarios"
     },
     {
       "surface": "הקל",
-      "gloss": "sora-ieu"
+      "gloss": "sorana"
     },
     {
       "surface": "קול",
-      "gloss": "sora"
+      "gloss": "sorasanna"
     },
     {
       "surface": "יעקב",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "והידים",
-      "gloss": "tapi-leungeun-leungeun"
+      "gloss": "tapi leungeun-leungeunna"
     },
     {
       "surface": "ידי",
@@ -60,6 +60,6 @@
       "gloss": "Esav"
     }
   ],
-  "timestamp": "2026-08-26T10:44:51.134797772Z",
+  "timestamp": "2026-08-26T18:01:10.009497001Z",
   "model": "glm-5.3"
 }

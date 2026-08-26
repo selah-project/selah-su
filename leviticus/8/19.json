@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 8,
-  "translation": "Laju dipotong peusanna, sarta Moshe ngaseupan ⟨את》 getihna ka luhureun altar sajurung sabudeureunana.",
+  "translation": "Tuluy ⟨⟨dia⟩⟩ nyembelihina, sarta Moshe nyiprakeun ⟨את⟩ getih kana altar sabudeureunana.",
   "tokens": [
     {
       "surface": "וישחט",
-      "gloss": "dipotong peusanna"
+      "gloss": "nyembelihina"
     },
     {
       "surface": "ויזרק",
-      "gloss": "ngaseupan"
+      "gloss": "nyiprakeun"
     },
     {
       "surface": "משה",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "getihna"
+      "marks": "getih"
     },
     {
       "surface": "הדם",
-      "gloss": "getihna"
+      "gloss": "getih"
     },
     {
       "surface": "על",
-      "gloss": "ka luhureun"
+      "gloss": "kana"
     },
     {
       "surface": "המזבח",
@@ -41,6 +41,6 @@
       "gloss": "sabudeureunana"
     }
   ],
-  "timestamp": "2026-08-26T11:14:24.118872501Z",
+  "timestamp": "2026-08-26T18:06:24.851571537Z",
   "model": "glm-5.3"
 }

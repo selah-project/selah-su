@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 4,
-  "translation": "Jeung Yahwe murueuk ka kuring sabab omongan aranjeun, sarta Anjeunna sumpah moal mimitina kuring ngaliwatan ⟨את⟩ Yarden, jeung moal asup ka ⟨the→⟩ tanah nu alus nu Yahwe, Elohim anjeun, maparin ka anjeun jadi warisan.",
+  "translation": "Tapi Yahwe ngamuk ka kuring alatan kecap-kecap aranjeun, sarta Ninggang-sumpah moal kadieu kuring ngaliwatan ⟨את⟩ Yarden, jeung moal asup kuring ka tanah nu hadé nu dibéré Yahwe Elohim anjeun ka anjeun jadi warisan.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "gloss": "Jeung Yahwe"
+      "gloss": "Tapi Yahwe"
     },
     {
       "surface": "התאנף",
-      "gloss": "murueuk"
+      "gloss": "ngamuk"
     },
     {
       "surface": "בי",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "על",
-      "gloss": "sabab"
+      "gloss": "alatan"
     },
     {
       "surface": "דבריכם",
-      "gloss": "omongan aranjeun"
+      "gloss": "kecap-kecap aranjeun"
     },
     {
       "surface": "וישבע",
-      "gloss": "sarta sumpah"
+      "gloss": "sarta Ninggang-sumpah"
     },
     {
       "surface": "לבלתי",
-      "gloss": "moal mimitina"
+      "gloss": "moal kadieu"
     },
     {
       "surface": "עברי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "asup"
+      "gloss": "asup kuring"
     },
     {
       "surface": "אל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "nu alus"
+      "gloss": "nu hadé"
     },
     {
       "surface": "אשר",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "maparin"
+      "gloss": "nu dibéré"
     },
     {
       "surface": "לך",
@@ -93,6 +93,6 @@
       "gloss": "jadi warisan"
     }
   ],
-  "timestamp": "2026-08-26T11:39:59.813008023Z",
+  "timestamp": "2026-08-26T18:40:13.051216249Z",
   "model": "glm-5.3"
 }

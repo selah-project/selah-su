@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 121,
-  "translation": "Pitulung kuring ⟨is⟩ ti sisi Yahwe, Nu Nyieuneun langit-langit jeung bumi.",
+  "translation": "Pitulung abdi ti Yahwe, Nu Nyieun ⟨את⟩ langit-langit jeung ⟨את⟩ bumi.",
   "tokens": [
     {
       "surface": "עזרי",
-      "gloss": "Pitulung kuring"
+      "gloss": "Pitulung abdi"
     },
     {
       "surface": "מעם",
-      "gloss": "ti sisi"
+      "gloss": "ti"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Nu Nyieuneun"
+      "gloss": "Nu Nyieun"
     },
     {
       "surface": "שמים",
@@ -32,6 +32,6 @@
       "gloss": "jeung bumi"
     }
   ],
-  "timestamp": "2026-08-26T14:49:36.889452424Z",
+  "timestamp": "2026-08-26T18:32:33.220451959Z",
   "model": "glm-5.3"
 }

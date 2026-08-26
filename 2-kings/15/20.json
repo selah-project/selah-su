@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 15,
-  "translation": "Jeung Menaxem ngaluarkeun ⟨את⟩ pérak éta ka Israél, ka sakabéh inonjmun beunghar, pikeun méré ka raja Ashur lilima puluh syékel pérak saurang; jeung balik raja Ashur, moal nangtung di dinya di <tanah> éta.",
+  "translation": "Sarta Menaxem ngaluarkeun ⟨את⟩ pérak éta tina Israél, tina sakumna nu garbage jadi walaka, pikeun méré ka raja Ashur lima puluh syikel pérak unggal jalma; sarta raja Ashur balik deui, jeung teu nangtung di dinya di ⟨heuteup⟩ taneuh.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "jeung ngaluarkeun"
+      "gloss": "ngaluarkeun"
     },
     {
       "surface": "מנחם",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ka\/ka luhureun"
+      "gloss": "tina"
     },
     {
       "surface": "ישראל",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "tina"
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sakumna"
     },
     {
       "surface": "גבורי",
-      "gloss": "inonjmun"
+      "gloss": "nu kawasa"
     },
     {
       "surface": "החיל",
-      "gloss": "beunghar\/kuat"
+      "gloss": "jadi walaka"
     },
     {
       "surface": "לתת",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "שקלים",
-      "gloss": "syékel"
+      "gloss": "syikel"
     },
     {
       "surface": "כסף",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "saurang"
+      "gloss": "unggal jalma"
     },
     {
       "surface": "אחד",
@@ -82,19 +82,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "jeung balik"
-    },
-    {
-      "surface": "מלך",
-      "gloss": "raja"
-    },
-    {
-      "surface": "אשור",
-      "gloss": "Ashur"
-    },
-    {
-      "surface": "וישב",
-      "gloss": "jeung balik"
+      "gloss": "balik deui"
     },
     {
       "surface": "מלך",
@@ -106,7 +94,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "jeung moal"
+      "gloss": "jeung teu"
     },
     {
       "surface": "עמד",
@@ -118,9 +106,9 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "di ⟨tanah⟩"
+      "gloss": "di taneuh"
     }
   ],
-  "timestamp": "2026-08-26T12:56:23.412418235Z",
+  "timestamp": "2026-08-26T18:22:22.793893467Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 17,
-  "translation": "Jumlah nu paéh ku ⟨the⟩ wabah éta opat belas rebu jeung tujuh ratus, disinggetkeun nu paéh sabab perkara Korach.",
+  "translation": "Jumlah nu maot ku wabah éta opat belas rebu tujuh ratus, lian ti nu maot alatan perkara Korach.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "jadi jumlah"
+      "gloss": "jadi jumlahna"
     },
     {
       "surface": "המתים",
-      "gloss": "nu paéh"
+      "gloss": "nu maot"
     },
     {
       "surface": "במגפה",
-      "gloss": "ku ⟨the⟩ wabah"
+      "gloss": "ku wabah"
     },
     {
       "surface": "ארבעה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ושבע",
-      "gloss": "jeung tujuh"
+      "gloss": "tujuh"
     },
     {
       "surface": "מאות",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "מלבד",
-      "gloss": "disinggetkeun"
+      "gloss": "lian ti"
     },
     {
       "surface": "המתים",
-      "gloss": "nu paéh"
+      "gloss": "nu maot"
     },
     {
       "surface": "על",
-      "gloss": "sabab"
+      "gloss": "alatan"
     },
     {
       "surface": "דבר",
@@ -60,6 +60,6 @@
       "gloss": "Korach"
     }
   ],
-  "timestamp": "2026-08-26T11:30:09.330748451Z",
+  "timestamp": "2026-08-26T18:09:32.766407604Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 13,
-  "translation": "Sabab ⟨את⟩ sadaya ⟨the⟩ tanah anu anjeweng tingali, ka anjeweng abdi paweuweunana, jeung ka siki anjeweng nepi ka salawasna.",
+  "translation": "Sabab ⟨את⟩ sakabéh tanah nu anjeun tingali, ka anjeun wungkul kuring méré, ogé ka turunan anjeun nepi ka salawasna.",
   "tokens": [
     {
       "surface": "כי",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya tanah"
+      "marks": "sakabéh tanah"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sakabéh"
     },
     {
       "surface": "הארץ",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "anu"
+      "gloss": "nu"
     },
     {
       "surface": "אתה",
-      "gloss": "anjeweng"
+      "gloss": "anjeun"
     },
     {
       "surface": "ראה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "ka anjeweng"
+      "gloss": "ka anjeun"
     },
     {
       "surface": "אתננה",
-      "gloss": "abdi paweuweunana"
+      "gloss": "kuring méré"
     },
     {
       "surface": "ולזרעך",
-      "gloss": "jeung ka siki anjeweng"
+      "gloss": "jeung ka turunan anjeun"
     },
     {
       "surface": "עד",
@@ -57,6 +57,6 @@
       "gloss": "salawasna"
     }
   ],
-  "timestamp": "2026-08-26T10:39:19.360473606Z",
+  "timestamp": "2026-08-26T18:00:27.972813161Z",
   "model": "glm-5.3"
 }

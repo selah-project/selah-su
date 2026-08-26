@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 23,
-  "translation": "Ngan dina tanggal lima belas bulan katujuh, dina ngumpulkeunana maneh ⟨את⟩ hasil ⟨the⟩ taneuh, maneh kudu ngarayakeun ⟨את⟩ raya-riungan Yahwe tujuh poé; poé kahiji ⟨is⟩ eureun sabbat, sarta poé kadalapan ⟨is⟩ eureun sabbat.",
+  "translation": "Ngan baé dina poé kalima-walulas bulan katujuh, mangsa aranjeun ngumpulkeun ⟨את⟩ hasil ⟨tanah⟩, aranjeun ngarayakeun ⟨את⟩ pestana Yahwe tujuh poé: dina poé kahiji eureun-sapatu, sarta dina poé kadalapan eureun-sapatu.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "ngan"
+      "gloss": "ngan baé"
     },
     {
       "surface": "בחמשה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "עשר",
-      "gloss": "belas"
+      "gloss": "walulas"
     },
     {
       "surface": "יום",
-      "gloss": "tanggal\/poé"
+      "gloss": "poé"
     },
     {
       "surface": "לחדש",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "באספכם",
-      "gloss": "dina ngumpulkeunana maneh"
+      "gloss": "mangsa aranjeun ngumpulkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hasil taneuh"
+      "marks": "hasil bumi"
     },
     {
       "surface": "תבואת",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "taneuh"
+      "gloss": "bumi"
     },
     {
       "surface": "תחגו",
-      "gloss": "maneh kudu ngarayakeun"
+      "gloss": "anjeun ngarayakeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "raya-riungan Yahwe"
+      "marks": "pesta Yahwe"
     },
     {
       "surface": "חג",
-      "gloss": "raya-riungan"
+      "gloss": "pesta"
     },
     {
       "surface": "יהוה",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "poé"
+      "gloss": "dina poé"
     },
     {
       "surface": "הראשון",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "eureun sabbat"
+      "gloss": "eureun-sapatu"
     },
     {
       "surface": "וביום",
-      "gloss": "sarta poé"
+      "gloss": "sarta dina poé"
     },
     {
       "surface": "השמיני",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "eureun sabbat"
+      "gloss": "eureun-sapatu"
     }
   ],
-  "timestamp": "2026-08-26T16:44:25.309055744Z",
+  "timestamp": "2026-08-26T18:07:34.911423254Z",
   "model": "glm-5.3"
 }

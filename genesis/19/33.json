@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 19,
-  "translation": "Mangka aranjeunna ngasakeun ⟨את⟩ indung bapana aranjeun nginum anggur peuting harita, tur asup ⟨the⟩ nu pangkolotna, sarta saré jeung bapana; tapi anjeunna teu nyaho waktu anjeunna rebah atawa waktu anjeunna ngadeg.",
+  "translation": "Mangka aranjeunna mioskeun anggur ka ⟨את⟩ ramana dina peuting éta, sarta nu pangkolotna asup sarta sarerelek jeung ⟨את⟩ ramana; tapi anjeunna teu nyaho iraha anjeunna sarerelek, atanapi iraha anjeunna bangun.",
   "tokens": [
     {
       "surface": "ותשקין",
-      "gloss": "ngasakeun-nginumkeun"
+      "gloss": "mioskeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "indung bapana aranjeunna"
+      "marks": "ramana"
     },
     {
       "surface": "אביהן",
-      "gloss": "bapana aranjeunna"
+      "gloss": "ramana"
     },
     {
       "surface": "יין",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "בלילה",
-      "gloss": "peuting"
+      "gloss": "dina peuting"
     },
     {
       "surface": "הוא",
-      "gloss": "harita"
+      "gloss": "éta"
     },
     {
       "surface": "ותבא",
-      "gloss": "tur asup"
+      "gloss": "asup"
     },
     {
       "surface": "הבכירה",
@@ -42,20 +42,20 @@
     },
     {
       "surface": "ותשכב",
-      "gloss": "sarta saré"
+      "gloss": "sarerelek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bapana"
+      "marks": "ramana"
     },
     {
       "surface": "אביה",
-      "gloss": "bapana"
+      "gloss": "ramana"
     },
     {
       "surface": "ולא",
-      "gloss": "tapi teu"
+      "gloss": "teu"
     },
     {
       "surface": "ידע",
@@ -63,13 +63,13 @@
     },
     {
       "surface": "בשכבה",
-      "gloss": "waktu anjeunna rebah"
+      "gloss": "iraha anjeunna sarerelek"
     },
     {
       "surface": "ובקומה",
-      "gloss": "waktu anjeunna ngadeg"
+      "gloss": "atanapi iraha anjeunna bangun"
     }
   ],
-  "timestamp": "2026-08-26T10:41:57.707999889Z",
+  "timestamp": "2026-08-26T18:00:06.898215346Z",
   "model": "glm-5.3"
 }

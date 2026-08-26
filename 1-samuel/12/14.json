@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 12,
-  "translation": "Lamun aranjeun sieun ka ⟨את⟩ Yahwe, jeung ngawula ka Mantenna, jeung ngadangukeun sora-Na, jeung teu baruntak ka ⟨את】 tutujul Yahwe, jeung aranjeun — ogé aranjeun, ogé raja nu maréntah saluhureun aranjeun — nuturkeun Yahwe, Elohim aranjeun.",
+  "translation": "Upama aranjeun sieun ka Yahwe, sarta ngawurakeun diri ka ⟨את⟩-Na, sarta ngadangu kana sora-Na, sarta ulah nempoé ⟨את⟩ sungut Yahwe, mangka aranjeun ogé, jeung ogé ⟨raja⟩ nu marebutan kalungguhan di luhur aranjeun, baris jadi nuturkeun Yahwe, Elohim aranjeun.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "lamun"
+      "gloss": "upama"
     },
     {
       "surface": "תיראו",
@@ -26,37 +26,36 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "jeung ngawula"
+      "gloss": "sarta ngawurakeun diri"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "Mantenna"
+      "gloss": "⟨את⟩-Na"
     },
     {
       "surface": "ושמעתם",
-      "gloss": "jeung ngadangukeun"
+      "gloss": "sarta ngadangu"
     },
     {
       "surface": "בקלו",
-      "gloss": "sora-Na"
+      "gloss": "kana sora-Na"
     },
     {
       "surface": "ולא",
-      "gloss": "jeung teu"
+      "gloss": "sarta ulah"
     },
     {
       "surface": "תמרו",
-      "gloss": "baruntak ka"
+      "gloss": "nempoé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tutujul Yahwe"
+      "marks": "sungut Yahwe"
     },
     {
       "surface": "פי",
-      "gloss": "tutujul"
+      "gloss": "sungut"
     },
     {
       "surface": "יהוה",
@@ -64,7 +63,7 @@
     },
     {
       "surface": "והיתם",
-      "gloss": "jeung baris jadi"
+      "gloss": "mangka baris jadi"
     },
     {
       "surface": "גם",
@@ -80,7 +79,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "⟨raja⟩"
     },
     {
       "surface": "אשר",
@@ -88,11 +87,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "maréntah"
+      "gloss": "marebutan kalungguhan"
     },
     {
       "surface": "עליכם",
-      "gloss": "saluhureun aranjeun"
+      "gloss": "di luhur aranjeun"
     },
     {
       "surface": "אחר",
@@ -107,6 +106,6 @@
       "gloss": "Elohim aranjeun"
     }
   ],
-  "timestamp": "2026-08-26T16:50:57.280551763Z",
+  "timestamp": "2026-08-26T18:16:32.021562942Z",
   "model": "glm-5.3"
 }

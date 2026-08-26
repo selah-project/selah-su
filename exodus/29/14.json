@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 29,
-  "translation": "Jeung ⟨את⟩ daging sapi jantan, jeung ⟨את⟩ kulitna, jeung ⟨את⟩ taina, anjeul ngaduruk ku seuneu di luar ti kemah; kurban dosa ⟨is⟩ eta.",
+  "translation": "Jeung ⟨את⟩ daging ⟨sapi⟩ jantan éta jeung ⟨את⟩ kulitna jeung ⟨את⟩ taihna, anjeun bakal ngaduruk dina seuneu, di luar kamp; kurban dosa ⟨eta⟩.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "daging sapi jantan"
     },
     {
@@ -18,11 +18,11 @@
     },
     {
       "surface": "הפר",
-      "gloss": "sapi jantan"
+      "gloss": "sapi jantan éta"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "kulitna"
     },
     {
@@ -31,20 +31,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "taina"
+      "gloss": "⟨את⟩",
+      "marks": "taihna"
     },
     {
       "surface": "פרשו",
-      "gloss": "taina"
+      "gloss": "taihna"
     },
     {
       "surface": "תשרף",
-      "gloss": "anjeul ngaduruk"
+      "gloss": "anjeun bakal ngaduruk"
     },
     {
       "surface": "באש",
-      "gloss": "ku seuneu"
+      "gloss": "dina seuneu"
     },
     {
       "surface": "מחוץ",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "ti kemah"
+      "gloss": "kamp"
     },
     {
       "surface": "חטאת",
@@ -63,6 +63,6 @@
       "gloss": "eta"
     }
   ],
-  "timestamp": "2026-08-26T16:41:01.587138487Z",
+  "timestamp": "2026-08-26T18:04:34.782054924Z",
   "model": "glm-5.3"
 }

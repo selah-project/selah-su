@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 19,
-  "translation": "Lamun aranjeun asup ka ⟨the⟩ tanah sarta anjeun nancebkeun sagala tangkal dahareun, aranjeun nganggap teu-disunat, kateu-sunat-na, ⟨את⟩ buahna; tilu taun éta jadi pikeun aranjeun teu disunat — henteu ⟨dipangan⟩.",
+  "translation": "Lamun aranjeun asup ka ⟨the⟩ tanah, sarta nyumputkeun sadaya tangkal nu bisa didahar, aranjeun nganggap teu disunat — orélatna ⟨את⟩ buahna; tilu taun ⟨is⟩ bakal jadi orélat pikeun aranjeun, ulah didahar.",
   "tokens": [
     {
       "surface": "וכי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תבאו",
-      "gloss": "anjeun asup"
+      "gloss": "aranjeun asup"
     },
     {
       "surface": "אל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ tanah"
+      "gloss": "tanah"
     },
     {
       "surface": "ונטעתם",
-      "gloss": "anjeun nancebkeun"
+      "gloss": "nyumputkeun"
     },
     {
       "surface": "כל",
-      "gloss": "sagala"
+      "gloss": "sadaya"
     },
     {
       "surface": "עץ",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "מאכל",
-      "gloss": "dahareun"
+      "gloss": "nu bisa didahar"
     },
     {
       "surface": "וערלתם",
-      "gloss": "anjeun nganggap teu-disunat"
+      "gloss": "aranjeun nganggap teu disunat"
     },
     {
       "surface": "ערלתו",
-      "gloss": "kateu-sunat-na"
+      "gloss": "orélatna"
     },
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "jadi"
+      "gloss": "bakal jadi"
     },
     {
       "surface": "לכם",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "ערלים",
-      "gloss": "teu disunat"
+      "gloss": "orélat"
     },
     {
       "surface": "לא",
-      "gloss": "henteu"
+      "gloss": "ulah"
     },
     {
       "surface": "יאכל",
-      "gloss": "⟨dipangan⟩"
+      "gloss": "didahar"
     }
   ],
-  "timestamp": "2026-08-26T16:44:24.910015906Z",
+  "timestamp": "2026-08-26T19:01:10.264953781Z",
   "model": "glm-5.3"
 }

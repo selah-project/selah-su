@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 15,
-  "translation": "Jeung raja ngomong ka Tsadok: \"Balikkeun ⟨את⟩ peti Elohim ka ⟨the⟩ kota; lamun kuring nimu karunia di panon Yahwe, anjeunna baris mulangkeun abdi, sarta nembongkeun ka abdi ⟨את⟩-na jeung ⟨את⟩ paimahan-Na.\"",
+  "translation": "Jeung raja ngomong ka Tsadok: Mulangkeun ⟨את⟩ tabut Elohim ka ⟨asal-kota⟩ kota. Mun kuring papanggih kanyaah di panon Yahwe, anjeunna bakal mulangkeun kuring, matak nembongkeun ⟨את⟩-na sarta ⟨את⟩ padumukanana.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Jeung ngomong"
+      "gloss": "ngomong"
     },
     {
       "surface": "המלך",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "השב",
-      "gloss": "balikkeun"
+      "gloss": "mulangkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "peti Elohim"
+      "marks": "tabut"
     },
     {
       "surface": "ארון",
-      "gloss": "peti"
+      "gloss": "tabut"
     },
     {
       "surface": "האלהים",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "lamun"
+      "gloss": "mun"
     },
     {
       "surface": "אמצא",
-      "gloss": "kuring nimu"
+      "gloss": "kuring papanggih"
     },
     {
       "surface": "חן",
-      "gloss": "karunia"
+      "gloss": "kanyaah"
     },
     {
       "surface": "בעיני",
@@ -62,26 +62,27 @@
     },
     {
       "surface": "והשבני",
-      "gloss": "anjeunna baris mulangkeun abdi"
+      "gloss": "anjeunna bakal mulangkeun kuring"
     },
     {
       "surface": "והראני",
-      "gloss": "sarta nembongkeun ka abdi"
+      "gloss": "matak nembongkeun ka kuring"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-na"
+      "gloss": "⟨את⟩-na",
+      "marks": "tabut ( éta )"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "paimahan-Na"
+      "gloss": "⟨את⟩",
+      "marks": "padumukanana"
     },
     {
       "surface": "נוהו",
-      "gloss": "paimahan-Na"
+      "gloss": "padumukanana"
     }
   ],
-  "timestamp": "2026-08-26T12:32:44.346407214Z",
+  "timestamp": "2026-08-26T18:49:57.298893447Z",
   "model": "glm-5.3"
 }

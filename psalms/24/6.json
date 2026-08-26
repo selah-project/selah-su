@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 24,
-  "translation": "Ieu ⟨the⟩ generasi nu milarian ⟨⟨Him⟩⟩, nu milari raray Anjeun — Yaakov. Selah.",
+  "translation": "Ieu ⟨pokol⟩ nu milarangan Anjeunna, nu milarangan raray Anjeun — <Yaakov>. Selah.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "Ieu"
+      "gloss": "ieu"
     },
     {
       "surface": "דור",
-      "gloss": "generasi"
+      "gloss": "⟨pokol⟩"
     },
     {
       "surface": "דרשו",
-      "gloss": "nu milarian"
+      "gloss": "nu milarangan Anjeunna"
     },
     {
       "surface": "מבקשי",
-      "gloss": "nu milari"
+      "gloss": "nu milarangan"
     },
     {
       "surface": "פניך",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov"
+      "gloss": "<Yaakov>"
     },
     {
       "surface": "סלה",
-      "gloss": "Selah"
+      "gloss": "Selah."
     }
   ],
-  "timestamp": "2026-08-26T14:25:56.546032652Z",
+  "timestamp": "2026-08-26T19:05:57.405083257Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 9,
-  "translation": "Jeung Yehu kaluar ka palayan-palayan adipatina, jeung ⟨ה⟩ ngomong ka anjeunna: Naha damai? Naha datang nu edan ieu ka anjeun? Jeung anjeunna ngomong ka aranjeunna: Aranjeunna terang ⟨את⟩ jalma éta jeung ⟨את⟩ omonganna.",
+  "translation": "Lajeng Yehu kaluar ka para abdi panonna, sarta ceuk batur ka anjeunna: Aya salamet teu? Naha datang ka anjeunna nu edan ieu? Lajeng ceuk anjeunna ka aranjeunna: Aranjeun nyaho ⟨את⟩ jalma éta jeung ⟨את⟩ omonganna.",
   "tokens": [
     {
       "surface": "ויהוא",
-      "gloss": "jeung Yehu"
+      "gloss": "lajeng Yehu"
     },
     {
       "surface": "יצא",
@@ -21,26 +21,26 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "palayan-palayan"
+      "gloss": "para abdi"
     },
     {
       "surface": "אדניו",
-      "gloss": "adipatina"
+      "gloss": "panonna"
     },
     {
       "surface": "ויאמר",
-      "gloss": "jeung ngomong"
+      "gloss": "sarta ceuk"
     },
     {
       "surface": "לו",
-      "gloss": "ka anjeunna"
+      "gloss": "batur ka anjeunna"
     },
     {
       "surface": "השלום",
-      "gloss": "naha damai"
+      "gloss": "aya salamet teu"
     },
     {
-      "surface": "مדוע",
+      "surface": "מדוע",
       "gloss": "naha"
     },
     {
@@ -57,23 +57,23 @@
     },
     {
       "surface": "אליך",
-      "gloss": "ka anjeun"
+      "gloss": "ka anjeunna"
     },
     {
       "surface": "ויאמר",
-      "gloss": "jeung ngomong"
+      "gloss": "lajeng ceuk"
     },
     {
       "surface": "אליהם",
-      "gloss": "ka aranjeunna"
+      "gloss": "anjeunna ka aranjeunna"
     },
     {
       "surface": "אתם",
-      "gloss": "anjeun"
+      "gloss": "aranjeun"
     },
     {
       "surface": "ידעתם",
-      "gloss": "terang"
+      "gloss": "nyaho"
     },
     {
       "surface": "את",
@@ -86,13 +86,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "omonganna"
     },
     {
       "surface": "שיחו",
       "gloss": "omonganna"
     }
   ],
-  "timestamp": "2026-08-26T12:53:36.771698584Z",
+  "timestamp": "2026-08-26T18:21:01.118654533Z",
   "model": "glm-5.3"
 }

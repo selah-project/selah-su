@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 12,
-  "translation": "Jeung Yahwe ngomong tepa-tepa ka Moshe, ka Aharom, jeung ka Miryam: Kaluar aranjeun tilu ka khemah patepung; jeung aranjeunna tilu kaluar.",
+  "translation": "Jeung Yahwe ngandaruméndé ka Moshe, ka Aharon, jeung ka Miryam: \"Kaluar aranjeun tilu ka Kémah Papanggih.\" Maranéhna tilu pun kaluar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jeung ngomong"
+      "gloss": "ngandaruméndé"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "פתאם",
-      "gloss": "tepa-tepa"
+      "gloss": "arurémbé"
     },
     {
       "surface": "אל",
@@ -28,17 +28,50 @@
       "gloss": "Moshe"
     },
     {
-      "surface": "ויצא"
+      "surface": "ואל",
+      "gloss": "jeung ka"
     },
     {
-      "surface": "",
-      "gloss": ""
+      "surface": "אהרן",
+      "gloss": "Aharon"
     },
     {
-      "surface": "",
-      "gloss": ""
+      "surface": "ואל",
+      "gloss": "jeung ka"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Kaluar"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "aranjeun tilu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kémah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Papanggih"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "pun kaluar"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "maranéhna tilu"
     }
   ],
-  "timestamp": "2026-08-26T11:28:25.925276889Z",
+  "timestamp": "2026-08-26T18:08:58.781627904Z",
   "model": "glm-5.3"
 }

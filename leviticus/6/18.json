@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 6,
-  "translation": "Carios ka Aharon jeung ka anak-anakna, kieu: ieu téh tóróna kurban dosa — di tempat kurban bakaran dipeuncit, di dinya kurban dosa dipeuncit di payuneun Yahwe; paluing-suci ti sadayana nu suci ⟨ éta ⟩.",
+  "translation": "Ngomongkeun ka Aharon jeung ka putra-putrana, songsongkeun: Ieu torat korban dosa: di tempat di mana kurban bakaran dipeuncit, kurban dosa dipeuncit di payuneun Yahwe; suci nu pangasucina ⟨ieu⟩.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "carios"
+      "gloss": "Ngomongkeun"
     },
     {
       "surface": "אל",
@@ -20,28 +20,24 @@
       "gloss": "Aharon"
     },
     {
-      "surface": "ו",
-      "gloss": "jeung"
-    },
-    {
-      "surface": "אל",
-      "gloss": "ka"
+      "surface": "ואל",
+      "gloss": "jeung ka"
     },
     {
       "surface": "בניו",
-      "gloss": "anak-anakna"
+      "gloss": "putra-putrana"
     },
     {
       "surface": "לאמר",
-      "gloss": "kieu"
+      "gloss": "songsongkeun"
     },
     {
       "surface": "זאת",
-      "gloss": "ieu"
+      "gloss": "Ieu"
     },
     {
       "surface": "תורת",
-      "gloss": "tóró"
+      "gloss": "torat"
     },
     {
       "surface": "החטאת",
@@ -85,13 +81,13 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "ti sadayana nu suci"
+      "gloss": "nu pangasucina"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨éta⟩"
+      "gloss": "⟨ieu⟩"
     }
   ],
-  "timestamp": "2026-08-26T11:13:34.515504113Z",
+  "timestamp": "2026-08-26T18:06:17.494560115Z",
   "model": "glm-5.3"
 }

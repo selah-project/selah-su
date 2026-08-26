@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 5,
-  "translation": "Sarta anjeunna asup ka ⟨the⟩ bukit, sarta nyandak ti leungeun maranehna, sarta nunda di imah, sarta ngaleupaskeun ⟨את⟩ jalma-jalma éta, sarta maranehna angkat.",
+  "translation": "Lajeng anjeunna datang ka ⟨bukit⟩ OPel, nyandak ⟨eta⟩ ti leungeun maranehna, sarta ngaliwatanana di jero imah; lajeng anjeunna ngbéré kaluar ⟨את⟩ eta jalma-jalma, sarta aranjeunna indit.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "asup"
+      "gloss": "anjeunna datang"
     },
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העפל",
-      "gloss": "bukit"
+      "gloss": "bukit OPel"
     },
     {
       "surface": "ויקח",
@@ -28,31 +28,31 @@
       "gloss": "ti leungeun maranehna"
     },
     {
-      "surface": "ויפקד",
-      "gloss": "nunda"
+      "surface": "ופקד",
+      "gloss": "ngaliwatanana"
     },
     {
       "surface": "בבית",
-      "gloss": "di imah"
+      "gloss": "di jero imah"
     },
     {
       "surface": "וישלח",
-      "gloss": "ngaleupaskeun"
+      "gloss": "ngbéré kaluar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jalma-jalma éta"
+      "marks": "eta jalma-jalma"
     },
     {
       "surface": "האנשים",
-      "gloss": "jalma-jalma"
+      "gloss": "eta jalma-jalma"
     },
     {
       "surface": "וילכו",
-      "gloss": "angkat"
+      "gloss": "aranjeunna indit"
     }
   ],
-  "timestamp": "2026-08-26T12:51:32.380576587Z",
+  "timestamp": "2026-08-26T18:20:13.875244036Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 22,
-  "translation": "Jalma nu nyambar eta jadi teu beresih nepi ka surup, jeung moal tuang tina ⟨the⟩ hal-hal suci upamana manehna teu meresihan awakna ku cai.",
+  "translation": "Jelema nu antel kana eta, jadi teu murni nepi ka surupna ⟨⟨mataari⟩⟩, jeung ulah dahar tina ⟨⟨barang-barang suci⟩⟩ iwal mun geus meresihan dagingna ku cai.",
   "tokens": [
     {
       "surface": "נפש",
-      "gloss": "jalma"
+      "gloss": "jelema"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תגע",
-      "gloss": "nyambar"
+      "gloss": "antel kana"
     },
     {
       "surface": "בו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וטמאה",
-      "gloss": "jadi teu beresih"
+      "gloss": "jadi teu murni"
     },
     {
       "surface": "עד",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "הערב",
-      "gloss": "surup"
+      "gloss": "surupna ⟨mataari⟩"
     },
     {
       "surface": "ולא",
-      "gloss": "jeung moal"
+      "gloss": "jeung ulah"
     },
     {
       "surface": "יאכל",
-      "gloss": "tuang"
+      "gloss": "dahar"
     },
     {
       "surface": "מן",
@@ -49,29 +49,29 @@
     },
     {
       "surface": "הקדשים",
-      "gloss": "hal-hal suci"
+      "gloss": "barang-barang suci"
     },
     {
       "surface": "כי",
-      "gloss": "upamana"
+      "gloss": "mun"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "iwal"
     },
     {
       "surface": "רחץ",
-      "gloss": "ngameresihan"
+      "gloss": "geus meresihan"
     },
     {
       "surface": "בשרו",
-      "gloss": "awakna"
+      "gloss": "dagingna"
     },
     {
       "surface": "במים",
       "gloss": "ku cai"
     }
   ],
-  "timestamp": "2026-08-26T11:20:41.088463777Z",
+  "timestamp": "2026-08-26T19:01:06.320707551Z",
   "model": "glm-5.3"
 }

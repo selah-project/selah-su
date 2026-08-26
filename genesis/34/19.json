@@ -5,8 +5,65 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 34,
-  "translation": "Jeung teu talangéng ⟨⟨את⟩⟩ rumaja éta mawa ngalaksanakeun ⟨⟨את⟩⟩ kanyaah ka putri Yaakov, sabab bungah kana dirina; jeung manéhna leuwih mulya ti batan saeuruy bapana.",
-  "tokens": [],
-  "timestamp": "2026-08-26T16:38:28.627092749Z",
+  "translation": "Jeung teu nunda rumaja eta mimiti ngalakukeun ⟨את⟩ pagawéh eta, sabab kahayangna ka putri Yaakov, jeung anjeunna pangdipikahormatna ti sakabéh imah bapana.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nunda"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "rumaja eta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mimiti ngalakukeun"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pagawéh eta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kahayangna"
+    },
+    {
+      "surface": "בבת",
+      "gloss": "ka putri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jeung anjeunna"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "pangdipikahormatna"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti sakabéh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapana"
+    }
+  ],
+  "timestamp": "2026-08-26T18:01:24.419896253Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,49 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 48,
-  "translation": "Jeung Moab bakal tandas harepan tina Kemosh, sakumaha beungeut awak batur ti Bet-El, singsarina.",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:39:42.250039088Z",
+  "translation": "Jeung Moab bakal kaoleh éra ku sabab Kemosh, saperti éra-na beit Yisrael ku sabab Beit-El, sanguan maranéhanana.",
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "bakal kaoleh éra"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "ku sabab Kemosh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saperti"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "éra-na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ku sabab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beit-El"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "sanguan maranéhanana"
+    }
+  ],
+  "timestamp": "2026-08-26T18:40:47.925175134Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "su",
   "chapter": 7,
-  "translation": "Lalaki-lalaki ti Beit-El jeung ⟨the⟩ Ai: saratus dua puluh tilu.",
+  "translation": "Lalaki-lalaki ti Beit-El jeung ti Ai, saratus dua puluh tilu.",
   "tokens": [
     {
       "surface": "אנשי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beit"
+      "gloss": "Beit-"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והעי",
-      "gloss": "jeung Ai"
+      "gloss": "jeung ti Ai"
     },
     {
       "surface": "מאה",
@@ -36,6 +36,6 @@
       "gloss": "jeung tilu"
     }
   ],
-  "timestamp": "2026-08-26T15:59:25.763019670Z",
+  "timestamp": "2026-08-26T18:36:02.213443728Z",
   "model": "glm-5.3"
 }

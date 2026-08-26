@@ -5,8 +5,77 @@
   "book": "joel",
   "lang": "su",
   "chapter": 1,
-  "translation": "Beungeusanjeun, jeung milu sedeu, hai para imam; celengis, hai para pangladang ⟨⟨altár⟩> ditémbongkeun — liang: pangladang altár; asup, saré di jero sak, hai pangladang Elohim kuring; sabab kaeureunkeun ti imah Elohim maraneh charita persembahan jeung cai surgan.",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:06:58.223887491Z",
+  "translation": "Pingitkeun jeung tangis, para imam; eungit, para pangladang mazbah; sumping, saré di jero karung, para pangladang Elohim kuring; sabab kaeureunkeun ti imah Elohim maraneh persembahan beuheuy jeung persembahan inuman.",
+  "tokens": [
+    {
+      "surface": "חגרו",
+      "gloss": "pingitkeun"
+    },
+    {
+      "surface": "וספדו",
+      "gloss": "jeung tangis"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "eungit"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "para pangladang"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sumping"
+    },
+    {
+      "surface": "לינו",
+      "gloss": "saré"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "di jero karung"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "para pangladang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "נמנע",
+      "gloss": "kaeureunkeun"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim maraneh"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan beuheuy"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "jeung persembahan inuman"
+    }
+  ],
+  "timestamp": "2026-08-26T18:29:35.123134236Z",
   "model": "glm-5.3"
 }

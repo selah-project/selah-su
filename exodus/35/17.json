@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 35,
-  "translation": "⟨את⟩ kain-kain layar ⟨the⟩ pekarangan, ⟨את⟩ pilar-pilarana jeung ⟨את⟩ dadasaranna, jeung ⟨את⟩ kelambi panutup panto ⟨the⟩ pekarangan.",
+  "translation": "⟨את⟩ tandangan-pamuka heuey, ⟨את⟩ pilar-pilarana jeung ⟨את⟩ sulam-sulamna, jeung ⟨את⟩ tarum-panutup panto heuey;",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kain-kain layar"
+      "marks": "tandangan-pamuka heuey"
     },
     {
       "surface": "קלעי",
-      "gloss": "kain-kain layar"
+      "gloss": "tandangan-pamuka"
     },
     {
       "surface": "החצר",
-      "gloss": "pekarangan"
+      "gloss": "heuey"
     },
     {
       "surface": "את",
@@ -32,20 +32,20 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "dadasaranna"
+      "marks": "sulam-sulamna"
     },
     {
       "surface": "אדניה",
-      "gloss": "dadasaranna"
+      "gloss": "sulam-sulamna"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "kelambi panutup"
+      "marks": "tarum-panutup panto heuey"
     },
     {
       "surface": "מסך",
-      "gloss": "kelambi panutup"
+      "gloss": "tarum-panutup"
     },
     {
       "surface": "שער",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "החצר",
-      "gloss": "pekarangan"
+      "gloss": "heuey"
     }
   ],
-  "timestamp": "2026-08-26T11:09:11.737066754Z",
+  "timestamp": "2026-08-26T18:05:20.526001772Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 34,
-  "translation": "⟨את>> marané domba jeung ⟨את>> sapi maranéhna jeung ⟨את>> kuda heulang maranéhna jeung ⟨את>> sakabéh nu aya di kota jeung ⟨את>> sakabéh nu aya di sawah maranéhna dicandak.",
+  "translation": "⟨את⟩ embe maranéhna jeung ⟨את⟩ sapi maranéhna jeung ⟨את⟩ kabau maranéhna jeung ⟨את⟩ sakabéh nu aya di kota jeung ⟨את⟩ sakabéh nu aya di kebon, maranéhna ambil.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "marané domba"
+      "marks": "embe maranéhna"
     },
     {
       "surface": "צאנם",
-      "gloss": "marané domba"
+      "gloss": "embe maranéhna"
     },
     {
       "surface": "ואת",
@@ -28,11 +28,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kuda heulang maranéhna"
+      "marks": "kabau maranéhna"
     },
     {
       "surface": "חמריהם",
-      "gloss": "kuda heulang maranéhna"
+      "gloss": "kabau maranéhna"
     },
     {
       "surface": "ואת",
@@ -50,7 +50,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sakabéh nu aya di sawah"
+      "marks": "sakabéh nu aya di kebon"
     },
     {
       "surface": "אשר",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "aya di sawah"
+      "gloss": "aya di kebon"
     },
     {
       "surface": "לקחו",
-      "gloss": "maranéhna dicandak"
+      "gloss": "maranéhna ambil"
     }
   ],
-  "timestamp": "2026-08-26T10:48:30.134446873Z",
+  "timestamp": "2026-08-26T18:02:05.190337795Z",
   "model": "glm-5.3"
 }

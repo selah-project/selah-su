@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 5,
-  "translation": "Sanggeus kitu putra-putra Yisrael ngalakukeunana kitu, jeung aranjeunna ngusir aranjeunna ka luar ⟨the kemah⟩, saperti anu geus diomongkeun Yahwe ka Moshe, kitulah putra-putra Yisrael ngalakukeunana.",
+  "translation": "Jeung anak-anak Israél ngalakukeun kitu, maranéhna ngirimkeun ⟨את⟩ aranjeunna ka luar kamp, saperti anu diomongkeun Yahwe ka Moshe; kitu anak-anak Israél ngalakukeunana.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "Sanggeus kitu ngalakukeunana"
+      "gloss": "jeung ngalakukeun"
     },
     {
       "surface": "כן",
@@ -17,19 +17,20 @@
     },
     {
       "surface": "בני",
-      "gloss": "putra-putra"
+      "gloss": "anak-anak"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israél"
     },
     {
       "surface": "וישלחו",
-      "gloss": "jeung aranjeunna ngusir"
+      "gloss": "maranéhna ngirimkeun kaluar"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ aranjeunna"
+      "gloss": "⟨את⟩",
+      "marks": "aranjeunna"
     },
     {
       "surface": "אל",
@@ -41,7 +42,7 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "⟨the kemah⟩"
+      "gloss": "kamp"
     },
     {
       "surface": "כאשר",
@@ -65,7 +66,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "kitulah"
+      "gloss": "kitu"
     },
     {
       "surface": "עשו",
@@ -73,13 +74,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "putra-putra"
+      "gloss": "anak-anak"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israél"
     }
   ],
-  "timestamp": "2026-08-26T11:25:54.723904871Z",
+  "timestamp": "2026-08-26T18:08:43.006126737Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 33,
-  "translation": "Jeung ieu téh berkah nu dipapaitkeun ku Moshe, jalma ⟨the⟩ Elohim, ka ⟨את⟩ barudak Yisrael saméméh paéhna.",
+  "translation": "Jeung ieu berkah anu dipakai mberkahi ku Moshe, lalaki ⟨Elohim⟩, ka ⟨את⟩ putra-putra Yisrael, saméméh maotna.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "jeung ieu téh"
+      "gloss": "jeung ieu"
     },
     {
       "surface": "הברכה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nu"
+      "gloss": "anu"
     },
     {
       "surface": "ברך",
-      "gloss": "dipapaitkeun"
+      "gloss": "mberkahi"
     },
     {
       "surface": "משה",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "איש",
-      "gloss": "jalma"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨the⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "barudak Yisrael"
+      "marks": "putra-putra Yisrael"
     },
     {
       "surface": "בני",
-      "gloss": "barudak"
+      "gloss": "putra-putra"
     },
     {
       "surface": "ישראל",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "מותו",
-      "gloss": "paéhna"
+      "gloss": "maotna"
     }
   ],
-  "timestamp": "2026-08-26T11:52:00.768560459Z",
+  "timestamp": "2026-08-26T18:13:45.323674475Z",
   "model": "glm-5.3"
 }

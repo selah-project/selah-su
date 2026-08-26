@@ -5,8 +5,77 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 39,
-  "translation": "Dina taun ka-sembilan Tsidkiyahu raja Yehudah, dina bulan ka-sapuluh, Nebukadretsar raja Babel jeung sakabéh balad-na datang ka Yerushalaim, sarta maranéhanana ngurung ⟨the>euweuh—kuring sa� 1 » » — kuring teu meunang nulis kitu. QUÉ:",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:36:44.818100996Z",
+  "translation": "Dina taun ka-sembilan Tsidkiyahu raja Yehudah, dina bulan ka-sapuluh, Nevukhadre'tsar raja Babel jeung sakabéh pasukanna datang ka Yerushalaim, sarta maranéhna ngapingpingunan.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "dina taun"
+    },
+    {
+      "surface": "התשעית",
+      "gloss": "ka-sembilan"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dina bulan"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "ka-sapuluh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukhadre'tsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "pasukanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "sarta maranéhna ngapingpingunan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kana anjeuna"
+    }
+  ],
+  "timestamp": "2026-08-26T18:25:20.736936718Z",
   "model": "glm-5.3"
 }

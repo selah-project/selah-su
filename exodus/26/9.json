@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 26,
-  "translation": "Jeung anjeun bakal nyambungkeun ⟨את⟩ lima tutungkulan sorangan, jeung ⟨את⟩ genep tutungkulan sorangan, jeung anjeun bakal ngalipetkeun ⟨את⟩ tutungkulan nu kagenep ka payuneun ⟨the⟩ khemah.",
+  "translation": "Sarta anjeun bakal nyambungkeun ⟨את⟩ lima tirai sorangan, jeung ⟨את⟩ genep tirai sorangan, sarta anjeun bakal ngalipetkeun ⟨את⟩ tirai ka-genep kana payune khemah.",
   "tokens": [
     {
       "surface": "וחברת",
-      "gloss": "jeung anjeun bakal nyambungkeun"
+      "gloss": "sarta anjeun bakal nyambungkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lima tutungkulan"
+      "marks": "lima tirai"
     },
     {
       "surface": "חמש",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "היריעת",
-      "gloss": "tutungkulan"
+      "gloss": "tirai"
     },
     {
       "surface": "לבד",
@@ -31,7 +31,7 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "genep tutungkulan"
+      "marks": "genep tirai"
     },
     {
       "surface": "שש",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "היריעת",
-      "gloss": "tutungkulan"
+      "gloss": "tirai"
     },
     {
       "surface": "לבד",
@@ -47,20 +47,20 @@
     },
     {
       "surface": "וכפלת",
-      "gloss": "jeung anjeun bakal ngalipetkeun"
+      "gloss": "sarta anjeun bakal ngalipetkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tutungkulan nu kagenep"
+      "marks": "tirai ka-genep"
     },
     {
       "surface": "היריעה",
-      "gloss": "tutungkulan"
+      "gloss": "tirai"
     },
     {
       "surface": "הששית",
-      "gloss": "nu kagenep"
+      "gloss": "ka-genep"
     },
     {
       "surface": "אל",
@@ -68,17 +68,17 @@
     },
     {
       "surface": "מול",
-      "gloss": "payuneun"
+      "gloss": "pajeunteung"
     },
     {
       "surface": "פני",
-      "gloss": "pamukaan"
+      "gloss": "payune"
     },
     {
       "surface": "האהל",
       "gloss": "khemah"
     }
   ],
-  "timestamp": "2026-08-26T11:04:28.141148088Z",
+  "timestamp": "2026-08-26T18:04:09.188691789Z",
   "model": "glm-5.3"
 }

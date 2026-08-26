@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "su",
   "chapter": 9,
-  "translation": "Pikeun netepkeun ka maranehna, sangkan maranehna jadi ngalaksanakeun ⟨את⟩ poé opat belas dina bulan Adar, jeung ⟨את⟩ poé lima belas dina éta bulan, dina unggal taun jeung taun.",
+  "translation": "Pikeun netepkeun ka maranehna, sangkan jadi ngalaksanakeun ⟨את⟩ poé opat belas bulan Adar jeung ⟨את⟩ poé lima belas dina éta bulan, dina satiap-tiap taun jeung taun.",
   "tokens": [
     {
       "surface": "לקים",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "poé"
+      "marks": "poé opat belas bulan Adar"
     },
     {
       "surface": "יום",
@@ -42,20 +42,16 @@
     },
     {
       "surface": "לחדש",
-      "gloss": "dina bulan"
+      "gloss": "bulan"
     },
     {
       "surface": "אדר",
       "gloss": "Adar"
     },
     {
-      "surface": "ו",
-      "gloss": "⟨את⟩ jeung"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "poé"
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "poé lima belas"
     },
     {
       "surface": "יום",
@@ -71,11 +67,11 @@
     },
     {
       "surface": "בו",
-      "gloss": "dina éta"
+      "gloss": "dina éta bulan"
     },
     {
       "surface": "בכל",
-      "gloss": "dina unggal"
+      "gloss": "dina satiap"
     },
     {
       "surface": "שנה",
@@ -86,6 +82,6 @@
       "gloss": "jeung taun"
     }
   ],
-  "timestamp": "2026-08-26T17:22:04.871153103Z",
+  "timestamp": "2026-08-26T18:35:24.044826858Z",
   "model": "glm-5.3"
 }

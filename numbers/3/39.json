@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 3,
-  "translation": "Sakabéh nu diasongkeun ti ⟨the⟩ Léwi, nu diasongkeun ku Moshe jeung Aharon ku parentah Yahwe, luyu jeung kulawargana masing-masing, sakabéh lalaki ti umur sapoé bulan ka luhur: dua puluh dua réwu.",
+  "translation": "Kabéh nu diitung ti bangsa Lewi, nu diitung ku Moshe jeung Aharon kaluuhan parentah Yahwe, luyu jeung kulawargi maranhéana — kabéh lalaki ti umur sasih ka luhur — dua jeung dua puluh rébu.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Sakabéh"
+      "gloss": "kabéh"
     },
     {
       "surface": "פקודי",
-      "gloss": "nu diasongkeun"
+      "gloss": "nu diitung"
     },
     {
       "surface": "הלוים",
-      "gloss": "Léwi"
+      "gloss": "Lewi"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "פקד",
-      "gloss": "diasongkeun"
+      "gloss": "diitung"
     },
     {
       "surface": "משה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ku"
+      "gloss": "kaluuhan"
     },
     {
       "surface": "פי",
-      "gloss": "parentah"
+      "gloss": "parentah (corét)"
     },
     {
       "surface": "יהוה",
@@ -49,12 +49,11 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "luyu jeung kulawargana"
+      "gloss": "luyu kulawargi maranhéana"
     },
     {
-      "surface": "кал",
-      "gloss": "sakabéh",
-      "note": "surface应是כל"
+      "surface": "כל",
+      "gloss": "kabéh"
     },
     {
       "surface": "זכר",
@@ -66,7 +65,7 @@
     },
     {
       "surface": "חדש",
-      "gloss": "sapoé bulan"
+      "gloss": "sasih"
     },
     {
       "surface": "ומעלה",
@@ -78,13 +77,13 @@
     },
     {
       "surface": "ועשרים",
-      "gloss": "puluh dua"
+      "gloss": "jeung dua puluh"
     },
     {
       "surface": "אלף",
-      "gloss": "réwu"
+      "gloss": "rébu"
     }
   ],
-  "timestamp": "2026-08-26T11:25:08.243485624Z",
+  "timestamp": "2026-08-26T18:08:46.079878875Z",
   "model": "glm-5.3"
 }

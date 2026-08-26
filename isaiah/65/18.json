@@ -5,19 +5,23 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 65,
-  "translation": "Tapi buih bungah jeung gumbira salawasna dina nu abdi nyiptakeun; kusabab reuh, abdi nyiptakeun ⟨את⟩ Yerushalaim jadi bungah, jeung umat-na jadi kagumbiraan.",
+  "translation": "Tapi bingah sarta kagirang salawasna dina nu ku abdi diciptakeun, sabab cela, abdi nyiptakeun ⟨את⟩ Yerushalaim jadi kagirang jeung bangsana jadi kanyaah-bungah.",
   "tokens": [
     {
-      "surface": "כי אם",
-      "gloss": "Tapi"
+      "surface": "כי",
+      "gloss": "tapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
     },
     {
       "surface": "שישו",
-      "gloss": "buih bungah"
+      "gloss": "bingah"
     },
     {
       "surface": "וגילו",
-      "gloss": "jeung gumbira"
+      "gloss": "sarta kagirang"
     },
     {
       "surface": "עדי",
@@ -25,7 +29,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "ngahiji"
+      "gloss": "dina"
     },
     {
       "surface": "אשר",
@@ -37,15 +41,15 @@
     },
     {
       "surface": "בורא",
-      "gloss": "nyiptakeun"
+      "gloss": "diciptakeun"
     },
     {
       "surface": "כי",
-      "gloss": "kusabab"
+      "gloss": "sabab"
     },
     {
       "surface": "הנני",
-      "gloss": "reuh, abdi"
+      "gloss": "cela"
     },
     {
       "surface": "בורא",
@@ -58,21 +62,21 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "⟨את⟩ Yerushalaim"
+      "gloss": "Yerushalaim"
     },
     {
       "surface": "גילה",
-      "gloss": "bungah"
+      "gloss": "kagirang"
     },
     {
       "surface": "ועמה",
-      "gloss": "jeung umat-na"
+      "gloss": "jeung bangsana"
     },
     {
       "surface": "משוש",
-      "gloss": "kagumbiraan"
+      "gloss": "kanyaah-bungah"
     }
   ],
-  "timestamp": "2026-08-26T13:21:14.907611475Z",
+  "timestamp": "2026-08-26T18:23:39.374929393Z",
   "model": "glm-5.3"
 }

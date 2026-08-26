@@ -5,39 +5,39 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 3,
-  "translation": "Jeung nu ngampir saméméh ⟨the⟩ Kemah, di wétan, saméméh Khemah Papanggihan, ka datangna panonpoé: Moshe jeung Aharon sarta putra-putrana, nu ngajaga tugas ⟨the⟩ tempat suci, pikeun tugas putra-putra Israyel; jeung ⟨the⟩ batur asing nu ngadeukeutan bakal dipaéhan.",
+  "translation": "Jeung nu nganjang di payuneun mishkan, ka wétan, di payuneun tenda patepungan, ka bitaratna panonpoé ⟨ éta ⟩ Moshe jeung Aharon jeung putra-putrana, ngajaga tugas-jagaan ⟨sana⟩ suci, pikeun tugas-jagaan putra-putra Yisrael; jeung nu liar nu ngadeukeutan bakal dipaéhan.",
   "tokens": [
     {
       "surface": "והחנים",
-      "gloss": "jeung nu ngampir"
+      "gloss": "jeung nu nganjang"
     },
     {
       "surface": "לפני",
-      "gloss": "saméméh"
+      "gloss": "di payuneun"
     },
     {
       "surface": "המשכן",
-      "gloss": "Kemah"
+      "gloss": "mishkan"
     },
     {
       "surface": "קדמה",
-      "gloss": "di wétan"
+      "gloss": "ka wétan"
     },
     {
       "surface": "לפני",
-      "gloss": "saméméh"
+      "gloss": "di payuneun"
     },
     {
       "surface": "אהל",
-      "gloss": "Khemah"
+      "gloss": "tenda"
     },
     {
       "surface": "מועד",
-      "gloss": "Papanggihan"
+      "gloss": "patepungan"
     },
     {
       "surface": "מזרחה",
-      "gloss": "ka datangna panonpoé"
+      "gloss": "ka bitaratna panonpoé"
     },
     {
       "surface": "משה",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "sarta putra-putrana"
+      "gloss": "jeung putra-putrana"
     },
     {
       "surface": "שמרים",
-      "gloss": "nu ngajaga"
+      "gloss": "ngajaga"
     },
     {
       "surface": "משמרת",
-      "gloss": "tugas"
+      "gloss": "tugas-jagaan"
     },
     {
       "surface": "המקדש",
-      "gloss": "tempat suci"
+      "gloss": "sana"
     },
     {
       "surface": "למשמרת",
-      "gloss": "pikeun tugas"
+      "gloss": "pikeun tugas-jagaan"
     },
     {
       "surface": "בני",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "והזר",
-      "gloss": "jeung batur asing"
+      "gloss": "jeung nu liar"
     },
     {
       "surface": "הקרב",
@@ -88,6 +88,6 @@
       "gloss": "bakal dipaéhan"
     }
   ],
-  "timestamp": "2026-08-26T11:25:08.243277748Z",
+  "timestamp": "2026-08-26T18:08:46.079645508Z",
   "model": "glm-5.3"
 }

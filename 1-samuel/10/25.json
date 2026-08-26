@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 10,
-  "translation": "Lajeng Shemuel ngomong ka ⟨⟉⟩ ⟩ ⟨the⟩ jalma ngeunaan ⟨את⟩ aturan karajaan, sarta anjeunna nulis dina buku, sarta nempatkeunana saméméh Yahwe; sarta Shemuel ngbébaskeun ⟨את⟩ sakabéh jalma, tiap jalma ka imahna masing-masing.",
+  "translation": "Tur Shemuél nyarita ka ⟨rakyat⟩ ngeunaan ⟨את⟩ aturan karajaan, sarta nuliskeunana dina kitab, sarta nempatkeunana di payuneun Yahwe; lajeng Shemuél ngabébaskeun ⟨את⟩ sakabéh ⟨rakyat⟩, unggal jalma ka imahna.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "ngomong"
+      "gloss": "nyarita"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuel"
+      "gloss": "Shemuél"
     },
     {
       "surface": "אל",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "העם",
-      "gloss": "jalma"
+      "gloss": "⟨rakyat⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aturan"
+      "marks": "aturan karajaan"
     },
     {
       "surface": "משפט",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "ויכתב",
-      "gloss": "nulis"
+      "gloss": "sarta nuliskeunana"
     },
     {
       "surface": "בספר",
-      "gloss": "dina buku"
+      "gloss": "dina kitab"
     },
     {
       "surface": "וינח",
-      "gloss": "nempatkeunana"
+      "gloss": "sarta nempatkeunana"
     },
     {
       "surface": "לפני",
-      "gloss": "saméméh"
+      "gloss": "di payuneun"
     },
     {
       "surface": "יהוה",
@@ -58,16 +58,16 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "ngbébaskeun"
+      "gloss": "lajeng ngabébaskeun"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuel"
+      "gloss": "Shemuél"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakabéh"
+      "marks": "sakabéh rakyat"
     },
     {
       "surface": "כל",
@@ -75,17 +75,17 @@
     },
     {
       "surface": "העם",
-      "gloss": "jalma"
+      "gloss": "⟨rakyat⟩"
     },
     {
       "surface": "איש",
-      "gloss": "tiap jalma"
+      "gloss": "unggal jalma"
     },
     {
       "surface": "לביתו",
       "gloss": "ka imahna"
     }
   ],
-  "timestamp": "2026-08-26T12:14:56.510618832Z",
+  "timestamp": "2026-08-26T18:16:18.232878515Z",
   "model": "glm-5.3"
 }

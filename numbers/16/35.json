@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 16,
-  "translation": "Jeung seuneu kaluar ti ⟨ti payuneun⟩ Yahwe, sarta ngahakan ⟨את⟩ ⟨the⟩ lima puluh jeung dua ratus jalma, nu mawa pang offerings dupa.",
+  "translation": "Jeung seuneu kaluar ti sisi Yahwe, lajeng ngahakan ⟨את⟩ nu lima puluh jeung dua ratus jalma, nu ngadeukeutan kadutuanana.",
   "tokens": [
     {
       "surface": "ואש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "gloss": "ti sisi ⟨את⟩"
     },
     {
       "surface": "יהוה",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "sarta ngahakan"
+      "gloss": "lajeng ngahakan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lima puluh jeung dua ratus jalma"
+      "marks": "nu lima puluh jeung dua ratus jalma"
     },
     {
       "surface": "החמשים",
-      "gloss": "lima puluh"
+      "gloss": "nu lima puluh"
     },
     {
       "surface": "ומאתים",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "מקריבי",
-      "gloss": "nu mawa pang offerings"
+      "gloss": "nu ngadeukeutan"
     },
     {
       "surface": "הקטרת",
-      "gloss": "dupa"
+      "gloss": "kadutuanana"
     }
   ],
-  "timestamp": "2026-08-26T16:45:16.840107505Z",
+  "timestamp": "2026-08-26T18:09:10.832093347Z",
   "model": "glm-5.3"
 }

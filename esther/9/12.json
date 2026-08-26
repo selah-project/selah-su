@@ -5,8 +5,126 @@
   "book": "esther",
   "lang": "su",
   "chapter": 9,
-  "translation": "Jeung raja nyarita ka Ester ratu: di Shushan bénténg Yahudi maotkeun jeung m euangkeun lima ratus urang jeung ⟨את⟩ sapuluh putra Haman; di sisa propinsi-propinsi raja naon nu dipigawé? jeung naon pémented anjeun, sangkan dipaparin? jeung naon deui kaperluan anjeun, sangkan dijieun?",
-  "tokens": [],
-  "timestamp": "2026-08-26T15:39:46.036834876Z",
+  "translation": "Sarta rajá nyarita ka Ester ratu: di Shushan bétéjor urang Yahudi geus maéhan sarta ngancurkeun lima ratus jalma jeung ⟨את⟩ sapuluh putra Haman; di sésa propinsi-propinsi rajá naon nu geus maranéhna laksanakeun? Jeung naon paménta anjeun, mangka dibikeun ka anjeun; jeung naon deui kahayang anjeun, mangka diamparan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sarta nyarita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajá"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ka Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "di Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "bétéjor"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "geus maéhan"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "urang Yahudi"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "sarta ngancurkeun"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapuluh putra Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "di sésa"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "propinsi-propinsi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajá"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nu geus maranéhna laksanakeun"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Jeung naon"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "paménta anjeun"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "mangka dibikeun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "jeung naon"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "kahayang anjeun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "deui"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "mangka diamparan"
+    }
+  ],
+  "timestamp": "2026-08-26T18:35:24.126026103Z",
   "model": "glm-5.3"
 }

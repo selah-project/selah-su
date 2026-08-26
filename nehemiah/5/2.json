@@ -5,8 +5,53 @@
   "book": "nehemiah",
   "lang": "su",
   "chapter": 5,
-  "translation": "Jeung aya nu nyarita: „Lalaki jeung awéwé urang, urang loba; hayu urang nyandak ᮜᮨᮞᮨ⟨את⟩ 👎\" — lékah: teu meujeuh. Renders: \"Jeung aya nu nyarita: „Bajang urang jeung awéwé urang — urang loba; hayu urang nyandak ⟨gandum⟩ sangkan urang tuang jeung hirup.\"",
-  "tokens": [],
-  "timestamp": "2026-08-26T17:23:35.121146653Z",
+  "translation": "Jeung aya nu nyarita: anak lalaki urang jeung anak awéwé urang — urang loba; hayu urang motong ⟨béas⟩ sangkan urang dahar jeung hirup.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "jeung aya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "anak lalaki urang"
+    },
+    {
+      "surface": "ובנתינו",
+      "gloss": "jeung anak awéwé urang"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "urang"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "ונקחה",
+      "gloss": "hayu urang motong"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "béas"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "sangkan urang dahar"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "jeung hirup"
+    }
+  ],
+  "timestamp": "2026-08-26T18:36:08.130239235Z",
   "model": "glm-5.3"
 }

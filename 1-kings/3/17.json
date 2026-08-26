@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 3,
-  "translation": "Jeung ceurik istri ⟨the⟩ hiji: Tolong, Adonay kuring, kuring jeung istri ieu cicing di imah hiji, jeung kuring ngalahirkeun babarengan jeung anjeunna di ⟨the⟩ imah.",
+  "translation": "Jeung ceurik awéwé ⟨nu⟩ hiji: „Adun, abdi jeung awéwé ieu numpang hirup di hiji imah, jeung abdi ngalahirkeun babarengan jeung anjeunna di ⟨imah⟩ éta.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "האשה",
-      "gloss": "istri"
+      "gloss": "awéwé"
     },
     {
       "surface": "האחת",
-      "gloss": "hiji"
+      "gloss": "⟨nu⟩ hiji"
     },
     {
       "surface": "בי",
-      "gloss": "tolong"
+      "gloss": "adun"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonay kuring"
+      "gloss": "adun"
     },
     {
       "surface": "אני",
-      "gloss": "kuring"
+      "gloss": "abdi"
     },
     {
       "surface": "והאשה",
-      "gloss": "jeung istri"
+      "gloss": "jeung awéwé"
     },
     {
       "surface": "הזאת",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ישבת",
-      "gloss": "cicing"
+      "gloss": "numpang hirup"
     },
     {
       "surface": "בבית",
-      "gloss": "di imah"
+      "gloss": "di hiji imah"
     },
     {
       "surface": "אחד",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ואלד",
-      "gloss": "jeung kuring ngalahirkeun"
+      "gloss": "jeung ngalahirkeun"
     },
     {
       "surface": "עמה",
@@ -64,6 +64,6 @@
       "gloss": "di imah"
     }
   ],
-  "timestamp": "2026-08-26T12:38:15.812825524Z",
+  "timestamp": "2026-08-26T18:18:55.775681753Z",
   "model": "glm-5.3"
 }

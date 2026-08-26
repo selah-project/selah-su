@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "su",
   "chapter": 4,
-  "translation": "Jeung Mordekai nyaho ⟨את⟩ sadaya nu geus dipigawé, lajeng Mordekai nyiksik ⟨את⟩ papakéanna, maké karés baliti jeung abu, kaluar ka tengah ⟨the⟩ kota, sarta ngajeungkrék jerit kacida gedéna jeung pait.",
+  "translation": "Jeung Mordekhay nyaho ⟨את⟩ sagala nu geus dipigawé, lajeng Mordekhay nyiksik ⟨את⟩ papakéanana, sarta maké karudung karas jeung abu, terus kaluar ka tengah ⟨…⟩ kota sarta jerit jeritan gedé jeung pait.",
   "tokens": [
     {
       "surface": "ומרדכי",
-      "gloss": "jeung Mordekai"
+      "gloss": "Jeung Mordekhay"
     },
     {
       "surface": "ידע",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya"
+      "marks": "sagala"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sagala"
     },
     {
       "surface": "אשר",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordekai"
+      "gloss": "Mordekhay"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "papakéanna"
+      "marks": "papakéanana"
     },
     {
       "surface": "בגדיו",
-      "gloss": "papakéanna"
+      "gloss": "papakéanana"
     },
     {
       "surface": "וילבש",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "שק",
-      "gloss": "karés baliti"
+      "gloss": "karudung karas"
     },
     {
       "surface": "ואפר",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "sarta kaluar"
+      "gloss": "terus kaluar"
     },
     {
       "surface": "בתוך",
@@ -75,21 +75,21 @@
     },
     {
       "surface": "ויזעק",
-      "gloss": "sarta ngajeungkrék"
+      "gloss": "sarta jerit"
     },
     {
       "surface": "זעקה",
-      "gloss": "jerit"
+      "gloss": "jeritan"
     },
     {
       "surface": "גדלה",
-      "gloss": "kacida gedéna"
+      "gloss": "gedé"
     },
     {
       "surface": "ומרה",
       "gloss": "jeung pait"
     }
   ],
-  "timestamp": "2026-08-26T15:37:45.292717795Z",
+  "timestamp": "2026-08-26T18:35:19.168632289Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,15 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 25,
-  "translation": "Yobel ⟨eta⟩ ⟨mangrupakeun⟩ taun kalima-puluh, taun ⟨eta⟩ bakal jadi pikeun anjeun; ulah anjeun melak jeung ulah ⟨את⟩ anjeun miceun ⟨את⟩ nu tutuwuhanana sorangan, sarta ulah ⟨את⟩ anjeun nginget ⟨את⟩ kuruncungna.",
+  "translation": "Yobel ⟨éta⟩, taun ka-lima-puluh, taun ⟨éta⟩ bakal jadi pikeun aranjeun: ulah maranéh némpokeun siki, jeung ulah maranéh neundeun ⟨את⟩ sésa tumuwuhna, jeung ulah maranéh mulung ⟨את⟩ anggur nu teu dirawat",
   "tokens": [
     {
       "surface": "יובל",
-      "gloss": "yobel"
+      "gloss": "Yobel"
     },
     {
       "surface": "הוא",
-      "gloss": "eta"
-    },
-    {
-      "surface": "šení",
-      "gloss": "taun"
+      "gloss": "⟨éta⟩"
     },
     {
       "surface": "שנת",
@@ -25,7 +21,7 @@
     },
     {
       "surface": "החמשים",
-      "gloss": "kalima-puluh"
+      "gloss": "ka-lima-puluh"
     },
     {
       "surface": "שנה",
@@ -37,7 +33,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "pikeun anjeun"
+      "gloss": "pikeun aranjeun"
     },
     {
       "surface": "לא",
@@ -45,7 +41,7 @@
     },
     {
       "surface": "תזרעו",
-      "gloss": "anjeun melak"
+      "gloss": "maranéh némpokeun siki"
     },
     {
       "surface": "ולא",
@@ -53,16 +49,16 @@
     },
     {
       "surface": "תקצרו",
-      "gloss": "⟨את⟩ anjeun miceun"
+      "gloss": "maranéh neundeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nu tutuwuhanana sorangan"
+      "marks": "sésa tumuwuhna"
     },
     {
       "surface": "ספיחיה",
-      "gloss": "nu tutuwuhanana sorangan"
+      "gloss": "sésa tumuwuhna"
     },
     {
       "surface": "ולא",
@@ -70,18 +66,18 @@
     },
     {
       "surface": "תבצרו",
-      "gloss": "⟨את⟩ anjeun nginget"
+      "gloss": "maranéh mulung anggur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuruncungna"
+      "marks": "anggur nu teu dirawat"
     },
     {
-      "surface": "נזיריה",
-      "gloss": "kuruncungna"
+      "surface": "נזריה",
+      "gloss": "anggur nu teu dirawat"
     }
   ],
-  "timestamp": "2026-08-26T11:21:59.498065885Z",
+  "timestamp": "2026-08-26T18:07:42.951308060Z",
   "model": "glm-5.3"
 }

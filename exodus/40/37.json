@@ -5,8 +5,45 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 40,
-  "translation": "Lamun ⟨teu⟩ mawa jangjang awan éta, maranéhna moal angkat dugi ka poé éta diangkat.",
-  "tokens": [],
-  "timestamp": "2026-08-26T11:11:55.201928344Z",
+  "translation": "Lamun méga éta henteu naék, mangka maranéhna henteu angkat nepi ka poé mimitina naék.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jeung lamun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naék"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "méga éta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung henteu"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "maranéhna angkat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "mimitina naék"
+    }
+  ],
+  "timestamp": "2026-08-26T18:06:30.897251896Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "su",
   "chapter": 23,
-  "translation": "Ulah nempo ⟨את⟩ anggur sabot maneh daria, sabot méré warnana dina cangkirna, sabot ngaliliir kaayeunana",
+  "translation": "Ulah nempo ⟨את⟩ anggur sabot geus rarum beureuman, sabot méré kelirna dina beuteung, sabot nyocor saeuntruk.",
   "tokens": [
     {
       "surface": "אל",
@@ -20,17 +20,12 @@
       "gloss": "anggur"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "anggur"
-    },
-    {
       "surface": "כי",
       "gloss": "sabot"
     },
     {
       "surface": "יתאדם",
-      "gloss": "daria"
+      "gloss": "rarum beureuman"
     },
     {
       "surface": "כי",
@@ -42,21 +37,21 @@
     },
     {
       "surface": "בכיס",
-      "gloss": "dina cangkirna"
+      "gloss": "dina beuteung"
     },
     {
       "surface": "עינו",
-      "gloss": "warnana"
+      "gloss": "kelirna"
     },
     {
       "surface": "יתהלך",
-      "gloss": "ngaliliir"
+      "gloss": "nyocor"
     },
     {
       "surface": "במישרים",
-      "gloss": "kaayeunana"
+      "gloss": "saeuntruk"
     }
   ],
-  "timestamp": "2026-08-26T17:17:02.513454873Z",
+  "timestamp": "2026-08-26T18:33:38.583997171Z",
   "model": "glm-5.3"
 }

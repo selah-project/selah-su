@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 10,
-  "translation": "Ngan, tina dosa-dosa Yarovam putra Nevat, nu ngabalukarkeun ⟨את⟩ Yisrael ingkah, Yehu teu mundur ti palihareupaneunana — anak-anak embé nu ⟨the⟩ emas, nu di Beit-El jeung nu di Dan.",
+  "translation": "Ngan dosa-dosa Yarovam anak Nevat, nu matak nyieun Israyel nyaho dosa ka ⟨את⟩ Israyel, Yehu teu mundur ti dieusana — anak-anak lombu emas nu aya di Beit-El jeung nu di Dan.",
   "tokens": [
     {
       "surface": "רק",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "anak"
     },
     {
       "surface": "נבט",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "ngabalukarkeun ingkah"
+      "gloss": "matak nyieun nyaho dosa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrael"
+      "marks": "Israyel"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israyel"
     },
     {
       "surface": "לא",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "מאחריהם",
-      "gloss": "ti palihareupaneunana"
+      "gloss": "ti dieusana"
     },
     {
       "surface": "עגלי",
-      "gloss": "anak-anak embé"
+      "gloss": "anak-anak lombu"
     },
     {
       "surface": "הזהב",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nu"
+      "gloss": "nu aya di"
     },
     {
       "surface": "בית",
-      "gloss": "Beit"
+      "gloss": "Beit-"
     },
     {
       "surface": "אל",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "jeung nu"
+      "gloss": "jeung nu di"
     },
     {
       "surface": "בדן",
-      "gloss": "di Dan"
+      "gloss": "Dan"
     }
   ],
-  "timestamp": "2026-08-26T12:54:04.186868254Z",
+  "timestamp": "2026-08-26T18:20:35.553283451Z",
   "model": "glm-5.3"
 }

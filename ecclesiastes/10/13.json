@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 10,
-  "translation": "Awal kecap-kecap tina sungutna ⟨⟨the⟩⟩ kabodohan, tapi tungtungna sungutna kabodoan nu jahat.",
+  "translation": "Munggaran kecap-kecap tina sunguna ⟨是⟩ kabodoan, tungtung sunguna ⟨是⟩ kagoréngan nu ngaharieum.",
   "tokens": [
     {
       "surface": "תחלת",
-      "gloss": "awal"
+      "gloss": "munggaran"
     },
     {
       "surface": "דברי",
@@ -17,29 +17,29 @@
     },
     {
       "surface": "פיהו",
-      "gloss": "sungutna"
+      "gloss": "sunguna"
     },
     {
       "surface": "סכלות",
-      "gloss": "kabodohan"
-    },
-    {
-      "surface": "ואחרית",
-      "gloss": "tapi tungtungna"
-    },
-    {
-      "surface": "פיהו",
-      "gloss": "sungutna"
-    },
-    {
-      "surface": "הוללות",
       "gloss": "kabodoan"
     },
     {
+      "surface": "ואחרית",
+      "gloss": "tungtung"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sunguna"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "kagoréngan"
+    },
+    {
       "surface": "רעה",
-      "gloss": "nu jahat"
+      "gloss": "nu ngaharieum"
     }
   ],
-  "timestamp": "2026-08-26T15:34:59.484066459Z",
+  "timestamp": "2026-08-26T18:35:01.742369866Z",
   "model": "glm-5.3"
 }

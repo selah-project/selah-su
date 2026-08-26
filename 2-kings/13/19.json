@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 13,
-  "translation": "Mangka jalma ⟨the⟩ Elohim muruwas ka manéhna, jeung ngomong: Ngagempur lima atawa genep kali — mangka-tuwing anjeun geus ngagempur ⟨את⟩ Aram nepi ka tuntas; jeung ayeuna tilu kali anjeun bakal ngagempur ⟨את⟩ Aram.",
+  "translation": "Tuluy muruykeun jalma Elohim ka anjeunna, sarta nyauron: Kudu ngabeulah lima atawa genep kali; ari kitu anjeun ngabeulah ⟨את⟩ Aram nepi ka tuntas, ari ayeuna mah tilu kali anjeun ngabeulah ⟨את⟩ Aram.",
   "tokens": [
     {
       "surface": "ויקצף",
-      "gloss": "jeung-muruwas"
+      "gloss": "muruykeun"
     },
     {
       "surface": "עליו",
-      "gloss": "ka-manéhna"
+      "gloss": "ka anjeunna"
     },
     {
       "surface": "איש",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "jeung-ngomong"
+      "gloss": "sarta nyauron"
     },
     {
       "surface": "להכות",
-      "gloss": "pikeun-ngagempur"
+      "gloss": "kudu ngabeulah"
     },
     {
       "surface": "חמש",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "או",
-      "gloss": "ataka"
+      "gloss": "atawa"
     },
     {
       "surface": "שש",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אז",
-      "gloss": "mangka-tuwing"
+      "gloss": "ari kitu"
     },
     {
       "surface": "הכית",
-      "gloss": "anjeun-geus-ngagempur"
+      "gloss": "anjeun ngabeulah"
     },
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "nepi-ka"
+      "gloss": "nepi ka"
     },
     {
       "surface": "כלה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "jeung-ayeuna"
+      "gloss": "ari ayeuna"
     },
     {
       "surface": "שלש",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "תכה",
-      "gloss": "anjeun-bakal-ngagempur"
+      "gloss": "anjeun ngabeulah"
     },
     {
       "surface": "את",
@@ -98,6 +98,6 @@
       "gloss": "Aram"
     }
   ],
-  "timestamp": "2026-08-26T12:55:52.667390271Z",
+  "timestamp": "2026-08-26T18:41:25.515306642Z",
   "model": "glm-5.3"
 }

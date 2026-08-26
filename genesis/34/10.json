@@ -5,15 +5,16 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 34,
-  "translation": "Jeung di ⟨את⟩ urang aranjeun cicing, jeung ⟨the⟩ tanah éta jadi di payun aranjeun; cicing, padaganganana, jeung pegkeun di jerona.",
+  "translation": "jeung ⟨את⟩ kami cicing, jeung ⟨the⟩ tanah bakal aya di payuneun aranjeun; cicing, sarta padagang di dinya, sarta kawasa di dinya.",
   "tokens": [
     {
       "surface": "ואתנו",
-      "gloss": "di ⟨את⟩ urang"
+      "gloss": "jeung ⟨את⟩ kami",
+      "marks": "anjeun (anjeun cicing jeung kami)"
     },
     {
       "surface": "תשבו",
-      "gloss": "aranjeun cicing"
+      "gloss": "cicing"
     },
     {
       "surface": "והארץ",
@@ -21,11 +22,11 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "jadi"
+      "gloss": "bakal aya"
     },
     {
       "surface": "לפניכם",
-      "gloss": "di payun aranjeun"
+      "gloss": "di payuneun aranjeun"
     },
     {
       "surface": "שבו",
@@ -33,17 +34,17 @@
     },
     {
       "surface": "וסחרוה",
-      "gloss": "padaganganana"
+      "gloss": "sarta padagang di dinya"
     },
     {
       "surface": "והאחזו",
-      "gloss": "pegkeun"
+      "gloss": "sarta kawasa"
     },
     {
       "surface": "בה",
-      "gloss": "di jerona"
+      "gloss": "di dinya"
     }
   ],
-  "timestamp": "2026-08-26T10:48:21.062561056Z",
+  "timestamp": "2026-08-26T18:59:55.174061439Z",
   "model": "glm-5.3"
 }

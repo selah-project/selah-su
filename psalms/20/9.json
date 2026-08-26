@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 20,
-  "translation": "Maranéhna党的已跪下并仆倒,而我们已站起并挺立。",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:24:36.181709273Z",
+  "translation": "Maréréhna geus tuluy ragrag, tapi urang geus ngadeg jeung ngadeg teguh.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "maréréhna"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "geus lutu (tileung lakeut)"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "tuluy ragrag"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tapi urang"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "geus ngadeg (bangun)"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "ngadeg teguh"
+    }
+  ],
+  "timestamp": "2026-08-26T18:30:06.687294134Z",
   "model": "glm-5.3"
 }

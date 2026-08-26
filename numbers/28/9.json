@@ -5,8 +5,65 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 28,
-  "translation": "Jeung dina poé ⟨the⟩ shabat: dua anak domba jalu umur sa-Taun tanpa cacad, jeung dua saparoluя cacad —",
-  "tokens": [],
-  "timestamp": "2026-08-26T11:34:51.235608483Z",
+  "translation": "Jeung dina poé shabbat: dua anak domba umur sataun nu tanpa cacad, jeung dua saparapat ephah tarigu lemes minangka kurban saréa nu diolah dina minyak, jeung curangetanna.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "jeung dina poé"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umur"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sataun"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "nu tanpa cacad"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "saparapat ephah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tarigu lemes"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kurban saréa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "nu diolah"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dina minyak"
+    },
+    {
+      "surface": "ונסכו",
+      "gloss": "jeung curangetanna"
+    }
+  ],
+  "timestamp": "2026-08-26T18:10:11.514068847Z",
   "model": "glm-5.3"
 }

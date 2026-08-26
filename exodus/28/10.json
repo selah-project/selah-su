@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 28,
-  "translation": "Genep tina ngaran-ngaranana dina ⟨the⟩ batu ⟨the⟩ hiji, sarta ⟨את⟩ ngaran-ngaran nu genap deui dina ⟨the⟩ batu ⟨the⟩ kadua, luyu jeung kalahiranana.",
+  "translation": "Genep ngaran-ngaran maranehna dina ⟨את⟩ hiji batu, jeung ⟨את⟩ ngaran-ngaran nu genep sisana dina batu kadua, nurutkeun babarenganana.",
   "tokens": [
     {
       "surface": "ששה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "משמתם",
-      "gloss": "tina ngaran-ngaranana"
+      "gloss": "ngaran-ngaran maranehna"
     },
     {
       "surface": "על",
@@ -29,8 +29,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ngaran-ngaran nu genap deui"
+      "gloss": "jeung ⟨את⟩",
+      "marks": "ngaran-ngaran"
     },
     {
       "surface": "שמות",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "הששה",
-      "gloss": "nu genap"
+      "gloss": "nu genep"
     },
     {
       "surface": "הנותרים",
-      "gloss": "nyésa"
+      "gloss": "sisana"
     },
     {
       "surface": "על",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "כתולדתם",
-      "gloss": "luyu jeung kalahiranana"
+      "gloss": "nurutkeun babarenganana"
     }
   ],
-  "timestamp": "2026-08-26T16:40:52.071202706Z",
+  "timestamp": "2026-08-26T18:04:17.496013650Z",
   "model": "glm-5.3"
 }

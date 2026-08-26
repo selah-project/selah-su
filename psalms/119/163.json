@@ -5,8 +5,29 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 119,
-  "translation": "Kaboheaded sah ditampa abdi, payun tuang abdi; Toret Anjeun dipikacinta abdi.",
-  "tokens": [],
-  "timestamp": "2026-08-26T17:15:06.551148192Z",
+  "translation": "Kanaongan kajeun-eun abdi, tapi Toret Anjeun dipikacinta abdi.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "kanaongan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "kajeun-eun abdi"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "tapi dibenci beurat"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toret Anjeun"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "dipikacinta abdi"
+    }
+  ],
+  "timestamp": "2026-08-26T19:05:55.753951310Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 23,
-  "translation": "Jeung anjeunna ngomong: Naon tanda pasir ieu nu kuring tingali? Jeung jalma-jalma kota ngomong ka anjeunna: ⟨eta⟩ kubur manusa ⟨the⟩ Elohim nu datang ti Yehudah, sarta ngabéwarakeun ⟨את⟩ kecap-kecap ieu nu anjeun geus ngalakonan ka alta Beith-El.",
+  "translation": "Jeung katanya, \"Tanda naon ieu nu kuring tingali?\" Jeung lalaki-lalaki ⟨ti⟩ kota ngomong ka anjeunna, \"Kuburanna lalaki Elohim nu datang ti Yehuda, sarta ngémbarkeun ⟨את⟩ kecap-kecap ieu nu anjeun geus pigawé ka altar di Beit-El.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jeung anjeunna ngomong"
+      "gloss": "Jeung katanya"
     },
     {
       "surface": "מה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הציון",
-      "gloss": "tanda pasir"
+      "gloss": "tanda"
     },
     {
       "surface": "הלז",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "jeung aranjeunna ngomong"
+      "gloss": "Jeung maranehna ngomong"
     },
     {
       "surface": "אליו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "jalma-jalma"
+      "gloss": "lalaki-lalaki"
     },
     {
       "surface": "העיר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הקבר",
-      "gloss": "kubur"
+      "gloss": "kuburanna"
     },
     {
       "surface": "איש",
-      "gloss": "manusa"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
@@ -73,20 +73,20 @@
     },
     {
       "surface": "מיהודה",
-      "gloss": "ti Yehudah"
+      "gloss": "ti Yehuda"
     },
     {
       "surface": "ויקרא",
-      "gloss": "sarta ngabéwarakeun"
+      "gloss": "sarta ngémbarkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kecap-kecap"
+      "marks": "kecap-kecap ieu"
     },
     {
       "surface": "הדברים",
-      "gloss": "kecap-kecap"
+      "gloss": "kecap-kecap ieu"
     },
     {
       "surface": "האלה",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "עשית",
-      "gloss": "anjeun geus ngalakonan"
+      "gloss": "anjeun geus pigawé"
     },
     {
       "surface": "על",
@@ -106,17 +106,17 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "alta"
+      "gloss": "altar"
     },
     {
       "surface": "בית",
-      "gloss": "Beith"
+      "gloss": "Beit-El"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-26T12:59:42.844128798Z",
+  "timestamp": "2026-08-26T18:22:16.824736210Z",
   "model": "glm-5.3"
 }

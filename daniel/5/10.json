@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "su",
   "chapter": 5,
-  "translation": "Ratu alatan kecap-kecap ⟨the⟩ raja jeung para pangulina asup ka imah kadang; Ratu ngajawab jeung ngomong ka raja: Wa raja, hirup salawasna; ulah pikiran anjeun ngagétékan manah, jeung cahaya beungeut anjeun ulah robah.",
+  "translation": "Ratu, alatan kecap-kecap raja jeung pangbundir-pangbundirna, asup ka roko kadang wungu; jawab ratu sarta ngomong: O raja, hirup salawasna; ulah pikiran-pikiran anjeun ngaganggu anjeun, jeung caaya raray anjeun ulah robah.",
   "tokens": [
     {
       "surface": "מלכתא",
-      "gloss": "Ratu"
+      "gloss": "ratu"
     },
     {
       "surface": "לקבל",
@@ -24,16 +24,16 @@
       "gloss": "raja"
     },
     {
-      "surface": "ורברבנוהי",
-      "gloss": "jeung para pangulina"
+      "surface": "וורברבנוהי",
+      "gloss": "jeung pangbundir-pangbundirna"
     },
     {
       "surface": "לבית",
-      "gloss": "ka imah"
+      "gloss": "ka roko"
     },
     {
       "surface": "משתיא",
-      "gloss": "kadang"
+      "gloss": "kadang wungu"
     },
     {
       "surface": "עללת",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "ענת",
-      "gloss": "ngajawab"
+      "gloss": "jawab"
     },
     {
       "surface": "מלכתא",
-      "gloss": "Ratu"
+      "gloss": "ratu"
     },
     {
       "surface": "ואמרת",
-      "gloss": "jeung ngomong"
+      "gloss": "sarta ngomong"
     },
     {
       "surface": "מלכא",
-      "gloss": "raja"
+      "gloss": "O raja"
     },
     {
       "surface": "לעלמין",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "יבהלוך",
-      "gloss": "ngagétékan anjeun"
+      "gloss": "ngaganggu anjeun"
     },
     {
       "surface": "רעיונך",
-      "gloss": "pikiran anjeun"
+      "gloss": "pikiran-pikiran anjeun"
     },
     {
       "surface": "וזיויך",
-      "gloss": "jeung cahaya beungeut anjeun"
+      "gloss": "jeung caaya raray anjeun"
     },
     {
       "surface": "אל",
@@ -88,6 +88,6 @@
       "gloss": "robah"
     }
   ],
-  "timestamp": "2026-08-26T17:21:31.513333183Z",
+  "timestamp": "2026-08-26T18:35:41.683915652Z",
   "model": "glm-5.3"
 }

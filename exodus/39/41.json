@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 39,
-  "translation": "⟨את⟩ papakéan ministrasi pikeun ngawula di ⟨the⟩ kadiran suci, ⟨את⟩ papakéan kasucian pikeun Aharon ⟨the⟩ imam, jeung ⟨את⟩ papakéan putra-putrana pikeun jadi imam.",
+  "translation": "⟨את⟩ papakéan ngalayanan di Tempat Suci, ⟨את⟩ papakéan suci pikeun Aharon imam, jeung ⟨את⟩ papakéan putra-putrana pikeun jadi imam.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "papakéan ministrasi"
+      "marks": "papakéan ngalayanan di Tempat Suci"
     },
     {
       "surface": "בגדי",
@@ -18,20 +18,20 @@
     },
     {
       "surface": "השרד",
-      "gloss": "ministrasi"
+      "gloss": "ngalayanan"
     },
     {
       "surface": "לשרת",
-      "gloss": "pikeun ngawula"
+      "gloss": "pikeun ngalayanan"
     },
     {
       "surface": "בקדש",
-      "gloss": "di kadiran suci"
+      "gloss": "di Tempat Suci"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "papakéan kasucian"
+      "marks": "papakéan suci pikeun Aharon imam"
     },
     {
       "surface": "בגדי",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "kasucian"
+      "gloss": "suci"
     },
     {
       "surface": "לאהרן",
@@ -67,6 +67,6 @@
       "gloss": "pikeun jadi imam"
     }
   ],
-  "timestamp": "2026-08-26T11:11:24.331527186Z",
+  "timestamp": "2026-08-26T18:06:17.850185766Z",
   "model": "glm-5.3"
 }

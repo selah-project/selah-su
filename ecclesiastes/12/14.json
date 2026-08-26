@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 12,
-  "translation": "Sabab Elohim bakal mawa ⟨את⟩ tiap gawé kana pangadilan, luhureun tiap nu nyumput, lamun ⟨it is⟩ alus jeung lamun ⟨it is⟩ goréng.",
+  "translation": "Sabab Elohim bakal mawa ⟨את⟩ satiap pagawéan kana putusan, ngeunaan sadaya nu katutupan, upama hadé jeung upama goréng.",
   "tokens": [
     {
       "surface": "כי",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiap gawé"
+      "marks": "satiap pagawéan"
     },
     {
       "surface": "כל",
-      "gloss": "tiap"
+      "gloss": "satiap"
     },
     {
       "surface": "מעשה",
-      "gloss": "gawé"
+      "gloss": "pagawéan"
     },
     {
       "surface": "האלהים",
@@ -34,37 +34,37 @@
     },
     {
       "surface": "במשפט",
-      "gloss": "kana pangadilan"
+      "gloss": "kana putusan"
     },
     {
       "surface": "על",
-      "gloss": "luhureun"
+      "gloss": "ngeunaan"
     },
     {
       "surface": "כל",
-      "gloss": "tiap"
+      "gloss": "sadaya"
     },
     {
       "surface": "נעלם",
-      "gloss": "nu nyumput"
+      "gloss": "nu katutupan"
     },
     {
       "surface": "אם",
-      "gloss": "lamun"
+      "gloss": "upama"
     },
     {
       "surface": "טוב",
-      "gloss": "alus"
+      "gloss": "hadé"
     },
     {
       "surface": "ואם",
-      "gloss": "jeung lamun"
+      "gloss": "jeung upama"
     },
     {
       "surface": "רע",
       "gloss": "goréng"
     }
   ],
-  "timestamp": "2026-08-26T15:35:36.596277462Z",
+  "timestamp": "2026-08-26T18:35:31.193210237Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 9,
-  "translation": "Kuring balik deui nempo di handapeun panonpoé: sabab lain ka nu injem lumpatna, jeung lain ka nu标语kawasa perangna, ogé lain ka nu wijaksana rotina, ogé lain ka nu merenah harta bandana, ogé lain ka nu ngaweruh kahormatanna; sabab wanci jeung kajadian ngalaman ⟨את⟩ maranéhna sadayana.",
+  "translation": "Kuring balik deui, jeung nempo di sahandapeun panonpoé, yén lain pikeun nu gancang pacuang lalumpatan, jeung lain pikeun nu kawasa patempuran, ogé lain pikeun nu wijaksana roti, ogé lain pikeun nu ngarti kakayaan, ogé lain pikeun nu nyaho kanyaah, sabab waktu jeung kajadian ngadadar ka ⟨את⟩ maranéhna sadayana.",
   "tokens": [
     {
       "surface": "שבתי",
-      "gloss": "kuring balik deui"
+      "gloss": "balik deui"
     },
     {
       "surface": "וראה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "di handapeun"
+      "gloss": "dina sahandapeun"
     },
     {
       "surface": "השמש",
@@ -25,31 +25,31 @@
     },
     {
       "surface": "כי",
-      "gloss": "sabab"
+      "gloss": "yén"
     },
     {
       "surface": "לא",
-      "gloss": "henteu"
+      "gloss": "lain"
     },
     {
       "surface": "לקלים",
-      "gloss": "ka nu injem"
+      "gloss": "pikeun nu gancang"
     },
     {
       "surface": "המרוץ",
-      "gloss": "lumpatna"
+      "gloss": "pacuang lalumpatan"
     },
     {
       "surface": "ולא",
-      "gloss": "jeung henteu"
+      "gloss": "jeung lain"
     },
     {
       "surface": "לגבורים",
-      "gloss": "ka nu kawasa"
+      "gloss": "pikeun nu kawasa"
     },
     {
       "surface": "המלחמה",
-      "gloss": "perangna"
+      "gloss": "patempuran"
     },
     {
       "surface": "וגם",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "henteu"
+      "gloss": "lain"
     },
     {
       "surface": "לחכמים",
-      "gloss": "ka nu wijaksana"
+      "gloss": "pikeun nu wijaksana"
     },
     {
       "surface": "לחם",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "henteu"
+      "gloss": "lain"
     },
     {
       "surface": "לנבנים",
-      "gloss": "ka nu merenah"
+      "gloss": "pikeun nu ngarti"
     },
     {
       "surface": "עשר",
-      "gloss": "hartabanda"
+      "gloss": "kakayaan"
     },
     {
       "surface": "וגם",
@@ -89,15 +89,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "henteu"
+      "gloss": "lain"
     },
     {
       "surface": "לידעים",
-      "gloss": "ka nu ngaweruh"
+      "gloss": "pikeun nu nyaho"
     },
     {
       "surface": "חן",
-      "gloss": "kahormatan"
+      "gloss": "kanyaah"
     },
     {
       "surface": "כי",
@@ -105,26 +105,26 @@
     },
     {
       "surface": "עת",
-      "gloss": "wanci"
+      "gloss": "waktu"
     },
     {
       "surface": "ופגע",
-      "gloss": "jeung kajadian"
+      "gloss": "jeung kajadian ngadadar"
     },
     {
-      "surface": "יקfr挺ה",
-      "gloss": "ngalaman"
+      "surface": "יקרה",
+      "gloss": "ngadadar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maranehna sadayana"
+      "marks": "maranéhna sadayana"
     },
     {
       "surface": "כלם",
       "gloss": "maranéhna sadayana"
     }
   ],
-  "timestamp": "2026-08-26T15:35:59.323928847Z",
+  "timestamp": "2026-08-26T18:35:21.140931439Z",
   "model": "glm-5.3"
 }

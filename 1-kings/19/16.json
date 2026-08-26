@@ -5,12 +5,12 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 19,
-  "translation": "jeung ⟨את}} Yehu putra Nimshi anjeun ngaminyakan jadi raja di luhur Yisrael; jeung ⟨את}} Elisha putra Syafat ti Avel-Mekhola anjeun ngaminyakan jadi nabi sanggeus anjeun.",
+  "translation": "Jeung ⟨את⟩ Yehu putra Nimshi anjeun ngaminatan jadi raja luhureun Yisrael, jeung ⟨את⟩ Elisha putra Syafat ti Avel-Mexolah anjeun ngaminatan jadi nabi ngaganti anjeun.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Yehu putra Nimshi"
+      "gloss": "Jeung ⟨את⟩",
+      "marks": "Yehu"
     },
     {
       "surface": "יהוא",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "תמשח",
-      "gloss": "anjeun ngaminyakan"
+      "gloss": "anjeun ngaminatan"
     },
     {
       "surface": "למלך",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "על",
-      "gloss": "di luhur"
+      "gloss": "luhureun"
     },
     {
       "surface": "ישראל",
@@ -42,8 +42,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Elisha putra Syafat"
+      "gloss": "jeung ⟨את⟩",
+      "marks": "Elisha"
     },
     {
       "surface": "אלישע",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "מחולה",
-      "gloss": "Mekhola"
+      "gloss": "Mexolah"
     },
     {
       "surface": "תמשח",
-      "gloss": "anjeun ngaminyakan"
+      "gloss": "anjeun ngaminatan"
     },
     {
       "surface": "לנביא",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "תחתיך",
-      "gloss": "sanggeus anjeun"
+      "gloss": "ngaganti anjeun"
     }
   ],
-  "timestamp": "2026-08-26T12:46:44.488903243Z",
+  "timestamp": "2026-08-26T18:19:38.883055960Z",
   "model": "glm-5.3"
 }

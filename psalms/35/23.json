@@ -5,13 +5,33 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 35,
-  "translation": "Wangun, wungkul lahér ka pakéan hukum kuring, Elohim kuring jeung Adonay kuring, ka perkara kuring.",
+  "translation": "Wangun jeung sasar ngarah ka panyanggaan kuring, Elohim kuring jeung Adonay kuring, ka sangka kuring.",
   "tokens": [
     {
       "surface": "העירה",
-      "gloss": "wangun (ékspresi: siah)"
+      "gloss": "sasar"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "jeung wangun"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "ngarah ka panyanggaan kuring"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kuring"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "jeung Adonay kuring"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "ka sangka kuring"
     }
   ],
-  "timestamp": "2026-08-26T14:27:13.381850889Z",
+  "timestamp": "2026-08-26T18:30:56.502179543Z",
   "model": "glm-5.3"
 }

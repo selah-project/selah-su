@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 21,
-  "translation": "Tuluy nulungan ka manéhna Avishay putra Tseruyah, sarta manéhna ngéléhkeun ⟨את⟩ urang Peleshet sarta maéhanana; harita jalma-jalma Dawid sumpah ka anjeunna, nyarita: Anjeun moal kaluar deui ⟨jeung⟩ kami ka perang, sarta moal maresikan ⟨את──⟩ lampu Israel.",
+  "translation": "Tuluy nulungan manéhna Avishai putrana Tseruyah, sarta manéhna ngabeungbeuratan ⟨את⟩ urang Peleshet, sarta ngamatihan manéhna. Ti harita para jalma Dawid sumpah ka manéhna, ngomong: Anjeun moal kaluar deui jeung kami ⟨את⟩ ka perang, sareng moal pareumkeun ⟨את⟩ lampu Yisrael.",
   "tokens": [
     {
       "surface": "ויעזר",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "ka manéhna"
+      "gloss": "manéhna"
     },
     {
       "surface": "אבישי",
-      "gloss": "Avishay"
+      "gloss": "Avishai"
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "putrana"
     },
     {
       "surface": "צרויה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויך",
-      "gloss": "sarta ngéléhkeun"
+      "gloss": "sarta ngabeungbeuratan"
     },
     {
       "surface": "את",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "וימיתהו",
-      "gloss": "sarta maéhanana"
+      "gloss": "sarta ngamatihan manéhna"
     },
     {
       "surface": "אז",
-      "gloss": "harita"
+      "gloss": "ti harita"
     },
     {
       "surface": "נשבעו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "jalma-jalma"
+      "gloss": "para jalma"
     },
     {
       "surface": "דוד",
@@ -62,19 +62,19 @@
     },
     {
       "surface": "לו",
-      "gloss": "ka anjeunna"
+      "gloss": "ka manéhna"
     },
     {
       "surface": "לאמר",
-      "gloss": "nyarita"
+      "gloss": "ngomong"
     },
     {
       "surface": "לא",
-      "gloss": "henteu"
+      "gloss": "moal"
     },
     {
       "surface": "תצא",
-      "gloss": "anjeun kaluar"
+      "gloss": "kaluar"
     },
     {
       "surface": "עוד",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kami"
+      "gloss": "jeung kami ⟨את⟩"
     },
     {
       "surface": "למלחמה",
@@ -90,16 +90,16 @@
     },
     {
       "surface": "ולא",
-      "gloss": "sarta henteu"
+      "gloss": "sareng moal"
     },
     {
       "surface": "תכבה",
-      "gloss": "maresikan"
+      "gloss": "pareumkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lampu"
+      "marks": "lampu Yisrael"
     },
     {
       "surface": "נר",
@@ -107,9 +107,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-26T12:35:48.880213688Z",
+  "timestamp": "2026-08-26T18:18:03.877806193Z",
   "model": "glm-5.3"
 }

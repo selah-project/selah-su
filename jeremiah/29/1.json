@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 29,
-  "translation": "Ieu mangrupa kecap-kecap ⟨sarta⟩ surat nu diutus ku Yirmeyah nu nabi ti Yerushalaim ka sisana para sesepuh tina ⟨the⟩ pangbuangan, jeung ka para imam, jeung ka para nabi, jeung ka sakabéh ⟨the⟩ bangsa nu dibuang ku Nevukhadnetsar ti Yerushalaim ka Bavel.",
+  "translation": "Sarta ieu mangrupa kecap-kecap ⟨the⟩ surat nu dikirim ku Yirmyahu hanét ti Yerushalaim ka sireungeun nu nyésa tina para sesepuh pangbuangan, sarta ka para imam, sarta ka para hanét, sarta ka sakabéh ⟨the⟩ jalma nu dibuang ku Nevukhadnetstsar ti Yerushalaim ka Bavel.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Ieu mangrupa kecap-kecap"
+      "gloss": "Sarta ieu"
     },
     {
       "surface": "דברי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הספר",
-      "gloss": "surat"
+      "gloss": "⟨the⟩ surat"
     },
     {
       "surface": "אשר",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "שלח",
-      "gloss": "diutus"
+      "gloss": "ngirim"
     },
     {
       "surface": "ירמיה",
-      "gloss": "Yirmeyah"
+      "gloss": "Yirmyahu"
     },
     {
       "surface": "הנביא",
-      "gloss": "nu nabi"
+      "gloss": "hanét"
     },
     {
       "surface": "מירושלם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יתר",
-      "gloss": "sisana"
+      "gloss": "sireungeun nu nyésa"
     },
     {
       "surface": "זקני",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הגולה",
-      "gloss": "tina pangbuangan"
+      "gloss": "pangbuangan"
     },
     {
       "surface": "ואל",
-      "gloss": "jeung ka"
+      "gloss": "sarta ka"
     },
     {
       "surface": "הכהנים",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "jeung ka"
+      "gloss": "sarta ka"
     },
     {
       "surface": "הנביאים",
-      "gloss": "para nabi"
+      "gloss": "para hanét"
     },
     {
       "surface": "ואל",
-      "gloss": "jeung ka"
+      "gloss": "sarta ka"
     },
     {
       "surface": "כל",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "⟨the⟩ jalma"
     },
     {
       "surface": "אשר",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "נבוכדנאצר",
-      "gloss": "Nevukhadnetsar"
+      "gloss": "Nevukhadnetstsar"
     },
     {
       "surface": "מירושלם",
@@ -104,6 +104,6 @@
       "gloss": "ka Bavel"
     }
   ],
-  "timestamp": "2026-08-26T13:32:29.735526158Z",
+  "timestamp": "2026-08-26T19:04:25.493824693Z",
   "model": "glm-5.3"
 }

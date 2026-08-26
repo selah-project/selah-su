@@ -5,8 +5,73 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 13,
-  "translation": "Saha nu kaserang panyakit, sandanna kudu dicacag, sirahna dibiarkan burung, bahungna ditutupan, sarta cry 'Unclean! Unclean!' — jadi: teu beresih, teu beresih bakal serane.",
-  "tokens": [],
-  "timestamp": "2026-08-26T16:42:34.664883406Z",
+  "translation": "Jeung nu kaserang kusta, nu aya dina manéhna luka éta, pakéanana kudu di sabek-sabeuk, sirahna kudu burungfur mulas, jeung bibir luhurna dibungbun, sarta 'Unclean, unclean' — 'haram, haram' anjeunna bagerik.",
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "Jeung nu kaserang kusta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dina manéhna"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "luka éta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakéanana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kudu jadi"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "di sabek-sabeuk"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "jeung sirahna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kudu jadi"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "burungfur mulas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "jeung luhureun"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "bibir luhurna"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "dibungbun"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "jeung haram"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "haram"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "anjeunna bagerik"
+    }
+  ],
+  "timestamp": "2026-08-26T18:07:11.709369372Z",
   "model": "glm-5.3"
 }

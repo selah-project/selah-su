@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 32,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:26:39.716362102Z",
+  "translation": "Bungah in ☻Yahwe, jeung kawitra, éh jeung baréra, sadaya nu léngkéh haté.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Yahwe"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "jeung kawitra"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "énd jeung baréra"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "jeung sång-golé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "nu léngkéh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "haté"
+    }
+  ],
+  "timestamp": "2026-08-26T18:31:08.551838404Z",
   "model": "glm-5.3"
 }

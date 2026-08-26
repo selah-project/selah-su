@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "su",
   "chapter": 2,
-  "translation": "Jana muruak Yahwe ngabeledug ka Israél, sarta Anjeunna nyarita: Lantaran bangsa ieu ngaliwatan wates perjangjian Kami nu Kami parentahkeun ka bapak-bapakna, sarta maranjeunna teu ngadangukeun sora Kami —",
+  "translation": "Jelema Yahwe muruak baraya ka Yisrael, sarta NaNyaurkeun: dene bangsa ieu ngaliwatan ⟨את⟩ perjangjian kuring nu kuring parentahkeun ka ⟨את⟩ bapa-bapa maranehna, sareng maranehna henteu ngadangu sora kuring.",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "ngabeledug"
+      "gloss": "muruak baraya"
     },
     {
       "surface": "אף",
-      "gloss": "muruak"
+      "gloss": "amuk"
     },
     {
       "surface": "יהוה",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "ka Israél"
+      "gloss": "ka Yisrael"
     },
     {
       "surface": "ויאמר",
-      "gloss": "sarta nyarita"
+      "gloss": "sarta NaNyaurkeun"
     },
     {
       "surface": "יען",
-      "gloss": "lantaran"
+      "gloss": "dene"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "nu"
     },
     {
       "surface": "עברו",
-      "gloss": "ngaliwatan wates"
+      "gloss": "ngaliwatan"
     },
     {
       "surface": "הגוי",
@@ -50,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perjangjian Kami"
+      "marks": "perjangjian kuring"
     },
     {
       "surface": "בריתי",
-      "gloss": "perjangjian Kami"
+      "gloss": "perjangjian kuring"
     },
     {
       "surface": "אשר",
@@ -62,22 +62,30 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "Kami parentahkeun"
+      "gloss": "kuring parentahkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bapak-bapakna"
+      "marks": "bapa-bapa maranehna"
     },
     {
       "surface": "אבותם",
-      "gloss": "bapak-bapakna"
+      "gloss": "bapa-bapa maranehna"
     },
     {
-      "surface": "וישבע",
-      "gloss": "sarta yakin"
+      "surface": "ולא",
+      "gloss": "sareng henteu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maranehna ngadangu"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "sora kuring"
     }
   ],
-  "timestamp": "2026-08-26T12:01:59.745215982Z",
+  "timestamp": "2026-08-26T18:14:47.400502578Z",
   "model": "glm-5.3"
 }

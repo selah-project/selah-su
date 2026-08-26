@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 18,
-  "translation": "Tuluy Ravshaké ngandarkeun ka aranjeunna: Naha pangéran kuring ngutus kuring ka pangéran anjeun jeung ka anjeun pikeun ngandarkeun ⟨את⟩ kecap-kecap ieu? Naha sanés ka jalma-jalma anu ngeusi di luhureun benténg, pikeun dahar ⟨את〉 tai maranéhna jeung nginum ⟨את⟩ cikiih maranéhna babarengan jeung anjeun?",
+  "translation": "Terus Ravshakeh ngomong ka aranjeunna: Naha ka pangéran anjeun jeung ka anjeun pangéran kuring ngutus kaku pikeun nyaritakeun ⟨את⟩ kecap-kecap ieu? Naha lain ka jeung-jeung nu ngadagoan di luhureun pinding, pikeun ngadahar ⟨את⟩ tai maranéhna jeung nginum ⟨את⟩ cikiih maranéhna babareangan jeung anjeun?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ngandarkeun"
+      "gloss": "terus ngomong"
     },
     {
       "surface": "אליהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שקה",
-      "gloss": "shaké"
+      "gloss": "shakeh"
     },
     {
       "surface": "העל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אדניך",
-      "gloss": "pangéran anjeun"
+      "gloss": "ka pangéran anjeun"
     },
     {
       "surface": "ואליך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שלחני",
-      "gloss": "ngutus kuring"
+      "gloss": "ngutus kaku"
     },
     {
       "surface": "אדני",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "pikeun ngandarkeun"
+      "gloss": "pikeun nyaritakeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kecap-kecap"
+      "marks": "kecap-kecap ieu"
     },
     {
       "surface": "הדברים",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "naha sanés"
+      "gloss": "naha lain"
     },
     {
       "surface": "על",
@@ -70,23 +70,23 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "jalma-jalma"
+      "gloss": "jeung-jeung"
     },
     {
       "surface": "הישבים",
-      "gloss": "nu ngeusi"
+      "gloss": "nu ngadagoan"
     },
     {
       "surface": "על",
       "gloss": "di luhureun"
     },
     {
-      "surface": "החומה",
-      "gloss": "benténg"
+      "surface": "החמה",
+      "gloss": "pinding"
     },
     {
       "surface": "לאכל",
-      "gloss": "pikeun dahar"
+      "gloss": "pikeun ngadahar"
     },
     {
       "surface": "את",
@@ -112,9 +112,9 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "babarengan jeung anjeun"
+      "gloss": "babareangan jeung anjeun"
     }
   ],
-  "timestamp": "2026-08-26T12:57:55.205480601Z",
+  "timestamp": "2026-08-26T18:21:38.454110319Z",
   "model": "glm-5.3"
 }

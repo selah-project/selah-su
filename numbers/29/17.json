@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 29,
-  "translation": "Jeung dina poé ⟨⟨the⟩⟩ kadua: sapasang lembu, barudak sapi, dua belas; domba jalu dua; anak domba umur sataun opat belas, nu tanpa cacad.",
+  "translation": "Jeung dina poé kadua, dudi sapi dua belas ekor, domba jalu dua, anak domba umur sataun opat belas ekor, nu tanpa cacad.",
   "tokens": [
     {
       "surface": "וביום",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "פרים",
-      "gloss": "lembu-lembu jalu"
+      "gloss": "dudi sapi"
     },
     {
       "surface": "בני",
-      "gloss": "barudak"
+      "gloss": "anak"
     },
     {
       "surface": "בקר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "barudak"
+      "gloss": "anak"
     },
     {
       "surface": "שנה",
@@ -68,6 +68,6 @@
       "gloss": "nu tanpa cacad"
     }
   ],
-  "timestamp": "2026-08-26T11:35:24.432498884Z",
+  "timestamp": "2026-08-26T18:10:24.866971564Z",
   "model": "glm-5.3"
 }

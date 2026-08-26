@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 10,
-  "translation": "Lajeng anjeunna angkat ti dinya sarta manggihan ⟨את⟩ Yehonadab anak Rékab pikeun patepung jeung anjeunna; anjeunna mberkah anjeunna sarta nyarita ka anjeunna: Naha aya ⟨את⟩ haté anjeun lempeng saperti haté abdi jeung haté anjeun? Lajeng Yehonadab nyarita: Aya, sarta aya. Éréykeun ⟨את⟩ leungeun anjeun; lajeng anjeunna méré leungeunana, sarta anjeunna naékkeun anjeunna ka dirina kana ⟨the⟩ karéta.",
+  "translation": "Teras anjeunna indit ti ditu, manggihan ⟨את⟩ Yehonadab putra Rekab nu datang nenyumponan anjeunna; teras anjeunna nyuhunkeun berkah ka anjeunna, teras nyarita ka anjeunna: Naha hate anjeun lereng, saperti hate kaula ngawulan jeung hate anjeun? Teras Yehonadab nyarita: Aya, jeung aya. Béré ⟨את⟩ leungeun anjeun! Teras dibikeun leungeunana, teras anjeunna ditetepkeun ka anjeunna kana karéta.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "lajeng angkat"
+      "gloss": "teras anjeunna indit"
     },
     {
       "surface": "משם",
-      "gloss": "ti dinya"
+      "gloss": "ti ditu"
     },
     {
       "surface": "וימצא",
-      "gloss": "sarta manggihan"
+      "gloss": "manggihan"
     },
     {
       "surface": "את",
@@ -30,23 +30,23 @@
     },
     {
       "surface": "בן",
-      "gloss": "anak"
+      "gloss": "putra"
     },
     {
       "surface": "רכב",
-      "gloss": "Rékab"
+      "gloss": "Rekab"
     },
     {
       "surface": "לקראתו",
-      "gloss": "pikeun patepung jeung anjeunna"
+      "gloss": "nu datang nenyumponan anjeunna"
     },
     {
       "surface": "ויברכהו",
-      "gloss": "anjeunna mberkah anjeunna"
+      "gloss": "teras anjeunna nyuhunkeun berkah ka anjeunna"
     },
     {
       "surface": "ויאמר",
-      "gloss": "sarta nyarita"
+      "gloss": "teras nyarita"
     },
     {
       "surface": "אליו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "היש",
-      "gloss": "naha aya"
+      "gloss": "Naha"
     },
     {
       "surface": "את",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ישר",
-      "gloss": "lempeng"
+      "gloss": "lereng"
     },
     {
       "surface": "כאשר",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "לבבי",
-      "gloss": "haté abdi"
+      "gloss": "haté kaula"
     },
     {
       "surface": "עם",
-      "gloss": "jeung"
+      "gloss": "ngawulan jeung"
     },
     {
       "surface": "לבבך",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "lajeng nyarita"
+      "gloss": "teras nyarita"
     },
     {
       "surface": "יהונדב",
@@ -95,15 +95,15 @@
     },
     {
       "surface": "יש",
-      "gloss": "aya"
+      "gloss": "Aya"
     },
     {
       "surface": "ויש",
-      "gloss": "sarta aya"
+      "gloss": "jeung aya"
     },
     {
       "surface": "תנה",
-      "gloss": "éréykeun"
+      "gloss": "Béré"
     },
     {
       "surface": "את",
@@ -116,7 +116,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "lajeng méré"
+      "gloss": "teras dibikeun"
     },
     {
       "surface": "ידו",
@@ -124,11 +124,11 @@
     },
     {
       "surface": "ויעלהו",
-      "gloss": "sarta naékkeun anjeunna"
+      "gloss": "teras anjeunna ditetepkeun ka anjeunna"
     },
     {
       "surface": "אליו",
-      "gloss": "ka dirina"
+      "gloss": "ka anjeunna"
     },
     {
       "surface": "אל",
@@ -139,6 +139,6 @@
       "gloss": "karéta"
     }
   ],
-  "timestamp": "2026-08-26T16:57:26.520497978Z",
+  "timestamp": "2026-08-26T18:21:09.768699403Z",
   "model": "glm-5.3"
 }

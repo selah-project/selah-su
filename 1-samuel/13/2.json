@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 13,
-  "translation": "Sarta pilih keur dirina Shaol tilu réwu ti Israél; sarta jadi jeung Shaol dua réwu di Mikhmas jeung di gunong Beit-El, sarta saréwu jeung Yonatan di Givéa Binjamin; sarta sésana ⟨את⟩ bangsa dikirim tiap jalma ka khemahna.",
+  "translation": "Saul milih pikeun manéhna tilu rebu ti Israél; jadi aya dua rebu jeung Saul di Mikhmas jeung di gunung Beit-El, sarta sarébu aya jeung Yonatan di Givaat Binjamin; sésana jalma-raya dikirimkeun balik, tiap jalma ka khemahna.",
   "tokens": [
     {
       "surface": "ויבחר",
-      "gloss": "sarta pilih"
+      "gloss": "milih"
     },
     {
       "surface": "לו",
-      "gloss": "keur dirina"
+      "gloss": "pikeun manéhna"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaol"
+      "gloss": "Saul"
     },
     {
       "surface": "שלשת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "réwu"
+      "gloss": "rebu"
     },
     {
       "surface": "מישראל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "sarta jadi"
+      "gloss": "jadi aya"
     },
     {
       "surface": "עם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaol"
+      "gloss": "Saul"
     },
     {
       "surface": "אלפים",
-      "gloss": "dua réwu"
+      "gloss": "dua rebu"
     },
     {
       "surface": "במכמש",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ובהר",
-      "gloss": "jeung di gunong"
+      "gloss": "jeung di gunung"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Beit"
     },
     {
       "surface": "אל",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ואלף",
-      "gloss": "sarta saréwu"
+      "gloss": "sarta sarébu"
     },
     {
       "surface": "היו",
-      "gloss": "jadi"
+      "gloss": "aya"
     },
     {
       "surface": "עם",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "בגבעת",
-      "gloss": "di Givéa"
+      "gloss": "di Givaat"
     },
     {
       "surface": "בנימין",
@@ -89,20 +89,15 @@
     },
     {
       "surface": "ויתר",
-      "gloss": "sarta sésana"
+      "gloss": "sésana"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "bangsa"
+      "gloss": "jalma-raya"
     },
     {
       "surface": "שלח",
-      "gloss": "dikirim"
+      "gloss": "dikirimkeun balik"
     },
     {
       "surface": "איש",
@@ -113,6 +108,6 @@
       "gloss": "ka khemahna"
     }
   ],
-  "timestamp": "2026-08-26T16:50:54.579536381Z",
+  "timestamp": "2026-08-26T18:16:44.234887966Z",
   "model": "glm-5.3"
 }

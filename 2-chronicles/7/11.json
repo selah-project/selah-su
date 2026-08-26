@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "su",
   "chapter": 7,
-  "translation": "Jeung Shelomo ngarérétkeun ⟨את⟩ bumi Yahwe jeung ⟨את⟩ bumi ⟨the⟩ raja, jeung ⟨את⟩ sagala nu datang kana haté Shelomo pikeun digawékeun di bumi Yahwe jeung di bumi-na sorangan — kameunangaran kajadi.",
+  "translation": "Teras Shelomo ngaréngsékeun ⟨את⟩ imah Yahwe jeung ⟨את⟩ imah raja, jeung ⟨את⟩ sakabéh anu datang ka ati Shelomo pikeun dipigawé dina imah Yahwe jeung dina imahna sorangan — kabéhna ngahasilkeun.",
   "tokens": [
     {
       "surface": "ויכל",
-      "gloss": "jeung ngarérétkeun"
+      "gloss": "ngaréngsékeun"
     },
     {
       "surface": "שלמה",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bumi"
+      "marks": "imah Yahwe"
     },
     {
       "surface": "בית",
-      "gloss": "bumi"
+      "gloss": "imah"
     },
     {
       "surface": "יהוה",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "bumi"
+      "gloss": "⟨את⟩",
+      "marks": "imah raja"
     },
     {
       "surface": "בית",
-      "gloss": "bumi"
+      "gloss": "imah"
     },
     {
       "surface": "המלך",
@@ -43,24 +43,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "sagala"
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh anu datang ka ati"
     },
     {
       "surface": "כל",
-      "gloss": "sagala"
+      "gloss": "sakabéh"
     },
     {
       "surface": "הבא",
-      "gloss": "nu datang"
+      "gloss": "anu datang"
     },
     {
       "surface": "על",
-      "gloss": "kana"
+      "gloss": "ka"
     },
     {
       "surface": "לב",
-      "gloss": "haté"
+      "gloss": "ati"
     },
     {
       "surface": "שלמה",
@@ -68,11 +68,11 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "pikeun digawékeun"
+      "gloss": "pikeun dipigawé"
     },
     {
       "surface": "בבית",
-      "gloss": "di bumi"
+      "gloss": "dina imah"
     },
     {
       "surface": "יהוה",
@@ -80,13 +80,13 @@
     },
     {
       "surface": "ובביתו",
-      "gloss": "jeung di bumi-na"
+      "gloss": "jeung dina imahna"
     },
     {
       "surface": "הצליח",
-      "gloss": "kameunangaran kajadi"
+      "gloss": "ngahasilkeun"
     }
   ],
-  "timestamp": "2026-08-26T17:26:19.190032403Z",
+  "timestamp": "2026-08-26T18:38:21.980793375Z",
   "model": "glm-5.3"
 }

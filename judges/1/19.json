@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "su",
   "chapter": 1,
-  "translation": "Lajeng Yahwe ⟨וjungan⟩ sarta Yehuda, sarta aranjeunna ngawasaan ⟨את⟩ pagunungan, sabab teu bisa ngusir ⟨את⟩ nu nyicinganan léngkob, sabab aranjeunna boga karéta beusi.",
+  "translation": "Jeung Yahwe ⟨’ét⟩ jeung Yéhuda, sarta ⟨anjana⟩ merebutkeun ⟨את⟩ pagunungan, sabab teu sanggup ngusir ⟨את⟩ pangeusi lebak, sabab maranéhna mibanda karéta beusi.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "lajeng"
+      "gloss": "Jeung"
     },
     {
       "surface": "יהוה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨areng⟩",
-      "marks": "Yehuda"
+      "gloss": "⟨את⟩",
+      "marks": "jeung Yéhuda (sisipan pikeun עם nurutkeun rasa Sunda)"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yéhuda"
     },
     {
       "surface": "וירש",
-      "gloss": "ngawasaan"
+      "gloss": "merebutkeun"
     },
     {
       "surface": "את",
@@ -43,24 +43,24 @@
     },
     {
       "surface": "לא",
-      "gloss": "teu"
+      "gloss": "teu sanggup"
     },
     {
       "surface": "להוריש",
-      "gloss": "bisa ngusir"
+      "gloss": "ngusir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nu nyicinganan"
+      "marks": "pangeusi lebak"
     },
     {
       "surface": "ישבי",
-      "gloss": "nu nyicinganan"
+      "gloss": "pangeusi"
     },
     {
       "surface": "העמק",
-      "gloss": "léngkob"
+      "gloss": "lebak"
     },
     {
       "surface": "כי",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "רכב",
-      "gloss": "karéta"
+      "gloss": "karéta perang"
     },
     {
       "surface": "ברזל",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "להם",
-      "gloss": "aranjeunna boga"
+      "gloss": "mibanda maranéhna"
     }
   ],
-  "timestamp": "2026-08-26T12:02:35.989822459Z",
+  "timestamp": "2026-08-26T18:14:26.622025884Z",
   "model": "glm-5.3"
 }

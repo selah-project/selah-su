@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 2,
-  "translation": "Lajeunna ngalahirkeun Shaaph, indungna Madmannah, ⟨את⟩ Sheva, indungna Makhvenah, jeung indungna Giv'a; jeung awéwé Kalev ⟨is⟩ Akhsa.",
+  "translation": "Jeung manéhna ngalahirkeun Shaaph bapa Madmannah, ⟨את⟩ Sheva bapa Makhbenah, jeung bapa Giv'a; jeung putri Kalev ⟨is⟩ Akhsa.",
   "tokens": [
     {
       "surface": "ותלד",
-      "gloss": "lajeunna ngalahirkeun"
+      "gloss": "jeung manéhna ngalahirkeun"
     },
     {
       "surface": "שעף",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "indungna"
+      "gloss": "bapa"
     },
     {
       "surface": "מדמנה",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "אבי",
-      "gloss": "indungna"
+      "gloss": "bapa"
     },
     {
       "surface": "מכבנה",
-      "gloss": "Makhvenah"
+      "gloss": "Makhbenah"
     },
     {
       "surface": "ואבי",
-      "gloss": "jeung indungna"
+      "gloss": "jeung bapa"
     },
     {
       "surface": "גבעא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ובת",
-      "gloss": "jeung awéwé"
+      "gloss": "jeung putri"
     },
     {
       "surface": "כלב",
@@ -61,6 +61,6 @@
       "gloss": "Akhsa"
     }
   ],
-  "timestamp": "2026-08-26T16:05:15.173019441Z",
+  "timestamp": "2026-08-26T19:06:56.342774009Z",
   "model": "glm-5.3"
 }

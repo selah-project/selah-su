@@ -5,8 +5,65 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 17,
-  "translation": "Jeung tutup sirah tina tambaga aya dina sirahna, jeung baju ranté sisik ⟨725⟩ ku beungeut-na ditutupan, jeung beuratna baju ranté ⟨725⟩ téh lima rébu syikel tambaga.",
-  "tokens": [],
-  "timestamp": "2026-08-26T12:19:04.566755875Z",
+  "translation": "Jeung helm tambaga dina sirahna, jeung baju zirah sisik ⟨umana⟩ dipaké, jeung beuratna sang zirah ⟨nyaéta⟩ lima rébu syékel tambaga.",
+  "tokens": [
+    {
+      "surface": "וכובע",
+      "gloss": "jeung helm"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahna"
+    },
+    {
+      "surface": "ושריון",
+      "gloss": "jeung baju zirah"
+    },
+    {
+      "surface": "קשקשים",
+      "gloss": "sisik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨umana⟩"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "dipaké"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "jeung beuratna"
+    },
+    {
+      "surface": "השריון",
+      "gloss": "sang zirah"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "syékel"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tambaga"
+    }
+  ],
+  "timestamp": "2026-08-26T18:16:28.265814197Z",
   "model": "glm-5.3"
 }

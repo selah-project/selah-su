@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 9,
-  "translation": "Jadi Yahwe méré ka kuring ⟨את⟩ dua lulumbang batu, nu ditulis ku ramo Elohim; jeung dina éta sadaya kecap-kecap nu diomongkeun Yahwe jeung aranjeun di gunung, tina tengah seuneu, poé ⟨the⟩ kumpulan.",
+  "translation": "Jeung Yahwe méré ka kuring ⟨את⟩ dua loh batu, tinulis ku ramo Elohim, jeung luhureunana sadayana kecap-kecap nu Yahwe nyaritakeun jeung aranjeun di gunung, ti tengah seuneu, dina poé kumpul.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "jadi-méré"
+      "gloss": "méré"
     },
     {
       "surface": "יהוה",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "אלי",
-      "gloss": "ka-kuring"
+      "gloss": "ka kuring"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dua lulumbang batu"
+      "marks": "dua loh batu"
     },
     {
       "surface": "שני",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "לוחת",
-      "gloss": "lulumbang"
+      "gloss": "loh"
     },
     {
       "surface": "האבנים",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "כתבים",
-      "gloss": "nu-ditulis"
+      "gloss": "tinulis"
     },
     {
       "surface": "באצבע",
-      "gloss": "ku-ramo"
+      "gloss": "ku ramo"
     },
     {
       "surface": "אלהים",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ועליהם",
-      "gloss": "jeung-dina-éta"
+      "gloss": "jeung luhureunana"
     },
     {
       "surface": "ככל",
-      "gloss": "salaku-sadaya"
+      "gloss": "sadayana"
     },
     {
       "surface": "הדברים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "diomongkeun"
+      "gloss": "nyaritakeun"
     },
     {
       "surface": "יהוה",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "jeung-aranjeun"
+      "gloss": "jeung aranjeun"
     },
     {
       "surface": "בהר",
-      "gloss": "di-gunung"
+      "gloss": "di gunung"
     },
     {
       "surface": "מתוך",
-      "gloss": "tina-tengah"
+      "gloss": "ti tengah"
     },
     {
       "surface": "האש",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "ביום",
-      "gloss": "poé"
+      "gloss": "dina poé"
     },
     {
       "surface": "הקהל",
-      "gloss": "kumpulan"
+      "gloss": "kumpul"
     }
   ],
-  "timestamp": "2026-08-26T11:41:57.803993521Z",
+  "timestamp": "2026-08-26T18:11:28.659825289Z",
   "model": "glm-5.3"
 }

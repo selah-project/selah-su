@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 1,
-  "translation": "Jeung aranjeunna ngarungkun dina khemah-khemah anjeun, sarta nyarita: Kusabab Yahwe benci ka urang, манделka mawa kaluar urang tina lemah Mitsrayim, pikeun maserah ⟨את⟩ urang kana leungeun bangsa Emori, pikeun ngamusnahkeun urang.",
+  "translation": "Jeung maraneh ngarungkun di imah-kandang masing-masing, sarta maraneh ngomong: Dina kabenci Yahwe ka urang, manéhna mawa urang kaluar ti tanah Mitsrajim pikeun nyerahkeun ⟨את⟩ urang ka leungeun ⟨ti⟩ Emori pikeun ngamusnahkeun urang.",
   "tokens": [
     {
       "surface": "ותרגנו",
-      "gloss": "ngarungkun"
+      "gloss": "jeung maraneh ngarungkun"
     },
     {
       "surface": "באהליכם",
-      "gloss": "dina khemah-khemah anjeun"
+      "gloss": "di imah-kandang masing-masing"
     },
     {
       "surface": "ותאמרו",
-      "gloss": "nyarita"
+      "gloss": "sarta maraneh ngomong"
     },
     {
       "surface": "בשנאת",
-      "gloss": "kusabab benci"
+      "gloss": "dina kabenci"
     },
     {
       "surface": "יהוה",
@@ -29,43 +29,43 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
-      "marks": "mawa kaluar urang"
-    },
-    {
-      "surface": "הוציאנו",
-      "gloss": "mawa kaluar urang"
-    },
-    {
-      "surface": "מארץ",
-      "gloss": "tina lemah"
-    },
-    {
-      "surface": "מצרים",
-      "gloss": "Mitsrayim"
-    },
-    {
-      "surface": "לתת",
-      "gloss": "pikeun maserah"
-    },
-    {
-      "surface": "אתנו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ urang",
       "marks": "urang"
     },
     {
+      "surface": "הוציאנו",
+      "gloss": "manéhna mawa urang kaluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ti tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pikeun nyerahkeun"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ urang",
+      "marks": "ka leungeun Emori"
+    },
+    {
       "surface": "ביד",
-      "gloss": "kana leungeun"
+      "gloss": "ka leungeun"
     },
     {
       "surface": "האמרי",
-      "gloss": "bangsa Emori"
+      "gloss": "Emori"
     },
     {
       "surface": "להשמידנו",
       "gloss": "pikeun ngamusnahkeun urang"
     }
   ],
-  "timestamp": "2026-08-26T11:38:46.272616877Z",
+  "timestamp": "2026-08-26T18:40:16.418784079Z",
   "model": "glm-5.3"
 }

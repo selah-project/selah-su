@@ -5,14 +5,10 @@
   "book": "esther",
   "lang": "su",
   "chapter": 7,
-  "translation": "Teras Ester nyarita: Lalaki nu ngepung jeung musuh — Haman nu jahat ieu. Jeung Haman kataji di payuneun raja jeung ratu.",
+  "translation": "Ester nyarita: Jalma nu ngarugyah jeung musuh — ⟨ieu⟩ Haman nu jahat. Terus Haman jadi sieun kacida di payuneun raja jeung ratu.",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "teras"
-    },
-    {
-      "surface": "תאמר",
+      "surface": "ותאמר",
       "gloss": "nyarita"
     },
     {
@@ -21,11 +17,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "lalaki"
+      "gloss": "jalma"
     },
     {
       "surface": "צר",
-      "gloss": "nu ngepung"
+      "gloss": "nu ngarugyah"
     },
     {
       "surface": "ואויב",
@@ -45,11 +41,11 @@
     },
     {
       "surface": "והמן",
-      "gloss": "jeung Haman"
+      "gloss": "Terus Haman"
     },
     {
       "surface": "נבעת",
-      "gloss": "kataji"
+      "gloss": "jadi sieun kacida"
     },
     {
       "surface": "מלפני",
@@ -64,6 +60,6 @@
       "gloss": "jeung ratu"
     }
   ],
-  "timestamp": "2026-08-26T17:20:45.159366448Z",
+  "timestamp": "2026-08-26T18:35:17.216884466Z",
   "model": "glm-5.3"
 }

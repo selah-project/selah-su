@@ -5,29 +5,29 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 4,
-  "translation": "Jeung aranjeunna ngawasa ⟨את⟩ taneuhna jeung ⟨את⟩ taneuh Og raja ⟨the⟩ Basyan, dua raja ⟨the⟩ Emori, nu aya di seberangeun Yarden, ka wétan matahari.",
+  "translation": "Jeung aranjeunna ngawasaan ⟨את⟩ tanahna jeung ⟨את⟩ tanah Og raja Bashan, dua raja ⟨⟩ Emori, nu aya di sabrang Yarden, ka wétan matahari meletik.",
   "tokens": [
     {
       "surface": "ויירשו",
-      "gloss": "Jeung aranjeunna ngawasa"
+      "gloss": "ngawasaan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taneuhna"
+      "marks": "tanahna"
     },
     {
       "surface": "ארצו",
-      "gloss": "taneuhna"
+      "gloss": "tanahna"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "taneuh"
+      "marks": "tanah Og"
     },
     {
       "surface": "ארץ",
-      "gloss": "taneuh"
+      "gloss": "tanah"
     },
     {
       "surface": "עוג",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "הבשן",
-      "gloss": "Basyan"
+      "gloss": "Bashan"
     },
     {
       "surface": "שני",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "raja-"
+      "gloss": "raja-rajana"
     },
     {
       "surface": "האמרי",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nu"
+      "gloss": "nu aya"
     },
     {
       "surface": "בעבר",
-      "gloss": "di seberangeun"
+      "gloss": "di sabrang"
     },
     {
       "surface": "הירדן",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "שמש",
-      "gloss": "matahari"
+      "gloss": "matahari meletik"
     }
   ],
-  "timestamp": "2026-08-26T11:40:03.459226991Z",
+  "timestamp": "2026-08-26T18:11:39.120677443Z",
   "model": "glm-5.3"
 }

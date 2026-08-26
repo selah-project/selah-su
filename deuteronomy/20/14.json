@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 20,
-  "translation": "Ngan awéwé jeung barudak leutik jeung sasatoan jeung sagala nu aya di ⟨the⟩ kota — sagala rampasanana anjeun babagi pikeun diri anjeun, jeung anjeun ngarasakeun ⟨את⟩ rampasan musuh anjeun nu dipasrahkeun Yahwe Elohim anjeun ka anjeun.",
+  "translation": "Ngan awéwé jeung barudak leutik jeung ingon-ingon jeung sagala nu aya di jero kota — sagala rampasanana baris ku anjeun dirampog, jeung anjeun baris ngamangpaatkeun ⟨את⟩ rampasan musuh-musuh anjeun, nu dipaparin ku Yahwe Elohim anjeun ka anjeun.",
   "tokens": [
     {
       "surface": "רק",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והבהמה",
-      "gloss": "jeung sasatoan"
+      "gloss": "jeung ingon-ingon"
     },
     {
       "surface": "וכל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "di kota"
+      "gloss": "di jero kota"
     },
     {
       "surface": "כל",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "תבז",
-      "gloss": "anjeun babagi"
+      "gloss": "baris ku anjeun dirampog"
     },
     {
       "surface": "לך",
-      "gloss": "pikeun diri anjeun"
+      "gloss": "pikeun anjeun"
     },
     {
       "surface": "ואכלת",
-      "gloss": "jeung anjeun ngarasakeun"
+      "gloss": "jeung anjeun baris ngamangpaatkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rampasan musuh anjeun"
+      "marks": "rampasan"
     },
     {
       "surface": "שלל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "איביך",
-      "gloss": "musuh anjeun"
+      "gloss": "musuh-musuh anjeun"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "dipasrahkeun"
+      "gloss": "dipaparin"
     },
     {
       "surface": "יהוה",
@@ -93,6 +93,6 @@
       "gloss": "ka anjeun"
     }
   ],
-  "timestamp": "2026-08-26T11:47:09.798705946Z",
+  "timestamp": "2026-08-26T18:12:03.190764038Z",
   "model": "glm-5.3"
 }

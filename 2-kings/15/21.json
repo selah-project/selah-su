@@ -5,8 +5,69 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 15,
-  "translation": "Sisa kecap-kecap Menahem jeung sadaya nu dipigawé na, tat并不是—not—written...",
-  "tokens": [],
-  "timestamp": "2026-08-26T12:55:51.338154561Z",
+  "translation": "Sarta nu sésa tina carita Menaxem jeung sadayana nu dipigawé na, euweuh teu — euweuh bae ditulis dina buku carita poé-poé raja-raja Israél?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "sésa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "carita"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menaxem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sadayana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dipigawé na"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "euweuh teu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ditulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "carita"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "poé-poé"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T18:22:22.794038651Z",
   "model": "glm-5.3"
 }

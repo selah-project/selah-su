@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 11,
-  "translation": "Anjeunna nyandak sapasang sapi, motongan-motong, sarta ngirim ka sagala wates Yisrael ku leungeun para duta, nyebutkeun, “Saha nu moal kaluar nuturkeun Shaul jeung nuturkeun Shemuel, kitu bakal dipigawé ka sapi-sapina.” Tuluy sieun ka Yahwe ragrag ka ⟨the⟩ jalma-jalma, sarta aranjeunna kaluar saperti hiji lalaki.",
+  "translation": "Jeung anjeuna nyandak sapasangembé, motong-motong ⟨את⟩ éta, lajeng ngirim ka sagala wates Yisrael leungeun para utusan, sangkan nyarita: saha nu teu kaluar nuturkeun Sha-ul jeung nuturkeun Shemuel, mangka kitu kajadian ka embé-embéna. Lajeng kasieun Yahwe ragrag kana ⟨את⟩ bangsa éta, jeung aranjeuna kaluar salaku jalma hiji.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Anjeunna nyandak"
+      "gloss": "anjeuna nyandak"
     },
     {
       "surface": "צמד",
@@ -17,15 +17,20 @@
     },
     {
       "surface": "בקר",
-      "gloss": "sapi"
+      "gloss": "embé"
     },
     {
       "surface": "וינתחהו",
-      "gloss": "motongan-motong"
+      "gloss": "motong-motong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "éta (sapasang embé)"
     },
     {
       "surface": "וישלח",
-      "gloss": "sarta ngirim"
+      "gloss": "lajeng ngirim"
     },
     {
       "surface": "בכל",
@@ -41,23 +46,23 @@
     },
     {
       "surface": "ביד",
-      "gloss": "ku leungeun"
+      "gloss": "leungeun"
     },
     {
       "surface": "המלאכים",
-      "gloss": "para duta"
+      "gloss": "para utusan"
     },
     {
       "surface": "לאמר",
-      "gloss": "nyebutkeun"
+      "gloss": "sangkan nyarita"
     },
     {
       "surface": "אשר",
-      "gloss": "nu"
+      "gloss": "saha nu"
     },
     {
       "surface": "איננו",
-      "gloss": "moal"
+      "gloss": "teu"
     },
     {
       "surface": "יצא",
@@ -69,7 +74,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaul"
+      "gloss": "Sha-ul"
     },
     {
       "surface": "ואחר",
@@ -85,19 +90,19 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "bakal dipigawé"
+      "gloss": "kajadian"
     },
     {
       "surface": "לבקרו",
-      "gloss": "ka sapi-sapina"
+      "gloss": "ka embé-embéna"
     },
     {
       "surface": "ויפל",
-      "gloss": "Tuluy ragrag"
+      "gloss": "lajeng ragrag"
     },
     {
       "surface": "פחד",
-      "gloss": "sieun"
+      "gloss": "kasieun"
     },
     {
       "surface": "יהוה",
@@ -105,25 +110,25 @@
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "kana"
     },
     {
       "surface": "העם",
-      "gloss": "jalma-jalma"
+      "gloss": "bangsa éta"
     },
     {
       "surface": "ויצאו",
-      "gloss": "sarta aranjeunna kaluar"
+      "gloss": "jeung aranjeuna kaluar"
     },
     {
       "surface": "כאיש",
-      "gloss": "saperti hiji lalaki"
+      "gloss": "salaku jalma"
     },
     {
       "surface": "אחד",
       "gloss": "hiji"
     }
   ],
-  "timestamp": "2026-08-26T12:17:02.076320938Z",
+  "timestamp": "2026-08-26T19:02:56.632971538Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 21,
-  "translation": "Anjeunna nyarita: sabab tujuh domba bikang ⟨the⟩ ieu anjeun bakal nyandak ti leungeun abdi, sangkan jadi sipatan pikeun abdi yén abdi ngali ⟨את⟩ sumur ieu.",
+  "translation": "Sarta anjeunna nyarita: Sabab ⟨את⟩ tujuh anak domba bikang kudu Anjeun ambil ti leungeun abdi, sangkan jadi kasaksian pikeun abdi yén abdi nu ngagali ⟨את⟩ sumur ⟨ ieu ⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tujuh domba bikang"
+      "marks": "tujuh anak domba bikang"
     },
     {
       "surface": "שבע",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "כבשת",
-      "gloss": "domba bikang"
+      "gloss": "anak domba bikang"
     },
     {
       "surface": "תקח",
-      "gloss": "anjeun nyandak"
+      "gloss": "ambil"
     },
     {
       "surface": "מידי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "לעדה",
-      "gloss": "sipatan"
+      "gloss": "kasaksian"
     },
     {
       "surface": "כי",
@@ -58,12 +58,12 @@
     },
     {
       "surface": "חפרתי",
-      "gloss": "abdi ngali"
+      "gloss": "abdi ngagali"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sumur ieu"
+      "marks": "sumur"
     },
     {
       "surface": "הבאר",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "ieu"
+      "gloss": "⟨ ieu ⟩"
     }
   ],
-  "timestamp": "2026-08-26T10:41:46.544964010Z",
+  "timestamp": "2026-08-26T18:00:41.419768493Z",
   "model": "glm-5.3"
 }

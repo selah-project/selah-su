@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 12,
-  "translation": "Saméméh poék ⟨the⟩ panonpoé jeung caaya, jeung bulan, jeung bentang-bentang, jeung balik deui ⟨the⟩ awan-awan sanggeus hujan.",
+  "translation": "Saméméh poék ⟨teu⟩ caang deui matana poé, jeung caangna, jeung bulan, jeung bentang-bentang, jeung mûlang deui munggu-munggu sanggeus hujan,",
   "tokens": [
     {
       "surface": "עד",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nalika"
+      "gloss": "mangsa"
     },
     {
       "surface": "לא",
-      "gloss": "teu acan"
+      "gloss": "teu"
     },
     {
       "surface": "תחשך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "השמש",
-      "gloss": "panonpoé"
+      "gloss": "matana poé"
     },
     {
       "surface": "והאור",
-      "gloss": "jeung caaya"
+      "gloss": "jeung caangna"
     },
     {
       "surface": "והירח",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ושבו",
-      "gloss": "jeung balik deui"
+      "gloss": "jeung mûlang deui"
     },
     {
       "surface": "העבים",
-      "gloss": "awan-awan"
+      "gloss": "munggu-munggu"
     },
     {
       "surface": "אחר",
@@ -56,6 +56,6 @@
       "gloss": "hujan"
     }
   ],
-  "timestamp": "2026-08-26T15:37:06.790507474Z",
+  "timestamp": "2026-08-26T18:35:04.972188002Z",
   "model": "glm-5.3"
 }

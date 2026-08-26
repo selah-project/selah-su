@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 10,
-  "translation": "Jeung anjeunna nulis ka maranehna surat kadua, nyebutkeun: Upama anjeun pikeun abdi, jeung ka sora abdi anjeun ngadangu, pondokkeun ⟨את⟩ sirah-sirah jalma putra luluhur anjeun, jeung sumping ka abdi jiga kiwari isuk-isuk, ka Yizreel. Jeung putra-putra ⟨the⟩ raja, tujuh puluh jalma, jeung ⟨את⟩ nu-ngageungan kota ngagedékeun ⟨את⟩ aranjeunna.",
+  "translation": "Tuluy manéhna nulis ka maranehna serat kadua, nyebutkeun: Upama kuring nu gaduh anjeun, jeung upama kana sora kuring anjeun ngadangu, pibanda sirah-sirah jalma barbarengan abdi dumno anjeun, sarta sumping ka kuring ieu wanci isuk-isukan, ka Yizreel. Sarta barbarengan raja tujuh puluh jalma, ⟨את⟩ nu agung-agung kota nu ngagedekeun aranjeunna.",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "anjeunna nulis"
+      "gloss": "nulis"
     },
     {
       "surface": "אליהם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ספר",
-      "gloss": "surat"
+      "gloss": "serat"
     },
     {
       "surface": "שנית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "pikeun abdi"
+      "gloss": "ka kuring"
     },
     {
       "surface": "אתם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ולקלי",
-      "gloss": "jeung ka sora abdi"
+      "gloss": "jeung kana sora kuring"
     },
     {
       "surface": "אתם",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "קחו",
-      "gloss": "pondokkeun"
+      "gloss": "pibanda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sirah-sirah jalma putra luluhur anjeun"
+      "marks": "sirah-sirah"
     },
     {
       "surface": "ראשי",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "putra"
+      "gloss": "barbarengan"
     },
     {
       "surface": "אדניכם",
-      "gloss": "luluhur anjeun"
+      "gloss": "abdi dumno anjeun"
     },
     {
       "surface": "ובאו",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "אלי",
-      "gloss": "ka abdi"
+      "gloss": "ka kuring"
     },
     {
       "surface": "כעת",
-      "gloss": "jiga kiwari"
+      "gloss": "ieu wanci"
     },
     {
       "surface": "מחר",
-      "gloss": "isuk-isuk"
+      "gloss": "isuk-isukan"
     },
     {
       "surface": "יזרעאלה",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "ובני",
-      "gloss": "jeung putra-putra"
+      "gloss": "jeung barbarengan"
     },
     {
       "surface": "המלך",
@@ -115,11 +115,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nu-ngageungan kota"
+      "marks": "nu agung-agung kota"
     },
     {
       "surface": "גדלי",
-      "gloss": "nu-ngageungan"
+      "gloss": "nu agung-agung"
     },
     {
       "surface": "העיר",
@@ -127,13 +127,13 @@
     },
     {
       "surface": "מגדלים",
-      "gloss": "ngagedékeun"
+      "gloss": "nu ngagedekeun"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ aranjeunna"
+      "gloss": "⟨את⟩ anjeunna"
     }
   ],
-  "timestamp": "2026-08-26T12:53:33.738518890Z",
+  "timestamp": "2026-08-26T18:22:07.960965126Z",
   "model": "glm-5.3"
 }

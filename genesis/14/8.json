@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 14,
-  "translation": "Tulun kaluar raja Sodom, raja Amora, raja Admah, raja Tseboyim, jeung raja Bela — éta ⟨is⟩ Zoar — tuluy aranjeunna nyusun perang ⟨את⟩ ngalawan mararénta di léngkob Sidim.",
+  "translation": "Pantas raja Sedom kaluar, jeung raja Amorah, jeung raja Admah, jeung raja Tseboim, jeung raja Bela — nyaéta Tsoar — sarta maranéhna ngaruntuykeun ⟨את⟩ perang ngalawan maranéhna di lebak Siddim.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "tulun kaluar"
+      "gloss": "kaluar"
     },
     {
       "surface": "מלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "סדם",
-      "gloss": "Sodom"
+      "gloss": "Sedom"
     },
     {
       "surface": "ומלך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עמרה",
-      "gloss": "Amora"
+      "gloss": "Amorah"
     },
     {
       "surface": "ומלך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "צביים",
-      "gloss": "Tseboyim"
+      "gloss": "Tseboim"
     },
     {
       "surface": "ומלך",
@@ -53,19 +53,20 @@
     },
     {
       "surface": "הוא",
-      "gloss": "éta"
+      "gloss": "nyaéta"
     },
     {
       "surface": "צער",
-      "gloss": "Zoar"
+      "gloss": "Tsoar"
     },
     {
       "surface": "ויערכו",
-      "gloss": "tuluy aranjeunna nyusun"
+      "gloss": "ngaruntuykeun"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ngalawan mararénta"
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna"
     },
     {
       "surface": "מלחמה",
@@ -73,13 +74,13 @@
     },
     {
       "surface": "בעמק",
-      "gloss": "di léngkob"
+      "gloss": "di lebak"
     },
     {
       "surface": "השדים",
-      "gloss": "Sidim"
+      "gloss": "Siddim"
     }
   ],
-  "timestamp": "2026-08-26T10:39:38.739264084Z",
+  "timestamp": "2026-08-26T18:59:45.968646615Z",
   "model": "glm-5.3"
 }

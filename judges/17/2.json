@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "su",
   "chapter": 17,
-  "translation": "Jeung anjeunna nyarita ka indungna: 'Saréwu jeung saratus ⟨the⟩ kaperak nu dicandak ti anjeun, jeung moga anjeun ngutuk ka abdi, ogé anjeun nyarita ceuking abdi — geura, kaperakna ⟨את⟩ aya di abdi, abdi nu nyandakna.' Jeung indungna ngomong: 'Ku Yahwe budak abdi dipaparin berkah.'",
+  "translation": "Jeung anjeunna ngomong ka indungna: saréwu saratus pérak nu dicandak ti anjeun, nu mana anjeun ngahianat sumpah nanaon, ogé anjeun ngomong ka ceuli abdi — eta, eh ceuning, pérak eta aya sareng abdi, abdi nu nyandakna. Jeung indungna ngomong: anu diberkahan, anak abdi, ku Yahwe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Jeung anjeunna nyarita"
+      "gloss": "Jeung anjeunna ngomong"
     },
     {
       "surface": "לאמו",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ומאה",
-      "gloss": "jeung saratus"
+      "gloss": "saratus"
     },
     {
       "surface": "הכסף",
-      "gloss": "kaperak"
+      "gloss": "pérak"
     },
     {
       "surface": "אשר",
-      "gloss": "nu"
+      "gloss": "nu mana"
     },
     {
       "surface": "לקח",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "ka abdi"
+      "gloss": "jeung kuring"
     },
     {
       "surface": "אלית",
-      "gloss": "moga anjeun ngutuk"
+      "gloss": "ngahianat sumpah nanaon"
     },
     {
       "surface": "וגם",
@@ -53,23 +53,24 @@
     },
     {
       "surface": "אמרת",
-      "gloss": "anjeun nyarita"
+      "gloss": "anjeun ngomong"
     },
     {
       "surface": "באזני",
-      "gloss": "ceuking"
+      "gloss": "ka ceuli abdi"
     },
     {
       "surface": "הנה",
-      "gloss": "geura"
+      "gloss": "eh ceuning"
     },
     {
       "surface": "הכסף",
-      "gloss": "kaperakna"
+      "gloss": "pérak eta"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ aya di"
+      "gloss": "⟨את⟩",
+      "marks": "aya sareng abdi"
     },
     {
       "surface": "אני",
@@ -80,8 +81,8 @@
       "gloss": "nu nyandakna"
     },
     {
-      "surface": "ויאמר → ותאמר",
-      "gloss": "Jeung ... ngomong"
+      "surface": "ותאמר",
+      "gloss": "Jeung indungna ngomong"
     },
     {
       "surface": "אמו",
@@ -89,17 +90,17 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "dipaparin berkah"
+      "gloss": "anu diberkahan"
     },
     {
       "surface": "בני",
-      "gloss": "budak abdi"
+      "gloss": "anak abdi"
     },
     {
       "surface": "ליהוה",
       "gloss": "ku Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T12:10:14.043188648Z",
+  "timestamp": "2026-08-26T19:02:22.652705109Z",
   "model": "glm-5.3"
 }

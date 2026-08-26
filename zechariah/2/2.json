@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "su",
   "chapter": 2,
-  "translation": "Jeung kuring nyarita ka malaékat nu ngomong ka kuring: naon ieu? Jeung anjeunna nyarita ka kuring: ieu ⟨the⟩ tanduk-tanduk nu ngasebarkeun ⟨את⟩ Yehuda, ⟨את⟩ Yisrael, jeung Yerushalaim.",
+  "translation": "Lajeng kuring nyarita ka ⟨את⟩ malaékat nu ngomong dina diri kuring: naon ieu? Jeung anjeunna nyarita ka kuring: ieu téh tanduk-tanduk nu nyebarkeun ⟨את⟩ Yehudah, ⟨את⟩ Yisrael, jeung Yerushalaim.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "jeung kuring nyarita"
+      "gloss": "lajeng kuring nyarita"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בי",
-      "gloss": "ka kuring"
+      "gloss": "dina diri kuring"
     },
     {
       "surface": "מה",
@@ -57,16 +57,16 @@
     },
     {
       "surface": "זרו",
-      "gloss": "ngasebarkeun"
+      "gloss": "nyebarkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehuda"
+      "marks": "Yehudah"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "את",
@@ -82,6 +82,6 @@
       "gloss": "jeung Yerushalaim"
     }
   ],
-  "timestamp": "2026-08-26T14:18:19.752988314Z",
+  "timestamp": "2026-08-26T18:29:50.799026722Z",
   "model": "glm-5.3"
 }

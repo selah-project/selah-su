@@ -5,24 +5,19 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 83,
-  "translation": "Maranéhna geus ngomong: «Pindah, hayu urang museuhkeun ⟨את⟩ maranéhna tina jadi bangsa, sangkan teu dieuingan de ngaran Israel.»",
+  "translation": "Maranehna nyarita: «Atuh datang, hayu urang musnahkeun aranjeun tina jadi bangsa, sangkan ngaran Yisrael teu dibalikaran deui.»",
   "tokens": [
     {
       "surface": "אמרו",
-      "gloss": "ngomong"
+      "gloss": "nyarita"
     },
     {
       "surface": "לכו",
-      "gloss": "pindah"
+      "gloss": "atoh datang"
     },
     {
       "surface": "ונכחידם",
-      "gloss": "jeung hayu urang museuhkeun"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "maranéhna"
+      "gloss": "hayu urang musnahkeun aranjeun"
     },
     {
       "surface": "מגוי",
@@ -34,7 +29,7 @@
     },
     {
       "surface": "יזכר",
-      "gloss": "dieuingan"
+      "gloss": "dibalikaran"
     },
     {
       "surface": "שם",
@@ -42,13 +37,13 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "עוד",
-      "gloss": "de"
+      "gloss": "deui"
     }
   ],
-  "timestamp": "2026-08-26T17:13:48.908794794Z",
+  "timestamp": "2026-08-26T18:32:02.360540666Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 19,
-  "translation": "Jeung wates putra-putra Dan kaluar ti ⟨ Loréng ⟩, jeung putra-putra Dan naék sarta perang ngalawan Lésyem, sarta aranjeunna nabandakeun ⟨את⟩ ⟨ את → aranjeunna ⟩ munggaran, tuluy aranjeunna ngaranjakeun ⟨ את → Lésyem ⟩ ku seuseukeut pedang, jeung aranjeunna numuangan ⟨ את → Lésyem ⟩, jeung aranjeunna cicing di jerona, jeung aranjeunna ngaranna Lésyem Dan, nurutkeun ngaran Dan bapa maranehna.",
+  "translation": "Pantaréna baris anak-anak Dan kaluar ti maranehna, jeung anak-anak Dan naék sarta perang ngalawan Leshem, terus aranjeunna naréwak ⟨את⟩ éta (kota) jeung ngajeroskeun ⟨את⟩ éta ku seuseungitan pedang, terus aranjeunna mibanda ⟨את⟩ éta jeung dumuk di jerona, sarta maranehna ngageroan Leshem ku ngaran Dan, nuturkeun ngaran Dan ramana.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "גבול",
-      "gloss": "wates"
+      "gloss": "pantaré baris"
     },
     {
       "surface": "בני",
-      "gloss": "putra-putra"
+      "gloss": "anak-anak"
     },
     {
       "surface": "דן",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "מהם",
-      "gloss": "ti aranjeunna"
+      "gloss": "ti maranehna"
     },
     {
       "surface": "ויעלו",
-      "gloss": "anjeunna naék"
+      "gloss": "naék"
     },
     {
       "surface": "בני",
-      "gloss": "putra-putra"
+      "gloss": "anak-anak"
     },
     {
       "surface": "דן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "anjeunna perang"
+      "gloss": "perang"
     },
     {
       "surface": "עם",
@@ -49,29 +49,29 @@
     },
     {
       "surface": "לשם",
-      "gloss": "Lésyem"
+      "gloss": "Leshem"
     },
     {
       "surface": "וילכדו",
-      "gloss": "anjeunna ngarebut"
+      "gloss": "naréwak"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨ את → aranjeunna ⟩",
-      "marks": "Lésyem"
+      "gloss": "⟨את⟩",
+      "marks": "éta (kota)"
     },
     {
       "surface": "ויכו",
-      "gloss": "anjeunna ngarodak"
+      "gloss": "ngajeroskeun"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨ את → Lésyem ⟩",
-      "marks": "Lésyem"
+      "gloss": "⟨את⟩",
+      "marks": "éta (kota)"
     },
     {
       "surface": "לפי",
-      "gloss": "ku seuseukeut"
+      "gloss": "seuseungitan"
     },
     {
       "surface": "חרב",
@@ -79,16 +79,16 @@
     },
     {
       "surface": "וירשו",
-      "gloss": "anjeunna numuangan"
+      "gloss": "mibanda"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨ את → Lésyem ⟩",
-      "marks": "Lésyem"
+      "gloss": "⟨את⟩",
+      "marks": "éta (kota)"
     },
     {
       "surface": "וישבו",
-      "gloss": "anjeunna cicing"
+      "gloss": "dumuk"
     },
     {
       "surface": "בה",
@@ -96,11 +96,11 @@
     },
     {
       "surface": "ויקראו",
-      "gloss": "anjeunna ngaranna"
+      "gloss": "ngageroan"
     },
     {
       "surface": "ללשם",
-      "gloss": "Lésyem"
+      "gloss": "Leshem"
     },
     {
       "surface": "דן",
@@ -108,7 +108,7 @@
     },
     {
       "surface": "כשם",
-      "gloss": "nurutkeun ngaran"
+      "gloss": "nuturkeun ngaran"
     },
     {
       "surface": "דן",
@@ -116,9 +116,9 @@
     },
     {
       "surface": "אביהם",
-      "gloss": "bapa maranehna"
+      "gloss": "ramana"
     }
   ],
-  "timestamp": "2026-08-26T17:58:38.116750565Z",
+  "timestamp": "2026-08-26T18:14:24.196481872Z",
   "model": "glm-5.3"
 }

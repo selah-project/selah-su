@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 32,
-  "translation": "Loba pisan阵 ngarasa kasakit ka jeroeunnana nu boga dosa —",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:26:39.716244070Z",
+  "translation": "Loba panyakit-paeh pikeun nu jahat, tapi nu percaya ka Yahwe, xesed ngurilingan anjeunna.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "loba"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "panyakit-paeh"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "pikeun nu jahat"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "tapi nu percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ngurilingan anjeunna"
+    }
+  ],
+  "timestamp": "2026-08-26T18:31:08.551514407Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,65 @@
   "book": "zechariah",
   "lang": "su",
   "chapter": 1,
-  "translation": "Teras kuring nanya: naon ieu, Adonay kuring? Jeung malaékat nu ngomong ka kuring ngajawab ka kuring: kuring bakal nembongkeun ka anjeun naon ⟨euweuh⟩ sanggeusna.",
-  "tokens": [],
-  "timestamp": "2026-08-26T17:09:20.436564874Z",
+  "translation": "Tuluy abdi nyarita, \"Naon ieu, Tuan abdi?\" Malaékat nu ngobrol jeung abdi ngomong ka abdi, \"Abdi bakal nembongkeun ka anjeun naon ⟨are⟩ ieu.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nyarita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Tuan abdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaékat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nu ngobrol"
+    },
+    {
+      "surface": "בי",
+      "gloss": "jeung abdi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "bakal nembongkeun ka anjeun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "המה",
+      "gloss": "maranehna"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ieu"
+    }
+  ],
+  "timestamp": "2026-08-26T18:29:57.511644492Z",
   "model": "glm-5.3"
 }

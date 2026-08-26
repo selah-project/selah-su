@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 5,
-  "translation": "Jeung Dawid omong dina poé éta: 'Saha waé nu nyerang Yevusi moal numpur ka solokan cai, ka ⟨את⟩ anu tumpul jeung ⟨את⟩ anu buta, nu dibenci ku nyawa Dawid.' Ku sabab éta dibiantara: 'Anu buta jeung anu tumpul moal asup ka imah.'",
+  "translation": "Jeung Dawed ngomong dina poé éta: saha waé nu ngapungan Yebusi jeung ngarah kana saluran cai, sarta ⟨את⟩ nu pincang jeung ⟨את⟩ nu buta — dibenci ku nyawa Dawed; ku kituna jadi kocapan: nu buta jeung nu pincang moal asup ka imah.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "omong"
+      "gloss": "jeung ngomong"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Dawed"
     },
     {
       "surface": "ביום",
@@ -25,78 +25,73 @@
     },
     {
       "surface": "כל",
-      "gloss": "Saha waé"
+      "gloss": "saha waé"
     },
     {
       "surface": "מכה",
-      "gloss": "nu nyerang"
+      "gloss": "nu ngapungan"
     },
     {
       "surface": "יבסי",
-      "gloss": "Yevusi"
+      "gloss": "Yebusi"
     },
     {
       "surface": "ויגע",
-      "gloss": "moal numpur ka"
+      "gloss": "jeung ngarah"
     },
     {
       "surface": "בצנור",
-      "gloss": "solokan cai"
+      "gloss": "kana saluran cai"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "anu tumpul"
+      "marks": "nu pincang"
     },
     {
       "surface": "הפסחים",
-      "gloss": "anu tumpul"
-    },
-    {
-      "surface": "ויגעל",
-      "gloss": "⟨את⟩",
-      "marks": ""
+      "gloss": "nu pincang"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "anu buta"
+      "marks": "nu buta"
     },
     {
       "surface": "העורים",
-      "gloss": "anu buta"
+      "gloss": "nu buta"
     },
     {
       "surface": "שנאו",
-      "gloss": "nu dibenci"
+      "gloss": "dibenci"
     },
     {
       "surface": "נפש",
-      "gloss": "ku nyawa"
+      "gloss": "nyawa"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Dawed"
     },
     {
       "surface": "על",
-      "gloss": "Ku sabab"
+      "gloss": "ku sabab"
     },
     {
       "surface": "כן",
-      "gloss": "éta"
+      "gloss": "kituna"
     },
     {
       "surface": "יאמרו",
-      "gloss": "dibiantara"
+      "gloss": "jadi kocapan"
     },
     {
       "surface": "עור",
-      "gloss": "Anu buta"
+      "gloss": "nu buta"
     },
     {
       "surface": "ופסח",
-      "gloss": "jeung anu tumpul"
+      "gloss": "jeung nu pincang"
     },
     {
       "surface": "לא",
@@ -104,7 +99,7 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "asup ka"
+      "gloss": "asup"
     },
     {
       "surface": "אל",
@@ -115,6 +110,6 @@
       "gloss": "imah"
     }
   ],
-  "timestamp": "2026-08-26T12:28:55.055927141Z",
+  "timestamp": "2026-08-26T18:17:50.658972461Z",
   "model": "glm-5.3"
 }

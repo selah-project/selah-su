@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 12,
-  "translation": "Jeung Dawud ngumpulkeun ⟨את⟩ sakuliah ⟨the⟩ balaréa, lajeng indit ka Rabbah, perang ngalawanana, sarta nyandak eta kota.",
+  "translation": "Jeung Dawid ngumpulkeun ⟨את⟩ sagala jelema, tuluy indit ka Rabbah, sarta perang ngalawanana, laju meraonna.",
   "tokens": [
     {
       "surface": "ויאסף",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawud"
+      "gloss": "Dawid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakuliah balaréa"
+      "marks": "sagala jelema"
     },
     {
       "surface": "כל",
-      "gloss": "sakuliah"
+      "gloss": "sagala"
     },
     {
       "surface": "העם",
-      "gloss": "balaréa"
+      "gloss": "jelema"
     },
     {
       "surface": "וילך",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "וילכדה",
-      "gloss": "nyandak eta kota"
+      "gloss": "meraonna"
     }
   ],
-  "timestamp": "2026-08-26T12:31:41.523699872Z",
+  "timestamp": "2026-08-26T18:17:37.228106009Z",
   "model": "glm-5.3"
 }

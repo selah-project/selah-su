@@ -5,35 +5,39 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 11,
-  "translation": "Sarta nu pangperang-pangperang tina barisan parang ⟨eta⟩: Asahél, adi na Yoav, Elxanan putra Dodo, ti Beit-Lexem.",
+  "translation": "Sarta nu wijaksana ti kalombaran perang: Asael adina Yoab, Elkhanan putrana Dodo ti Beit-Lechem.",
   "tokens": [
     {
       "surface": "וגבורי",
-      "gloss": "sarta nu pangperang-pangperang"
+      "gloss": "Sarta nu wijaksana"
     },
     {
       "surface": "החילים",
-      "gloss": "tina barisan parang ⟨eta⟩"
+      "gloss": "ti kalombaran perang"
     },
     {
       "surface": "עשה",
-      "gloss": "Asahél"
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
     },
     {
       "surface": "אחי",
-      "gloss": "adi na"
+      "gloss": "adina"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav"
+      "gloss": "Yoab"
     },
     {
       "surface": "אלחנן",
-      "gloss": "Elxanan"
+      "gloss": "Elkhanan"
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "putrana"
     },
     {
       "surface": "דודו",
@@ -45,9 +49,9 @@
     },
     {
       "surface": "לחם",
-      "gloss": "Beit-Lexem"
+      "gloss": "Beit-Lechem"
     }
   ],
-  "timestamp": "2026-08-26T17:25:24.251795811Z",
+  "timestamp": "2026-08-26T18:37:39.498280357Z",
   "model": "glm-5.3"
 }

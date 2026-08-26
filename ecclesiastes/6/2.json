@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 6,
-  "translation": "Hiji jalma nu dipaparin ku Elohim kasugihan, bandas, jeung kamulyaan, nepi ka euweuh nu kakurangan pikeun <nefesh>-na tina sagala nu dipikahayang, tapi Elohim henteu méré kawasa ka manéhna pikeun ngahakan tina éta — sabab jalma deungeun nu baris ngahakanana. Ieu hebel sarta panyakit goréng.",
+  "translation": "Jalma nu dipaparinkeun ku Elohim harta, kakayaan, jeung kamulyaan, nepi ka euweuh kakurangan pikeun nyawana tina sadayana nu dipikahayangna, tapi Elohim henteu méré kawenang ka manéhna pikeun ngadahar tina éta, sabab jalma deungeun nu ngadahar éta — ieu kasieulan jeung panyakit nu goréng.",
   "tokens": [
     {
       "surface": "איש",
-      "gloss": "hiji jalma"
+      "gloss": "jalma"
     },
     {
       "surface": "אשר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "יתן",
-      "gloss": "méré"
+      "gloss": "dipaparinkeun"
     },
     {
       "surface": "לו",
-      "gloss": "ka"
+      "gloss": "ka manéhna"
     },
     {
       "surface": "האלהים",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "עשר",
-      "gloss": "kasugihan"
+      "gloss": "harta"
     },
     {
       "surface": "ונכסים",
-      "gloss": "bandas"
+      "gloss": "jeung kakayaan"
     },
     {
       "surface": "וכבוד",
-      "gloss": "kamulyaan"
+      "gloss": "jeung kamulyaan"
     },
     {
       "surface": "ואיננו",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "חסר",
-      "gloss": "nu kakurangan"
+      "gloss": "kakurangan"
     },
     {
       "surface": "לנפשו",
-      "gloss": "pikeun nefesh-na"
+      "gloss": "pikeun nyawana"
     },
     {
       "surface": "מכל",
-      "gloss": "tina sagala"
+      "gloss": "tina sadayana"
     },
     {
       "surface": "אשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יתאוה",
-      "gloss": "dipikahayang"
+      "gloss": "dipikahayangna"
     },
     {
       "surface": "ולא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ישליטנו",
-      "gloss": "méré kawasa ka manéhna"
+      "gloss": "méré kawenang ka manéhna"
     },
     {
       "surface": "האלהים",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "לאכל",
-      "gloss": "pikeun ngahakan"
+      "gloss": "pikeun ngadahar"
     },
     {
       "surface": "ממנו",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "יאכלנו",
-      "gloss": "baris ngahakanana"
+      "gloss": "nu ngadahar éta"
     },
     {
       "surface": "זה",
@@ -105,11 +105,11 @@
     },
     {
       "surface": "הבל",
-      "gloss": "hebel"
+      "gloss": "kasieulan"
     },
     {
       "surface": "וחלי",
-      "gloss": "sarta panyakit"
+      "gloss": "jeung panyakit"
     },
     {
       "surface": "רע",
@@ -117,9 +117,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "✕"
+      "gloss": "éta"
     }
   ],
-  "timestamp": "2026-08-26T15:33:38.296455152Z",
+  "timestamp": "2026-08-26T18:34:58.388948444Z",
   "model": "glm-5.3"
 }

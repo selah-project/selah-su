@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 7,
-  "translation": "Jeung jadi ⟨the⟩ nu mawa dina poé kahiji ⟨את⟩ kurbanana: Naxshon putra Aminadav, tina suku Yehuda.",
+  "translation": "Jeung ⟨uanj⟩ nu mawa ⟨את⟩ persembahanna dina poé kahiji: Naxshon putrana Aminadav, ti suku Yehuda.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המקריב",
-      "gloss": "nu mawa"
+      "gloss": "nu mawa persembahan"
     },
     {
       "surface": "ביום",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kurbanana"
+      "marks": "persembahanna"
     },
     {
       "surface": "קרבנו",
-      "gloss": "kurbanana"
+      "gloss": "persembahanna"
     },
     {
       "surface": "נחשון",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "putrana"
     },
     {
       "surface": "עמינדב",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "למטה",
-      "gloss": "tina suku"
+      "gloss": "ti suku"
     },
     {
       "surface": "יהודה",
       "gloss": "Yehuda"
     }
   ],
-  "timestamp": "2026-08-26T11:25:38.953023255Z",
+  "timestamp": "2026-08-26T18:08:36.893166265Z",
   "model": "glm-5.3"
 }

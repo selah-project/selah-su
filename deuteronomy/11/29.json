@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 11,
-  "translation": "Jeung baris kajadian, sabot Yahwe, Elohim anjeun, mawa anjeun ka lemah nu anjeun asup ka dinya pikeun ngawasaanana, anjeun bakal nempatkeun ⟨את⟩ berkah di luhur gunung Gerizim jeung ⟨את⟩ kutukan di luhur gunung Eival.",
+  "translation": "Jeung baris kajadian, sabot Yahwe Elohim anjeun mawa anjeun ka tanah nu anjeun ngarah ka dinya pikeun ngawasaanana, anjeun bakal nempatkeun ⟨את⟩ berkah di gunung Gerizim jeung ⟨את⟩ kutukan di gunung Eival.",
   "tokens": [
     {
       "surface": "והיה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ lemah"
+      "gloss": "tanah"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "asup ka"
+      "gloss": "ngarah"
     },
     {
       "surface": "שמה",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "הברכה",
-      "gloss": "⟨the⟩ berkah"
+      "gloss": "berkah"
     },
     {
       "surface": "על",
-      "gloss": "di luhur"
+      "gloss": "di"
     },
     {
       "surface": "הר",
@@ -87,11 +87,11 @@
     },
     {
       "surface": "הקללה",
-      "gloss": "⟨the⟩ kutukan"
+      "gloss": "kutukan"
     },
     {
       "surface": "על",
-      "gloss": "di luhur"
+      "gloss": "di"
     },
     {
       "surface": "הר",
@@ -102,6 +102,6 @@
       "gloss": "Eival"
     }
   ],
-  "timestamp": "2026-08-26T11:42:50.908998440Z",
+  "timestamp": "2026-08-26T18:11:52.146779811Z",
   "model": "glm-5.3"
 }

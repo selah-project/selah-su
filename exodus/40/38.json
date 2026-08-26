@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 40,
-  "translation": "Sabab awan Yahwe aya di luhureun ⟨the⟩ Kemah Suci poé, jeung seuneu ⟨is⟩ aya di jero wengi, di payuneun burih ⟨the⟩ sadaya kulawarga Yisrael dina sadaya lalampahanana.",
+  "translation": "Sabab méméh awan Yahwe aya luhureun ⟨the⟩ Kemah Suci poé, jeung seuneu ⟨is⟩ aya di jeronana peuting, di payuneun sadaya béténg Yisrael dina sadaya lalampahanana.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sabab"
+      "gloss": "sabab"
     },
     {
       "surface": "ענן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "aya di luhureun"
+      "gloss": "luhureun"
     },
     {
       "surface": "המשכן",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "לילה",
-      "gloss": "wengi"
+      "gloss": "peuting"
     },
     {
       "surface": "בו",
-      "gloss": "di jero"
+      "gloss": "di jeronana"
     },
     {
       "surface": "לעיני",
-      "gloss": "di payuneun burih"
+      "gloss": "di payuneun"
     },
     {
       "surface": "כל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "kulawarga"
+      "gloss": "béténg"
     },
     {
       "surface": "ישראל",
@@ -72,6 +72,6 @@
       "gloss": "lalampahanana"
     }
   ],
-  "timestamp": "2026-08-26T16:41:55.375780229Z",
+  "timestamp": "2026-08-26T19:01:20.318931820Z",
   "model": "glm-5.3"
 }

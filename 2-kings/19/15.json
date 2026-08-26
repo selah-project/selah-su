@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 19,
-  "translation": "Laju Chizkiyahu shalat di payuneun Yahwe, laju nyebut: Yahwe, Elohimna Israél, anu nyicingan ⟨éta⟩ kerubim, Anjeun ma Anjeun ⟨is⟩ Elohim, Anjeun wunggul, pikeun sadaya karajaan di ⟨éta⟩ bumi; Anjeun anu nyieun ⟨את⟩ langit jeung ⟨את⟩ bumi.",
+  "translation": "Jeung Chizkiyahu sholat di payuneun Yahwe, sarta anjeunna ngomong: Yahwe, Elohim-na Yisrael, Nu calik di luhureun ⟨את⟩ kerub-kerub, anjeun ⟨ Scott⟨ anu Elohim, ukur Anjeun wunggal, pikeun sakabéh karajaan ⟨ה⟩ bumi; Anjeun nu nyieun ⟨את⟩ langit-langit jeung ⟨את⟩ bumi.",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "gloss": "laju shalat"
+      "gloss": "jeung sholat"
     },
     {
       "surface": "חזקיהו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "laju nyebut"
+      "gloss": "sarta anjeunna ngomong"
     },
     {
       "surface": "יהוה",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimna"
+      "gloss": "Elohim-na"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israél"
+      "gloss": "Yisrael"
     },
     {
-      "surface": "יושב",
-      "gloss": "anu nyicingan"
+      "surface": "ישב",
+      "gloss": "Nu calik"
     },
     {
-      "surface": "הכרובים",
-      "gloss": "kerubim"
+      "surface": "הכרבים",
+      "gloss": "kerub-kerub"
     },
     {
       "surface": "אתה",
-      "gloss": "Anjeun"
+      "gloss": "anjeun"
     },
     {
       "surface": "הוא",
-      "gloss": "ma Anjeun"
+      "gloss": "anu"
     },
     {
       "surface": "האלהים",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "Anjeun wunggul"
+      "gloss": "ukur Anjeu wunggal"
     },
     {
       "surface": "לכל",
-      "gloss": "pikeun sadaya"
+      "gloss": "pikeun sakabéh"
     },
     {
       "surface": "ממלכות",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "di bumi"
+      "gloss": "bumi"
     },
     {
       "surface": "אתה",
@@ -81,16 +81,16 @@
     },
     {
       "surface": "עשית",
-      "gloss": "anu nyieun"
+      "gloss": "nu nyieun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "langit"
+      "marks": "langit-langit"
     },
     {
       "surface": "השמים",
-      "gloss": "langit"
+      "gloss": "langit-langit"
     },
     {
       "surface": "ואת",
@@ -102,6 +102,6 @@
       "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-26T12:57:56.259214654Z",
+  "timestamp": "2026-08-26T19:03:37.028936784Z",
   "model": "glm-5.3"
 }

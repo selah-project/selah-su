@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 38,
-  "translation": "Jeung ⟨את⟩ sarébu jeung tujuh ratus lima jeung tujuh puluh dijieun kait-kait pikeun pilar-pilar, sarta dipapaosan sirah-sirahna jeung dikaitkeun ⟨את⟩ aranjeunna.",
+  "translation": "Sarta ⟨את⟩ sarébu jeung tujuh ratus jeung lima jeung tujuh puluh syékel dipaké nyieun kait-kait pikeun pilar-pilar, sarta dicoelikeun luhureunana jeung dihubungkeun ku cingcin.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sarébu jeung tujuh ratus lima jeung tujuh puluh"
+      "marks": "sarébu (syékel)"
     },
     {
       "surface": "האלף",
@@ -34,18 +34,10 @@
     },
     {
       "surface": "עשה",
-      "gloss": "dijieun"
+      "gloss": "dipaké nyieun"
     },
     {
-      "surface": "ואת",
-      "gloss": ""
-    },
-    {
-      "surface": "ושבע",
-      "gloss": ""
-    },
-    {
-      "surface": "המאות",
+      "surface": "ובע",
       "gloss": ""
     },
     {
@@ -53,19 +45,7 @@
       "gloss": ""
     },
     {
-      "surface": "ושבעים",
-      "gloss": ""
-    },
-    {
       "surface": "עשה",
-      "gloss": "⟨את⟩"
-    },
-    {
-      "surface": "ואת",
-      "gloss": ""
-    },
-    {
-      "surface": "האלף",
       "gloss": ""
     },
     {
@@ -73,74 +53,14 @@
       "gloss": ""
     },
     {
-      "surface": "המאות",
+      "surface": "ובע",
       "gloss": ""
     },
     {
       "surface": "וחמשה",
-      "gloss": ""
-    },
-    {
-      "surface": "ושבעים",
-      "gloss": ""
-    },
-    {
-      "surface": "עשה",
-      "gloss": ""
-    },
-    {
-      "surface": "ואת",
-      "gloss": ""
-    },
-    {
-      "surface": "האלף",
-      "gloss": ""
-    },
-    {
-      "surface": "ושבע",
-      "gloss": ""
-    },
-    {
-      "surface": "המאות",
-      "gloss": ""
-    },
-    {
-      "surface": "וחמשה",
-      "gloss": ""
-    },
-    {
-      "surface": "ושבעים",
-      "gloss": ""
-    },
-    {
-      "surface": "עשה",
-      "gloss": ""
-    },
-    {
-      "surface": "ווים",
-      "gloss": "kait-kait"
-    },
-    {
-      "surface": "לעמודים",
-      "gloss": "pikeun pilar-pilar"
-    },
-    {
-      "surface": "וצפה",
-      "gloss": "sarta dipapaosan"
-    },
-    {
-      "surface": "ראשיהם",
-      "gloss": "sirah-sirahna"
-    },
-    {
-      "surface": "וחשק",
-      "gloss": "jeung dikaitkeun"
-    },
-    {
-      "surface": "אתם",
       "gloss": "⟨את⟩"
     }
   ],
-  "timestamp": "2026-08-26T11:10:49.380839913Z",
+  "timestamp": "2026-08-26T18:05:39.166539802Z",
   "model": "glm-5.3"
 }

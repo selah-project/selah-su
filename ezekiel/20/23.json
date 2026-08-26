@@ -5,28 +5,28 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 20,
-  "translation": "Ogě éuring mawa ⟨את⟩ leungeun-ku ka maranehna di leuweung-ampilan, pikeun nyérakeun ⟨את⟩ ⟨אתם⟩ di antara bangsa-bangsa, jeung miceunnakeun ⟨את⟩ ⟨אותם⟩ di nagari-nagari.",
+  "translation": "Og kuring ngangkat ⟨את⟩ leungeun kuring ka maranehna di gurun, pikeun ngabububarkeun ⟨את⟩ maranehna di antara bangsa-bangsa sarta mikeuncarkeun ⟨את⟩ maranehna di nagari-nagari.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "ogě"
+      "gloss": "og"
     },
     {
       "surface": "אני",
-      "gloss": "éuring"
+      "gloss": "kuring"
     },
     {
       "surface": "נשאתי",
-      "gloss": "mawa"
+      "gloss": "ngangkat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "leungeun-ku"
+      "marks": "leungeun kuring"
     },
     {
       "surface": "ידי",
-      "gloss": "leungeun-ku"
+      "gloss": "leungeun kuring"
     },
     {
       "surface": "להם",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "di leuweung-ampilan"
+      "gloss": "di gurun"
     },
     {
       "surface": "להפיץ",
-      "gloss": "pikeun nyérakeun"
+      "gloss": "pikeun ngabububarkeun"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "di antara bangsa-bangsa"
     },
     {
@@ -51,11 +51,11 @@
     },
     {
       "surface": "ולזרות",
-      "gloss": "jeung miceunnakeun"
+      "gloss": "sarta mikeuncarkeun"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "gloss": "⟨את⟩",
       "marks": "di nagari-nagari"
     },
     {
@@ -63,6 +63,6 @@
       "gloss": "di nagari-nagari"
     }
   ],
-  "timestamp": "2026-08-26T17:58:38.109282849Z",
+  "timestamp": "2026-08-26T18:27:15.233319459Z",
   "model": "glm-5.3"
 }

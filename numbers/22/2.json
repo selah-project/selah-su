@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 22,
-  "translation": "Jeung Balak putra Tsipor nempo ⟨את⟩ sakabéh nu geus dipigawé ku Yisrael ka ⟨the⟩ Emori.",
+  "translation": "Balak putra Tsippor nempo ⟨את⟩ sagala nu geus dipigawé ku Yisrael ka ⟨urang⟩ Emori.",
   "tokens": [
     {
       "surface": "וירא",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "צפור",
-      "gloss": "Tsipor"
+      "gloss": "Tsippor"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakabéh"
+      "marks": "sagala nu geus dipigawé ku Yisrael"
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sagala"
     },
     {
       "surface": "אשר",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "לאמרי",
-      "gloss": "ka Emori"
+      "gloss": "Emori"
     }
   ],
-  "timestamp": "2026-08-26T11:32:06.095651963Z",
+  "timestamp": "2026-08-26T18:09:35.894919004Z",
   "model": "glm-5.3"
 }

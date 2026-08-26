@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 4,
-  "translation": "Jeung réngsé Aharon jeung putra-putrana nutupan ⟨את⟩ sakral jeung ⟨את⟩ sadaya parabot sakral waktu kemah miang; sanggeus éta putra-putra Kehat asik bawa, tapi ulah antel ka nu sakral bilih maot. Ieu ⟨is⟩ babawaan putra-putra Kehat di Kemah Papanggihan.",
+  "translation": "Lamun Aharon jeung putra-putrana geus bérés nutupan ⟨את⟩ nu kawanas jeung ⟨את⟩ sadaya parabot nu kawanas, dina basa-kasusukaan kemah, sanggeus itu baris asup putra-putra Kehat pikeun mawa, tapi ulah anteu ka nu kawanas bilih paéh; ieu mamaenan putra-putra Kehat dina Kemah Papanggih.",
   "tokens": [
     {
       "surface": "וכלה",
-      "gloss": "jeung réngsé"
+      "gloss": "geus bérés"
     },
     {
       "surface": "אהרן",
@@ -26,16 +26,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakral"
+      "marks": "nu kawanas"
     },
     {
       "surface": "הקדש",
-      "gloss": "sakral"
+      "gloss": "nu kawanas"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "sadaya parabot sakral"
+      "gloss": "⟨את⟩",
+      "marks": "sadaya parabot nu kawanas"
     },
     {
       "surface": "כל",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "sakral"
+      "gloss": "nu kawanas"
     },
     {
       "surface": "בנסע",
-      "gloss": "waktu miang"
+      "gloss": "dina basa-kasusukaan"
     },
     {
       "surface": "המחנה",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "éta"
+      "gloss": "itu"
     },
     {
       "surface": "יבאו",
-      "gloss": "asik"
+      "gloss": "baris asup"
     },
     {
       "surface": "בני",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "bawa"
+      "gloss": "pikeun mawa"
     },
     {
       "surface": "ולא",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "יגעו",
-      "gloss": "antel"
+      "gloss": "anteu"
     },
     {
       "surface": "אל",
@@ -95,11 +95,11 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "nu sakral"
+      "gloss": "nu kawanas"
     },
     {
       "surface": "ומתו",
-      "gloss": "bilih maot"
+      "gloss": "bilih paéh"
     },
     {
       "surface": "אלה",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "משא",
-      "gloss": "babawaan"
+      "gloss": "mamaenan"
     },
     {
       "surface": "בני",
@@ -119,13 +119,13 @@
     },
     {
       "surface": "באהל",
-      "gloss": "di Kemah"
+      "gloss": "dina Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "Papanggihan"
+      "gloss": "Papanggih"
     }
   ],
-  "timestamp": "2026-08-26T11:24:28.786470993Z",
+  "timestamp": "2026-08-26T18:08:22.068625812Z",
   "model": "glm-5.3"
 }

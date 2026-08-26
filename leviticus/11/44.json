@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 11,
-  "translation": "Sabab aku ⟨is⟩ Yahwe, Elohim-arajeun; smpurnakeun-diri-arajeun suci, jadi aranjeun suci, sabab sucina aku; jeung ulah aranjeun ngajadikeun-tajis ⟨את⟩ diri-nyawa-arajeun dina sagala nu ngarambat nu ngarambat din ⟨the⟩ bumi.",
+  "translation": "Sabab abdi enya Yahwe Elohim anjeun; sangkan anjeun ngasésakeun diri, sarta anjeun jadi suci, sabab abdi suci; jeung ulah anjeun ngacaukeun ⟨את⟩ jiwa-anjeun ku sagala sasatoán anu ngarayap dina ⟨the⟩ bumi.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "aku"
+      "gloss": "abdi"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim-arajeun"
+      "gloss": "Elohim anjeun"
     },
     {
       "surface": "והתקדשתם",
-      "gloss": "smpurnakeun-diri-arajeun suci"
+      "gloss": "sangkan anjeun ngasésakeun diri"
     },
     {
       "surface": "והייתם",
-      "gloss": "jadi"
+      "gloss": "sarta anjeun jadi"
     },
     {
       "surface": "קדשים",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "קדוש",
-      "gloss": "sucina"
+      "gloss": "suci"
     },
     {
       "surface": "אני",
-      "gloss": "aku"
+      "gloss": "abdi"
     },
     {
       "surface": "ולא",
@@ -53,28 +53,28 @@
     },
     {
       "surface": "תטמאו",
-      "gloss": "ngajadikeun-tajis"
+      "gloss": "anjeun ngacaukeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diri-nyawa-arajeun"
+      "marks": "jiwa-anjeun"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "diri-nyawa-arajeun"
+      "gloss": "jiwa-anjeun"
     },
     {
       "surface": "בכל",
-      "gloss": "dina sagala"
+      "gloss": "ku sagala"
     },
     {
       "surface": "השרץ",
-      "gloss": "nu ngarambat"
+      "gloss": "sasatoán anu ngarayap"
     },
     {
       "surface": "הרמש",
-      "gloss": "nu ngarambat"
+      "gloss": "ngarayap"
     },
     {
       "surface": "על",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ bumi"
+      "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-26T11:15:50.359897270Z",
+  "timestamp": "2026-08-26T19:01:16.679368982Z",
   "model": "glm-5.3"
 }

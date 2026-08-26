@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 10,
-  "translation": "jeung ⟨את⟩ Resen, antawis Ninewe jeung Kelakh — éta ⟨is⟩ kota ⟨the⟩ ageung.",
+  "translation": "jeung ⟨את⟩ Resen, antawis Ninewe jeung Kalax — éta ⟨nyaéta⟩ kota nu ageung.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Resen"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "כלח",
-      "gloss": "Kelakh"
+      "gloss": "Kalax"
     },
     {
       "surface": "הוא",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "הגדלה",
-      "gloss": "ageung"
+      "gloss": "nu ageung"
     }
   ],
-  "timestamp": "2026-08-26T16:36:02.298391294Z",
+  "timestamp": "2026-08-26T19:07:53.125049794Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 31,
-  "translation": "Jadi satengahna ⟨the⟩ jamaah, ti ⟨the⟩ kambing-domba: tilu ratus rébuan jeung tilu puluh rébu, tujuh rébu jeung lima ratus.",
+  "translation": "Jadi satengahna kabéh jamaah, ti domba-domba: tilu ratus rébu jeung tilu puluh rébu, tujuh rébu lima ratus.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "jadi"
+      "gloss": "jadi ⟨was⟩"
     },
     {
       "surface": "מחצת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "jamaah"
+      "gloss": "kabéh jamaah"
     },
     {
       "surface": "מן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "kambing-domba"
+      "gloss": "domba-domba"
     },
     {
       "surface": "שלש",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אלף",
-      "gloss": "rébuan"
+      "gloss": "rébu"
     },
     {
       "surface": "ושלשים",
@@ -64,6 +64,6 @@
       "gloss": "ratus"
     }
   ],
-  "timestamp": "2026-08-26T11:36:21.292708519Z",
+  "timestamp": "2026-08-26T19:08:05.073337574Z",
   "model": "glm-5.3"
 }

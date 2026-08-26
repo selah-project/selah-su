@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "su",
   "chapter": 9,
-  "translation": "Mangka ayeuna siah, ku peuting — anjeun jeung ⟨עם⟩ ieu bangsa nu ⟨דisebab⟩ aya babarengan jeung anjeun — sarta sumput ngarandeg di pakarangan.",
+  "translation": "Mangka ayeuna hudang peuting, anjeun jeung ⟨את⟩ bala-balana nu marengjeung ka anjeun, sarta ngadayeungayeuhan di sawah.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Mangka ayeuna"
+      "gloss": "mangka ayeuna"
     },
     {
       "surface": "קום",
-      "gloss": "siah"
+      "gloss": "hudang"
     },
     {
       "surface": "לילה",
-      "gloss": "ku peuting"
+      "gloss": "peuting"
     },
     {
       "surface": "אתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "והעם",
-      "gloss": "jeung ieu bangsa"
+      "gloss": "jeung bala-balana"
     },
     {
       "surface": "אשר",
@@ -33,17 +33,18 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ babarengan jeung anjeun"
+      "gloss": "⟨את⟩ marengjeung ka anjeun",
+      "marks": "bala-balana"
     },
     {
       "surface": "וארב",
-      "gloss": "sarta sumput ngarandeg"
+      "gloss": "sarta ngadayeungayeuhan"
     },
     {
       "surface": "בשדה",
-      "gloss": "di pakarangan"
+      "gloss": "di sawah"
     }
   ],
-  "timestamp": "2026-08-26T12:05:41.106254585Z",
+  "timestamp": "2026-08-26T18:14:53.700518362Z",
   "model": "glm-5.3"
 }

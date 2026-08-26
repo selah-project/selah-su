@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "su",
   "chapter": 9,
-  "translation": "Anjeun — bae — Yahwe sorangan; ⟨את⟩ Anjeun nyieun ⟨את⟩ langit, langitna langit sarta sagala balaéntarana, ⟨eta⟩ bumi jeung sagala nu di luhurna, laut-laut jeung sagala nu di jerona; jeung Anjeun hirupkeun ⟨את⟩ maranehna sadayana; jeung balaéntara langit sujud ka Anjeun.",
+  "translation": "Anjeun ⟨ieu⟩ Yahwe, Anjeun wungkul; Anjeun nyieun ⟨את⟩ langit, langit-langitna langit, jeung sakabéh baladna, ⟨the→⟩ bumi jeung sakabéh nu di luhurna, laut-laut jeung sakabéh nu di jerona; jeung Anjeun nu mere hirup ka ⟨את⟩ maranéhna sadayana, sarta balad langit sujud ka Anjeun.",
   "tokens": [
     {
       "surface": "אתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "bae"
+      "gloss": "⟨ieu⟩"
     },
     {
       "surface": "יהוה",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "sorangan"
+      "gloss": "Anjeun wungkul"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "Anjeun",
       "marks": "nyieun"
     },
     {
       "surface": "עשית",
-      "gloss": "Anjeun nyieun"
+      "gloss": "nyieun"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "שמי",
-      "gloss": "langitna"
+      "gloss": "langit-langitna"
     },
     {
       "surface": "השמים",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "jeung sagala"
+      "gloss": "jeung sakabéh"
     },
     {
       "surface": "צבאם",
-      "gloss": "balaéntarana"
+      "gloss": "baladna"
     },
     {
       "surface": "הארץ",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "jeung sagala"
+      "gloss": "jeung sakabéh"
     },
     {
       "surface": "אשר",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "jeung sagala"
+      "gloss": "jeung sakabéh"
     },
     {
       "surface": "אשר",
@@ -95,20 +95,20 @@
     },
     {
       "surface": "מחיה",
-      "gloss": "hirupkeun"
+      "gloss": "nu mere hirup"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maranehna sadayana"
+      "marks": "maranéhna sadayana"
     },
     {
       "surface": "כלם",
-      "gloss": "maranehna sadayana"
+      "gloss": "maranéhna sadayana"
     },
     {
       "surface": "וצבא",
-      "gloss": "jeung balaéntara"
+      "gloss": "sarta balad"
     },
     {
       "surface": "השמים",
@@ -123,6 +123,6 @@
       "gloss": "sujud"
     }
   ],
-  "timestamp": "2026-08-26T16:02:03.475433939Z",
+  "timestamp": "2026-08-26T19:06:46.366472113Z",
   "model": "glm-5.3"
 }

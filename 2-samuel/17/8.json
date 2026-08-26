@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 17,
-  "translation": "Laju Khushai nyarita: \"Anjeun geus terang ⟨את⟩ ramana anjeun jeung ⟨את⟩ balad-baladna, yén ⟨mere> inyana éta jalma anu gagah tur ambek haté, saperti biruang nu kales banget di kebon; tur ramana anjeun jalma perang, moal numpang inget jeung ⟨את⟩ balad tentara.\"",
+  "translation": "Lajeng Khushi nyarita, Anjeun terang ⟨את⟩ bapa anjeung jeung ⟨את⟩ anak buahna, yén aranjeuna teh jalma kawasa, jeung pait hatena aranjeuna, siga beruang nu kapisah tina anakna di tegalan; jeung bapa anjeun teh jalma perang, moal nganjang bareng ⟨את⟩ balagara.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "nyarita"
+      "gloss": "lajeng nyarita"
     },
     {
       "surface": "חושי",
-      "gloss": "Khushai"
+      "gloss": "Khushi"
     },
     {
       "surface": "אתה",
@@ -21,25 +21,25 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "geus terang"
+      "gloss": "terang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ramana anjeun"
+      "marks": "bapa anjeung"
     },
     {
       "surface": "אביך",
-      "gloss": "ramana anjeun"
+      "gloss": "bapa anjeung"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "balad-baladna"
+      "surface": "ו את",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "anak buahna"
     },
     {
       "surface": "אנשיו",
-      "gloss": "balad-baladna"
+      "gloss": "anak buahna"
     },
     {
       "surface": "כי",
@@ -47,39 +47,39 @@
     },
     {
       "surface": "גברים",
-      "gloss": "jalma anu gagah"
+      "gloss": "jalma kawasa"
     },
     {
       "surface": "המה",
-      "gloss": "mere"
+      "gloss": "aranjeuna"
     },
     {
       "surface": "ומרי",
-      "gloss": "tur ambek"
+      "gloss": "jeung pait"
     },
     {
       "surface": "נפש",
-      "gloss": "haté"
+      "gloss": "hatena"
     },
     {
       "surface": "המה",
-      "gloss": "mere"
+      "gloss": "aranjeuna"
     },
     {
       "surface": "כדב",
-      "gloss": "saperti biruang"
+      "gloss": "siga beruang"
     },
     {
       "surface": "שכול",
-      "gloss": "nu kales banget"
+      "gloss": "nu kapisah tina anakna"
     },
     {
       "surface": "בשדה",
-      "gloss": "di kebon"
+      "gloss": "di tegalan"
     },
     {
       "surface": "ואביך",
-      "gloss": "tur ramana anjeun"
+      "gloss": "jeung bapa anjeung"
     },
     {
       "surface": "איש",
@@ -91,22 +91,22 @@
     },
     {
       "surface": "ולא",
-      "gloss": "moal"
+      "gloss": "jeung moal"
     },
     {
       "surface": "ילין",
-      "gloss": "numpang inget"
+      "gloss": "nganjang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "balad tentara"
+      "marks": "balagara"
     },
     {
       "surface": "העם",
-      "gloss": "balad tentara"
+      "gloss": "balagara"
     }
   ],
-  "timestamp": "2026-08-26T12:33:07.732030808Z",
+  "timestamp": "2026-08-26T18:18:21.511738042Z",
   "model": "glm-5.3"
 }

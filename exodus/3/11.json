@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 3,
-  "translation": "Teras Moshe ngomong ka ⟨the⟩ Elohim: Saha abdi, nepi ka abdi indit ka Paroh, sarta mawa kaluar ⟨את⟩ budak-budak Yisrael ti Midzrayim?",
+  "translation": "Teras Moshe nyarita ka Elohim: Saha aku, mun aku indit ka Paroh, sarta mun aku mawa kaluar ⟨את⟩ putra-putra Yisrael ti Mitsrayim?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "teras ngomong"
+      "gloss": "teras nyarita"
     },
     {
       "surface": "משה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "abdi"
+      "gloss": "aku"
     },
     {
       "surface": "כי",
-      "gloss": "nepi ka"
+      "gloss": "mun"
     },
     {
       "surface": "אלך",
-      "gloss": "abdi indit"
+      "gloss": "aku indit"
     },
     {
       "surface": "אל",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "וכי",
-      "gloss": "sarta nepi ka"
+      "gloss": "sarta mun"
     },
     {
       "surface": "אוציא",
-      "gloss": "mawa kaluar"
+      "gloss": "aku mawa kaluar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "budak-budak Yisrael"
+      "marks": "putra-putra Yisrael"
     },
     {
       "surface": "בני",
-      "gloss": "budak-budak"
+      "gloss": "putra-putra"
     },
     {
       "surface": "ישראל",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "ti Midzrayim"
+      "gloss": "ti Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-26T10:56:30.116480315Z",
+  "timestamp": "2026-08-26T18:02:42.633615538Z",
   "model": "glm-5.3"
 }

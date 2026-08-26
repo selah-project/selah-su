@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 25,
-  "translation": "«Ti taun katilu-belás Yosia putra Amon, raja Yehuda, nepi ka poé ieu — ieu dua-puluh-taun tilu taun — kecap Yahwe datang ka abdi, tur abdi ngomong ka aranjeun, wanci énjing-énjing ngomong, tapi aranjeun teu ngadangu.",
+  "translation": "Ti taun katilu-waluh-Yoasya... ti taun ke-13 pamaréntahan Yoyakia putra Amon raja Yéhuda nepi ka poé ieu, ieu dua puluh tilu taun, kecap Yahwe geus datang ka abdi, sareng abdi nyarita ka anjeun, isuk-isuk nyarita, tapi anjeun teu ngadangu.",
   "tokens": [
     {
       "surface": "מן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "belás"
+      "gloss": "belas"
     },
     {
       "surface": "שנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ליאשיהו",
-      "gloss": "Yosia"
+      "gloss": "Yoyakia"
     },
     {
       "surface": "בן",
@@ -41,18 +41,77 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yéhuda"
     },
     {
       "surface": "ועד",
-      "gloss": "nepi ka"
+      "gloss": "jeung nepi ka"
     },
     {
-      "surface": "hasil",
-      "gloss": "",
-      "note": "placeholder"
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jeung dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "היה",
+      "gloss": "geus jadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kecap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "sareng abdi nyarita"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ka anjeun"
+    },
+    {
+      "surface": "אשכים",
+      "gloss": "isuk-isuk mimiti"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapi teu"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ngadangu anjeun"
     }
   ],
-  "timestamp": "2026-08-26T13:30:44.877895093Z",
+  "timestamp": "2026-08-26T18:24:49.959651903Z",
   "model": "glm-5.3"
 }

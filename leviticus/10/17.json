@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 10,
-  "translation": "Kunaon anjeun nemaha henteu dahar ⟨את⟩ korban dosa di tempat anu suci, sabab suci-mahasuci ⟨eta⟩,⟨את⟩  sareng ⟨את eta⟩ dibikeun ka anjeun pikeun mawa ⟨את⟩ dosa jamaah, sangkan ngaelokeun aranjeunna di payuneun Yahwe?",
+  "translation": "Naha anjeun teu ngahakan ⟨את⟩ kurban dosa di tempat suci, sabab suci tina nu pangnyucina ⟨eta⟩, ⟨את⟩ jeung ⟨eta⟩ dipasihan ka anjeun pikeun mawa ⟨את⟩ kalakuan goréng jamaah,pikeun ngahampura aranjeunna di payuneun Yahwe?",
   "tokens": [
     {
       "surface": "מדוע",
-      "gloss": "kunaon"
+      "gloss": "naha"
     },
     {
       "surface": "לא",
-      "gloss": "henteu"
+      "gloss": "teu"
     },
     {
       "surface": "אכלתם",
-      "gloss": "anjeun dahar"
+      "gloss": "ngahakan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "korban dosa"
+      "marks": "kurban dosa"
     },
     {
       "surface": "החטאת",
-      "gloss": "korban dosa"
+      "gloss": "kurban dosa"
     },
     {
       "surface": "במקום",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "anu suci"
+      "gloss": "suci"
     },
     {
       "surface": "כי",
@@ -46,19 +46,20 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "mahasuci"
+      "gloss": "tina nu pangnyucina"
     },
     {
       "surface": "הוא",
-      "gloss": "eta"
+      "gloss": "⟨eta⟩"
     },
     {
       "surface": "ואתה",
-      "gloss": "⟨את⟩  sareng ⟨את eta⟩"
+      "gloss": "⟨את⟩ jeung ⟨eta⟩",
+      "marks": "dipasihan ka anjeun"
     },
     {
       "surface": "נתן",
-      "gloss": "dibikeun"
+      "gloss": "dipasihan"
     },
     {
       "surface": "לכם",
@@ -71,11 +72,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dosa"
+      "marks": "kalakuan goréng jamaah"
     },
     {
       "surface": "עון",
-      "gloss": "dosa"
+      "gloss": "kalakuan goréng"
     },
     {
       "surface": "העדה",
@@ -83,7 +84,7 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "sangkan ngaelokeun"
+      "gloss": "pikeun ngahampura"
     },
     {
       "surface": "עליהם",
@@ -98,6 +99,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T17:58:38.111555493Z",
+  "timestamp": "2026-08-26T18:06:45.835254047Z",
   "model": "glm-5.3"
 }

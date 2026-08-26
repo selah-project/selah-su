@@ -5,31 +5,31 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 4,
-  "translation": "Jeung sabagian tina getihna dibikeun dina tanduk-tanduk mézbéah nu di payuneun Yahwe, nu aya dina khemah patempatan; jeung ⟨את⟩ sakabéh getihna disiramkeun ka dadadasar mézbéah kurban bakar nu baheula panto khemah patempatan.",
+  "translation": "Jeung tina getih mana wae dipasangkeunana kana tanduk mézbah nu di payuneun Yahwe, nu aya dina khemah patempatan; sarta ⟨את⟩ sakabéh getih dicoorna kana pajaratan mézbah sanggan nu di panto khemah patempatan.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "jeung sabagian tina"
+      "gloss": "jeung tina"
     },
     {
       "surface": "הדם",
-      "gloss": "getihna"
+      "gloss": "getih"
     },
     {
       "surface": "יתן",
-      "gloss": "dibikeun"
+      "gloss": "dipasangkeunana"
     },
     {
       "surface": "על",
-      "gloss": "dina"
+      "gloss": "kana"
     },
     {
       "surface": "קרנת",
-      "gloss": "tanduk-tanduk"
+      "gloss": "tanduk"
     },
     {
       "surface": "המזבח",
-      "gloss": "mézbéah"
+      "gloss": "mézbah"
     },
     {
       "surface": "אשר",
@@ -57,8 +57,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "sakabéh getihna"
+      "gloss": "⟨את⟩ sarta",
+      "marks": "sakabéh getih"
     },
     {
       "surface": "כל",
@@ -66,39 +66,35 @@
     },
     {
       "surface": "הדם",
-      "gloss": "getihna"
-    },
-    {
-      "surface": "יתן",
-      "gloss": ""
+      "gloss": "getih"
     },
     {
       "surface": "ישפך",
-      "gloss": "disiramkeun"
+      "gloss": "dicoorna"
     },
     {
       "surface": "אל",
-      "gloss": "ka"
+      "gloss": "kana"
     },
     {
       "surface": "יסוד",
-      "gloss": "dadadasar"
+      "gloss": "pajaratan"
     },
     {
       "surface": "מזבח",
-      "gloss": "mézbéah"
+      "gloss": "mézbah"
     },
     {
       "surface": "העלה",
-      "gloss": "kurban bakar"
+      "gloss": "sanggan"
     },
     {
       "surface": "אשר",
-      "gloss": "nu baheula"
+      "gloss": "nu"
     },
     {
       "surface": "פתח",
-      "gloss": "panto"
+      "gloss": "di panto"
     },
     {
       "surface": "אהל",
@@ -109,6 +105,6 @@
       "gloss": "patempatan"
     }
   ],
-  "timestamp": "2026-08-26T17:30:44.076801613Z",
+  "timestamp": "2026-08-26T18:06:20.294692577Z",
   "model": "glm-5.3"
 }

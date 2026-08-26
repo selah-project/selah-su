@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 4,
-  "translation": "Di seberangeun Yarden, di lebak ngadep Beit-Peor, di taneuh Sihon raja ⟨the⟩ Emori, nu cicing di Heshbon, nu ditaklukkeun ku Moshe jeung bani Yisrael nalika aranjeunna kaluar ti Mitsrayim.",
+  "translation": "Di sabrang Yarden, di lebak ngadapan Beit Peor, di tanah Sihon raja ⟨⟩⟩ Emori, nu cicing di Cheshbon, nu ditelasan ku Moshe jeung putra-putra Yisrael nalika kaluarna aranjeunna ti Mitsrayim.",
   "tokens": [
     {
       "surface": "בעבר",
-      "gloss": "di seberangeun"
+      "gloss": "di sabrang"
     },
     {
       "surface": "הירדן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מול",
-      "gloss": "ngadep"
+      "gloss": "ngadapan"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Beit"
     },
     {
       "surface": "פעור",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "di taneuh"
+      "gloss": "di tanah"
     },
     {
       "surface": "סיחן",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בחשבון",
-      "gloss": "di Heshbon"
+      "gloss": "di Cheshbon"
     },
     {
       "surface": "אשר",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "הכה",
-      "gloss": "ditaklukkeun"
+      "gloss": "ditelasan ku"
     },
     {
       "surface": "משה",
-      "gloss": "ku Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "ובני",
-      "gloss": "jeung bani"
+      "gloss": "jeung putra-putra"
     },
     {
       "surface": "ישראל",
@@ -88,6 +88,6 @@
       "gloss": "ti Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-26T11:40:03.459060865Z",
+  "timestamp": "2026-08-26T18:11:39.120499755Z",
   "model": "glm-5.3"
 }

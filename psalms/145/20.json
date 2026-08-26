@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 145,
-  "translation": "Ngunjungan Yahwe ⟨את⟩ sakur nu bogoh ka anjeunna, tapi ⟨את⟩ sakur nu jahat灾害 miwarang musnah.",
+  "translation": "Yahwe ngajaga sadayana nu mikacinta ka-Na, tapi sadayana nu jahat ⟨את⟩-na bakal diancurkeun.",
   "tokens": [
     {
       "surface": "שומר",
-      "gloss": "Ngunjungan"
+      "gloss": "ngajaga"
     },
     {
       "surface": "יהוה",
@@ -18,24 +18,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakur nu bogoh ka anjeunna"
+      "marks": "sadayana nu mikacinta ka-Na"
     },
     {
       "surface": "כל",
-      "gloss": "sakur"
+      "gloss": "sadayana"
     },
     {
       "surface": "אהביו",
-      "gloss": "nu bogoh ka anjeunna"
+      "gloss": "nu mikacinta ka-Na"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sakur nu jahat"
+      "marks": "sadayana nu jahat"
     },
     {
       "surface": "כל",
-      "gloss": "sakur"
+      "gloss": "sadayana"
     },
     {
       "surface": "הרשעים",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "ישמיד",
-      "gloss": "miwarang musnah"
+      "gloss": "bakal diancurkeun"
     }
   ],
-  "timestamp": "2026-08-26T14:52:25.876111249Z",
+  "timestamp": "2026-08-26T18:41:52.233830249Z",
   "model": "glm-5.3"
 }

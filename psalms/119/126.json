@@ -5,25 +5,29 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 119,
-  "translation": "Waktos pikeun Yahwe ngalakukeun; aranjeunna geus ngabatalkeun Taurat-Mu.",
+  "translation": "Waktuna pikeun Yahwe ngalakukeun; aranjeunna geus ngabatalkeun torat-Mu.",
   "tokens": [
     {
       "surface": "עת",
-      "gloss": "waktos"
+      "gloss": "waktuna"
     },
     {
-      "surface": "لעשות",
+      "surface": "לעשות",
       "gloss": "pikeun ngalakukeun"
     },
     {
       "surface": "ליהוה",
-      "gloss": "pikeun Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "הפרו",
-      "gloss": "anjeunna geus ngabatalkeun (riné)"
+      "gloss": "anjeunna geus ngabatalkeun"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "torat-Mu"
     }
   ],
-  "timestamp": "2026-08-26T14:48:48.336776271Z",
+  "timestamp": "2026-08-26T18:32:36.015670647Z",
   "model": "glm-5.3"
 }

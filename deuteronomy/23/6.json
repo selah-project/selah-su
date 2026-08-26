@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 23,
-  "translation": "Tapi Yahwe Elohim anjeun teu daé ngadéngé ka Bilam, lajeng Yahwe Elohim anjeun mupuskeun pikeun anjeun ⟨את⟩ ⟨the⟩ kutukan jadi berkah, sabab Yahwe Elohim anjeun mikacinta anjeun.",
+  "translation": "Tapi Yahwe Elohim anjeun teu daék ngadangu ka Bilam, sarta Yahwe Elohim anjeun ngabalikeun ⟨את⟩ kutuk jadi berkah pikeun anjeun, sabab Yahwe Elohim anjeun mikacinta ka anjeun.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "tapi teu"
+      "gloss": "teu"
     },
     {
       "surface": "אבה",
-      "gloss": "daé"
+      "gloss": "daék"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לשמע",
-      "gloss": "ngadéngé"
+      "gloss": "ngadangu"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויהפך",
-      "gloss": "lajeng mupuskeun"
+      "gloss": "ngabalikeun"
     },
     {
       "surface": "יהוה",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kutukan"
+      "marks": "kutuk"
     },
     {
       "surface": "הקללה",
-      "gloss": "kutukan"
+      "gloss": "kutuk"
     },
     {
       "surface": "לברכה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אהבך",
-      "gloss": "mikacinta anjeun"
+      "gloss": "mikacinta ka anjeun"
     },
     {
       "surface": "יהוה",
@@ -81,6 +81,6 @@
       "gloss": "Elohim anjeun"
     }
   ],
-  "timestamp": "2026-08-26T11:48:41.228325242Z",
+  "timestamp": "2026-08-26T18:12:05.611114857Z",
   "model": "glm-5.3"
 }

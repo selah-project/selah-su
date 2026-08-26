@@ -5,20 +5,20 @@
   "book": "judges",
   "lang": "su",
   "chapter": 7,
-  "translation": "Jeung anjeunna mawa turun ⟨את⟩ ⟨the⟩ bumi-angkat ka cai, sarta Yahwe nyarita ka Gid'on: saha waé nu ngajilat ku indungna tina cai, saperti anjing ngajilat, манна pilihkeun sorangan; jeung saha waé nu jengké luhur tuur-na pikeun nginum.",
+  "translation": "Tuluy diturunkeun ⟨את⟩ batur ka cai, lajeng Yahwe ngandik ka Gid'on: saha baé nu ngarédam ku lilana tina cai, saperti anjing ngarédam, sing elokkeun anjeunna ⟨את⟩ sorangan; jeung saha baé nu jengkang dina tuur-na pikeun nginum.",
   "tokens": [
     {
       "surface": "ויורד",
-      "gloss": "mawa turun"
+      "gloss": "Tuluy diturunkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bumi-angkat"
+      "marks": "batur"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ bumi-angkat"
+      "gloss": "batur"
     },
     {
       "surface": "אל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "sarta nyarita"
+      "gloss": "lajeng ngandik"
     },
     {
       "surface": "יהוה",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "כל",
-      "gloss": "saha waé"
+      "gloss": "saha baé"
     },
     {
       "surface": "אשר",
       "gloss": "nu"
     },
     {
-      "surface": "יורד לק",
-      "gloss": "ngajilat"
+      "surface": "ילק",
+      "gloss": "ngarédam"
     },
     {
       "surface": "בלשונו",
-      "gloss": "ku indungna"
+      "gloss": "ku lilana"
     },
     {
       "surface": "מן",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ילק",
-      "gloss": "ngajilat"
+      "gloss": "ngarédam"
     },
     {
       "surface": "הכלב",
@@ -82,12 +82,12 @@
     },
     {
       "surface": "תציג",
-      "gloss": "pilihkeun"
+      "gloss": "sing elokkeun"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩-na",
-      "marks": "sorangan"
+      "gloss": "⟨את⟩",
+      "marks": "anjeunna"
     },
     {
       "surface": "לבד",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "jeung saha waé"
+      "gloss": "jeung saha baé"
     },
     {
       "surface": "אשר",
@@ -103,11 +103,11 @@
     },
     {
       "surface": "יכרע",
-      "gloss": "jengké"
+      "gloss": "jengkang"
     },
     {
       "surface": "על",
-      "gloss": "luhur"
+      "gloss": "dina"
     },
     {
       "surface": "ברכיו",
@@ -118,6 +118,6 @@
       "gloss": "pikeun nginum"
     }
   ],
-  "timestamp": "2026-08-26T16:49:47.617414948Z",
+  "timestamp": "2026-08-26T18:14:47.964140071Z",
   "model": "glm-5.3"
 }

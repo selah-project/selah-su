@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "su",
   "chapter": 5,
-  "translation": "Jeung anjeunna ngomong: Ieu ⟨the⟩ kajahatan. Jeung anjeunna ngalungkeun ⟨את⟩ manéhna ka tengah-tengah ⟨the⟩ éifah, sarta ngalungkeun ⟨את⟩ batu timah kana bahamana.",
+  "translation": "Sarta anjeunna ngomong: Ieu ⟨ungleutan⟩ nu jahat. Tuluy anjeunna ngalemparkeun ⟨את⟩ manéhna ka jeroeun eifah, sarta ngalemparkeun ⟨את⟩ batu timah kana bahuna.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jeung-anjeunna-ngomong"
+      "gloss": "anjeunna ngomong"
     },
     {
       "surface": "זאת",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "הרשעה",
-      "gloss": "kajahatan"
+      "gloss": "nu jahat"
     },
     {
       "surface": "וישלך",
-      "gloss": "jeung-ngalungkeun"
+      "gloss": "anjeunna ngalemparkeun"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ manéhna",
-      "marks": "awéwé kajahatan"
+      "gloss": "⟨את⟩",
+      "marks": "manéhna (wanoja nu jahat)"
     },
     {
       "surface": "אל",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "תוך",
-      "gloss": "tengah-tengah"
+      "gloss": "jeroeun"
     },
     {
       "surface": "האיפה",
-      "gloss": "éifah"
+      "gloss": "eifah"
     },
     {
       "surface": "וישלך",
-      "gloss": "sarta-ngalungkeun"
+      "gloss": "anjeunna ngalemparkeun"
     },
     {
       "surface": "את",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "פיה",
-      "gloss": "bahamana"
+      "gloss": "bahuna"
     }
   ],
-  "timestamp": "2026-08-26T14:18:27.161420310Z",
+  "timestamp": "2026-08-26T18:41:57.776411425Z",
   "model": "glm-5.3"
 }

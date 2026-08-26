@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 25,
-  "translation": "Lamun aya paséa antara jalma-jalma, terus aranjeunna ngadeukeutan ka ⟨the⟩ pangadilan, teras aranjeunna ngadilan, sareng ngabenerkeun ⟨את⟩ nu bener sareng ngagelokeun ⟨את⟩ nu jahat.",
+  "translation": "Lamun aya pasalisihan antara jelema-jelema, sarta aranjeunna ngadeukeutan ka pangadilan, teras diadili, jeung nganyatakeun bener ⟨את⟩ nu bener, jeung nganyatakeun salah ⟨את⟩ nu salah.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ריב",
-      "gloss": "paséa"
+      "gloss": "pasalisihan"
     },
     {
       "surface": "בין",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "jalma-jalma"
+      "gloss": "jelema-jelema"
     },
     {
       "surface": "ונגשו",
-      "gloss": "terus aranjeunna ngadeukeutan"
+      "gloss": "sarta aranjeunna ngadeukeutan"
     },
     {
       "surface": "אל",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "המשפט",
-      "gloss": "⟨the⟩ pangadilan"
+      "gloss": "pangadilan"
     },
     {
       "surface": "ושפטום",
-      "gloss": "teras aranjeunna ngadilan"
+      "gloss": "teras diadili"
     },
     {
       "surface": "והצדיקו",
-      "gloss": "sareng ngabenerkeun"
+      "gloss": "jeung nganyatakeun bener"
     },
     {
       "surface": "את",
@@ -58,18 +58,18 @@
     },
     {
       "surface": "והרשיעו",
-      "gloss": "sareng ngagelokeun"
+      "gloss": "jeung nganyatakeun salah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nu jahat"
+      "marks": "nu salah"
     },
     {
       "surface": "הרשע",
-      "gloss": "nu jahat"
+      "gloss": "nu salah"
     }
   ],
-  "timestamp": "2026-08-26T11:49:00.522050779Z",
+  "timestamp": "2026-08-26T18:12:23.355083884Z",
   "model": "glm-5.3"
 }

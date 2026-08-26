@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 9,
-  "translation": "Tuluy Paroh miceun utusan, nyauran Moshe jeung Aharon, sarta ngomong ka aranjeunna: Kuring geu ngahianat <dina> kali ieu; Yahwe ⟨nu> bener, sedengkeun kuring jeung bangsa kuring nu jahat.",
+  "translation": "Teras Paroh meser jeung mios moshu mosuh noong Moshe jeung Aharon, lajeng anjeunna nyarita ka aranjeunna: Kuring geus dosa kiwari; Yahwe ⟨(telah)⟩ bener, sedengkeun kuring jeung bangsa kuring ⟨(tealah)⟩ jalma-jalma jahat.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "miceun utusan"
+      "gloss": "meser"
     },
     {
       "surface": "פרעה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "nyauran"
+      "gloss": "moshu mosuh"
     },
     {
       "surface": "למשה",
-      "gloss": "Moshe"
+      "gloss": "noong Moshe"
     },
     {
-      "surface": "ולאהרן",
-      "gloss": "Aharon"
+      "surface": "וֽלאהרן",
+      "gloss": "jeung noong Aharon"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ngomong"
+      "gloss": "nyarita"
     },
     {
       "surface": "אלהם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "חטאתי",
-      "gloss": "kuring geu ngahianat"
+      "gloss": "kuring geus dosa"
     },
     {
       "surface": "הפעם",
-      "gloss": "kali ieu"
+      "gloss": "kiwari"
     },
     {
       "surface": "יהוה",
@@ -49,21 +49,21 @@
     },
     {
       "surface": "הצדיק",
-      "gloss": "nu bener"
+      "gloss": "(telah) bener"
     },
     {
       "surface": "ואני",
-      "gloss": "kuring"
+      "gloss": "jeung kuring"
     },
     {
       "surface": "ועמי",
-      "gloss": "bangsa kuring"
+      "gloss": "jeung bangsa kuring"
     },
     {
       "surface": "הרשעים",
-      "gloss": "nu jahat"
+      "gloss": "(tealah) jalma-jalma jahat"
     }
   ],
-  "timestamp": "2026-08-26T10:58:22.095933056Z",
+  "timestamp": "2026-08-26T18:03:01.908734138Z",
   "model": "glm-5.3"
 }

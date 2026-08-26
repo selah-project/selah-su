@@ -5,8 +5,49 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 28,
-  "translation": "Jeung anjeun jadi ⟨⟨⟩⟩kadiséhan, jadi papatah jeungojek di sakabéh bangsa-bangsa nu bakal dibawa Yahwe ngarantau ka dinya.",
-  "tokens": [],
-  "timestamp": "2026-08-26T11:50:12.009861500Z",
+  "translation": "Anjeun jadi tanjakan, paribasa, jeung cecaruan di antara sadaya bangsa-bangsa nu Yahwe mawa anjeun ka dinya.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "anjeun jadi"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "tanjakan"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "paribasa"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "jeung cecaruan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di antara sadaya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ינהגך",
+      "gloss": "mawa anjeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka dinya"
+    }
+  ],
+  "timestamp": "2026-08-26T18:12:32.952605955Z",
   "model": "glm-5.3"
 }

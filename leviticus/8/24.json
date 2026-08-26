@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 8,
-  "translation": "Tuluy diarahkeunana ⟨את]] putra-putra Aharon, jeung Musa ngeusian tina getih ka luhur tungtun ceuli maranehna nu katuhu, ka luhur indung suku leungeun maranehna nu katuhu, jeung ka luhur indung suku suku maranehna nu katuhu; laju Musa nyiramkeun ⟨את⟩ getih ka luhur altar sakuriling.",
+  "translation": "Jeung dideukeutkeunnana putra-putra Aharon, tuluy Moshe mawa saeutik tina getih, dipanteukeun kana tungtung ceuli maranehna nu katuhu, kana pigeulis panangan maranehna nu katuhu, jeung kana pigeulis suku maranehna nu katuhu, sarta Moshe ngasempikeun ⟨את⟩ getih kana altan sabudeureunana.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "diarahkeunana"
+      "gloss": "dideukeutkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "putra-putra"
+      "marks": "putra-putra Aharon"
     },
     {
       "surface": "בני",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "ngeusian"
+      "gloss": "mawa saeutik"
     },
     {
       "surface": "משה",
-      "gloss": "Musa"
+      "gloss": "Moshe"
     },
     {
       "surface": "מן",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ka luhur"
+      "gloss": "kana"
     },
     {
       "surface": "תנוך",
-      "gloss": "tungtun"
+      "gloss": "tungtung ceuli"
     },
     {
       "surface": "אזנם",
@@ -57,28 +57,28 @@
       "gloss": "nu katuhu"
     },
     {
-      "surface": "ועל",
-      "gloss": "jeung ka luhur"
+      "surface": "ו על",
+      "gloss": "jeung kana"
     },
     {
       "surface": "בהן",
-      "gloss": "indung suku leungeun"
+      "gloss": "pigeulis"
     },
     {
       "surface": "ידם",
-      "gloss": "leungeun maranehna"
+      "gloss": "panangan maranehna"
     },
     {
       "surface": "הימנית",
       "gloss": "nu katuhu"
     },
     {
-      "surface": "ועל",
-      "gloss": "jeung ka luhur"
+      "surface": "ו על",
+      "gloss": "jeung kana"
     },
     {
       "surface": "בהן",
-      "gloss": "indung suku suku"
+      "gloss": "pigeulis"
     },
     {
       "surface": "רגלם",
@@ -90,11 +90,11 @@
     },
     {
       "surface": "ויזרק",
-      "gloss": "nyiramkeun"
+      "gloss": "ngasempikeun"
     },
     {
       "surface": "משה",
-      "gloss": "Musa"
+      "gloss": "Moshe"
     },
     {
       "surface": "את",
@@ -107,17 +107,17 @@
     },
     {
       "surface": "על",
-      "gloss": "ka luhur"
+      "gloss": "kana"
     },
     {
       "surface": "המזבח",
-      "gloss": "altar"
+      "gloss": "altan"
     },
     {
       "surface": "סביב",
-      "gloss": "sakuriling"
+      "gloss": "sabudeureunana"
     }
   ],
-  "timestamp": "2026-08-26T11:14:31.367881963Z",
+  "timestamp": "2026-08-26T18:40:15.691766301Z",
   "model": "glm-5.3"
 }

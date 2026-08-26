@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 4,
-  "translation": "Sarta anjeun, candak pikeun anjeun gandum, jeung héréd, jeung kacang, jeung kacang beureum, jeung jali, jeung gandum spelt, jeung anjeun nempatkeun ⟨את⟩ maranéhna dina wadah hiji, jeung anjeun nyieun ⟨את⟩ maranéhna pikeun anjeun jadi roti, dumasar kana jumlah ⟨the⟩ poé-pok nu anjeun bobo dina sisi anjeun — tilu ratus jeung salapan puluh poé anjeun bakal dahar éta.",
+  "translation": "Jeung anjeun, candak pikeun anjeun gandum jeung jami jeung kacang babi jeung lentil jeung jawawut jeung spelta, jeung anjeun nempatkeun ⟨את⟩ maranéhna dina wadah hiji, jeung anjeun nyieun ⟨את⟩ maranéhna pikeun anjeun jadi roti, luyu jeung jumlah poé-poé nu anjeun saré dina sisi anjeun; tilu ratus jeung salapan puluh poé anjeun bakal ngeunah éta.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "sarta anjeun"
+      "gloss": "jeung anjeun"
     },
     {
       "surface": "קח",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "ושערים",
-      "gloss": "jeung héréd"
+      "gloss": "jeung jami"
     },
     {
       "surface": "ופול",
-      "gloss": "jeung kacang"
+      "gloss": "jeung kacang babi"
     },
     {
       "surface": "ועדשים",
-      "gloss": "jeung kacang beureum"
+      "gloss": "jeung lentil"
     },
     {
       "surface": "ודחן",
-      "gloss": "jeung jali"
+      "gloss": "jeung jawawut"
     },
     {
       "surface": "וכסמים",
-      "gloss": "jeung gandum spelt"
+      "gloss": "jeung spelta"
     },
     {
       "surface": "ונתתה",
-      "gloss": "anjeun nempatkeun"
+      "gloss": "jeung anjeun nempatkeun"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ maranéhna",
-      "marks": "gandum, héréd, kacang, kacang beureum, jali, gandum spelt"
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna (pasarina)"
     },
     {
       "surface": "בכלי",
@@ -66,8 +66,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ maranéhna",
-      "marks": "roti pikeun anjeun"
+      "gloss": "⟨את⟩",
+      "marks": "maranéhna (pasarina)"
     },
     {
       "surface": "לך",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "הימים",
-      "gloss": "poé-pok"
+      "gloss": "poé-poé"
     },
     {
       "surface": "אשר",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "שוכב",
-      "gloss": "bobo"
+      "gloss": "saré"
     },
     {
       "surface": "על",
@@ -123,9 +123,9 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "anjeun bakal dahar éta"
+      "gloss": "anjeun bakal ngeunah éta"
     }
   ],
-  "timestamp": "2026-08-26T13:44:14.131453476Z",
+  "timestamp": "2026-08-26T19:05:01.070719404Z",
   "model": "glm-5.3"
 }

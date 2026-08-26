@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 26,
-  "translation": "Dina awal karajaan Yehoyakim putra Yosia, raja Yehuda, geus aya ⟨the⟩ kecap ieu ti ⟨את⟩ Yahwe, nu ngandung:",
+  "translation": "Dina awal karajaan Yehoyakim putra Yosia, raja Yehuda, datang ⟨את⟩ sabda ieu ti sisi Yahwe, nu ngandika:",
   "tokens": [
     {
       "surface": "בראשית",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "geus aya"
+      "gloss": "datang"
     },
     {
       "surface": "הדבר",
-      "gloss": "kecap"
+      "gloss": "sabda"
     },
     {
       "surface": "הזה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ti sisi",
       "marks": "Yahwe"
     },
     {
@@ -58,9 +58,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nu ngandung"
+      "gloss": "nu ngandika"
     }
   ],
-  "timestamp": "2026-08-26T13:31:52.298489331Z",
+  "timestamp": "2026-08-26T18:24:54.924836418Z",
   "model": "glm-5.3"
 }

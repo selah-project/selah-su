@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 105,
-  "translation": "Ulah nyambar Nu Dilisihan-Ku, jeung ka nabi-nabi-Ku ulah ngagoréngkeun.",
+  "translation": "Ulah antap ka anu dilisihan ku Yahwe, jeung ka nabi-nabi-Na ulah ngarugikeun.",
   "tokens": [
     {
       "surface": "אל",
@@ -13,19 +13,15 @@
     },
     {
       "surface": "תגעו",
-      "gloss": "nyambar"
+      "gloss": "antap"
     },
     {
       "surface": "במשיחי",
-      "gloss": "Nu Dilisihan-Ku"
+      "gloss": "ka anu dilisihan ku Yahwe"
     },
     {
-      "surface": "ו",
-      "gloss": "jeung"
-    },
-    {
-      "surface": "לנביאי",
-      "gloss": "ka nabi-nabi-Ku"
+      "surface": "ולנביאי",
+      "gloss": "jeung ka nabi-nabi-Na"
     },
     {
       "surface": "אל",
@@ -33,9 +29,9 @@
     },
     {
       "surface": "תרעו",
-      "gloss": "ngagoréngkeun"
+      "gloss": "ngarugikeun"
     }
   ],
-  "timestamp": "2026-08-26T14:45:20.066164640Z",
+  "timestamp": "2026-08-26T18:32:05.454103135Z",
   "model": "glm-5.3"
 }

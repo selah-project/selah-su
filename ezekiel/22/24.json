@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 22,
-  "translation": "Putra manusa, kata ka manéh: ⟨את⟩ manéh taneuh nu teu meunang diseuseuh, manéh tara kujitan hujan dina poé kamurkaan.",
+  "translation": "Putra manusa, ucapkeun ka anjeunna: Anjeulah ⟨את⟩ tanah nu teu diresihan, teu kakebulan hujan dina poé kaamuk.",
   "tokens": [
     {
       "surface": "בן",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "אמר",
-      "gloss": "kata"
+      "gloss": "ucapkeun"
     },
     {
       "surface": "לה",
-      "gloss": "ka manéh"
+      "gloss": "ka anjeunna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "manéh taneuh (ér)"
+      "marks": "tanah"
     },
     {
       "surface": "ארץ",
-      "gloss": "taneuh"
+      "gloss": "tanah"
     },
     {
       "surface": "לא",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "מטהרה",
-      "gloss": "meunang diseuseuh"
+      "gloss": "diresihan"
     },
     {
       "surface": "היא",
-      "gloss": "manéh"
+      "gloss": "nya"
     },
     {
       "surface": "לא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "גשמה",
-      "gloss": "kujitan hujan"
+      "gloss": "kakebulan hujan"
     },
     {
       "surface": "ביום",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "זעם",
-      "gloss": "kamurkaan"
+      "gloss": "kaamuk"
     }
   ],
-  "timestamp": "2026-08-26T13:51:14.112493514Z",
+  "timestamp": "2026-08-26T19:05:12.941174296Z",
   "model": "glm-5.3"
 }

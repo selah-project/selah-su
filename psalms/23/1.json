@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 23,
-  "translation": "Mizmor pikeun David: Yahwe ⟨⟨gembala⟩> kuring, moal kurang<⟩euweuh>.",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:25:22.532980594Z",
+  "translation": "Mazmur pikeun Dawid. Yahwe ⟨éta⟩ gembala kuring, moal kuring kahoyag.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pikeun Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "gembala kuring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moal"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "kahoyag"
+    }
+  ],
+  "timestamp": "2026-08-26T18:30:54.512662027Z",
   "model": "glm-5.3"
 }

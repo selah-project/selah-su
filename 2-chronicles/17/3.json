@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "su",
   "chapter": 17,
-  "translation": "Jadi Yahwe jeung Yehosafat, sabab <anjeunna> jalan dina jalan-jalan Dawud ramana nu munggaran-munggaran, sarta moal milarian ka <béh> Baal-baal.",
+  "translation": "Jeung Yahwe ⟨ была ⟩ jeung Yehoshafat, sabab manehna jalan dina jalan-jalan David ramana nu munggaran, sarta moal milarian ka Baal-baal.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "jadi \/ aya"
+      "gloss": "jeung ⟨jeung⟩"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Yehosafat"
+      "gloss": "Yehoshafat"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dawud"
+      "gloss": "David"
     },
     {
       "surface": "אביו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הראשנים",
-      "gloss": "nu munggaran-munggaran"
+      "gloss": "nu munggaran"
     },
     {
       "surface": "ולא",
@@ -60,6 +60,6 @@
       "gloss": "ka Baal-baal"
     }
   ],
-  "timestamp": "2026-08-26T16:23:56.034294889Z",
+  "timestamp": "2026-08-26T18:38:43.573077646Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 147,
-  "translation": "Yahwe ngarojong ⟨הי⟩ nu andep, narunjakeun nu jahat nepi ka bumi.",
+  "translation": "Yahwe nangtungkeun ⟨nu⟩ anandut, manéhna ngasorkeun jalma-jalma jahat nepi ka ⟨panungtung⟩ bumi.",
   "tokens": [
     {
       "surface": "מעודד",
-      "gloss": "ngarojong"
+      "gloss": "nangtungkeun"
     },
     {
       "surface": "ענוים",
-      "gloss": "nu andep"
+      "gloss": "anandut"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "משפיל",
-      "gloss": "narunjakeun"
+      "gloss": "ngasorkeun"
     },
     {
       "surface": "רשעים",
-      "gloss": "nu jahat"
+      "gloss": "jalma-jalma jahat"
     },
     {
       "surface": "עדי",
@@ -36,6 +36,6 @@
       "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-26T14:52:26.617000198Z",
+  "timestamp": "2026-08-26T18:32:42.321629636Z",
   "model": "glm-5.3"
 }

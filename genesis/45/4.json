@@ -5,8 +5,74 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 45,
-  "translation": "Yoséf nyarita ka sadulur-sadulurna, \"Ayu, wani kénéh, sumping ka abdi.\" Maranéhna sumping. Balitunga nyarita, \"Abdi Yoséf, sadulur anjeun, nu jeung mihula ⟨את⟩ abdi ka Mitsrajim.\"",
-  "tokens": [],
-  "timestamp": "2026-08-26T17:29:31.307836295Z",
+  "translation": "Jeung Yosef nyarita ka sadulur-sadulurna: «Ayo padeukeut ka abdi, punten.» Jelema maranehna padeukeut, jeung anjeunna nyarita: «Abdi Yosef, raka aranjeun, nu aranjeun ngajual ⟨את⟩ abdi ka Mitsrayim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Jeung nyarita"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulurna"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "padeukeut"
+    },
+    {
+      "surface": "נא",
+      "gloss": "punten"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka abdi"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "maranehna padeukeut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "jeung nyarita"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Abdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "raka aranjeun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "anjeun ngajual"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "abdi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T18:02:21.859524713Z",
   "model": "glm-5.3"
 }

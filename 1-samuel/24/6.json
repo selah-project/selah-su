@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 24,
-  "translation": "Teras kajadian sanggeus éta, ati Dawid nyikut ⟨ה⟩ manéhna, sabab geus motong ⟨את⟩ sisi nu kagungan Shaul.",
+  "translation": "Teras kajadian sanggeus éta, ati Dawid nyampeurkeun manéhna, sabab manéhna geus motong ⟨את⟩ juru baju nu aya milik Shaul.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Teras kajadian"
+      "gloss": "teras kajadian"
     },
     {
       "surface": "אחרי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויך",
-      "gloss": "nyikut"
+      "gloss": "nyampeurkeun"
     },
     {
       "surface": "לב",
@@ -33,8 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ manéhna",
-      "marks": "Dawid"
+      "gloss": "⟨את⟩ manéhna"
     },
     {
       "surface": "על",
@@ -46,16 +45,16 @@
     },
     {
       "surface": "כרת",
-      "gloss": "motong"
+      "gloss": "geus motong"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sisi"
+      "marks": "juru baju"
     },
     {
       "surface": "כנף",
-      "gloss": "sisi"
+      "gloss": "juru baju"
     },
     {
       "surface": "אשר",
@@ -63,9 +62,9 @@
     },
     {
       "surface": "לשאול",
-      "gloss": "kagungan Shaul"
+      "gloss": "milik Shaul"
     }
   ],
-  "timestamp": "2026-08-26T16:52:28.374948246Z",
+  "timestamp": "2026-08-26T18:17:21.114910277Z",
   "model": "glm-5.3"
 }

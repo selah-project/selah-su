@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 14,
-  "translation": "Anjeunna nyandak ⟨את⟩ kotakan paweron imah Yahwe jeung ⟨את⟩ kotakan paweron imah ⟨si⟩ raja; ⟨את⟩ sadayana dicandak; anjeunna nyandak ⟨את⟩ sadaya taméng emas nu dijieun Shelomoh.",
+  "translation": "Jeung anjeunna nyandak ⟨את⟩ kasimahna imah Yahwe jeung ⟨את⟩ kasimahna imah ⟨si raja⟩; ⟨éma⟩ sagalana dicandak, jeung anjeunna nyandak ⟨את⟩ sakabéh parekéng emas nu dijieun ku Syelomo.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kotakan paweron imah Yahwe"
+      "marks": "kasimahna imah Yahwe"
     },
     {
       "surface": "אצרות",
-      "gloss": "kotakan paweron"
+      "gloss": "kasimahna"
     },
     {
       "surface": "בית",
@@ -31,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "kotakan paweron imah raja"
+      "marks": "kasimahna imah si raja"
     },
     {
       "surface": "אוצרות",
-      "gloss": "kotakan paweron"
+      "gloss": "kasimahna"
     },
     {
       "surface": "בית",
@@ -43,16 +43,16 @@
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "si raja"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "sadayana"
+      "marks": "sagalana"
     },
     {
       "surface": "הכל",
-      "gloss": "sadayana"
+      "gloss": "sagalana"
     },
     {
       "surface": "לקח",
@@ -64,16 +64,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨أת⟩",
-      "marks": "sadaya taméng emas"
+      "gloss": "⟨את⟩",
+      "marks": "sakabéh parekéng emas"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sakabéh"
     },
     {
       "surface": "מגני",
-      "gloss": "taméng"
+      "gloss": "parekéng"
     },
     {
       "surface": "הזהב",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Syelomo"
     }
   ],
-  "timestamp": "2026-08-26T12:44:26.697030283Z",
+  "timestamp": "2026-08-26T18:18:55.928832600Z",
   "model": "glm-5.3"
 }

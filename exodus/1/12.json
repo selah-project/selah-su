@@ -5,25 +5,54 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 1,
-  "translation": "Tapi saumur-na maranéhna nyiksana ⟨את⟩, kakara ku kitu ogé baranuh jeung katambahna sumebar; tuluy maranéhna-ngahariwang alatan ⟨את⟩ putra-putra Yisrael.",
+  "translation": "Sakumaha maranehna ngarandapan ⟨את⟩ maranehna, kitu ogé mahi barang-barang jeung sumebar; lajeng urang Misir ngarasa kau nyanghareupan anak-anak Yisrael.",
   "tokens": [
     {
+      "surface": "וכאשר",
+      "gloss": "sakumaha"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ngarandapan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kitu ogé"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "jeung kitu"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "sumebar"
+    },
+    {
       "surface": "ויקצו",
-      "gloss": "maranéhna-ngahariwang"
+      "gloss": "ngarasa kau"
     },
     {
       "surface": "מפני",
-      "gloss": "alatan"
+      "gloss": "nyanghareupan"
     },
     {
       "surface": "בני",
-      "gloss": "⟨את⟩ putra-putra"
+      "gloss": "anak-anak"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-26T16:40:04.404526208Z",
+  "timestamp": "2026-08-26T18:02:34.573205785Z",
   "model": "glm-5.3"
 }

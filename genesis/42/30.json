@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 42,
-  "translation": "Lalaki nu Adonay ⟨deui tanah⟩ éta nyarita kana sarua ka urang, sarta anjeunna nyieun urang ⟨את⟩ salaku mata-mata ⟨את⟩ ⟨tanah⟩ éta.",
+  "translation": "Lalaki nu aden luhur tina ⟨את⟩ tanah éta nyarita ka ⟨את⟩ urang kalawan kaheurasan, sarta nyangka ⟨את⟩ urang salaku nu ngintip ⟨את⟩ taneuh éta.",
   "tokens": [
     {
       "surface": "דבר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "lalaki nu"
+      "gloss": "lalaki"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonay"
+      "gloss": "aden"
     },
     {
       "surface": "הארץ",
@@ -28,10 +28,32 @@
       "gloss": "⟨את⟩ urang"
     },
     {
-      "surface": "קשOTOT",
-      "gloss": "kana sarua"
+      "surface": "קשות",
+      "gloss": "kaheurasan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nyangka\/masangkeun"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "urang (salaku nu ngintip)"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "salaku nu ngintip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneuh éta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "taneuh"
     }
   ],
-  "timestamp": "2026-08-26T10:50:41.891836417Z",
+  "timestamp": "2026-08-26T18:02:03.689698726Z",
   "model": "glm-5.3"
 }

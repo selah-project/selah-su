@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "su",
   "chapter": 9,
-  "translation": "Jeung sakumna rakyat ogé motong, masing-masing sahiji dahan tangkal, lajeng aranjeuna indit nuturkeun Avimelex, sarta maranehna nempatkeunana di luhureun ⟨⟨הצריח⟩⟩ kamar-jejer, lajeng ngahurungkeun ⟨את⟩ kamar-jejer kana seuneu di luhur maranehna, maot ogé sakumna jelema menara Shekhem, kira-kira sarébu jiwa lalaki jeung awéwé.",
+  "translation": "Tuluy sakabéh jelema ogé motong, saurupana jalma dahanana, jeung maranéhna nuturkeun Avimelekh, nempatkeun dahan-dahan ka bénténg, sarta ngahurungkeun ⟨את⟩ bénténg ku seuneu di luhur maranehna; tuluy maot ogé sakabéh lalaki ti menara Sekem, kira-kira sarébu urang, lalaki jeung awéwé.",
   "tokens": [
     {
       "surface": "ויכרתו",
-      "gloss": "jeung maranehna motong"
+      "gloss": "motong"
     },
     {
       "surface": "גם",
@@ -17,47 +17,47 @@
     },
     {
       "surface": "כל",
-      "gloss": "sakumna"
+      "gloss": "sakabéh"
     },
     {
       "surface": "העם",
-      "gloss": "rakyat"
+      "gloss": "jelema"
     },
     {
       "surface": "איש",
-      "gloss": "masing-masing sahiji"
+      "gloss": "saurupana jalma"
     },
     {
       "surface": "שוכה",
-      "gloss": "dahan tangkal"
+      "gloss": "dahanana"
     },
     {
       "surface": "וילכו",
-      "gloss": "lajeng aranjeuna indit"
+      "gloss": "maranéhna jalan nuturkeun"
     },
     {
       "surface": "אחרי",
-      "gloss": "nuturkeun"
+      "gloss": "dibalik"
     },
     {
       "surface": "אבימלך",
-      "gloss": "Avimelex"
+      "gloss": "Avimelekh"
     },
     {
       "surface": "וישימו",
-      "gloss": "sarta maranehna nempatkeunana"
+      "gloss": "nempatkeun"
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "ka"
     },
     {
       "surface": "הצריח",
-      "gloss": "kamar-jejer"
+      "gloss": "bénténg"
     },
     {
       "surface": "ויציתו",
-      "gloss": "lajeng maranehna ngahurungkeun"
+      "gloss": "ngahurungkeun"
     },
     {
       "surface": "עליהם",
@@ -66,15 +66,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kamar-jejer"
+      "marks": "bénténg"
     },
     {
       "surface": "הצריח",
-      "gloss": "kamar-jejer"
+      "gloss": "bénténg"
     },
     {
       "surface": "באש",
-      "gloss": "kana seuneu"
+      "gloss": "ku seuneu"
     },
     {
       "surface": "וימתו",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "sakumna"
+      "gloss": "sakabéh"
     },
     {
       "surface": "אנשי",
-      "gloss": "jelema"
+      "gloss": "lalaki"
     },
     {
       "surface": "מגדל",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "שכם",
-      "gloss": "Shekhem"
+      "gloss": "Sekem"
     },
     {
       "surface": "כאלף",
@@ -113,6 +113,6 @@
       "gloss": "jeung awéwé"
     }
   ],
-  "timestamp": "2026-08-26T12:05:58.444495948Z",
+  "timestamp": "2026-08-26T18:41:46.751484618Z",
   "model": "glm-5.3"
 }

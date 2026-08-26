@@ -5,20 +5,20 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 6,
-  "translation": "Jeung aranjeunna ngaharamkeun ⟨את⟩ sakabéh nu aya di ⟨the⟩ kota, ti lalaki nepi ka awéwé, ti rumaja nepi ka kolot, nepi ka munding jeung domba jeung kabayan, ku seuseukeut péso.",
+  "translation": "Jeung maranehna ngaharamkeun ⟨את⟩ sadaya nu aya di kota, ti lalaki nepi ka awéwé, ti rumaja nepi ka kolot, jeung nepi ka munding, domba, jeung kaldeh, ku seuseukeut pedang.",
   "tokens": [
     {
       "surface": "ויחרימו",
-      "gloss": "jeung aranjeunna ngaharamkeun"
+      "gloss": "ngaharamkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakabéh"
+      "marks": "sadaya nu aya di kota"
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sadaya"
     },
     {
       "surface": "אשר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "nepi ka"
+      "gloss": "jeung nepi ka"
     },
     {
       "surface": "שור",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "וחמור",
-      "gloss": "jeung kabayan"
+      "gloss": "jeung kaldeh"
     },
     {
       "surface": "לפי",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "חרב",
-      "gloss": "péso"
+      "gloss": "pedang"
     }
   ],
-  "timestamp": "2026-08-26T11:55:44.870271805Z",
+  "timestamp": "2026-08-26T18:13:54.816673722Z",
   "model": "glm-5.3"
 }

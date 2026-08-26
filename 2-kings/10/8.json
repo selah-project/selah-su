@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 10,
-  "translation": "Jeung datang ⟨the⟩ spl, jeung ngomongkeun ka anjeunna, nyebutkeun: Geus mawa sirah-sirah putra-putra ⟨the⟩ raja. Jeung anjeunna ngomong: Tempatkeun ⟨את⟩ aranjeunna jadi dua tumpukan hareupeun ⟨the⟩ panto nepi ka énjing-énjing.",
+  "translation": "Tuluy utusan sumping, sarta ngabejaan ka anjeunna, nyebutkeun: Geus dibawa sirah-sirah barbarengan raja. Jeung manéhna ngomongkeun: Tempatkeun ⟨את⟩ aranjeunna dua tumpukan payuneun gerbang nepi ka isuk.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "jeung datang"
+      "gloss": "sumping"
     },
     {
       "surface": "המלאך",
-      "gloss": "spl"
+      "gloss": "utusan"
     },
     {
       "surface": "ויגד",
-      "gloss": "jeung ngomongkeun"
+      "gloss": "ngabejaan"
     },
     {
       "surface": "לו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הביאו",
-      "gloss": "geus mawa"
+      "gloss": "geus dibawa"
     },
     {
       "surface": "ראשי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "putra-putra"
+      "gloss": "barbarengan"
     },
     {
       "surface": "המלך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "jeung anjeunna ngomong"
+      "gloss": "ngomongkeun"
     },
     {
       "surface": "שימו",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "hareupeun panto"
+      "gloss": "payuneun"
     },
     {
       "surface": "השער",
-      "gloss": "panto"
+      "gloss": "gerbang"
     },
     {
       "surface": "עד",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "énjing-énjing"
+      "gloss": "isuk"
     }
   ],
-  "timestamp": "2026-08-26T12:53:33.738882520Z",
+  "timestamp": "2026-08-26T18:22:07.961370780Z",
   "model": "glm-5.3"
 }

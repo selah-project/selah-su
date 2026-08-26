@@ -5,15 +5,16 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 7,
-  "translation": "Ngagieuk ⟨the⟩ ranté, sabab ⟨the⟩ bumi pinuh ku putusan getih, jeung kota pinuh ku kakasaan.",
+  "translation": "Bieukeun ranté; sabab taneuh geus pinuh ku putusan-getih, jeung ⟨את⟩ kota geus pinuh ku karusakan.",
   "tokens": [
     {
       "surface": "עשה",
-      "gloss": "ngagieuk"
+      "gloss": "Bieukeun"
     },
     {
       "surface": "הרתוק",
-      "gloss": "ranté"
+      "gloss": "ranté",
+      "marks": "ranté"
     },
     {
       "surface": "כי",
@@ -21,11 +22,12 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "taneuh",
+      "marks": "taneuh"
     },
     {
       "surface": "מלאה",
-      "gloss": "pinuh"
+      "gloss": "geus pinuh"
     },
     {
       "surface": "משפט",
@@ -37,17 +39,18 @@
     },
     {
       "surface": "והעיר",
-      "gloss": "jeung kota"
+      "gloss": "jeung kota",
+      "marks": "kota"
     },
     {
       "surface": "מלאה",
-      "gloss": "pinuh"
+      "gloss": "geus pinuh"
     },
     {
       "surface": "חמס",
-      "gloss": "kakasaan"
+      "gloss": "karusakan"
     }
   ],
-  "timestamp": "2026-08-26T13:45:01.859428206Z",
+  "timestamp": "2026-08-26T19:13:22.041326669Z",
   "model": "glm-5.3"
 }

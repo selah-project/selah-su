@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 37,
-  "translation": "Sabab mun aranjeun geus ngéléhkeun sakabéh balad Kasdim nu keur perang ngalawan aranjeun, sésa ukur lalaki-lalaki tatu dina éta balad, masing-masing bakal bangkit ti khemahna, sarta ⟨את⟩ bakal ngabeuleum ⟨את⟩ kota ieu ku seuneu.",
+  "translation": "Sabab sanajan aranjeun ngéléhkeun sadaya wadyabala Kaldea nu keur perang ngalawan aranjeun, sarta nyésa di antawisna ukur jalma-jalma tatu ditusuk, masing ngadeg unggal jalma di khemahna sarta ngabeuleum ⟨את⟩ kota ieu ku seuneu.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "mun"
+      "gloss": "sanajan"
     },
     {
       "surface": "הכיתם",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sadaya"
     },
     {
       "surface": "חיל",
-      "gloss": "balad"
+      "gloss": "wadyabala"
     },
     {
       "surface": "כשדים",
-      "gloss": "Kasdim"
+      "gloss": "Kaldea"
     },
     {
       "surface": "הנלחמים",
@@ -37,43 +37,39 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ngalawan aranjeun"
+      "gloss": "ngalawan ⟨את⟩ aranjeun"
     },
     {
       "surface": "ונשארו",
-      "gloss": "sésa"
+      "gloss": "sarta nyésa"
     },
     {
       "surface": "בם",
-      "gloss": "dina éta balad"
+      "gloss": "di antawisna"
     },
     {
       "surface": "אנשים",
-      "gloss": "lalaki-lalaki"
+      "gloss": "jalma-jalma"
     },
     {
       "surface": "מדקרים",
-      "gloss": "tatu"
+      "gloss": "tatu ditusuk"
     },
     {
       "surface": "איש",
-      "gloss": "masing-masing"
+      "gloss": "unggal jalma"
     },
     {
       "surface": "באהלו",
-      "gloss": "ti khemahna"
+      "gloss": "di khemahna"
     },
     {
       "surface": "יקומו",
-      "gloss": "bakal bangkit"
-    },
-    {
-      "surface": "ויקומו",
-      "gloss": ""
+      "gloss": "ngadeg"
     },
     {
       "surface": "ושרפו",
-      "gloss": "⟨את⟩ bakal ngabeuleum"
+      "gloss": "sarta ngabeuleum"
     },
     {
       "surface": "את",
@@ -93,6 +89,6 @@
       "gloss": "ku seuneu"
     }
   ],
-  "timestamp": "2026-08-26T13:36:20.786895500Z",
+  "timestamp": "2026-08-26T18:25:57.225720374Z",
   "model": "glm-5.3"
 }

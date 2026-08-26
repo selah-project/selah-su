@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 22,
-  "translation": "Sabab saha ⟨is⟩ El salian ti Yahwe? Sarta saha ⟨is⟩ batu salian ti Elohim kuring?",
+  "translation": "Sabab saha ⟨aya⟩ El salian ti Yahwe? Saha ⟨aya⟩ batu salian ti Elohim urang?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sabab"
+      "gloss": "Sabab"
     },
     {
       "surface": "מי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ומי",
-      "gloss": "sarta saha"
+      "gloss": "Saha"
     },
     {
       "surface": "צור",
-      "gloss": "batu"
+      "gloss": "batu (cadas)"
     },
     {
       "surface": "מבלעדי",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim kuring"
+      "gloss": "Elohim urang"
     }
   ],
-  "timestamp": "2026-08-26T12:35:40.820407947Z",
+  "timestamp": "2026-08-26T18:18:23.824211170Z",
   "model": "glm-5.3"
 }

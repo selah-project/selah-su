@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 10,
-  "translation": "Mangpunjul nalika maréntahkeun ⟨את⟩ lalaki nu maké pakéan linén, sangkan nyandak seuneu ti antara roda-roda, ti antara kerub-kerub; laju anjeuna asup sarta nangtung di gigireun ⟨the⟩ roda.",
+  "translation": "Jeung kajadian, nalika maréntahkeun ⟨את⟩ jalma nu maké baju lin, sungkan: Pek ku seuneu ti antara girah-girah, ti antara kerub-kerub; laju anjeunna asup sarta nangtung deukeut girah.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "mangpunjul"
+      "gloss": "Jeung kajadian"
     },
     {
       "surface": "בצותו",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lalaki"
+      "marks": "jalma nu maké baju lin"
     },
     {
       "surface": "האיש",
-      "gloss": "lalaki"
+      "gloss": "jalma"
     },
     {
       "surface": "לבש",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "הבדים",
-      "gloss": "pakéan linén"
+      "gloss": "baju lin"
     },
     {
       "surface": "לאמר",
-      "gloss": "sangkan"
+      "gloss": "sungkan"
     },
     {
       "surface": "קח",
-      "gloss": "nyandak"
+      "gloss": "Pek"
     },
     {
       "surface": "אש",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "לגלגל",
-      "gloss": "roda-roda"
+      "gloss": "girah-girah"
     },
     {
       "surface": "מבינות",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "asup"
+      "gloss": "laju asup"
     },
     {
       "surface": "ויעמד",
-      "gloss": "nangtung"
+      "gloss": "sarta nangtung"
     },
     {
       "surface": "אצל",
-      "gloss": "di gigireun"
+      "gloss": "deukeut"
     },
     {
       "surface": "האופן",
-      "gloss": "roda"
+      "gloss": "girah"
     }
   ],
-  "timestamp": "2026-08-26T13:45:41.617964595Z",
+  "timestamp": "2026-08-26T18:26:45.052617078Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 20,
-  "translation": "Lamun maneuh, isuk iraha ieu, abdi ngirim ⟨את⟩ abdi-abdi abdi ka anjeun, lajeng ⟨את⟩ maranéhna néangan ⟨את⟩ imah anjeun jeung ⟨את⟩ imah-imah abdi-abdi anjeun, sarta baris kajadian: sagala nu dipikahayang panon anjeun, aranjeunna meunkeun dina leungeunana, lajeng mawa.",
+  "translation": "Tapi pontenana isuk, dina waktos ieu, kaula bade ngirim ⟨את⟩ abdi-abdi kaula ka anjeun, jeung maranehna baris maluruh ⟨את⟩ imah anjeun jeung ⟨את⟩ imah-imah abdi anjeun; mangka jadi, sagala nu dipikahoyong ku panon anjeun, maranehna baris nempatkeunana dina leungeunana, jeung mawa eta.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Lamun"
+      "gloss": "tapi"
     },
     {
       "surface": "אם",
-      "gloss": "maneuh"
+      "gloss": "pon"
     },
     {
       "surface": "כעת",
-      "gloss": "iraha ieu"
+      "gloss": "dina waktos ieu"
     },
     {
       "surface": "מחר",
@@ -25,28 +25,24 @@
     },
     {
       "surface": "אשלח",
-      "gloss": "abdi ngirim"
+      "gloss": "kaula bade ngirim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abdi-abdi abdi"
+      "marks": "abdi-abdi kaula"
     },
     {
       "surface": "עבדי",
-      "gloss": "abdi-abdi abdi"
+      "gloss": "abdi-abdi kaula"
     },
     {
       "surface": "אליך",
       "gloss": "ka anjeun"
     },
     {
-      "surface": "ו",
-      "gloss": "lajeng"
-    },
-    {
-      "surface": "חפשו",
-      "gloss": "⟨את⟩ maranéhna néangan"
+      "surface": "וחפשו",
+      "gloss": "jeung maranehna baris paluruh"
     },
     {
       "surface": "את",
@@ -55,12 +51,12 @@
     },
     {
       "surface": "ביתך",
-      "gloss": "⟨את⟩ imah anjeun"
+      "gloss": "imah anjeun"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "imah-imah"
+      "marks": "imah-imah abdi anjeun"
     },
     {
       "surface": "בתי",
@@ -68,11 +64,11 @@
     },
     {
       "surface": "עבדיך",
-      "gloss": "abdi-abdi anjeun"
+      "gloss": "abdi anjeun"
     },
     {
       "surface": "והיה",
-      "gloss": "sarta baris kajadian"
+      "gloss": "jeung jadi"
     },
     {
       "surface": "כל",
@@ -80,15 +76,15 @@
     },
     {
       "surface": "מחמד",
-      "gloss": "nu dipikahayang"
+      "gloss": "nu dipikahoyong"
     },
     {
       "surface": "עיניך",
-      "gloss": "panon anjeun"
+      "gloss": "ku panon anjeun"
     },
     {
       "surface": "ישימו",
-      "gloss": "aranjeunna meunkeun"
+      "gloss": "maranehna baris nempatkeun"
     },
     {
       "surface": "בידם",
@@ -96,9 +92,9 @@
     },
     {
       "surface": "ולקחו",
-      "gloss": "lajeng mawa"
+      "gloss": "jeung mawa"
     }
   ],
-  "timestamp": "2026-08-26T12:46:31.260438028Z",
+  "timestamp": "2026-08-26T18:19:33.306358453Z",
   "model": "glm-5.3"
 }

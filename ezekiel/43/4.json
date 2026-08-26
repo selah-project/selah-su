@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 43,
-  "translation": "Jeung kamulyaan Yahwe asup ka ⟨the⟩ imah liwat jalan ⟨the⟩ panto nu payunna ka arah ⟨the⟩ wétan.",
+  "translation": "Jeung kamulyaan Yahwe asup ka rarog, ngaliwatan panto nu nyanghareup ka wétan.",
   "tokens": [
     {
       "surface": "וכבוד",
@@ -25,15 +25,16 @@
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ imah"
+      "gloss": "rarog",
+      "marks": "rarog"
     },
     {
       "surface": "דרך",
-      "gloss": "liwat jalan"
+      "gloss": "ngaliwatan"
     },
     {
       "surface": "שער",
-      "gloss": "⟨the⟩ panto"
+      "gloss": "panto"
     },
     {
       "surface": "אשר",
@@ -41,17 +42,17 @@
     },
     {
       "surface": "פניו",
-      "gloss": "payunna"
+      "gloss": "nyanghareup"
     },
     {
       "surface": "דרך",
-      "gloss": "arah jalan"
+      "gloss": "ka arah"
     },
     {
       "surface": "הקדים",
-      "gloss": "⟨the⟩ wétan"
+      "gloss": "wétan"
     }
   ],
-  "timestamp": "2026-08-26T13:59:27.989030966Z",
+  "timestamp": "2026-08-26T19:13:22.041710730Z",
   "model": "glm-5.3"
 }

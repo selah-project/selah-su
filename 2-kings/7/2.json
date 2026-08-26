@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 7,
-  "translation": "Lajeng pangawasa nu nyanghareup ka raja, di leungeunana, ngajawab ⟨את⟩ jalma ⟨the⟩ Elohim, sarta nyarios: Tempo, upama Yahwe nyieun jandéla-jandéla di langit, bisa kajadian perkara ieu? Sarta ⟨he⟩ nyarios: Tempo, anjeun bakal manggihan ku panon anjeun, tapi tina dinya anjeun moal dahar.",
+  "translation": "Terus bales pangawasa katilu nu nyangkalah kana leungeun raja, ka ⟨את⟩ inang Elohim sarta nyarios: Tingali, lamun Yahwe ngadamel jandéla-jandéla di langit, tihaping bakal kajanten perkawis ieu? Sarta anjeuna nyarios: Hen, anjeun bakal nempo ku panon anjeun, tapi ti dinya moal dahar.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Lajeng ngajawab"
+      "gloss": "terus bales"
     },
     {
       "surface": "השליש",
-      "gloss": "pangawasa"
+      "gloss": "pangawasa katilu"
     },
     {
       "surface": "אשר",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "למלך",
-      "gloss": "ka raja"
+      "gloss": "raja"
     },
     {
       "surface": "נשען",
-      "gloss": "nyanghareup ka"
+      "gloss": "nyangkalah"
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "kana"
     },
     {
       "surface": "ידו",
-      "gloss": "leungeunna"
+      "gloss": "leungeunana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jalma Elohim"
+      "marks": "inang Elohim"
     },
     {
       "surface": "איש",
-      "gloss": "jalma"
+      "gloss": "inang"
     },
     {
       "surface": "האלהים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Tempo"
+      "gloss": "tingali"
     },
     {
       "surface": "יהוה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "nyieun"
+      "gloss": "ngadamel"
     },
     {
       "surface": "ארבות",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "היהיה",
-      "gloss": "bisa kajadian"
+      "gloss": "bakal kajanten"
     },
     {
       "surface": "הדבר",
-      "gloss": "perkara"
+      "gloss": "perkawis"
     },
     {
       "surface": "הזה",
@@ -90,11 +90,11 @@
     },
     {
       "surface": "הנכה",
-      "gloss": "Tempo"
+      "gloss": "hen"
     },
     {
       "surface": "ראה",
-      "gloss": "manggihan"
+      "gloss": "nempo"
     },
     {
       "surface": "בעיניך",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "ומשם",
-      "gloss": "tina dinya"
+      "gloss": "ti dinya"
     },
     {
       "surface": "לא",
@@ -110,9 +110,9 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "anjeun dahar"
+      "gloss": "dahar"
     }
   ],
-  "timestamp": "2026-08-26T12:52:24.911358467Z",
+  "timestamp": "2026-08-26T18:21:34.380794542Z",
   "model": "glm-5.3"
 }

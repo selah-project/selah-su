@@ -5,8 +5,49 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 8,
-  "translation": "Tuluy Paroh nyaur Moshe jeung Aharon, lajeng nyarita: Piceun, kurbankeun ka Elohim anjeun di lemah ⟨the⟩.",
-  "tokens": [],
-  "timestamp": "2026-08-26T10:57:31.915153787Z",
+  "translation": "Lajeng Parho nyauran Moshe jeung Aharon, sarta nyarios: angkah, korbankeun ka Elohim maraneh di dina ⟨the⟩ tanah.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nyauran"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "jeung Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta nyarios"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "angkah"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "korbankeun"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ka Elohim maraneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    }
+  ],
+  "timestamp": "2026-08-26T19:00:18.378809525Z",
   "model": "glm-5.3"
 }

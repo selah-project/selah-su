@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 31,
-  "translation": "Sarta ⟨ia〉 maréntahkeun ⟨את⟩ Yéhoshua bin Nun sarta nyarita: Mantegna manah jeung wani, sabab anjeun baris mawa ⟨את⟩ putra-putra Yisrael ka tanah nu kuring sumpahkeun ka ⟨maranéhna⟩, sarta kuring sorangan baris aya sareng anjeun.",
+  "translation": "Jeung marintahkeun ⟨את⟩ Yehosua bin Nun, sarta nyarita: Pandiseakeun sarta bagas; sabab anjeun bakal mawa ⟨את⟩ barudak Yisrael ka tanah nu kuring supanan ka maranehna, jeung kuring bakal aya babarengan jeung anjeun.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "maréntahkeun"
+      "gloss": "Jeung marintahkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yéhoshua bin Nun"
+      "marks": "Yehosua"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yéhoshua"
+      "gloss": "Yehosua"
     },
     {
       "surface": "בן",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "nyarita"
+      "gloss": "sarta nyarita"
     },
     {
       "surface": "חזק",
-      "gloss": "mantegna manah"
+      "gloss": "Pandiseakeun"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "wani"
+      "surface": "ואמץ",
+      "gloss": "sarta bagas"
     },
     {
       "surface": "כי",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "תביא",
-      "gloss": "baris mawa"
+      "gloss": "bakal mawa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "putra-putra Yisrael"
+      "marks": "barudak Yisrael"
     },
     {
       "surface": "בני",
-      "gloss": "putra-putra"
+      "gloss": "barudak"
     },
     {
       "surface": "ישראל",
@@ -79,25 +79,25 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "kuring sumpahkeun"
+      "gloss": "kuring supanan"
     },
     {
       "surface": "להם",
-      "gloss": "ka maranéhna"
+      "gloss": "ka maranehna"
     },
     {
       "surface": "ואנכי",
-      "gloss": "sarta kuring sorangan"
+      "gloss": "jeung kuring"
     },
     {
       "surface": "אהיה",
-      "gloss": "baris aya"
+      "gloss": "bakal aya"
     },
     {
       "surface": "עמך",
-      "gloss": "sareng anjeun"
+      "gloss": "babarengan jeung anjeun"
     }
   ],
-  "timestamp": "2026-08-26T11:51:38.629776236Z",
+  "timestamp": "2026-08-26T18:13:22.259852086Z",
   "model": "glm-5.3"
 }

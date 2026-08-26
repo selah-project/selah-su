@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 22,
-  "translation": "Kitu kata Yahwe: Catetkeun ⟨את⟩ jalma ieu tanpa turunan, lalaki nu moal ngahasil dina mangsa hirupna; sabab moal aya nu ngahasil tina turunanna, hiji lalaki diuk di luhureun korsi Davod, sarta maréntah deui di Yehuda.",
+  "translation": "Kitu Yahwe ngandika: Catetkeun ⟨את⟩ jalma ieu tanpa katurunan, lalaki nu moal bagja dina mangsa hirupna, sabab moal aya lalaki tina turunanna nu bakos di lukup korsi Davud sarta maréntah deui di Yehuda.",
   "tokens": [
     {
       "surface": "כה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "kata"
+      "gloss": "ngandika"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כתבו",
-      "gloss": "catetkeun"
+      "gloss": "catatkeun"
     },
     {
       "surface": "את",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ערירי",
-      "gloss": "tanpa turunan"
+      "gloss": "tanpa katurunan"
     },
     {
       "surface": "גבר",
@@ -50,11 +50,7 @@
     },
     {
       "surface": "יצלח",
-      "gloss": "ngahasil"
-    },
-    {
-      "surface": "בימיwo",
-      "gloss": ""
+      "gloss": "bagja"
     },
     {
       "surface": "בימיו",
@@ -70,7 +66,7 @@
     },
     {
       "surface": "יצלח",
-      "gloss": "ngahasil"
+      "gloss": "bagja"
     },
     {
       "surface": "מזרעו",
@@ -78,15 +74,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "hiji lalaki"
+      "gloss": "lalaki"
     },
     {
       "surface": "ישב",
-      "gloss": "diuk"
+      "gloss": "bakos di"
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "lukup"
     },
     {
       "surface": "כסא",
@@ -94,7 +90,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davod"
+      "gloss": "Davud"
     },
     {
       "surface": "ומשל",
@@ -109,6 +105,6 @@
       "gloss": "di Yehuda"
     }
   ],
-  "timestamp": "2026-08-26T13:29:24.694824498Z",
+  "timestamp": "2026-08-26T18:24:34.822630103Z",
   "model": "glm-5.3"
 }

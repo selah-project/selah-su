@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 28,
-  "translation": "Ieu kecap-kecap perjangjian anu diparentahkeun ku Yahwe ka ⟨את⟩ Moshe pikeun ngajieun ⟨את⟩ putra-putra Yisrael di tanah Moab, salian ti perjangjian anu dipasrahkeun ⟨את⟩ ⟨אתם⟩ di Horev.",
+  "translation": "Ieu kecap-kecap perjangjian nu diparentahkeun Yahwe ka ⟨את⟩ Moshe pikeun ngadegkeun ⟨את⟩ jeung bani Israil di taneuh Moab, salian ti perjangjian nu dijieun jeung ⟨את⟩ maranéhna di Xoreb.",
   "tokens": [
     {
       "surface": "אלה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "anu"
+      "gloss": "nu"
     },
     {
       "surface": "צוה",
@@ -42,24 +42,24 @@
     },
     {
       "surface": "לכרת",
-      "gloss": "pikeun ngajieun"
+      "gloss": "pikeun ngadegkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "putra-putra Yisrael"
+      "marks": "bani Israil"
     },
     {
       "surface": "בני",
-      "gloss": "putra-putra"
+      "gloss": "bani"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israil"
     },
     {
       "surface": "בארץ",
-      "gloss": "di tanah"
+      "gloss": "di taneuh"
     },
     {
       "surface": "מואב",
@@ -75,22 +75,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "anu"
+      "gloss": "nu"
     },
     {
       "surface": "כרת",
-      "gloss": "dipasrahkeun"
+      "gloss": "dijieun"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "jeung maranéhna"
+      "gloss": "⟨את⟩ maranéhna"
     },
     {
       "surface": "בחרב",
-      "gloss": "di Horev"
+      "gloss": "di Xoreb"
     }
   ],
-  "timestamp": "2026-08-26T17:58:38.108312698Z",
+  "timestamp": "2026-08-26T18:12:36.021561206Z",
   "model": "glm-5.3"
 }

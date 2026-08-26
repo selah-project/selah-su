@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 16,
-  "translation": "Jeung abdi bakal ngadegkeun ⟨את⟩ perjangjian abdi ⟨את⟩ jeung anjeun, jeung anjeun bakal terang yén abdi ⟨the⟩ Yahwe.",
+  "translation": "Jeung abdi bakal ngadegkeun pakti abdi sareng anjeun, sareng anjeun bakal terang yén abdi téh Yahwe.",
   "tokens": [
     {
       "surface": "והקימותי",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perjangjian abdi"
+      "marks": "pakti abdi"
     },
     {
       "surface": "בריתי",
-      "gloss": "perjangjian abdi"
+      "gloss": "pakti abdi"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ jeung anjeun"
+      "gloss": "⟨את⟩ sareng anjeun"
     },
     {
       "surface": "וידעת",
-      "gloss": "jeung anjeun bakal terang"
+      "gloss": "sareng anjeun bakal terang"
     },
     {
       "surface": "כי",
@@ -45,6 +45,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T13:48:12.504287776Z",
+  "timestamp": "2026-08-26T18:27:07.549216092Z",
   "model": "glm-5.3"
 }

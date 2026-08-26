@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "su",
   "chapter": 9,
-  "translation": "Ogé anjeun — ⟨את⟩ ku getih perjangjian-anjeun kuring geus ngirim kaluar tawan-anjeun tina sumur nu euweuh cai di jerona.",
+  "translation": "Anjeun ogé — ku getih perjangjian anjeun kuring geus ngirim kaluar tawanan-tawanan anjeun tina liang, teu aya cai di jerona.",
   "tokens": [
     {
       "surface": "גם",
@@ -13,8 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ku getih perjangjian-anjeun"
+      "gloss": "anjeun"
     },
     {
       "surface": "בדם",
@@ -22,23 +21,23 @@
     },
     {
       "surface": "בריתך",
-      "gloss": "perjangjian-anjeun"
+      "gloss": "perjangjian anjeun"
     },
     {
       "surface": "שלחתי",
-      "gloss": "kuring-geus-ngirim-kaluar"
+      "gloss": "kuring geus ngirim kaluar"
     },
     {
       "surface": "אסיריך",
-      "gloss": "tawan-anjeun"
+      "gloss": "tawanan-tawanan anjeun"
     },
     {
       "surface": "מבור",
-      "gloss": "tina-sumur"
+      "gloss": "tina liang"
     },
     {
       "surface": "אין",
-      "gloss": "euweuh"
+      "gloss": "teu aya"
     },
     {
       "surface": "מים",
@@ -46,9 +45,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "di-jerona"
+      "gloss": "di jerona"
     }
   ],
-  "timestamp": "2026-08-26T17:10:16.644284164Z",
+  "timestamp": "2026-08-26T18:29:50.322391851Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,45 @@
   "book": "joel",
   "lang": "su",
   "chapter": 1,
-  "translation": "Kagereh ⟨⟨lah⟩⟩ dipeuntas minangka jeung inuman-persembahan ti imah Yahwe; bakas-aras pamaénna, para imam, palayan Yahwe.",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:07:25.145816405Z",
+  "translation": "Geus diteunggul persembahan jeung libasi ti imah Yahwe; para imam, nu ngadirikeun Yahwe, duka cita.",
+  "tokens": [
+    {
+      "surface": "הכרת",
+      "gloss": "geus diteunggul"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "jeung libasi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti imah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבלו",
+      "gloss": "duka cita"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "nu ngadirikeun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-26T18:28:48.296153277Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 45,
-  "translation": "Jeung katetepan minyak: saréat minyak, sapare sapuluh saréat tina ⟨the⟩ kor — sapuluh saréat ⟨is⟩ hiji homer — sabab sapuluh saréat ⟨are⟩ hiji homer.",
+  "translation": "Jeung katetepan minyak: sa-bat minyak, saparapatna ti sapuluh — sapuluh bagian tina sa-bat tina ⟨the⟩ kor, sapuluh bat sarua jeung sa-homer; sabab sapuluh bat téh sa-homer.",
   "tokens": [
     {
       "surface": "וחק",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הבת",
-      "gloss": "saréat"
+      "gloss": "sa-bat"
     },
     {
       "surface": "השמן",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מעשר",
-      "gloss": "sapare"
+      "gloss": "saparapatna ti sapuluh"
     },
     {
       "surface": "הבת",
-      "gloss": "saréat"
+      "gloss": "tina sa-bat"
     },
     {
       "surface": "מן",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "עשרת",
-      "gloss": "sapuluh"
+      "gloss": "sapuluh bat"
     },
     {
       "surface": "הבתים",
-      "gloss": "saréat-saréat"
+      "gloss": "sarua jeung sa-homer"
     },
     {
       "surface": "חמר",
-      "gloss": "homer"
+      "gloss": "sa-homer"
     },
     {
       "surface": "כי",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "הבתים",
-      "gloss": "saréat-saréat"
+      "gloss": "bat"
     },
     {
       "surface": "חמר",
-      "gloss": "homer"
+      "gloss": "sa-homer"
     }
   ],
-  "timestamp": "2026-08-26T17:36:47.818255798Z",
+  "timestamp": "2026-08-26T19:05:22.519607281Z",
   "model": "glm-5.3"
 }

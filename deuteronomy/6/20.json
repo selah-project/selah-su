@@ -5,65 +5,66 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 6,
-  "translation": "Lamun putra anjeun nanya ka anjeun isukan, nyarita: Naon hartina kasaksian-kasaksian ieu, jeung katangtuan-katangtuan, jeung putusan-putusan, nu Yahwe Elohim urang paréntahkeun ka ⟨את⟩ ⟨אתכם⟩ aranjeun?",
+  "translation": "Lamun putra anjeun nanya ka anjeun isuk-isuk, nyarita: Naon hartina ces pasaksian, katut paraturan, katut putusan, nu diparéntahkeun ku Yahwe, Elohim urang, ⟨את⟩ kaanjeun?",
   "tokens": [
     {
       "surface": "כי",
       "gloss": "lamun"
     },
     {
-      "surface": "ישאלך",
+      "surface": "יִשְׁאָלְךָ",
       "gloss": "nanya ka anjeun"
     },
     {
-      "surface": "בנך",
+      "surface": "בִנְךָ",
       "gloss": "putra anjeun"
     },
     {
-      "surface": "מחר",
-      "gloss": "isukan"
+      "surface": "מָחָר",
+      "gloss": "isuk-isuk"
     },
     {
-      "surface": "לאמר",
+      "surface": "לֵאמֹר",
       "gloss": "nyarita"
     },
     {
-      "surface": "מה",
+      "surface": "מָה",
       "gloss": "naon"
     },
     {
-      "surface": "העדת",
-      "gloss": "kasaksian-kasaksian"
+      "surface": "הָעֵדֹת",
+      "gloss": "ces pasaksian"
     },
     {
-      "surface": "והחקים",
-      "gloss": "jeung katangtuan-katangtuan"
+      "surface": "וְהַחֻקִּים",
+      "gloss": "katut paraturan"
     },
     {
-      "surface": "והמשפטים",
-      "gloss": "jeung putusan-putusan"
+      "surface": "וְהַמִּשְׁפָּטִים",
+      "gloss": "katut putusan"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "nu"
     },
     {
-      "surface": "צוה",
-      "gloss": "paréntahkeun"
+      "surface": "צִוָּה",
+      "gloss": "diparéntahkeun"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "Yahwe"
     },
     {
-      "surface": "אלהינו",
+      "surface": "אֱלֹהֵינוּ",
       "gloss": "Elohim urang"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ aranjeun"
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "kaanjeun"
     }
   ],
-  "timestamp": "2026-08-26T17:58:38.108654648Z",
+  "timestamp": "2026-08-26T18:11:03.250083580Z",
   "model": "glm-5.3"
 }

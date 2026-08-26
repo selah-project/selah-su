@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 22,
-  "translation": "Lamun panonpoé geus surup jeung manehna geus beresih, sanggeus éta manehna tuang tina ⟨the⟩ hal-hal suci, sabab eta kadaharanana.",
+  "translation": "Sanggeus panonpoé surup jeung anjeunna murni deui, sanggeus éta bisa dahar tina nu sucisuci, sabab éta dahareunana.",
   "tokens": [
     {
       "surface": "ובא",
-      "gloss": "geus surup"
+      "gloss": "sanggeus ... surup"
     },
     {
       "surface": "השמש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "jeung geus beresih"
+      "gloss": "jeung murni deui"
     },
     {
       "surface": "ואחר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "tuang"
+      "gloss": "dahar"
     },
     {
       "surface": "מן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הקדשים",
-      "gloss": "hal-hal suci"
+      "gloss": "nu sucisuci"
     },
     {
       "surface": "כי",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "לחמו",
-      "gloss": "kadaharanana"
+      "gloss": "dahareunana"
     },
     {
       "surface": "הוא",
       "gloss": "eta"
     }
   ],
-  "timestamp": "2026-08-26T11:20:41.088619712Z",
+  "timestamp": "2026-08-26T18:07:53.367414198Z",
   "model": "glm-5.3"
 }

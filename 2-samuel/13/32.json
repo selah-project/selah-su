@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 13,
-  "translation": "Teras ngajawab Yonadab putra Simea, dulur Dawid, sarta ngomong: Ulah Tuan kuring ngomong yén sadaya palayan-palayan, putra-putra ⟨the⟩ raja, geus dimaéhan, sabab Amnon wungkul nu paéh, sabab dina parentah Avshalom kajadian éta ditangtukeun ti poé anjeunna ngahina ⟨את⟩ Tamar adina.",
+  "translation": "Mangka Yonadab, putra Shiméa sadérék Dawid, ngajawab sarta ngadawuh: ulah hot éra Tuan abdi nyarita yén ⟨את⟩ sadaya pamuda, putra-putra raja, geus ditandasa; sabab Amnon wungkul nu maot; sabab dumasar kana parentah Avshalom perkara ieu geus ditangtukeun ti mimiti poé anjeunna ngahina ⟨את⟩ Tamar dulur awéwéna.",
   "tokens": [
     {
       "surface": "ויען",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שמעה",
-      "gloss": "Simea"
+      "gloss": "Shiméa"
     },
     {
       "surface": "אחי",
-      "gloss": "dulur"
+      "gloss": "sadérék"
     },
     {
       "surface": "דוד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "sarta ngomong"
+      "gloss": "sarta ngadawuh"
     },
     {
       "surface": "אל",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "ngomong"
+      "gloss": "nyarita"
     },
     {
       "surface": "אדני",
-      "gloss": "Tuan kuring"
+      "gloss": "Tuan abdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya palayan-palayan putra-putra raja"
+      "marks": "sadaya pamuda, putra-putra raja"
     },
     {
       "surface": "כל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הנערים",
-      "gloss": "palayan-palayan"
+      "gloss": "pamuda"
     },
     {
       "surface": "בני",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "המיתו",
-      "gloss": "geus dimaéhan"
+      "gloss": "ditandasa"
     },
     {
       "surface": "כי",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "מת",
-      "gloss": "paéh"
+      "gloss": "maot"
     },
     {
       "surface": "כי",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "על",
-      "gloss": "dina"
+      "gloss": "dumasar kana"
     },
     {
       "surface": "פי",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "kajadian"
+      "gloss": "geus"
     },
     {
       "surface": "שומה",
@@ -114,7 +114,7 @@
     },
     {
       "surface": "מיום",
-      "gloss": "ti poé"
+      "gloss": "ti mimiti poé"
     },
     {
       "surface": "ענתו",
@@ -123,7 +123,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tamar adina"
+      "marks": "Tamar"
     },
     {
       "surface": "תמר",
@@ -131,9 +131,9 @@
     },
     {
       "surface": "אחתו",
-      "gloss": "adina"
+      "gloss": "dulur awéwéna"
     }
   ],
-  "timestamp": "2026-08-26T12:32:04.637126209Z",
+  "timestamp": "2026-08-26T18:18:04.742821323Z",
   "model": "glm-5.3"
 }

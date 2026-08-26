@@ -5,8 +5,41 @@
   "book": "job",
   "lang": "su",
   "chapter": 37,
-  "translation": "Béré kabWithString nao s. — Jieun kuring terang naon urang kudu omongkeun ka Anjeunna; sabab urang moal tiasa ngaruntuykeun omongan ku sabab karimbit.",
-  "tokens": [],
-  "timestamp": "2026-08-26T15:19:01.237507070Z",
+  "translation": "Warohwiskeun kami naon anu kami ucapkeun ka Anjeunna; kami henteu tiasa ngaruntuykeun pocapan kami sabab kadali poék.",
+  "tokens": [
+    {
+      "surface": "הודיענו",
+      "gloss": "warohwiskeun kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "naon"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "kami ucapkeun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka Anjeunna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "henteu"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "tiasa ngaruntuykeun"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadali poék"
+    }
+  ],
+  "timestamp": "2026-08-26T19:06:28.679470263Z",
   "model": "glm-5.3"
 }

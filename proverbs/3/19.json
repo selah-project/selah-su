@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "su",
   "chapter": 3,
-  "translation": "Yahwe ku hikmah ngadegkeun ⟨את⟩ bumi, ku pamahaman ngeuyeuh ⟨את⟩ langit-langit.",
+  "translation": "Yahwe ku hikmah ngadegkeun ⟨את⟩ bumi, ku kahartos nancepkeun ⟨את⟩ langit-langit.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -20,17 +20,12 @@
       "gloss": "ngadegkeun"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "bumi"
-    },
-    {
       "surface": "ארץ",
       "gloss": "bumi"
     },
     {
       "surface": "כונן",
-      "gloss": "ngeuyeuh"
+      "gloss": "nancepkeun"
     },
     {
       "surface": "שמים",
@@ -38,9 +33,9 @@
     },
     {
       "surface": "בתבונה",
-      "gloss": "ku pamahaman"
+      "gloss": "ku kahartos"
     }
   ],
-  "timestamp": "2026-08-26T14:53:30.808701544Z",
+  "timestamp": "2026-08-26T19:06:02.648376125Z",
   "model": "glm-5.3"
 }

@@ -5,29 +5,29 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 11,
-  "translation": "Sarta ruax ngangkat ⟨את⟩ abdi sarta mawa ⟨את⟩ abdi ka gerbang imah Yahwe nu kacanduan, nu nyanghareup ka wétan; sarta tingali, di panto ⟨the⟩ gerbang aya dua puluh lima lalaki, sarta abdi nempo di antawis maranehna ⟨את⟩ Yaazanjah putra Azzur jeung ⟨את⟩ Pelatjah putra Benajah, pamimpin-pamimpin ⟨the⟩ bangsa.",
+  "translation": "Jeung rux ngangkat ⟨את⟩ kuring, sarta mawa ⟨את⟩ kuring ka panto imah Yahwe nu ka-wétan-kalér, nu nyanghareup ka wétan; jeung nah, di baham panto éta aya dua puluh lima lalaki; sarta kuring nempo di antara maranehna ⟨את⟩ Yaazanyah putra Azzur jeung ⟨את⟩ Pelatyah putra Benayah, pangawasa ⟨את⟩ kaum.",
   "tokens": [
     {
       "surface": "ותשא",
-      "gloss": "sarta ngangkat"
+      "gloss": "ngangkat"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ abdi",
-      "marks": "abdi"
+      "gloss": "⟨את⟩",
+      "marks": "kuring"
     },
     {
       "surface": "רוח",
-      "gloss": "ruax"
+      "gloss": "rux"
     },
     {
       "surface": "ותבא",
-      "gloss": "sarta mawa"
+      "gloss": "mawa"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ abdi",
-      "marks": "abdi"
+      "gloss": "⟨את⟩",
+      "marks": "kuring"
     },
     {
       "surface": "אל",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "שער",
-      "gloss": "gerbang"
+      "gloss": "panto"
     },
     {
       "surface": "בית",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "הקדמוני",
-      "gloss": "nu kacanduan"
+      "gloss": "nu ka-wétan-kalér"
     },
     {
       "surface": "הפונה",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "sarta tingali"
+      "gloss": "jeung nah"
     },
     {
       "surface": "בפתח",
-      "gloss": "di panto"
+      "gloss": "di baham"
     },
     {
       "surface": "השער",
-      "gloss": "gerbang"
+      "gloss": "panto éta"
     },
     {
       "surface": "עשרים",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "וחמשה",
-      "gloss": "jeung lima"
+      "gloss": "lima"
     },
     {
       "surface": "איש",
@@ -83,20 +83,20 @@
     },
     {
       "surface": "ואראה",
-      "gloss": "sarta abdi nempo"
+      "gloss": "kuring nempo"
     },
     {
       "surface": "בתוכם",
-      "gloss": "di antawis maranehna"
+      "gloss": "di antara maranehna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaazanjah putra Azzur"
+      "marks": "Yaazanyah"
     },
     {
       "surface": "יאזניה",
-      "gloss": "Yaazanjah"
+      "gloss": "Yaazanyah"
     },
     {
       "surface": "בן",
@@ -108,12 +108,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "Pelatjah putra Benajah"
+      "gloss": "⟨את⟩",
+      "marks": "Pelatyah"
     },
     {
       "surface": "פלטיהו",
-      "gloss": "Pelatjah"
+      "gloss": "Pelatyah"
     },
     {
       "surface": "בן",
@@ -121,17 +121,17 @@
     },
     {
       "surface": "בניהו",
-      "gloss": "Benajah"
+      "gloss": "Benayah"
     },
     {
       "surface": "שרי",
-      "gloss": "pamimpin-pamimpin"
+      "gloss": "pangawasa"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "kaum"
     }
   ],
-  "timestamp": "2026-08-26T13:46:13.387531027Z",
+  "timestamp": "2026-08-26T18:27:25.630933982Z",
   "model": "glm-5.3"
 }

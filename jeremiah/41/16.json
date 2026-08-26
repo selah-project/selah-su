@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 41,
-  "translation": "Laju Yohanan putra Karea jeung sakabéh panglima-panglima pasukan nu ⟨את⟩ jeung anjeunna nyandak ⟨את⟩ sadaya sésa ⟨the⟩ jalma nu dibalikkeunana ti ⟨את⟩ Yishmael putra Netanya ti Mitzpa, sanggeus manéhna ngajalan ⟨את⟩ Gedalya putra Alikam: lalaki-mighty, jelema perang, awéwé, barudak leutik, jeung sarios nu dibalikkeunana ti Gibeon.",
+  "translation": "Teras Yoxanan putra Karea jeung sadaya panglima-panglima pasukan nu aya jeunganana nyandak ⟨את⟩ sagala sisasisa bangsa nu manéhna mulangkeun ti ⟨את⟩ Yismael putra Netanya, ti Mitspa, sanggeus manéhna maéhan ⟨את⟩ Gedalya putra Axikam — lalaki-lalaki, jalma perang, jeung awéwé, jeung barudak leutik, jeung para sida-sida, nu manéhna mulangkeun ti Gibeon.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יוחנן",
-      "gloss": "Yohanan"
+      "gloss": "Yoxanan"
     },
     {
       "surface": "בן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "jeung sakabéh"
+      "gloss": "jeung sadaya"
     },
     {
       "surface": "שרי",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jeung anjeunna"
+      "gloss": "⟨את⟩ jeunganana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya sésa jalma"
+      "marks": "sisasisa bangsa"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sagala"
     },
     {
       "surface": "שארית",
-      "gloss": "sésa"
+      "gloss": "sisasisa"
     },
     {
       "surface": "העם",
-      "gloss": "jalma"
+      "gloss": "bangsa"
     },
     {
       "surface": "אשר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "dibalikkeunana"
+      "gloss": "mulangkeun"
     },
     {
       "surface": "מאת",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ישמעאל",
-      "gloss": "Yishmael"
+      "gloss": "Yismael"
     },
     {
       "surface": "בן",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "המצפה",
-      "gloss": "Mitzpa"
+      "gloss": "Mitspa"
     },
     {
       "surface": "אחר",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "ngajalan"
+      "gloss": "maéhan"
     },
     {
       "surface": "את",
@@ -115,15 +115,15 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Alikam"
+      "gloss": "Axikam"
     },
     {
       "surface": "גברים",
-      "gloss": "lalaki-mighty"
+      "gloss": "lalaki-lalaki"
     },
     {
       "surface": "אנשי",
-      "gloss": "jelema"
+      "gloss": "jalma-jalma"
     },
     {
       "surface": "המלחמה",
@@ -131,15 +131,15 @@
     },
     {
       "surface": "ונשים",
-      "gloss": "awéwé"
+      "gloss": "jeung awéwé"
     },
     {
       "surface": "וטף",
-      "gloss": "barudak leutik"
+      "gloss": "jeung barudak leutik"
     },
     {
       "surface": "וסרסים",
-      "gloss": "sarios"
+      "gloss": "jeung para sida-sida"
     },
     {
       "surface": "אשר",
@@ -147,13 +147,13 @@
     },
     {
       "surface": "השיב",
-      "gloss": "dibalikkeunana"
+      "gloss": "mulangkeun"
     },
     {
       "surface": "מגבעון",
       "gloss": "ti Gibeon"
     }
   ],
-  "timestamp": "2026-08-26T13:38:09.140485920Z",
+  "timestamp": "2026-08-26T18:26:00.416839739Z",
   "model": "glm-5.3"
 }

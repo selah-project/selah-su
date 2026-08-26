@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 3,
-  "translation": "jeung manéhna narapelkeun ⟨את⟩ leungeunana kana sirahna, sarta nyembelih ⟨את⟩na di payuneun khemah patempatan; jeung putra-putra Aharon ngacérkeun ⟨את⟩ getihna kana ⟨the⟩ altar sacara sabudeureun.",
+  "translation": "Jeung manéhna maréakeun ⟨את⟩ leungeunana kana sirahna, lajeng nyembelih ⟨את⟩ éta kambing di payuneun Kemah Papanggih, jeung putra-putra Aharon ngicikkeun ⟨את⟩ getihna kana éta mézbéa sakurilingeun.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "jeung-narapelkeun"
+      "gloss": "jeung maréakeun"
     },
     {
       "surface": "את",
@@ -30,28 +30,28 @@
     },
     {
       "surface": "ושחט",
-      "gloss": "sarta-nyembelih"
+      "gloss": "jeung nyembelih"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩na",
-      "marks": "kambing eta di payuneun khemah patempatan"
+      "gloss": "⟨את⟩",
+      "marks": "éta kambing"
     },
     {
       "surface": "לפני",
-      "gloss": "di-payuneun"
+      "gloss": "di payuneun"
     },
     {
       "surface": "אהל",
-      "gloss": "khemah"
+      "gloss": "Kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "patempatan"
+      "gloss": "Papanggih"
     },
     {
       "surface": "וזרקו",
-      "gloss": "jeung-ngacérkeun"
+      "gloss": "jeung ngicikkeun"
     },
     {
       "surface": "בני",
@@ -76,13 +76,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "eta-altar"
+      "gloss": "éta mézbéa"
     },
     {
       "surface": "סביב",
-      "gloss": "sabudeureun"
+      "gloss": "sakurilingeun"
     }
   ],
-  "timestamp": "2026-08-26T11:12:45.741625945Z",
+  "timestamp": "2026-08-26T19:01:25.210234625Z",
   "model": "glm-5.3"
 }

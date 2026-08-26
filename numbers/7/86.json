@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 7,
-  "translation": "Dulang emas dua belas, pinuh ku dupa, sapuluh sapuluh ⟨the⟩ dulang ku syékel ⟨the⟩ katujuan; sadaya emas ⟨the⟩ dulang dua puluh jeung saratus ⟨shekels⟩.",
+  "translation": "Dulang emas dua belas eusian dupa, sapuluh sapuluh sikal dulang hiji-hiji, dumasar kana sikal kakudusan; sadayana emas dulang-dulang éta saratus dua puluh.",
   "tokens": [
     {
       "surface": "כפות",
-      "gloss": "dulang"
+      "gloss": "dulang-dulang"
     },
     {
       "surface": "זהב",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מלאת",
-      "gloss": "pinuh"
+      "gloss": "eusian"
     },
     {
       "surface": "קטרת",
-      "gloss": "ku dupa"
+      "gloss": "dupa"
     },
     {
       "surface": "עשרה",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "הכף",
-      "gloss": "⟨the⟩ dulang"
+      "gloss": "dulang"
     },
     {
       "surface": "בשקל",
-      "gloss": "ku syékel"
+      "gloss": "sikal"
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨the⟩ katujuan"
+      "gloss": "kakudusan"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sadayana"
     },
     {
       "surface": "זהב",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הכפות",
-      "gloss": "⟨the⟩ dulang"
+      "gloss": "dulang-dulang"
     },
     {
       "surface": "עשרים",
@@ -72,6 +72,6 @@
       "gloss": "jeung saratus"
     }
   ],
-  "timestamp": "2026-08-26T11:28:02.321029644Z",
+  "timestamp": "2026-08-26T18:09:05.332675325Z",
   "model": "glm-5.3"
 }

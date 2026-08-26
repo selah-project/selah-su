@@ -5,40 +5,40 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 16,
-  "translation": "Jeung kajadian dina jadi-raja-na, bareng diukna di luhureun tahtana, ditelasanna ⟨את⟩ sadaya kulawarga Baasa; moal miskeunana ⟨ti⟩ jalma anjING dina témbok, sarta kaomna, sarta babaturanna.",
+  "translation": "Jadi kajadian dina jumenengna, bareng jeung diukna anjeunna dina kadayana, anjeunna ngagempur ⟨את⟩ sakulawarga Baasa; teu nyésakeun ka anjeunna saurang jit atawa kaanggit ka dadinding, sarta teu ka nu malik tarjamahna, teu ka babaturanana.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kajadian"
+      "gloss": "Jadi kajadian"
     },
     {
       "surface": "במלכו",
-      "gloss": "dina jadi-raja-na"
+      "gloss": "dina jumenengna"
     },
     {
       "surface": "כשבתו",
-      "gloss": "bareng diukna"
+      "gloss": "bareng jeung diukna anjeunna"
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "dina"
     },
     {
       "surface": "כסאו",
-      "gloss": "tahtana"
+      "gloss": "kadayana"
     },
     {
       "surface": "הכה",
-      "gloss": "ditelasanna"
+      "gloss": "anjeunna ngagempur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya kulawarga Baasa"
+      "marks": "sakulawarga Baasa"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "saka-"
     },
     {
       "surface": "בית",
@@ -50,21 +50,33 @@
     },
     {
       "surface": "לא",
-      "gloss": "moal"
+      "gloss": "teu"
     },
     {
       "surface": "השאיר",
-      "gloss": "miskeunana"
+      "gloss": "nyésakeun"
     },
     {
       "surface": "לו",
-      "gloss": "pikeun manehna"
+      "gloss": "ka anjeunna"
     },
     {
       "surface": "משתין",
-      "gloss": "anjing leutik"
+      "gloss": "nu rare-Jit"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ka dadinding"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "sarta ka nu malik tarjamahna"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "sarta ka babaturanana"
     }
   ],
-  "timestamp": "2026-08-26T12:44:45.933286390Z",
+  "timestamp": "2026-08-26T18:19:25.965828229Z",
   "model": "glm-5.3"
 }

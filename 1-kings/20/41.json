@@ -5,8 +5,63 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 20,
-  "translation": "Mangka buru-buru anjeunna ngaleungitkeun ⟨את⟩ hawu ti panononna, sarta raja Israél mikawanoh ⟨פ>()\n\n",
-  "tokens": [],
-  "timestamp": "2026-08-26T12:46:27.951320501Z",
+  "translation": "Tuluy manéhna gancang mawa kabur ⟨את⟩ bubuk tina panonna, sarta raja Yisraél ngakonana, yén manéhna kaasup ti para nabi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "gancang"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "mawa kabur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bubuk"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "bubuk"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tina"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "panonna"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "ngakonana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "ti para nabi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "manéhna"
+    }
+  ],
+  "timestamp": "2026-08-26T19:03:22.834029706Z",
   "model": "glm-5.3"
 }

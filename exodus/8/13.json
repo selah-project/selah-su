@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 8,
-  "translation": "Tuluy aranjeunna ngalakukeun kitu; Aharon nyanghareupkeun leungeunana bari mawa tungtungna, sarta manehna ngabetokeun ⟨את⟩ taneuh ⟨the⟩ bumi, jadi aya reungit dina manusa jeung dina sasatoan; sagala taneuh ⟨the⟩ bumi jadi reungit di sakabéh tana Mitsrajim.",
+  "translation": "Tuluy maranehna ngalakukeun kitu; Aharon manjangkeun ⟨את⟩ leungeunana jeung tongkatna, sarta pukul ⟨את⟩ keusik taneuh; lajuning reungit ngahiji dina manusa jeung dina sasatoan; sakabéh keusik taneuh jadi reungit dina sakabéh taneuh Mitsrayim.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "Tuluy aranjeunna ngalakukeun"
+      "gloss": "ngalakukeun"
     },
     {
       "surface": "כן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויט",
-      "gloss": "nyanghareupkeun"
+      "gloss": "manjangkeun"
     },
     {
       "surface": "אהרן",
@@ -34,28 +34,28 @@
     },
     {
       "surface": "במטהו",
-      "gloss": "bari mawa tungtungna"
+      "gloss": "jeung tongkatna"
     },
     {
       "surface": "ויך",
-      "gloss": "ngabetokeun"
+      "gloss": "sarta pukul"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taneuh"
+      "marks": "keusik taneuh"
     },
     {
       "surface": "עפר",
-      "gloss": "taneuh"
+      "gloss": "keusik"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "taneuh"
     },
     {
       "surface": "ותהי",
-      "gloss": "jadi aya"
+      "gloss": "lajuning ngahiji"
     },
     {
       "surface": "הכנם",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "sagala"
+      "gloss": "sakabéh"
     },
     {
       "surface": "עפר",
-      "gloss": "taneuh"
+      "gloss": "keusik"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "taneuh"
     },
     {
       "surface": "היה",
@@ -91,17 +91,17 @@
     },
     {
       "surface": "בכל",
-      "gloss": "di sakabéh"
+      "gloss": "dina sakabéh"
     },
     {
       "surface": "ארץ",
-      "gloss": "tana"
+      "gloss": "taneuh"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrajim"
+      "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-26T10:57:49.239482054Z",
+  "timestamp": "2026-08-26T18:03:22.344911932Z",
   "model": "glm-5.3"
 }

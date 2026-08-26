@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 21,
-  "translation": "Jeung aranjeunna nguburkeun ⟨את⟩ tulang Shaol jeung Yehonatan putrana di tanah Binyamin, di Tzela, di kubur Kisy bapana; jeung aranjeunna ngalaksanakeun sadaya nu diparentahkeun ku raja, jeung Elohim ngawales du'a pikeun ⟨the⟩ tanah sanggeus éta.",
+  "translation": "Jeung aranjeunna ngurebkeun ⟨את⟩ tulang-tulang Shaol jeung Yonatan putrana, di tanah Binjamin, di Tzela, di kubur Kisy bapana; jeung aranjeunna ngalaksanakeun sadaya nu diparéntahkeun ku raja; sarta Elohum ngarungkunikeun ka mana bumi sanggeus kitu.",
   "tokens": [
     {
       "surface": "ויקברו",
-      "gloss": "jeung aranjeunna nguburkeun"
+      "gloss": "ngurebkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tulang"
+      "marks": "tulang-tulang Shaol jeung Yonatan"
     },
     {
       "surface": "עצמות",
-      "gloss": "tulang"
+      "gloss": "tulang-tulang"
     },
     {
       "surface": "שאול",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ויהונתן",
-      "gloss": "jeung Yehonatan"
+      "gloss": "jeung Yonatan"
     },
     {
       "surface": "בנו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyamin"
+      "gloss": "Binjamin"
     },
     {
       "surface": "בצלע",
@@ -70,23 +70,23 @@
     },
     {
       "surface": "צוה",
-      "gloss": "diparentahkeun"
+      "gloss": "diparéntahkeun"
     },
     {
       "surface": "המלך",
-      "gloss": "ku raja"
+      "gloss": "raja"
     },
     {
       "surface": "ויעתר",
-      "gloss": "jeung ngawales du'a"
+      "gloss": "sarta ngarungkunikeun"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohum"
     },
     {
       "surface": "לארץ",
-      "gloss": "pikeun tanah"
+      "gloss": "ka bumi"
     },
     {
       "surface": "אחרי",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "כן",
-      "gloss": "éta"
+      "gloss": "kitu"
     }
   ],
-  "timestamp": "2026-08-26T12:35:39.651531826Z",
+  "timestamp": "2026-08-26T19:03:20.976298277Z",
   "model": "glm-5.3"
 }

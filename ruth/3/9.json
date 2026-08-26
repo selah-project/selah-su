@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "su",
   "chapter": 3,
-  "translation": "Anjeunna nyarita, \"Saha ⟨את⟩ anjeun?\" Nyahona, \"Abdi Rut, awéawé anjeun; sajangan sayap anjeun kepakeun ka luhur awéawé anjeun, sabab anjeun goél.\"",
+  "translation": "Jeung manéhna nyarita, Saha anjeun? Jeung anjeunna nyarita, Abdi Rut, budak awéwé anjeun; carangkeun deui jangit kolék anjeun ka luhur budak awéwé anjeun, sabab anjeun ⟨⟨את⟩⟩ nu nganggit.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "nyarita"
+      "gloss": "jeung nyarita"
     },
     {
       "surface": "מי",
@@ -17,12 +17,11 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "anjeun"
+      "gloss": "anjeun"
     },
     {
       "surface": "ותאמר",
-      "gloss": "nyahona"
+      "gloss": "jeung nyarita"
     },
     {
       "surface": "אנכי",
@@ -34,15 +33,15 @@
     },
     {
       "surface": "אמתך",
-      "gloss": "awéawé anjeun"
+      "gloss": "budak awewe anjeun"
     },
     {
       "surface": "ופרשת",
-      "gloss": "kepakeun sajangan"
+      "gloss": "carangkeun deui"
     },
     {
       "surface": "כנפך",
-      "gloss": "sayap (sajangan) anjeun"
+      "gloss": "jangit kolek anjeun"
     },
     {
       "surface": "על",
@@ -50,7 +49,7 @@
     },
     {
       "surface": "אמתך",
-      "gloss": "awéawé anjeun"
+      "gloss": "budak awewe anjeun"
     },
     {
       "surface": "כי",
@@ -58,13 +57,13 @@
     },
     {
       "surface": "גאל",
-      "gloss": "goél"
+      "gloss": "nu nganggit"
     },
     {
       "surface": "אתה",
       "gloss": "anjeun"
     }
   ],
-  "timestamp": "2026-08-26T17:19:57.107496042Z",
+  "timestamp": "2026-08-26T18:34:49.972081993Z",
   "model": "glm-5.3"
 }

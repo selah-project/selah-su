@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 11,
-  "translation": "Jeung Moshe ngadangu ⟨את⟩ ⟨the⟩ bangsa ceurik, unggal kulawarga, tiap jalma di panto kolamna; janten murub pikanyana Yahwe kalawan welas, jeung dina panon Moshe ⟨ éta ⟩ goreng.",
+  "translation": "Jeung Moshe ngadéngé ⟨את⟩ ⟨the⟩ bangsa ceurik, unggal kulawarga, jalma-jalma di panto khemahna masing-masing; jadi panaes Yahwe huru-hara pisan, jeung dina panon Moshe ⟨is⟩ goreng.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "jeung ngadangu"
+      "gloss": "Jeung ngadéngé"
     },
     {
       "surface": "משה",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bangsa"
+      "marks": "the bangsa"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "the bangsa"
     },
     {
       "surface": "בכה",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "למשפחתיו",
-      "gloss": "unggal kulawargana"
+      "gloss": "unggal kulawarga"
     },
     {
       "surface": "איש",
-      "gloss": "tiap jalma"
+      "gloss": "jalma-jalma"
     },
     {
       "surface": "לפתח",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "אהלו",
-      "gloss": "kolamna"
+      "gloss": "khemahna masing-masing"
     },
     {
       "surface": "ויחר",
-      "gloss": "jeung murub"
+      "gloss": "jadi panaes…huru-hara"
     },
     {
       "surface": "אף",
-      "gloss": "pikanyana"
+      "gloss": "pongas\/huru-hara"
     },
     {
       "surface": "יהוה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "kalawan welas"
+      "gloss": "pisan"
     },
     {
       "surface": "ובעיני",
@@ -73,6 +73,6 @@
       "gloss": "goreng"
     }
   ],
-  "timestamp": "2026-08-26T11:28:31.896297557Z",
+  "timestamp": "2026-08-26T19:01:40.320201938Z",
   "model": "glm-5.3"
 }

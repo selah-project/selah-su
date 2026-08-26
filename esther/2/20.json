@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "su",
   "chapter": 2,
-  "translation": "Teu aya Ester ngomongkeun kaluargana jeung ⟨את⟩ bangsana, siga anu diparentahkeun ka manehna ku Mordehai; jeung ⟨את》 parentah Mordehai Ester ngalaksanakeun, siga basa manehna di pingpinanana ⟨את⟩ anjeunna.",
+  "translation": "Ester teu nyaritakeun kulawargana jeung ⟨את⟩ bangsana, sakumaha Mordekai paréntahkeun ka anjeunna, sarta ⟨את⟩ parentah Mordekai dipigawé ku Ester, sakumaha mangsa manéhna dibawa dina pangaweruhanana ⟨את⟩ dirina.",
   "tokens": [
     {
       "surface": "אין",
-      "gloss": "teu aya"
+      "gloss": "teu"
     },
     {
       "surface": "אסתר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "מגדת",
-      "gloss": "ngomongkeun"
+      "gloss": "nyaritakeun"
     },
     {
       "surface": "מולדתה",
-      "gloss": "kaluargana"
+      "gloss": "kulawargana"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "bangsana"
     },
     {
@@ -34,24 +34,24 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "siga anu"
+      "gloss": "sakumaha"
     },
     {
       "surface": "צוה",
-      "gloss": "diparentahkeun"
+      "gloss": "paréntahkeun"
     },
     {
       "surface": "עליה",
-      "gloss": "ka manehna"
+      "gloss": "ka anjeunna"
     },
     {
       "surface": "מרדכי",
-      "gloss": "ku Mordehai"
+      "gloss": "Mordekai"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "parentah Mordehai"
+      "gloss": "⟨את⟩",
+      "marks": "parentah Mordekai"
     },
     {
       "surface": "מאמר",
@@ -59,33 +59,33 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordehai"
+      "gloss": "Mordekai"
     },
     {
       "surface": "אסתר",
       "gloss": "Ester"
     },
     {
-      "surface": "עושה",
-      "gloss": "ngalaksanakeun"
+      "surface": "עשה",
+      "gloss": "dipigawé"
     },
     {
       "surface": "כאשר",
-      "gloss": "siga basa"
+      "gloss": "sakumaha"
     },
     {
       "surface": "היתה",
-      "gloss": "manehna di"
+      "gloss": "mangsa manéhna"
     },
     {
       "surface": "באמנה",
-      "gloss": "pingpinanana"
+      "gloss": "dina pangaweruhanana"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ anjeunna"
+      "gloss": "⟨את⟩ dirina"
     }
   ],
-  "timestamp": "2026-08-26T15:37:23.896048095Z",
+  "timestamp": "2026-08-26T18:35:06.907503338Z",
   "model": "glm-5.3"
 }

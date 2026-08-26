@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 44,
-  "translation": "Jeung kaluar ⟨the⟩ hiji ti ⟨את⟩ gigireun abdi, sarta abdi ngomong: Tangtu dironjat-ronjat; jeung teu kungsi abdi nempo manéhna nepi ka ayeuna.",
+  "translation": "Jeung nu hiji indung ti ⟨את⟩ kuring, sarta kuring ngomong: tangtu diriksak gé diriksak; jeung teu kuring nempo manéhna nepi ka ayeuna.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "jeung kaluar"
+      "gloss": "jeung indung"
     },
     {
       "surface": "האחד",
-      "gloss": "⟨the⟩ hiji"
+      "gloss": "nu hiji"
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨את⟩ ti gigireun abdi",
-      "marks": "hiji (nu kaluar)"
+      "gloss": "ti ⟨את⟩ kuring",
+      "marks": "nu hiji (anak nu indung)"
     },
     {
       "surface": "ואמר",
-      "gloss": "jeung abdi ngomong"
+      "gloss": "sarta kuring ngomong"
     },
     {
       "surface": "אך",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "טרף",
-      "gloss": "dironjat"
+      "gloss": "diriksak"
     },
     {
       "surface": "טרף",
-      "gloss": "ronjat"
+      "gloss": "gé diriksak"
     },
     {
       "surface": "ולא",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ראיתיו",
-      "gloss": "kungsi abdi nempo manéhna"
+      "gloss": "kuring nempo manéhna"
     },
     {
       "surface": "עד",
@@ -53,6 +53,6 @@
       "gloss": "ayeuna"
     }
   ],
-  "timestamp": "2026-08-26T10:52:40.237658208Z",
+  "timestamp": "2026-08-26T18:39:53.862525459Z",
   "model": "glm-5.3"
 }

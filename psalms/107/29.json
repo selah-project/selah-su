@@ -5,8 +5,29 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 107,
-  "translation": "Dibogiana-Na angin puyuh jadi limpud, jeung galura-galurana ngahantem tihang.",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:46:46.354424169Z",
+  "translation": "Dijadikeun-Na badai jadi kaayaan hening, sarta ngahening ⟨pagawena⟩ ombak-ombakna.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "dijadikeun-Na"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "jadi kaayaan hening"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "sarta ngahening"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ombak-ombakna"
+    }
+  ],
+  "timestamp": "2026-08-26T18:32:13.965192535Z",
   "model": "glm-5.3"
 }

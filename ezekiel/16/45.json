@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 16,
-  "translation": "Anjeun ⟨⟨putri⟩⟩ indung anjeun, ⟨את⟩ nu ngiloan salakina jeung anak-anakna; jeung anjeun sadéré ti sadéré-sadéré anjeun ⟨את⟩, anu ngiloan salaki-salaki jeung anak-anak maranehna; indung maranehna ⟨is⟩ Hiti, jeung bapa maranehna ⟨is⟩ Emori.",
+  "translation": "Putri indung anjeun maneh, anu ngarandek salakina jeung anak-anakna; jeung sadulur ti sadulur-sadulur anjeun maneh, aranu ngarandek salaki-salaki jeung anak-anak maranehna; indung maraneuh urang Het, jeung bapa maraneuh urang Emori.",
   "tokens": [
     {
       "surface": "בת",
@@ -17,12 +17,11 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "nu ngiloan salakina jeung anak-anakna"
+      "gloss": "maneh"
     },
     {
       "surface": "געלת",
-      "gloss": "ngiloan"
+      "gloss": "ngarandek"
     },
     {
       "surface": "אישה",
@@ -34,24 +33,23 @@
     },
     {
       "surface": "ואחות",
-      "gloss": "jeung sadéré"
+      "gloss": "jeung sadulur"
     },
     {
       "surface": "אחותך",
-      "gloss": "sadéré anjeun"
+      "gloss": "sadulur-sadulur anjeun"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "anu ngiloan salaki-salaki jeung anak maranehna"
+      "gloss": "maneh"
     },
     {
       "surface": "אשר",
-      "gloss": "anu"
+      "gloss": "aranu"
     },
     {
       "surface": "געלו",
-      "gloss": "ngiloan"
+      "gloss": "ngarandek"
     },
     {
       "surface": "אנשיהן",
@@ -59,25 +57,25 @@
     },
     {
       "surface": "ובניהן",
-      "gloss": "jeung anak-anakna"
+      "gloss": "jeung anak-anak maranehna"
     },
     {
       "surface": "אמכן",
-      "gloss": "indung maranehna"
+      "gloss": "indung maraneuh"
     },
     {
       "surface": "חתית",
-      "gloss": "Hiti"
+      "gloss": "urang Het"
     },
     {
       "surface": "ואביכן",
-      "gloss": "jeung bapa maranehna"
+      "gloss": "bapa maraneuh"
     },
     {
       "surface": "אמרי",
-      "gloss": "Emori"
+      "gloss": "urang Emori"
     }
   ],
-  "timestamp": "2026-08-26T13:49:17.409221732Z",
+  "timestamp": "2026-08-26T19:05:42.532972049Z",
   "model": "glm-5.3"
 }

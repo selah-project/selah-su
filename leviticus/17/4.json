@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 17,
-  "translation": "sarta teu mawa ⟨את⟩-na ka panto kemah patepung, pikeun midangkeun kurban ka Yahwe payune padumukan Yahwe, getih moal diperkirakeun ka jalma éta; getih geus disikeut; sarta jalma éta bakal diteungpeulkeun tina tengah bangsana.",
+  "translation": "jeung teu mawa ⟨את⟩ inyah ka lawang kemah patempatan, pikeun ngahadirkeun kurban ka Yahwe, di payuneun imah Yahwe — getih diitung ka jalma éta: getih manéhna ngannaheunkeun, jeung jalma éta dipiceun ti tengah kaayaan bangsana.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "sarta ka"
+      "gloss": "jeung-ka"
     },
     {
       "surface": "פתח",
-      "gloss": "panto"
+      "gloss": "lawang"
     },
     {
       "surface": "אהל",
@@ -21,24 +21,19 @@
     },
     {
       "surface": "מועד",
-      "gloss": "patepung"
+      "gloss": "patempatan"
     },
     {
       "surface": "לא",
-      "gloss": "teu"
+      "gloss": "henteu"
     },
     {
       "surface": "הביאו",
-      "gloss": "mawa"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "-na (sapi\/domba\/embé)"
+      "gloss": "mawa-inyah"
     },
     {
       "surface": "להקריב",
-      "gloss": "pikeun midangkeun"
+      "gloss": "pikeun-ngahadirkeun"
     },
     {
       "surface": "קרבן",
@@ -46,15 +41,15 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "ka Yahwe"
+      "gloss": "ka-Yahwe"
     },
     {
       "surface": "לפני",
-      "gloss": "payune"
+      "gloss": "di-payuneun"
     },
     {
       "surface": "משכן",
-      "gloss": "padumukan"
+      "gloss": "imah"
     },
     {
       "surface": "יהוה",
@@ -66,11 +61,11 @@
     },
     {
       "surface": "יחשב",
-      "gloss": "diperkirakeun"
+      "gloss": "diitung"
     },
     {
       "surface": "לאיש",
-      "gloss": "ka jalma"
+      "gloss": "ka-jalma"
     },
     {
       "surface": "ההוא",
@@ -82,11 +77,11 @@
     },
     {
       "surface": "שפך",
-      "gloss": "disikeut"
+      "gloss": "ngannaheunkeun"
     },
     {
       "surface": "ונכרת",
-      "gloss": "sarta diteungpeulkeun"
+      "gloss": "jeung-dipiceun"
     },
     {
       "surface": "האיש",
@@ -98,13 +93,13 @@
     },
     {
       "surface": "מקרב",
-      "gloss": "tina tengah"
+      "gloss": "ti-tengah"
     },
     {
       "surface": "עמו",
       "gloss": "bangsana"
     }
   ],
-  "timestamp": "2026-08-26T16:44:00.618362084Z",
+  "timestamp": "2026-08-26T18:07:15.190527241Z",
   "model": "glm-5.3"
 }

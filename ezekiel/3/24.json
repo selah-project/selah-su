@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 3,
-  "translation": "Tuluy roh asup ka jero diri kuring, sarta nangtungkeun kuring dina suku kuring, tuluy ⟨הוא⟩ nyarita ⟨את⟩ kuring jeung ngomong ka kuring: Asup, saringkeun diri di jero imah anjeun.",
+  "translation": "Teras roh asup ka kuring, nyangkaruk kuring dina suku, sarta Ia nyarita ⟨את⟩ kuring, sarta saur ka kuring: Asup, kuncian diri di jero imah anjeun.",
   "tokens": [
     {
       "surface": "ותבא",
-      "gloss": "tuluy asup"
+      "gloss": "teras asup"
     },
     {
       "surface": "בי",
-      "gloss": "ka jero diri kuring"
+      "gloss": "ka kuring"
     },
     {
       "surface": "רוח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ותעמדני",
-      "gloss": "sarta nangtungkeun kuring"
+      "gloss": "nyangkaruk kuring"
     },
     {
       "surface": "על",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "suku kuring"
+      "gloss": "suku"
     },
     {
       "surface": "וידבר",
-      "gloss": "tuluy nyarita"
+      "gloss": "nyarita"
     },
     {
       "surface": "אתי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "jeung ngomong"
+      "gloss": "saur"
     },
     {
       "surface": "אלי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הסגר",
-      "gloss": "saringkeun diri"
+      "gloss": "kuncian"
     },
     {
       "surface": "בתוך",
@@ -65,6 +65,6 @@
       "gloss": "imah anjeun"
     }
   ],
-  "timestamp": "2026-08-26T17:04:36.678433509Z",
+  "timestamp": "2026-08-26T18:26:13.458537525Z",
   "model": "glm-5.3"
 }

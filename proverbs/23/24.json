@@ -5,19 +5,19 @@
   "book": "proverbs",
   "lang": "su",
   "chapter": 23,
-  "translation": "Bungah-sungsuhan bapana nu bener, nu ngalahirkeun saha nu wijaksana bakahibur ku ⟨is⟩.",
+  "translation": "Bungah ngagumbira bapa ⟨את⟩ nu bener; nu ngalahirkeun nu wijaksana jeung bungah ka anjeunna.",
   "tokens": [
     {
       "surface": "גול",
-      "gloss": "bungah-sungsuhan"
+      "gloss": "bungah"
     },
     {
       "surface": "יגול",
-      "gloss": "bakabungah"
+      "gloss": "ngagumbira"
     },
     {
       "surface": "אבי",
-      "gloss": "bapana"
+      "gloss": "bapa"
     },
     {
       "surface": "צדיק",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "חכם",
-      "gloss": "saha nu wijaksana"
+      "gloss": "nu wijaksana"
     },
     {
       "surface": "וישמח",
-      "gloss": "bakahibur"
+      "gloss": "jeung bungah"
     },
     {
       "surface": "בו",
-      "gloss": "ku ⟨is⟩"
+      "gloss": "ka anjeunna"
     }
   ],
-  "timestamp": "2026-08-26T15:01:47.540244950Z",
+  "timestamp": "2026-08-26T18:33:34.223261504Z",
   "model": "glm-5.3"
 }

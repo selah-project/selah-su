@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 8,
-  "translation": "Jeung Anjeunna ngandika ka abdi: Naha anjeun nempo, putra manusa, nu dipigawé para sesepuh imah Yisrael dina gelap, tiap lalaki di kamar-kamar gambaranana? Sabab maranehna nyebut: Yahwe moal nempo ⟨את⟩ urang; Yahwe nyinggahkeun ⟨את⟩ ⟨the⟩ taneuh.",
+  "translation": "Jeung anjeunna ngomong ka kuring: Naha anjeung nempo, anak manusa, nu dipigawé ku para sepuh imah Israel dina ka gelap-gelapan, masing-masing di jero kamar-kamar gambaranana? Sabab maranehna nyarita: Yahwe teu nempo ⟨את⟩ kami; Yahwe geus ninggalkeun ⟨את⟩ nagara.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "jeung Anjeunna ngandika"
+      "gloss": "jeung anjeunna ngomong"
     },
     {
       "surface": "אלי",
-      "gloss": "ka abdi"
+      "gloss": "ka kuring"
     },
     {
       "surface": "הראית",
-      "gloss": "naha anjeun nempo"
+      "gloss": "naha anjeung nempo"
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "anak"
     },
     {
       "surface": "אדם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "זקני",
-      "gloss": "para sesepuh"
+      "gloss": "para sepuh"
     },
     {
       "surface": "בית",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "עשים",
-      "gloss": "ngalakukeun"
+      "gloss": "dipigawé"
     },
     {
       "surface": "בחשך",
-      "gloss": "dina gelap"
+      "gloss": "dina ka gelap-gelapan"
     },
     {
       "surface": "איש",
-      "gloss": "lalaki"
+      "gloss": "masing-masing"
     },
     {
       "surface": "בחדרי",
-      "gloss": "di kamar-kamar"
+      "gloss": "di jero kamar-kamar"
     },
     {
       "surface": "משכיתו",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "אמרים",
-      "gloss": "maranehna nyebut"
+      "gloss": "maranehna nyarita"
     },
     {
       "surface": "אין",
-      "gloss": "moal"
+      "gloss": "teu"
     },
     {
       "surface": "יהוה",
@@ -85,12 +85,12 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ urang",
-      "marks": "urang"
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami"
     },
     {
       "surface": "עזב",
-      "gloss": "nyinggahkeun"
+      "gloss": "geus ninggalkeun"
     },
     {
       "surface": "יהוה",
@@ -99,13 +99,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taneuh"
+      "marks": "nagara"
     },
     {
       "surface": "הארץ",
-      "gloss": "taneuh"
+      "gloss": "nagara"
     }
   ],
-  "timestamp": "2026-08-26T17:05:29.870638163Z",
+  "timestamp": "2026-08-26T19:08:04.500734539Z",
   "model": "glm-5.3"
 }

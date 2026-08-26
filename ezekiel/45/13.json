@@ -5,8 +5,57 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 45,
-  "translation": "Ieu ⟨⟨the⟩⟩ persembahan-angkat nu araréa angkat: saparopat-na-tilu? henteu — sapagenam eifa tina hiji homer gandum, jeung araréa masangkeun sapagenam eifa tina hiji homer juwawut.",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:01:31.181446615Z",
+  "translation": "Ieu ⟨את⟩ persembehan nu aranjeun kedah ngangkat: saparopalina eifah tina unggal homer gandum, jeung aranjeun badé masangkeun saparopalina eifah tina unggal homer barley.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ieu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "persembehan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "aranjeun kedah ngangkat"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "saparopalina"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eifah"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "tina unggal homer"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "וששיתם",
+      "gloss": "jeung aranjeun badé masangkeun saparopalina"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eifah"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "tina unggal homer"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "barley"
+    }
+  ],
+  "timestamp": "2026-08-26T18:28:28.297808674Z",
   "model": "glm-5.3"
 }

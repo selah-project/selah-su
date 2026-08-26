@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 34,
-  "translation": "⟨את⟩ gajih ku aranjeunna didahar jeung ⟨את⟩ bulu domba aranjeunna baruang, anu kénéh gagah aranjeunna seuncit, ⟨the⟩ domba aranjeunna henteu angonan.",
+  "translation": "⟨את⟩ gajih didahar, ⟨את⟩ bulu (domba) dipaké baju, nu banget sirungan disembelih, kawanan domba moal dipara",
   "tokens": [
     {
       "surface": "את",
@@ -13,48 +13,47 @@
       "marks": "gajih"
     },
     {
-      "surface": "החלeb",
-      "gloss": "gajih",
-      "note": ""
+      "surface": "החלב",
+      "gloss": "gajih"
     },
     {
       "surface": "תאכלו",
-      "gloss": "ku aranjeunna didahar"
+      "gloss": "didahar"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "bulu domba"
+      "gloss": "⟨את⟩",
+      "marks": "bulu (domba)"
     },
     {
       "surface": "הצמר",
-      "gloss": "bulu domba"
+      "gloss": "bulu (domba)"
     },
     {
       "surface": "תלבשו",
-      "gloss": "baruang"
+      "gloss": "dipaké baju"
     },
     {
       "surface": "הבריאה",
-      "gloss": "anu kénéh gagah"
+      "gloss": "nu banget sirungan"
     },
     {
       "surface": "תזבחו",
-      "gloss": "seuncit"
+      "gloss": "disembelih"
     },
     {
       "surface": "הצאן",
-      "gloss": "domba"
+      "gloss": "kawanan domba"
     },
     {
       "surface": "לא",
-      "gloss": "henteu"
+      "gloss": "moal"
     },
     {
       "surface": "תרעו",
-      "gloss": "angonan"
+      "gloss": "dipara"
     }
   ],
-  "timestamp": "2026-08-26T13:55:39.934891837Z",
+  "timestamp": "2026-08-26T18:27:48.353341702Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 12,
-  "translation": "Raja Yerikho, hiji; raja ⟨the⟩ Ai, nu di sisi Beit-El, hiji;",
+  "translation": "Raja Yériho, hiji; raja ⟨ai⟩ Ha-Ayi nu di gigireun Beit-El, hiji;",
   "tokens": [
     {
       "surface": "מלך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יריחו",
-      "gloss": "Yerikho"
+      "gloss": "Yériho"
     },
     {
       "surface": "אחד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "העי",
-      "gloss": "⟨the⟩ Ai"
+      "gloss": "Ha-Ayi"
     },
     {
       "surface": "אשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מצד",
-      "gloss": "di sisi"
+      "gloss": "di gigireun"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Beit"
     },
     {
       "surface": "אל",
@@ -48,6 +48,6 @@
       "gloss": "hiji"
     }
   ],
-  "timestamp": "2026-08-26T11:56:42.683692255Z",
+  "timestamp": "2026-08-26T18:13:45.037413851Z",
   "model": "glm-5.3"
 }

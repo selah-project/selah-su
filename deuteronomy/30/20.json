@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 30,
-  "translation": "nyaéta pikeun mikanyaah ⟨את⟩ Yahwe, Elohim anjeun, pikeun ngadangu sora-Na jeung pikeun napel ka Anjeunna; sabab Anjeunna ⟨is⟩ hirup anjeun jeung panjang umur anjeun, pikeun cicing dina ⟨the⟩ taneuh nu Yahwe sumpah ka bapa-bapa anjeun, ka Avraham, ka Yitsxak jeung ka Yaakov, méré ka maranehna,",
+  "translation": "Pikeun mikanyaah ka Yahwe Elohim anjeun, pikeun ngadangu sora-Na, jeung pikeun napel ka Anjeunna — sabab Anjeunna ⟨nyaéta⟩ hirup anjeun jeung panjang umur anjeun — pikeun cicing di luhureun taneuh nu disumpahkeun ku Yahwe ka bapa-bapa anjeun, ka Avraham, ka Yitsxak, jeung ka Yaakov, méré ⟨את⟩-na ka maranehna.",
   "tokens": [
     {
       "surface": "לאהבה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ולדבקה",
-      "gloss": "pikeun napel ka Anjeunna"
+      "gloss": "jeung pikeun napel"
     },
     {
       "surface": "בו",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "וארך",
-      "gloss": "jeung panjang umur"
+      "gloss": "jeung panjang"
     },
     {
       "surface": "ימיך",
-      "gloss": "anjeun"
+      "gloss": "umur anjeun"
     },
     {
       "surface": "לשבת",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "על",
-      "gloss": "dina"
+      "gloss": "di luhureun"
     },
     {
       "surface": "האדמה",
-      "gloss": "⟨the⟩ taneuh"
+      "gloss": "taneuh"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "sumpah"
+      "gloss": "disumpahkeun"
     },
     {
       "surface": "יהוה",
@@ -109,6 +109,6 @@
       "gloss": "ka maranehna"
     }
   ],
-  "timestamp": "2026-08-26T11:51:49.263306193Z",
+  "timestamp": "2026-08-26T19:02:15.070432568Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 4,
-  "translation": "Jeung ayeuna, oo Yisrael, dengeqkeun ka aturan-aturan jeung ka putusan-putusan nu abdi ngajarkeun ⟨את⟩ arinyana pikeun dipigawé, sangkan arinyana hirup, jeung asup sarta ngawasaan ⟨את⟩ nagara nu Yahwe, Elohim karuhun arinyana, ngabikeun ka arinyana.",
+  "translation": "Jeung ayeuna, hé Yisrael, tinggalikeun jeung parhatos ka ⟨את⟩ aturan-aturan jeung ka ⟨את⟩ putusan-putusan nu kuring sanggakeun ka aranjeun pikeun dipilampah, sangkan aranjeun hirup, jeung aranjeun asup sarta nyicingan ⟨את⟩ tanah nu Yahwe, Elohim karuhun aranjeun, méré ka aranjeun.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "hé Yisrael"
     },
     {
       "surface": "שמע",
-      "gloss": "dengeqkeun"
+      "gloss": "tinggalikeun jeung parhatos"
     },
     {
       "surface": "אל",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "abdi"
+      "gloss": "kuring"
     },
     {
       "surface": "מלמד",
-      "gloss": "ngajarkeun"
+      "gloss": "sanggakeun"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ arinyana",
-      "marks": "arinyana"
+      "gloss": "⟨את⟩",
+      "marks": "aranjeun"
     },
     {
       "surface": "לעשות",
-      "gloss": "pikeun dipigawé"
+      "gloss": "pikeun dipilampah"
     },
     {
       "surface": "למען",
@@ -62,24 +62,24 @@
     },
     {
       "surface": "תחיו",
-      "gloss": "arinyana hirup"
+      "gloss": "hirup"
     },
     {
       "surface": "ובאתם",
-      "gloss": "jeung asup"
+      "gloss": "jeung aranjeun asup"
     },
     {
       "surface": "וירשתם",
-      "gloss": "ngawasaan"
+      "gloss": "sarta nyicingan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nagara"
+      "marks": "tanah"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ nagara"
+      "gloss": "tanah"
     },
     {
       "surface": "אשר",
@@ -95,17 +95,17 @@
     },
     {
       "surface": "אבתיכם",
-      "gloss": "karuhun arinyana"
+      "gloss": "karuhun aranjeun"
     },
     {
       "surface": "נתן",
-      "gloss": "ngabikeun"
+      "gloss": "méré"
     },
     {
       "surface": "לכם",
-      "gloss": "ka arinyana"
+      "gloss": "ka aranjeun"
     }
   ],
-  "timestamp": "2026-08-26T11:40:31.981355207Z",
+  "timestamp": "2026-08-26T18:10:43.829733035Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 18,
-  "translation": "Teras Dawid ngintunkeun ⟨את⟩ ⟨the⟩ bala: sapertilu ku leungeun Yoab, jeung sapertilu ku leungeun Avishai putra Tserujah, dulur Yoab, jeung sapertilu ku leungeun Itai sang Git; sarta raja ngomong ka bala: Hayu balik, abdi ogé bakal kaluar sareng anjeun.",
+  "translation": "Teras Dawid ngirim ⟨את⟩ urang — sapertilu ku leungeun Yoab, sarta sapertilu ku leungeun Avishai putra Tseruyah, dulurna Yoab, sarta sapertilu ku leungeun Itay urang Gat; sarta raja ngomong ka urang: kaluar abdi rék kaluar ogé, jeung anjeun.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ngintunkeun"
+      "gloss": "teras ngirim"
     },
     {
       "surface": "דוד",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bala"
+      "marks": "urang"
     },
     {
       "surface": "העם",
-      "gloss": "bala"
+      "gloss": "urang"
     },
     {
       "surface": "השלשית",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "ku-leungeun"
+      "gloss": "ku leungeun"
     },
     {
       "surface": "יואב",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "והשלשית",
-      "gloss": "jeung-sapertilu"
+      "gloss": "sarta sapertilu"
     },
     {
       "surface": "ביד",
-      "gloss": "ku-leungeun"
+      "gloss": "ku leungeun"
     },
     {
       "surface": "אבישי",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "צרויה",
-      "gloss": "Tserujah"
+      "gloss": "Tseruyah"
     },
     {
       "surface": "אחי",
-      "gloss": "dulur"
+      "gloss": "dulurna"
     },
     {
       "surface": "יואב",
@@ -66,23 +66,23 @@
     },
     {
       "surface": "והשלשת",
-      "gloss": "jeung-sapertilu"
+      "gloss": "sarta sapertilu"
     },
     {
       "surface": "ביד",
-      "gloss": "ku-leungeun"
+      "gloss": "ku leungeun"
     },
     {
       "surface": "אתי",
-      "gloss": "Itai"
+      "gloss": "Itay"
     },
     {
       "surface": "הגתי",
-      "gloss": "sang-Git"
+      "gloss": "urang Gat"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ngomong"
+      "gloss": "sarta ngomong"
     },
     {
       "surface": "המלך",
@@ -94,15 +94,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "bala"
+      "gloss": "urang"
     },
     {
       "surface": "יצא",
-      "gloss": "hayu-balik"
+      "gloss": "kaluar"
     },
     {
       "surface": "אצא",
-      "gloss": "bakal-kaluar"
+      "gloss": "abdi rék kaluar"
     },
     {
       "surface": "גם",
@@ -114,9 +114,9 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "sareng-anjeun"
+      "gloss": "jeung anjeun"
     }
   ],
-  "timestamp": "2026-08-26T12:33:34.265004530Z",
+  "timestamp": "2026-08-26T18:18:34.773577563Z",
   "model": "glm-5.3"
 }

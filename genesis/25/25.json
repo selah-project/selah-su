@@ -5,8 +5,45 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 25,
-  "translation": "Tuluy kaluar nu munggaran ⟨⟨את⟩ ngaranna⟩ Ésav. — ",
-  "tokens": [],
-  "timestamp": "2026-08-26T10:44:25.579141843Z",
+  "translation": "Jeung kaluara ⟨é⟩ nu munggaran, beureum-tueung, sabagéanana awakna kawas jubah bulu; lajeng maranehna ngagero ngaranna Esav.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "jeung-kaluara"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nu-munggaran"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "beureum-tueung"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sabagéanana-awakna"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "kawas-jubah"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "lajeng-maranehna-ngagero"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ngaranna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-26T18:00:39.835130075Z",
   "model": "glm-5.3"
 }

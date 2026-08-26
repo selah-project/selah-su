@@ -5,8 +5,38 @@
   "book": "proverbs",
   "lang": "su",
   "chapter": 11,
-  "translation": "Datang kasombongan, tuluy datang kamarempak; jeung ⟨jeung⟩ ⟨את⟩ nu和学习 no —",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:57:45.615626374Z",
+  "translation": "Datang kana kokoa, tuluy datang kana kahinaan; tapi ⟨jeung⟩ ⟨את⟩ nu soméah aya wijaksana.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "kokoa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tuluy datang"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kahinaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nu soméah"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "nu soméah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijaksana"
+    }
+  ],
+  "timestamp": "2026-08-26T19:06:07.581811864Z",
   "model": "glm-5.3"
 }

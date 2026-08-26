@@ -5,8 +5,75 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 34,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-26T11:52:48.163650856Z",
+  "translation": "Lajeunna Anjeun nyiriankeun ⟨את⟩ manéh dina léngkob di taneuh Moab, nyanghareupan Beit Peor, jeung euweuh jalma nu nyaho ⟨את⟩ kuburanna nepi ka poé ieu kénéh.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "nyiriankeun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "manéh"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "dina léngkob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di taneuh"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מול",
+      "gloss": "nyanghareupan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jeung teu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nyaho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuburanna"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "kuburanna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nepi ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "poé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu kénéh"
+    }
+  ],
+  "timestamp": "2026-08-26T18:13:21.778889163Z",
   "model": "glm-5.3"
 }

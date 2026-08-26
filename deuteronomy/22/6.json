@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 22,
-  "translation": "Mun patepung sarang manuk di payuneun anjeun di jalan, dina sagala tangkal atawa dina ⟨the⟩ taneuh, anak-anak manuk atawa endog, jeung indungna keur diuk di luhureun anak-anak manuk atawa di luhureun endog-endog, ulah nyandak ⟨the⟩ indungna babarengan jeung anak-anakna.",
+  "translation": "Lamun manjang manuk kapanggih di payuneun anjeun di jalan, dina sagala kai atawa dina taneuh, anak-abon atawa endog, jeung indungna ngariung dina ⟨את⟩ anak-abon atawa dina ⟨את⟩ endog, ulah nyandak ⟨את⟩ indungna jeung ⟨את⟩ anak-anakna.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "mun"
+      "gloss": "lamun"
     },
     {
       "surface": "יקרא",
-      "gloss": "patepung"
+      "gloss": "kapanggih"
     },
     {
       "surface": "קן",
-      "gloss": "sarang"
+      "gloss": "manjang"
     },
     {
       "surface": "צפור",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עץ",
-      "gloss": "tangkal"
+      "gloss": "kai"
     },
     {
       "surface": "או",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אפרחים",
-      "gloss": "anak-anak manuk"
+      "gloss": "anak-abon"
     },
     {
       "surface": "או",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "רבצת",
-      "gloss": "keur diuk ngabinih"
+      "gloss": "ngariung"
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "dina"
     },
     {
       "surface": "האפרחים",
-      "gloss": "anak-anak manuk"
+      "gloss": "anak-abon"
     },
     {
       "surface": "או",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "על",
-      "gloss": "di luhureun"
+      "gloss": "dina"
     },
     {
       "surface": "הביצים",
-      "gloss": "endog-endog"
+      "gloss": "endog"
     },
     {
       "surface": "לא",
@@ -105,13 +105,13 @@
     },
     {
       "surface": "על",
-      "gloss": "babarengan jeung"
+      "gloss": "jeung"
     },
     {
       "surface": "הבנים",
       "gloss": "anak-anakna"
     }
   ],
-  "timestamp": "2026-08-26T11:47:55.672604295Z",
+  "timestamp": "2026-08-26T18:11:58.255956574Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 7,
-  "translation": "Jeung sadaya sapi kurban ⟨the⟩ kurban slamet dua puluh jeung opat lembu, domba jalu genep puluh, kambing jalu genep puluh, anak domba umur sataun genep puluh; ieu panganteuran ⟨the⟩ mézbéah sanggeus dioléyan ⟨את⟩ manehna.",
+  "translation": "Jeung sakabéh sapi kurban syelamim: dua puluh opat banteng, domba jalu genep puluh, embé jalu genep puluh, anak domba umur sataun genep puluh; ieu tatapas meunah-meahan altar sanggeus diolésan ⟨את⟩ manehna.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "jeung sadaya"
+      "gloss": "jeung sakabéh"
     },
     {
       "surface": "בקר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "⟨the⟩ kurban slamet"
+      "gloss": "syelamim"
     },
     {
       "surface": "עשרים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פרים",
-      "gloss": "lembu"
+      "gloss": "banteng-banteng"
     },
     {
       "surface": "אילם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "עתדים",
-      "gloss": "kambing jalu"
+      "gloss": "embé jalu"
     },
     {
       "surface": "ששים",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "חנכת",
-      "gloss": "panganteuran"
+      "gloss": "tatapas"
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ mézbéah"
+      "gloss": "altar"
     },
     {
       "surface": "אחרי",
@@ -85,14 +85,14 @@
     },
     {
       "surface": "המשח",
-      "gloss": "dioléyan"
+      "gloss": "diolésan"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "manehna (mézbéah)"
+      "marks": "manehna (altar)"
     }
   ],
-  "timestamp": "2026-08-26T11:28:02.321379779Z",
+  "timestamp": "2026-08-26T18:09:05.333094025Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 1,
-  "translation": "Eliyahu ngajawab jeung nyarita ka saré ⟨the⟩ lima puluh: Lamun kuring Lalaki Elohim, hayu seuneu turun ti langit jeung ngahakan ⟨את⟩ anjeun jeung ⟨את⟩ lima puluh anjeun; sarta turun seuneu ti langit sarta ngahakan ⟨את⟩ anjeunna jeung ⟨את⟩ lima puluhna.",
+  "translation": "Eliyahu ngajawab teras nyarita ka panglima lima puluh: Lamun kuring saurang jalma Elohim, turun seuneu ti langit sarta ngahakan ⟨את⟩ anjeun jeung ⟨את⟩ lima puluh anjeun; teras turun seuneu ti langit sarta ngahakan ⟨את⟩ anjeunna jeung ⟨את⟩ lima puluhna.",
   "tokens": [
     {
       "surface": "ויענה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "nyarita"
+      "gloss": "teras nyarita"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שר",
-      "gloss": "saré"
+      "gloss": "panglima"
     },
     {
       "surface": "החמשים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ואם",
-      "gloss": "jeung lamun"
+      "gloss": "lamun"
     },
     {
       "surface": "איש",
-      "gloss": "Lalaki"
+      "gloss": "jalma"
     },
     {
       "surface": "אלהים",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "jeung ngahakan"
+      "gloss": "sarta ngahakan"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ anjeun",
       "marks": "anjeun"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ותרד",
-      "gloss": "sarta turun"
+      "gloss": "teras turun"
     },
     {
       "surface": "אש",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ anjeunna",
       "marks": "anjeunna"
     },
     {
@@ -116,6 +116,6 @@
       "gloss": "lima puluhna"
     }
   ],
-  "timestamp": "2026-08-26T12:49:32.162716619Z",
+  "timestamp": "2026-08-26T18:20:55.334040444Z",
   "model": "glm-5.3"
 }

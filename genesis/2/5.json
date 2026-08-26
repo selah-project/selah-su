@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 2,
-  "translation": "Jeung sagala rungkun leuweung ⟨the⟩ padang can aya di bumi, jeung sagala jukut padang can sirungan, sabab can ngijinkeun Yahwe Elohim hujan ka luhur bumi, jeung can aya jalma pikeun ngokolakeun ⟨את⟩ taneuh.",
+  "translation": "Jeung sagala rungkun siapeulukan ⟨amping⟩ can aya di bumi, jeung sagala jukut ⟨amping⟩ can tunas, sabab Yahwe Elohim can ngieul hujan ka ⟨bumi⟩, jeung manusa can aya pikeun ngokolakeun ⟨את⟩ taneuh.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שיח",
-      "gloss": "rungkun leuweung"
+      "gloss": "rungkun siapeulukan"
     },
     {
       "surface": "השדה",
-      "gloss": "⟨the⟩ padang"
+      "gloss": "amping"
     },
     {
       "surface": "טרם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "השדה",
-      "gloss": "padang"
+      "gloss": "amping"
     },
     {
       "surface": "טרם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יצמח",
-      "gloss": "sirungan"
+      "gloss": "tunas"
     },
     {
       "surface": "כי",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "can"
+      "gloss": "henteu"
     },
     {
       "surface": "המטיר",
-      "gloss": "ngijinkeun hujan"
+      "gloss": "ngieul hujan"
     },
     {
       "surface": "יהוה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ka luhur"
+      "gloss": "ka"
     },
     {
       "surface": "הארץ",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "ואדם",
-      "gloss": "jeung jalma"
+      "gloss": "jeung manusa"
     },
     {
       "surface": "אין",
@@ -101,6 +101,6 @@
       "gloss": "taneuh"
     }
   ],
-  "timestamp": "2026-08-26T10:36:23.748246253Z",
+  "timestamp": "2026-08-26T17:59:41.496457393Z",
   "model": "glm-5.3"
 }

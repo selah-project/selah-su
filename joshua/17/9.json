@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 17,
-  "translation": "Jeung watesna turun ka walungan Kanah, kidul walunganana — kota-kota ieu ka Efrayim, di tengah-tengah kota-kota Menashé; jeung wates Menashé béh kalér ti walunganana, jeung kaluarna ⟨⟨ka⟩> laut.",
+  "translation": "Jeung watesna turun ka walungan Kanah, beulah kidul walunganana: kota-kota ⟨ieu⟩ ka Efrayim, di tengah kota-kota Menashshe; jeung wates Menashshe beulah kalér ti walunganana, sarta jadi kaluarna ka laut.",
   "tokens": [
     {
       "surface": "וירד",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "נגבה",
-      "gloss": "kidul"
+      "gloss": "beulah kidul"
     },
     {
       "surface": "לנחל",
-      "gloss": "ti walungan"
+      "gloss": "walunganana"
     },
     {
       "surface": "ערים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": "ieu"
+      "gloss": "⟨ieu⟩"
     },
     {
       "surface": "לאפרים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "di tengah-tengah"
+      "gloss": "di tengah"
     },
     {
       "surface": "ערי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashé"
+      "gloss": "Menashshe"
     },
     {
       "surface": "וגבול",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashé"
+      "gloss": "Menashshe"
     },
     {
       "surface": "מצפון",
-      "gloss": "béh kalér"
+      "gloss": "beulah kalér"
     },
     {
       "surface": "לנחל",
-      "gloss": "ti walungan"
+      "gloss": "ti walunganana"
     },
     {
       "surface": "ויהי",
-      "gloss": "jeung jadi"
+      "gloss": "jadi"
     },
     {
       "surface": "תצאתיו",
@@ -84,6 +84,6 @@
       "gloss": "ka laut"
     }
   ],
-  "timestamp": "2026-08-26T11:59:07.909018254Z",
+  "timestamp": "2026-08-26T18:14:11.847016642Z",
   "model": "glm-5.3"
 }

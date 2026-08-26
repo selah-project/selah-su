@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "su",
   "chapter": 9,
-  "translation": "Jeung di Susyan ⟨the⟩ bénténg, urang Yehuda maéhan jeung ngancurkeun lima ratus urang.",
+  "translation": "Jeung di Shushan ⟨eusi> kota bénténg, urang Yahudi maéhan jeung ngancurkeun lima ratus jalma.",
   "tokens": [
     {
       "surface": "ובשושן",
-      "gloss": "jeung di Susyan"
+      "gloss": "Jeung di Shushan"
     },
     {
       "surface": "הבירה",
-      "gloss": "bénténg"
+      "gloss": "kota bénténg"
     },
     {
       "surface": "הרגו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "היהודים",
-      "gloss": "urang Yehuda"
+      "gloss": "urang Yahudi"
     },
     {
       "surface": "ואבד",
-      "gloss": "ngancurkeun"
+      "gloss": "jeung ngancurkeun"
     },
     {
       "surface": "חמש",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "איש",
-      "gloss": "urang"
+      "gloss": "jalma"
     }
   ],
-  "timestamp": "2026-08-26T17:20:54.759252451Z",
+  "timestamp": "2026-08-26T19:06:26.633136365Z",
   "model": "glm-5.3"
 }

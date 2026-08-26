@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 34,
-  "translation": "Jeung Moshe maréntahkeun ka ⟨את⟩ anak-anak Israél, sing nyarita: Ieu ⟨the⟩ tanah nu baris diwariskeun ku aranjeun ku undian, nu diparéntahkeun ku Yahwe dibikeun ka salapan suku jeung satengah ⟨the⟩ suku.",
+  "translation": "Jeung Moshe maréntahkeun ⟨את⟩ anak-anak Israél, cenah: Ieu ⟨tanah⟩ nu aranjeun warisanan ⟨את⟩-na ku cara undian, nu Yahwe maréntahkeun dibikeun ka salapan matan jeung satengah matan.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sing nyarita"
+      "gloss": "cenah"
     },
     {
       "surface": "זאת",
-      "gloss": "ieu"
+      "gloss": "Ieu"
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
+      "gloss": "⟨tanah⟩"
     },
     {
       "surface": "אשר",
@@ -46,16 +46,16 @@
     },
     {
       "surface": "תתנחלו",
-      "gloss": "baris diwariskeun ku aranjeun"
+      "gloss": "warisanan"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "undian"
+      "marks": "ku cara undian"
     },
     {
       "surface": "בגורל",
-      "gloss": "ku undian"
+      "gloss": "ku cara undian"
     },
     {
       "surface": "אשר",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "diparéntahkeun"
+      "gloss": "maréntahkeun"
     },
     {
       "surface": "יהוה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "המטות",
-      "gloss": "suku-suku"
+      "gloss": "matan"
     },
     {
       "surface": "וחצי",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "המטה",
-      "gloss": "suku"
+      "gloss": "matan"
     }
   ],
-  "timestamp": "2026-08-26T11:37:19.963520156Z",
+  "timestamp": "2026-08-26T19:01:52.257065960Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "su",
   "chapter": 7,
-  "translation": "Teras raja Akhashverosh nyarita, anjeunna nyarita ka Ester ⟨ratu⟩: Saha ⟨ieu⟩, jeung di mana ⟨ieu⟩ — anjeunna nu haténa ngeusi manéh pikeun ngalakukeun kitu?",
+  "translation": "Teras raja Axashverosh nyarita, anjeunna nyarita ka Ester ⟨si⟩ ratu: Saha jalma ieu, jeung di mana jalma ieu, anu haténa geus ngeusianana pikeun ngalakukeun kitu?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחשורוש",
-      "gloss": "Akhashverosh"
+      "gloss": "Axashverosh"
     },
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "המלכה",
-      "gloss": "⟨ratu⟩"
+      "gloss": "ratu"
     },
     {
       "surface": "מי",
@@ -37,19 +37,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "anjeunna"
+      "gloss": "jalma"
     },
     {
       "surface": "זה",
       "gloss": "ieu"
     },
     {
-      "surface": "ו",
-      "gloss": "jeung"
-    },
-    {
-      "surface": "אי",
-      "gloss": "di mana"
+      "surface": "ואי",
+      "gloss": "jeung di mana"
     },
     {
       "surface": "זה",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "anjeunna"
+      "gloss": "jalma"
     },
     {
       "surface": "אשר",
@@ -65,7 +61,7 @@
     },
     {
       "surface": "מלאו",
-      "gloss": "ngeusi"
+      "gloss": "geus ngeusianana"
     },
     {
       "surface": "לבו",
@@ -80,6 +76,6 @@
       "gloss": "kitu"
     }
   ],
-  "timestamp": "2026-08-26T17:20:45.159125937Z",
+  "timestamp": "2026-08-26T18:35:17.216492346Z",
   "model": "glm-5.3"
 }

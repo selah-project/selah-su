@@ -5,8 +5,42 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 43,
-  "translation": "Tapi lain ⟨את⟩ Kuring anu manjing dibéré sakabéh ibadahna.",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:13:34.946780393Z",
+  "translation": "Tapi lain kuring anjeun sero, Yaakov, sabab anjeun geus capé ku kuring, Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapi lain"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kuring",
+      "marks": "kuring (objek langsung kaonjo ku -i)"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "anjeun sero"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "anjeun geus capé"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ku kuring"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T18:24:05.558479020Z",
   "model": "glm-5.3"
 }

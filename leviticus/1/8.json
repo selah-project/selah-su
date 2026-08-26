@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 1,
-  "translation": "Sarta putra-putra Aharon, para imam, nunda ngaruntuy ⟨את⟩ potongan-potongan, ⟨את⟩ sirah jeung ⟨את⟩ gajih, di luhureun ⟨the⟩ kai nu aya di luhureun ⟨the⟩ seuneu nu aya di luhureun ⟨the⟩ mézbah.",
+  "translation": "Jeung putra-putra Aharon, para imam, bakal mararéntahkeun ⟨את⟩ engke-engke daging, ⟨את⟩ hulu, jeung ⟨את⟩ gajih, di luhureun kai-kai nu aya di luhureun seuneu nu aya di luhureun altar.",
   "tokens": [
     {
       "surface": "וערכו",
-      "gloss": "sarta nunda ngaruntuy"
+      "gloss": "jeung bakal mararéntahkeun"
     },
     {
       "surface": "בני",
@@ -26,20 +26,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "potongan-potongan"
+      "marks": "engke-engke daging"
     },
     {
       "surface": "הנתחים",
-      "gloss": "potongan-potongan"
+      "gloss": "engke-engke daging"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sirah"
+      "marks": "hulu"
     },
     {
       "surface": "הראש",
-      "gloss": "sirah"
+      "gloss": "hulu"
     },
     {
       "surface": "ואת",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "העצים",
-      "gloss": "kai"
+      "gloss": "kai-kai"
     },
     {
       "surface": "אשר",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "mézbah"
+      "gloss": "altar"
     }
   ],
-  "timestamp": "2026-08-26T11:11:52.465705209Z",
+  "timestamp": "2026-08-26T18:06:32.051385328Z",
   "model": "glm-5.3"
 }

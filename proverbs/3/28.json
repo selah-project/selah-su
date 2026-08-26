@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "su",
   "chapter": 3,
-  "translation": "Ulah nyarita ka babaturan anjeun: «Piang jeung balik deui, isuk abdi badérémbongan méré», padahal aya ⟨את⟩ ⟨זֶה⟩ di gigireun anjeun.",
+  "translation": "Ulah nyarita ka babaturan anjeun: \"Chaina, balik deui, jeung isukan abdi méré\" — padahal ⟨ieu⟩ aya ⟨את⟩ jeung anjeun.",
   "tokens": [
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "piang"
+      "gloss": "chaina"
     },
     {
       "surface": "ושוב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומחר",
-      "gloss": "jeung isuk"
+      "gloss": "jeung isukan"
     },
     {
       "surface": "אתן",
@@ -37,13 +37,14 @@
     },
     {
       "surface": "ויש",
-      "gloss": "padahal aya"
+      "gloss": "jeung aya"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨זֶה⟩ di gigireun anjeun"
+      "gloss": "⟨את⟩ jeung anjeun",
+      "marks": "jeung anjeun"
     }
   ],
-  "timestamp": "2026-08-26T14:54:28.645633789Z",
+  "timestamp": "2026-08-26T18:32:55.823155700Z",
   "model": "glm-5.3"
 }

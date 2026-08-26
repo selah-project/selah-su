@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 7,
-  "translation": "Manéhna ngawangun ⟨את⟩ bumi leuweung Levanon: saratus hasta panjangna, lima puluh hasta lébarna, tilu puluh hasta jangkungna, di luhureun opat barisan pilar sédar, sarta balok-balok sédar di luhur ⟨the⟩ pilar-pilar éta.",
+  "translation": "Manehna ngawangun ⟨את⟩ imah leuweung Libanon: saratus hasta panjangna, lima puluh hasta lébarna, tilu puluh hasta jangkungna, di luhureun opat barisan pilar-pilar kai arar, sarta balok-balok arar di luhureun ⟨sangkan⟩ pilar-pilar.",
   "tokens": [
     {
       "surface": "ויבן",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bumi leuweung Levanon"
+      "marks": "imah leuweung Libanon"
     },
     {
       "surface": "בית",
-      "gloss": "bumi"
+      "gloss": "imah"
     },
     {
       "surface": "יער",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הלבנון",
-      "gloss": "Levanon"
+      "gloss": "Libanon"
     },
     {
       "surface": "מאה",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "עמודי",
-      "gloss": "pilar"
+      "gloss": "pilar-pilar"
     },
     {
       "surface": "ארזים",
-      "gloss": "sédar"
+      "gloss": "kai arar"
     },
     {
       "surface": "וכרתות",
@@ -90,17 +90,17 @@
     },
     {
       "surface": "ארזים",
-      "gloss": "sédar"
+      "gloss": "arar"
     },
     {
       "surface": "על",
-      "gloss": "di luhur"
+      "gloss": "di luhureun"
     },
     {
       "surface": "העמודים",
       "gloss": "pilar-pilar"
     }
   ],
-  "timestamp": "2026-08-26T12:39:08.952542084Z",
+  "timestamp": "2026-08-26T19:03:15.879428575Z",
   "model": "glm-5.3"
 }

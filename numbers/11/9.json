@@ -5,27 +5,27 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 11,
-  "translation": "Jeung nalika cisek turun ka ⟨the⟩ kamp bengi, manna ogé turun ka luhureunana.",
+  "translation": "Jeung nalika ⟨the⟩ embun turun ka ⟨the⟩ kemah dina waktu peuting, ⟨the⟩ manna turun ka luhurna.",
   "tokens": [
     {
       "surface": "וברדת",
-      "gloss": "jeung nalika turun"
+      "gloss": "Jeung nalika turun"
     },
     {
       "surface": "הטל",
-      "gloss": "cisek"
+      "gloss": "embun"
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "ka luhur"
     },
     {
       "surface": "המחנה",
-      "gloss": "kamp"
+      "gloss": "kemah"
     },
     {
       "surface": "לילה",
-      "gloss": "bengi"
+      "gloss": "waktu peuting"
     },
     {
       "surface": "ירד",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "עליו",
-      "gloss": "ka luhureunana"
+      "gloss": "ka luhurna"
     }
   ],
-  "timestamp": "2026-08-26T11:28:31.896072748Z",
+  "timestamp": "2026-08-26T19:01:40.319972150Z",
   "model": "glm-5.3"
 }

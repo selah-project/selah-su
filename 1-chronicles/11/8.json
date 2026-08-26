@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 11,
-  "translation": "Jeung anjeunna ngawangun ⟨the⟩ kota sabudeureunana, ti Millo nepi ka sabudeureun; jeung Yoab ngahirupkeun ⟨את⟩ sésa ⟨the⟩ kota.",
+  "translation": "Teras aréhna ngawangun ⟨את⟩ kota sabudeureunana, ti Milo nepi ka sabudeureunana; sarta Yoab ngahirupkeun deui ⟨את⟩ sésa kota éta.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "jeung anjeunna ngawangun"
+      "gloss": "Teras ngawangun"
     },
     {
       "surface": "העיר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המלוא",
-      "gloss": "Millo"
+      "gloss": "Milo"
     },
     {
       "surface": "ועד",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "הסביב",
-      "gloss": "sabudeureun"
+      "gloss": "sabudeureunana"
     },
     {
       "surface": "ויואב",
-      "gloss": "jeung Yoab"
+      "gloss": "sarta Yoab"
     },
     {
       "surface": "יחיה",
-      "gloss": "ngahirupkeun"
+      "gloss": "ngahirupkeun deui"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sésa kota"
+      "marks": "sésa kota éta"
     },
     {
       "surface": "שאר",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "העיר",
-      "gloss": "kota"
+      "gloss": "kota éta"
     }
   ],
-  "timestamp": "2026-08-26T16:09:27.646525341Z",
+  "timestamp": "2026-08-26T18:37:04.751085916Z",
   "model": "glm-5.3"
 }

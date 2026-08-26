@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 27,
-  "translation": "Ka Babilon aranjeunna dibawa, jeung di dinya aranjeunna ⟨bakal>> aya nepi ka poé anjeun ngadatanganana — tina sapamadegan Yahwe; mangka abdi ⟨bakal>> mawa deui jeung mulangkeunana ka tempat ieu.'",
+  "translation": "ka Babilon ⟨dé⟩ dibawa, jeung di dinya bakal aya, nepi ka poé nalika abdi ngariksa ⟨את⟩ maranéhanana — daftar Yahwe — lajeng abdi mawa deui jeung mulangkeun deui maranéhanana ka tempat ieu.",
   "tokens": [
     {
       "surface": "בבלה",
-      "gloss": "Ka Babilon"
+      "gloss": "ka Babilon"
     },
     {
       "surface": "יובאו",
-      "gloss": "aranjeunna dibawa"
+      "gloss": "dibawa"
     },
     {
       "surface": "ושמה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "aranjeunna bakal aya"
+      "gloss": "bakal aya"
     },
     {
       "surface": "עד",
@@ -33,15 +33,16 @@
     },
     {
       "surface": "פקדי",
-      "gloss": "anjeun ngadatanganana"
+      "gloss": "nalika abdi ngariksa"
     },
     {
       "surface": "אתם",
-      "gloss": "arjeunna (tanda ⟨את⟩ objék)"
+      "gloss": "⟨את⟩",
+      "marks": "maranéhanana"
     },
     {
       "surface": "נאם",
-      "gloss": "tina sapamadegan"
+      "gloss": "daftar"
     },
     {
       "surface": "יהוה",
@@ -49,11 +50,11 @@
     },
     {
       "surface": "והעליתים",
-      "gloss": "mangka abdi mawa deui"
+      "gloss": "lajeng abdi mawa deui"
     },
     {
       "surface": "והשיבתים",
-      "gloss": "jeung mulangkeunana"
+      "gloss": "jeung mulangkeun deui"
     },
     {
       "surface": "אל",
@@ -61,13 +62,13 @@
     },
     {
       "surface": "המקום",
-      "gloss": "⟨the⟩ tempat"
+      "gloss": "tempat"
     },
     {
       "surface": "הזה",
       "gloss": "ieu"
     }
   ],
-  "timestamp": "2026-08-26T13:32:12.751719670Z",
+  "timestamp": "2026-08-26T19:04:44.829839326Z",
   "model": "glm-5.3"
 }

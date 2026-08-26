@@ -5,12 +5,12 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 4,
-  "translation": "Jeung ⟨את⟩ layar-layar palataran, jeung ⟨את⟩ tabir panto gerbang palataran nu ka purah ⟨the⟩ kemah sucian jeung ka purah ⟨the⟩ mezbah sabudeureunana, jeung ⟨את⟩ tali-taliana, jeung ⟨את⟩ sadaya parabot pancén maranehna, jeung ⟨את⟩ sadaya nu baris dipigawé ku maranehna; jeung aranjeunna baris ngalayanan.",
+  "translation": "Jeung ⟨את⟩ layar-layar buruan, jeung ⟨את⟩ tabir panto gerbang buruan nu di sakuriling kangkung jeung di sakuriling mézbax, jeung ⟨את⟩ tali-talina, jeung ⟨את⟩ sakabéh parabot pangaweranna, jeung ⟨את⟩ sakabéh nu bakal dipigawé ka aranjeunna — jeung aranjeunna ngawula.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "layar-layar palataran"
+      "marks": "layar-layar buruan"
     },
     {
       "surface": "קלעי",
@@ -18,12 +18,12 @@
     },
     {
       "surface": "החצר",
-      "gloss": "palataran"
+      "gloss": "buruan"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "tabir"
+      "marks": "tabir panto gerbang buruan"
     },
     {
       "surface": "מסך",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "palataran"
+      "gloss": "buruan"
     },
     {
       "surface": "אשר",
@@ -47,41 +47,41 @@
     },
     {
       "surface": "על",
-      "gloss": "ka purah"
+      "gloss": "di"
     },
     {
       "surface": "המשכן",
-      "gloss": "kemah sucian"
+      "gloss": "kangkung"
     },
     {
       "surface": "ועל",
-      "gloss": "jeung ka purah"
+      "gloss": "jeung di"
     },
     {
       "surface": "המזבח",
-      "gloss": "mezbah"
+      "gloss": "mézbax"
     },
     {
       "surface": "סביב",
-      "gloss": "sabudeureunana"
+      "gloss": "sakuriling"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "tali-taliana"
+      "marks": "tali-talina"
     },
     {
       "surface": "מיתריהם",
-      "gloss": "tali-taliana"
+      "gloss": "tali-talina"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "sadaya parabot"
+      "marks": "sakabéh parabot pangaweranna"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sakabéh"
     },
     {
       "surface": "כלי",
@@ -89,16 +89,16 @@
     },
     {
       "surface": "עבדתם",
-      "gloss": "pancén maranehna"
+      "gloss": "pangaweranna"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "sadaya nu baris dipigawé"
+      "marks": "sakabéh nu bakal dipigawé ka aranjeunna"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sakabéh"
     },
     {
       "surface": "אשר",
@@ -106,17 +106,17 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "baris dipigawé"
+      "gloss": "bakal dipigawé"
     },
     {
       "surface": "להם",
-      "gloss": "ku maranehna"
+      "gloss": "ka aranjeunna"
     },
     {
       "surface": "ועבדו",
-      "gloss": "jeung aranjeunna baris ngalayanan"
+      "gloss": "jeung aranjeunna ngawula"
     }
   ],
-  "timestamp": "2026-08-26T11:25:16.797280076Z",
+  "timestamp": "2026-08-26T18:08:34.925124496Z",
   "model": "glm-5.3"
 }

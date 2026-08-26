@@ -5,8 +5,61 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 32,
-  "translation": "Ti luar pedang bakal ngaleungitkeun anak, jeung ti jero kambar-kambar ka驱逐… ti jero kambar-kambar eungeuing; ogé rumaja, ogé virgin, orok nu nyusu babarengan jeung lalaki hawar.",
-  "tokens": [],
-  "timestamp": "2026-08-26T11:52:33.356679756Z",
+  "translation": "Di luar pedang bakal ngaleungitkeun (kanyaah), jeung di jero rohoh kageteran; ogé ngora lalaki ogé ngora awéwé, orok nu nyusu babarengan jeung lalaki sepuh.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "bakal ngaleungitkeun (kanyaah)"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "jeung di jero rohoh"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "kageteran"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "nūra lalaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ogé"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "nūra awéwé"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "orok nu nyusu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "babarengan jeung"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "sepuh"
+    }
+  ],
+  "timestamp": "2026-08-26T18:13:34.501470055Z",
   "model": "glm-5.3"
 }

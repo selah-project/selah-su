@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 34,
-  "translation": "Jelema-jelema ieu daméy ⟨את⟩ jeung urang, mangka hayu aranjeunna cicing di ieu tanah sarta niaga di jerona, sabab ⟨⟨tanah⟩> ieu, atoh, lega pisan leungeunana di payuneun aranjeunna; ⟨את⟩ putri-putri maranehna urang pilih pikeun urang jadi pamajikan, jeung ⟨את⟩ putri-putri urang urang bere ka maranehna.",
+  "translation": "Jelema-jelema ⟨the⟩ ieu damai aranjeunna ⟨את⟩-urang, mento cicing di tanah jeung dagang ⟨את⟩-dinya; jeung tanah — tempo! — lega leungeun saméméh aranjeunna; ⟨את⟩ putri-putri maranehna urang candur pikeun urang sorangan jadi pamajikan, jeung ⟨את⟩ putri-putri urang urang méré ka maranehna.",
   "tokens": [
     {
       "surface": "האנשים",
@@ -17,40 +17,41 @@
     },
     {
       "surface": "שלמים",
-      "gloss": "daméy"
+      "gloss": "damai"
     },
     {
       "surface": "הם",
-      "gloss": "arajeunna"
+      "gloss": "aranjeunna"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ jeung urang"
+      "gloss": "⟨את⟩-urang",
+      "marks": "urang"
     },
     {
       "surface": "וישבו",
-      "gloss": "mangka hayu aranjeunna cicing"
+      "gloss": "mento cicing"
     },
     {
       "surface": "בארץ",
-      "gloss": "di ieu tanah"
+      "gloss": "di tanah"
     },
     {
       "surface": "ויסחרו",
-      "gloss": "sarta niaga"
+      "gloss": "jeung dagang"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "di jerona (tanah)"
+      "marks": "dinya"
     },
     {
       "surface": "והארץ",
-      "gloss": "sabab tanah"
+      "gloss": "jeung tanah"
     },
     {
       "surface": "הנה",
-      "gloss": "atoh"
+      "gloss": "tempo!"
     },
     {
       "surface": "רחבת",
@@ -62,7 +63,7 @@
     },
     {
       "surface": "לפניהם",
-      "gloss": "di payuneun aranjeunna"
+      "gloss": "saméméh aranjeunna"
     },
     {
       "surface": "את",
@@ -75,11 +76,11 @@
     },
     {
       "surface": "נקח",
-      "gloss": "urang pilih"
+      "gloss": "urang candur"
     },
     {
       "surface": "לנו",
-      "gloss": "pikeun urang"
+      "gloss": "pikeun urang sorangan"
     },
     {
       "surface": "לנשים",
@@ -96,13 +97,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "urang bere"
+      "gloss": "urang méré"
     },
     {
       "surface": "להם",
       "gloss": "ka maranehna"
     }
   ],
-  "timestamp": "2026-08-26T10:48:29.766608472Z",
+  "timestamp": "2026-08-26T19:00:02.802074400Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 13,
-  "translation": "Lah, lalaki-lalaki nu ngaliwat, sarta maranéhna nempo ⟨את⟩ ⟨the⟩ bangké kalunggaran di jalan, jeung ⟨את⟩ singa ngadeg deukeut bangké; maranéhna datang sarta nyaritakeunana di kota anu didinya nabi kolot éta cicing.",
+  "translation": "Tingali, aya jalma nu ngaliwat sarta nempo ⟨את⟩ bangké nu ngampar dina jalan, jeung ⟨את⟩ singa nu nangtung gigireun bangké; maranéhna datang sarta nyaritakeun eta di kota tempat nabī nu kolot cicing di dinya.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Lah"
+      "gloss": "Tingali"
     },
     {
       "surface": "אנשים",
-      "gloss": "lalaki-lalaki"
+      "gloss": "jalma"
     },
     {
       "surface": "עברים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויראו",
-      "gloss": "maranéhna nempo"
+      "gloss": "sarta nempo"
     },
     {
       "surface": "את",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "משלכת",
-      "gloss": "kalunggaran"
+      "gloss": "nu ngampar"
     },
     {
       "surface": "בדרך",
-      "gloss": "di jalan"
+      "gloss": "dina jalan"
     },
     {
       "surface": "ואת",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "עמד",
-      "gloss": "ngadeg"
+      "gloss": "nangtung"
     },
     {
       "surface": "אצל",
-      "gloss": "deukeut"
+      "gloss": "gigireun"
     },
     {
       "surface": "הנבלה",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "וידברו",
-      "gloss": "maranéhna nyaritakeunana"
+      "gloss": "sarta nyaritakeun"
     },
     {
       "surface": "בעיר",
@@ -75,18 +75,18 @@
     },
     {
       "surface": "אשר",
-      "gloss": "anu"
+      "gloss": "tempat"
     },
     {
       "surface": "הנביא",
-      "gloss": "nabi"
+      "gloss": "nabī"
     },
     {
       "surface": "הזקן",
-      "gloss": "kolot"
+      "gloss": "nu kolot"
     },
     {
-      "surface": "ישב",
+      "surface": "יושב",
       "gloss": "cicing"
     },
     {
@@ -94,6 +94,6 @@
       "gloss": "di dinya"
     }
   ],
-  "timestamp": "2026-08-26T12:43:36.082510566Z",
+  "timestamp": "2026-08-26T18:19:02.308475858Z",
   "model": "glm-5.3"
 }

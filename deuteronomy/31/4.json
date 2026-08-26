@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 31,
-  "translation": "Sarta Yahwe baris ngalakukeun ka maranehna sakumaha anu geus dipigawé ka Sihon sarta ka Og, raja-raja Émori, sarta ka nagarana, anu geus diancurkeunana ⟨את⟩ ⟨אתם⟩.",
+  "translation": "Jeung Yahwe bakal migawé ka maranehna sapertos anu dipigawé-Na ka Sihon jeung ka Og, raja-raja Émori, jeung ka tanah maranehna, anu diancurkeun-Na ⟨את⟩ maranehna.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "sarta baris ngalakukeun"
+      "gloss": "jeung bakal migawé"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "sakumaha"
+      "gloss": "sapertos"
     },
     {
       "surface": "עשה",
-      "gloss": "geus dipigawé"
+      "gloss": "dipigawé-Na"
     },
     {
       "surface": "לסיחון",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ולעוג",
-      "gloss": "sarta ka Og"
+      "gloss": "jeung ka Og"
     },
     {
       "surface": "מלכי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ולארצם",
-      "gloss": "sarta ka nagarana"
+      "gloss": "jeung ka tanah maranehna"
     },
     {
       "surface": "אשר",
@@ -53,14 +53,14 @@
     },
     {
       "surface": "השמיד",
-      "gloss": "geus diancurkeunana"
+      "gloss": "diancurkeun-Na"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "Sihon sarta Og"
+      "gloss": "⟨את⟩",
+      "marks": "maranehna"
     }
   ],
-  "timestamp": "2026-08-26T17:58:38.108972070Z",
+  "timestamp": "2026-08-26T18:12:38.266274134Z",
   "model": "glm-5.3"
 }

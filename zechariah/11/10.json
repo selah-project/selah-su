@@ -5,20 +5,20 @@
   "book": "zechariah",
   "lang": "su",
   "chapter": 11,
-  "translation": "Turis kuring nyandak ⟨את〕 tonggét kuring, ⟨את⟩ Nu Merenah, tur kuring megatkeun ⟩אתו⟩ pikeun ngabatalkeun ⟨את⟩ perjangjian kuring nu geus kuring potong kalawan ⟨את⟩ sagala bangsa-bangsa.",
+  "translation": "Terus kuring ngala ⟨את⟩ tungtungkat kuring, ⟨את⟩ Nu Merenah, sarta kuring motong ⟨את⟩-na, pikeun ngabatalkeun ⟨את⟩ sumpah kuring nu kuring geus cicingkeun jeung ⟨את⟩ sadaya bangsa-bangsa.",
   "tokens": [
     {
       "surface": "ואקח",
-      "gloss": "turis kuring nyandak"
+      "gloss": "terus kuring ngala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tonggét kuring"
+      "marks": "tungtungkat kuring"
     },
     {
       "surface": "מקלי",
-      "gloss": "tonggét kuring"
+      "gloss": "tungtungkat kuring"
     },
     {
       "surface": "את",
@@ -31,11 +31,12 @@
     },
     {
       "surface": "ואגדע",
-      "gloss": "tur kuring megatkeun"
+      "gloss": "sarta kuring motong"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩"
+      "gloss": "⟨את⟩-na",
+      "marks": "motong (objek: tungtungkat)"
     },
     {
       "surface": "להפיר",
@@ -44,11 +45,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perjangjian kuring"
+      "marks": "sumpah kuring"
     },
     {
       "surface": "בריתי",
-      "gloss": "perjangjian kuring"
+      "gloss": "sumpah kuring"
     },
     {
       "surface": "אשר",
@@ -56,22 +57,22 @@
     },
     {
       "surface": "כרתי",
-      "gloss": "geus kuring potong"
+      "gloss": "kuring geus cicingkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sagala bangsa-bangsa"
+      "marks": "sadaya bangsa-bangsa"
     },
     {
       "surface": "כל",
-      "gloss": "sagala"
+      "gloss": "sadaya"
     },
     {
       "surface": "העמים",
       "gloss": "bangsa-bangsa"
     }
   ],
-  "timestamp": "2026-08-26T17:58:38.095831876Z",
+  "timestamp": "2026-08-26T18:29:48.093980220Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 30,
-  "translation": "Jeung манehna bakal méré hujan pikeun bibit anjeun, nu anjeun pewakankeun ⟨את⟩ taneuh eta; jeung hanasih tina hasil taneuh, sarta éta bakal gendut jeung gêmuk; ingon-ingon anjeun bakang ngarumuh dina poé éta, lapangan nu lébar.",
+  "translation": "Jeung ⟨Manéhna⟩ méré hujan pikeun siki anjeun, nu anjeun tebarkeun ⟨את⟩ ⟨tanah⟩; jeung roti hasil ⟨tanah⟩, jeung ⟨éta⟩ jadi gendut jeung gemuk; dina poé éta ternak anjeun ngangon di kandang nu lega.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "jeung manehna bakal méré"
+      "gloss": "jeung méré"
     },
     {
       "surface": "מטר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "pikeun bibit-anjeun"
+      "gloss": "siki anjeun"
     },
     {
       "surface": "אשר",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "תזרע",
-      "gloss": "anjeun pewakankeun"
+      "gloss": "tebarkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taneuh eta"
+      "marks": "tanah"
     },
     {
       "surface": "האדמה",
-      "gloss": "taneuh eta"
+      "gloss": "⟨tanah⟩"
     },
     {
       "surface": "ולחם",
-      "gloss": "jeung hanasih"
+      "gloss": "jeung roti"
     },
     {
       "surface": "תבואת",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "taneuh eta"
+      "gloss": "⟨tanah⟩"
     },
     {
       "surface": "והיה",
-      "gloss": "sarta éta bakal"
+      "gloss": "jeung jadi"
     },
     {
       "surface": "דשן",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "ושמן",
-      "gloss": "jeung gêmuk-berminyak"
+      "gloss": "jeung gemuk"
     },
     {
       "surface": "ירעה",
-      "gloss": "bakang ngarumuh"
+      "gloss": "ngangon"
     },
     {
       "surface": "מקניך",
-      "gloss": "ingon-ingon-anjeun"
+      "gloss": "ternak anjeun"
     },
     {
       "surface": "ביום",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "eta"
+      "gloss": "éta"
     },
     {
       "surface": "כר",
-      "gloss": "lapangan"
+      "gloss": "kandang"
     },
     {
       "surface": "נרחב",
-      "gloss": "nu lébar"
+      "gloss": "nu lega"
     }
   ],
-  "timestamp": "2026-08-26T13:09:49.059621866Z",
+  "timestamp": "2026-08-26T18:23:11.672365577Z",
   "model": "glm-5.3"
 }

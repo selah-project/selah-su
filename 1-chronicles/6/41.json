@@ -5,24 +5,24 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 6,
-  "translation": "Jeung ⟨את⟩ ladang ⟨the⟩ kota jeung ⟨את⟩ pakaranganana méré ka Kalev putra Yefuneh.",
+  "translation": "Jeung ⟨את⟩ sawah kota éta jeung ⟨את⟩ pakaranganana méré ka Kalev putra Yefuneh.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ jeung",
-      "marks": "ladang"
+      "gloss": "⟨את⟩",
+      "marks": "sawah kota éta"
     },
     {
       "surface": "שדה",
-      "gloss": "ladang"
+      "gloss": "sawah"
     },
     {
       "surface": "העיר",
-      "gloss": "kota"
+      "gloss": "kota éta"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ jeung",
+      "gloss": "⟨את⟩",
       "marks": "pakaranganana"
     },
     {
@@ -46,6 +46,6 @@
       "gloss": "Yefuneh"
     }
   ],
-  "timestamp": "2026-08-26T16:07:03.049294808Z",
+  "timestamp": "2026-08-26T18:36:49.553430290Z",
   "model": "glm-5.3"
 }

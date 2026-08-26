@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 37,
-  "translation": "Nu bener-bener bakal mibanda ⟨את⟩ tanah, jeung maranéhna cicing salawasna di dinya.",
+  "translation": "Nu bener-bener baris mibanda ⟨את⟩ tanah, jeung cicing salawasna di dinya.",
   "tokens": [
     {
       "surface": "צדיקים",
@@ -13,12 +13,7 @@
     },
     {
       "surface": "יירשו",
-      "gloss": "bakal mibanda"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "tanah"
+      "gloss": "baris mibanda"
     },
     {
       "surface": "ארץ",
@@ -26,7 +21,7 @@
     },
     {
       "surface": "וישכנו",
-      "gloss": "jeung maranéhna cicing"
+      "gloss": "jeung cicing"
     },
     {
       "surface": "לעד",
@@ -37,6 +32,6 @@
       "gloss": "di dinya"
     }
   ],
-  "timestamp": "2026-08-26T14:28:14.181575240Z",
+  "timestamp": "2026-08-26T18:31:03.915624129Z",
   "model": "glm-5.3"
 }

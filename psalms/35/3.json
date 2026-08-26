@@ -5,27 +5,23 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 35,
-  "translation": "Sarta toélkeun kaluar tumbak, tutup jalan ngahadang nu ngudag kuring; singkanah ka jiwa kuring: kuring téh kasalametan-Mu.",
+  "translation": "Sarta ulurkeun tumbak jeung hahalang jalan ka nu ngudag kuring; ceungkeun ka jiwa kuring: \"Aku ⟨is⟩ kajolosan anjeun.\"",
   "tokens": [
     {
       "surface": "והרק",
-      "gloss": "sarta toélkeun kaluar"
+      "gloss": "sarta ulurkeun"
     },
     {
       "surface": "חנית",
       "gloss": "tumbak"
     },
     {
-      "surface": "וססר",
-      "gloss": "sarta tutup jalan"
-    },
-    {
       "surface": "וסגר",
-      "gloss": "sarta tutup jalan"
+      "gloss": "jeung hahalang jalan"
     },
     {
       "surface": "לקראת",
-      "gloss": "pikeun ngahadang"
+      "gloss": "ka"
     },
     {
       "surface": "רדפי",
@@ -33,7 +29,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "singkanah"
+      "gloss": "ceungkeun"
     },
     {
       "surface": "לנפשי",
@@ -41,13 +37,13 @@
     },
     {
       "surface": "ישעתך",
-      "gloss": "kasalametan-Mu"
+      "gloss": "kajolosan anjeun"
     },
     {
       "surface": "אני",
-      "gloss": "kuring"
+      "gloss": "Aku"
     }
   ],
-  "timestamp": "2026-08-26T14:27:23.451449451Z",
+  "timestamp": "2026-08-26T19:05:50.884338188Z",
   "model": "glm-5.3"
 }

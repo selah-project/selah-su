@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 32,
-  "translation": "Jeung Yahwe ngomong ka Moshe: \"Kuring geus nempo ⟨את⟩ bangsa ieu, jeung tempo, bangsa nu beuheul kaku ⟨is⟩ ia.",
+  "translation": "Jeung Yahwe ngomong ka Moshe: Kuring geus nempo ⟨את⟩ ieu bangsa, jeung tingali, ⟨ieu⟩ bangsa beuheul kuuk.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Jeung ngomong"
+      "gloss": "jeung ngomong"
     },
     {
       "surface": "יהוה",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "Kuring geus nempo"
+      "gloss": "kuring geus nempo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bangsa ieu"
+      "marks": "ieu bangsa"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "ieu bangsa"
     },
     {
       "surface": "הזה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "jeung tempo"
+      "gloss": "jeung tingali"
     },
     {
       "surface": "עם",
@@ -50,17 +50,17 @@
     },
     {
       "surface": "קשה",
-      "gloss": "nu kaku"
-    },
-    {
-      "surface": "ערף",
       "gloss": "beuheul"
     },
     {
+      "surface": "ערף",
+      "gloss": "kuuk"
+    },
+    {
       "surface": "הוא",
-      "gloss": "ia"
+      "gloss": "⟨ieu⟩"
     }
   ],
-  "timestamp": "2026-08-26T16:41:21.727211183Z",
+  "timestamp": "2026-08-26T18:04:11.362074269Z",
   "model": "glm-5.3"
 }

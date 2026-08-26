@@ -5,12 +5,12 @@
   "book": "2-chronicles",
   "lang": "su",
   "chapter": 3,
-  "translation": "Jeung ⟨את⟩ bumi ⟨the⟩ badag disalutan kai seureuh; tuluy disalutanana emas nu alus, sarta dipasang luhureunana ukiran tangkal korma jeung ranté-ranté.",
+  "translation": "Jeung ⟨את⟩ bumi nu gedé dibeungbeulangan kai saru; tuluy dibeungbeulanganana ku emas nu alus, sarta ditambihanana kana eta palem-palem jeung ranté-ranté.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "bumi badag"
+      "gloss": "⟨את⟩ jeung",
+      "marks": "bumi"
     },
     {
       "surface": "הבית",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "badag"
+      "gloss": "nu gedé"
     },
     {
       "surface": "חפה",
-      "gloss": "disalutan"
+      "gloss": "dibeungbeulangan"
     },
     {
       "surface": "עץ",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "ברושים",
-      "gloss": "seureuh"
+      "gloss": "saru"
     },
     {
       "surface": "ויחפהו",
-      "gloss": "disalutanana"
+      "gloss": "tuluy dibeungbeulanganana"
     },
     {
       "surface": "זהב",
@@ -42,25 +42,25 @@
     },
     {
       "surface": "טוב",
-      "gloss": "alus"
+      "gloss": "nu alus"
     },
     {
       "surface": "ויעל",
-      "gloss": "dipasang"
+      "gloss": "sarta ditambihanana"
     },
     {
       "surface": "עליו",
-      "gloss": "luhureunana"
+      "gloss": "kana eta"
     },
     {
       "surface": "תמרים",
-      "gloss": "ukiran tangkal korma"
+      "gloss": "palem-palem"
     },
     {
       "surface": "ושרשרות",
       "gloss": "jeung ranté-ranté"
     }
   ],
-  "timestamp": "2026-08-26T16:19:05.920996839Z",
+  "timestamp": "2026-08-26T18:38:17.974477459Z",
   "model": "glm-5.3"
 }

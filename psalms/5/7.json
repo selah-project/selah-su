@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 5,
-  "translation": "Anjeun baris ngancurkeun nu ngomong dusta; jalma getih jeung tipu-daya Yahwe baris kakeueung.",
+  "translation": "Anjeun baris ngancurkeun nu nyarita dusta; jalma getih jeung tipu-daya dibenci Yahwe.",
   "tokens": [
     {
       "surface": "תאבד",
-      "gloss": "anjeun baris ngancurkeun"
+      "gloss": "baris ngancurkeun"
     },
     {
       "surface": "דברי",
-      "gloss": "nu ngomong"
+      "gloss": "nu nyarita"
     },
     {
       "surface": "כזב",
@@ -22,10 +22,6 @@
     {
       "surface": "איש",
       "gloss": "jalma"
-    },
-    {
-      "surface": "דמiers",
-      "gloss": ""
     },
     {
       "surface": "דמים",
@@ -37,13 +33,13 @@
     },
     {
       "surface": "יתעב",
-      "gloss": "baris kakeueung"
+      "gloss": "dibenci"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T14:22:41.315468334Z",
+  "timestamp": "2026-08-26T18:30:08.705150540Z",
   "model": "glm-5.3"
 }

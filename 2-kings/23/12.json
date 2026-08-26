@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 23,
-  "translation": "Jeung ⟨את⟩ altar-altar nu di luhureun hateup kamar luhur Axbaz, nu dijieun ku raja-raja Yehuda, jeung ⟨את⟩ altar-altar nu dijieun Menaše di dua pelataran birit Yahwe, raja ngancurkeun, terus diangkat ti dinya jeung matak ⟨את》 abuna dialungkeun ka walungan Kidron.",
+  "translation": "Sarta ⟨את⟩ altar-altar nu di luhureun hateup rohangan luhur Ahas, nu dijieun ku raja-raja Yehuda, jeung ⟨את⟩ altar-altar nu dijieun ku Menashshe di dua buruan imah Yahwe, ngaruntagkeun ⟨raja⟩ aranjeunna, sarta ngajauhanana ti dinya, laju ngalungkeun ⟨את⟩ abuna ka walungan Kidron.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
+      "gloss": "sarta ⟨את⟩",
       "marks": "altar-altar"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "surface": "עלית",
-      "gloss": "kamar luhur"
+      "gloss": "rohangan luhur"
     },
     {
       "surface": "אחז",
-      "gloss": "Axbaz"
+      "gloss": "Ahas"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "dijieun ku"
+      "gloss": "dijieun"
     },
     {
       "surface": "מלכי",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menaše"
+      "gloss": "Menashshe"
     },
     {
       "surface": "בשתי",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "חצרות",
-      "gloss": "pelataran"
+      "gloss": "buruan"
     },
     {
       "surface": "בית",
-      "gloss": "birit"
+      "gloss": "imah"
     },
     {
       "surface": "יהוה",
@@ -91,15 +91,15 @@
     },
     {
       "surface": "נתץ",
-      "gloss": "ngancurkeun"
+      "gloss": "ngaruntagkeun"
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "⟨raja⟩"
     },
     {
       "surface": "וירץ",
-      "gloss": "terus diangkat"
+      "gloss": "sarta ngajauhanana"
     },
     {
       "surface": "משם",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "והשליך",
-      "gloss": "jeung matak dialungkeun"
+      "gloss": "laju ngalungkeun"
     },
     {
       "surface": "את",
@@ -131,6 +131,6 @@
       "gloss": "Kidron"
     }
   ],
-  "timestamp": "2026-08-26T12:59:34.622215802Z",
+  "timestamp": "2026-08-26T18:22:07.161718465Z",
   "model": "glm-5.3"
 }

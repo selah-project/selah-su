@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 24,
-  "translation": "Tuluy ditiéakeun ti dinya ⟨את⟩ sakabéh kasimpenan imah Yahwe jeung kasimpenan imah ⟨the⟩ raja, sarta dibeulah ⟨את⟩ sakabéh parabot emas nu dijieun ku Shelomoh raja Israél di jero bali Yahwe, luyu jeung nu geus diucapkeun ku Yahwe.",
+  "translation": "Sarta dibawa kaluar ti dinya ⟨את⟩ sagala kakayaan imah Yahwe jeung ⟨את⟩ kakayaan imah ⟨raja⟩, sarta ditéwak-téwak ⟨את⟩ sagala parabot emas nu dijieun ku Shelomoh raja Israél di jero bait Allah Yahwe, saperti anu tos dipedaran Yahwe.",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "ditiéakeun"
+      "gloss": "dibawa kaluar"
     },
     {
       "surface": "משם",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakabéh"
+      "marks": "sagala kakayaan imah Yahwe"
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sagala"
     },
     {
       "surface": "אוצרות",
-      "gloss": "kasimpenan"
+      "gloss": "kakayaan"
     },
     {
       "surface": "בית",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ואוצרות",
-      "gloss": "jeung kasimpenan"
+      "gloss": "jeung kakayaan"
     },
     {
       "surface": "בית",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "⟨raja⟩"
     },
     {
       "surface": "ויקצץ",
-      "gloss": "sarta dibeulah"
+      "gloss": "sarta ditéwak-téwak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakabéh"
+      "marks": "sagala parabot emas"
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sagala"
     },
     {
       "surface": "כלי",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "בהיכל",
-      "gloss": "di jero bali"
+      "gloss": "di jero bait Allah"
     },
     {
       "surface": "יהוה",
@@ -99,17 +99,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "luyu jeung"
+      "gloss": "saperti anu"
     },
     {
       "surface": "דבר",
-      "gloss": "nu geus diucapkeun"
+      "gloss": "tosis dipedaran"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T13:01:18.639296694Z",
+  "timestamp": "2026-08-26T18:22:16.080966720Z",
   "model": "glm-5.3"
 }

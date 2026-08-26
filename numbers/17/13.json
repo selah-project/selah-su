@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 17,
-  "translation": "Lajeng anjeunna nangtung di antara ⟨the⟩ nu geus paéh jeung ⟨the⟩ nu masih hirup, sarta wabah éta kacegat.",
+  "translation": "Lajeng anjeuna nangtung di antara ⟨את⟩ nu maot jeung nu hirup, sarta wabah éta eureun.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "lajeng anjeunna nangtung"
+      "gloss": "anjeuna nangtung"
     },
     {
       "surface": "בין",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המתים",
-      "gloss": "⟨the⟩ nu geus paéh"
+      "gloss": "nu maot"
     },
     {
       "surface": "ובין",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "החיים",
-      "gloss": "⟨the⟩ nu masih hirup"
+      "gloss": "nu hirup"
     },
     {
       "surface": "ותעצר",
-      "gloss": "sarta kacegat"
+      "gloss": "sarta eureun"
     },
     {
       "surface": "המגפה",
       "gloss": "wabah éta"
     }
   ],
-  "timestamp": "2026-08-26T11:30:09.330460117Z",
+  "timestamp": "2026-08-26T18:09:32.766181952Z",
   "model": "glm-5.3"
 }

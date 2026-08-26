@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 18,
-  "translation": "Sarta Yitro nyauran: Diberkahana Yahwe nu geus ngabébaskeun ⟨את⟩ anjeun ti leungeun Mitsrayim jeung ti leungeun Paroh, nu geus ngabébaskeun ⟨את⟩ ⟨bang éta> tina handapeun leungeun Mitsrayim.",
+  "translation": "Jeung Yitro nyarita: Diberkatikeun Yahwe, nu geus ngabébaskeun ⟨את⟩ aranjeun ti leungeun Mitsrayim jeung ti leungeun Paroh, nu geus ngabébaskeun ⟨את⟩ ⟨rakyat⟩ ti sahandapeun leungeun Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sarta nyauran"
+      "gloss": "jeung nyarita"
     },
     {
       "surface": "יתרו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "diberkahana"
+      "gloss": "diberkatikeun"
     },
     {
       "surface": "יהוה",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "הציל",
-      "gloss": "geus ngabébaskeun"
+      "gloss": "ngabébaskeun"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ anjeun",
-      "marks": "anjeun"
+      "gloss": "⟨את⟩ aranjeun",
+      "marks": "ti leungeun Mitsrayim"
     },
     {
       "surface": "מיד",
@@ -58,20 +58,20 @@
     },
     {
       "surface": "הציל",
-      "gloss": "geus ngabébaskeun"
+      "gloss": "ngabébaskeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bang éta"
+      "marks": "rakyat"
     },
     {
       "surface": "העם",
-      "gloss": "bang éta"
+      "gloss": "rakyat"
     },
     {
       "surface": "מתחת",
-      "gloss": "tina handapeun"
+      "gloss": "ti sahandapeun"
     },
     {
       "surface": "יד",
@@ -82,6 +82,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-26T11:01:51.648056370Z",
+  "timestamp": "2026-08-26T18:03:09.609958369Z",
   "model": "glm-5.3"
 }

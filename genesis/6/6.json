@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 6,
-  "translation": "Jeung Yahwe nyesa yén ⟨הועשה⟩ geus nyieun ⟨את⟩ jalma di ⟨the⟩ bumi, jeung gaduh-susah-atina.",
+  "translation": "Pun Yahwe ngahargaan yén ⟨manehna⟩ geus nyieun ⟨את⟩ manusa di bumi, jeung manehna ngarandeg haté ka jero haténa.",
   "tokens": [
     {
       "surface": "וינחם",
-      "gloss": "nyesa"
+      "gloss": "ngahargaan"
     },
     {
       "surface": "יהוה",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "עשה",
-      "gloss": "nyieun"
+      "gloss": "geus nyieun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jalma"
+      "marks": "manusa"
     },
     {
       "surface": "האדם",
-      "gloss": "jalma"
+      "gloss": "manusa"
     },
     {
       "surface": "בארץ",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ויתעצב",
-      "gloss": "gaduh-susah"
+      "gloss": "ngarandeg haté"
     },
     {
       "surface": "אל",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "לבו",
-      "gloss": "atina"
+      "gloss": "haténa"
     }
   ],
-  "timestamp": "2026-08-26T10:37:54.573380034Z",
+  "timestamp": "2026-08-26T18:40:10.059313841Z",
   "model": "glm-5.3"
 }

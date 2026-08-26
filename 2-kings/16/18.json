@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 16,
-  "translation": "Jeung ⟨את⟩ sayap-Sabat nu diwangun di béréh, jeung ⟨את》 panto asup raja nu ka luar, mihak dariahna tina bait Yahwe, alatan raja Ashur.",
+  "translation": "Jeung ⟨את⟩ tihangpayunna shardsabtu nu diwangun maranéhna di bumi, jeung ⟨את⟩ lawang asup raja di sisi luar, ditinterna ti Bumi Yahwe, sabab raja Ashur.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sayap-Sabat"
+      "marks": "tihangpayun shardsabtu"
     },
     {
       "surface": "מיסך",
-      "gloss": "sayap"
+      "gloss": "tihangpayun"
     },
     {
       "surface": "השבת",
-      "gloss": "-Sabat"
+      "gloss": "shardsabtu"
     },
     {
       "surface": "אשר",
@@ -26,20 +26,20 @@
     },
     {
       "surface": "בנו",
-      "gloss": "diwangun"
+      "gloss": "diwangun maranéhna"
     },
     {
       "surface": "בבית",
-      "gloss": "di béréh"
+      "gloss": "di bumi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "panto asup raja"
+      "marks": "lawang asup raja"
     },
     {
       "surface": "מבוא",
-      "gloss": "panto asup"
+      "gloss": "lawang asup"
     },
     {
       "surface": "המלך",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "החיצונה",
-      "gloss": "nu ka luar"
+      "gloss": "di sisi luar"
     },
     {
       "surface": "הסב",
-      "gloss": "mihak dariahna"
+      "gloss": "ditinterna"
     },
     {
       "surface": "בית",
-      "gloss": "tina bait"
+      "gloss": "Bumi"
     },
     {
       "surface": "יהוה",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "alatan"
+      "gloss": "sabab"
     },
     {
       "surface": "מלך",
@@ -74,6 +74,6 @@
       "gloss": "Ashur"
     }
   ],
-  "timestamp": "2026-08-26T12:56:51.113022976Z",
+  "timestamp": "2026-08-26T18:21:30.669903896Z",
   "model": "glm-5.3"
 }

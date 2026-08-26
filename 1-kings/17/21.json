@@ -5,8 +5,81 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 17,
-  "translation": "Jeung manéhna ngajangkarkeun awakna ka luhureun anak ᴛᴇu three kali, laju nyauran ka Yahwe, sarta ngomong: Yahwe, Elohim kaula, mugia kaula pisan ‹kajeung› nefesh anak ieu balik deui ka jero awakna.",
-  "tokens": [],
-  "timestamp": "2026-08-26T16:54:50.388812467Z",
+  "translation": "Manehna marengkeun awakna dina ⟨את⟩ budak eta tilu kali, teras nyauran ka Yahwe sarta ngomong: Yahwe, Elohim abdi, mangga ⟨mangmulangkeun⟩ ⟨את⟩ nyawa budak ieu ka jero awakna.",
+  "tokens": [
+    {
+      "surface": "ויתמדד",
+      "gloss": "marengkeun awakna"
+    },
+    {
+      "surface": "על",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "budak eta"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tilu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nyauran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim abdi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "mangmulangkeun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "budak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ieu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka jero"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "awakna"
+    }
+  ],
+  "timestamp": "2026-08-26T18:19:06.764040714Z",
   "model": "glm-5.3"
 }

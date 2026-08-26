@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 24,
-  "translation": "Yahwe, Elohim ⟨the⟩ langit-langit, nu mawa kuring ti imah bapa kuring jeung ti tanah kalahiran kuring, jeung nu nyarita ka kuring jeung nu sumpah ka kuring, nyebutkeun: Ka turunan anjeun kuring méré ⟨את⟩ tanah ⟨the⟩ ieu — Mantenna bakal ngirim utusan-Na saméméh anjeun, jeung anjeun bakal mawa awéwé pikeun putra kuring ti dinya.",
+  "translation": "Yahwe, Elohim ⟨na⟩ langit, nu mawa abdi ti imah ramana abdi jeung ti tanah kalahiran abdi, sarta nu ngomong ka abdi, sarta nu sumpah ka abdi, sing nyebutkeun: Ka turunan anjeun abdi méré ⟨את⟩ ieu tanah — Anjeuna bakal ngirim utusan-Na méméh anjeun, sarta anjeun bakal nyandak awéwé pikeun putra abdi ti dinya.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "langit-langit ⟨the⟩"
+      "gloss": "⟨na⟩ langit"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לקחני",
-      "gloss": "mawa kuring"
+      "gloss": "mawa abdi"
     },
     {
       "surface": "מבית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "bapa kuring"
+      "gloss": "ramana abdi"
     },
     {
       "surface": "ומארץ",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מולדתי",
-      "gloss": "kalahiran kuring"
+      "gloss": "kalahiran abdi"
     },
     {
       "surface": "ואשר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "nyarita"
+      "gloss": "ngomong"
     },
     {
       "surface": "לי",
-      "gloss": "ka kuring"
+      "gloss": "ka abdi"
     },
     {
       "surface": "ואשר",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "ka kuring"
+      "gloss": "ka abdi"
     },
     {
       "surface": "לאמר",
-      "gloss": "nyebutkeun"
+      "gloss": "sing nyebutkeun"
     },
     {
       "surface": "לזרעך",
@@ -77,16 +77,16 @@
     },
     {
       "surface": "אתן",
-      "gloss": "kuring méré"
+      "gloss": "abdi méré"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanah ieu"
+      "marks": "ieu tanah"
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah ⟨the⟩"
+      "gloss": "ieu tanah"
     },
     {
       "surface": "הזאת",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "Mantenna"
+      "gloss": "Anjeuna"
     },
     {
       "surface": "ישלח",
@@ -106,11 +106,11 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "saméméh anjeun"
+      "gloss": "méméh anjeun"
     },
     {
       "surface": "ולקחת",
-      "gloss": "jeung anjeun bakal mawa"
+      "gloss": "jeung anjeun bakal nyandak"
     },
     {
       "surface": "אשה",
@@ -118,13 +118,13 @@
     },
     {
       "surface": "לבני",
-      "gloss": "pikeun putra kuring"
+      "gloss": "pikeun putra abdi"
     },
     {
       "surface": "משם",
       "gloss": "ti dinya"
     }
   ],
-  "timestamp": "2026-08-26T10:42:45.714536381Z",
+  "timestamp": "2026-08-26T18:00:48.448668129Z",
   "model": "glm-5.3"
 }

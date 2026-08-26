@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 1,
-  "translation": "jeung ⟨את⟩ Ofir, jeung ⟨את⟩ Chavilah, jeung ⟨את⟩ Yovav; sadaya maranehna ⟨is⟩ putrana Yoktan.",
+  "translation": "Jeung ⟨את⟩ Ofir, jeung ⟨את⟩ Chavilah, jeung ⟨את⟩ Yovav; sadaya ieu mangrupa putra-putrana Yoktan.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ jeung",
+      "gloss": "⟨את⟩",
       "marks": "Ofir"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ jeung",
+      "gloss": "⟨את⟩",
       "marks": "Chavilah"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ jeung",
+      "gloss": "⟨את⟩",
       "marks": "Yovav"
     },
     {
@@ -40,17 +40,17 @@
     },
     {
       "surface": "אלה",
-      "gloss": "maranehna"
+      "gloss": "ieu"
     },
     {
       "surface": "בני",
-      "gloss": "putrana"
+      "gloss": "putra-putrana"
     },
     {
       "surface": "יקטן",
       "gloss": "Yoktan"
     }
   ],
-  "timestamp": "2026-08-26T17:23:36.807903484Z",
+  "timestamp": "2026-08-26T18:36:16.984333082Z",
   "model": "glm-5.3"
 }

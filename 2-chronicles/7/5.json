@@ -5,8 +5,91 @@
   "book": "2-chronicles",
   "lang": "su",
   "chapter": 7,
-  "translation": "Jeung raja Shelomoh ngaturan kurban sapi dua puluh dua rébu, jeung domba saratus dua puluh rébu; sarta raja jeung sakabéh jalma badé ngahijikeun (kurer) bezuk imah Elohim, jeung raja jeung sadayana masarakat narikkeun imah Elohim.",
-  "tokens": [],
-  "timestamp": "2026-08-26T16:21:25.560715115Z",
+  "translation": "Jeung raja Shelomoh ngorbankeun ⟨את⟩ kurban sapi dua puluh dua rébu, jeung domba sa-réatus dua puluh rébu; tuluy raja jeung sakabéh jalma ngadedikasikeun ⟨את⟩ imah Elohim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ngorbankeun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban sapi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "jeung dua"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "jeung domba"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sa-réatus"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jeung dua puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "rébu"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "ngadedikasikeun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imah Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jeung sakabéh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jalma"
+    }
+  ],
+  "timestamp": "2026-08-26T18:38:05.002223255Z",
   "model": "glm-5.3"
 }

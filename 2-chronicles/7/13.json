@@ -5,8 +5,73 @@
   "book": "2-chronicles",
   "lang": "su",
   "chapter": 7,
-  "translation": "Mun kuring nunda ⟨⟨ langit-langit terasing moal aya hujan, jeung mun kuring ngawidian himne nyaaheaan ⟨⟉ bumi, jeung mun kuring ngirimkeun wabah ka umat kuring,",
-  "tokens": [],
-  "timestamp": "2026-08-26T16:21:13.896783183Z",
+  "translation": "Upami kuring nahan ⟨את⟩ langit sarta euweuh hujan, upami kuring maréntahkeun ⟨את⟩ belalang ngahakan ⟨את⟩ bumi, jeung upami kuring ngirim wabah ka umat kuring,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "upami"
+    },
+    {
+      "surface": "אעצר",
+      "gloss": "kuring nahan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sarta euweuh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "והן",
+      "gloss": "upami"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "kuring maréntahkeun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ngahakan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jeung upami"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "kuring ngirim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "ka umat kuring"
+    }
+  ],
+  "timestamp": "2026-08-26T18:38:13.376381580Z",
   "model": "glm-5.3"
 }

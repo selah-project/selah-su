@@ -5,40 +5,40 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 1,
-  "translation": "Lampahan ka jero kameumeutanana, jeung paréntahkeun ⟨את⟩ ⟨the⟩ bangsa, nyarita: Sayagokeun pikeun aranjeun dahareun, sabab jarak tilu poé deui anjeun baris ngaliwatan ⟨את⟩ ⟨the⟩ Yarden ieu pikeun asup nempog ⟨את⟩ ⟨the⟩ taneuh nu Yahwe, Elohim aranjeun, merekeun ka aranjeun pikeun kapimilik.",
+  "translation": "Liwat baturung-tunggal ⟨the⟩ kamp; maréntahkeun ⟨את⟩ ⟨the⟩ balaréa, sangkan nyarita: Sadiakeun parabot dahar pikeun aranjeun, sabab anggeus tilu poé aranjeun baris ngaliwatan ⟨את⟩ ieu Yarden, pikeun asup mibanda ⟨את⟩ ⟨the⟩ taneuh, nu Yahwe Elohim aranjeun méré ka aranjeun pikeun dipibanda.",
   "tokens": [
     {
       "surface": "עברו",
-      "gloss": "lampahan"
+      "gloss": "liwat"
     },
     {
       "surface": "בקרב",
-      "gloss": "ka jero"
+      "gloss": "baturung-tunggal"
     },
     {
       "surface": "המחנה",
-      "gloss": "kameumeutanana"
+      "gloss": "kamp"
     },
     {
       "surface": "וצוו",
-      "gloss": "jeung paréntahkeun"
+      "gloss": "maréntahkeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bangsa"
+      "marks": "balaréa"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ bangsa"
+      "gloss": "balaréa"
     },
     {
       "surface": "לאמר",
-      "gloss": "nyarita"
+      "gloss": "sangkan nyarita"
     },
     {
       "surface": "הכינו",
-      "gloss": "sayagokeun"
+      "gloss": "sadiakeun"
     },
     {
       "surface": "לכם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "צידה",
-      "gloss": "dahareun"
+      "gloss": "parabot dahar"
     },
     {
       "surface": "כי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בעוד",
-      "gloss": "jarak"
+      "gloss": "anggeus"
     },
     {
       "surface": "שלשת",
@@ -62,24 +62,24 @@
     },
     {
       "surface": "ימים",
-      "gloss": "poé deui"
+      "gloss": "poé"
     },
     {
       "surface": "אתם",
-      "gloss": "anjeun"
+      "gloss": "aranjeun"
     },
     {
       "surface": "עברים",
-      "gloss": "baris ngaliwatan"
+      "gloss": "ngaliwatan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yarden"
+      "marks": "ieu Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "⟨the⟩ Yarden"
+      "gloss": "Yarden"
     },
     {
       "surface": "הזה",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "nempog"
+      "gloss": "mibanda"
     },
     {
       "surface": "את",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ taneuh"
+      "gloss": "taneuh"
     },
     {
       "surface": "אשר",
@@ -116,7 +116,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "merekeun"
+      "gloss": "méré"
     },
     {
       "surface": "לכם",
@@ -124,9 +124,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "pikeun kapimilik"
+      "gloss": "pikeun dipibanda"
     }
   ],
-  "timestamp": "2026-08-26T11:52:56.497059018Z",
+  "timestamp": "2026-08-26T19:02:22.905907449Z",
   "model": "glm-5.3"
 }

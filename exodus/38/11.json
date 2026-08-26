@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 38,
-  "translation": "Jeung pikeun sisi kalér saratus héktar améh, sadapurna dua puluh, jeung émployna dua puluh, tina tambaga; kait-kait sadapur jeung gegelonyna tina pérak.",
+  "translation": "Jeung pikeun sisi kalér saratus hincai, pilar-pilar maranéhna dua puluh, jeung dasar-dasar maranéhna dua puluh, tina tambaga; kait-kait ⟨את⟩ pilar-pilar jeung beungbeuratan maranéhna tina pérak.",
   "tokens": [
     {
       "surface": "ולפאת",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "héktar améh"
+      "gloss": "hincai"
     },
     {
       "surface": "עמודיהם",
-      "gloss": "sadapurna"
+      "gloss": "pilar-pilar maranéhna"
     },
     {
       "surface": "עשרים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ואדניהם",
-      "gloss": "jeung émployna"
+      "gloss": "jeung dasar-dasar maranéhna"
     },
     {
       "surface": "עשרים",
@@ -44,26 +44,22 @@
       "gloss": "tambaga"
     },
     {
-      "surface": "ואדניהם\/נחשת continuation",
-      "gloss": ""
-    },
-    {
-      "surface": "ואדניהם dup",
-      "gloss": ""
+      "surface": "ושוי",
+      "gloss": "kait-kait"
     },
     {
       "surface": "העמודים",
-      "gloss": "sadapur-sadapur"
+      "gloss": "pilar-pilar"
     },
     {
       "surface": "וחשקיהם",
-      "gloss": "jeung gegelonyna"
+      "gloss": "jeung beungbeuratan maranéhna"
     },
     {
       "surface": "כסף",
       "gloss": "pérak"
     }
   ],
-  "timestamp": "2026-08-26T16:42:39.284541054Z",
+  "timestamp": "2026-08-26T18:05:40.611161442Z",
   "model": "glm-5.3"
 }

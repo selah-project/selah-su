@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 40,
-  "translation": "Sarta anjeunna mulangkeun ⟨את⟩ pangawasa nu ngawurukan kana pancén ngawurukanana, jeung anjeunna méré ⟨the⟩ cangkir kana leungeun Paroh.",
+  "translation": "Jeung anjeunna mulangkeun ⟨את⟩ sar hanca-minuman kana kalungguhanana, jeung anjeunna méré ⟨את⟩ mangkok kana leungeun Paroh.",
   "tokens": [
     {
       "surface": "וישב",
@@ -14,35 +14,35 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pangawasa nu ngawurukan"
+      "marks": "sar hanca-minuman"
     },
     {
       "surface": "שר",
-      "gloss": "pangawasa"
+      "gloss": "sar"
     },
     {
       "surface": "המשקים",
-      "gloss": "nu ngawurukan"
+      "gloss": "hanca-minuman"
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "kana"
     },
     {
       "surface": "משקהו",
-      "gloss": "pancén ngawurukanana"
+      "gloss": "kalungguhanana"
     },
     {
       "surface": "ויתן",
-      "gloss": "jeung anjeunna méré"
+      "gloss": "méré"
     },
     {
       "surface": "הכוס",
-      "gloss": "cangkir"
+      "gloss": "mangkok"
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "kana"
     },
     {
       "surface": "כף",
@@ -53,6 +53,6 @@
       "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-08-26T10:49:43.571355287Z",
+  "timestamp": "2026-08-26T18:01:46.897698995Z",
   "model": "glm-5.3"
 }

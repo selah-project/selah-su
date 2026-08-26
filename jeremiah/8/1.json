@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "su",
   "chapter": 8,
-  "translation": "Dina waktu ⟨the⟩ ngarahujeung kana harita, ucapan Yahwe, aranjeunna bakal ngaluarkeun ⟨את⟩ tulang-tulang raja-rajana Yehuda jeung ⟨את⟩ tulang-tulang pangulatna jeung ⟨את⟩ tulang-tulang para imam jeung ⟨את⟩ tulang-tulang para nabi jeung ⟨את⟩ tulang-tulang pangeusi Yerushalaim tina kuburanana.",
+  "translation": "Dina waktu éta, tarjamah Yahwe, aranjeunna bakal mawa kaluar ⟨את⟩ tulang raja-raja Yehuda jeung ⟨את⟩ tulang para pangawasana, jeung ⟨את⟩ tulang para imam, jeung ⟨את⟩ tulang para nabi, jeung ⟨את⟩ tulang pangeusi Yerushalaim, tina kuburanana.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "dina waktu"
+      "gloss": "Dina waktu"
     },
     {
       "surface": "ההיא",
-      "gloss": "harita"
+      "gloss": "éta"
     },
     {
       "surface": "נאם",
-      "gloss": "ucapan"
+      "gloss": "tarjamah"
     },
     {
       "surface": "יהוה",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "ויציאו",
-      "gloss": "anjeunna bakal ngaluarkeun"
+      "gloss": "aranjeunna bakal mawa kaluar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tulang-tulang"
+      "marks": "tulang raja-raja Yehuda"
     },
     {
       "surface": "עצמות",
-      "gloss": "tulang-tulang"
+      "gloss": "tulang"
     },
     {
       "surface": "מלכי",
-      "gloss": "raja-rajana"
+      "gloss": "raja-raja"
     },
     {
       "surface": "יהודה",
@@ -47,24 +47,24 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "tulang-tulang"
+      "marks": "tulang para pangawasana"
     },
     {
       "surface": "עצמות",
-      "gloss": "tulang-tulang"
+      "gloss": "tulang"
     },
     {
       "surface": "שריו",
-      "gloss": "pangulatna"
+      "gloss": "para pangawasana"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "tulang-tulang"
+      "marks": "tulang para imam"
     },
     {
       "surface": "עצמות",
-      "gloss": "tulang-tulang"
+      "gloss": "tulang"
     },
     {
       "surface": "הכהנים",
@@ -73,11 +73,11 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "tulang-tulang"
+      "marks": "tulang para nabi"
     },
     {
       "surface": "עצמות",
-      "gloss": "tulang-tulang"
+      "gloss": "tulang"
     },
     {
       "surface": "הנביאים",
@@ -86,11 +86,11 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "tulang-tulang"
+      "marks": "tulang pangeusi Yerushalaim"
     },
     {
       "surface": "עצמות",
-      "gloss": "tulang-tulang"
+      "gloss": "tulang"
     },
     {
       "surface": "יושבי",
@@ -105,6 +105,6 @@
       "gloss": "tina kuburanana"
     }
   ],
-  "timestamp": "2026-08-26T13:24:38.989577637Z",
+  "timestamp": "2026-08-26T18:24:00.067745149Z",
   "model": "glm-5.3"
 }

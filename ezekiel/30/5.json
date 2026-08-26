@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 30,
-  "translation": "Kush, jeung Put, jeung Lud, jeung sakumna ⟨the⟩ jalma campuran, jeung Khub, jeung putra-putri taneuh perjangjian, jeung ⟨את⟩ maranehna, ku pedang barina ragrag.",
+  "translation": "Kush, jeung Put, jeung Lud, jeung sakabéh jalma nu kacampur, jeung Kuv, jeung putra-putri taneuh perjangjian, ⟨את⟩ jeung maranehna ku pedang baréto ragrag.",
   "tokens": [
     {
       "surface": "כוש",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "jeung sakumna"
+      "gloss": "jeung sakabéh"
     },
     {
       "surface": "הערב",
-      "gloss": "⟨the⟩ jalma campuran"
+      "gloss": "jalma nu kacampur"
     },
     {
       "surface": "וכוב",
-      "gloss": "jeung Khub"
+      "gloss": "jeung Kuv"
     },
     {
       "surface": "ובני",
@@ -45,8 +45,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "maranehna"
+      "gloss": "⟨את⟩ jeung maranehna",
+      "marks": "Kush, Put, Lud, jama campuran, Kuv, jeung putra-putri taneuh perjangjian"
     },
     {
       "surface": "בחרב",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "יפלו",
-      "gloss": "barina ragrag"
+      "gloss": "baréto ragrag"
     }
   ],
-  "timestamp": "2026-08-26T13:53:07.880338565Z",
+  "timestamp": "2026-08-26T18:27:53.993138382Z",
   "model": "glm-5.3"
 }

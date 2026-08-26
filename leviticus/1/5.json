@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 1,
-  "translation": "Sarta manéhna ngabéhéikeun ⟨את⟩ anak ⟨the⟩ sapi di payuneun Yahwe; sarta putra-putra Aharon, para imam, mawa ⟨את⟩ getihna, sarta nyéprétkeun ⟨את⟩ getih kana ⟨the⟩ mézbah sacara ngurilingan, nu aya di lawang kang tenda patempatan.",
+  "translation": "Jeung manéhna bakal nyembelih ⟨את⟩ anak sapi méméh Yahwe, jeung putra-putra Aharon, imam-imam éta, bakal ngadeukeutan ⟨את⟩ getihna, jeung ngucurkeun ⟨את⟩ getih kana altar sacara ngurilingan, nu aya di panto tenda patempatan.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "sarta ngabéhéikeun"
+      "gloss": "jeung nyembelih"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "di payuneun"
+      "gloss": "méméh"
     },
     {
       "surface": "יהוה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והקריבו",
-      "gloss": "sarta mawa"
+      "gloss": "jeung ngadeukeutan"
     },
     {
       "surface": "בני",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "para imam"
+      "gloss": "imam-imam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "getihna"
+      "marks": "getih"
     },
     {
       "surface": "הדם",
-      "gloss": "getihna"
+      "gloss": "getih"
     },
     {
       "surface": "וזרקו",
-      "gloss": "sarta nyéprétkeun"
+      "gloss": "jeung ngucurkeun"
     },
     {
       "surface": "את",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "mézbah"
+      "gloss": "altar"
     },
     {
       "surface": "סביב",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "פתח",
-      "gloss": "lawang"
+      "gloss": "panto"
     },
     {
       "surface": "אהל",
@@ -99,6 +99,6 @@
       "gloss": "patempatan"
     }
   ],
-  "timestamp": "2026-08-26T11:11:52.465115417Z",
+  "timestamp": "2026-08-26T18:06:17.702891718Z",
   "model": "glm-5.3"
 }

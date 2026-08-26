@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "su",
   "chapter": 3,
-  "translation": "Jeung surat-surat dikirim ku leungeun para kurir ka sakabéh propinsi-propinsi raja, pikeun ngamusnahkeun, pikeun maéhan jeung pikeun maéhan sangkan tumpur ⟨את⟩ sakabéh Yahudi, ti ngora nepi ka kolot, barudak leutik jeung awéwé, dina poé hiji, dina tilu belas ti bulan kadua belas — éta ⟨is⟩ bulan Adar — sarta jarah maranéhna pikeun dirampok.",
+  "translation": "Jeung surat-surat kirim ku leungeun nu lumpat ka sadaya propinsi ⟨raja⟩, pikeun ngamusnahkeun, maéhan, jeung mupus ⟨את⟩ sadaya Yahudi, ti nu ngora nepi ka nu kolot, orok jeung awéwé, dina sapoé, nyaéta tilu belas bulan kadua belas — éta bulan Adar — jeung rarampasanana pikeun dirampok.",
   "tokens": [
     {
       "surface": "ונשלוח",
-      "gloss": "jeung dikirim"
+      "gloss": "jeung kirim"
     },
     {
       "surface": "ספרים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הרצים",
-      "gloss": "para kurir"
+      "gloss": "nu lumpat"
     },
     {
       "surface": "אל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sadaya"
     },
     {
       "surface": "מדינות",
-      "gloss": "propinsi-propinsi"
+      "gloss": "propinsi"
     },
     {
       "surface": "המלך",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "להרג",
-      "gloss": "pikeun maéhan"
+      "gloss": "maéhan"
     },
     {
       "surface": "ולאבד",
-      "gloss": "jeung pikeun maéhan sangkan tumpur"
+      "gloss": "jeung mupus"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakabéh Yahudi"
+      "marks": "sadaya Yahudi"
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sadaya"
     },
     {
       "surface": "היהודים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "מנער",
-      "gloss": "ti ngora"
+      "gloss": "ti nu ngora"
     },
     {
       "surface": "ועד",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "זקן",
-      "gloss": "kolot"
+      "gloss": "nu kolot"
     },
     {
       "surface": "טף",
-      "gloss": "barudak leutik"
+      "gloss": "orok"
     },
     {
       "surface": "ונשים",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "לחדש",
-      "gloss": "ti bulan"
+      "gloss": "bulan"
     },
     {
       "surface": "שנים",
@@ -126,13 +126,13 @@
     },
     {
       "surface": "ושללם",
-      "gloss": "jeung jarah maranéhna"
+      "gloss": "jeung rarampasanana"
     },
     {
       "surface": "לבוז",
       "gloss": "pikeun dirampok"
     }
   ],
-  "timestamp": "2026-08-26T15:38:04.048834482Z",
+  "timestamp": "2026-08-26T18:35:05.748156838Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 38,
-  "translation": "Jeung anjeunna nyieun ⟨את⟩ sadaya parabot mézbéach: ⟨את⟩ panci-pancina jeung ⟨את⟩ sapu-sapuna jeung ⟨את⟩ mangkok-mangkok pikeun marenkeun, ⟨את}} garpu-garpuna jeung ⟨את}} wadah seuneuna; sadaya parabotna dijieun tina tambaga.",
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ sakabéh parabot altar: ⟨את⟩ kancil-kancil, jeung ⟨את⟩ sapu-sapu, jeung ⟨את⟩ mangkok-mangkok perikeuman, ⟨את⟩ garpu daging, jeung ⟨את⟩ panyuunan seuneu; sakabéh parabotna dijieun tina tambaga.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Jeung anjeunna nyieun"
+      "gloss": "anjeunna nyieun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya parabot mézbéach"
+      "marks": "sakabéh parabot altar"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sakabéh"
     },
     {
       "surface": "כלי",
@@ -26,56 +26,56 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "mézbéach"
+      "gloss": "altar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "panci-pancina"
+      "marks": "kancil-kancil"
     },
     {
       "surface": "הסירת",
-      "gloss": "panci-pancina"
+      "gloss": "kancil-kancil"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "sapu-sapuna"
+      "marks": "sapu-sapu"
     },
     {
       "surface": "היעים",
-      "gloss": "sapu-sapuna"
+      "gloss": "sapu-sapu"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "mangkok-mangkok pikeun marenkeun"
+      "marks": "mangkok-mangkok perikeuman"
     },
     {
       "surface": "המזרקת",
-      "gloss": "mangkok-mangkok pikeun marenkeun"
+      "gloss": "mangkok-mangkok perikeuman"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "garpu-garpuna"
+      "marks": "garpu daging"
     },
     {
       "surface": "המזלגת",
-      "gloss": "garpu-garpuna"
+      "gloss": "garpu daging"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "wadah seuneuna"
+      "marks": "panyuunan seuneu"
     },
     {
       "surface": "המחתת",
-      "gloss": "wadah seuneuna"
+      "gloss": "panyuunan seuneu"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sakabéh"
     },
     {
       "surface": "כליו",
@@ -90,6 +90,6 @@
       "gloss": "tambaga"
     }
   ],
-  "timestamp": "2026-08-26T11:11:07.567656935Z",
+  "timestamp": "2026-08-26T18:05:50.651918456Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 29,
-  "translation": "Jadi murub bebendaran Yahwe ka ⟨the⟩ tanah éta, pikeun mawa kana ⟨the⟩ manéhna ⟨את⟩ sadaya sumpah kutuk anu katulis dina kitab ieu.",
+  "translation": "Lajeng murukna Yahwe ngabeledug ka ⟨eta⟩ tanah éta, pikeun mawa kana ⟨dinya⟩ ⟨את⟩ sagala kutuk nu ditulis dina kitab ieu.",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "jadi murub bebendaran"
+      "gloss": "ngabeledug-murukna"
     },
     {
       "surface": "אף",
-      "gloss": "bebendaran"
+      "gloss": "murukna"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "ka ⟨the⟩ tanah"
+      "gloss": "ka tanah"
     },
     {
       "surface": "ההוא",
@@ -33,24 +33,24 @@
     },
     {
       "surface": "עליה",
-      "gloss": "kana ⟨the⟩ manéhna"
+      "gloss": "kana ⟨dinya⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya sumpah kutuk"
+      "marks": "sagala kutuk"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sagala"
     },
     {
       "surface": "הקללה",
-      "gloss": "sumpah kutuk"
+      "gloss": "kutuk"
     },
     {
       "surface": "הכתובה",
-      "gloss": "anu katulis"
+      "gloss": "nu ditulis"
     },
     {
       "surface": "בספר",
@@ -61,6 +61,6 @@
       "gloss": "ieu"
     }
   ],
-  "timestamp": "2026-08-26T11:50:51.542440134Z",
+  "timestamp": "2026-08-26T18:11:53.835002368Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 25,
-  "translation": "Jeung ti ⟨the⟩ kota manéhna nyandak saurang saris nu mangrupa pangawas ka laskar perang, jeung lima jalma ti nu nempo beungeut raja, nu kapanggih di kota, jeung ⟨את⟩ juru tulis, panglima balad nu ngagero balad jalma ⟨eta⟩ bumén, jeung genep puluh jalma ti jalma ⟨eta⟩ bumén nu kapanggih di kota.",
+  "translation": "Jeung tina kota ⟨את⟩ saurang saris nu mangrupa pangawasa luhureun urang perang, sarta lima jalma tina nu nempo beungeut raja, nu kapanggih di kota; jeung ⟨את⟩ juru tulis, panglima balad, nu ngahimpun ⟨את⟩ kaum bumi, sarta genep puluh jalma tina kaum bumi nu kapanggih di kota.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "jeung ti"
+      "gloss": "jeung tina"
     },
     {
       "surface": "העיר",
-      "gloss": "kota ⟨eta⟩"
+      "gloss": "kota"
     },
     {
       "surface": "לקח",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "פקיד",
-      "gloss": "pangawas"
+      "gloss": "pangawasa"
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "luhureun"
     },
     {
       "surface": "אנשי",
-      "gloss": "laskar"
+      "gloss": "urang"
     },
     {
       "surface": "המלחמה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וחמשה",
-      "gloss": "jeung lima"
+      "gloss": "sarta lima"
     },
     {
       "surface": "אנשים",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "מראי",
-      "gloss": "ti nu nempo"
+      "gloss": "tina nu nempo"
     },
     {
       "surface": "פני",
@@ -86,7 +86,7 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "juru tulis, panglima balad"
+      "marks": "juru tulis"
     },
     {
       "surface": "הספר",
@@ -102,24 +102,24 @@
     },
     {
       "surface": "המצבא",
-      "gloss": "nu ngagero balad"
+      "gloss": "nu ngahimpun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jalma bumén"
+      "marks": "kaum bumi"
     },
     {
       "surface": "עם",
-      "gloss": "balad jalma"
+      "gloss": "kaum"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumén ⟨eta⟩"
+      "gloss": "bumi"
     },
     {
       "surface": "וששים",
-      "gloss": "jeung genep puluh"
+      "gloss": "sarta genep puluh"
     },
     {
       "surface": "איש",
@@ -127,11 +127,11 @@
     },
     {
       "surface": "מעם",
-      "gloss": "ti jalma"
+      "gloss": "tina kaum"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumén ⟨eta⟩"
+      "gloss": "bumi"
     },
     {
       "surface": "הנמצאים",
@@ -142,6 +142,6 @@
       "gloss": "di kota"
     }
   ],
-  "timestamp": "2026-08-26T13:01:05.791552603Z",
+  "timestamp": "2026-08-26T18:22:24.258077193Z",
   "model": "glm-5.3"
 }

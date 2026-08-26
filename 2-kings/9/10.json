@@ -5,27 +5,28 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 9,
-  "translation": "Jeung ⟨את⟩ Izevel baris didahar ku ⟨the⟩ asu di bagian Yizreel, jeung moal aya nu nyirikeun. Terus buditakar eta muka panto jeung ngarungsi.",
+  "translation": "Jeung ⟨את⟩ Izebel bakal didahar ku anjing di pologna Yizreel, jeung euweuh nu ngurebkeun; lajeng dibukana ⟨את⟩ panto lajeng ngarungsi maneh.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
     },
     {
       "surface": "איזבל",
-      "gloss": "Izevel"
+      "gloss": "Izebel"
     },
     {
       "surface": "יאכלו",
-      "gloss": "baris didahar"
+      "gloss": "bakal didahar"
     },
     {
       "surface": "הכלבים",
-      "gloss": "asu"
+      "gloss": "ku anjing"
     },
     {
       "surface": "בחלק",
-      "gloss": "di bagian"
+      "gloss": "di pologna"
     },
     {
       "surface": "יזרעאל",
@@ -33,15 +34,15 @@
     },
     {
       "surface": "ואין",
-      "gloss": "jeung moal aya"
+      "gloss": "jeung euweuh"
     },
     {
       "surface": "קבר",
-      "gloss": "nu nyirikeun"
+      "gloss": "nu ngurebkeun"
     },
     {
       "surface": "ויפתח",
-      "gloss": "terus muka"
+      "gloss": "lajeng dibukana"
     },
     {
       "surface": "הדלת",
@@ -52,6 +53,6 @@
       "gloss": "ngarungsi"
     }
   ],
-  "timestamp": "2026-08-26T12:53:36.771508633Z",
+  "timestamp": "2026-08-26T18:21:01.118358964Z",
   "model": "glm-5.3"
 }

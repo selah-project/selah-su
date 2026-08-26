@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 5,
-  "translation": "Tuluy Yahwe ngadangu ⟨את⟩ sora omongan aranjeung nalika aranjeung nyarita ka abdi, sarta Yahwe ngomong ka abdi: kuring geus ngadangu ⟨את⟩ sora omongan ⟨the⟩ bangsa ieu, nu maranéhna omongkeun ka sia; geus alus sagala nu maranéhna omongkeun.",
+  "translation": "Teras Yahwe ngadangu ⟨את⟩ sora kecap-kecap aranjeun nalika aranjeun ngomong ka abdi; sarta Yahwe ngandarakeun ka abdi: Abdi ngadangu ⟨את⟩ sora kecap-kecap bangsa ieu nu maranéhna ngomongkeun ka anjeun — alus sanes, sadayana nu maranéhna omongkeun.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "tuluy-ngadangu"
+      "gloss": "Teras ngadangu"
     },
     {
       "surface": "יהוה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sora omongan aranjeung"
+      "marks": "sora"
     },
     {
       "surface": "קול",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "דבריכם",
-      "gloss": "omongan-aranjeung"
+      "gloss": "kecap-kecap aranjeun"
     },
     {
       "surface": "בדברכם",
-      "gloss": "nalika-aranjeung-nyarita"
+      "gloss": "nalika aranjeun ngomong"
     },
     {
       "surface": "אלי",
-      "gloss": "ka-abdi"
+      "gloss": "ka abdi"
     },
     {
       "surface": "ויאמר",
-      "gloss": "sarta-ngomong"
+      "gloss": "sarta ngandarakeun"
     },
     {
       "surface": "יהוה",
@@ -46,16 +46,16 @@
     },
     {
       "surface": "אלי",
-      "gloss": "ka-abdi"
+      "gloss": "ka abdi"
     },
     {
       "surface": "שמעתי",
-      "gloss": "kuring-geus-ngadangu"
+      "gloss": "Abdi ngadangu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sora omongan bangsa ieu"
+      "marks": "sora"
     },
     {
       "surface": "קול",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "omongan"
+      "gloss": "kecap-kecap"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩-bangsa"
+      "gloss": "bangsa"
     },
     {
       "surface": "הזה",
@@ -79,19 +79,19 @@
     },
     {
       "surface": "דברו",
-      "gloss": "maranéhna-omongkeun"
+      "gloss": "maranéhna ngomongkeun"
     },
     {
       "surface": "אליך",
-      "gloss": "ka-sia"
+      "gloss": "ka anjeun"
     },
     {
       "surface": "היטיבו",
-      "gloss": "geus-alus"
+      "gloss": "alus sanes"
     },
     {
       "surface": "כל",
-      "gloss": "sagala"
+      "gloss": "sadayana"
     },
     {
       "surface": "אשר",
@@ -99,9 +99,9 @@
     },
     {
       "surface": "דברו",
-      "gloss": "maranéhna-omongkeun"
+      "gloss": "maranéhna omongkeun"
     }
   ],
-  "timestamp": "2026-08-26T16:46:14.678866208Z",
+  "timestamp": "2026-08-26T18:11:07.604085168Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "su",
   "chapter": 40,
-  "translation": "Sarta anjeunna ngukur ⟨את⟩ ⟨the⟩ buruan: panjangna saratus hasta, sarta lébarna saratus hasta, opat sagi; sarta ⟨the⟩ mézbéah aya di payuneun ⟨the⟩ Bait.",
+  "translation": "Jeung manéhna ngukur ⟨את⟩ ⟨the⟩ péndon panjangna saratus héjol sarta lébarna saratus héjol, ampang-ampang; jeung altar ⟨is⟩ di payuneun bumi.",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "sarta ngukur"
+      "gloss": "ngukur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ buruan"
+      "marks": "péndon"
     },
     {
       "surface": "החצר",
-      "gloss": "⟨the⟩ buruan"
+      "gloss": "péndon"
     },
     {
       "surface": "ארך",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "hasta"
+      "gloss": "héjol"
     },
     {
       "surface": "ורחב",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "אמה",
-      "gloss": "hasta"
+      "gloss": "héjol"
     },
     {
       "surface": "מרבעת",
-      "gloss": "opat sagi"
+      "gloss": "ampang-ampang"
     },
     {
       "surface": "והמזבח",
-      "gloss": "sarta ⟨the⟩ mézbéah"
+      "gloss": "jeung altar"
     },
     {
       "surface": "לפני",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ Bait"
+      "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-26T13:58:31.225100999Z",
+  "timestamp": "2026-08-26T19:05:09.209876098Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,29 @@
   "book": "habakkuk",
   "lang": "su",
   "chapter": 3,
-  "translation": "Doa Hasavaya kaping-2265: doa Habakuk, nabi éta, ngeunaan Shigionot.",
-  "tokens": [],
-  "timestamp": "2026-08-26T14:16:07.543719576Z",
+  "translation": "Du'a sanggama ti Khabakuk sang nabi, dumasar kana Shigionot",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "du'a sanggama"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ti Khabakuk"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dumasar kana"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "Shigionot"
+    }
+  ],
+  "timestamp": "2026-08-26T18:29:12.178763337Z",
   "model": "glm-5.3"
 }

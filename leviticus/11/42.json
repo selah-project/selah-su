@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 11,
-  "translation": "Sagala nu njajah dina beuteungna, jeung sagala nu njajah dina opat ⟨kaki⟩ nepi ka sagala nu ngarakeupkeun suku, ka sagala nu ngarambat nu ngarambat dina ⟨the⟩ bumi — ulah aranjeun ngédah ⟨aranjeunna⟩, sabab sheqestsadaya maranehna.",
+  "translation": "Sagala nu njajah kana beuteung, jeung sagala nu njajah kana opat suku, nepi ka sagala nu boga suku loba, ti sagala nu ngarayap nu ngarayap dina bumi — ulah aranjeun ngadahar □aranjeunna□, sabab □aranjeunna□ komo.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Sagala"
+      "gloss": "sagala"
     },
     {
       "surface": "הולך",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "dina"
+      "gloss": "ka"
     },
     {
       "surface": "גחון",
-      "gloss": "beuteungna"
+      "gloss": "beuteung"
     },
     {
       "surface": "וכל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "על",
-      "gloss": "dina"
+      "gloss": "ka"
     },
     {
       "surface": "ארבע",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מרבה",
-      "gloss": "nu ngarakeupkeun"
+      "gloss": "nu boga loba"
     },
     {
       "surface": "רגלים",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "לכל",
-      "gloss": "ka sagala"
+      "gloss": "ti sagala"
     },
     {
       "surface": "השרץ",
-      "gloss": "nu ngarambat"
+      "gloss": "nu ngarayap"
     },
     {
       "surface": "השרץ",
-      "gloss": "nu ngarambat"
+      "gloss": "nu ngarayap"
     },
     {
       "surface": "על",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ bumi"
+      "gloss": "bumi"
     },
     {
       "surface": "לא",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "תאכלום",
-      "gloss": "ngédah ⟨aranjeunna⟩"
+      "gloss": "anjeun ngadahar □aranjeunna□"
     },
     {
       "surface": "כי",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "sheqets"
+      "gloss": "komo"
     },
     {
       "surface": "הם",
-      "gloss": "maranehna"
+      "gloss": "□aranjeunna□"
     }
   ],
-  "timestamp": "2026-08-26T11:15:50.359542787Z",
+  "timestamp": "2026-08-26T18:07:04.878877928Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "su",
   "chapter": 22,
-  "translation": "Cicing jeung kuring; ulah sieun, sabab nu milari ⟨את⟩ nyawa kuring bakal milari ogé ⟨את⟩ nyawa anjeun; sabab anjeun ⟨is⟩ jagaan di gigireun kuring.",
+  "translation": "Cicing ⟨את⟩ abdi; ulah sieun, sabab nu milu nyalukeskeun ⟨את⟩ nyawa abdi, bakal nyalukeskeun ogé ⟨את⟩ nyawa anjeun; sabab anjeun kajeungan jeung abdi.",
   "tokens": [
     {
       "surface": "שבה",
@@ -13,8 +13,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ jeung",
-      "marks": "kuring"
+      "gloss": "⟨את⟩ abdi"
     },
     {
       "surface": "אל",
@@ -34,20 +33,20 @@
     },
     {
       "surface": "יבקש",
-      "gloss": "milari"
+      "gloss": "milu nyalukeskeun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nyawa kuring"
+      "marks": "nyawa abdi"
     },
     {
       "surface": "נפשי",
-      "gloss": "nyawa kuring"
+      "gloss": "nyawa abdi"
     },
     {
       "surface": "יבקש",
-      "gloss": "bakal milari ogé"
+      "gloss": "nyalukeskeun ogé"
     },
     {
       "surface": "את",
@@ -64,7 +63,7 @@
     },
     {
       "surface": "משמרת",
-      "gloss": "jagaan"
+      "gloss": "kajeungan"
     },
     {
       "surface": "אתה",
@@ -72,9 +71,9 @@
     },
     {
       "surface": "עמדי",
-      "gloss": "di gigireun kuring"
+      "gloss": "jeung abdi"
     }
   ],
-  "timestamp": "2026-08-26T12:23:06.126541814Z",
+  "timestamp": "2026-08-26T18:17:30.482473341Z",
   "model": "glm-5.3"
 }

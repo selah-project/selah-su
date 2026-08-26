@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 6,
-  "translation": "Sarta potongan Yahwe ngurilingan ⟨את» kota éta ngurilingan sakali, sarta aranjeun asup ka kempalan, teras ngingu di kempalan.",
+  "translation": "Jeung aron Yahwe ngurilingan ⟨את⟩ kota sakali giling, laju aranjeun balik ka kameungan sarta saré di kameungan.",
   "tokens": [
     {
       "surface": "ויסב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ארון",
-      "gloss": "potongan"
+      "gloss": "aron"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "kota"
     },
     {
       "surface": "העיר",
-      "gloss": "kota éta"
+      "gloss": "kota"
     },
     {
       "surface": "הקף",
-      "gloss": "ngurilingan"
+      "gloss": "giling"
     },
     {
       "surface": "פעם",
@@ -37,25 +38,25 @@
     },
     {
       "surface": "אחת",
-      "gloss": "sakahiji"
+      "gloss": "hiji"
     },
     {
       "surface": "ויבאו",
-      "gloss": "anjeunna asup ka"
+      "gloss": "balik ka"
     },
     {
       "surface": "המחנה",
-      "gloss": "kempalan"
+      "gloss": "kameungan"
     },
     {
       "surface": "וילינו",
-      "gloss": "teringu di"
+      "gloss": "saré"
     },
     {
       "surface": "במחנה",
-      "gloss": "kempalan"
+      "gloss": "di kameungan"
     }
   ],
-  "timestamp": "2026-08-26T11:53:49.641839086Z",
+  "timestamp": "2026-08-26T18:14:05.049062419Z",
   "model": "glm-5.3"
 }

@@ -5,22 +5,33 @@
   "book": "job",
   "lang": "su",
   "chapter": 11,
-  "translation": "Kabeungeut anjeun nyieun jalma {{}}nganggeng{{}}Han bungbung, jeung anjeun émut moyok, tanpa aya nu malik hate?",
+  "translation": "Kecap kabohonganmu nyieun ⟨⟨את⟩⟩ jalma-jalma dewasa hening, jeung anjeun ngahina, jeung euweuh nu malaheurkeun anjeun.",
   "tokens": [
     {
       "surface": "בדיך",
-      "gloss": "kabeungeut anjeun"
+      "gloss": "kabohonganmu"
     },
     {
       "surface": "מתים",
-      "gloss": "jalma"
+      "gloss": "jalma-jalma dewasa"
     },
     {
       "surface": "יחרישו",
-      "gloss": "ngan han"
+      "gloss": "hening"
     },
-    "ngan han"
+    {
+      "surface": "ותלעג",
+      "gloss": "jeung anjeun ngahina"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jeung euweuh"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "nu malaheurkeun"
+    }
   ],
-  "timestamp": "2026-08-26T15:08:12.976662814Z",
+  "timestamp": "2026-08-26T18:33:31.926865812Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,96 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 25,
-  "translation": "Sarta anjeunna nyusul saurang jalma Yisrael nepi ka kamar patepung, sarta ngeukeub ⟨את]] dua-duana — ⟨את⟩ saurang jalma Yisrael sarta ⟨את]] awéwé nepi deuteutna — sarta wabah kaeureunan tina putra-putra Yisrael.",
-  "tokens": [],
-  "timestamp": "2026-08-26T11:33:55.290242992Z",
+  "translation": "Lajeng ⟨élui⟩ asup nuturkeun lalaki Israél kana ⟨kamar⟩, sarta najrang ⟨את⟩ duanana — ⟨את⟩ lalaki Israél jeung ⟨את⟩ awéwé éta, kana beuteungna — lajeng eureun ⟨i⟩ wabah éta tina putra-putra Israél.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "asup"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nuturkeun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "najrang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duanana"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki Israél"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "jeung ⟨את⟩",
+      "marks": "awéwé éta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé éta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "beuteungna"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "eureun"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "wabah éta"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-26T18:09:45.664896853Z",
   "model": "glm-5.3"
 }

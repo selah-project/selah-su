@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 14,
-  "translation": "Pikeun ngabalik-arunkeun raray perkara éta, abdi anjeun Yoab ngalakukeun ⟨את⟩ perkara ieu; tapi Adonay bijak, lir bijakna laksarawat ⟨the⟩ Élohim, pikeun nyaho ⟨את⟩ sagala anu aya di bumi.",
+  "translation": "Pikeun ngabalikeun raray kana ulah ieu, abdi anjeun Yoab ngalakukeun ⟨את⟩ ulah ieu; jeung Tuan kuring wijaksana, luyu jeung kawijaksanan utusan ⟨eusi⟩ Elohim, pikeun nyaho ⟨את⟩ sadayana nu aya di bumi.",
   "tokens": [
     {
       "surface": "לבעבור",
-      "gloss": "pikeun"
+      "gloss": "pikeun ngabalikeun"
     },
     {
       "surface": "סבב",
-      "gloss": "ngabalik-arunkeun"
+      "gloss": "raray kana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "raray perkara éta"
+      "marks": "raray"
     },
     {
       "surface": "פני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "perkara éta"
+      "gloss": "ulah"
     },
     {
       "surface": "עשה",
@@ -43,11 +43,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perkara ieu"
+      "marks": "ulah ieu"
     },
     {
       "surface": "הדבר",
-      "gloss": "perkara"
+      "gloss": "ulah"
     },
     {
       "surface": "הזה",
@@ -55,23 +55,23 @@
     },
     {
       "surface": "ואדני",
-      "gloss": "tapi Adonay"
+      "gloss": "jeung Tuan kuring"
     },
     {
       "surface": "חכם",
-      "gloss": "bijak"
+      "gloss": "wijaksana"
     },
     {
       "surface": "כחכמת",
-      "gloss": "lir bijakna"
+      "gloss": "luyu jeung kawijaksanan"
     },
     {
       "surface": "מלאך",
-      "gloss": "laksarawat"
+      "gloss": "utusan"
     },
     {
       "surface": "האלהים",
-      "gloss": "Élohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לדעת",
@@ -80,21 +80,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sagala anu aya di bumi"
+      "marks": "sadayana"
     },
     {
       "surface": "כל",
-      "gloss": "sagala"
+      "gloss": "sadayana"
     },
     {
       "surface": "אשר",
-      "gloss": "anu"
+      "gloss": "nu"
     },
     {
       "surface": "בארץ",
-      "gloss": "aya di bumi"
+      "gloss": "di bumi"
     }
   ],
-  "timestamp": "2026-08-26T12:32:49.963817629Z",
+  "timestamp": "2026-08-26T19:02:49.334882153Z",
   "model": "glm-5.3"
 }

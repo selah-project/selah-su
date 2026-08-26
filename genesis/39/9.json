@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "su",
   "chapter": 39,
-  "translation": "Euweuh nu leuwih gedé dina imah ieu batan abdi, jeung anjeunna teu nanaungan saeutik-saeutik ogé ti abdi, iwal ⟨את⟩ anjeun, sabab ⟨את⟩ anjeun istrina; jeung kumaha abdi bakal ngalakukeun kajahatan nu agreng ieu, jeung dosa abdi ka Elohim?",
+  "translation": "Euweuh nu leuwih gedé di imah ieu batan abdi, sareng anjeuna teu nahan naon-naon ti abdi, iwal ⟨את⟩ ti anjeun, sabab anjeun pamajikanana; kumaha abdi ngalakukeun kaliwatan gedé ieu sareng dosa ka Elohim?",
   "tokens": [
     {
       "surface": "איננו",
-      "gloss": "euweuh nu"
+      "gloss": "euweuh"
     },
     {
       "surface": "גדול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "dina imah"
+      "gloss": "di imah"
     },
     {
       "surface": "הזה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "jeung teu"
+      "gloss": "sareng teu"
     },
     {
       "surface": "חשך",
-      "gloss": "nanaungan"
+      "gloss": "nahan"
     },
     {
       "surface": "ממני",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "hiji-hiji"
+      "gloss": "naon-naon"
     },
     {
       "surface": "כי",
-      "gloss": "anu"
+      "gloss": "sabab"
     },
     {
       "surface": "אם",
@@ -53,37 +53,35 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩",
-      "marks": "anjeun"
+      "gloss": "⟨את⟩ ti anjeun"
     },
     {
       "surface": "באשר",
-      "gloss": "sabab"
+      "gloss": "dina kalimah"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "istrina"
+      "gloss": "anjeun"
     },
     {
       "surface": "אשתו",
-      "gloss": "istrina"
+      "gloss": "pamajikanana"
     },
     {
       "surface": "ואיך",
-      "gloss": "jeung kumaha"
+      "gloss": "sareng kumaha"
     },
     {
       "surface": "אעשה",
-      "gloss": "abdi ngalakukeun"
+      "gloss": "abalakukeun"
     },
     {
       "surface": "הרעה",
-      "gloss": "kajahatan"
+      "gloss": "kaliwatan"
     },
     {
       "surface": "הגדלה",
-      "gloss": "nu agreng"
+      "gloss": "gedé"
     },
     {
       "surface": "הזאת",
@@ -91,13 +89,13 @@
     },
     {
       "surface": "וחטאתי",
-      "gloss": "jeung dosa abdi"
+      "gloss": "sareng dosa"
     },
     {
       "surface": "לאלהים",
       "gloss": "ka Elohim"
     }
   ],
-  "timestamp": "2026-08-26T10:49:59.345092475Z",
+  "timestamp": "2026-08-26T18:01:41.619712496Z",
   "model": "glm-5.3"
 }

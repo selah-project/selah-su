@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 4,
-  "translation": "Ieu mangrupakeun ⟨the⟩ kasaksian, jeung ⟨the⟩ katetepan, jeung ⟨the⟩ pangukum-an, nu diucapkeun ku Moshe ka bani Yisrael nalika aranjeunna kaluar ti Mitsrayim.",
+  "translation": "Ieu ⟨⟩ pasaksian-pasaksian, jeung katangtuan-katangtuan, jeung putusan-putusan, nu dicaritakeun ku Moshe ka putra-putra Yisrael nalika kaluarna aranjeunna ti Mitsrayim.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Ieu"
+      "gloss": "ieu"
     },
     {
       "surface": "העדת",
-      "gloss": "kasaksian"
+      "gloss": "pasaksian-pasaksian"
     },
     {
       "surface": "והחקים",
-      "gloss": "jeung katetepan"
+      "gloss": "jeung katangtuan-katangtuan"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "jeung pangukum-an"
+      "gloss": "jeung putusan-putusan"
     },
     {
       "surface": "אשר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "diucapkeun"
+      "gloss": "dicaritakeun"
     },
     {
       "surface": "משה",
-      "gloss": "ku Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "אל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "bani"
+      "gloss": "putra-putra"
     },
     {
       "surface": "ישראל",
@@ -56,6 +56,6 @@
       "gloss": "ti Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-26T11:40:03.458772188Z",
+  "timestamp": "2026-08-26T18:11:39.120335043Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 7,
-  "translation": "Sarta ⟨את⟩ laut nu hiji, sarta ⟨את〉 dua belas embé di handapeun laut.",
+  "translation": "jeung ⟨את⟩ cai-baskom nu hiji, jeung ⟨את⟩ danghai dua belas di handapeun cai-baskom.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "sarta ⟨את⟩",
-      "marks": "laut nu hiji"
+      "gloss": "⟨את⟩",
+      "marks": "cai-baskom nu hiji"
     },
     {
       "surface": "הים",
-      "gloss": "laut"
+      "gloss": "cai-baskom"
     },
     {
       "surface": "האחד",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "sarta ⟨את⟩",
-      "marks": "dua belas embé"
+      "gloss": "⟨את⟩",
+      "marks": "danghai dua belas"
     },
     {
       "surface": "הבקר",
-      "gloss": "embé"
+      "gloss": "danghai"
     },
     {
       "surface": "שנים",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "הים",
-      "gloss": "laut"
+      "gloss": "cai-baskom"
     }
   ],
-  "timestamp": "2026-08-26T12:40:14.299992924Z",
+  "timestamp": "2026-08-26T18:18:42.932123083Z",
   "model": "glm-5.3"
 }

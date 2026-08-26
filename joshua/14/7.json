@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 14,
-  "translation": "Umur opat puluh taun kuring nalika Moshe, abdi Yahwe, ngirim ⟨את⟩ kuring ti Kadesh-Barnea pikeun nityaan ⟨את⟩ ⟨the⟩ tanah; ⟨את⟩ sarta kuring mawa balik ka anjeunna ⟨את⟩ laporan, luyu jeung anu aya dina hate kuring.",
+  "translation": "Umur opat puluh taun kuring basa Moshe, abdi Yahwe, ngutus ⟨את⟩ kuring ti Kadésy-Barnéa pikeun nyasat ⟨את⟩ tanah éta; sarta kuring mulangkeun ka anjeunna ⟨את⟩ laporan nurutkeun naon anu aya dina jero ati kuring.",
   "tokens": [
     {
       "surface": "בן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בשלח",
-      "gloss": "nalika ngirim"
+      "gloss": "basa ngutus"
     },
     {
       "surface": "משה",
@@ -41,40 +41,38 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ kuring"
+      "gloss": "⟨את⟩",
+      "marks": "kuring"
     },
     {
       "surface": "מקדש",
-      "gloss": "ti Kadesh"
+      "gloss": "ti Kadésy"
     },
     {
       "surface": "ברנע",
-      "gloss": "Barnea"
+      "gloss": "Barnéa"
     },
     {
       "surface": "לרגל",
-      "gloss": "pikeun nityaan"
+      "gloss": "pikeun nyasat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanah"
+      "marks": "tanah éta"
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
-    },
-    {
-      "surface": "ויאשב",
-      "gloss": ""
+      "gloss": "tanah éta"
     },
     {
       "surface": "ואשב",
-      "gloss": "⟨את⟩ sarta kuring mawa balik"
+      "gloss": "sarta kuring mulangkeun"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ka anjeunna"
+      "gloss": "⟨את⟩",
+      "marks": "laporan"
     },
     {
       "surface": "דבר",
@@ -82,17 +80,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "luyu jeung anu"
+      "gloss": "nurutkeun naon anu"
     },
     {
       "surface": "עם",
-      "gloss": "aya dina"
+      "gloss": "aya di jero"
     },
     {
       "surface": "לבבי",
-      "gloss": "hate kuring"
+      "gloss": "ati kuring"
     }
   ],
-  "timestamp": "2026-08-26T11:57:57.715127486Z",
+  "timestamp": "2026-08-26T18:14:11.230432979Z",
   "model": "glm-5.3"
 }

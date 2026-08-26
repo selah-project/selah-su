@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 140,
-  "translation": "Bilikeun abdi, Yahwe, ti ⟨the⟩ jalma jahat, ti ⟨the⟩ lalaki nu mawa kajahatan; anjeun ngajaga abdi.",
+  "translation": "Tariaskeun abdi, wahai Yahwe, tina jalma jahat; tina jalma suffongan tetep jagaan abdi.",
   "tokens": [
     {
       "surface": "חלצני",
-      "gloss": "Bilikeun abdi"
+      "gloss": "tariaskeun abdi"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מאדם",
-      "gloss": "ti jalma"
+      "gloss": "tina jalma"
     },
     {
       "surface": "רע",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "מאיש",
-      "gloss": "ti lalaki"
+      "gloss": "tina jalma suffongan"
     },
     {
       "surface": "חמסים",
-      "gloss": "nu mawa kajahatan"
+      "gloss": "suffongan"
     },
     {
       "surface": "תנצרני",
-      "gloss": "anjeun ngajaga abdi"
+      "gloss": "tetep jagaan abdi"
     }
   ],
-  "timestamp": "2026-08-26T14:52:04.057877076Z",
+  "timestamp": "2026-08-26T18:32:37.762807769Z",
   "model": "glm-5.3"
 }

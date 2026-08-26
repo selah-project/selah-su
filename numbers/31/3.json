@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 31,
-  "translation": "Lajeng Moshe ngomong ka ⟨the⟩ bangsa, sangkan nyarita: Siapkeun ti antara anjeun lalaki pikeun perang, sangkan maranéhna ngalawan Midian, méré balas dendam Yahwe ka Midian.",
+  "translation": "Jeung Moshe ngomong ka bangsa éta, sangkan ngomong: Pilih ti jeru ⟨את⟩ aranjeun sawaréh lalaki pikeun perang, aranjeunna pindah ka Midian, méré balas dendam Yahwe ka Midian.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -21,19 +21,20 @@
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "bangsa éta"
     },
     {
       "surface": "לאמר",
-      "gloss": "sangkan nyarita"
+      "gloss": "sangkan ngomong"
     },
     {
       "surface": "החלצו",
-      "gloss": "siapkeun"
+      "gloss": "pilih"
     },
     {
       "surface": "מאתכם",
-      "gloss": "⟨את⟩ ti antara anjeun"
+      "gloss": "ti jeru ⟨את⟩ aranjeun",
+      "marks": "aranjeun"
     },
     {
       "surface": "אנשים",
@@ -45,11 +46,11 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "sangkan maranéhna jadi"
+      "gloss": "anjeunna pindah"
     },
     {
       "surface": "על",
-      "gloss": "ngalawan"
+      "gloss": "ka"
     },
     {
       "surface": "מדין",
@@ -72,6 +73,6 @@
       "gloss": "ka Midian"
     }
   ],
-  "timestamp": "2026-08-26T11:35:47.872089109Z",
+  "timestamp": "2026-08-26T19:13:22.043041844Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "2-samuel",
   "lang": "su",
   "chapter": 1,
-  "translation": "Jadi kajadian sanggeus maotna Shaol, Dawid balik deui ti maéhan ⟨את⟩ ⟨the⟩ Amalek, sarta Dawid dumuk di Tsiklag dua poé.",
+  "translation": "Lajuning réngsé Shaul maot, Dawid balik ti maéhan ⟨את⟩ Amalek, sarta Dawid dumuk di Tsiklag salila dua poé.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kajadian"
+      "gloss": "lajuning"
     },
     {
       "surface": "אחרי",
-      "gloss": "sanggeus"
+      "gloss": "réngsé"
     },
     {
       "surface": "מות",
-      "gloss": "maotna"
+      "gloss": "maot"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaol"
+      "gloss": "Shaul"
     },
     {
       "surface": "ודוד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שב",
-      "gloss": "balik deui"
+      "gloss": "balik"
     },
     {
       "surface": "מהכות",
@@ -38,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ Amalek"
+      "marks": "Amalek"
     },
     {
       "surface": "העמלק",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "dumuk"
+      "gloss": "sarta dumuk"
     },
     {
       "surface": "דוד",
@@ -65,6 +65,6 @@
       "gloss": "dua"
     }
   ],
-  "timestamp": "2026-08-26T12:26:59.165947512Z",
+  "timestamp": "2026-08-26T18:17:15.420569904Z",
   "model": "glm-5.3"
 }

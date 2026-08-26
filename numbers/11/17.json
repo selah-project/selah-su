@@ -5,27 +5,27 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 11,
-  "translation": "Turun abdi sumping, sarta abdi ngomong jeung anjeun di dinya, sarta abdi nyandet tina roh nu aya di luhureun anjeun, sarta abdi nempatkeun eta ka maranehna, sangkan maranehna mawa babarengan jeung anjeun beban ⟨⟨העם ieu teu bener —改正: beban⟩> masarakat, nepi ka anjeun henteu mawa nyalira wungkul.",
+  "translation": "Jeung abdi bakal turun sarta nyarita jeung anjeun di dinya, jeung abdi bakal ngamilu tina roh nu aya di luhureun anjeun, jeung nempatkeunana ka aranjeunna, supaya maranehna mawa babarengan ⟨את⟩ jeung anjeun beban ⟨את⟩ bangsa éta, jeung anjeun moal mawa anjeun sorangan.",
   "tokens": [
     {
       "surface": "וירדתי",
-      "gloss": "turun-abdi-sumping"
+      "gloss": "jeung abdi bakal turun"
     },
     {
       "surface": "ודברתי",
-      "gloss": "abdi-ngomong"
+      "gloss": "jeung abdi nyarita"
     },
     {
       "surface": "עמך",
-      "gloss": "jeung-anjeun"
+      "gloss": "jeung anjeun"
     },
     {
       "surface": "שם",
-      "gloss": "di-dinya"
+      "gloss": "di dinya"
     },
     {
       "surface": "ואצלתי",
-      "gloss": "abdi-nyandet"
+      "gloss": "jeung abdi bakal ngamilu"
     },
     {
       "surface": "מן",
@@ -41,23 +41,24 @@
     },
     {
       "surface": "עליך",
-      "gloss": "di-luhureun-anjeun"
+      "gloss": "aya di luhureun anjeun"
     },
     {
       "surface": "ושמתי",
-      "gloss": "abdi-nempatkeun"
+      "gloss": "jeung abdi nempatkeunana"
     },
     {
       "surface": "עליהם",
-      "gloss": "ka-maranehna"
+      "gloss": "ka aranjeunna"
     },
     {
       "surface": "ונשאו",
-      "gloss": "maranehna-mawa"
+      "gloss": "supaya maranehna mawa"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ jeung-anjeun"
+      "gloss": "⟨את⟩ jeung anjeun",
+      "marks": "anjeun"
     },
     {
       "surface": "במשא",
@@ -65,15 +66,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "masarakat"
+      "gloss": "bangsa éta"
     },
     {
       "surface": "ולא",
-      "gloss": "sangkan-henteu"
+      "gloss": "jeung moal"
     },
     {
       "surface": "תשא",
-      "gloss": "anjeun-mawa"
+      "gloss": "anjeun mawa"
     },
     {
       "surface": "אתה",
@@ -81,9 +82,9 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "nyalira-wungkul"
+      "gloss": "anjeun sorangan"
     }
   ],
-  "timestamp": "2026-08-26T11:28:43.929296831Z",
+  "timestamp": "2026-08-26T18:09:01.420053319Z",
   "model": "glm-5.3"
 }

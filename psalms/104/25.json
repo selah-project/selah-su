@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 104,
-  "translation": "Ieu ⟨the⟩ lautan, agung jeung lébar kadua sisi, di dinya rémés tanpa wilangan, mahluk hirup leutik jeung ⟨anu>> agung.",
+  "translation": "Ieu laut, nu gedé jeung lébar kana sagala arah, di dinya rémés tanpa wilangan, mahluk hirup leutik jeung badag.",
   "tokens": [
     {
       "surface": "זה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הים",
-      "gloss": "⟨the>> lautan"
+      "gloss": "laut"
     },
     {
       "surface": "גדול",
-      "gloss": "agung"
+      "gloss": "gedé"
     },
     {
       "surface": "ורחב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ידים",
-      "gloss": "kadua sisi"
+      "gloss": "ka sagala arah"
     },
     {
       "surface": "שם",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "גדלות",
-      "gloss": "agung"
+      "gloss": "badag"
     }
   ],
-  "timestamp": "2026-08-26T14:43:09.688205235Z",
+  "timestamp": "2026-08-26T19:07:55.024226703Z",
   "model": "glm-5.3"
 }

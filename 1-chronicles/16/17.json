@@ -5,8 +5,33 @@
   "book": "1-chronicles",
   "lang": "su",
   "chapter": 16,
-  "translation": "Jeung anjeunna ngadegkeunana ka Yaakov jadi katangtuan, ka Yisrael jadi perjangjian ka来访 Nope —",
-  "tokens": [],
-  "timestamp": "2026-08-26T17:25:11.262123534Z",
+  "translation": "Jeung manehna ngadegkeunana ka Yaakov jadi katangtuan, ka Yisrael jadi perjangjian salawasna;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "jeung manehna ngadegkeunana"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ka Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "jadi katangtuan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ka Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjangjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasna"
+    }
+  ],
+  "timestamp": "2026-08-26T18:37:41.064982097Z",
   "model": "glm-5.3"
 }

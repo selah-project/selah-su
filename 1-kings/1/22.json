@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 1,
-  "translation": "Jeung巷 mangsa manehna can rérésoh nyarita jeung ⟨ה⟩raja, Natan sang nabi sumping.",
+  "translation": "Jeung tikamariha, mangsa manéhna canget kénéh nyarita jeung ⟨raja⟩, Natan sang nabi sumping.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Jeung巷"
+      "gloss": "jeung tikamariha"
     },
     {
       "surface": "עודנה",
-      "gloss": "can rérésoh"
+      "gloss": "canget kénéh"
     },
     {
       "surface": "מדברת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "⟨raja⟩"
     },
     {
       "surface": "ונתן",
@@ -40,6 +40,6 @@
       "gloss": "sumping"
     }
   ],
-  "timestamp": "2026-08-26T12:37:45.338609264Z",
+  "timestamp": "2026-08-26T18:18:25.277556839Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 37,
-  "translation": "Jeung anjeunna nyieun ⟨את⟩ parabot-parabot nu aya luhur ⟨the⟩ méja: ⟨את⟩ piring-piringana jeung ⟨את⟩ séndok-séndokana jeung ⟨את⟩ mangkok-mangkokana jeung ⟨את⟩ wadah-wadah nu dipaké nyéok ku aranjeunana, tina emas murni.",
+  "translation": "Jeung anjeunna nyieun ⟨את⟩ parabot-parabot nu aya dina luhur méja — ⟨את⟩ piring-piringana, ⟨את⟩ céngkilatna, ⟨את⟩ mangkok-mangkokna, jeung ⟨את⟩ tutupna nu dipaké nutupan ku éta — tina emas murni.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "jeung anjeunna nyieun"
+      "gloss": "Jeung anjeunna nyieun"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "על",
-      "gloss": "luhur"
+      "gloss": "dina luhur"
     },
     {
       "surface": "השלחן",
@@ -44,29 +44,29 @@
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "séndok-séndokana"
+      "marks": "céngkilatna"
     },
     {
       "surface": "כפתיו",
-      "gloss": "séndok-séndokana"
+      "gloss": "céngkilatna"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "mangkok-mangkokana"
+      "marks": "mangkok-mangkokna"
     },
     {
       "surface": "מנקיתיו",
-      "gloss": "mangkok-mangkokana"
+      "gloss": "mangkok-mangkokna"
     },
     {
       "surface": "ואת",
       "gloss": "jeung ⟨את⟩",
-      "marks": "wadah-wadah"
+      "marks": "tutupna"
     },
     {
       "surface": "הקשות",
-      "gloss": "wadah-wadah"
+      "gloss": "tutupna"
     },
     {
       "surface": "אשר",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "יסך",
-      "gloss": "dipaké nyéok"
+      "gloss": "dipaké nutupan"
     },
     {
       "surface": "בהן",
-      "gloss": "ku aranjeunana"
+      "gloss": "ku éta"
     },
     {
       "surface": "זהב",
@@ -89,6 +89,6 @@
       "gloss": "murni"
     }
   ],
-  "timestamp": "2026-08-26T11:11:10.775635601Z",
+  "timestamp": "2026-08-26T18:05:25.432145668Z",
   "model": "glm-5.3"
 }

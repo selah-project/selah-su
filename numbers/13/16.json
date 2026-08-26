@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 13,
-  "translation": "Ieu ⟨⟨nyaéta⟩⟩ ngaran-ngaran jalma-jalma nu dikirim ku Moshe pikeun ngintip ⟨את⟩ ⟨the⟩ tanah; jeung Moshe nyebut Hosyea putra Nun, Yehosyea.",
+  "translation": "Ieu ngaran-ngaran ⟨את⟩ jalma-jalma nu dipasihan ku Moshe pikeun ngatalungtik ⟨את⟩ tanah éta; sarta Moshe nyebut Hoshea bin Nun — Yehosua.",
   "tokens": [
     {
       "surface": "אלה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "dikirim"
+      "gloss": "dipasihan"
     },
     {
       "surface": "משה",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "לתור",
-      "gloss": "pikeun ngintip"
+      "gloss": "pikeun ngatalungtik"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanah"
+      "marks": "tanah éta"
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
+      "gloss": "tanah éta"
     },
     {
       "surface": "ויקרא",
-      "gloss": "jeung nyebut"
+      "gloss": "sarta nyebut"
     },
     {
       "surface": "משה",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "להושע",
-      "gloss": "Hosyea"
+      "gloss": "Hoshea"
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "bin"
     },
     {
       "surface": "נון",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehosyea"
+      "gloss": "Yehosua"
     }
   ],
-  "timestamp": "2026-08-26T11:28:27.887636496Z",
+  "timestamp": "2026-08-26T18:08:44.416120642Z",
   "model": "glm-5.3"
 }

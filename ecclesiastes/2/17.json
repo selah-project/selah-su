@@ -5,20 +5,20 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 2,
-  "translation": "Jadi kuring miceun haté ka ⟨את⟩ kahirupan, sabab pikasieuneun pikeun kuring pagawéan nu diyasakeun di handap panonpoé, sabab sadayana hebel jeung rarasaan nyeri dina ◄ruax►.",
+  "translation": "Jadi kuring ngabenci ⟨את⟩ hirup, sabab goreng pikeun kuring gawé nu dijieun sahandapeun panonpoé, sabab sadayana hebel jeung kasusahan awon nu ngahiliwir.",
   "tokens": [
     {
       "surface": "ושנאתי",
-      "gloss": "kuring miceun haté ka"
+      "gloss": "jadi kuring ngabenci"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kahirupan"
+      "marks": "hirup"
     },
     {
       "surface": "החיים",
-      "gloss": "kahirupan"
+      "gloss": "hirup"
     },
     {
       "surface": "כי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "רע",
-      "gloss": "pikasieuneun"
+      "gloss": "goreng"
     },
     {
       "surface": "עלי",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "המעשה",
-      "gloss": "pagawéan"
+      "gloss": "gawé"
     },
     {
       "surface": "שנעשה",
-      "gloss": "nu diyasakeun"
+      "gloss": "nu dijieun"
     },
     {
       "surface": "תחת",
-      "gloss": "di handap"
+      "gloss": "sahandapeun"
     },
     {
       "surface": "השמש",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "ורעות",
-      "gloss": "jeung rarasaan nyeri"
+      "gloss": "jeung kasusahan awon"
     },
     {
       "surface": "רוח",
-      "gloss": "◄ruax►"
+      "gloss": "nu ngahiliwir"
     }
   ],
-  "timestamp": "2026-08-26T15:31:54.481428303Z",
+  "timestamp": "2026-08-26T18:35:08.051275648Z",
   "model": "glm-5.3"
 }

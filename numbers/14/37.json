@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 14,
-  "translation": "Maot ⟨lah⟩ éta lalaki-lalaki, nu mawa kaluar fitnah ngeunaan ⟨the⟩ éta tanah — nu jahat — ku wabah panyakit, di payuneun Yahwe.",
+  "translation": "Lajeng maot ⟨∅⟩ jalma-jalma nu mawa kaluar fitnah ngeunaan ⟨∅⟩ tanah eta, ku wabah panyakit, di payuneun Yahwe.",
   "tokens": [
     {
       "surface": "וימתו",
-      "gloss": "maot"
+      "gloss": "lajeng maot"
     },
     {
       "surface": "האנשים",
-      "gloss": "éta lalaki-lalaki"
+      "gloss": "jalma-jalma"
     },
     {
       "surface": "מוצאי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "éta tanah"
+      "gloss": "tanah eta"
     },
     {
       "surface": "רעה",
-      "gloss": "nu jahat"
+      "gloss": "jahat"
     },
     {
       "surface": "במגפה",
@@ -44,6 +44,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-26T11:29:09.079106487Z",
+  "timestamp": "2026-08-26T18:40:18.428865737Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 1,
-  "translation": "Yahwe, Elohim arinyana, anu lumaku di payuneun arinyana, мантик ⟨manéhna⟩ bakal perang pikeun arinyana, sakumaha anu geus dipigawé-Na jeung ⟨את⟩ arinyana di Misir, di payuneun panon arinyana.",
+  "translation": "Yahwe Elohim aranjeun, Nu lumampah di payuneun aranjeun, manehna anu baris perang pikeun aranjeun, saluyu jeung sadaya nu geus dipigawé-Na ka ⟨את⟩ aranjeun di Mitsrayim di payuneun panon aranjeun.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,35 +13,35 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim arinyana"
+      "gloss": "Elohim aranjeun"
     },
     {
       "surface": "ההלך",
-      "gloss": "anu lumaku"
+      "gloss": "Nu lumampah"
     },
     {
       "surface": "לפניכם",
-      "gloss": "di payuneun arinyana"
+      "gloss": "di payuneun aranjeun"
     },
     {
       "surface": "הוא",
-      "gloss": "manéhna"
+      "gloss": "manehna"
     },
     {
       "surface": "ילחם",
-      "gloss": "bakal perang"
+      "gloss": "baris perang"
     },
     {
       "surface": "לכם",
-      "gloss": "pikeun arinyana"
+      "gloss": "pikeun aranjeun"
     },
     {
       "surface": "ככל",
-      "gloss": "sakumaha sadayana"
+      "gloss": "saluyu jeung sadaya"
     },
     {
       "surface": "אשר",
-      "gloss": "anu"
+      "gloss": "nu"
     },
     {
       "surface": "עשה",
@@ -49,17 +49,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "jeung ⟨את⟩ arinyana"
+      "gloss": "⟨את⟩ ka",
+      "marks": "aranjeun"
     },
     {
       "surface": "במצרים",
-      "gloss": "di Misir"
+      "gloss": "di Mitsrayim"
     },
     {
       "surface": "לעיניכם",
-      "gloss": "di payuneun panon arinyana"
+      "gloss": "di payuneun panon aranjeun"
     }
   ],
-  "timestamp": "2026-08-26T11:38:13.487987470Z",
+  "timestamp": "2026-08-26T18:10:41.644909646Z",
   "model": "glm-5.3"
 }

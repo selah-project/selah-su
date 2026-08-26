@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 23,
-  "translation": "Lamun aya di antara anjeun saurang lalaki nu teu jadi murni ku sabab kajadian peuting, mangka manéhna kaluar ka luar ti kamp; manéhna teu asup ka jero ⟨⟨the⟩⟩ kamp.",
+  "translation": "Lamun aya di antara anjeun saurang lalaki nu teu beresih kusabab kajadian peuting, mangka manehna kaluar ka luar pakemah, teu asup ka jero ⟨rahina⟩ pakemah.",
   "tokens": [
     {
       "surface": "כי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "טהור",
-      "gloss": "murni"
+      "gloss": "beresih"
     },
     {
       "surface": "מקרה",
-      "gloss": "ku sabab kajadian"
+      "gloss": "kusabab kajadian"
     },
     {
       "surface": "לילה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "mangka manéhna kaluar"
+      "gloss": "mangka kaluar"
     },
     {
       "surface": "אל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "ti kamp"
+      "gloss": "pakemah"
     },
     {
       "surface": "לא",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "kamp"
+      "gloss": "⟨rahina⟩ pakemah"
     }
   ],
-  "timestamp": "2026-08-26T11:48:24.290457271Z",
+  "timestamp": "2026-08-26T18:12:29.362596050Z",
   "model": "glm-5.3"
 }

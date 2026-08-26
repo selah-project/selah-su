@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 17,
-  "translation": "Teras raja Ashur naék ka sakuliah ⟨the⟩ tanah, sarta naék ka Shomeron, sarta ngepung ka dinya tilu tahun.",
+  "translation": "Teras raja Ashur naik ngaliwatan sakabéh ⟨the⟩ tanah, teras naik ka Shomeron, teras ngepung ⟨inaon⟩ salila tilu taun.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "teras-naék"
+      "gloss": "teras naik"
     },
     {
       "surface": "מלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "ka-sakuliah"
+      "gloss": "ngaliwatan sakabéh"
     },
     {
       "surface": "הארץ",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "sarta-naék"
+      "gloss": "teras naik"
     },
     {
       "surface": "שמרון",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ויצר",
-      "gloss": "sarta-ngepung"
+      "gloss": "teras ngepung"
     },
     {
       "surface": "עליה",
-      "gloss": "ka-dinya"
+      "gloss": "⟨inaon⟩"
     },
     {
       "surface": "שלש",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "שנים",
-      "gloss": "tahun"
+      "gloss": "taun"
     }
   ],
-  "timestamp": "2026-08-26T12:56:55.509392097Z",
+  "timestamp": "2026-08-26T19:03:31.953303068Z",
   "model": "glm-5.3"
 }

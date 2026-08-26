@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 50,
-  "translation": "Anjeunna ngagero ka langit-langit ti luhur jeung ka bumi, mimiti ngahakiman umat-Na.",
+  "translation": "Manjerona ka ⟨את⟩ langit-langit ti luhur, jeung ka ⟨את⟩ bumi, pikeun ngahukum umat-Na.",
   "tokens": [
     {
-      "surface": "יקררא",
-      "gloss": "ngagero"
+      "surface": "יקרא",
+      "gloss": "manjerona"
     },
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨the⟩ langit-langit"
+      "gloss": "langit-langit"
     },
     {
       "surface": "מעל",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "לדין",
-      "gloss": "pikeun ngahakiman"
+      "gloss": "pikeun ngahukum"
     },
     {
       "surface": "עמו",
       "gloss": "umat-Na"
     }
   ],
-  "timestamp": "2026-08-26T14:32:46.370513724Z",
+  "timestamp": "2026-08-26T19:05:46.922625190Z",
   "model": "glm-5.3"
 }

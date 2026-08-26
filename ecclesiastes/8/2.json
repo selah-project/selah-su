@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 8,
-  "translation": "Abdi ⟨nyarita>: paikeuneun sungut raja, jeung lantaran sumpah Elohim.",
+  "translation": "Abdi ⟨⟨⟩⟩ — peutingeun ⟨את⟩ sungutan raja, jeung ku sabab sumpah Elohim.",
   "tokens": [
     {
       "surface": "אני",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "פי",
-      "gloss": "sungut"
+      "gloss": "sungutan"
     },
     {
-      "surface": "mלך",
+      "surface": "מלך",
       "gloss": "raja"
     },
     {
       "surface": "שמור",
-      "gloss": "paikeuneun"
+      "gloss": "peutingeun"
     },
     {
       "surface": "ועל",
-      "gloss": "jeung lantaran"
+      "gloss": "jeung ku sabab"
     },
     {
       "surface": "דברת",
-      "gloss": "lantaran"
+      "gloss": ""
     },
     {
       "surface": "שבועת",
@@ -40,6 +40,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-26T15:34:25.708036527Z",
+  "timestamp": "2026-08-26T18:34:54.678995150Z",
   "model": "glm-5.3"
 }

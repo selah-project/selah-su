@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 8,
-  "translation": "Jeung Elisha nyarita ka awéwé nu hirup deui anakna, sangkan ngomong: Tingharita sarta indit, anjeun jeung ⟨את⟩ imah anjeun, cicing di mana anjeun tiasa cicing, sabab Yahwe geus ngagero kalaparan, jeung ogé geus datang ka ⟨the⟩ nagara tujuh taun.",
+  "translation": "Jeung Elisha nyarita ka awéwé nu geus dipanghirupkeunana ⟨את⟩ putrana, sangkan: Bugang, mios anjeun jeung imah anjeun, jeung ngumum di mana-wae anjeun ngumum, sabab Yahwe geus ngeran ka kalaparan, ogé geus datang ka ⟨tanah⟩ éta tujuh taun.",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "החיה",
-      "gloss": "hirup deui"
+      "gloss": "dipanghirupkeunana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "anakna"
+      "marks": "putrana"
     },
     {
       "surface": "בנה",
-      "gloss": "anakna"
+      "gloss": "putrana"
     },
     {
       "surface": "לאמר",
-      "gloss": "sangkan ngomong"
+      "gloss": "sangkan"
     },
     {
       "surface": "קומי",
-      "gloss": "Tingharita"
+      "gloss": "bugang"
     },
     {
       "surface": "ולכי",
-      "gloss": "sarta indit"
+      "gloss": "mios"
     },
     {
       "surface": "אתי",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "וגורי",
-      "gloss": "cicing"
+      "gloss": "ngumum"
     },
     {
       "surface": "באשר",
-      "gloss": "di mana"
+      "gloss": "di mana-wae"
     },
     {
       "surface": "תגורי",
-      "gloss": "anjeun tiasa cicing"
+      "gloss": "anjeun ngumum"
     },
     {
       "surface": "כי",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "geus ngagero"
+      "gloss": "ngeren\/ geus ngeran"
     },
     {
       "surface": "יהוה",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "לרעב",
-      "gloss": "kalaparan"
+      "gloss": "ka kalaparan"
     },
     {
       "surface": "וגם",
-      "gloss": "jeung ogé"
+      "gloss": "ogé"
     },
     {
       "surface": "בא",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "nagara"
+      "gloss": "⟨tanah⟩ éta"
     },
     {
       "surface": "שבע",
@@ -113,6 +113,6 @@
       "gloss": "taun"
     }
   ],
-  "timestamp": "2026-08-26T12:53:10.464524625Z",
+  "timestamp": "2026-08-26T19:03:43.045279220Z",
   "model": "glm-5.3"
 }

@@ -5,10 +5,10 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 4,
-  "translation": "Jeung kuring nempo ⟨את⟩ sagala palawasan jeung ⟨את⟩ sagala kasuksésan gawé, sabab éta ⟨is⟩ iri haté jalma ka babaturanana; ieu ogé hebel jeung ngahuntal angin.",
+  "translation": "Jeung kuring nempo ⟨את⟩ sagala ceungcéwé gawé jeung ⟨את⟩ sagala kasuksésan pagawéan, sabab éta tayalian iridwa saurang ka babaturana; ieu ogé hebel jeung ngarieut angin.",
   "tokens": [
     {
-      "surface": "וראיתי",
+      "surface": "וראאיתי",
       "gloss": "jeung kuring nempo"
     },
     {
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sagala palawasan"
+      "marks": "sagala ceungcéwé gawé"
     },
     {
       "surface": "כל",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "עמל",
-      "gloss": "palawasan"
+      "gloss": "ceungcéwé gawé"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sagala kasuksésan gawé"
+      "marks": "sagala kasuksésan pagawéan"
     },
     {
       "surface": "כל",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "המעשה",
-      "gloss": "gawé"
+      "gloss": "pagawéan"
     },
     {
       "surface": "כי",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "קנאת",
-      "gloss": "iri haté"
+      "gloss": "iridwa"
     },
     {
       "surface": "איש",
-      "gloss": "jalma"
+      "gloss": "saurang"
     },
     {
       "surface": "מרעהו",
-      "gloss": "ka babaturanana"
+      "gloss": "ka babaturana"
     },
     {
       "surface": "גם",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "ורעות",
-      "gloss": "jeung ngahuntal"
+      "gloss": "jeung ngarieut"
     },
     {
       "surface": "רוח",
       "gloss": "angin"
     }
   ],
-  "timestamp": "2026-08-26T15:33:19.498065868Z",
+  "timestamp": "2026-08-26T18:34:54.969413222Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 11,
-  "translation": "Sabab mun jalma hirup loba taun, dina sadayana aranjeunna sugema, tapi inget ⟨את⟩ poé-poé kakiembaraan, sabab loba pisan aranjeunna bakal; sadaya nu datang ⟨is⟩ hésé hé.",
+  "translation": "Sabab mun jalma hirup taun-taun loba, sangkan manéhna bungah sadayanaana, jeung sangkan manéhna émut ⟨את⟩ poé-poé ku poék, sabab loba pisan bakal jadi sadaya nu datang — hebel.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שנים",
-      "gloss": "taun"
+      "gloss": "taun-taun"
     },
     {
       "surface": "הרבה",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "בכלם",
-      "gloss": "dina sadayana aranjeunna"
+      "gloss": "sadayanaana"
     },
     {
       "surface": "ישמח",
-      "gloss": "sugema"
+      "gloss": "bungah"
     },
     {
       "surface": "ויזכר",
-      "gloss": "tapi inget"
+      "gloss": "jeung émut"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "poé-poé"
+      "marks": "poé-poé ku poék"
     },
     {
       "surface": "ימי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "החשך",
-      "gloss": "kakiembaraan"
+      "gloss": "ku poék"
     },
     {
       "surface": "כי",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "bakal aya"
+      "gloss": "bakal jadi"
     },
     {
       "surface": "כל",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "הבל",
-      "gloss": "hésé hé"
+      "gloss": "hebel"
     }
   ],
-  "timestamp": "2026-08-26T15:35:43.882968518Z",
+  "timestamp": "2026-08-26T18:34:59.894777441Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,15 @@
   "book": "nehemiah",
   "lang": "su",
   "chapter": 5,
-  "translation": "Pangéling-élingkeun ka abdi, Elohim abdi, kanggo kabecikan, sadayana nu geus kaula lakonan keur ieu bangsa.",
+  "translation": "Ingget-paningget ka abdi, Elohim abdi, ka harepan kabungahan, sadayana nu abdi pigawe ka ⟨rakyat ieu⟩.",
   "tokens": [
     {
-      "surface": "זכרה לי",
-      "gloss": "pangéling-élingkeun ka abdi"
+      "surface": "זכרה",
+      "gloss": "ingget-paningget"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka abdi"
     },
     {
       "surface": "אלהי",
@@ -17,7 +21,7 @@
     },
     {
       "surface": "לטובה",
-      "gloss": "kanggo kabecikan"
+      "gloss": "ka harepan kabungahan"
     },
     {
       "surface": "כל",
@@ -29,21 +33,21 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "geus kaula lakonan"
+      "gloss": "abdi pigawe"
     },
     {
       "surface": "על",
-      "gloss": "keur"
+      "gloss": "ka"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "⟨rakyat ieu⟩"
     },
     {
       "surface": "הזה",
-      "gloss": "ieu"
+      "gloss": "⟨ieu⟩"
     }
   ],
-  "timestamp": "2026-08-26T15:58:44.247916059Z",
+  "timestamp": "2026-08-26T19:06:44.767959794Z",
   "model": "glm-5.3"
 }

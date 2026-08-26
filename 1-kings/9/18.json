@@ -5,20 +5,20 @@
   "book": "1-kings",
   "lang": "su",
   "chapter": 9,
-  "translation": "Serta ⟨את⟩ Baalat jeung ⟨את⟩ Tamar di padang getih, di ⟨the⟩ tanah.",
+  "translation": "jeung ⟨את⟩ Baalath, jeung ⟨את⟩ Tamar di padang pasir, di tanah ⟨ éta ⟩.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "serta ⟨את⟩",
-      "marks": "Baalat"
+      "gloss": "⟨את⟩",
+      "marks": "Baalath"
     },
     {
       "surface": "בעלת",
-      "gloss": "Baalat"
+      "gloss": "Baalath"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tamar"
     },
     {
@@ -27,13 +27,13 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "di padang getih"
+      "gloss": "di padang pasir"
     },
     {
       "surface": "בארץ",
-      "gloss": "di ⟨the⟩ tanah"
+      "gloss": "di tanah"
     }
   ],
-  "timestamp": "2026-08-26T12:41:03.985122869Z",
+  "timestamp": "2026-08-26T19:03:09.102153030Z",
   "model": "glm-5.3"
 }

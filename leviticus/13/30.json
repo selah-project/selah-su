@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 13,
-  "translation": "jeung niténakeun imam ⟨את⟩ cacarna, jeung tempo panélna jero ti ⟨the⟩ kulit, jeung di jerona aya buuk konéng lemes, jadi ngaramukeun ⟨את⟩ manéhna imam; koreng ⟨is⟩ eta, tzaraat kana sirah atawa janggut eta.",
+  "translation": "Laan imam nempo ⟨את⟩ cacara éta, jeung tempoen rupana leuwih jero batan kulit, sarta aya di jerona buuk konéng lemes, mangka imam ngaram ⟨את⟩ anjeunna: neték — kusta dina sirah atawa janggut.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "jeung niténakeun"
+      "gloss": "laan-nempo"
     },
     {
       "surface": "הכהן",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cacarna"
+      "marks": "cacara"
     },
     {
       "surface": "הנגע",
-      "gloss": "cacarna"
+      "gloss": "cacara"
     },
     {
       "surface": "והנה",
-      "gloss": "jeung tempo"
+      "gloss": "jeung-tempoen"
     },
     {
       "surface": "מראהו",
-      "gloss": "panélna"
+      "gloss": "rupana"
     },
     {
       "surface": "עמק",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "ti"
+      "gloss": "batan"
     },
     {
       "surface": "העור",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ובו",
-      "gloss": "jeung di jerona"
+      "gloss": "jeung-dina-jerona"
     },
     {
       "surface": "שער",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "jeung ngaramukeun"
+      "gloss": "mangka-ngaram"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "manéhna"
+      "marks": "anjeunna"
     },
     {
       "surface": "הכהן",
@@ -75,19 +75,19 @@
     },
     {
       "surface": "נתק",
-      "gloss": "koreng"
+      "gloss": "neték"
     },
     {
       "surface": "הוא",
-      "gloss": "eta"
+      "gloss": "éta"
     },
     {
       "surface": "צרעת",
-      "gloss": "tzaraat"
+      "gloss": "kusta"
     },
     {
       "surface": "הראש",
-      "gloss": "kana sirah"
+      "gloss": "sirah"
     },
     {
       "surface": "או",
@@ -99,9 +99,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "eta"
+      "gloss": "éta"
     }
   ],
-  "timestamp": "2026-08-26T11:16:28.782896069Z",
+  "timestamp": "2026-08-26T18:07:32.033383737Z",
   "model": "glm-5.3"
 }

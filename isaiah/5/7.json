@@ -5,8 +5,77 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 5,
-  "translation": "Sabab kebon anggur Yahwe Tzevaot ⟨⟨nya⟩⟩ éta rumah tangga Israél, jeung jalma Yéhuda tutuwuhan kameumeutanana; Manéha ngaharepan kabeneran, tapi fauna—nota: tingali catetan",
-  "tokens": [],
-  "timestamp": "2026-08-26T13:02:25.763873563Z",
+  "translation": "Sabab kebon anggur Yahwe Tzebaot ⟨are⟩ beit Yisrael, jeung lalaki Yehudah tataman nu dipikanyaahna; sarta ⟨anjeunna⟩ ngaharepkeun katata-tataranana, tapitempo kalolobaanana; kana kabeneran, tapi tempo uger-ugerna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebon anggur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzebaot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "jeung lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "tataman"
+    },
+    {
+      "surface": "שעשועיו",
+      "gloss": "nu dipikanyaahna"
+    },
+    {
+      "surface": "ויקו",
+      "gloss": "sarta ngaharepkeun"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "katata-tataranana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tapi tempo"
+    },
+    {
+      "surface": "משפח",
+      "gloss": "kalolobaanana"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "kana kabeneran"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tapi tempo"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "uger-ugerna"
+    }
+  ],
+  "timestamp": "2026-08-26T18:21:59.733528985Z",
   "model": "glm-5.3"
 }

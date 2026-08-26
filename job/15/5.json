@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "su",
   "chapter": 15,
-  "translation": "Sabab kateuweungan anjeun ngajarkeun ⟪⟨anu⟩⟫ tuang anjeun... sabab pamali anjeun ngajaran bahe anjeun, jeung anjeun milih lisan jalma-jalma pinter licik.",
-  "tokens": [],
-  "timestamp": "2026-08-26T15:08:50.820434960Z",
+  "translation": "Sabab buleud awakmu ngajarkeun ⟨את⟩ tukeur biang irung awakmu, jeung anjeun milih basa nu pinter nipu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "יאלף",
+      "gloss": "ngajarkeun"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "buleud awakmu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tuangeun biang irung awakmu"
+    },
+    {
+      "surface": "ותבחר",
+      "gloss": "jeung milih"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "basa"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "nu pinter nipu"
+    }
+  ],
+  "timestamp": "2026-08-26T18:33:38.420888704Z",
   "model": "glm-5.3"
 }

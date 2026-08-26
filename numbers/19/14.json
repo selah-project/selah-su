@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 19,
-  "translation": "Ieu ⟨the⟩ hukumna: manusa mun maot dina khemah — saha waé nu asup ka éta khemah, sarta sagala nu aya di jero khemah, najis tujuh poé.",
+  "translation": "Ieu ajaranana: mun manusa paéh dina khemah, saha-saha nu asup ka khemah éta jeung sagala nu aya dina khemah éta, bakal taratum tujuh poé.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "Ieu"
+      "gloss": "ieu"
     },
     {
       "surface": "התורה",
-      "gloss": "hukumna"
+      "gloss": "ajaranana"
     },
     {
       "surface": "אדם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ימות",
-      "gloss": "maot"
+      "gloss": "paéh"
     },
     {
       "surface": "באהל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "saha waé"
+      "gloss": "saha-saha"
     },
     {
       "surface": "הבא",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "האהל",
-      "gloss": "éta khemah"
+      "gloss": "khemah éta"
     },
     {
       "surface": "וכל",
-      "gloss": "sarta sagala"
+      "gloss": "jeung sagala"
     },
     {
       "surface": "אשר",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "באהל",
-      "gloss": "di jero khemah"
+      "gloss": "dina khemah"
     },
     {
       "surface": "יטמא",
-      "gloss": "najis"
+      "gloss": "bakal taratum"
     },
     {
       "surface": "שבעת",
@@ -72,6 +72,6 @@
       "gloss": "poé"
     }
   ],
-  "timestamp": "2026-08-26T11:31:57.262171748Z",
+  "timestamp": "2026-08-26T18:09:50.722837133Z",
   "model": "glm-5.3"
 }

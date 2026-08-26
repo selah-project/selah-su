@@ -5,8 +5,73 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 8,
-  "translation": "Teras kajadian dina tungtung tujuh taun, awéwé balik ti taneuh Pelishtim, sarta kaluar sarta ngag赋)",
-  "tokens": [],
-  "timestamp": "2026-08-26T12:53:10.464947029Z",
+  "translation": "Teras kajadian dina tungtungna tujuh taun, awéwé eta balik tina tanah Pelesyét, teras kaluar pikeun ngadu'a ka raja ngeunaan imahna jeung ngeunaan ladangna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Teras kajadian"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dina tungtungna"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "awéwé eta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tina tanah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyét"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "teras kaluar"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "pikeun ngadu'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngeunaan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "imahna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "jeung ngeunaan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladangna"
+    }
+  ],
+  "timestamp": "2026-08-26T18:20:47.834048779Z",
   "model": "glm-5.3"
 }

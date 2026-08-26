@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "su",
   "chapter": 11,
-  "translation": "Teras Moshe nyarita: genep ratus rébu nu leumpang ⟨the⟩ bangsa, nu abdi aya di tengahna, sarta anjeun ngandika: daging kuring bakal kubikeun ka maranehna sarta maranehna dahar salila sabulan poé-poé.",
+  "translation": "Teras Moshe ngandika:ngenep ratus rébu jalma nu leumpang di antara bangsa nu pribadi kuring aya di tengah-tengahna, sarta anjeun geus ngandika:yakin kuring badé méré ⟨את⟩ daging ka maranéhna, sarta maranéhna bakal dahar sasasiwulan lilana.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Teras nyarita"
+      "gloss": "Teras ngandika"
     },
     {
       "surface": "משה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "nu leumpang"
+      "gloss": "jalma nu leumpang"
     },
     {
       "surface": "העם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "abdi"
+      "gloss": "pribadi kuring"
     },
     {
       "surface": "בקרבו",
-      "gloss": "di tengahna"
+      "gloss": "di tengah-tengahna"
     },
     {
       "surface": "ואתה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אמרת",
-      "gloss": "ngandika"
+      "gloss": "geus ngandika"
     },
     {
       "surface": "בשר",
@@ -61,25 +61,26 @@
     },
     {
       "surface": "אתן",
-      "gloss": "kubikeun"
+      "gloss": "badé méré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
     },
     {
       "surface": "להם",
-      "gloss": "ka maranehna"
+      "gloss": "ka maranéhna"
     },
     {
-      "surface": "ואכלו",
-      "gloss": "sarta dahar"
+      "surface": "ו אכלו",
+      "gloss": "sarta maranéhna bakal dahar"
     },
     {
-      "surface": "חדש",
-      "gloss": "sabulan"
-    },
-    {
-      "surface": "ימים",
-      "gloss": "poé-poé"
+      "surface": "חדש ימים",
+      "gloss": "sasasiwulan lilana"
     }
   ],
-  "timestamp": "2026-08-26T11:28:45.629842227Z",
+  "timestamp": "2026-08-26T19:01:21.598323311Z",
   "model": "glm-5.3"
 }

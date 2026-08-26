@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "su",
   "chapter": 133,
-  "translation": "Kawas minyak ⟨the⟩ hadé dina hulunan, nu turun ka janggut — janggut Aharon — nu turun ka sisi baju panjangna.",
+  "translation": "Kalike minyak nu alus dina sirah, nu turun kana janggut, janggutna Aharon, nu turun ka baham papayunganna;",
   "tokens": [
     {
       "surface": "כשמן",
-      "gloss": "kawas minyak"
+      "gloss": "kalike minyak"
     },
     {
       "surface": "הטוב",
-      "gloss": "nu hadé"
+      "gloss": "nu alus"
     },
     {
       "surface": "על",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הראש",
-      "gloss": "hulunan"
+      "gloss": "sirah"
     },
     {
       "surface": "ירד",
-      "gloss": "turun"
+      "gloss": "nu turun"
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "kana"
     },
     {
       "surface": "הזקן",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "פי",
-      "gloss": "sisi"
+      "gloss": "baham"
     },
     {
       "surface": "מדותיו",
-      "gloss": "baju panjangna"
+      "gloss": "papayunganna"
     }
   ],
-  "timestamp": "2026-08-26T14:50:48.222737079Z",
+  "timestamp": "2026-08-26T18:32:43.449480442Z",
   "model": "glm-5.3"
 }

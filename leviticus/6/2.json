@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "su",
   "chapter": 6,
-  "translation": "Parentahkeun ⟨את⟩ Aharon jeung ⟨את⟩ anak-anakna, sangkan nyarita: ieu torat kurban bakar; ⟨דا⟩ kurban bakar ⟨إيه⟩ tetep dina seuneu di luhur mézbah sapanjang peuting nepi ka isuk-isuk, jeung seuneu mézbah kudu tetep huru juang di jerona.",
+  "translation": "Parentahkeun ka ⟨את⟩ Aharon jeung ⟨את⟩ putra-putrana, ceuk: Ieu torat kurban bakaran — ⟨éta⟩ kurban bakaran nu pajangitan dina dapurna luhureun mézbah sapanjang peuting nepi ka fajar, jeung seuneu mézbah kudu terus hurled di jerona.",
   "tokens": [
     {
       "surface": "צו",
@@ -22,20 +22,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "jeung ⟨את⟩",
-      "marks": "anak-anakna"
+      "gloss": "⟨את⟩",
+      "marks": "putra-putrana"
     },
     {
       "surface": "בניו",
-      "gloss": "anak-anakna"
+      "gloss": "putra-putrana"
     },
     {
       "surface": "לאמר",
-      "gloss": "sangkan nyarita"
+      "gloss": "ceuk"
     },
     {
       "surface": "זאת",
-      "gloss": "ieu"
+      "gloss": "Ieu"
     },
     {
       "surface": "תורת",
@@ -43,27 +43,27 @@
     },
     {
       "surface": "העלה",
-      "gloss": "kurban bakar"
+      "gloss": "kurban bakaran"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨يا⟩"
+      "gloss": "⟨éta⟩"
     },
     {
       "surface": "העלה",
-      "gloss": "kurban bakar"
+      "gloss": "kurban bakaran"
     },
     {
       "surface": "על",
-      "gloss": "di luhur"
+      "gloss": "luhureun"
     },
     {
       "surface": "מוקדה",
-      "gloss": "seuneu"
+      "gloss": "dapurna"
     },
     {
       "surface": "על",
-      "gloss": "di luhur"
+      "gloss": "luhureun"
     },
     {
       "surface": "המזבח",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "isuk-isuk"
+      "gloss": "fajar"
     },
     {
       "surface": "ואש",
@@ -95,13 +95,13 @@
     },
     {
       "surface": "תוקד",
-      "gloss": "kudu tetep huru juang"
+      "gloss": "terus hurled"
     },
     {
       "surface": "בו",
       "gloss": "di jerona"
     }
   ],
-  "timestamp": "2026-08-26T11:14:16.664238573Z",
+  "timestamp": "2026-08-26T18:06:19.217665412Z",
   "model": "glm-5.3"
 }

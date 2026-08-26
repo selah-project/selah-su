@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 6,
-  "translation": "Jeung ka dua jalma nu ngajarai ⟨את⟩ ⟨the⟩ tanah, Yehosua ngomong: Piceun ka imah ⟨the⟩ awéwé pelacur, sarta kaluarkeun ti dinya ⟨את⟩ ⟨the⟩ awéwé jeung ⟨את⟩ sakabéh nu bogana, saperti anjeunna sumpah ka manéhna.",
+  "translation": "Jeung ka dua jalma nu ngintip ⟨את⟩ tanah éta, Yehosua ngomong: Asup ka imah awéwé sundal éta, jeung kaluarkun ti dinya ⟨את⟩ awéwé éta jeung ⟨את⟩ sadaya nu bogana, saperti anu geus aranjeun sumpahka ka anjeunna.",
   "tokens": [
     {
       "surface": "ולשנים",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "jalma-jalma"
+      "gloss": "jalma"
     },
     {
       "surface": "המרגלים",
-      "gloss": "nu ngajarai"
+      "gloss": "nu ngintip"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanah"
+      "marks": "tanah éta"
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
+      "gloss": "tanah éta"
     },
     {
       "surface": "אמר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "piceun"
+      "gloss": "asup"
     },
     {
       "surface": "בית",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "הזונה",
-      "gloss": "pelacur"
+      "gloss": "sundal"
     },
     {
       "surface": "והוציאו",
-      "gloss": "sarta kaluarkeun"
+      "gloss": "jeung kaluarkun"
     },
     {
       "surface": "משם",
@@ -63,20 +63,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "awéwé"
+      "marks": "awéwé éta"
     },
     {
       "surface": "האשה",
-      "gloss": "awéwé"
+      "gloss": "awéwé éta"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "sakabéh"
+      "gloss": "jeung ⟨את⟩",
+      "marks": "sadaya nu bogana"
     },
     {
       "surface": "כל",
-      "gloss": "sakabéh"
+      "gloss": "sadaya"
     },
     {
       "surface": "אשר",
@@ -88,17 +88,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "saperti"
+      "gloss": "saperti anu"
     },
     {
       "surface": "נשבעתם",
-      "gloss": "anjeunna sumpah"
+      "gloss": "sumpahka"
     },
     {
       "surface": "לה",
-      "gloss": "ka manéhna"
+      "gloss": "ka anjeunna"
     }
   ],
-  "timestamp": "2026-08-26T11:55:44.870510703Z",
+  "timestamp": "2026-08-26T18:13:54.816935645Z",
   "model": "glm-5.3"
 }

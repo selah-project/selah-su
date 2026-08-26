@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 3,
-  "translation": "Teras ⟨הי⟩ indung sarta ngirim ka Yehoshafat raja Yehuda, nyarita: Raja Moab geus ngalawan ka abdi; badé anjeun indung jeung abdi ⟨את⟩ ka Moab pikeun perang? Sarta anjeunna nyarita: Abdi badé naék; kawas abdi, kawas anjeun; kawas umat abdi, kawas umat anjeun; kawas kuda abdi, kawas kuda anjeun.",
+  "translation": "Lajeng manéhna indit sarta ngirim ka Yehosafat raja Yehuda, nyebutkeun: Raja Moab geus barontak ka abdi; baralanjeun anjeun ⟨את⟩ abdi ka Moab pikeun perang? Sarta anjeuna ngawaler: Abdi bakal naé; saperti abdi, saperti anjeun; saperti umat abdi, saperti umat anjeun; saperti kuda-kuda abdi, saperti kuda-kuda anjeun.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "indung"
+      "gloss": "lajeng manéhna indit"
     },
     {
       "surface": "וישלח",
-      "gloss": "ngirim"
+      "gloss": "sarta ngirim"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Yehoshafat"
+      "gloss": "Yehosafat"
     },
     {
       "surface": "מלך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nyarita"
+      "gloss": "nyebutkeun"
     },
     {
       "surface": "מלך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "פשע",
-      "gloss": "ngalawan"
+      "gloss": "barontak"
     },
     {
       "surface": "בי",
@@ -53,11 +53,12 @@
     },
     {
       "surface": "התלך",
-      "gloss": "badé anjeun indung"
+      "gloss": "baralanjeun anjeun"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ jeung abdi"
+      "gloss": "⟨את⟩",
+      "marks": "abdi"
     },
     {
       "surface": "אל",
@@ -73,37 +74,37 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "nyarita"
+      "gloss": "sarta anjeuna ngawaler"
     },
     {
       "surface": "אעלה",
-      "gloss": "abdi badé naék"
+      "gloss": "abdi bakal naé"
     },
     {
       "surface": "כמוני",
-      "gloss": "kawas abdi"
+      "gloss": "saperti abdi"
     },
     {
       "surface": "כמוך",
-      "gloss": "kawas anjeun"
+      "gloss": "saperti anjeun"
     },
     {
       "surface": "כעמי",
-      "gloss": "kawas umat abdi"
+      "gloss": "saperti umat abdi"
     },
     {
       "surface": "כעמך",
-      "gloss": "kawas umat anjeun"
+      "gloss": "saperti umat anjeun"
     },
     {
       "surface": "כסוסי",
-      "gloss": "kawas kuda abdi"
+      "gloss": "saperti kuda-kuda abdi"
     },
     {
       "surface": "כסוסיך",
-      "gloss": "kawas kuda anjeun"
+      "gloss": "saperti kuda-kuda anjeun"
     }
   ],
-  "timestamp": "2026-08-26T12:49:27.567420013Z",
+  "timestamp": "2026-08-26T18:20:17.313900196Z",
   "model": "glm-5.3"
 }

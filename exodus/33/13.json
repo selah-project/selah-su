@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 33,
-  "translation": "Jaba ayeuna, upami kuring punten meunang kanyaah di payuneun anjeun, béjikeun punten ka kuring ⟨את⟩ jalan anjeun, sangkan kuring ngahartieun anjeun, sangkan kuring meunang kanyaah di payuneun anjeun; sarta tingali, sabab umat anjeun ⟨is⟩ bangsa ieu.",
+  "translation": "Jeung ayeuna, upami kuring meunang kanyaah di payuneun anjeun, béricara kuring kana ⟨את⟩ jalan-anjeun, sangkan kuring nyaho anjeun, sangkan kuring meunang kanyaah di payuneun anjeun; sarta tingali yén ⟨lalampahan⟩ bangsa ieu ⟨éta⟩ ⟨is⟩ umat anjeun.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "jaba ayeuna"
+      "gloss": "jeung ayeuna"
     },
     {
       "surface": "אם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הודעני",
-      "gloss": "béjikeun ka kuring"
+      "gloss": "béricara kuring"
     },
     {
       "surface": "נא",
@@ -42,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jalan anjeun"
+      "marks": "jalan-anjeun"
     },
     {
       "surface": "דרכך",
-      "gloss": "jalan anjeun"
+      "gloss": "jalan-anjeun"
     },
     {
       "surface": "ואדעך",
-      "gloss": "sangkan kuring ngahartieun anjeun"
+      "gloss": "sangkan kuring nyaho anjeun"
     },
     {
       "surface": "למען",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "sabab"
+      "gloss": "yén"
     },
     {
       "surface": "עמך",
@@ -89,6 +89,6 @@
       "gloss": "ieu"
     }
   ],
-  "timestamp": "2026-08-26T11:08:14.984930186Z",
+  "timestamp": "2026-08-26T19:00:37.628049111Z",
   "model": "glm-5.3"
 }

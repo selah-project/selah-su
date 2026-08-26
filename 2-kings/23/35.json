@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "su",
   "chapter": 23,
-  "translation": "Jeung pérak jeung emas dibikeun Yehoyakim ka Paroh; ngan manéhna ngukur ⟨את⟩ taneuh pikeun méré ⟨את⟩ pérak dumugi kana parentah Paroh; unggal jalma sacara ukuranana dipungut ⟨את⟩ pérak jeung ⟨את⟩ emas tina ⟨את⟩ bangsa taneuh, pikeun mikeun ka Paroh Nekoh.",
+  "translation": "Jeung pérak jeung emas ditampa Yehoyakim dipasihan ka Paroh; tapi manéhna netepkeun ajén ⟨את⟩ tanah pikeun mayar ⟨את⟩ pérak luyu jeung parentah Paroh; ti unggal jalma saluyu jeung ajénna manéna neunggeul ⟨את⟩ pérak jeung ⟨את⟩ emas ti ⟨את⟩ jalma-jalma tanah, dipasihan ka Paroh Nekoh.",
   "tokens": [
     {
       "surface": "והכסף",
-      "gloss": "jeung-⟨the⟩-pérak"
+      "gloss": "jeung pérak"
     },
     {
       "surface": "והזהב",
-      "gloss": "jeung-⟨the⟩-emas"
+      "gloss": "jeung emas"
     },
     {
       "surface": "נתן",
-      "gloss": "dibikeun"
+      "gloss": "ditampa … dipasihan"
     },
     {
       "surface": "יהויקים",
@@ -25,28 +25,28 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "ka-Paroh"
+      "gloss": "ka Paroh"
     },
     {
       "surface": "אך",
-      "gloss": "ngan"
+      "gloss": "tapi"
     },
     {
       "surface": "העריך",
-      "gloss": "ngukur"
+      "gloss": "netepkeun ajén"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taneuh"
+      "marks": "tanah"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩-taneuh"
+      "gloss": "tanah"
     },
     {
       "surface": "לתת",
-      "gloss": "pikeun-mikeun"
+      "gloss": "pikeun mayar"
     },
     {
       "surface": "את",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "⟨the⟩-pérak"
+      "gloss": "pérak"
     },
     {
       "surface": "על",
-      "gloss": "dumugi-kana"
+      "gloss": "luyu jeung"
     },
     {
       "surface": "פי",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "unggal-jalma"
+      "gloss": "ti unggal jalma"
     },
     {
       "surface": "כערכו",
-      "gloss": "sacara-ukuranana"
+      "gloss": "saluyu jeung ajénna"
     },
     {
       "surface": "נגש",
-      "gloss": "dipungut"
+      "gloss": "neunggeul"
     },
     {
       "surface": "את",
@@ -88,43 +88,43 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "⟨the⟩-pérak"
+      "gloss": "pérak"
     },
     {
       "surface": "ואת",
-      "gloss": "jeung-⟨את⟩",
+      "gloss": "jeung ⟨את⟩",
       "marks": "emas"
     },
     {
       "surface": "הזהב",
-      "gloss": "⟨the⟩-emas"
+      "gloss": "emas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bangsa taneuh"
+      "marks": "jalma-jalma"
     },
     {
       "surface": "עם",
-      "gloss": "bangsa"
+      "gloss": "jalma-jalma"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩-taneuh"
+      "gloss": "tanah"
     },
     {
       "surface": "לתת",
-      "gloss": "pikeun-mikeun"
+      "gloss": "dipasihan ka"
     },
     {
       "surface": "לפרעה",
-      "gloss": "ka-Paroh"
+      "gloss": "ka Paroh"
     },
     {
       "surface": "נכה",
       "gloss": "Nekoh"
     }
   ],
-  "timestamp": "2026-08-26T13:00:49.465217745Z",
+  "timestamp": "2026-08-26T18:22:04.964477132Z",
   "model": "glm-5.3"
 }

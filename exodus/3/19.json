@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 3,
-  "translation": "Tapi kuring nyaho yén raja Mitsrajim moal méré ⟨את⟩ aranjeun idin pikeun angkat, iwal lamun ku leungeun nu kawasa.",
+  "translation": "Sarta abdi terang yén raja Misir moal ngosongkeun aranjeun pikeun jauh, iwal mun ku leungeun kakuatan.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "tapi kuring"
+      "gloss": "sarta abdi"
     },
     {
       "surface": "ידעתי",
-      "gloss": "nyaho"
+      "gloss": "terang"
     },
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "méré idin"
+      "gloss": "ngosongkeun"
     },
     {
       "surface": "אתכם",
@@ -37,20 +37,16 @@
       "gloss": "raja"
     },
     {
-      "surface": "مצרים",
-      "gloss": "Mitsrajim"
-    },
-    {
       "surface": "מצרים",
-      "gloss": "Mitsrajim"
+      "gloss": "Misir"
     },
     {
-      "surface": "لהלך",
-      "gloss": "pikeun angkat"
+      "surface": "להלך",
+      "gloss": "pikeun jauh"
     },
     {
       "surface": "ולא",
-      "gloss": "iwal lamun henteu"
+      "gloss": "iwal mun"
     },
     {
       "surface": "ביד",
@@ -58,9 +54,9 @@
     },
     {
       "surface": "חזקה",
-      "gloss": "nu kawasa"
+      "gloss": "kakuatan"
     }
   ],
-  "timestamp": "2026-08-26T10:55:55.605187253Z",
+  "timestamp": "2026-08-26T19:00:20.754803171Z",
   "model": "glm-5.3"
 }

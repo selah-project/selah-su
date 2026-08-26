@@ -5,8 +5,57 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 36,
-  "translation": "Jeung anjeunna nyieun tirai pikeun panto yasa ⟨את⟩-panto: binihéan kelir ungu-kabangan, binihéan kelir bangbunguan, binihéan kelir beureum-getih, jeung binihéan garis dipuntir — karyana Nu Nyulam.",
-  "tokens": [],
-  "timestamp": "2026-08-26T11:10:04.294037521Z",
+  "translation": "Jeung manéhna nyieun tirai pikeun panto tenda: binihéng kolot, beureum ngunggal, beureum bilulang (tolaat shyeni), sarta lini dibelit — karya bordir.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "jeung manéhna nyieun"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pikeun panto"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "binihéng kolot"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "beureum ngunggal"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "beureum bilulang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(tolaat shyeni)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sarta lini"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dibelit"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "bordir"
+    }
+  ],
+  "timestamp": "2026-08-26T18:05:23.848449158Z",
   "model": "glm-5.3"
 }

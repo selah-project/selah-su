@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 10,
-  "translation": "Tapi Yahwe nguatkeun ⟨את⟩ ati Firaun, sarta manehna teu мега ngaleupaskeun ⟨את⟩ barbara Israyil.",
+  "translation": "Yahwe nguatkeun ⟨את⟩ haté Paroh, sarta manéhna henteu miceun ⟨את⟩ barudak Israél.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "tapi nguatkeun"
+      "gloss": "nguatkeun"
     },
     {
       "surface": "יהוה",
@@ -18,38 +18,38 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ati Firaun"
+      "marks": "haté"
     },
     {
       "surface": "לב",
-      "gloss": "ati"
+      "gloss": "haté"
     },
     {
       "surface": "פרעה",
-      "gloss": "Firaun"
+      "gloss": "Paroh"
     },
     {
-      "surface": "וילא",
-      "gloss": "sarta teu"
+      "surface": "ולא",
+      "gloss": "sarta henteu"
     },
     {
       "surface": "שלח",
-      "gloss": "ngaleupaskeun"
+      "gloss": "miceun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "barbara Israyil"
+      "marks": "barudak Israél"
     },
     {
       "surface": "בני",
-      "gloss": "barbara"
+      "gloss": "barudak"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyil"
+      "gloss": "Israél"
     }
   ],
-  "timestamp": "2026-08-26T10:57:53.890809827Z",
+  "timestamp": "2026-08-26T18:03:28.109725788Z",
   "model": "glm-5.3"
 }

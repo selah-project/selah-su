@@ -5,15 +5,15 @@
   "book": "ecclesiastes",
   "lang": "su",
   "chapter": 1,
-  "translation": "Nu geus aya, éta ⟨is⟩ nu bakal aya, jeung nu geus dijieun, éta ⟨is⟩ nu bakal dijieun, jeung euweuh nu anyar di handapeun panonpoé.",
+  "translation": "Nu geus aya, éta nu bakal aya; jeung nu geus dipigawé, éta nu bakal dipigawé; jeung euweuh nu anyar di handapeun panonpoé.",
   "tokens": [
     {
       "surface": "מה",
-      "gloss": "naon"
+      "gloss": "nu"
     },
     {
       "surface": "שהיה",
-      "gloss": "nu geus aya"
+      "gloss": "geus aya"
     },
     {
       "surface": "הוא",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שיהיה",
-      "gloss": "nu bakal aya"
+      "gloss": "bakal aya"
     },
     {
       "surface": "ומה",
-      "gloss": "jeung naon"
+      "gloss": "jeung nu"
     },
     {
       "surface": "שנעשה",
-      "gloss": "nu geus dijieun"
+      "gloss": "geus dipigawé"
     },
     {
       "surface": "הוא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שיעשה",
-      "gloss": "nu bakal dijieun"
+      "gloss": "bakal dipigawé"
     },
     {
       "surface": "ואין",
@@ -60,6 +60,6 @@
       "gloss": "panonpoé"
     }
   ],
-  "timestamp": "2026-08-26T15:31:10.320239423Z",
+  "timestamp": "2026-08-26T18:34:57.221536312Z",
   "model": "glm-5.3"
 }

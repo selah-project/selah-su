@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 4,
-  "translation": "jeung sadaya ⟨the⟩ Arabah sisi béh dieu Yarden, ka wétan, nepi ka laut ⟨the⟩ Arabah, di handapeun léngkob Pisgah.",
+  "translation": "jeung sagemblengna stepa-arabah di beulah wétan Yarden, nepi ka laut ⟨di⟩ arabah, di handapeun lereng Pisgah.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "jeung sadaya"
+      "gloss": "jeung sagemblengna"
     },
     {
       "surface": "הערבה",
-      "gloss": "Arabah"
+      "gloss": "stepa-arabah"
     },
     {
       "surface": "עבר",
-      "gloss": "sisi béh dieu"
+      "gloss": "beulah"
     },
     {
       "surface": "הירדן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מזרחה",
-      "gloss": "ka wétan"
+      "gloss": "wétan"
     },
     {
       "surface": "ועד",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הערבה",
-      "gloss": "Arabah"
+      "gloss": "arabah"
     },
     {
       "surface": "תחת",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "אשדת",
-      "gloss": "léngkob"
+      "gloss": "lereng"
     },
     {
       "surface": "הפסגה",
       "gloss": "Pisgah"
     }
   ],
-  "timestamp": "2026-08-26T11:39:38.559242218Z",
+  "timestamp": "2026-08-26T18:11:13.333188969Z",
   "model": "glm-5.3"
 }
