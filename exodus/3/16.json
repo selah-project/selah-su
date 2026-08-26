@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "su",
   "chapter": 3,
-  "translation": "Manggah, kumpulkeun ⟨את⟩ sesepuh Yisrael, sarta anjeun nyarita ka maranehna: Yahwe, Elohim karuhun anjeuneun, geus katémbong ka abdi — Elohim Avraham, Yitsxak, jeung Yaakov — nyarita: Nginget-inget kungsi kuinget ⟨אתכם⟩, jeung ⟨את⟩ nu dipigawé ka anjeuneun di Misrayim.",
+  "translation": "Manggah, kumpulkeun ⟨את⟩ sesepuh Yisrael, sarta anjeun nyarita ka maranehna: Yahwe, Elohim karuhun anjeuneun, geus katémbong ka abdi — Elohim Avraham, Yitsxak, jeung Yaakov — nyarita: Nginget-inget kungsi kuinget ⟨את⟩ ⟨אתכם⟩, jeung ⟨את⟩ nu dipigawé ka anjeuneun di Misrayim.",
   "tokens": [
     {
       "surface": "לך",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "anjeuneun"
     },
     {
@@ -107,6 +107,6 @@
       "gloss": "di-Misrayim"
     }
   ],
-  "timestamp": "2026-08-26T10:56:35.399320865Z",
+  "timestamp": "2026-08-26T17:58:38.100054562Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 28,
-  "translation": "Ieu kecap-kecap perjangjian anu diparentahkeun ku Yahwe ka ⟨את⟩ Moshe pikeun ngajieun ⟨את⟩ putra-putra Yisrael di tanah Moab, salian ti perjangjian anu dipasrahkeun ⟨אתם⟩ di Horev.",
+  "translation": "Ieu kecap-kecap perjangjian anu diparentahkeun ku Yahwe ka ⟨את⟩ Moshe pikeun ngajieun ⟨את⟩ putra-putra Yisrael di tanah Moab, salian ti perjangjian anu dipasrahkeun ⟨את⟩ ⟨אתם⟩ di Horev.",
   "tokens": [
     {
       "surface": "אלה",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "jeung maranéhna"
     },
     {
@@ -91,6 +91,6 @@
       "gloss": "di Horev"
     }
   ],
-  "timestamp": "2026-08-26T11:49:31.049890275Z",
+  "timestamp": "2026-08-26T17:58:38.108312698Z",
   "model": "glm-5.3"
 }

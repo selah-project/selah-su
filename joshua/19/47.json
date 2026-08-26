@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "su",
   "chapter": 19,
-  "translation": "Jeung wates putra-putra Dan kaluar ti ⟨ Loréng ⟩, jeung putra-putra Dan naék sarta perang ngalawan Lésyem, sarta aranjeunna nabandakeun ⟨ את → aranjeunna ⟩ munggaran, tuluy aranjeunna ngaranjakeun ⟨ את → Lésyem ⟩ ku seuseukeut pedang, jeung aranjeunna numuangan ⟨ את → Lésyem ⟩, jeung aranjeunna cicing di jerona, jeung aranjeunna ngaranna Lésyem Dan, nurutkeun ngaran Dan bapa maranehna.",
+  "translation": "Jeung wates putra-putra Dan kaluar ti ⟨ Loréng ⟩, jeung putra-putra Dan naék sarta perang ngalawan Lésyem, sarta aranjeunna nabandakeun ⟨את⟩ ⟨ את → aranjeunna ⟩ munggaran, tuluy aranjeunna ngaranjakeun ⟨ את → Lésyem ⟩ ku seuseukeut pedang, jeung aranjeunna numuangan ⟨ את → Lésyem ⟩, jeung aranjeunna cicing di jerona, jeung aranjeunna ngaranna Lésyem Dan, nurutkeun ngaran Dan bapa maranehna.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨ את → aranjeunna ⟩",
+      "gloss": "⟨את⟩ ⟨ את → aranjeunna ⟩",
       "marks": "Lésyem"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨ את → Lésyem ⟩",
+      "gloss": "⟨את⟩ ⟨ את → Lésyem ⟩",
       "marks": "Lésyem"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨ את → Lésyem ⟩",
+      "gloss": "⟨את⟩ ⟨ את → Lésyem ⟩",
       "marks": "Lésyem"
     },
     {
@@ -119,6 +119,6 @@
       "gloss": "bapa maranehna"
     }
   ],
-  "timestamp": "2026-08-26T11:59:41.501618688Z",
+  "timestamp": "2026-08-26T17:58:38.116750565Z",
   "model": "glm-5.3"
 }

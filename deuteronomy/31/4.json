@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "su",
   "chapter": 31,
-  "translation": "Sarta Yahwe baris ngalakukeun ka maranehna sakumaha anu geus dipigawé ka Sihon sarta ka Og, raja-raja Émori, sarta ka nagarana, anu geus diancurkeunana ⟨אתם⟩.",
+  "translation": "Sarta Yahwe baris ngalakukeun ka maranehna sakumaha anu geus dipigawé ka Sihon sarta ka Og, raja-raja Émori, sarta ka nagarana, anu geus diancurkeunana ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -57,10 +57,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "Sihon sarta Og"
     }
   ],
-  "timestamp": "2026-08-26T11:51:37.234867194Z",
+  "timestamp": "2026-08-26T17:58:38.108972070Z",
   "model": "glm-5.3"
 }

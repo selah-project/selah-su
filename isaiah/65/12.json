@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "su",
   "chapter": 65,
-  "translation": "Jeung kuring baris nangtungkeun anjeun ⟨אתכם⟩ pikeun pedang, jeung anjeun sadayana baris lungguh ka pembantayan; sabab kuring ngagero jeung anjeun teu ngajawab, kuring nyarita jeung anjeun teu ngadenge; tapi anjeun milampah nu goreng di panon kuring, jeung nu henteu kuring resep anjeun milih.",
+  "translation": "Jeung kuring baris nangtungkeun anjeun ⟨את⟩ ⟨אתכם⟩ pikeun pedang, jeung anjeun sadayana baris lungguh ka pembantayan; sabab kuring ngagero jeung anjeun teu ngajawab, kuring nyarita jeung anjeun teu ngadenge; tapi anjeun milampah nu goreng di panon kuring, jeung nu henteu kuring resep anjeun milih.",
   "tokens": [
     {
       "surface": "ומניתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "anjeun"
     },
     {
@@ -89,6 +89,6 @@
       "gloss": "anjeun milih"
     }
   ],
-  "timestamp": "2026-08-26T13:20:50.068766753Z",
+  "timestamp": "2026-08-26T17:58:38.114008942Z",
   "model": "glm-5.3"
 }
