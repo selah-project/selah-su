@@ -68,3 +68,8 @@ aturanana, jeung sumberna, jeung kasaluyuanana — tiasa nampi,
 ngasakan babarengan sareng anjeun, ngantosan bukti salajengna,
 atawa nolak kalayan alesan. Nu dipeunteun téh kecapna — lain
 jalmana.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
